@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4.or\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-09-15 09:38+0200\n"
+"POT-Creation-Date: 2008-09-16 09:36+0200\n"
 "PO-Revision-Date: 2008-07-11 16:25+0530\n"
 "Last-Translator: Manoj Kumar Giri <giri.manojkr@gmail.com>\n"
 "Language-Team: Oriya\n"
@@ -5454,24 +5454,24 @@ msgstr "ପୂର୍ବ ପଦକ୍ଷେପ"
 msgid "Undo"
 msgstr "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ"
 
-#: kdeui/util/ksystemtrayicon.cpp:133
+#: kdeui/util/ksystemtrayicon.cpp:155
 msgid "Minimize"
 msgstr "କ୍ଷୁଦ୍ରତମ କରନ୍ତୁ"
 
-#: kdeui/util/ksystemtrayicon.cpp:192
+#: kdeui/util/ksystemtrayicon.cpp:214
 msgid "&Minimize"
 msgstr "କ୍ଷୁଦ୍ରତମ କରନ୍ତୁ (&M)"
 
-#: kdeui/util/ksystemtrayicon.cpp:196
+#: kdeui/util/ksystemtrayicon.cpp:218
 msgid "&Restore"
 msgstr "ପୁନଃସ୍ଥାପନ କରନ୍ତୁ (&R)"
 
-#: kdeui/util/ksystemtrayicon.cpp:216
+#: kdeui/util/ksystemtrayicon.cpp:238
 #, kde-format
 msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
 msgstr "<qt>ଆପଣ ନିଶ୍ଚିତକି ଆପଣ ବିଦାୟ ନେବାକୁ ଚାହୁଁଛନ୍ତି <b>%1</b>?</qt>"
 
-#: kdeui/util/ksystemtrayicon.cpp:219
+#: kdeui/util/ksystemtrayicon.cpp:241
 msgid "Confirm Quit From System Tray"
 msgstr "ତନ୍ତ୍ର ଧାରକରୁ ବିଦାୟନେବାକୁ ନିଶ୍ଚିତ କରନ୍ତୁ"
 
@@ -6116,7 +6116,8 @@ msgstr "%1 ବିଷୟରେ"
 msgid "Configure"
 msgstr "ବିନ୍ଯାସ କରନ୍ତୁ"
 
-#: kdeui/dialogs/kshortcutseditoritem.cpp:66
+#. i18n filtering message requested by translators (scripting).
+#: kdeui/dialogs/kshortcutseditoritem.cpp:43
 #, kde-format
 msgctxt "@item:intable Action name in shortcuts configuration"
 msgid "%1"
