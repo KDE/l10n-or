@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4.or\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-10-02 09:44+0200\n"
+"POT-Creation-Date: 2008-10-03 09:40+0200\n"
 "PO-Revision-Date: 2008-07-11 16:25+0530\n"
 "Last-Translator: Manoj Kumar Giri <giri.manojkr@gmail.com>\n"
 "Language-Team: Oriya\n"
@@ -3181,11 +3181,11 @@ msgstr "ଲାଇବ୍ରେରୀ %1 KDE 4 ସୁସଙ୍ଗତ କାରଖ�
 msgid "The plugin '%1' uses an incompatible KDE library (%2)."
 msgstr "ପ୍ଲଗଇନ '%1' ଗୋଟିଏ ଅସଙ୍ଗତ KDE ଲାଇବ୍ରେରୀ (%2) ବ୍ୟବହାର କରେ।"
 
-#: kdecore/config/kconfig.cpp:670
+#: kdecore/config/kconfig.cpp:667
 msgid "Please contact your system administrator."
 msgstr "ଦୟାକରି ଆପଣଙ୍କର ତନ୍ତ୍ର ପ୍ରଶାସକଙ୍କ ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ।"
 
-#: kdecore/config/kconfigini.cpp:495
+#: kdecore/config/kconfigini.cpp:511
 #, kde-format
 msgid "Configuration file \"%1\" not writable.\n"
 msgstr "ବିନ୍ୟାସିତ ଫାଇଲ \"%1\" ଲେଖାଯୋଗ୍ୟ ନୁହଁ।\n"
@@ -5888,6 +5888,12 @@ msgstr ""
 msgid "Configure Shortcuts"
 msgstr "ସଂକ୍ଷିପ୍ତ ପଥ ବିନ୍ୟାସ କରନ୍ତୁ"
 
+#: kdeui/dialogs/kshortcutsdialog.cpp:113
+#, fuzzy
+#| msgid "&Defaults"
+msgid "Reset to Defaults"
+msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ (&D)"
+
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:42
 #, fuzzy
 #| msgid "Shortcuts"
@@ -6176,8 +6182,8 @@ msgstr ""
 msgid "Reset Toolbars"
 msgstr "ସାଧନପଟିଗୁଡିକୁ ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ"
 
-#: kdeui/dialogs/kedittoolbar.cpp:526 khtml/khtmlview.cpp:2948
-#: khtml/khtmlview.cpp:2981 khtml/html/html_formimpl.cpp:2190
+#: kdeui/dialogs/kedittoolbar.cpp:526 khtml/khtmlview.cpp:2953
+#: khtml/khtmlview.cpp:2986 khtml/html/html_formimpl.cpp:2157
 msgid "Reset"
 msgstr "ପୁନଃସ୍ଥାପନ କରନ୍ତୁ"
 
@@ -9476,37 +9482,37 @@ msgstr "ଅଞ୍ଚଳ"
 msgid "Comment"
 msgstr "ଟିପ୍ପଣୀ"
 
-#: kdeui/widgets/ktextedit.cpp:407 kde3support/kdeui/k3textedit.cpp:232
+#: kdeui/widgets/ktextedit.cpp:423 kde3support/kdeui/k3textedit.cpp:232
 msgid "Check Spelling..."
 msgstr "ବନାନ ଯାଞ୍ଚକରନ୍ତୁ..."
 
-#: kdeui/widgets/ktextedit.cpp:410 kde3support/kdeui/k3textedit.cpp:238
+#: kdeui/widgets/ktextedit.cpp:426 kde3support/kdeui/k3textedit.cpp:238
 msgid "Auto Spell Check"
 msgstr "ସ୍ୱୟଂ ବନାନ ଯାଞ୍ଚ"
 
-#: kdeui/widgets/ktextedit.cpp:414 kde3support/kdeui/k3textedit.cpp:242
+#: kdeui/widgets/ktextedit.cpp:430 kde3support/kdeui/k3textedit.cpp:242
 msgid "Allow Tabulations"
 msgstr "ସାରଣୀକରଣକୁ ଅନୁମତି ଦିଅନ୍ତୁ"
 
-#: kdeui/widgets/ktextedit.cpp:509
+#: kdeui/widgets/ktextedit.cpp:525
 #, fuzzy
 #| msgid "Suggestion List"
 msgid "Suggestions"
 msgstr "ପ୍ରସ୍ତାବ ସୂଚୀ"
 
-#: kdeui/widgets/ktextedit.cpp:511
+#: kdeui/widgets/ktextedit.cpp:527
 #, fuzzy
 #| msgid "&Ignore"
 msgid "Ignore"
 msgstr "ଅଗ୍ରାହ୍ଯ କରନ୍ତୁ (&I)"
 
-#: kdeui/widgets/ktextedit.cpp:512
+#: kdeui/widgets/ktextedit.cpp:528
 #, fuzzy
 #| msgid "<< Add to Dictionary"
 msgid "Add to Dictionary"
 msgstr "<< ଅଭିଧାନରେ ଯୋଗ କରନ୍ତୁ"
 
-#: kdeui/widgets/ktextedit.cpp:658
+#: kdeui/widgets/ktextedit.cpp:674
 msgid "Nothing to spell check."
 msgstr "ବନାନ ଯାଞ୍ଚ କରିବାକୁ କିଛିନାହିଁ।"
 
@@ -10178,8 +10184,8 @@ msgstr ""
 "<qt>ଏହି ଫର୍ମଟି ଦାଖଲ ହେବ <br /><b>%1</b><br />ଆପଣଙ୍କର ସ୍ଥାନୀୟ ଫାଇଲତନ୍ତ୍ରରେ।<br />ଆପଣ "
 "ଏହି ଫର୍ମକୁ ଦାଖଲ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?</qt>"
 
-#: khtml/khtml_part.cpp:4941 khtml/khtmlview.cpp:2934 khtml/khtmlview.cpp:2976
-#: khtml/html/html_formimpl.cpp:1590 khtml/html/html_formimpl.cpp:2198
+#: khtml/khtml_part.cpp:4941 khtml/khtmlview.cpp:2939 khtml/khtmlview.cpp:2981
+#: khtml/html/html_formimpl.cpp:1579 khtml/html/html_formimpl.cpp:2165
 msgid "Submit"
 msgstr "ଦାଖଲ କରନ୍ତୁ"
 
@@ -10288,39 +10294,39 @@ msgstr ""
 msgid "Remove from ignores..."
 msgstr ""
 
-#: khtml/khtmlview.cpp:1906
+#: khtml/khtmlview.cpp:1911
 msgid "Find stopped."
 msgstr "ଖୋଜିବା ବନ୍ଦ ହୋଇଯାଇଛି।"
 
-#: khtml/khtmlview.cpp:1917
+#: khtml/khtmlview.cpp:1922
 msgid "Starting -- find links as you type"
 msgstr ""
 
-#: khtml/khtmlview.cpp:1923
+#: khtml/khtmlview.cpp:1928
 msgid "Starting -- find text as you type"
 msgstr ""
 
-#: khtml/khtmlview.cpp:1946
+#: khtml/khtmlview.cpp:1951
 #, kde-format
 msgid "Link found: \"%1\"."
 msgstr "ସଂଯୋଗ ମିଳିଲା: \"%1\"।"
 
-#: khtml/khtmlview.cpp:1951
+#: khtml/khtmlview.cpp:1956
 #, kde-format
 msgid "Link not found: \"%1\"."
 msgstr "ସଂଯୋଗ ମିଳିଲା ନାହିଁ: \"%1\"।"
 
-#: khtml/khtmlview.cpp:1959
+#: khtml/khtmlview.cpp:1964
 #, kde-format
 msgid "Text found: \"%1\"."
 msgstr "ପାଠ୍ୟ ମିଳିଲା: \"%1\"।"
 
-#: khtml/khtmlview.cpp:1964
+#: khtml/khtmlview.cpp:1969
 #, kde-format
 msgid "Text not found: \"%1\"."
 msgstr "ପାଠ୍ୟ ମିଳିଲା ନାହିଁ: \"%1\"।"
 
-#: khtml/khtmlview.cpp:2012
+#: khtml/khtmlview.cpp:2017
 msgid "Access Keys activated"
 msgstr ""
 
@@ -10432,7 +10438,7 @@ msgstr "JavaScript"
 msgid "&Abort"
 msgstr "ବିଷୟରେ (&A)"
 
-#: khtml/ecma/kjs_window.cpp:1581 khtml/ecma/kjs_html.cpp:2121
+#: khtml/ecma/kjs_window.cpp:1581 khtml/ecma/kjs_html.cpp:2111
 msgid "Confirmation: JavaScript Popup"
 msgstr "ନିଶ୍ଚତତା: JavaScript ପପ୍ ଅପ୍"
 
@@ -10449,11 +10455,11 @@ msgid ""
 "JavaScript.<br />Do you want to allow this?</qt>"
 msgstr ""
 
-#: khtml/ecma/kjs_window.cpp:1589 khtml/ecma/kjs_html.cpp:2128
+#: khtml/ecma/kjs_window.cpp:1589 khtml/ecma/kjs_html.cpp:2118
 msgid "Allow"
 msgstr "ସ୍ବୀକାର କରନ୍ତୁ"
 
-#: khtml/ecma/kjs_window.cpp:1589 khtml/ecma/kjs_html.cpp:2128
+#: khtml/ecma/kjs_window.cpp:1589 khtml/ecma/kjs_html.cpp:2118
 msgid "Do Not Allow"
 msgstr "ଅନୁମତି ଦିଅନ୍ତୁନାହିଁ"
 
@@ -10491,14 +10497,14 @@ msgstr "ଭର୍ତ୍ତୀ କରନ୍ତୁ"
 msgid "Disallow"
 msgstr "ଅସ୍ବୀକାର କରନ୍ତୁ"
 
-#: khtml/ecma/kjs_html.cpp:2123
+#: khtml/ecma/kjs_html.cpp:2113
 msgid ""
 "This site is submitting a form which will open up a new browser window via "
 "JavaScript.\n"
 "Do you want to allow the form to be submitted?"
 msgstr ""
 
-#: khtml/ecma/kjs_html.cpp:2126
+#: khtml/ecma/kjs_html.cpp:2116
 #, kde-format
 msgid ""
 "<qt>This site is submitting a form which will open <p>%1</p> in a new "
@@ -10658,7 +10664,7 @@ msgid ""
 "information next time you visit %1. Do you want to store the information now?"
 msgstr ""
 
-#: khtml/html/html_formimpl.cpp:2579
+#: khtml/html/html_formimpl.cpp:2546
 msgid "Key Generator"
 msgstr "କି ସୃଷ୍ଟିକର୍ତ୍ତା"
 
