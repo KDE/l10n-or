@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4.or\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-10-04 10:34+0200\n"
+"POT-Creation-Date: 2008-10-07 09:43+0200\n"
 "PO-Revision-Date: 2008-07-11 16:25+0530\n"
 "Last-Translator: Manoj Kumar Giri <giri.manojkr@gmail.com>\n"
 "Language-Team: Oriya\n"
@@ -780,13 +780,13 @@ msgstr "ମୁଖ୍ୟ ସାଧନପଟି"
 
 #. i18n: file: kdeui/widgets/kshortcutwidget.ui:22
 #. i18n: ectx: property (text), widget (QLabel, priLabel)
-#: rc.cpp:336 kdeui/dialogs/kshortcutseditor.cpp:580
+#: rc.cpp:336 kdeui/dialogs/kshortcutseditor.cpp:582
 msgid "Main:"
 msgstr "ମୁଖ୍ୟ:"
 
 #. i18n: file: kdeui/widgets/kshortcutwidget.ui:52
 #. i18n: ectx: property (text), widget (QLabel, altLabel)
-#: rc.cpp:339 kdeui/dialogs/kshortcutseditor.cpp:581
+#: rc.cpp:339 kdeui/dialogs/kshortcutseditor.cpp:583
 msgid "Alternate:"
 msgstr "ବିକଳ୍ପ:"
 
@@ -4903,7 +4903,7 @@ msgid "Name"
 msgstr "ନାମ"
 
 #: knewstuff/knewstuff2/ui/kdxstranslation.cpp:49
-#: kdeui/dialogs/kshortcutseditor.cpp:605
+#: kdeui/dialogs/kshortcutseditor.cpp:607
 msgid "Description"
 msgstr "ବର୍ଣ୍ଣନା"
 
@@ -6246,51 +6246,50 @@ msgstr "%1"
 msgid "Change Icon"
 msgstr "ଚିତ୍ର ସଂକେତ ପରିବର୍ତ୍ତନ କରନ୍ତୁ"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:114
-#: kdeui/dialogs/kshortcutseditor.cpp:601
-msgid "Shortcuts"
-msgstr "ସଂକ୍ଷିପ୍ତ ପଥ"
-
-#: kdeui/dialogs/kshortcutseditor.cpp:504
-#: kdeui/dialogs/kshortcutseditor.cpp:520
+#: kdeui/dialogs/kshortcutseditor.cpp:506
+#: kdeui/dialogs/kshortcutseditor.cpp:522
 #: kdeui/widgets/kkeysequencewidget.cpp:152
 msgid "Key Conflict"
 msgstr "କି ଦ୍ୱନ୍ଦ"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:505
+#: kdeui/dialogs/kshortcutseditor.cpp:507
 #, kde-format
 msgid ""
 "The '%1' shape gesture has already been allocated to the \"%2\" action.\n"
 "Do you want to reassign it from that action to the current one?"
 msgstr ""
 
-#: kdeui/dialogs/kshortcutseditor.cpp:509
-#: kdeui/dialogs/kshortcutseditor.cpp:525 kdeui/shortcuts/kglobalaccel.cpp:439
+#: kdeui/dialogs/kshortcutseditor.cpp:511
+#: kdeui/dialogs/kshortcutseditor.cpp:527 kdeui/shortcuts/kglobalaccel.cpp:439
 #: kdeui/widgets/kkeysequencewidget.cpp:160
 #: kdeui/widgets/kkeysequencewidget.cpp:481
 msgid "Reassign"
 msgstr "ପୁନଃ ନିରୂପଣ କରିବା"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:521
+#: kdeui/dialogs/kshortcutseditor.cpp:523
 #, kde-format
 msgid ""
 "The '%1' rocker gesture has already been allocated to the \"%2\" action.\n"
 "Do you want to reassign it from that action to the current one?"
 msgstr ""
 
-#: kdeui/dialogs/kshortcutseditor.cpp:562
+#: kdeui/dialogs/kshortcutseditor.cpp:564
 #, kde-format
 msgctxt "header for an applications shortcut list"
 msgid "Shortcuts for %1"
 msgstr "%1 ପାଇଁ ସଂକ୍ଷିପ୍ତ ପଥ"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:582
+#: kdeui/dialogs/kshortcutseditor.cpp:584
 msgid "Global:"
 msgstr "ଜାଗତିକ:"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:597
+#: kdeui/dialogs/kshortcutseditor.cpp:599
 msgid "Action Name"
 msgstr "କାର୍ଯ୍ୟ ନାମ"
+
+#: kdeui/dialogs/kshortcutseditor.cpp:603
+msgid "Shortcuts"
+msgstr "ସଂକ୍ଷିପ୍ତ ପଥ"
 
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:65
 msgid ""
@@ -7810,31 +7809,31 @@ msgctxt "@action"
 msgid "About KDE"
 msgstr "KDE ବିଷୟରେ"
 
-#: kdeui/shortcuts/kcheckaccelerators.cpp:245
+#: kdeui/shortcuts/kcheckaccelerators.cpp:209
 msgctxt "@title:window"
 msgid "Dr. Klash' Accelerator Diagnosis"
 msgstr "Dr. Klash' ତ୍ୱରକ ନିରୁପଣ"
 
-#: kdeui/shortcuts/kcheckaccelerators.cpp:254
+#: kdeui/shortcuts/kcheckaccelerators.cpp:218
 msgctxt "@option:check"
 msgid "Disable automatic checking"
 msgstr "ସ୍ୱୟଂ ଯାଞ୍ଚକୁ ନିଷ୍କ୍ରିୟ କରନ୍ତୁ"
 
-#: kdeui/shortcuts/kcheckaccelerators.cpp:258
+#: kdeui/shortcuts/kcheckaccelerators.cpp:222
 #: kdeui/widgets/kdatepicker.cpp:708
 msgctxt "@action:button"
 msgid "Close"
 msgstr "ବନ୍ଦ କରନ୍ତୁ"
 
-#: kdeui/shortcuts/kcheckaccelerators.cpp:294
+#: kdeui/shortcuts/kcheckaccelerators.cpp:258
 msgid "<h2>Accelerators changed</h2>"
 msgstr "<h2>ତ୍ୱରକଗୁଡିକୁ ପରିବର୍ତ୍ତନ କରାଯାଇଛି</h2>"
 
-#: kdeui/shortcuts/kcheckaccelerators.cpp:300
+#: kdeui/shortcuts/kcheckaccelerators.cpp:264
 msgid "<h2>Accelerators removed</h2>"
 msgstr "<h2>ତ୍ୱରକଗୁଡିକୁ ହଟାଇ ଦିଆଯାଇଛି</h2>"
 
-#: kdeui/shortcuts/kcheckaccelerators.cpp:305
+#: kdeui/shortcuts/kcheckaccelerators.cpp:269
 msgid "<h2>Accelerators added (just for your info)</h2>"
 msgstr "<h2>ତ୍ୱରକଗୁଡିକୁ ଯୋଗକରାଯାଇଛି (କେବଳ ଆପଣଙ୍କର ସୂଚନା ପାଇଁ)</h2>"
 
@@ -10339,16 +10338,16 @@ msgstr ""
 msgid "GUI for the khtml regression tester"
 msgstr ""
 
-#: khtml/xml/xml_tokenizer.cpp:320
+#: khtml/xml/xml_tokenizer.cpp:324
 msgid "the document is not in the correct file format"
 msgstr ""
 
-#: khtml/xml/xml_tokenizer.cpp:326
+#: khtml/xml/xml_tokenizer.cpp:330
 #, kde-format
 msgid "fatal parsing error: %1 in line %2, column %3"
 msgstr ""
 
-#: khtml/xml/xml_tokenizer.cpp:485
+#: khtml/xml/xml_tokenizer.cpp:513
 msgid "XML parsing error"
 msgstr ""
 
@@ -11102,19 +11101,19 @@ msgstr "Ian Reinhart Geiser"
 msgid "Daniel Molkentin"
 msgstr "Daniel Molkentin"
 
-#: nepomuk/core/resource.cpp:405
+#: nepomuk/core/resource.cpp:411
 msgid "Success"
 msgstr "ସଫଳ"
 
-#: nepomuk/core/resource.cpp:407
+#: nepomuk/core/resource.cpp:413
 msgid "Communication error"
 msgstr "ସଞ୍ଚାର ତ୍ରୁଟି"
 
-#: nepomuk/core/resource.cpp:409
+#: nepomuk/core/resource.cpp:415
 msgid "Invalid type in Database"
 msgstr "ତଥ୍ୟାବଳୀରେ ଅବୈଧ ଟାଇପ"
 
-#: nepomuk/core/resource.cpp:411
+#: nepomuk/core/resource.cpp:417
 msgid "Unknown error"
 msgstr "ଅଜଣା ତ୍ରୁଟି"
 
