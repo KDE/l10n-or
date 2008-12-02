@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4.or\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-12-01 10:25+0100\n"
+"POT-Creation-Date: 2008-12-02 10:41+0100\n"
 "PO-Revision-Date: 2008-07-11 16:25+0530\n"
 "Last-Translator: Manoj Kumar Giri <giri.manojkr@gmail.com>\n"
 "Language-Team: Oriya\n"
@@ -1036,7 +1036,7 @@ msgstr "ପୂର୍ବବର୍ତ୍ତୀ (&P)"
 #: rc.cpp:471
 #, fuzzy
 #| msgid "Options"
-msgid "&Options"
+msgid "Opt&ions"
 msgstr "ବିକଳ୍ପଗୁଡିକ"
 
 #. i18n: file: kross/test/testguiform.ui:44
@@ -3501,60 +3501,66 @@ msgstr ""
 msgid "applies the Qt stylesheet to the application widgets"
 msgstr ""
 
-#: kdecore/kernel/kcmdlineargs.cpp:306
+#: kdecore/kernel/kcmdlineargs.cpp:305
+msgid ""
+"use a different graphics system instead of the default one, options are "
+"raster and opengl (experimental)"
+msgstr ""
+
+#: kdecore/kernel/kcmdlineargs.cpp:308
 msgid "Use 'caption' as name in the titlebar"
 msgstr "ଶୀର୍ଷକ ପଟିରେ 'ଶୀର୍ଷକ'କୁ ନାମ ଆକାରରେ ବ୍ୟବହାର କରନ୍ତୁ"
 
-#: kdecore/kernel/kcmdlineargs.cpp:307
+#: kdecore/kernel/kcmdlineargs.cpp:309
 msgid "Use 'icon' as the application icon"
 msgstr "'ଚିତ୍ରସଂଙ୍କେତ'କୁ ପ୍ରୟୋଗ ଚିତ୍ରସଂଙ୍କେତ ଆକାରରେ ବ୍ୟବହାର କରନ୍ତୁ"
 
-#: kdecore/kernel/kcmdlineargs.cpp:308
+#: kdecore/kernel/kcmdlineargs.cpp:310
 msgid "Use alternative configuration file"
 msgstr "ବିକଳ୍ପ ବିନ୍ୟାସ ଫାଇଲ ବ୍ୟବହାର କରନ୍ତୁ"
 
-#: kdecore/kernel/kcmdlineargs.cpp:309
+#: kdecore/kernel/kcmdlineargs.cpp:311
 msgid "Disable crash handler, to get core dumps"
 msgstr "କୋର ଡମ୍ପ ପାଇବାକୁ ହେଲେ, ଦୁର୍ଘଟଣା ନିୟନ୍ତ୍ରକକୁ ନିଷ୍କ୍ରିୟ କରନ୍ତୁ"
 
-#: kdecore/kernel/kcmdlineargs.cpp:311
+#: kdecore/kernel/kcmdlineargs.cpp:313
 msgid "Waits for a WM_NET compatible windowmanager"
 msgstr "WM_NET ସୁସଂଗତ ୱିଣ୍ଡୋ ପରିଚାଳକକୁ ଅପେକ୍ଷାକରନ୍ତୁ"
 
-#: kdecore/kernel/kcmdlineargs.cpp:313
+#: kdecore/kernel/kcmdlineargs.cpp:315
 msgid "sets the application GUI style"
 msgstr "ପ୍ରୟୋଗକୁ GUI ଶୈଳୀରେ ବିନ୍ୟାସ କରେ"
 
-#: kdecore/kernel/kcmdlineargs.cpp:314
+#: kdecore/kernel/kcmdlineargs.cpp:316
 msgid ""
 "sets the client geometry of the main widget - see man X for the argument "
 "format"
 msgstr ""
 
-#: kdecore/kernel/kcmdlineargs.cpp:431
+#: kdecore/kernel/kcmdlineargs.cpp:433
 msgid "KDE Application"
 msgstr "KDE ପ୍ରୟୋଗ"
 
-#: kdecore/kernel/kcmdlineargs.cpp:488
+#: kdecore/kernel/kcmdlineargs.cpp:490
 msgid "Qt"
 msgstr "Qt"
 
-#: kdecore/kernel/kcmdlineargs.cpp:491 khtml/khtml_part.cpp:4664
+#: kdecore/kernel/kcmdlineargs.cpp:493 khtml/khtml_part.cpp:4664
 msgid "KDE"
 msgstr "KDE"
 
-#: kdecore/kernel/kcmdlineargs.cpp:799 kdecore/kernel/kcmdlineargs.cpp:819
+#: kdecore/kernel/kcmdlineargs.cpp:801 kdecore/kernel/kcmdlineargs.cpp:821
 #, kde-format
 msgid "Unknown option '%1'."
 msgstr "ଅଜଣା ବିକଳ୍ପ '%1'।"
 
-#: kdecore/kernel/kcmdlineargs.cpp:827
+#: kdecore/kernel/kcmdlineargs.cpp:829
 #, kde-format
 msgctxt "@info:shell %1 is cmdoption name"
 msgid "'%1' missing."
 msgstr "'%1' ଅନୁପସ୍ଥିତ।"
 
-#: kdecore/kernel/kcmdlineargs.cpp:912
+#: kdecore/kernel/kcmdlineargs.cpp:914
 #, kde-format
 msgctxt "the 2nd argument is a list of name+address, one on each line"
 msgid ""
@@ -3564,43 +3570,43 @@ msgstr ""
 "%1 ଟି %2 ଦ୍ୱାରା \n"
 "ଲିଖିତ"
 
-#: kdecore/kernel/kcmdlineargs.cpp:915
+#: kdecore/kernel/kcmdlineargs.cpp:917
 msgid "This application was written by somebody who wants to remain anonymous."
 msgstr "ଏହି ପ୍ରୟୋଗଟି ଜଣକ ଦ୍ୱାରା ଲିଖିତ ଯିଏକି ଅଜ୍ଞାତ ହୋଇ ରହିବାକୁ ଚାହୁଁଅଛି।"
 
-#: kdecore/kernel/kcmdlineargs.cpp:922
+#: kdecore/kernel/kcmdlineargs.cpp:924
 msgid "Please use http://bugs.kde.org to report bugs.\n"
 msgstr "ଦୟାକରି ତ୍ରୁଟି ପ୍ରକାଶ କରିବା ପାଇଁ http://bugs.kde.org କୁ ବ୍ୟବହାର କରନ୍ତୁ।\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:924
+#: kdecore/kernel/kcmdlineargs.cpp:926
 #, kde-format
 msgid "Please report bugs to %1.\n"
 msgstr "ଦୟାକରି %1 ରେ ତ୍ରୁଟି ପ୍ରକାଶ କରନ୍ତୁ।\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:950
+#: kdecore/kernel/kcmdlineargs.cpp:952
 #, kde-format
 msgid "Unexpected argument '%1'."
 msgstr "ଅପ୍ରତ୍ୟାଶିତ ସ୍ୱତନ୍ତ୍ରଚର '%1'।"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1066
+#: kdecore/kernel/kcmdlineargs.cpp:1068
 msgid "Use --help to get a list of available command line options."
 msgstr "ଉପଲବ୍ଧ ନିର୍ଦ୍ଦେଶ ଧାରା ବିକଳ୍ପଗୁଡିକର ତାଲିକା ପାଇବା ପାଇଁ --ସହାୟତା ର ବ୍ୟବହାର କରନ୍ତୁ।"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1089
+#: kdecore/kernel/kcmdlineargs.cpp:1091
 msgid "[options] "
 msgstr "[ବିକଳ୍ପଗୁଡିକ] "
 
-#: kdecore/kernel/kcmdlineargs.cpp:1096
+#: kdecore/kernel/kcmdlineargs.cpp:1098
 #, kde-format
 msgid "[%1-options]"
 msgstr "[%1-ବିକଳ୍ପଗୁଡିକ]"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1117
+#: kdecore/kernel/kcmdlineargs.cpp:1119
 #, kde-format
 msgid "Usage: %1 %2\n"
 msgstr "ବ୍ୟବହାର ବିଧି: %1 %2\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1120
+#: kdecore/kernel/kcmdlineargs.cpp:1122
 msgid ""
 "\n"
 "Generic options:\n"
@@ -3608,36 +3614,36 @@ msgstr ""
 "\n"
 "ସାମାନ୍ୟ ବିକଳ୍ପଗୁଡିକ:\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1121
+#: kdecore/kernel/kcmdlineargs.cpp:1123
 msgid "Show help about options"
 msgstr "ବିକଳ୍ପଗୁଡିକ ବିଷୟରେ ସହାୟତା ଦର୍ଶାନ୍ତୁ"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1129
+#: kdecore/kernel/kcmdlineargs.cpp:1131
 #, kde-format
 msgid "Show %1 specific options"
 msgstr "%1 ନିର୍ଦ୍ଦିଷ୍ଟ ବିକଳ୍ପଗୁଡିକୁ ଦର୍ଶାନ୍ତୁ"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1136
+#: kdecore/kernel/kcmdlineargs.cpp:1138
 msgid "Show all options"
 msgstr "ସମସ୍ତ ବିକଳ୍ପଗୁଡିକୁ ଦର୍ଶାନ୍ତୁ"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1137
+#: kdecore/kernel/kcmdlineargs.cpp:1139
 msgid "Show author information"
 msgstr "ଲେଖକ ସୂଚନା ଦର୍ଶାନ୍ତୁ"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1138
+#: kdecore/kernel/kcmdlineargs.cpp:1140
 msgid "Show version information"
 msgstr "ସଂସ୍କରଣ ସୂଚନା ଦର୍ଶାନ୍ତୁ"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1139
+#: kdecore/kernel/kcmdlineargs.cpp:1141
 msgid "Show license information"
 msgstr "ଅନୁମତି ପତ୍ର ସୂଚନା ଦର୍ଶାନ୍ତୁ"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1140
+#: kdecore/kernel/kcmdlineargs.cpp:1142
 msgid "End of options"
 msgstr "ବିକଳ୍ପଗୁଡିକର ସମାପ୍ତି"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1161
+#: kdecore/kernel/kcmdlineargs.cpp:1163
 #, kde-format
 msgid ""
 "\n"
@@ -3646,7 +3652,7 @@ msgstr ""
 "\n"
 "%1 ବିକଳ୍ପଗୁଡିକ:\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1163
+#: kdecore/kernel/kcmdlineargs.cpp:1165
 msgid ""
 "\n"
 "Options:\n"
@@ -3654,7 +3660,7 @@ msgstr ""
 "\n"
 "ବିକଳ୍ପଗୁଡିକ:\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1221
+#: kdecore/kernel/kcmdlineargs.cpp:1223
 msgid ""
 "\n"
 "Arguments:\n"
@@ -3662,11 +3668,11 @@ msgstr ""
 "\n"
 "ସ୍ୱତନ୍ତ୍ରଚରଗୁଡିକ:\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1586
+#: kdecore/kernel/kcmdlineargs.cpp:1588
 msgid "The files/URLs opened by the application will be deleted after use"
 msgstr "ପ୍ରୟୋଗ ଦ୍ୱାରା ଖୋଲାଯାଇଥିବା ଫାଇଲ/URL ଗୁଡିକ ବ୍ୟବହାର ପରେ ଅପସାରଣ କରିଦିଆଯିବ"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1587
+#: kdecore/kernel/kcmdlineargs.cpp:1589
 msgid "KDE-tempfile"
 msgstr "KDE-tempfile"
 
@@ -11243,11 +11249,11 @@ msgstr "ଜାଲକ ଖୋଜା"
 msgid "&Search"
 msgstr "ଖୋଜନ୍ତୁ (&S)"
 
-#: kparts/part.cpp:758
+#: kparts/part.cpp:759
 msgid "Untitled"
 msgstr "ଶୀର୍ଷକ ହୀନ"
 
-#: kparts/part.cpp:764
+#: kparts/part.cpp:765
 #, kde-format
 msgid ""
 "The document \"%1\" has been modified.\n"
@@ -11256,7 +11262,7 @@ msgstr ""
 "ଦଲିଲ \"%1\" ଟି ପରିବର୍ତ୍ତିତ ହୋଇଯାଇଛି।\n"
 "ଆପଣଙ୍କର ପରିବର୍ତ୍ତନକୁ ସଂରକ୍ଷଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି ଅଥବା ପରିତ୍ୟାଗ କରିବାକୁ ଚାହୁଁଛନ୍ତି?"
 
-#: kparts/part.cpp:766
+#: kparts/part.cpp:767
 msgid "Close Document"
 msgstr "ଦଲିଲ ବନ୍ଦ କରନ୍ତୁ"
 
@@ -12402,6 +12408,11 @@ msgstr "ଆଜିର ସୂଚନା (&D)"
 #, kde-format
 msgid "No such function \"%1\""
 msgstr "ଏପରି କିଛି ଫଳନ ନାହିଁ \"%1\""
+
+#, fuzzy
+#~| msgid "Options"
+#~ msgid "&Options"
+#~ msgstr "ବିକଳ୍ପଗୁଡିକ"
 
 #~ msgid "None"
 #~ msgstr "କେହିନୁହଁ"
