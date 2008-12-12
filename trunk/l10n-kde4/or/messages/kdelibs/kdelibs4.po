@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4.or\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-12-08 10:17+0100\n"
+"POT-Creation-Date: 2008-12-12 09:59+0100\n"
 "PO-Revision-Date: 2008-07-11 16:25+0530\n"
 "Last-Translator: Manoj Kumar Giri <giri.manojkr@gmail.com>\n"
 "Language-Team: Oriya\n"
@@ -3148,13 +3148,13 @@ msgid "Invalid Calendar Type"
 msgstr "ଅବୈଧ କାଲେଣ୍ଡର ଟାଇପ"
 
 #: kdecore/date/kdatetime.cpp:1478 kdecore/date/kdatetime.cpp:1488
-#: kdecore/date/kdatetime.cpp:2825 kdecore/localization/klocale.cpp:1801
-#: kdecore/localization/klocale.cpp:1932
+#: kdecore/date/kdatetime.cpp:2825 kdecore/localization/klocale.cpp:1802
+#: kdecore/localization/klocale.cpp:1933
 msgid "am"
 msgstr "ପୂର୍ବାହ୍ନ"
 
-#: kdecore/date/kdatetime.cpp:2833 kdecore/localization/klocale.cpp:1792
-#: kdecore/localization/klocale.cpp:1930
+#: kdecore/date/kdatetime.cpp:2833 kdecore/localization/klocale.cpp:1793
+#: kdecore/localization/klocale.cpp:1931
 msgid "pm"
 msgstr "ଅପରାହ୍ନ"
 
@@ -3543,7 +3543,7 @@ msgstr "KDE ପ୍ରୟୋଗ"
 msgid "Qt"
 msgstr "Qt"
 
-#: kdecore/kernel/kcmdlineargs.cpp:493 khtml/khtml_part.cpp:4664
+#: kdecore/kernel/kcmdlineargs.cpp:493 khtml/khtml_part.cpp:4665
 msgid "KDE"
 msgstr "KDE"
 
@@ -4157,61 +4157,61 @@ msgctxt "@item Text character set"
 msgid "Thai"
 msgstr "ଥାଈ"
 
-#: kdecore/localization/klocale.cpp:1211
+#: kdecore/localization/klocale.cpp:1212
 #, kde-format
 msgid "%1 TiB"
 msgstr "%1 TiB"
 
-#: kdecore/localization/klocale.cpp:1213
+#: kdecore/localization/klocale.cpp:1214
 #, kde-format
 msgid "%1 GiB"
 msgstr "%1 GiB"
 
-#: kdecore/localization/klocale.cpp:1219
+#: kdecore/localization/klocale.cpp:1220
 #, kde-format
 msgid "%1 MiB"
 msgstr "%1 MiB"
 
-#: kdecore/localization/klocale.cpp:1225
+#: kdecore/localization/klocale.cpp:1226
 #, kde-format
 msgid "%1 KiB"
 msgstr "%1 KiB"
 
-#: kdecore/localization/klocale.cpp:1230
+#: kdecore/localization/klocale.cpp:1231
 #, kde-format
 msgid "%1 B"
 msgstr "%1 B"
 
-#: kdecore/localization/klocale.cpp:1235
+#: kdecore/localization/klocale.cpp:1236
 msgid "0 B"
 msgstr "0 B"
 
-#: kdecore/localization/klocale.cpp:1243
+#: kdecore/localization/klocale.cpp:1244
 #, kde-format
 msgid "%1 days"
 msgstr "%1 ଦିନ"
 
-#: kdecore/localization/klocale.cpp:1246
+#: kdecore/localization/klocale.cpp:1247
 #, kde-format
 msgid "%1 hours"
 msgstr "%1 ଘଣ୍ଟା"
 
-#: kdecore/localization/klocale.cpp:1249
+#: kdecore/localization/klocale.cpp:1250
 #, kde-format
 msgid "%1 minutes"
 msgstr "%1 ମିନଟ"
 
-#: kdecore/localization/klocale.cpp:1252
+#: kdecore/localization/klocale.cpp:1253
 #, kde-format
 msgid "%1 seconds"
 msgstr "%1 ସେକଣ୍ଡ"
 
-#: kdecore/localization/klocale.cpp:1255
+#: kdecore/localization/klocale.cpp:1256
 #, kde-format
 msgid "%1 milliseconds"
 msgstr "%1 ମିଲିସେକଣ୍ଡ"
 
-#: kdecore/localization/klocale.cpp:1262
+#: kdecore/localization/klocale.cpp:1263
 #, fuzzy, kde-format
 #| msgid "%1 days"
 msgctxt "@item:intext"
@@ -4220,7 +4220,7 @@ msgid_plural "%1 days"
 msgstr[0] "%1 ଦିନ"
 msgstr[1] "%1 ଦିନ"
 
-#: kdecore/localization/klocale.cpp:1264
+#: kdecore/localization/klocale.cpp:1265
 #, fuzzy, kde-format
 #| msgid "%1 hours"
 msgctxt "@item:intext"
@@ -4229,7 +4229,7 @@ msgid_plural "%1 hours"
 msgstr[0] "%1 ଘଣ୍ଟା"
 msgstr[1] "%1 ଘଣ୍ଟା"
 
-#: kdecore/localization/klocale.cpp:1266
+#: kdecore/localization/klocale.cpp:1267
 #, fuzzy, kde-format
 #| msgid "%1 minutes"
 msgctxt "@item:intext"
@@ -4238,7 +4238,7 @@ msgid_plural "%1 minutes"
 msgstr[0] "%1 ମିନଟ"
 msgstr[1] "%1 ମିନଟ"
 
-#: kdecore/localization/klocale.cpp:1268
+#: kdecore/localization/klocale.cpp:1269
 #, fuzzy, kde-format
 #| msgid "%1 seconds"
 msgctxt "@item:intext"
@@ -4247,7 +4247,7 @@ msgid_plural "%1 seconds"
 msgstr[0] "%1 ସେକଣ୍ଡ"
 msgstr[1] "%1 ସେକଣ୍ଡ"
 
-#: kdecore/localization/klocale.cpp:1291
+#: kdecore/localization/klocale.cpp:1292
 #, fuzzy, kde-format
 #| msgctxt "concatenation of dates and time"
 #| msgid "%1 %2"
@@ -4258,7 +4258,7 @@ msgctxt ""
 msgid "%1 and %2"
 msgstr "%1 %2"
 
-#: kdecore/localization/klocale.cpp:1295
+#: kdecore/localization/klocale.cpp:1296
 #, fuzzy, kde-format
 #| msgctxt "concatenation of dates and time"
 #| msgid "%1 %2"
@@ -4269,7 +4269,7 @@ msgctxt ""
 msgid "%1 and %2"
 msgstr "%1 %2"
 
-#: kdecore/localization/klocale.cpp:1299
+#: kdecore/localization/klocale.cpp:1300
 #, fuzzy, kde-format
 #| msgctxt "concatenation of dates and time"
 #| msgid "%1 %2"
@@ -4280,21 +4280,21 @@ msgctxt ""
 msgid "%1 and %2"
 msgstr "%1 %2"
 
-#: kdecore/localization/klocale.cpp:1394
+#: kdecore/localization/klocale.cpp:1395
 msgid "Today"
 msgstr "ଆଜି"
 
-#: kdecore/localization/klocale.cpp:1396
+#: kdecore/localization/klocale.cpp:1397
 msgid "Yesterday"
 msgstr "ଗତକାଲି"
 
-#: kdecore/localization/klocale.cpp:1970
+#: kdecore/localization/klocale.cpp:1971
 #, kde-format
 msgctxt "concatenation of dates and time"
 msgid "%1 %2"
 msgstr "%1 %2"
 
-#: kdecore/localization/klocale.cpp:2031
+#: kdecore/localization/klocale.cpp:2032
 #, kde-format
 msgctxt "concatenation of date/time and time zone"
 msgid "%1 %2"
@@ -6231,8 +6231,8 @@ msgstr ""
 msgid "Reset Toolbars"
 msgstr "ସାଧନପଟିଗୁଡିକୁ ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ"
 
-#: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2971
-#: khtml/khtmlview.cpp:3004 khtml/html/html_formimpl.cpp:1782
+#: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2956
+#: khtml/khtmlview.cpp:2989 khtml/html/html_formimpl.cpp:1782
 msgid "Reset"
 msgstr "ପୁନଃସ୍ଥାପନ କରନ୍ତୁ"
 
@@ -7268,41 +7268,41 @@ msgstr "ଏଡାଇ ଯାଆନ୍ତୁ (&S)"
 msgid "Replace '%1' with '%2'?"
 msgstr "'%1' କୁ '%2' ସହିତ ବଦଳାଇବେ କି?"
 
-#: kdeui/findreplace/kreplace.cpp:138 kdeui/findreplace/kreplace.cpp:334
+#: kdeui/findreplace/kreplace.cpp:138 kdeui/findreplace/kreplace.cpp:332
 msgid "No text was replaced."
 msgstr "କୌଣସି ପାଠ୍ୟ ବଦଳାଯାଇନାହିଁ।"
 
-#: kdeui/findreplace/kreplace.cpp:140 kdeui/findreplace/kreplace.cpp:336
+#: kdeui/findreplace/kreplace.cpp:140 kdeui/findreplace/kreplace.cpp:334
 #, kde-format
 msgid "1 replacement done."
 msgid_plural "%1 replacements done."
 msgstr[0] "1 ପ୍ରତିସ୍ଥାପନା ସମ୍ପୂର୍ଣ୍ଣ ହେଲା।"
 msgstr[1] "%1 ପ୍ରତିସ୍ଥାପନା ସମ୍ପୂର୍ଣ୍ଣ ହେଲା।"
 
-#: kdeui/findreplace/kreplace.cpp:341 kdeui/findreplace/kfind.cpp:614
+#: kdeui/findreplace/kreplace.cpp:339 kdeui/findreplace/kfind.cpp:613
 msgid "Beginning of document reached."
 msgstr "ତଥ୍ୟର ଆରମ୍ଭ ପହଞ୍ଚିଗଲା।"
 
-#: kdeui/findreplace/kreplace.cpp:343 kdeui/findreplace/kfind.cpp:616
+#: kdeui/findreplace/kreplace.cpp:341 kdeui/findreplace/kfind.cpp:615
 msgid "End of document reached."
 msgstr "ତଥ୍ୟର ଶେଷଭାଗ ପହଞ୍ଚିଗଲା।"
 
-#: kdeui/findreplace/kreplace.cpp:350
+#: kdeui/findreplace/kreplace.cpp:348
 msgid "Do you want to restart search from the end?"
 msgstr "ଆପଣ ଶେଷଭାଗରୁ ଖୋଜା ପୁନଃ ଚାଳନ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
 
-#: kdeui/findreplace/kreplace.cpp:351
+#: kdeui/findreplace/kreplace.cpp:349
 msgid "Do you want to restart search at the beginning?"
 msgstr "ଆପଣ ଆରମ୍ଭରୁ ଖୋଜା ପୁନଃ ଚାଳନ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
 
-#: kdeui/findreplace/kreplace.cpp:354
+#: kdeui/findreplace/kreplace.cpp:352
 #, fuzzy
 #| msgid "Restart"
 msgctxt "@action:button Restart find & replace"
 msgid "Restart"
 msgstr "ପୁନଃପ୍ରାରମ୍ଭ କରନ୍ତୁ"
 
-#: kdeui/findreplace/kreplace.cpp:355
+#: kdeui/findreplace/kreplace.cpp:353
 #, fuzzy
 #| msgid "Stop"
 msgctxt "@action:button Stop find & replace"
@@ -7342,28 +7342,28 @@ msgstr "ପରବର୍ତ୍ତୀ ଉପସ୍ଥିତିକୁ ଖୋଜନ�
 msgid "<qt>Find next occurrence of '<b>%1</b>'?</qt>"
 msgstr "<qt>'<b>%1</b>' ର ପରବର୍ତ୍ତୀ ଘଟଣା ଖୋଜିବେ କି?</qt>"
 
-#: kdeui/findreplace/kfind.cpp:587 kdeui/findreplace/kfind.cpp:607
+#: kdeui/findreplace/kfind.cpp:586 kdeui/findreplace/kfind.cpp:606
 #, kde-format
 msgid "1 match found."
 msgid_plural "%1 matches found."
 msgstr[0] "1 ମେଳକ ମିଳିଗଲା।ିଁ"
 msgstr[1] "%1 ି ମେଗୁଡିଏଳକ ମିଗଲାିଁ।"
 
-#: kdeui/findreplace/kfind.cpp:589
+#: kdeui/findreplace/kfind.cpp:588
 #, kde-format
 msgid "<qt>No matches found for '<b>%1</b>'.</qt>"
 msgstr "<qt>'<b>%1</b>'ପାଇଁ କୌଣସି ମେଳକ ମିଳିଲା ନାହିଁ।</qt>"
 
-#: kdeui/findreplace/kfind.cpp:609
+#: kdeui/findreplace/kfind.cpp:608
 #, kde-format
 msgid "No matches found for '<b>%1</b>'."
 msgstr "'<b>%1</b>'ପାଇଁ କୌଣସି ମେଳକ ମିଳିଲା ନାହିଁ।"
 
-#: kdeui/findreplace/kfind.cpp:623
+#: kdeui/findreplace/kfind.cpp:622
 msgid "Continue from the end?"
 msgstr "ଶେଷଭାଗରୁ ଚାଲୁ କରିବେକି?"
 
-#: kdeui/findreplace/kfind.cpp:624
+#: kdeui/findreplace/kfind.cpp:623
 msgid "Continue from the beginning?"
 msgstr "ଆରମ୍ଭରୁ ଚାଲୁ କରିବେକି?"
 
@@ -8017,7 +8017,7 @@ msgstr ""
 #: kdeui/windowmanagement/kwindowsystem_qws.cpp:163
 #: kdeui/windowmanagement/kwindowsystem_x11.cpp:852
 #: kdeui/windowmanagement/kwindowsystem_mac.cpp:546
-#: kdeui/windowmanagement/kwindowsystem_win.cpp:265
+#: kdeui/windowmanagement/kwindowsystem_win.cpp:559
 #, kde-format
 msgid "Desktop %1"
 msgstr "ଡେସ୍କଟପ %1"
@@ -9562,21 +9562,21 @@ msgstr "ବଡ (%1x%2)"
 msgid "Huge (%1x%2)"
 msgstr "ବିଶାଳ (%1x%2)"
 
-#: kdeui/widgets/ktoolbar.cpp:337 kdeui/widgets/ktoolbar.cpp:1346
+#: kdeui/widgets/ktoolbar.cpp:337 kdeui/widgets/ktoolbar.cpp:1368
 msgid "Unlock Toolbars"
 msgstr "ସାଧନପଟିଗୁଡିକୁ ପରିବର୍ତ୍ତନଶୀଳ କରନ୍ତୁ"
 
-#: kdeui/widgets/ktoolbar.cpp:337 kdeui/widgets/ktoolbar.cpp:1346
+#: kdeui/widgets/ktoolbar.cpp:337 kdeui/widgets/ktoolbar.cpp:1368
 msgid "Lock Toolbars"
 msgstr "ସାଧନପଟିଗୁଡିକୁ ଅପରିବର୍ତ୍ତନୀୟ କରନ୍ତୁ"
 
-#: kdeui/widgets/ktoolbar.cpp:1259
+#: kdeui/widgets/ktoolbar.cpp:1281
 #, kde-format
 msgctxt "@action:intoolbar Text label of toolbar button"
 msgid "%1"
 msgstr "%1"
 
-#: kdeui/widgets/ktoolbar.cpp:1260
+#: kdeui/widgets/ktoolbar.cpp:1282
 #, kde-format
 msgctxt "@info:tooltip Tooltip of toolbar button"
 msgid "%1"
@@ -9646,8 +9646,8 @@ msgstr "Testkhtml"
 msgid "a basic web browser using the KHTML library"
 msgstr "KHTML ଲାଇବ୍ରେରୀ ବ୍ୟବହାର କରୁଥିବା ଗୋଟିଏ ମୌଳିକ ୱେବ ବ୍ରାଉଜର"
 
-#: khtml/khtml_run.cpp:97 khtml/khtml_part.cpp:3658 khtml/khtml_part.cpp:3868
-#: khtml/khtml_part.cpp:4244 kparts/browserrun.cpp:444
+#: khtml/khtml_run.cpp:97 khtml/khtml_part.cpp:3659 khtml/khtml_part.cpp:3869
+#: khtml/khtml_part.cpp:4245 kparts/browserrun.cpp:444
 msgid "Save As"
 msgstr "ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ"
 
@@ -9990,7 +9990,7 @@ msgstr "ଦଲିଲ ସୂଚନା ଦେଖନ୍ତୁ"
 msgid "Save &Background Image As..."
 msgstr "ପୃଷ୍ଠଭୂମୀ ପ୍ରତିଛବିକୁ ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ (&B)..."
 
-#: khtml/khtml_part.cpp:326 khtml/khtml_part.cpp:3950
+#: khtml/khtml_part.cpp:326 khtml/khtml_part.cpp:3951
 msgid "SSL"
 msgstr "SSL"
 
@@ -10165,51 +10165,51 @@ msgstr[1] ""
 msgid "Automatic Detection"
 msgstr "ସ୍ୱୟଂଚାଳିତ ଅନୁସନ୍ଧାନ"
 
-#: khtml/khtml_part.cpp:3466 khtml/khtml_part.cpp:3553
-#: khtml/khtml_part.cpp:3564
+#: khtml/khtml_part.cpp:3467 khtml/khtml_part.cpp:3554
+#: khtml/khtml_part.cpp:3565
 msgid " (In new window)"
 msgstr " (ନୂତନ ୱିଣ୍ଡୋରେ)"
 
-#: khtml/khtml_part.cpp:3505
+#: khtml/khtml_part.cpp:3506
 msgid "Symbolic Link"
 msgstr "ପ୍ରତୀକାତ୍ମକ ସମ୍ପର୍କ"
 
-#: khtml/khtml_part.cpp:3507
+#: khtml/khtml_part.cpp:3508
 #, kde-format
 msgid "%1 (Link)"
 msgstr "%1 (ସଂଯୋଗ)"
 
-#: khtml/khtml_part.cpp:3527
+#: khtml/khtml_part.cpp:3528
 #, kde-format
 msgid "%2 (%1 bytes)"
 msgstr "%2 (%1 ବାଇଟ)"
 
-#: khtml/khtml_part.cpp:3531
+#: khtml/khtml_part.cpp:3532
 #, kde-format
 msgid "%2 (%1 K)"
 msgstr "%2 (%1 K)"
 
-#: khtml/khtml_part.cpp:3566
+#: khtml/khtml_part.cpp:3567
 msgid " (In other frame)"
 msgstr " (ଅନ୍ୟ ଏକ ଫ୍ରେମରେ)"
 
-#: khtml/khtml_part.cpp:3571
+#: khtml/khtml_part.cpp:3572
 msgid "Email to: "
 msgstr "କୁ ଇମେଲ କରନ୍ତୁ: "
 
-#: khtml/khtml_part.cpp:3577
+#: khtml/khtml_part.cpp:3578
 msgid " - Subject: "
 msgstr " - ବିଷୟ: "
 
-#: khtml/khtml_part.cpp:3579
+#: khtml/khtml_part.cpp:3580
 msgid " - CC: "
 msgstr " - CC: "
 
-#: khtml/khtml_part.cpp:3581
+#: khtml/khtml_part.cpp:3582
 msgid " - BCC: "
 msgstr " - BCC: "
 
-#: khtml/khtml_part.cpp:3663
+#: khtml/khtml_part.cpp:3664
 #, kde-format
 msgid ""
 "<qt>This untrusted page links to<br /><b>%1</b>.<br />Do you want to follow "
@@ -10218,40 +10218,40 @@ msgstr ""
 "<qt>ଏହି ଅବିଶ୍ୱସ୍ତ ପୃଷ୍ଠାଟି<br /><b>%1</b>ସହିତ ସଂଯୁକ୍ତ।<br />ଆପଣ ଏହି ସଂଯୋଗକୁ ଅନୁସରଣ କରିବାକୁ "
 "ଚାହୁଁଛନ୍ତି କି?</qt>"
 
-#: khtml/khtml_part.cpp:3664
+#: khtml/khtml_part.cpp:3665
 msgid "Follow"
 msgstr "ଅନୁସରଣ କରନ୍ତୁ"
 
-#: khtml/khtml_part.cpp:3765
+#: khtml/khtml_part.cpp:3766
 msgid "Frame Information"
 msgstr "ଫ୍ରେମ ସୂଚନା"
 
-#: khtml/khtml_part.cpp:3771
+#: khtml/khtml_part.cpp:3772
 #, kde-format
 msgid "   <a href=\"%1\">[Properties]</a>"
 msgstr "   <a href=\"%1\">[ଗୁଣଧର୍ମ]</a>"
 
-#: khtml/khtml_part.cpp:3856
+#: khtml/khtml_part.cpp:3857
 msgid "Save Background Image As"
 msgstr "ପୃଷ୍ଠଭୂମି ପ୍ରତିଛବିକୁ ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ"
 
-#: khtml/khtml_part.cpp:3948
+#: khtml/khtml_part.cpp:3949
 msgid "The peer SSL certificate chain appears to be corrupt."
 msgstr "ସାଥି SSL ପ୍ରମାଣପତ୍ର ଶୃଙ୍ଖଳଟି ନଷ୍ଟ ହୋଇଗଲାପରି ଦେଖାଯାଉଛି।"
 
-#: khtml/khtml_part.cpp:3967
+#: khtml/khtml_part.cpp:3968
 msgid "Save Frame As"
 msgstr "ଫ୍ରେମକୁ ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ"
 
-#: khtml/khtml_part.cpp:4011
+#: khtml/khtml_part.cpp:4012
 msgid "&Find in Frame..."
 msgstr "ଫ୍ରେମରେ ଖୋଜନ୍ତୁ (&F)..."
 
-#: khtml/khtml_part.cpp:4013 kdeui/actions/kstandardaction_p.h:64
+#: khtml/khtml_part.cpp:4014 kdeui/actions/kstandardaction_p.h:64
 msgid "&Find..."
 msgstr "ଖୋଜନ୍ତୁ (&F)..."
 
-#: khtml/khtml_part.cpp:4552
+#: khtml/khtml_part.cpp:4553
 msgid ""
 "Warning:  This is a secure form but it is attempting to send your data back "
 "unencrypted.\n"
@@ -10263,16 +10263,16 @@ msgstr ""
 "ଜଣେ ତୃତୀୟ ପକ୍ଷ ଏହାକୁ ବାଟରେ ଧରିବାକୁ ସମର୍ଥ ହେବ ଏବଂ ଏହି ସୂଚନାକୁ ଦେଖିପାରିବ।\n"
 "ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ଆଗକୁ ବଢିବାକୁ ଚାହୁଁଛନ୍ତି?"
 
-#: khtml/khtml_part.cpp:4555 khtml/khtml_part.cpp:4564
-#: khtml/khtml_part.cpp:4588
+#: khtml/khtml_part.cpp:4556 khtml/khtml_part.cpp:4565
+#: khtml/khtml_part.cpp:4589
 msgid "Network Transmission"
 msgstr "ନେଟୱର୍କ ସଞ୍ଚାର"
 
-#: khtml/khtml_part.cpp:4555 khtml/khtml_part.cpp:4565
+#: khtml/khtml_part.cpp:4556 khtml/khtml_part.cpp:4566
 msgid "&Send Unencrypted"
 msgstr "ଅସଂଗୁପ୍ତ ଭାବେ ପଠାନ୍ତୁ (&S)"
 
-#: khtml/khtml_part.cpp:4562
+#: khtml/khtml_part.cpp:4563
 msgid ""
 "Warning: Your data is about to be transmitted across the network "
 "unencrypted.\n"
@@ -10281,7 +10281,7 @@ msgstr ""
 "ଚେତାବନୀ: ଆପଣଙ୍କର ତଥ୍ୟ ନେଟୱର୍କରେ ଅସଂଗୁପ୍ତ ଭାବରେ ସଞ୍ଚାର ହେବାକୁ ଯାଉଛି।\n"
 "ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ଆଗକୁ ବଢିବାକୁ ଚାହୁଁଛନ୍ତି?"
 
-#: khtml/khtml_part.cpp:4586
+#: khtml/khtml_part.cpp:4587
 msgid ""
 "This site is attempting to submit form data via email.\n"
 "Do you want to continue?"
@@ -10289,11 +10289,11 @@ msgstr ""
 "ଏହି ସାଇଟଟି ଫର୍ମ ତଥ୍ୟକୁ ଇମେଲ ମାଧ୍ଯମରେ ଦାଖଲ କରିବାକୁ ଚେଷ୍ଟା କରୁଅଛି।\n"
 "ଆପଣ ଆଗକୁ ବଢିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
 
-#: khtml/khtml_part.cpp:4589
+#: khtml/khtml_part.cpp:4590
 msgid "&Send Email"
 msgstr "ଇମେଲ ପଠାନ୍ତୁ (&S)"
 
-#: khtml/khtml_part.cpp:4610
+#: khtml/khtml_part.cpp:4611
 #, kde-format
 msgid ""
 "<qt>The form will be submitted to <br /><b>%1</b><br />on your local "
@@ -10302,75 +10302,75 @@ msgstr ""
 "<qt>ଏହି ଫର୍ମଟି ଦାଖଲ ହେବ <br /><b>%1</b><br />ଆପଣଙ୍କର ସ୍ଥାନୀୟ ଫାଇଲତନ୍ତ୍ରରେ।<br />ଆପଣ "
 "ଏହି ଫର୍ମକୁ ଦାଖଲ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?</qt>"
 
-#: khtml/khtml_part.cpp:4611 khtml/khtmlview.cpp:2957 khtml/khtmlview.cpp:2999
+#: khtml/khtml_part.cpp:4612 khtml/khtmlview.cpp:2942 khtml/khtmlview.cpp:2984
 #: khtml/html/html_formimpl.cpp:1581 khtml/html/html_formimpl.cpp:1790
 msgid "Submit"
 msgstr "ଦାଖଲ କରନ୍ତୁ"
 
-#: khtml/khtml_part.cpp:4664
+#: khtml/khtml_part.cpp:4665
 msgid ""
 "This site attempted to attach a file from your computer in the form "
 "submission. The attachment was removed for your protection."
 msgstr ""
 
-#: khtml/khtml_part.cpp:5670
+#: khtml/khtml_part.cpp:5671
 #, kde-format
 msgid "(%1/s)"
 msgstr "(%1/s)"
 
-#: khtml/khtml_part.cpp:6586
+#: khtml/khtml_part.cpp:6587
 msgid "Security Warning"
 msgstr "ସୁରକ୍ଷା ଚେତାବନୀ"
 
-#: khtml/khtml_part.cpp:6592
+#: khtml/khtml_part.cpp:6593
 #, kde-format
 msgid "<qt>Access by untrusted page to<br /><b>%1</b><br /> denied.</qt>"
 msgstr "<qt>ଅବିଶ୍ୱସ୍ତ ପୃଷ୍ଠାକୁ ପ୍ରବେଶାନୁମତୀ<br /><b>%1</b><br /> ବାରଣ କରାଯାଇଛି।</qt>"
 
-#: khtml/khtml_part.cpp:6593 khtml/java/kjavaappletserver.cpp:792
+#: khtml/khtml_part.cpp:6594 khtml/java/kjavaappletserver.cpp:792
 msgid "Security Alert"
 msgstr "ସୁରକ୍ଷା ସଚେତନତା"
 
-#: khtml/khtml_part.cpp:6943
+#: khtml/khtml_part.cpp:6944
 #, kde-format
 msgid "The wallet '%1' is open and being used for form data and passwords."
 msgstr "ୱାଲେଟ '%1' ଟି ଖୋଲାଅଛି ଏବଂ ଫର୍ମ ତଥ୍ୟ ଏବଂ ପ୍ରବେଶ ସଂକେତ ପାଇଁ ବ୍ୟବହୃତ ହେଉଛି।"
 
-#: khtml/khtml_part.cpp:7000
+#: khtml/khtml_part.cpp:7001
 msgid "&Close Wallet"
 msgstr "ୱାଲେଟ ବନ୍ଦକରନ୍ତୁ (&C)"
 
-#: khtml/khtml_part.cpp:7043
+#: khtml/khtml_part.cpp:7044
 msgid "JavaScript &Debugger"
 msgstr "JavaScript ତ୍ରୁଟିନିବାରକ (&D)"
 
-#: khtml/khtml_part.cpp:7076
+#: khtml/khtml_part.cpp:7077
 msgid "This page was prevented from opening a new window via JavaScript."
 msgstr ""
 
-#: khtml/khtml_part.cpp:7082
+#: khtml/khtml_part.cpp:7083
 msgid "Popup Window Blocked"
 msgstr "ପପ୍ ଅପ୍ ୱିଣ୍ଡୋ ବନ୍ଦ ହୋଇଯାଇଛି"
 
-#: khtml/khtml_part.cpp:7082
+#: khtml/khtml_part.cpp:7083
 msgid ""
 "This page has attempted to open a popup window but was blocked.\n"
 "You can click on this icon in the status bar to control this behavior\n"
 "or to open the popup."
 msgstr ""
 
-#: khtml/khtml_part.cpp:7095
+#: khtml/khtml_part.cpp:7096
 #, kde-format
 msgid "&Show Blocked Popup Window"
 msgid_plural "&Show %1 Blocked Popup Windows"
 msgstr[0] ""
 msgstr[1] ""
 
-#: khtml/khtml_part.cpp:7096
+#: khtml/khtml_part.cpp:7097
 msgid "Show Blocked Window Passive Popup &Notification"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7098
+#: khtml/khtml_part.cpp:7099
 msgid "&Configure JavaScript New Window Policies..."
 msgstr ""
 
@@ -10412,39 +10412,39 @@ msgstr ""
 msgid "Remove from ignores..."
 msgstr ""
 
-#: khtml/khtmlview.cpp:1921
+#: khtml/khtmlview.cpp:1911
 msgid "Find stopped."
 msgstr "ଖୋଜିବା ବନ୍ଦ ହୋଇଯାଇଛି।"
 
-#: khtml/khtmlview.cpp:1932
+#: khtml/khtmlview.cpp:1922
 msgid "Starting -- find links as you type"
 msgstr ""
 
-#: khtml/khtmlview.cpp:1938
+#: khtml/khtmlview.cpp:1928
 msgid "Starting -- find text as you type"
 msgstr ""
 
-#: khtml/khtmlview.cpp:1961
+#: khtml/khtmlview.cpp:1951
 #, kde-format
 msgid "Link found: \"%1\"."
 msgstr "ସଂଯୋଗ ମିଳିଲା: \"%1\"।"
 
-#: khtml/khtmlview.cpp:1966
+#: khtml/khtmlview.cpp:1956
 #, kde-format
 msgid "Link not found: \"%1\"."
 msgstr "ସଂଯୋଗ ମିଳିଲା ନାହିଁ: \"%1\"।"
 
-#: khtml/khtmlview.cpp:1974
+#: khtml/khtmlview.cpp:1964
 #, kde-format
 msgid "Text found: \"%1\"."
 msgstr "ପାଠ୍ୟ ମିଳିଲା: \"%1\"।"
 
-#: khtml/khtmlview.cpp:1979
+#: khtml/khtmlview.cpp:1969
 #, kde-format
 msgid "Text not found: \"%1\"."
 msgstr "ପାଠ୍ୟ ମିଳିଲା ନାହିଁ: \"%1\"।"
 
-#: khtml/khtmlview.cpp:2027
+#: khtml/khtmlview.cpp:2012
 msgid "Access Keys activated"
 msgstr ""
 
