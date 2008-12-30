@@ -8,14 +8,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-12-28 09:54+0100\n"
+"POT-Creation-Date: 2008-12-30 09:53+0100\n"
 "PO-Revision-Date: 2008-12-30 12:03+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms:  nplurals=2; plural=(n!=1);\n\n"
+"Plural-Forms:  nplurals=2; plural=(n!=1);\n"
+"\n"
 "X-Generator: KBabel 1.11.4\n"
 
 #: rc.cpp:1
@@ -44,31 +45,31 @@ msgid ""
 "that setting."
 msgstr ""
 
-#. i18n: file: knewstuff/knewstuff2/ui/DownloadDialog.ui:32
+#. i18n: file: knewstuff/knewstuff2/ui/DownloadDialog.ui:27
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: rc.cpp:11
 msgid "&Source:"
 msgstr "ଉତ୍ସ (&S):"
 
-#. i18n: file: knewstuff/knewstuff2/ui/DownloadDialog.ui:45
+#. i18n: file: knewstuff/knewstuff2/ui/DownloadDialog.ui:40
 #. i18n: ectx: property (text), widget (QLabel, m_providerLinkLabel)
 #: rc.cpp:14
 msgid "?"
 msgstr "?"
 
-#. i18n: file: knewstuff/knewstuff2/ui/DownloadDialog.ui:72
+#. i18n: file: knewstuff/knewstuff2/ui/DownloadDialog.ui:64
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: rc.cpp:17
 msgid "&Order by:"
 msgstr "ଆଦେଶ ଦ୍ୱାରା (&O):"
 
-#. i18n: file: knewstuff/knewstuff2/ui/DownloadDialog.ui:101
+#. i18n: file: knewstuff/knewstuff2/ui/DownloadDialog.ui:93
 #. i18n: ectx: property (clickMessage), widget (KLineEdit, m_searchEdit)
 #: rc.cpp:20
 msgid "Enter search phrase here"
 msgstr "ଏଠାରେ ଅନ୍ୱେଷଣ ବାକ୍ୟାଂଶ ଭରଣ କରନ୍ତୁ"
 
-#. i18n: file: knewstuff/knewstuff2/ui/DownloadDialog.ui:156
+#. i18n: file: knewstuff/knewstuff2/ui/DownloadDialog.ui:142
 #. i18n: ectx: property (text), widget (QToolButton, m_collaborationButton)
 #: rc.cpp:23
 msgid "Collaborate"
@@ -86,33 +87,33 @@ msgstr "ଖୋଜିବା ପାଇଁ ଅତିରିକ୍ତ ପରିସର
 msgid "List of 'wide-area' (non link-local) domains that should be browsed."
 msgstr "'ବିସ୍ତୃତ-କ୍ଷେତ୍ର' (non link-local) ପରିସରଗୁଡିକର ତାଲିକା ଯାହାକି ବ୍ରାଉଜ କରିବା ଉଚିତ।"
 
-#. i18n: file: kdeui/dialogs/knewpassworddialog.ui:78
-#. i18n: ectx: property (text), widget (KTitleWidget, labelMatch)
-#: rc.cpp:32 kdeui/dialogs/knewpassworddialog.cpp:114
-#: kde3support/kdeui/k3passworddialog.cpp:432
-#: kde3support/kdeui/k3passworddialog.cpp:625
-msgid "Passwords do not match"
-msgstr "ପ୍ରବେଶ ସଂକେତ ମେଳଖାଉ ନାହିଁ"
+#. i18n: file: kdeui/dialogs/knewpassworddialog.ui:44
+#. i18n: ectx: property (text), widget (QLabel, labelPassword)
+#. i18n: file: kdeui/dialogs/kpassworddialog.ui:138
+#. i18n: ectx: property (text), widget (QLabel, passwordLabel)
+#: rc.cpp:32 rc.cpp:152
+msgid "Password:"
+msgstr "ପ୍ରବେଶ ସଂକେତ:"
 
-#. i18n: file: kdeui/dialogs/knewpassworddialog.ui:100
+#. i18n: file: kdeui/dialogs/knewpassworddialog.ui:54
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: rc.cpp:35 kde3support/kdeui/k3passworddialog.cpp:389
 msgid "&Verify:"
 msgstr "ଯାଞ୍ଚ କରନ୍ତୁ (&V):"
 
-#. i18n: file: kdeui/dialogs/knewpassworddialog.ui:110
-#. i18n: ectx: property (text), widget (QLabel, labelPassword)
-#. i18n: file: kdeui/dialogs/kpassworddialog.ui:138
-#. i18n: ectx: property (text), widget (QLabel, passwordLabel)
-#: rc.cpp:38 rc.cpp:152
-msgid "Password:"
-msgstr "ପ୍ରବେଶ ସଂକେତ:"
-
-#. i18n: file: kdeui/dialogs/knewpassworddialog.ui:137
+#. i18n: file: kdeui/dialogs/knewpassworddialog.ui:82
 #. i18n: ectx: property (text), widget (QLabel, labelStrengthMeter)
-#: rc.cpp:41 kde3support/kdeui/k3passworddialog.cpp:410
+#: rc.cpp:38 kde3support/kdeui/k3passworddialog.cpp:410
 msgid "Password strength meter:"
 msgstr "ପ୍ରବେଶ ସଂକେତ ଆକାର ମାପକ:"
+
+#. i18n: file: kdeui/dialogs/knewpassworddialog.ui:104
+#. i18n: ectx: property (text), widget (KTitleWidget, labelMatch)
+#: rc.cpp:41 kdeui/dialogs/knewpassworddialog.cpp:114
+#: kde3support/kdeui/k3passworddialog.cpp:432
+#: kde3support/kdeui/k3passworddialog.cpp:625
+msgid "Passwords do not match"
+msgstr "ପ୍ରବେଶ ସଂକେତ ମେଳଖାଉ ନାହିଁ"
 
 #. i18n: file: kdeui/dialogs/kcupsoptionsjobwidget.ui:13
 #. i18n: ectx: property (windowTitle), widget (QWidget, KCupsOptionsJobWidget)
@@ -835,7 +836,8 @@ msgstr "ବିରତି"
 msgid ""
 "You may select a file where the log content is stored, before the regression "
 "testing started."
-msgstr "ଆପଣ ଗୋଟିଏ ଫାଇଲ ଚୟନ କରିପାରିବେ ଯେଉଁଠି ମାଶ୍ରୟଣ ପରିକ୍ଷଣ ଆରମ୍ଭ ହେବା ପୂର୍ବରୁ  ଲଗ ସୂଚୀ ରଖିହେଉଥିବ।"
+msgstr ""
+"ଆପଣ ଗୋଟିଏ ଫାଇଲ ଚୟନ କରିପାରିବେ ଯେଉଁଠି ମାଶ୍ରୟଣ ପରିକ୍ଷଣ ଆରମ୍ଭ ହେବା ପୂର୍ବରୁ  ଲଗ ସୂଚୀ ରଖିହେଉଥିବ।"
 
 #. i18n: file: khtml/test_regression_gui.ui:153
 #. i18n: ectx: property (text), widget (QPushButton, saveLogButton)
@@ -1192,7 +1194,8 @@ msgstr "ବ୍ୟବହାର ପାଇଁ Widget ଶୈଳୀ"
 msgid ""
 "The name of the widget style, for example \"keramik\" or \"plastik\". "
 "Without quotes."
-msgstr "Widget ଶୈଳୀର ନାମ, ଉଦାହରଣ ସ୍ୱରୂପ \"keramik\" କିମ୍ୱା \"plastik\"। ଉଦ୍ଧୃତ ଚିହ୍ନ ବିନା।"
+msgstr ""
+"Widget ଶୈଳୀର ନାମ, ଉଦାହରଣ ସ୍ୱରୂପ \"keramik\" କିମ୍ୱା \"plastik\"। ଉଦ୍ଧୃତ ଚିହ୍ନ ବିନା।"
 
 #. i18n: file: kutils/kdeglobals.kcfg:30
 #. i18n: ectx: label, entry, group (General)
@@ -1220,7 +1223,8 @@ msgstr "କେଉଁ ଟର୍ମିନାଲ ପ୍ରୟୋଗକୁ ବ୍ୟ
 msgid ""
 "Whenever a terminal application is launched this terminal emulator program "
 "will be used.\n"
-msgstr "ଯେତେବେଳେ ଗୋଟିଏ ଟର୍ମିନାଲ ପ୍ରୟୋଗକୁ ପ୍ରଚାଳନ କରାଯାଏ ଏହି ଟର୍ମିନାଲ ଯାନ୍ତ୍ରାନୁକରକଟି ବ୍ୟବହାର ହେବ।\n"
+msgstr ""
+"ଯେତେବେଳେ ଗୋଟିଏ ଟର୍ମିନାଲ ପ୍ରୟୋଗକୁ ପ୍ରଚାଳନ କରାଯାଏ ଏହି ଟର୍ମିନାଲ ଯାନ୍ତ୍ରାନୁକରକଟି ବ୍ୟବହାର ହେବ।\n"
 
 #. i18n: file: kutils/kdeglobals.kcfg:41
 #. i18n: ectx: label, entry, group (General)
@@ -1367,7 +1371,8 @@ msgstr "ଗତିପଟି ଦର୍ଶାନ୍ତୁ"
 #. i18n: file: kutils/kdeglobals.kcfg:406
 #. i18n: ectx: whatsthis, entry (Show Speedbar), group (KFileDialog Settings)
 #: rc.cpp:634
-msgid "Whether the shortcut icons to the left in the file dialog should be shown"
+msgid ""
+"Whether the shortcut icons to the left in the file dialog should be shown"
 msgstr "ଫାଇଲ ସଂଳାପରେ ବାମକୁ ଥିବା ସଂକ୍ଷିପ୍ତ ପଥ ଚିତ୍ରସଂକେତଗିଡିକୁ ଦର୍ଶାଯିବା ଉଚିତ କି"
 
 #. i18n: file: kutils/kdeglobals.kcfg:425
@@ -1379,7 +1384,8 @@ msgstr "କେଉଁ ଦେଶ"
 #. i18n: file: kutils/kdeglobals.kcfg:426
 #. i18n: ectx: whatsthis, entry, group (Locale)
 #: rc.cpp:640
-msgid "Used to determine how to display numbers, currency and time/date, for example"
+msgid ""
+"Used to determine how to display numbers, currency and time/date, for example"
 msgstr ""
 "ସଂଖ୍ୟାମାନଙ୍କୁ କିପରି ଦର୍ଶାଯିବ ତାହା ନିର୍ଦ୍ଧାରଣ କରିବା ପାଇଁ ବ୍ୟବହୃତ ହୋଇଥାଏ, ମୁଦ୍ରା ଏବଂ ସମୟ/ତାରିଖ, "
 "ଉଦାହରଣ ସ୍ୱରୂପ"
@@ -5564,7 +5570,8 @@ msgid "Discard changes"
 msgstr "ପରିବର୍ତ୍ତନଗୁଡିକୁ ପରିତ୍ୟାଗ କରନ୍ତୁ"
 
 #: kdeui/util/kstandardguiitem.cpp:127
-msgid "Pressing this button will discard all recent changes made in this dialog"
+msgid ""
+"Pressing this button will discard all recent changes made in this dialog"
 msgstr "ଏହି ବଟନ ଦବାଇବା ଫଳରେ ଏହି ସଂଳାପରେ ନିକଟରେ ହୋଇଥିବା ସମସ୍ତ ପରିବର୍ତ୍ତନଗୁଡିକୁ ପରିତ୍ୟାଗ କରିବ"
 
 #: kdeui/util/kstandardguiitem.cpp:133 kdeui/actions/kstandardaction_p.h:46
@@ -6257,7 +6264,8 @@ msgid "%1"
 msgstr "%1"
 
 #: kdeui/dialogs/kedittoolbar.cpp:1047
-msgid "This element will be replaced with all the elements of an embedded component."
+msgid ""
+"This element will be replaced with all the elements of an embedded component."
 msgstr ""
 
 #: kdeui/dialogs/kedittoolbar.cpp:1049
@@ -6452,7 +6460,8 @@ msgid "Submit Bug Report"
 msgstr "ତ୍ରୁଟି ବିବରଣୀ ଦାଖଲ କରନ୍ତୁ"
 
 #: kdeui/dialogs/kbugreport.cpp:129
-msgid "Your email address. If incorrect, use the Configure Email button to change it"
+msgid ""
+"Your email address. If incorrect, use the Configure Email button to change it"
 msgstr ""
 "ଆପଣଙ୍କର ଇମେଲ ଠିକଣା। ଯଦି ଭୁଲ ଅଛି, ତେବେ ଏହାକୁ ପରିବର୍ତ୍ତନ କରିବା ପାଇଁ ଇମେଲ ବିନ୍ୟାସ କରନ୍ତୁ ବଟନ "
 "ଦବାନ୍ତୁ"
@@ -6643,7 +6652,8 @@ msgstr "KDE ବିଷୟରେ"
 msgid ""
 "<html><font size=\"5\">K Desktop Environment</font><br /><b>Version %1</b></"
 "html>"
-msgstr "<html><font size=\"5\">K ଡେସ୍କଟପ ପରିବେଶ</font><br /><b>ସଂସ୍କରଣ %1</b></html>"
+msgstr ""
+"<html><font size=\"5\">K ଡେସ୍କଟପ ପରିବେଶ</font><br /><b>ସଂସ୍କରଣ %1</b></html>"
 
 #: kdeui/dialogs/kaboutkdedialog_p.cpp:56
 msgid ""
@@ -7119,7 +7129,8 @@ msgid ""
 msgstr ""
 
 #: kdeui/findreplace/kfinddialog.cpp:218
-msgid "Enter a pattern to search for, or select a previous pattern from the list."
+msgid ""
+"Enter a pattern to search for, or select a previous pattern from the list."
 msgstr ""
 
 #: kdeui/findreplace/kfinddialog.cpp:221
@@ -8955,47 +8966,47 @@ msgctxt "Italic placeholder text in line edits: 0 no, 1 yes"
 msgid "1"
 msgstr "୧"
 
-#: kdeui/widgets/klineedit.cpp:249
+#: kdeui/widgets/klineedit.cpp:251
 msgctxt "@action:button Clear current text in the line edit"
 msgid "Clear text"
 msgstr "ପାଠ୍ୟ ସଫାକରନ୍ତୁ"
 
-#: kdeui/widgets/klineedit.cpp:1107
+#: kdeui/widgets/klineedit.cpp:1121
 msgctxt "@title:menu"
 msgid "Text Completion"
 msgstr "ପାଠ୍ୟ ସମାପ୍ତି"
 
-#: kdeui/widgets/klineedit.cpp:1114
+#: kdeui/widgets/klineedit.cpp:1128
 msgctxt "@item:inmenu Text Completion"
 msgid "None"
 msgstr "କେହିନୁହଁ"
 
-#: kdeui/widgets/klineedit.cpp:1115
+#: kdeui/widgets/klineedit.cpp:1129
 msgctxt "@item:inmenu Text Completion"
 msgid "Manual"
 msgstr "ହସ୍ତକୃତ"
 
-#: kdeui/widgets/klineedit.cpp:1116
+#: kdeui/widgets/klineedit.cpp:1130
 msgctxt "@item:inmenu Text Completion"
 msgid "Automatic"
 msgstr "ସ୍ବୟଂଚାଳିତ"
 
-#: kdeui/widgets/klineedit.cpp:1117
+#: kdeui/widgets/klineedit.cpp:1131
 msgctxt "@item:inmenu Text Completion"
 msgid "Dropdown List"
 msgstr ""
 
-#: kdeui/widgets/klineedit.cpp:1118
+#: kdeui/widgets/klineedit.cpp:1132
 msgctxt "@item:inmenu Text Completion"
 msgid "Short Automatic"
 msgstr "ସଂକ୍ଷିପ୍ତ ସ୍ୱୟଂଚାଳିତ"
 
-#: kdeui/widgets/klineedit.cpp:1119
+#: kdeui/widgets/klineedit.cpp:1133
 msgctxt "@item:inmenu Text Completion"
 msgid "Dropdown List && Automatic"
 msgstr ""
 
-#: kdeui/widgets/klineedit.cpp:1148
+#: kdeui/widgets/klineedit.cpp:1162
 msgctxt "@item:inmenu Text Completion"
 msgid "Default"
 msgstr "ପୂର୍ବ ନିର୍ଦ୍ଧାରିତ"
@@ -9429,19 +9440,19 @@ msgstr ""
 msgid "Unsupported Key"
 msgstr "ଅସଜଡା"
 
-#: kdeui/widgets/keditlistbox.cpp:328
+#: kdeui/widgets/keditlistbox.cpp:326
 msgid "&Add"
 msgstr "ଯୋଗ କରନ୍ତୁ (&A)"
 
-#: kdeui/widgets/keditlistbox.cpp:340
+#: kdeui/widgets/keditlistbox.cpp:338
 msgid "&Remove"
 msgstr "କାଢନ୍ତୁ (&R)"
 
-#: kdeui/widgets/keditlistbox.cpp:352
+#: kdeui/widgets/keditlistbox.cpp:350
 msgid "Move &Up"
 msgstr "ଉପରକୁ ଗତିକରନ୍ତୁ (&G)"
 
-#: kdeui/widgets/keditlistbox.cpp:357
+#: kdeui/widgets/keditlistbox.cpp:355
 msgid "Move &Down"
 msgstr "ତଳକୁ ଗତିକରନ୍ତୁ (&D)"
 
@@ -9893,8 +9904,10 @@ msgstr "URL ଭରଣ କରନ୍ତୁ:"
 
 #: khtml/khtml_ext.cpp:928
 #, kde-format
-msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
-msgstr "\"%1\" ନାମକ ଗୋଟିଏ ଫାଇଲ ପୂର୍ବରୁ ଅବସ୍ଥିତ ଅଛି। ଆପଣ ନିଶ୍ଚିତକି ଆପଣ ଏଥିରେ ନବଲିଖନ କରିବାକୁ ଚାହୁଁଛନ୍ତି?"
+msgid ""
+"A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+msgstr ""
+"\"%1\" ନାମକ ଗୋଟିଏ ଫାଇଲ ପୂର୍ବରୁ ଅବସ୍ଥିତ ଅଛି। ଆପଣ ନିଶ୍ଚିତକି ଆପଣ ଏଥିରେ ନବଲିଖନ କରିବାକୁ ଚାହୁଁଛନ୍ତି?"
 
 #: khtml/khtml_ext.cpp:928
 msgid "Overwrite File?"
@@ -11532,7 +11545,8 @@ msgstr "ଭୁଲ ସଂଖ୍ୟକ ସ୍ୱତନ୍ତ୍ରଚର।"
 
 #: kjsembed/kjsembed/qobject_binding.cpp:412
 #, kde-format
-msgid "The slot asked for %1 arguments but there are only %2 arguments available."
+msgid ""
+"The slot asked for %1 arguments but there are only %2 arguments available."
 msgstr ""
 
 #: kjsembed/kjsembed/qobject_binding.cpp:610
@@ -12079,7 +12093,8 @@ msgstr ""
 "ଶଙ୍କାପ୍ରକଟକରନ୍ତୁ ବିକଳ୍ପକୁ ବ୍ୟବହାର କରନ୍ତୁ।"
 
 #: kde3support/kunittest/modrunner.cpp:48
-msgid "Disables debug capturing. You typically use this option when you use the GUI."
+msgid ""
+"Disables debug capturing. You typically use this option when you use the GUI."
 msgstr ""
 "ତ୍ରୁଟିମୁକ୍ତ କରି ଧରିବାକୁ ନିଷ୍କ୍ରିୟକରେ। ଆପଣ GUI ବ୍ୟବହାର କରୁଥିବା ସମୟରେ ବିଶିଷ୍ଟ ରୂପେ ଏହି ବିକଳ୍ପକୁ "
 "ବ୍ୟବହାର କରନ୍ତୁ।"
@@ -12173,7 +12188,8 @@ msgstr "ନାମକରଣ ହୋଇଥିବା ରଙ୍ଗଗୁଡିକ"
 msgid ""
 "Unable to read X11 RGB color strings. The following file location(s) were "
 "examined:\n"
-msgstr "X11 RGB ରଙ୍ଗ ଧାରାଗୁଡିକୁ ପଢିବାରେ ଅସମର୍ଥ। ଏହି ନିମ୍ନଲିଖିତ ଫାଇଲ ସ୍ଥିତି(ଗୁଡିକୁ) ପରୀକ୍ଷା କରାଯାଇଛି:\n"
+msgstr ""
+"X11 RGB ରଙ୍ଗ ଧାରାଗୁଡିକୁ ପଢିବାରେ ଅସମର୍ଥ। ଏହି ନିମ୍ନଲିଖିତ ଫାଇଲ ସ୍ଥିତି(ଗୁଡିକୁ) ପରୀକ୍ଷା କରାଯାଇଛି:\n"
 
 #: kdeui/colors/kcolordialog.cpp:949
 msgid "Select Color"
@@ -12427,4 +12443,3 @@ msgstr "ଆଜିର ସୂଚନା (&D)"
 #, kde-format
 msgid "No such function \"%1\""
 msgstr "ଏପରି କିଛି ଫଳନ ନାହିଁ \"%1\""
-
