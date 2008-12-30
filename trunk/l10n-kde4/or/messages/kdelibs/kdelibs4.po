@@ -1,20 +1,21 @@
-# translation of kdelibs4.or.po to Oriya
+# translation of kdelibs4.po to Oriya
 # Copyright (C) YEAR This_file_is_part_of_KDE
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Manoj Kumar Giri <giri.manojkr@gmail.com>, 2008.
+# Manoj Kumar Giri <mgiri@redhat.com>, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: kdelibs4.or\n"
+"Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2008-12-28 09:54+0100\n"
-"PO-Revision-Date: 2008-07-11 16:25+0530\n"
-"Last-Translator: Manoj Kumar Giri <giri.manojkr@gmail.com>\n"
-"Language-Team: Oriya\n"
+"PO-Revision-Date: 2008-12-30 12:03+0530\n"
+"Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
+"Language-Team: Oriya <oriya-it@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"Plural-Forms:  nplurals=2; plural=(n!=1);\n\n"
 "X-Generator: KBabel 1.11.4\n"
 
 #: rc.cpp:1
@@ -834,8 +835,7 @@ msgstr "ବିରତି"
 msgid ""
 "You may select a file where the log content is stored, before the regression "
 "testing started."
-msgstr ""
-"ଆପଣ ଗୋଟିଏ ଫାଇଲ ଚୟନ କରିପାରିବେ ଯେଉଁଠି ମାଶ୍ରୟଣ ପରିକ୍ଷଣ ଆରମ୍ଭ ହେବା ପୂର୍ବରୁ  ଲଗ ସୂଚୀ ରଖିହେଉଥିବ।"
+msgstr "ଆପଣ ଗୋଟିଏ ଫାଇଲ ଚୟନ କରିପାରିବେ ଯେଉଁଠି ମାଶ୍ରୟଣ ପରିକ୍ଷଣ ଆରମ୍ଭ ହେବା ପୂର୍ବରୁ  ଲଗ ସୂଚୀ ରଖିହେଉଥିବ।"
 
 #. i18n: file: khtml/test_regression_gui.ui:153
 #. i18n: ectx: property (text), widget (QPushButton, saveLogButton)
@@ -1192,8 +1192,7 @@ msgstr "ବ୍ୟବହାର ପାଇଁ Widget ଶୈଳୀ"
 msgid ""
 "The name of the widget style, for example \"keramik\" or \"plastik\". "
 "Without quotes."
-msgstr ""
-"Widget ଶୈଳୀର ନାମ, ଉଦାହରଣ ସ୍ୱରୂପ \"keramik\" କିମ୍ୱା \"plastik\"। ଉଦ୍ଧୃତ ଚିହ୍ନ ବିନା।"
+msgstr "Widget ଶୈଳୀର ନାମ, ଉଦାହରଣ ସ୍ୱରୂପ \"keramik\" କିମ୍ୱା \"plastik\"। ଉଦ୍ଧୃତ ଚିହ୍ନ ବିନା।"
 
 #. i18n: file: kutils/kdeglobals.kcfg:30
 #. i18n: ectx: label, entry, group (General)
@@ -1221,8 +1220,7 @@ msgstr "କେଉଁ ଟର୍ମିନାଲ ପ୍ରୟୋଗକୁ ବ୍ୟ
 msgid ""
 "Whenever a terminal application is launched this terminal emulator program "
 "will be used.\n"
-msgstr ""
-"ଯେତେବେଳେ ଗୋଟିଏ ଟର୍ମିନାଲ ପ୍ରୟୋଗକୁ ପ୍ରଚାଳନ କରାଯାଏ ଏହି ଟର୍ମିନାଲ ଯାନ୍ତ୍ରାନୁକରକଟି ବ୍ୟବହାର ହେବ।\n"
+msgstr "ଯେତେବେଳେ ଗୋଟିଏ ଟର୍ମିନାଲ ପ୍ରୟୋଗକୁ ପ୍ରଚାଳନ କରାଯାଏ ଏହି ଟର୍ମିନାଲ ଯାନ୍ତ୍ରାନୁକରକଟି ବ୍ୟବହାର ହେବ।\n"
 
 #. i18n: file: kutils/kdeglobals.kcfg:41
 #. i18n: ectx: label, entry, group (General)
@@ -1369,8 +1367,7 @@ msgstr "ଗତିପଟି ଦର୍ଶାନ୍ତୁ"
 #. i18n: file: kutils/kdeglobals.kcfg:406
 #. i18n: ectx: whatsthis, entry (Show Speedbar), group (KFileDialog Settings)
 #: rc.cpp:634
-msgid ""
-"Whether the shortcut icons to the left in the file dialog should be shown"
+msgid "Whether the shortcut icons to the left in the file dialog should be shown"
 msgstr "ଫାଇଲ ସଂଳାପରେ ବାମକୁ ଥିବା ସଂକ୍ଷିପ୍ତ ପଥ ଚିତ୍ରସଂକେତଗିଡିକୁ ଦର୍ଶାଯିବା ଉଚିତ କି"
 
 #. i18n: file: kutils/kdeglobals.kcfg:425
@@ -1382,8 +1379,7 @@ msgstr "କେଉଁ ଦେଶ"
 #. i18n: file: kutils/kdeglobals.kcfg:426
 #. i18n: ectx: whatsthis, entry, group (Locale)
 #: rc.cpp:640
-msgid ""
-"Used to determine how to display numbers, currency and time/date, for example"
+msgid "Used to determine how to display numbers, currency and time/date, for example"
 msgstr ""
 "ସଂଖ୍ୟାମାନଙ୍କୁ କିପରି ଦର୍ଶାଯିବ ତାହା ନିର୍ଦ୍ଧାରଣ କରିବା ପାଇଁ ବ୍ୟବହୃତ ହୋଇଥାଏ, ମୁଦ୍ରା ଏବଂ ସମୟ/ତାରିଖ, "
 "ଉଦାହରଣ ସ୍ୱରୂପ"
@@ -5568,8 +5564,7 @@ msgid "Discard changes"
 msgstr "ପରିବର୍ତ୍ତନଗୁଡିକୁ ପରିତ୍ୟାଗ କରନ୍ତୁ"
 
 #: kdeui/util/kstandardguiitem.cpp:127
-msgid ""
-"Pressing this button will discard all recent changes made in this dialog"
+msgid "Pressing this button will discard all recent changes made in this dialog"
 msgstr "ଏହି ବଟନ ଦବାଇବା ଫଳରେ ଏହି ସଂଳାପରେ ନିକଟରେ ହୋଇଥିବା ସମସ୍ତ ପରିବର୍ତ୍ତନଗୁଡିକୁ ପରିତ୍ୟାଗ କରିବ"
 
 #: kdeui/util/kstandardguiitem.cpp:133 kdeui/actions/kstandardaction_p.h:46
@@ -6262,8 +6257,7 @@ msgid "%1"
 msgstr "%1"
 
 #: kdeui/dialogs/kedittoolbar.cpp:1047
-msgid ""
-"This element will be replaced with all the elements of an embedded component."
+msgid "This element will be replaced with all the elements of an embedded component."
 msgstr ""
 
 #: kdeui/dialogs/kedittoolbar.cpp:1049
@@ -6458,8 +6452,7 @@ msgid "Submit Bug Report"
 msgstr "ତ୍ରୁଟି ବିବରଣୀ ଦାଖଲ କରନ୍ତୁ"
 
 #: kdeui/dialogs/kbugreport.cpp:129
-msgid ""
-"Your email address. If incorrect, use the Configure Email button to change it"
+msgid "Your email address. If incorrect, use the Configure Email button to change it"
 msgstr ""
 "ଆପଣଙ୍କର ଇମେଲ ଠିକଣା। ଯଦି ଭୁଲ ଅଛି, ତେବେ ଏହାକୁ ପରିବର୍ତ୍ତନ କରିବା ପାଇଁ ଇମେଲ ବିନ୍ୟାସ କରନ୍ତୁ ବଟନ "
 "ଦବାନ୍ତୁ"
@@ -6650,8 +6643,7 @@ msgstr "KDE ବିଷୟରେ"
 msgid ""
 "<html><font size=\"5\">K Desktop Environment</font><br /><b>Version %1</b></"
 "html>"
-msgstr ""
-"<html><font size=\"5\">K ଡେସ୍କଟପ ପରିବେଶ</font><br /><b>ସଂସ୍କରଣ %1</b></html>"
+msgstr "<html><font size=\"5\">K ଡେସ୍କଟପ ପରିବେଶ</font><br /><b>ସଂସ୍କରଣ %1</b></html>"
 
 #: kdeui/dialogs/kaboutkdedialog_p.cpp:56
 msgid ""
@@ -7127,8 +7119,7 @@ msgid ""
 msgstr ""
 
 #: kdeui/findreplace/kfinddialog.cpp:218
-msgid ""
-"Enter a pattern to search for, or select a previous pattern from the list."
+msgid "Enter a pattern to search for, or select a previous pattern from the list."
 msgstr ""
 
 #: kdeui/findreplace/kfinddialog.cpp:221
@@ -9902,10 +9893,8 @@ msgstr "URL ଭରଣ କରନ୍ତୁ:"
 
 #: khtml/khtml_ext.cpp:928
 #, kde-format
-msgid ""
-"A file named \"%1\" already exists. Are you sure you want to overwrite it?"
-msgstr ""
-"\"%1\" ନାମକ ଗୋଟିଏ ଫାଇଲ ପୂର୍ବରୁ ଅବସ୍ଥିତ ଅଛି। ଆପଣ ନିଶ୍ଚିତକି ଆପଣ ଏଥିରେ ନବଲିଖନ କରିବାକୁ ଚାହୁଁଛନ୍ତି?"
+msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+msgstr "\"%1\" ନାମକ ଗୋଟିଏ ଫାଇଲ ପୂର୍ବରୁ ଅବସ୍ଥିତ ଅଛି। ଆପଣ ନିଶ୍ଚିତକି ଆପଣ ଏଥିରେ ନବଲିଖନ କରିବାକୁ ଚାହୁଁଛନ୍ତି?"
 
 #: khtml/khtml_ext.cpp:928
 msgid "Overwrite File?"
@@ -11543,8 +11532,7 @@ msgstr "ଭୁଲ ସଂଖ୍ୟକ ସ୍ୱତନ୍ତ୍ରଚର।"
 
 #: kjsembed/kjsembed/qobject_binding.cpp:412
 #, kde-format
-msgid ""
-"The slot asked for %1 arguments but there are only %2 arguments available."
+msgid "The slot asked for %1 arguments but there are only %2 arguments available."
 msgstr ""
 
 #: kjsembed/kjsembed/qobject_binding.cpp:610
@@ -12091,8 +12079,7 @@ msgstr ""
 "ଶଙ୍କାପ୍ରକଟକରନ୍ତୁ ବିକଳ୍ପକୁ ବ୍ୟବହାର କରନ୍ତୁ।"
 
 #: kde3support/kunittest/modrunner.cpp:48
-msgid ""
-"Disables debug capturing. You typically use this option when you use the GUI."
+msgid "Disables debug capturing. You typically use this option when you use the GUI."
 msgstr ""
 "ତ୍ରୁଟିମୁକ୍ତ କରି ଧରିବାକୁ ନିଷ୍କ୍ରିୟକରେ। ଆପଣ GUI ବ୍ୟବହାର କରୁଥିବା ସମୟରେ ବିଶିଷ୍ଟ ରୂପେ ଏହି ବିକଳ୍ପକୁ "
 "ବ୍ୟବହାର କରନ୍ତୁ।"
@@ -12186,8 +12173,7 @@ msgstr "ନାମକରଣ ହୋଇଥିବା ରଙ୍ଗଗୁଡିକ"
 msgid ""
 "Unable to read X11 RGB color strings. The following file location(s) were "
 "examined:\n"
-msgstr ""
-"X11 RGB ରଙ୍ଗ ଧାରାଗୁଡିକୁ ପଢିବାରେ ଅସମର୍ଥ। ଏହି ନିମ୍ନଲିଖିତ ଫାଇଲ ସ୍ଥିତି(ଗୁଡିକୁ) ପରୀକ୍ଷା କରାଯାଇଛି:\n"
+msgstr "X11 RGB ରଙ୍ଗ ଧାରାଗୁଡିକୁ ପଢିବାରେ ଅସମର୍ଥ। ଏହି ନିମ୍ନଲିଖିତ ଫାଇଲ ସ୍ଥିତି(ଗୁଡିକୁ) ପରୀକ୍ଷା କରାଯାଇଛି:\n"
 
 #: kdeui/colors/kcolordialog.cpp:949
 msgid "Select Color"
@@ -12442,601 +12428,3 @@ msgstr "ଆଜିର ସୂଚନା (&D)"
 msgid "No such function \"%1\""
 msgstr "ଏପରି କିଛି ଫଳନ ନାହିଁ \"%1\""
 
-#, fuzzy
-#~| msgid "Options"
-#~ msgid "&Options"
-#~ msgstr "ବିକଳ୍ପଗୁଡିକ"
-
-#~ msgid "None"
-#~ msgstr "କେହିନୁହଁ"
-
-#~ msgid "Unsorted"
-#~ msgstr "ଅସଜଡା"
-
-#~ msgid "Call stack"
-#~ msgstr "ଥାକ ଡାକରା"
-
-#~ msgid "JavaScript console"
-#~ msgstr "JavaScript କନସୋଲ"
-
-#~ msgctxt "Next breakpoint"
-#~ msgid "&Next"
-#~ msgstr "ପରବର୍ତ୍ତୀ (&N)"
-
-#~ msgid "&Step"
-#~ msgstr "ସୋପାନ (&S)"
-
-#~ msgid "&Continue"
-#~ msgstr "ଚାଲୁରଖନ୍ତୁ (&C)"
-
-#~ msgid "St&op"
-#~ msgstr "ବିରାମ (&o)"
-
-#~ msgctxt "Next breakpoint"
-#~ msgid "Next"
-#~ msgstr "ପରବର୍ତ୍ତୀ"
-
-#, fuzzy
-#~| msgid "From:"
-#~ msgid "Form"
-#~ msgstr "ଠାରୁ:"
-
-#~ msgid "%1 %"
-#~ msgstr "%1 %"
-
-#~ msgid "Already open."
-#~ msgstr "ପୂର୍ବରୁ ଖୋଲାଅଛି।"
-
-#~ msgid "Error opening file."
-#~ msgstr "ଫାଇଲ ଖୋଲିବାରେ ତ୍ରୁଟି।"
-
-#~ msgid "Not a wallet file."
-#~ msgstr "ଗୋଟିଏ ୱାଲେଟ ଫାଇଲ ନୁହେଁ।"
-
-#~ msgid "Unsupported file format revision."
-#~ msgstr "ଅସମର୍ଥିତ ଫାଇଲ ସଜ୍ଜିକରଣ ଶୈଳୀ ସଂଶୋଧନ।"
-
-#~ msgid "Unknown encryption scheme."
-#~ msgstr "ଅଜଣା ସଂଗୁପ୍ତ ଯୋଜନା।"
-
-#~ msgid "Corrupt file?"
-#~ msgstr "ତ୍ରୁଟିଯୁକ୍ତ ଫାଇଲ?"
-
-#~ msgid "Error validating wallet integrity. Possibly corrupted."
-#~ msgstr "ୱାଲେଟ ଅଖଣ୍ଡତାକୁ ବିଧିମାନ୍ୟ କରିବାରେ ତ୍ରୁଟି। ସମ୍ଭବତଃ ଭ୍ରଷ୍ଟ ହୋଇଯାଇଛି।"
-
-#~ msgid "Read error - possibly incorrect password."
-#~ msgstr "ପଠନ ତ୍ରୁଟି - ସମ୍ଭବତ ଭୁଲ ପ୍ରବେଶ ସଂକେତ।"
-
-#~ msgid "Decryption error."
-#~ msgstr "ବିଗୁଢନ ତ୍ରୁଟି।"
-
-#, fuzzy
-#~| msgid "Open &Recent"
-#~ msgctxt "@action"
-#~ msgid "OpenRecent"
-#~ msgstr "ସାମ୍ପ୍ରତିକକୁ ଖୋଲନ୍ତୁ (&R)"
-
-#, fuzzy
-#~| msgid "Save As"
-#~ msgctxt "@action"
-#~ msgid "SaveAs"
-#~ msgstr "ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ"
-
-#, fuzzy
-#~| msgid "Print Preview"
-#~ msgctxt "@action"
-#~ msgid "PrintPreview"
-#~ msgstr "ପ୍ରାକ୍ ଦର୍ଶନକୁ ମୂଦ୍ରଣ କରନ୍ତୁ"
-
-#, fuzzy
-#~| msgid "&Actual Size"
-#~ msgctxt "@action"
-#~ msgid "ActualSize"
-#~ msgstr "ପ୍ରକୃତ ଆକାର (&A)"
-
-#, fuzzy
-#~| msgid "&Edit Bookmarks"
-#~ msgctxt "@action"
-#~ msgid "EditBookmarks"
-#~ msgstr "ଚିହ୍ନିତ ସ୍ଥାନଗୁଡିକୁ ସମ୍ପାଦନ କରନ୍ତୁ (&E)"
-
-#, fuzzy
-#~| msgid "Show &Toolbar"
-#~ msgctxt "@action"
-#~ msgid "ShowToolbar"
-#~ msgstr "ସାଧନପଟି ଦର୍ଶାନ୍ତୁ (&T) "
-
-#, fuzzy
-#~| msgid "Show St&atusbar"
-#~ msgctxt "@action"
-#~ msgid "ShowStatusbar"
-#~ msgstr "ଅବସ୍ଥିତି ପଟି ଦର୍ଶାନ୍ତୁ (&a)"
-
-#, fuzzy
-#~| msgid "Configure Toolbars"
-#~ msgctxt "@action"
-#~ msgid "ConfigureToolbars"
-#~ msgstr "ସାଧନପଟିଗୁଡିକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
-
-#, fuzzy
-#~| msgid "Configure Notifications"
-#~ msgctxt "@action"
-#~ msgid "ConfigureNotifications"
-#~ msgstr "ବିଜ୍ଞପ୍ତିଗୁଡିକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
-
-#, fuzzy
-#~| msgid "Switch Application Language"
-#~ msgctxt "@action"
-#~ msgid "SwitchApplicationLanguage"
-#~ msgstr "ପ୍ରୟୋଗ ଭାଷା ପରିବର୍ତ୍ତନ କରନ୍ତୁ"
-
-#, fuzzy
-#~| msgid "&About"
-#~ msgctxt "@action"
-#~ msgid "AboutApp"
-#~ msgstr "ବିଷୟରେ (&A)"
-
-#, fuzzy
-#~| msgid "About KDE"
-#~ msgctxt "@action"
-#~ msgid "AboutKDE"
-#~ msgstr "KDE ବିଷୟରେ"
-
-#~ msgid "Search"
-#~ msgstr "ଖୋଜନ୍ତୁ"
-
-#~ msgid "English"
-#~ msgstr "ଇଂରାଜୀ"
-
-#~ msgctxt "@action:inmenu"
-#~ msgid "Empty Trash"
-#~ msgstr "ଖାଲି ଆବର୍ଜନାପାତ୍ର"
-
-#~ msgid "&Edit '%1'..."
-#~ msgstr "'%1' କୁ ସମ୍ପାଦନ କରନ୍ତୁ (&E)..."
-
-#~ msgid "&Hide '%1'"
-#~ msgstr "'%1' କୁ ଲୁଚାନ୍ତୁ (&H)"
-
-#~ msgid "&Show All Entries"
-#~ msgstr "ସମସ୍ତ ଭରଣକୁ ଦର୍ଶାନ୍ତୁ (&S)"
-
-#~ msgid "&Remove '%1'"
-#~ msgstr "'%1' କୁ କାଢନ୍ତୁ (&R)"
-
-#~ msgctxt "@info"
-#~ msgid "Do you really want to empty the Trash? All items will be deleted."
-#~ msgstr "ଆପଣ ପ୍ରକୃତରେ ଆବର୍ଜନା ପାତ୍ରକୁ ଖାଲି କରିବାକୁ ଚାହୁଁଛନ୍ତିକି? ସମସ୍ତ ବସ୍ତୁ ଅପସାରିତ ହୋଇଯିବ।"
-
-#~ msgctxt "@action:button"
-#~ msgid "Empty Trash"
-#~ msgstr "ଖାଲି ଆବର୍ଜନା ପାତ୍ର"
-
-#~ msgid "*|All Files"
-#~ msgstr "*|ସମସ୍ତ ଫାଇଲଗୁଡିକ"
-
-#~ msgid "All Supported Files"
-#~ msgstr "ସମସ୍ତ ସମର୍ଥିତ ଫାଇଲଗୁଡିକ"
-
-#~ msgid "Drive: %1"
-#~ msgstr "ଡ୍ରାଇଭ: %1"
-
-#~ msgid ""
-#~ "Click this button to move backwards one step in the browsing history."
-#~ msgstr "ବ୍ରାଉଜିଙ୍ଗ ଇତିହାସରେ ଗୋଟିଏ ପାଦ ପଛକୁ ବଢିବା ପାଇଁ ଏହି ବଟନକୁ ଦବାନ୍ତୁ।"
-
-#~ msgid "Click this button to move forward one step in the browsing history."
-#~ msgstr "ବ୍ରାଉଜିଙ୍ଗ ଇତିହାସରେ ଗୋଟିଏ ପାଦ ଆଗକୁ ବଢିବା ପାଇଁ ଏହି ବଟନକୁ ଦବାନ୍ତୁ।"
-
-#~ msgid "Click this button to reload the contents of the current location."
-#~ msgstr "ସାମ୍ପ୍ରତିକ ସ୍ଥାନର ତତ୍ୱସବୁକୁ ପୁନଃ ସ୍ଥାପନ କରିବା ପାଇଁ ଏହି ବଟନକୁ ଦବାନ୍ତୁ।"
-
-#~ msgid "Click this button to create a new folder."
-#~ msgstr "ଗୋଟିଏ ନୂତନ ଫୋଲଡର ନିର୍ମାଣ କରିବାପାଇଁ ଏହି ବଟନ କୁ ଦବାନ୍ତୁ।"
-
-#~ msgid "Show Places Navigation Panel"
-#~ msgstr "ପଥପ୍ରଦର୍ଶନ ଫଳକ ସ୍ଥାନ ଦର୍ଶାନ୍ତୁ"
-
-#~ msgid "Show Bookmarks"
-#~ msgstr "ଚିହ୍ନିତ ସ୍ଥାନଗୁଡିକୁ ଦର୍ଶାନ୍ତୁ"
-
-#~ msgid "&Location:"
-#~ msgstr "ସ୍ଥାନ (&L):"
-
-#~ msgid "&Filter:"
-#~ msgstr "ଛାଣନ୍ତୁ (&F):"
-
-#~ msgid "You can only select local files."
-#~ msgstr "ଆପଣ କେବଳ ସ୍ଥାନୀୟ ଫାଇଲ ଚୟନ କରିପାରିବେ।"
-
-#~ msgid "Remote Files Not Accepted"
-#~ msgstr "ଦୂର ଫାଇଲଗୁଡିକ ଗ୍ରହଣ କରାଯିବ ନାହିଁ"
-
-#~ msgid ""
-#~ "%1\n"
-#~ "does not appear to be a valid URL.\n"
-#~ msgstr ""
-#~ "%1\n"
-#~ "ଗୋଟିଏ ବୈଧ URL ପରି ଦେଖାଯାଉଛି।\n"
-
-#~ msgid "Invalid URL"
-#~ msgstr "ଅବୈଧ URL"
-
-#~ msgid "This is the name to save the file as."
-#~ msgstr "ଏହା ହେଉଛି ସଂରକ୍ଷଣ କରିବାକୁ ଥିବା ଫାଇଲର ନାମ।"
-
-#~ msgid "This is the name of the file to open."
-#~ msgstr "ଏହା ହେଉଛି ଖୋଲିବାକୁ ଥିବା ଫାଇଲର ନାମ।"
-
-#, fuzzy
-#~| msgid ""
-#~| "A file named \"%1\" already exists. Are you sure you want to overwrite "
-#~| "it?"
-#~ msgid "The file \"%1\" already exists. Do you wish to overwrite it?"
-#~ msgstr ""
-#~ "\"%1\" ନାମକ ଗୋଟିଏ ଫାଇଲ ପୂର୍ବରୁ ଅବସ୍ଥିତ ଅଛି। ଆପଣ ନିଶ୍ଚିତକି ଆପଣ ଏଥିରେ ନବଲିଖନ କରିବାକୁ "
-#~ "ଚାହୁଁଛନ୍ତି?"
-
-#~ msgid ""
-#~ "The chosen filenames do not\n"
-#~ "appear to be valid."
-#~ msgstr ""
-#~ "ଏହି ବଚ୍ଛିତ ଫାଇଲନାମ ବୈଧ ପରି \n"
-#~ "ଦେଖାଯାଉନାହିଁ।"
-
-#~ msgid "Invalid Filenames"
-#~ msgstr "ଅବୈଧ ଫାଇଲନାମଗୁଡିକ"
-
-#~ msgid ""
-#~ "The requested filenames\n"
-#~ "%1\n"
-#~ "do not appear to be valid;\n"
-#~ "make sure every filename is enclosed in double quotes."
-#~ msgstr ""
-#~ "ଅନୁରୋଧିତ ଫାଇଲ ନାମଗୁଡିକ\n"
-#~ "%1\n"
-#~ "ବୈଧିକୃତ ହେବାପରି ଦେଖାଯାଉନାହିଁ;\n"
-#~ "ନିଶ୍ଚିତ ହୁଅନ୍ତୁ ପ୍ରତ୍ୟେକ ଫାଇଲନାମ ଉଦ୍ଧୃତଚିହ୍ନ ମଧ୍ଯରେ ଆବଦ୍ଧ।"
-
-#~ msgid "Filename Error"
-#~ msgstr "ଫାଇଲ ନାମ ତ୍ରୁଟି"
-
-#~ msgid "*|All Folders"
-#~ msgstr "*|ସମସ୍ତ ଫୋଲଡରଗୁଡିକ"
-
-#~ msgid "Automatically select filename e&xtension (%1)"
-#~ msgstr "ସ୍ୱୟଂଚାଳିତ ଭାବେ ଫାଇଲନାମ ଅନୁଲଗ୍ନ (%1) ଚୟନ କରନ୍ତୁ (&x)"
-
-#~ msgid "the extension <b>%1</b>"
-#~ msgstr "ଅନୁଲଗ୍ନ <b>%1</b>"
-
-#~ msgid "Automatically select filename e&xtension"
-#~ msgstr "ସ୍ୱୟଂଚାଳିତ ଭାବେ ଫାଇଲନାମ ଅନୁଲଗ୍ନ ଚୟନ କରନ୍ତୁ (&x)"
-
-#~ msgid "a suitable extension"
-#~ msgstr "ଗୋଟିଏ ଉପଯୁକ୍ତ ଅନୁଲଗ୍ନ"
-
-#~ msgid "Bookmarks"
-#~ msgstr "ଚିହ୍ନିତ ସ୍ଥାନଗୁଡିକ"
-
-#~ msgctxt "Home Directory"
-#~ msgid "Home"
-#~ msgstr "ମୂଳସ୍ଥାନ"
-
-#~ msgid "Network"
-#~ msgstr "ନେଟୱାର୍କ"
-
-#~ msgid "Root"
-#~ msgstr "ମୂଳ"
-
-#~ msgid "Trash"
-#~ msgstr "ଆବର୍ଜନା ପାତ୍ର"
-
-#, fuzzy
-#~| msgid "&Remove '%1'"
-#~ msgid "&Release '%1'"
-#~ msgstr "'%1' କୁ କାଢନ୍ତୁ (&R)"
-
-#~ msgid "&Safely Remove '%1'"
-#~ msgstr "'%1'କୁ ସୁରକ୍ଷିତ ଭାବେ କାଢନ୍ତୁ (&S)"
-
-#~ msgid "&Eject '%1'"
-#~ msgstr "'%1'କୁ ବାହାର କରନ୍ତୁ (&E)"
-
-#, fuzzy
-#~| msgid "%1 is not a function and cannot be called."
-#~ msgid "The device '%1' is not a disc and can't be ejected."
-#~ msgstr "%1 ଟି ଗୋଟିଏ ଫଳନ ନୁହଁ ଏବଂ ଏହାକୁ ଡକାଯାଇପାରିବନାହିଁ।"
-
-#~ msgid "An error occurred while accessing '%1', the system responded: %2"
-#~ msgstr "'%1' ରେ ପ୍ରବେଶ କଲାବେଳେ ଗୋଟିଏ ତ୍ରୁଟି ଘଟିଲା, ତନ୍ତ୍ର ଉତ୍ତର ଦେଲା: %2"
-
-#~ msgid "An error occurred while accessing '%1'"
-#~ msgstr "'%1' ରେ ପ୍ରବେଶ କଲାବେଳେ ଗୋଟିଏ ତ୍ରୁଟି ଘଟିଲା"
-
-#~ msgid "Custom Path"
-#~ msgstr "ଇଚ୍ଛାରୂପୀ ପଥ"
-
-#~ msgid "New Folder"
-#~ msgstr "ନୂଆ ଫୋଲ୍ଡର"
-
-#~ msgctxt "@title:window"
-#~ msgid "New Folder"
-#~ msgstr "ନୂଆ ଫୋଲଡର"
-
-#~ msgctxt "@label:textbox"
-#~ msgid ""
-#~ "Create new folder in:\n"
-#~ "%1"
-#~ msgstr ""
-#~ "ନୂତନ ଫୋଲଡର ନିର୍ମାଣ କରନ୍ତୁ:\n"
-#~ "%1 ରେ"
-
-#~ msgid "A file or folder named %1 already exists."
-#~ msgstr "%1 ନାମରେ ଗୋଟିଏ ଫାଇଲ କିମ୍ବା ଫୋଲଡର ପୂର୍ବରୁ ଅବସ୍ଥିତ ଅଛି।"
-
-#~ msgid "You do not have permission to create that folder."
-#~ msgstr "ସେହି ଫୋଲଡର ନିର୍ମାଣ କରିବାପାଇଁ ଆପଣଙ୍କ ପାଖରେ ଅନୁମତି ନାହିଁ।"
-
-#~ msgctxt "@title:window"
-#~ msgid "Select Folder"
-#~ msgstr "ଫୋଲଡର୍ ଚୟନ କରନ୍ତୁ"
-
-#~ msgctxt "@action:button"
-#~ msgid "New Folder..."
-#~ msgstr "ନୂତନ ଫୋଲଡର..."
-
-#~ msgctxt "@action:inmenu"
-#~ msgid "New Folder..."
-#~ msgstr "ନୂତନ ଫୋଲଡର..."
-
-#~ msgctxt "@option:check"
-#~ msgid "Show Hidden Folders"
-#~ msgstr "ଲୁକ୍କାୟିତ ଫୋଲଡରଗୁଡିକୁ ଦର୍ଶାନ୍ତୁ"
-
-#~ msgid "Edit Places Entry"
-#~ msgstr "ସ୍ଥାନିତ ଭରଣକୁ ସମ୍ପାଦନ କରନ୍ତୁ"
-
-#~ msgid "&Description:"
-#~ msgstr "ବର୍ଣ୍ଣନା (&D):"
-
-#~ msgid "Choose an &icon:"
-#~ msgstr "ଗୋଟିଏ ଚିତ୍ରସଙ୍କେତ ଚୟନ କରନ୍ତୁ:"
-
-#~ msgid "&Only show when using this application (%1)"
-#~ msgstr "କେବଳ ଏହି ପ୍ରୟୋଗ (%1) ବ୍ୟବହାର କରିବା ସମୟରେ ଦର୍ଶାନ୍ତୁ"
-
-#~ msgid "Show Hidden Folders"
-#~ msgstr "ଲୁକ୍କାୟିତ ଫୋଲଡରଗୁଡିକୁ ଦର୍ଶାନ୍ତୁ"
-
-#~ msgid ""
-#~ "Create new folder in:\n"
-#~ "%1"
-#~ msgstr ""
-#~ "ନୂତନ ଫୋଲଡର ନିର୍ମାଣ କରନ୍ତୁ:\n"
-#~ "%1 ରେ"
-
-#~ msgid "You did not select a file to delete."
-#~ msgstr "ଆପଣ ଅପସାରଣ କରିବା ପାଇଁ କୌଣସି ଫାଇଲ ଚୟନ କରିନଥିଲେ।"
-
-#~ msgid "Nothing to Delete"
-#~ msgstr "ଅପସାରଣ କରିବା ପାଇଁ କିଛିନାହିଁ"
-
-#~ msgid ""
-#~ "<qt>Do you really want to delete\n"
-#~ " <b>'%1'</b>?</qt>"
-#~ msgstr ""
-#~ "<qt>କଣ ଆପଣ ପ୍ରକୃତରେ ଅପସାରଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି\n"
-#~ " <b>'%1'</b>?</qt>"
-
-#~ msgid "Delete File"
-#~ msgstr "ଫାଇଲ ଅପସାରଣ କରନ୍ତୁ"
-
-#~ msgid "Do you really want to delete this item?"
-#~ msgid_plural "Do you really want to delete these %1 items?"
-#~ msgstr[0] "କଣ ଆପଣ ପ୍ରକୃତରେ ଏହି ବସ୍ତୁକୁ ଅପସାରଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି?"
-#~ msgstr[1] "କଣ ଆପଣ ପ୍ରକୃତରେ ଏହି %1 ବସ୍ତୁଗୁଡିକୁ ଅପସାରଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି?"
-
-#~ msgid "Delete Files"
-#~ msgstr "ଫାଇଲଗୁଡିକୁ ଅପସାରଣକରନ୍ତୁ"
-
-#~ msgid "You did not select a file to trash."
-#~ msgstr "ଆପଣ ବର୍ଜନ କରିବା ପାଇଁ କୌଣସି ଫାଇଲ ଚୟନ କରିନଥିଲେ।"
-
-#~ msgid "Nothing to Trash"
-#~ msgstr "ବର୍ଜନ କରିବାକୁ କିଛିନାହିଁ"
-
-#~ msgid ""
-#~ "<qt>Do you really want to trash\n"
-#~ " <b>'%1'</b>?</qt>"
-#~ msgstr ""
-#~ "<qt>କଣ ଆପଣ ପ୍ରକୃତରେ ବର୍ଜନ କରିବାକୁ ଚାହୁଁଛନ୍ତି\n"
-#~ " <b>'%1'</b>?</qt>"
-
-#~ msgid "Trash File"
-#~ msgstr "ବର୍ଜିତ ଫାଇଲ"
-
-#~ msgctxt "to trash"
-#~ msgid "&Trash"
-#~ msgstr "ଆବର୍ଜନା ପାତ୍ର (&T)"
-
-#~ msgid "Trash Files"
-#~ msgstr "ବର୍ଜିତ ଫାଇଲଗୁଡିକ"
-
-#~ msgid "The specified folder does not exist or was not readable."
-#~ msgstr "ଉଲ୍ଲେଖିତ ଫୋଲଡର ଅବସ୍ଥିତ ନାହିଁ କିମ୍ବା ପଢିବାଯୋଗ୍ୟ ନୁହଁ।"
-
-#~ msgid "Menu"
-#~ msgstr "ତାଲିକା"
-
-#~ msgid "Parent Folder"
-#~ msgstr "ମୂଳ ଫୋଲଡର"
-
-#~ msgid "Home Folder"
-#~ msgstr "ମୂଳ ସ୍ଥାନ ଫୋଲଡର"
-
-#~ msgid "Reload"
-#~ msgstr "ପୁନର୍ଧାରଣ କରନ୍ତୁ"
-
-#~ msgid "New Folder..."
-#~ msgstr "ନୂତନ ଫୋଲଡର..."
-
-#~ msgid "Move to Trash"
-#~ msgstr "ଆବର୍ଜନା ପାତ୍ରରେ ପକାନ୍ତୁ"
-
-#~ msgid "Sorting"
-#~ msgstr "ସଜାଡୁଅଛି"
-
-#~ msgid "By Name"
-#~ msgstr "ନାମ ଆକାରରେ"
-
-#~ msgid "By Size"
-#~ msgstr "ଆକାର ଆକାରରେ"
-
-#~ msgid "By Date"
-#~ msgstr "ତାରିଖ ଆକାରରେ"
-
-#~ msgid "By Type"
-#~ msgstr "ପ୍ରକାର ଆକାରରେ"
-
-#~ msgid "Descending"
-#~ msgstr "ବଡରୁ ସାନ କ୍ରମରେ"
-
-#~ msgid "Short View"
-#~ msgstr "ସଂକ୍ଷିପ୍ତ ଦୃଶ୍ୟ"
-
-#~ msgid "Detailed View"
-#~ msgstr "ବିସ୍ତୃତ ବିବରଣୀ ଦୃଶ୍ୟ"
-
-#, fuzzy
-#~| msgid "Detailed View"
-#~ msgid "Tree View"
-#~ msgstr "ବିସ୍ତୃତ ବିବରଣୀ ଦୃଶ୍ୟ"
-
-#, fuzzy
-#~| msgid "Detailed View"
-#~ msgid "Detailed Tree View"
-#~ msgstr "ବିସ୍ତୃତ ବିବରଣୀ ଦୃଶ୍ୟ"
-
-#~ msgid "Show Hidden Files"
-#~ msgstr "ଲୁକ୍କାୟିତ ଫାଇଲ ଦର୍ଶାନ୍ତୁ"
-
-#~ msgid "Show Preview"
-#~ msgstr "ପ୍ରାକଦର୍ଶନ ଦର୍ଶାନ୍ତୁ"
-
-#~ msgid "Click for Location Navigation"
-#~ msgstr "ସ୍ଥାନ ପଥପ୍ରଦର୍ଶନ ପାଇଁ ଦବାନ୍ତୁ"
-
-#~ msgid "Navigate"
-#~ msgstr "ପଥପ୍ରଦର୍ଶନ କରନ୍ତୁ"
-
-#, fuzzy
-#~| msgid "Show all options"
-#~ msgid "Show Full Path"
-#~ msgstr "ସମସ୍ତ ବିକଳ୍ପଗୁଡିକୁ ଦର୍ଶାନ୍ତୁ"
-
-#, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Buginese"
-#~ msgctxt "@item Text character set"
-#~ msgid "Chinese"
-#~ msgstr "ବୁବିନିଜ"
-
-#, fuzzy
-#~| msgid "Parent Folder"
-#~ msgctxt "@info:tooltip"
-#~ msgid "Parent Folder"
-#~ msgstr "ମୂଳ ଫୋଲଡର"
-
-#~ msgid "Shift"
-#~ msgstr "ସିଫ୍ଟ (Shift)"
-
-#~ msgid "Ctrl"
-#~ msgstr "କଣ୍ଟ୍ରୋଲ (Ctrl)"
-
-#~ msgid "Meta"
-#~ msgstr "ଅଧି"
-
-#~ msgctxt "@info:tooltip Action tooltip in shortcuts configuration"
-#~ msgid "%1"
-#~ msgstr "%1"
-
-#~ msgid ""
-#~ "Name:\n"
-#~ "%1"
-#~ msgstr ""
-#~ "ନାମ:\n"
-#~ "%1"
-
-#~ msgid ""
-#~ "\n"
-#~ "\n"
-#~ "Comment:\n"
-#~ "%1"
-#~ msgstr ""
-#~ "\n"
-#~ "\n"
-#~ "ଟିପ୍ପଣୀ:\n"
-#~ "%1"
-
-#~ msgid ""
-#~ "\n"
-#~ "\n"
-#~ "Author:\n"
-#~ "%1"
-#~ msgstr ""
-#~ "\n"
-#~ "\n"
-#~ "ଲେଖକ:\n"
-#~ "%1"
-
-#~ msgid ""
-#~ "\n"
-#~ "\n"
-#~ "E-Mail:\n"
-#~ "%1"
-#~ msgstr ""
-#~ "\n"
-#~ "\n"
-#~ "ଇ-ମେଲ:\n"
-#~ "%1"
-
-#~ msgid ""
-#~ "\n"
-#~ "\n"
-#~ "Website:\n"
-#~ "%1"
-#~ msgstr ""
-#~ "\n"
-#~ "\n"
-#~ "ୱେବସାଇଟ:\n"
-#~ "%1"
-
-#~ msgid ""
-#~ "\n"
-#~ "\n"
-#~ "Version:\n"
-#~ "%1"
-#~ msgstr ""
-#~ "\n"
-#~ "\n"
-#~ "ସଂସ୍କରଣ:\n"
-#~ "%1"
-
-#~ msgid ""
-#~ "\n"
-#~ "\n"
-#~ "License:\n"
-#~ "%1"
-#~ msgstr ""
-#~ "\n"
-#~ "\n"
-#~ "ଅନୁମତି ପତ୍ର:\n"
-#~ "%1"
-
-#~ msgid "About Plugin \"%1\""
-#~ msgstr "ପ୍ଲଗଇନ ବିଷୟରେ \"%1\""
-
-#~ msgid "component enabled:"
-#~ msgstr "ଯନ୍ତ୍ରାଂଶ ସକ୍ରିୟ ହୋଇଯାଇଛି:"
