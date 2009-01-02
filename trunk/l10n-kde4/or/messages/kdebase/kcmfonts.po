@@ -15,7 +15,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
-"Plural-Forms:  nplurals=2; plural=(n!=1);\n\n"
+"Plural-Forms:  nplurals=2; plural=(n!=1);\n"
+"\n"
 
 #: fonts.cpp:225
 msgid "Configure Anti-Alias Settings"
@@ -54,7 +55,8 @@ msgid "Hinting style: "
 msgstr ""
 
 #: fonts.cpp:277
-msgid "Hinting is a process used to enhance the quality of fonts at small sizes."
+msgid ""
+"Hinting is a process used to enhance the quality of fonts at small sizes."
 msgstr ""
 
 #: fonts.cpp:503
@@ -155,7 +157,8 @@ msgid "Disabled"
 msgstr ""
 
 #: fonts.cpp:621
-msgid "If this option is selected, KDE will smooth the edges of curves in fonts."
+msgid ""
+"If this option is selected, KDE will smooth the edges of curves in fonts."
 msgstr ""
 
 #: fonts.cpp:623
@@ -203,7 +206,8 @@ msgid "Font Settings Changed"
 msgstr ""
 
 #: fonts.cpp:791
-msgid "<p>Some changes such as DPI will only affect newly started applications.</p>"
+msgid ""
+"<p>Some changes such as DPI will only affect newly started applications.</p>"
 msgstr ""
 
 #: kxftconfig.cpp:588 kxftconfig.cpp:628
@@ -237,4 +241,3 @@ msgstr ""
 #: kxftconfig.cpp:632
 msgid "Full"
 msgstr ""
-

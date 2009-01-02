@@ -15,7 +15,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
-"Plural-Forms:  nplurals=2; plural=(n!=1);\n\n"
+"Plural-Forms:  nplurals=2; plural=(n!=1);\n"
+"\n"
 
 #: BookmarkHandler.cpp:134
 #, kde-format
@@ -703,7 +704,8 @@ msgid ""
 msgstr ""
 
 #: main.cpp:131
-msgid "Create a new tab in an existing window rather than creating a new window"
+msgid ""
+"Create a new tab in an existing window rather than creating a new window"
 msgstr ""
 
 #: main.cpp:132
@@ -715,7 +717,8 @@ msgid "Disable transparent backgrounds, even if the system supports them."
 msgstr ""
 
 #: main.cpp:135
-msgid "Try to enable transparency, even if the system does not appear to support it."
+msgid ""
+"Try to enable transparency, even if the system does not appear to support it."
 msgstr ""
 
 #: main.cpp:137
@@ -975,7 +978,8 @@ msgstr ""
 #. i18n: file: EditProfileDialog.ui:102
 #. i18n: ectx: property (toolTip), widget (KLineEdit, initialDirEdit)
 #: rc.cpp:45 rc.cpp:430
-msgid "The initial working directory for new terminal sessions using this profile"
+msgid ""
+"The initial working directory for new terminal sessions using this profile"
 msgstr ""
 
 #. i18n: file: EditProfileDialog.ui:112
@@ -1804,4 +1808,3 @@ msgstr ""
 #: schemas.cpp:11
 msgid "DEC VT420 Terminal"
 msgstr ""
-

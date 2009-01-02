@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmlocale\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-12-30 09:54+0100\n"
+"POT-Creation-Date: 2009-01-01 09:42+0100\n"
 "PO-Revision-Date: 2009-01-02 11:46+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -15,7 +15,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
-"Plural-Forms:  nplurals=2; plural=(n!=1);\n\n"
+"Plural-Forms:  nplurals=2; plural=(n!=1);\n"
+"\n"
 
 #: countryselectordialog.cpp:217
 msgid "Country Selector"
@@ -32,65 +33,66 @@ msgstr ""
 
 #. i18n: file: language.ui:28
 #. i18n: ectx: property (text), widget (QLabel, m_crLabel)
-#: kcmlocale.cpp:50 rc.cpp:3
+#: kcmlocale.cpp:77 rc.cpp:3
 msgid "Country or region:"
 msgstr ""
 
 #. i18n: file: language.ui:38
 #. i18n: ectx: property (text), widget (QLabel, m_languagesLabel)
-#: kcmlocale.cpp:51 rc.cpp:6
+#: kcmlocale.cpp:78 rc.cpp:6
 msgid "Languages:"
 msgstr ""
 
-#. i18n: file: language.ui:127
+#. i18n: file: language.ui:142
 #. i18n: ectx: property (text), widget (QPushButton, languageRemove)
-#: kcmlocale.cpp:52 rc.cpp:12
+#: kcmlocale.cpp:79 rc.cpp:12
 msgid "Remove"
 msgstr ""
 
-#: kcmlocale.cpp:216
+#: kcmlocale.cpp:212
 msgctxt "@item:intext Country"
 msgid "Not set (Generic English)"
 msgstr ""
 
-#: kcmlocale.cpp:217
+#: kcmlocale.cpp:213
 #, kde-format
 msgctxt "@info %1 is country name"
 msgid "<html>%1 (<a href=\"changeCountry\">change...</a>)</html>"
 msgstr ""
 
-#: kcmlocale.cpp:222
+#: kcmlocale.cpp:218
 msgid "Add Language"
 msgstr ""
 
-#: kcmlocale.cpp:225
-msgid "This is where you live. KDE will use the defaults for this country or region."
+#: kcmlocale.cpp:221
+msgid ""
+"This is where you live. KDE will use the defaults for this country or region."
 msgstr ""
 
-#: kcmlocale.cpp:228
+#: kcmlocale.cpp:224
 msgid ""
 "This will add a language to the list. If the language is already in the "
 "list, the old one will be moved instead."
 msgstr ""
 
-#: kcmlocale.cpp:232
+#: kcmlocale.cpp:228
 msgid "This will remove the highlighted language from the list."
 msgstr ""
 
-#: kcmlocale.cpp:235
+#: kcmlocale.cpp:231
 msgid ""
 "KDE programs will be displayed in the first available language in this "
 "list.\n"
 "If none of the languages are available, US English will be used."
 msgstr ""
 
-#: kcmlocale.cpp:242
+#: kcmlocale.cpp:238
 msgid ""
 "Here you can choose your country or region. The settings for languages, "
 "numbers etc. will automatically switch to the corresponding values."
 msgstr ""
 
-#: kcmlocale.cpp:249
+#: kcmlocale.cpp:245
 msgid ""
 "<p>Here you can choose the languages that will be used by KDE. If the first "
 "language in the list is not available, the second will be used, etc. If only "
@@ -421,21 +423,73 @@ msgstr ""
 msgid "WEEKDAY"
 msgstr ""
 
-#: localetime.cpp:458
+#: localetime.cpp:207
+msgid "Calendar system:"
+msgstr ""
+
+#. i18n: file: localetime.ui:60
+#. i18n: ectx: property (text), widget (QLabel, m_labTimeFmt)
+#: localetime.cpp:215 rc.cpp:81
+msgid "Time format:"
+msgstr ""
+
+#. i18n: file: localetime.ui:74
+#. i18n: ectx: property (text), widget (QLabel, m_labDateFmt)
+#: localetime.cpp:220 rc.cpp:84
+msgid "Date format:"
+msgstr ""
+
+#. i18n: file: localetime.ui:88
+#. i18n: ectx: property (text), widget (QLabel, m_labDateFmtShort)
+#: localetime.cpp:225 rc.cpp:87
+msgid "Short date format:"
+msgstr ""
+
+#. i18n: file: localetime.ui:100
+#. i18n: ectx: property (text), widget (QCheckBox, m_chDateMonthNamePossessive)
+#: localetime.cpp:230 rc.cpp:90
+msgid "Use declined form of month name"
+msgstr ""
+
+#. i18n: file: localetime.ui:118
+#. i18n: ectx: property (text), widget (QLabel, labWeekStartDay)
+#: localetime.cpp:234 rc.cpp:93
+msgid "First day of the week:"
+msgstr ""
+
+#. i18n: file: localetime.ui:132
+#. i18n: ectx: property (text), widget (QLabel, labWorkingWeekStartDay)
+#: localetime.cpp:239 rc.cpp:96
+msgid "First working day of the week:"
+msgstr ""
+
+#. i18n: file: localetime.ui:146
+#. i18n: ectx: property (text), widget (QLabel, labWorkingWeekEndDay)
+#: localetime.cpp:244 rc.cpp:99
+msgid "Last working day of the week:"
+msgstr ""
+
+#. i18n: file: localetime.ui:160
+#. i18n: ectx: property (text), widget (QLabel, labWeekDayOfPray)
+#: localetime.cpp:249 rc.cpp:102
+msgid "Day of the week for religious observance:"
+msgstr ""
+
+#: localetime.cpp:469
 msgctxt "some reasonable time formats for the language"
 msgid ""
 "HH:MM:SS\n"
 "pH:MM:SS AMPM"
 msgstr ""
 
-#: localetime.cpp:466
+#: localetime.cpp:477
 msgctxt "some reasonable date formats for the language"
 msgid ""
 "WEEKDAY MONTH dD YYYY\n"
 "SHORTWEEKDAY MONTH dD YYYY"
 msgstr ""
 
-#: localetime.cpp:474
+#: localetime.cpp:485
 msgctxt "some reasonable short date formats for the language"
 msgid ""
 "YYYY-MM-DD\n"
@@ -443,27 +497,27 @@ msgid ""
 "DD.MM.YYYY"
 msgstr ""
 
-#: localetime.cpp:485
+#: localetime.cpp:496
 msgctxt "Calendar System Gregorian"
 msgid "Gregorian"
 msgstr ""
 
-#: localetime.cpp:487
+#: localetime.cpp:498
 msgctxt "Calendar System Hijri"
 msgid "Hijri"
 msgstr ""
 
-#: localetime.cpp:489
+#: localetime.cpp:500
 msgctxt "Calendar System Hebrew"
 msgid "Hebrew"
 msgstr ""
 
-#: localetime.cpp:491
+#: localetime.cpp:502
 msgctxt "Calendar System Jalali"
 msgid "Jalali"
 msgstr ""
 
-#: localetime.cpp:494
+#: localetime.cpp:505
 msgid ""
 "<p>The text in this textbox will be used to format time strings. The "
 "sequences below will be replaced:</p><table><tr><td><b>HH</b></td><td>The "
@@ -478,7 +532,7 @@ msgid ""
 "treated as \"pm\" and midnight as \"am\".</td></tr></table>"
 msgstr ""
 
-#: localetime.cpp:517
+#: localetime.cpp:528
 msgid ""
 "<table><tr><td><b>YYYY</b></td><td>The year with century as a decimal number."
 "</td></tr><tr><td><b>YY</b></td><td>The year without century as a decimal "
@@ -493,55 +547,55 @@ msgid ""
 "td><td>The full weekday name.</td></tr></table>"
 msgstr ""
 
-#: localetime.cpp:538
+#: localetime.cpp:549
 msgid ""
 "<p>The text in this textbox will be used to format long dates. The sequences "
 "below will be replaced:</p>"
 msgstr ""
 
-#: localetime.cpp:544
+#: localetime.cpp:555
 msgid ""
 "<p>The text in this textbox will be used to format short dates. For "
 "instance, this is used when listing files. The sequences below will be "
 "replaced:</p>"
 msgstr ""
 
-#: localetime.cpp:551
+#: localetime.cpp:562
 msgid ""
 "<p>This option determines which day will be considered as the first one of "
 "the week.</p>"
 msgstr ""
 
-#: localetime.cpp:556
+#: localetime.cpp:567
 msgid ""
 "<p>This option determines which day will be considered as the first working "
 "day of the week.</p>"
 msgstr ""
 
-#: localetime.cpp:561
+#: localetime.cpp:572
 msgid ""
 "<p>This option determines which day will be considered as the last working "
 "day of the week.</p>"
 msgstr ""
 
-#: localetime.cpp:566
+#: localetime.cpp:577
 msgid ""
 "<p>This option determines which day will be considered as the day of the "
 "week for religious observance.</p>"
 msgstr ""
 
-#: localetime.cpp:573
+#: localetime.cpp:584
 msgid ""
 "<p>This option determines whether possessive form of month names should be "
 "used in dates.</p>"
 msgstr ""
 
-#: localetime.cpp:583
+#: localetime.cpp:594
 msgctxt "Day name list, option for no day of religious observance"
 msgid "None"
 msgstr ""
 
-#. i18n: file: language.ui:95
+#. i18n: file: language.ui:110
 #. i18n: ectx: property (text), widget (QLabel, m_selectedCountryLabel)
 #: rc.cpp:9
 msgid "None selected (<a href=\"/change\">change...</a>)"
@@ -563,54 +617,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, labCalendarSystem)
 #: rc.cpp:78
 msgid "Calendar system"
-msgstr ""
-
-#. i18n: file: localetime.ui:54
-#. i18n: ectx: property (text), widget (QLabel, m_labTimeFmt)
-#: rc.cpp:81
-msgid "Time format:"
-msgstr ""
-
-#. i18n: file: localetime.ui:68
-#. i18n: ectx: property (text), widget (QLabel, m_labDateFmt)
-#: rc.cpp:84
-msgid "Date format:"
-msgstr ""
-
-#. i18n: file: localetime.ui:82
-#. i18n: ectx: property (text), widget (QLabel, m_labDateFmtShort)
-#: rc.cpp:87
-msgid "Short date format:"
-msgstr ""
-
-#. i18n: file: localetime.ui:94
-#. i18n: ectx: property (text), widget (QCheckBox, m_chDateMonthNamePossessive)
-#: rc.cpp:90
-msgid "Use declined form of month name"
-msgstr ""
-
-#. i18n: file: localetime.ui:112
-#. i18n: ectx: property (text), widget (QLabel, labWeekStartDay)
-#: rc.cpp:93
-msgid "First day of the week:"
-msgstr ""
-
-#. i18n: file: localetime.ui:126
-#. i18n: ectx: property (text), widget (QLabel, labWorkingWeekStartDay)
-#: rc.cpp:96
-msgid "First working day of the week:"
-msgstr ""
-
-#. i18n: file: localetime.ui:140
-#. i18n: ectx: property (text), widget (QLabel, labWorkingWeekEndDay)
-#: rc.cpp:99
-msgid "Last working day of the week:"
-msgstr ""
-
-#. i18n: file: localetime.ui:154
-#. i18n: ectx: property (text), widget (QLabel, labWeekDayOfPray)
-#: rc.cpp:102
-msgid "Day of the week for religious observance:"
 msgstr ""
 
 #: rc.cpp:103
@@ -679,4 +685,3 @@ msgstr ""
 #: toplevel.cpp:266
 msgid "&Other"
 msgstr ""
-
