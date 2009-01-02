@@ -3,19 +3,21 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Manoj Kumar Giri <giri.manojkr@gmail.com>, 2008.
-# Manoj Kumar Giri <mgiri@redhat.com>, 2008.
+# Manoj Kumar Giri <mgiri@redhat.com>, 2008, 2009.
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2008-12-31 11:05+0100\n"
-"PO-Revision-Date: 2008-12-30 12:03+0530\n"
+"PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"Plural-Forms:  nplurals=2; plural=(n!=1);\n\n"
+"\n"
+"\n"
 "\n"
 "X-Generator: KBabel 1.11.4\n"
 
@@ -27,7 +29,7 @@ msgstr "ମନୋଜ କୁମାର ଗିରି"
 #: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "giri.manojkr@gmail.com"
+msgstr "mgiri@redhat.com"
 
 #. i18n: file: interfaces/ktexteditor/editorchooser_ui.ui:16
 #. i18n: ectx: property (windowTitle), widget (QWidget, EditorChooser)
@@ -67,7 +69,7 @@ msgstr "ଆଦେଶ ଦ୍ୱାରା (&O):"
 #. i18n: ectx: property (clickMessage), widget (KLineEdit, m_searchEdit)
 #: rc.cpp:20
 msgid "Enter search phrase here"
-msgstr "ଏଠାରେ ଅନ୍ୱେଷଣ ବାକ୍ୟାଂଶ ଭରଣ କରନ୍ତୁ"
+msgstr "ଏଠାରେ ସନ୍ଧାନ ବାକ୍ୟାଂଶ ଭରଣ କରନ୍ତୁ"
 
 #. i18n: file: knewstuff/knewstuff2/ui/DownloadDialog.ui:142
 #. i18n: ectx: property (text), widget (QToolButton, m_collaborationButton)
@@ -830,8 +832,7 @@ msgstr "ବିରତି"
 msgid ""
 "You may select a file where the log content is stored, before the regression "
 "testing started."
-msgstr ""
-"ଆପଣ ଗୋଟିଏ ଫାଇଲ ଚୟନ କରିପାରିବେ ଯେଉଁଠି ମାଶ୍ରୟଣ ପରିକ୍ଷଣ ଆରମ୍ଭ ହେବା ପୂର୍ବରୁ  ଲଗ ସୂଚୀ ରଖିହେଉଥିବ।"
+msgstr "ଆପଣ ଗୋଟିଏ ଫାଇଲ ଚୟନ କରିପାରିବେ ଯେଉଁଠି ମାଶ୍ରୟଣ ପରିକ୍ଷଣ ଆରମ୍ଭ ହେବା ପୂର୍ବରୁ  ଲଗ ସୂଚୀ ରଖିହେଉଥିବ।"
 
 #. i18n: file: khtml/test_regression_gui.ui:153
 #. i18n: ectx: property (text), widget (QPushButton, saveLogButton)
@@ -926,8 +927,6 @@ msgstr "ତଥ୍ୟ ସୂଚନା"
 #. i18n: file: khtml/htmlpageinfo.ui:45
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox2)
 #: rc.cpp:411
-#, fuzzy
-#| msgid "General"
 msgctxt "@title:group Document information"
 msgid "General"
 msgstr "ସାଧାରଣ"
@@ -1010,17 +1009,12 @@ msgstr "HTML ସାଧନପଟି"
 #. i18n: file: khtml/find/khtmlfindbar_base.ui:43
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: rc.cpp:459
-#, fuzzy
-#| msgid "Find"
 msgid "F&ind:"
-msgstr "ଖୋଜନ୍ତୁ"
+msgstr "ଖୋଜନ୍ତୁ (&i):"
 
 #. i18n: file: khtml/find/khtmlfindbar_base.ui:75
 #. i18n: ectx: property (text), widget (QToolButton, m_next)
 #: rc.cpp:462
-#, fuzzy
-#| msgctxt "Opposite to Previous"
-#| msgid "&Next"
 msgid "&Next"
 msgstr "ପରବର୍ତ୍ତୀ (&N)"
 
@@ -1033,10 +1027,8 @@ msgstr "ପୂର୍ବବର୍ତ୍ତୀ (&P)"
 #. i18n: file: khtml/find/khtmlfindbar_base.ui:111
 #. i18n: ectx: property (text), widget (QToolButton, m_options)
 #: rc.cpp:468
-#, fuzzy
-#| msgid "Options"
 msgid "Opt&ions"
-msgstr "ବିକଳ୍ପଗୁଡିକ"
+msgstr "ବିକଳ୍ପଗୁଡିକ (&i)"
 
 #. i18n: file: kross/test/testguiform.ui:44
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
@@ -1188,8 +1180,7 @@ msgstr "ବ୍ୟବହାର ପାଇଁ Widget ଶୈଳୀ"
 msgid ""
 "The name of the widget style, for example \"keramik\" or \"plastik\". "
 "Without quotes."
-msgstr ""
-"Widget ଶୈଳୀର ନାମ, ଉଦାହରଣ ସ୍ୱରୂପ \"keramik\" କିମ୍ୱା \"plastik\"। ଉଦ୍ଧୃତ ଚିହ୍ନ ବିନା।"
+msgstr "Widget ଶୈଳୀର ନାମ, ଉଦାହରଣ ସ୍ୱରୂପ \"keramik\" କିମ୍ୱା \"plastik\"। ଉଦ୍ଧୃତ ଚିହ୍ନ ବିନା।"
 
 #. i18n: file: kutils/kdeglobals.kcfg:30
 #. i18n: ectx: label, entry, group (General)
@@ -1217,8 +1208,7 @@ msgstr "କେଉଁ ଟର୍ମିନାଲ ପ୍ରୟୋଗକୁ ବ୍ୟ
 msgid ""
 "Whenever a terminal application is launched this terminal emulator program "
 "will be used.\n"
-msgstr ""
-"ଯେତେବେଳେ ଗୋଟିଏ ଟର୍ମିନାଲ ପ୍ରୟୋଗକୁ ପ୍ରଚାଳନ କରାଯାଏ ଏହି ଟର୍ମିନାଲ ଯାନ୍ତ୍ରାନୁକରକଟି ବ୍ୟବହାର ହେବ।\n"
+msgstr "ଯେତେବେଳେ ଗୋଟିଏ ଟର୍ମିନାଲ ପ୍ରୟୋଗକୁ ପ୍ରଚାଳନ କରାଯାଏ ଏହି ଟର୍ମିନାଲ ଯାନ୍ତ୍ରାନୁକରକଟି ବ୍ୟବହାର ହେବ।\n"
 
 #. i18n: file: kutils/kdeglobals.kcfg:41
 #. i18n: ectx: label, entry, group (General)
@@ -1365,8 +1355,7 @@ msgstr "ଗତିପଟି ଦର୍ଶାନ୍ତୁ"
 #. i18n: file: kutils/kdeglobals.kcfg:406
 #. i18n: ectx: whatsthis, entry (Show Speedbar), group (KFileDialog Settings)
 #: rc.cpp:631
-msgid ""
-"Whether the shortcut icons to the left in the file dialog should be shown"
+msgid "Whether the shortcut icons to the left in the file dialog should be shown"
 msgstr "ଫାଇଲ ସଂଳାପରେ ବାମକୁ ଥିବା ସଂକ୍ଷିପ୍ତ ପଥ ଚିତ୍ରସଂକେତଗିଡିକୁ ଦର୍ଶାଯିବା ଉଚିତ କି"
 
 #. i18n: file: kutils/kdeglobals.kcfg:425
@@ -1378,8 +1367,7 @@ msgstr "କେଉଁ ଦେଶ"
 #. i18n: file: kutils/kdeglobals.kcfg:426
 #. i18n: ectx: whatsthis, entry, group (Locale)
 #: rc.cpp:637
-msgid ""
-"Used to determine how to display numbers, currency and time/date, for example"
+msgid "Used to determine how to display numbers, currency and time/date, for example"
 msgstr ""
 "ସଂଖ୍ୟାମାନଙ୍କୁ କିପରି ଦର୍ଶାଯିବ ତାହା ନିର୍ଦ୍ଧାରଣ କରିବା ପାଇଁ ବ୍ୟବହୃତ ହୋଇଥାଏ, ମୁଦ୍ରା ଏବଂ ସମୟ/ତାରିଖ, "
 "ଉଦାହରଣ ସ୍ୱରୂପ"
@@ -1495,8 +1483,6 @@ msgstr "JS ଗଣକ"
 #. i18n: file: kjsembed/examples/calc/calc.ui:43
 #. i18n: ectx: property (text), widget (QPushButton, plus)
 #: rc.cpp:695
-#, fuzzy
-#| msgid "+"
 msgctxt "addition"
 msgid "+"
 msgstr "+"
@@ -1510,8 +1496,6 @@ msgstr "AC"
 #. i18n: file: kjsembed/examples/calc/calc.ui:57
 #. i18n: ectx: property (text), widget (QPushButton, minus)
 #: rc.cpp:701
-#, fuzzy
-#| msgid "-"
 msgctxt "subtraction"
 msgid "-"
 msgstr "-"
@@ -1519,8 +1503,6 @@ msgstr "-"
 #. i18n: file: kjsembed/examples/calc/calc.ui:64
 #. i18n: ectx: property (text), widget (QPushButton, equals)
 #: rc.cpp:704
-#, fuzzy
-#| msgid "="
 msgctxt "evaluation"
 msgid "="
 msgstr "="
@@ -4022,19 +4004,15 @@ msgstr ""
 
 #: kdecore/localization/kencodingprober.cpp:235
 #: kdecore/localization/kencodingprober.cpp:272
-#, fuzzy
-#| msgid "disable XIM"
 msgctxt "@item Text character set"
 msgid "Disabled"
-msgstr "XIM କୁ ନିଷ୍କ୍ରିୟ କରନ୍ତୁ"
+msgstr "ନିଷ୍କ୍ରିୟ ଅଛି"
 
 #: kdecore/localization/kencodingprober.cpp:237
 #: kdecore/localization/kencodingprober.cpp:275
-#, fuzzy
-#| msgid "Uninstall"
 msgctxt "@item Text character set"
 msgid "Universal"
-msgstr "ଅପସାରଣ କରନ୍ତୁ"
+msgstr "ଜାଗତିକ"
 
 #: kdecore/localization/kencodingprober.cpp:239
 #: kdecore/localization/kencodingprober.cpp:317
@@ -4211,73 +4189,63 @@ msgid "%1 milliseconds"
 msgstr "%1 ମିଲିସେକଣ୍ଡ"
 
 #: kdecore/localization/klocale.cpp:1263
-#, fuzzy, kde-format
-#| msgid "%1 days"
+#, kde-format
 msgctxt "@item:intext"
 msgid "1 day"
 msgid_plural "%1 days"
-msgstr[0] "%1 ଦିନ"
+msgstr[0] "1 ଦିନ"
 msgstr[1] "%1 ଦିନ"
 
 #: kdecore/localization/klocale.cpp:1265
-#, fuzzy, kde-format
-#| msgid "%1 hours"
+#, kde-format
 msgctxt "@item:intext"
 msgid "1 hour"
 msgid_plural "%1 hours"
-msgstr[0] "%1 ଘଣ୍ଟା"
+msgstr[0] "1 ଘଣ୍ଟା"
 msgstr[1] "%1 ଘଣ୍ଟା"
 
 #: kdecore/localization/klocale.cpp:1267
-#, fuzzy, kde-format
-#| msgid "%1 minutes"
+#, kde-format
 msgctxt "@item:intext"
 msgid "1 minute"
 msgid_plural "%1 minutes"
-msgstr[0] "%1 ମିନଟ"
+msgstr[0] "1 ମିନଟ"
 msgstr[1] "%1 ମିନଟ"
 
 #: kdecore/localization/klocale.cpp:1269
-#, fuzzy, kde-format
-#| msgid "%1 seconds"
+#, kde-format
 msgctxt "@item:intext"
 msgid "1 second"
 msgid_plural "%1 seconds"
-msgstr[0] "%1 ସେକଣ୍ଡ"
+msgstr[0] "1 ସେକଣ୍ଡ"
 msgstr[1] "%1 ସେକଣ୍ଡ"
 
 #: kdecore/localization/klocale.cpp:1292
-#, fuzzy, kde-format
-#| msgctxt "concatenation of dates and time"
-#| msgid "%1 %2"
+#, kde-format
 msgctxt ""
 "@item:intext days and hours. This uses the previous item:intext messages. If "
 "this does not fit the grammar of your language please contact the i18n team "
 "to solve the problem"
 msgid "%1 and %2"
-msgstr "%1 %2"
+msgstr "%1 ଏବଂ %2"
 
 #: kdecore/localization/klocale.cpp:1296
-#, fuzzy, kde-format
-#| msgctxt "concatenation of dates and time"
-#| msgid "%1 %2"
+#, kde-format
 msgctxt ""
 "@item:intext hours and minutes. This uses the previous item:intext messages. "
 "If this does not fit the grammar of your language please contact the i18n "
 "team to solve the problem"
 msgid "%1 and %2"
-msgstr "%1 %2"
+msgstr "%1 ଏବଂ %2"
 
 #: kdecore/localization/klocale.cpp:1300
-#, fuzzy, kde-format
-#| msgctxt "concatenation of dates and time"
-#| msgid "%1 %2"
+#, kde-format
 msgctxt ""
 "@item:intext minutes and seconds. This uses the previous item:intext "
 "messages. If this does not fit the grammar of your language please contact "
 "the i18n team to solve the problem"
 msgid "%1 and %2"
-msgstr "%1 %2"
+msgstr "%1 ଏବଂ %2"
 
 #: kdecore/localization/klocale.cpp:1395
 msgid "Today"
@@ -4955,7 +4923,7 @@ msgstr "ନୂତନ ଉପାଦାନକୁ ସହଭାଗ କରନ୍ତୁ
 
 #: knewstuff/knewstuff2/ui/uploaddialog.cpp:62
 msgid "Please give some information about yourself."
-msgstr ""
+msgstr "ଦୟାକରି ଆପଣଙ୍କ ବିଷୟରେ କିଛି ସୂଚନା ଦିଅନ୍ତୁ।"
 
 #: knewstuff/knewstuff2/ui/uploaddialog.cpp:65
 msgid "Author:"
@@ -5405,15 +5373,12 @@ msgstr[0] "%2 / %1 ଫାଇଲ"
 msgstr[1] "%2 / %1 ଫାଇଲଗୁଡିକ"
 
 #: kdeui/jobs/kwidgetjobtracker.cpp:374
-#, fuzzy, kde-format
-#| msgid "%1 % of %2 "
+#, kde-format
 msgid "%1% of %2"
 msgstr "%2 ର %1 %"
 
 #: kdeui/jobs/kwidgetjobtracker.cpp:377
-#, fuzzy, kde-format
-#| msgid "%2 % of 1 file"
-#| msgid_plural "%2 % of %1 files"
+#, kde-format
 msgid "%2% of 1 file"
 msgid_plural "%2% of %1 files"
 msgstr[0] "1 ଫାଇଲର %2 %"
@@ -5429,13 +5394,11 @@ msgid "Stalled"
 msgstr "ଅସ୍ଥାୟୀ ରୂପେ ବନ୍ଦଅଛି"
 
 #: kdeui/jobs/kwidgetjobtracker.cpp:397
-#, fuzzy, kde-format
-#| msgid "%2/s ( %3 remaining )"
-#| msgid_plural "%2/s ( %3 remaining )"
+#, kde-format
 msgid "%2/s (%3 remaining)"
 msgid_plural "%2/s (%3 remaining)"
-msgstr[0] "%2/s ( %3 ବଳିଅଛି )"
-msgstr[1] "%2/s ( %3 ବଳିଅଛି )"
+msgstr[0] "%2/s (%3 ବଳକାଅଛି)"
+msgstr[1] "%2/s (%3 ବଳକାଅଛି)"
 
 #: kdeui/jobs/kwidgetjobtracker.cpp:400
 #, kde-format
@@ -5453,15 +5416,11 @@ msgid "Resume"
 msgstr "ପୁନଃ ଚଳନ"
 
 #: kdeui/jobs/kwidgetjobtracker.cpp:461
-#, fuzzy
-#| msgid "Source:"
 msgctxt "The source url of a job"
 msgid "Source:"
 msgstr "ଉତ୍ସ:"
 
 #: kdeui/jobs/kwidgetjobtracker.cpp:469
-#, fuzzy
-#| msgid "Destination:"
 msgctxt "The destination url of a job"
 msgid "Destination:"
 msgstr "ଲକ୍ଷ୍ଯସ୍ଥଳ:"
@@ -5526,10 +5485,8 @@ msgid "Confirm Quit From System Tray"
 msgstr "ତନ୍ତ୍ର ଧାରକରୁ ବିଦାୟନେବାକୁ ନିଶ୍ଚିତ କରନ୍ତୁ"
 
 #: kdeui/util/knotificationrestrictions.cpp:179
-#, fuzzy
-#| msgid "Quit application"
 msgid "Unknown Application"
-msgstr "ପ୍ରୟୋଗରୁ ବିଦାୟ ନିଅନ୍ତୁ"
+msgstr "ଅଜଣା ପ୍ରୟୋଗ"
 
 #: kdeui/util/kstandardguiitem.cpp:105
 msgid "&OK"
@@ -5564,8 +5521,7 @@ msgid "Discard changes"
 msgstr "ପରିବର୍ତ୍ତନଗୁଡିକୁ ପରିତ୍ୟାଗ କରନ୍ତୁ"
 
 #: kdeui/util/kstandardguiitem.cpp:127
-msgid ""
-"Pressing this button will discard all recent changes made in this dialog"
+msgid "Pressing this button will discard all recent changes made in this dialog"
 msgstr "ଏହି ବଟନ ଦବାଇବା ଫଳରେ ଏହି ସଂଳାପରେ ନିକଟରେ ହୋଇଥିବା ସମସ୍ତ ପରିବର୍ତ୍ତନଗୁଡିକୁ ପରିତ୍ୟାଗ କରିବ"
 
 #: kdeui/util/kstandardguiitem.cpp:133 kdeui/actions/kstandardaction_p.h:46
@@ -5932,70 +5888,52 @@ msgid "Configure Shortcuts"
 msgstr "ସଂକ୍ଷିପ୍ତ ପଥ ବିନ୍ୟାସ କରନ୍ତୁ"
 
 #: kdeui/dialogs/kshortcutsdialog.cpp:113
-#, fuzzy
-#| msgid "&Defaults"
 msgid "Reset to Defaults"
-msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ (&D)"
+msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ ଭାବରେ ପୁନର୍ବିନ୍ୟାସ କରନ୍ତୁ"
 
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:41
-#, fuzzy
-#| msgid "Shortcuts"
 msgid "Shortcut Schemes"
-msgstr "ସଂକ୍ଷିପ୍ତ ପଥ"
+msgstr "ସଂକ୍ଷିପ୍ତ ପଥ ଯୋଜନାଗୁଡ଼ିକ"
 
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:60
-#, fuzzy
-#| msgid "Curr&ent actions:"
 msgid "Current scheme:"
-msgstr "ସାମ୍ପ୍ରତିକ କାର୍ଯ୍ୟ (&e):"
+msgstr "ସାମ୍ପ୍ରତିକ ଯୋଜନା:"
 
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:70
-#, fuzzy
-#| msgid "..."
 msgid "New..."
-msgstr "..."
+msgstr "ନୂତନ..."
 
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:73
 msgid "Delete"
 msgstr "ଲିଭାନ୍ତୁ"
 
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:76
-#, fuzzy
-#| msgid "Action"
 msgid "More Actions"
-msgstr "କାମ"
+msgstr "ଅଧିକ କାର୍ଯ୍ୟ"
 
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:80
-#, fuzzy
-#| msgid "&Defaults"
 msgid "Save as Scheme Defaults"
-msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ (&D)"
+msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ ଯୋଜନା ପରି ସଂରକ୍ଷଣ କରନ୍ତୁ"
 
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:82
 msgid "Export Scheme..."
-msgstr ""
+msgstr "ଯୋଜନା ପଠାନ୍ତୁ..."
 
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:99
 msgid "Name for New Scheme"
-msgstr ""
+msgstr "ନୂତନ ଯୋଜନା ପାଇଁ ନାମ"
 
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:100
-#, fuzzy
-#| msgid "Curr&ent actions:"
 msgid "Name for new scheme:"
-msgstr "ସାମ୍ପ୍ରତିକ କାର୍ଯ୍ୟ (&e):"
+msgstr "ନୂତନ ଯୋଜନା ପାଇଁ ନାମ:"
 
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:100
-#, fuzzy
-#| msgid "Curr&ent actions:"
 msgid "New Scheme"
-msgstr "ସାମ୍ପ୍ରତିକ କାର୍ଯ୍ୟ (&e):"
+msgstr "ନୂତନ ଯୋଜନା"
 
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:106
-#, fuzzy
-#| msgid "The tag %1 already exists"
 msgid "A scheme with this name already exists."
-msgstr "ସୂଚକ %1 ପୂର୍ବରୁ ରହିଅଛି"
+msgstr "ଏହି ନାମ ବିଶିଷ୍ଟ ଗୋଟିଏ ଯୋଜନା ପୂର୍ବରୁ ରହିଅଛି।"
 
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:134
 #, kde-format
@@ -6003,16 +5941,16 @@ msgid ""
 "Do you really want to delete the scheme %1?\n"
 "Note that this will not remove any system wide shortcut schemes."
 msgstr ""
+"କଣ ଆପଣ ନିଶ୍ଚିତ ଭାବରେ ଯୋଜନା %1କୁ ଅପସାରଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?\n"
+"ମନେରଖନ୍ତୁ ଯେ ଏହା କୌଣସି ତନ୍ତ୍ରମୟ ସଂକ୍ଷିପ୍ତ ପଥ ଯୋଜନାଗୁଡ଼ିକୁ ଅପସାରଣ କରିବ ନାହିଁ।"
 
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:163
-#, fuzzy
-#| msgid "Click to Edit Location"
 msgid "Export to Location"
-msgstr "ସ୍ଥାନ ସମ୍ପାଦନ କରିବାକୁ ଦବାନ୍ତୁ"
+msgstr "ଏହି ସ୍ଥାନକୁ ପଠାନ୍ତୁ"
 
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:172
 msgid "Could not export shortcuts scheme because the location is invalid."
-msgstr ""
+msgstr "ସଂକ୍ଷିପ୍ତ ପଥ ଯୋଜନାକୁ ପଠାଇବ ନାହିଁ କାରଣ ସ୍ଥାନଟି ଅବୈଧ ଅଟେ।"
 
 #: kdeui/dialogs/kcupsoptionspageswidget_p.cpp:167
 msgid "Left to Right, Top to Bottom"
@@ -6258,8 +6196,7 @@ msgid "%1"
 msgstr "%1"
 
 #: kdeui/dialogs/kedittoolbar.cpp:1047
-msgid ""
-"This element will be replaced with all the elements of an embedded component."
+msgid "This element will be replaced with all the elements of an embedded component."
 msgstr ""
 
 #: kdeui/dialogs/kedittoolbar.cpp:1049
@@ -6454,8 +6391,7 @@ msgid "Submit Bug Report"
 msgstr "ତ୍ରୁଟି ବିବରଣୀ ଦାଖଲ କରନ୍ତୁ"
 
 #: kdeui/dialogs/kbugreport.cpp:129
-msgid ""
-"Your email address. If incorrect, use the Configure Email button to change it"
+msgid "Your email address. If incorrect, use the Configure Email button to change it"
 msgstr ""
 "ଆପଣଙ୍କର ଇମେଲ ଠିକଣା। ଯଦି ଭୁଲ ଅଛି, ତେବେ ଏହାକୁ ପରିବର୍ତ୍ତନ କରିବା ପାଇଁ ଇମେଲ ବିନ୍ୟାସ କରନ୍ତୁ ବଟନ "
 "ଦବାନ୍ତୁ"
@@ -6564,7 +6500,7 @@ msgstr ""
 
 #: kdeui/dialogs/kbugreport.cpp:295
 msgid "&Launch Bug Report Wizard"
-msgstr ""
+msgstr "ତ୍ରୁଟି ଖବର ୱିଜାର୍ଡ଼କୁ ଆରମ୍ଭ କରନ୍ତୁ (&L)"
 
 #: kdeui/dialogs/kbugreport.cpp:343
 msgctxt "unknown program name"
@@ -6605,6 +6541,9 @@ msgid ""
 "Please submit a bug report manually...\n"
 "See http://bugs.kde.org/ for instructions."
 msgstr ""
+"ତ୍ରୁଟି ବିବରଣୀକୁ ପଠାଇବାରେ ଅସମର୍ଥ।\n"
+"ଦୟାକରି ହସ୍ତକୃତଭାବରେ ଗୋଟିଏ ତ୍ରୁଟି ବିବରଣୀକୁ ଦାଖଲ କରନ୍ତୁ...\n"
+"ଅଧିକ ସୂଚନା ପାଇଁ http://bugs.kde.org/ କୁ ଦେଖନ୍ତୁ।"
 
 #: kdeui/dialogs/kbugreport.cpp:451
 msgid "Bug report sent, thank you for your input."
@@ -6646,8 +6585,7 @@ msgstr "KDE ବିଷୟରେ"
 msgid ""
 "<html><font size=\"5\">K Desktop Environment</font><br /><b>Version %1</b></"
 "html>"
-msgstr ""
-"<html><font size=\"5\">K ଡେସ୍କଟପ ପରିବେଶ</font><br /><b>ସଂସ୍କରଣ %1</b></html>"
+msgstr "<html><font size=\"5\">K ଡେସ୍କଟପ ପରିବେଶ</font><br /><b>ସଂସ୍କରଣ %1</b></html>"
 
 #: kdeui/dialogs/kaboutkdedialog_p.cpp:56
 msgid ""
@@ -6717,8 +6655,6 @@ msgid "&Support KDE"
 msgstr "KDE କୁ ସମର୍ଥନ କରନ୍ତୁ (&S)"
 
 #: kdeui/dialogs/kdeprintdialog.cpp:49
-#, fuzzy
-#| msgid "Print"
 msgctxt "@title:window"
 msgid "Print"
 msgstr "ମୂଦ୍ରଣ କରନ୍ତୁ"
@@ -7043,8 +6979,6 @@ msgid "Find Text"
 msgstr "ପାଠ୍ୟ ଖୋଜନ୍ତୁ"
 
 #: kdeui/findreplace/kfinddialog.cpp:90
-#, fuzzy
-#| msgid "Find"
 msgctxt "@title:group"
 msgid "Find"
 msgstr "ଖୋଜନ୍ତୁ"
@@ -7123,8 +7057,7 @@ msgid ""
 msgstr ""
 
 #: kdeui/findreplace/kfinddialog.cpp:218
-msgid ""
-"Enter a pattern to search for, or select a previous pattern from the list."
+msgid "Enter a pattern to search for, or select a previous pattern from the list."
 msgstr ""
 
 #: kdeui/findreplace/kfinddialog.cpp:221
@@ -7162,7 +7095,7 @@ msgstr ""
 
 #: kdeui/findreplace/kfinddialog.cpp:240
 msgid "Only search within the current selection."
-msgstr ""
+msgstr "କେବଳ ଏହି ଚୟନ ମଧ୍ଯରେ ସନ୍ଧାନ କରନ୍ତୁ।"
 
 #: kdeui/findreplace/kfinddialog.cpp:242
 msgid ""
@@ -7176,7 +7109,7 @@ msgstr "ପଛୁଆମାନଙ୍କୁ ଖୋଜନ୍ତୁ।"
 
 #: kdeui/findreplace/kfinddialog.cpp:247
 msgid "Ask before replacing each match found."
-msgstr ""
+msgstr "ମିଳିଥିବା ପ୍ରତ୍ୟେକ ମେଳକକୁ ବଦଳାଇବା ପୂର୍ବରୁ ପଚାରନ୍ତୁ।"
 
 #: kdeui/findreplace/kfinddialog.cpp:431
 msgid "Any Character"
@@ -7196,7 +7129,7 @@ msgstr "ଅକ୍ଷରମାନଙ୍କର ସେଟ"
 
 #: kdeui/findreplace/kfinddialog.cpp:435
 msgid "Repeats, Zero or More Times"
-msgstr ""
+msgstr "ପୁନରାବୃତ୍ତି କରନ୍ତୁ, ଶୂନ୍ୟ କିମ୍ବା ଅଧିକ ଥର"
 
 #: kdeui/findreplace/kfinddialog.cpp:436
 msgid "Repeats, One or More Times"
@@ -7252,8 +7185,6 @@ msgid "Replace"
 msgstr "ବଦଳାନ୍ତୁ"
 
 #: kdeui/findreplace/kreplace.cpp:51
-#, fuzzy
-#| msgid "&All"
 msgctxt "@action:button Replace all occurrences"
 msgid "&All"
 msgstr "ସମସ୍ତ (&A)"
@@ -7295,15 +7226,11 @@ msgid "Do you want to restart search at the beginning?"
 msgstr "ଆପଣ ଆରମ୍ଭରୁ ଖୋଜା ପୁନଃ ଚାଳନ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
 
 #: kdeui/findreplace/kreplace.cpp:352
-#, fuzzy
-#| msgid "Restart"
 msgctxt "@action:button Restart find & replace"
 msgid "Restart"
 msgstr "ପୁନଃପ୍ରାରମ୍ଭ କରନ୍ତୁ"
 
 #: kdeui/findreplace/kreplace.cpp:353
-#, fuzzy
-#| msgid "Stop"
 msgctxt "@action:button Stop find & replace"
 msgid "Stop"
 msgstr "ବିରାମ କରନ୍ତୁ"
@@ -7402,7 +7329,7 @@ msgstr ""
 #: kdeui/shortcuts/kglobalaccel.cpp:450
 #, kde-format
 msgid "In context '%1' for action '%2'\n"
-msgstr ""
+msgstr "ପ୍ରସଙ୍ଗ '%1'ରେ କାର୍ଯ୍ୟ '%2' ପାଇଁ\n"
 
 #: kdeui/shortcuts/kglobalaccel.cpp:454
 #, kde-format
@@ -7412,8 +7339,6 @@ msgid ""
 msgstr ""
 
 #: kdeui/shortcuts/kglobalaccel.cpp:460
-#, fuzzy
-#| msgid "Conflict with Global Shortcut"
 msgid "Conflict With Registered Global Shortcut"
 msgstr "ଜାଗତିକ ସଂକ୍ଷିପ୍ତ ପଥ ସହିତ ଦ୍ୱନ୍ଦ"
 
@@ -7691,79 +7616,56 @@ msgid "Next Item in List"
 msgstr "ତାଲିକାରେ ପରବର୍ତ୍ତୀ ବସ୍ତୁ"
 
 #: kdeui/shortcuts/kstandardshortcut.cpp:150
-#, fuzzy
-#| msgid "Open &Recent"
 msgctxt "@action"
 msgid "Open Recent"
-msgstr "ସାମ୍ପ୍ରତିକକୁ ଖୋଲନ୍ତୁ (&R)"
+msgstr ""
 
 #: kdeui/shortcuts/kstandardshortcut.cpp:151
-#, fuzzy
-#| msgid "Save As"
 msgctxt "@action"
 msgid "Save As"
 msgstr "ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ"
 
 #: kdeui/shortcuts/kstandardshortcut.cpp:152
-#, fuzzy
-#| msgid "Re&vert"
 msgctxt "@action"
 msgid "Revert"
-msgstr "ପ୍ରତ୍ୟାବୃତ କରନ୍ତୁ (&v)"
+msgstr "ପ୍ରତ୍ୟାବୃତ କରନ୍ତୁ"
 
 #: kdeui/shortcuts/kstandardshortcut.cpp:153
-#, fuzzy
-#| msgid "Print Preview"
 msgctxt "@action"
 msgid "Print Preview"
 msgstr "ପ୍ରାକ୍ ଦର୍ଶନକୁ ମୂଦ୍ରଣ କରନ୍ତୁ"
 
 #: kdeui/shortcuts/kstandardshortcut.cpp:154
-#, fuzzy
-#| msgid "Main:"
 msgctxt "@action"
 msgid "Mail"
-msgstr "ମୁଖ୍ୟ:"
+msgstr "ମେଲ"
 
 #: kdeui/shortcuts/kstandardshortcut.cpp:155
-#, fuzzy
-#| msgid "C&lear"
 msgctxt "@action"
 msgid "Clear"
-msgstr "ସଫା କରନ୍ତୁ (&l)"
+msgstr "ସଫା କରନ୍ତୁ"
 
 #: kdeui/shortcuts/kstandardshortcut.cpp:156
-#, fuzzy
-#| msgid "&Actual Size"
 msgctxt "@action"
 msgid "Actual Size"
-msgstr "ପ୍ରକୃତ ଆକାର (&A)"
+msgstr "ପ୍ରକୃତ ଆକାର"
 
 #: kdeui/shortcuts/kstandardshortcut.cpp:157
-#, fuzzy
-#| msgid "&Fit to Page"
 msgctxt "@action"
 msgid "Fit To Page"
-msgstr "ପୃଷ୍ଠା ସହିତ ମେଳ ଖାଉଛି (&F)"
+msgstr "ପୃଷ୍ଠା ସହିତ ମେଳ ଖାଉଛି"
 
 #: kdeui/shortcuts/kstandardshortcut.cpp:158
-#, fuzzy
-#| msgid "Fit to Page &Width"
 msgctxt "@action"
 msgid "Fit To Width"
-msgstr "ପୃଷ୍ଠା ପ୍ରସ୍ତ ସହିତ ମେଳ ଖାଉଛି (&W)"
+msgstr "ପୃଷ୍ଠା ପ୍ରସ୍ତ ସହିତ ମେଳ ଖାଉଛି"
 
 #: kdeui/shortcuts/kstandardshortcut.cpp:159
-#, fuzzy
-#| msgid "Fit to Page &Height"
 msgctxt "@action"
 msgid "Fit To Height"
-msgstr "ପୃଷ୍ଠା ଉଚ୍ଚତା ସହିତ ମେଳ ଖାଉଛି (&H)"
+msgstr "ପୃଷ୍ଠା ଉଚ୍ଚତା ସହିତ ମେଳ ଖାଉଛି"
 
 #: kdeui/shortcuts/kstandardshortcut.cpp:160
-#, fuzzy
-#| msgctxt "@action"
-#| msgid "Zoom In"
 msgctxt "@action"
 msgid "Zoom"
 msgstr "ବଡ କରନ୍ତୁ"
@@ -7771,122 +7673,89 @@ msgstr "ବଡ କରନ୍ତୁ"
 #: kdeui/shortcuts/kstandardshortcut.cpp:161
 msgctxt "@action"
 msgid "Goto"
-msgstr ""
+msgstr "ଯାଆନ୍ତୁ"
 
 #: kdeui/shortcuts/kstandardshortcut.cpp:162
-#, fuzzy
-#| msgid "&Go to Page..."
 msgctxt "@action"
 msgid "Goto Page"
-msgstr "ପୃଷ୍ଠାକୁ ଯାଆନ୍ତୁ (&G)..."
+msgstr "ପୃଷ୍ଠାକୁ ଯାଆନ୍ତୁ"
 
 #: kdeui/shortcuts/kstandardshortcut.cpp:163
-#, fuzzy
-#| msgid "Close Document"
 msgctxt "@action"
 msgid "Document Back"
-msgstr "ଦଲିଲ ବନ୍ଦ କରନ୍ତୁ"
+msgstr "ଦଲିଲ ପଛକୁ କରନ୍ତୁ"
 
 #: kdeui/shortcuts/kstandardshortcut.cpp:164
-#, fuzzy
-#| msgctxt "@action"
-#| msgid "Forward"
 msgctxt "@action"
 msgid "Document Forward"
-msgstr "ଅଗ୍ରସରକ"
+msgstr "ଦଲିଲ ଅଗ୍ରସର କରନ୍ତୁ"
 
 #: kdeui/shortcuts/kstandardshortcut.cpp:165
-#, fuzzy
-#| msgid "&Edit Bookmarks"
 msgctxt "@action"
 msgid "Edit Bookmarks"
-msgstr "ଚିହ୍ନିତ ସ୍ଥାନଗୁଡିକୁ ସମ୍ପାଦନ କରନ୍ତୁ (&E)"
+msgstr "ଚିହ୍ନିତ ସ୍ଥାନଗୁଡିକୁ ସମ୍ପାଦନ କରନ୍ତୁ"
 
 #: kdeui/shortcuts/kstandardshortcut.cpp:166
-#, fuzzy
-#| msgid "&Spelling..."
 msgctxt "@action"
 msgid "Spelling"
-msgstr "ବନାନ (&S)..."
+msgstr "ବନାନ"
 
 #: kdeui/shortcuts/kstandardshortcut.cpp:167
-#, fuzzy
-#| msgid "Show &Toolbar"
 msgctxt "@action"
 msgid "Show Toolbar"
-msgstr "ସାଧନପଟି ଦର୍ଶାନ୍ତୁ (&T) "
+msgstr "ସାଧନପଟି ଦର୍ଶାନ୍ତୁ"
 
 #: kdeui/shortcuts/kstandardshortcut.cpp:168
-#, fuzzy
-#| msgid "Show St&atusbar"
 msgctxt "@action"
 msgid "Show Statusbar"
-msgstr "ଅବସ୍ଥିତି ପଟି ଦର୍ଶାନ୍ତୁ (&a)"
+msgstr "ଅବସ୍ଥିତି ପଟି ଦର୍ଶାନ୍ତୁ"
 
 #: kdeui/shortcuts/kstandardshortcut.cpp:169
-#, fuzzy
-#| msgid "Options"
 msgctxt "@action"
 msgid "Save Options"
-msgstr "ବିକଳ୍ପଗୁଡିକ"
+msgstr "ବିକଳ୍ପଗୁଡିକ ସଂରକ୍ଷଣ କରନ୍ତୁ"
 
 #: kdeui/shortcuts/kstandardshortcut.cpp:170
 msgctxt "@action"
 msgid "Key Bindings"
-msgstr ""
+msgstr "କି ବନ୍ଧନଗୁଡ଼ିକ"
 
 #: kdeui/shortcuts/kstandardshortcut.cpp:171
-#, fuzzy
-#| msgid "Reference"
 msgctxt "@action"
 msgid "Preferences"
-msgstr "ସଂଦର୍ଭ"
+msgstr "ପସନ୍ଦ"
 
 #: kdeui/shortcuts/kstandardshortcut.cpp:172
-#, fuzzy
-#| msgid "Configure Toolbars"
 msgctxt "@action"
 msgid "Configure Toolbars"
 msgstr "ସାଧନପଟିଗୁଡିକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
 
 #: kdeui/shortcuts/kstandardshortcut.cpp:173
-#, fuzzy
-#| msgid "Configure Notifications"
 msgctxt "@action"
 msgid "Configure Notifications"
 msgstr "ବିଜ୍ଞପ୍ତିଗୁଡିକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
 
 #: kdeui/shortcuts/kstandardshortcut.cpp:174
-#, fuzzy
-#| msgid "Tip of the Day"
 msgctxt "@action"
 msgid "Tip Of Day"
 msgstr "ଆଜିର ସୂଚନା"
 
 #: kdeui/shortcuts/kstandardshortcut.cpp:175
-#, fuzzy
-#| msgid "&Report Bug..."
 msgctxt "@action"
 msgid "Report Bug"
-msgstr "ତ୍ରୁଟି ଖବରକରନ୍ତୁ (&R)..."
+msgstr "ତ୍ରୁଟି ଖବରକରନ୍ତୁ"
 
 #: kdeui/shortcuts/kstandardshortcut.cpp:176
-#, fuzzy
-#| msgid "Switch Application Language"
 msgctxt "@action"
 msgid "Switch Application Language"
 msgstr "ପ୍ରୟୋଗ ଭାଷା ପରିବର୍ତ୍ତନ କରନ୍ତୁ"
 
 #: kdeui/shortcuts/kstandardshortcut.cpp:177
-#, fuzzy
-#| msgid "Quit application"
 msgctxt "@action"
 msgid "About Application"
-msgstr "ପ୍ରୟୋଗରୁ ବିଦାୟ ନିଅନ୍ତୁ"
+msgstr "ପ୍ରୟୋଗ ବିଷୟରେ"
 
 #: kdeui/shortcuts/kstandardshortcut.cpp:178
-#, fuzzy
-#| msgid "About KDE"
 msgctxt "@action"
 msgid "About KDE"
 msgstr "KDE ବିଷୟରେ"
@@ -8096,30 +7965,20 @@ msgid "Enter a search term or character here"
 msgstr "ଏଠାରେ ଗୋଟିଏ ଖୋଜାଯିବା ପଦ କିମ୍ବା ଅକ୍ଷର ଭରଣ କରନ୍ତୁ"
 
 #: kdeui/widgets/kcharselect.cpp:354
-#, fuzzy
-#| msgctxt "@action"
-#| msgid "Back"
 msgid "Back"
 msgstr "ପଛକୁ"
 
 #: kdeui/widgets/kcharselect.cpp:356
-#, fuzzy
-#| msgid "Previous year"
 msgid "Previous Character"
-msgstr "ପୂର୍ବ ବର୍ଷ"
+msgstr "ପୂର୍ବ ଅକ୍ଷର"
 
 #: kdeui/widgets/kcharselect.cpp:361
-#, fuzzy
-#| msgctxt "@action"
-#| msgid "Forward"
 msgid "Forward"
-msgstr "ଅଗ୍ରସରକ"
+msgstr "ଆଗକୁ"
 
 #: kdeui/widgets/kcharselect.cpp:363
-#, fuzzy
-#| msgid "Set of Characters"
 msgid "Next Character"
-msgstr "ଅକ୍ଷରମାନଙ୍କର ସେଟ"
+msgstr "ପରବର୍ତ୍ତି ଅକ୍ଷର"
 
 #: kdeui/widgets/kcharselect.cpp:371
 msgid "Select a category"
@@ -8954,11 +8813,9 @@ msgstr "ବିଶେଷ"
 #. By default the text is set in italic, which may not be appropriate
 #. for some languages and scripts (e.g. for CJK ideographs).
 #: kdeui/widgets/klineedit.cpp:88
-#, fuzzy
-#| msgid "1"
 msgctxt "Italic placeholder text in line edits: 0 no, 1 yes"
 msgid "1"
-msgstr "୧"
+msgstr "1"
 
 #: kdeui/widgets/klineedit.cpp:251
 msgctxt "@action:button Clear current text in the line edit"
@@ -9198,22 +9055,18 @@ msgid "To Plain Text"
 msgstr "ସାଧା ପାଠ୍ୟକୁ"
 
 #: kdeui/widgets/krichtextwidget.cpp:469
-#, fuzzy
-#| msgid "Subscribe"
 msgctxt "@action"
 msgid "Subscript"
-msgstr "କିଣନ୍ତୁ"
+msgstr "ପାଦାଙ୍କ"
 
 #: kdeui/widgets/krichtextwidget.cpp:476
-#, fuzzy
-#| msgid "Open Script"
 msgctxt "@action"
 msgid "Superscript"
-msgstr "ମୁକ୍ତ ସ୍କ୍ରିପ୍ଟ"
+msgstr "ଉର୍ଦ୍ଧଲିପି"
 
 #: kdeui/widgets/kcharselectdata.cpp:236
 msgid "<Non Private Use High Surrogate>"
-msgstr "<ସାର୍ବଜନୀକ ଉପଯୋଗ ଉଚ୍ଚ ପ୍ରତିନିଧି>"
+msgstr "<ସାର୍ବଜନୀକ ଉପଯୋଗୀ ଉଚ୍ଚ ପ୍ରତିନିଧି>"
 
 #: kdeui/widgets/kcharselectdata.cpp:238
 msgid "<Private Use High Surrogate>"
@@ -9370,23 +9223,17 @@ msgid "The shortcut '%1' conflicts with the following key combinations:\n"
 msgstr ""
 
 #: kdeui/widgets/kkeysequencewidget.cpp:177
-#, fuzzy
-#| msgid "Conflict with Global Shortcut"
 msgid "Conflict With Registered Global Shortcut(s)"
-msgstr "ଜାଗତିକ ସଂକ୍ଷିପ୍ତ ପଥ ସହିତ ଦ୍ୱନ୍ଦ"
+msgstr "ଜାଗତିକ ସଂକ୍ଷିପ୍ତ ପଥ(ଗୁଡ଼ିକ) ସହିତ ଦ୍ୱନ୍ଦ"
 
 #: kdeui/widgets/kkeysequencewidget.cpp:246
-#, fuzzy
-#| msgid "Shortcut conflict"
 msgid "Shortcut Conflict(s)"
-msgstr "ସଂକ୍ଷିପ୍ତ ପଥ ଦ୍ୱନ୍ଦ"
+msgstr "ସଂକ୍ଷିପ୍ତ ପଥ ଦ୍ୱନ୍ଦ(ଗୁଡ଼ିକ)"
 
 #: kdeui/widgets/kkeysequencewidget.cpp:250
-#, fuzzy, kde-format
-#| msgctxt "header for an applications shortcut list"
-#| msgid "Shortcuts for %1"
+#, kde-format
 msgid "Shortcut(s) '%1' for action '%2'\n"
-msgstr "%1 ପାଇଁ ସଂକ୍ଷିପ୍ତ ପଥ"
+msgstr "ସଂକ୍ଷିପ୍ତ ପଥ(ଗୁଡ଼ିକ) %1 କାର୍ଯ୍ୟ '%2' ପାଇଁ\n"
 
 #: kdeui/widgets/kkeysequencewidget.cpp:255
 #, kde-format
@@ -9429,10 +9276,8 @@ msgid "The key you just pressed isn't supported by Qt."
 msgstr ""
 
 #: kdeui/widgets/kkeysequencewidget.cpp:717
-#, fuzzy
-#| msgid "Unsorted"
 msgid "Unsupported Key"
-msgstr "ଅସଜଡା"
+msgstr "ଅସମର୍ଥିତ କି"
 
 #: kdeui/widgets/keditlistbox.cpp:326
 msgid "&Add"
@@ -9594,15 +9439,11 @@ msgid "%1"
 msgstr "%1"
 
 #: kdeui/widgets/ktimezonewidget.cpp:60
-#, fuzzy
-#| msgid "Area"
 msgctxt "Define an area in the time zone, like a town area"
 msgid "Area"
 msgstr "କ୍ଷେତ୍ର"
 
 #: kdeui/widgets/ktimezonewidget.cpp:60
-#, fuzzy
-#| msgid "Region"
 msgctxt "Time zone"
 msgid "Region"
 msgstr "ଅଞ୍ଚଳ"
@@ -9624,22 +9465,16 @@ msgid "Allow Tabulations"
 msgstr "ସାରଣୀକରଣକୁ ଅନୁମତି ଦିଅନ୍ତୁ"
 
 #: kdeui/widgets/ktextedit.cpp:528
-#, fuzzy
-#| msgid "Suggestion List"
 msgid "Suggestions"
-msgstr "ପ୍ରସ୍ତାବ ସୂଚୀ"
+msgstr "ପ୍ରସ୍ତାବଗୁଡ଼ିକ"
 
 #: kdeui/widgets/ktextedit.cpp:530
-#, fuzzy
-#| msgid "&Ignore"
 msgid "Ignore"
-msgstr "ଅଗ୍ରାହ୍ଯ କରନ୍ତୁ (&I)"
+msgstr "ଅଗ୍ରାହ୍ଯ କରନ୍ତୁ"
 
 #: kdeui/widgets/ktextedit.cpp:531
-#, fuzzy
-#| msgid "<< Add to Dictionary"
 msgid "Add to Dictionary"
-msgstr "<< ଅଭିଧାନରେ ଯୋଗ କରନ୍ତୁ"
+msgstr "ଅଭିଧାନରେ ଯୋଗ କରନ୍ତୁ"
 
 #: kdeui/widgets/ktextedit.cpp:677
 msgid "Nothing to spell check."
@@ -9898,10 +9733,8 @@ msgstr "URL ଭରଣ କରନ୍ତୁ:"
 
 #: khtml/khtml_ext.cpp:928
 #, kde-format
-msgid ""
-"A file named \"%1\" already exists. Are you sure you want to overwrite it?"
-msgstr ""
-"\"%1\" ନାମକ ଗୋଟିଏ ଫାଇଲ ପୂର୍ବରୁ ଅବସ୍ଥିତ ଅଛି। ଆପଣ ନିଶ୍ଚିତକି ଆପଣ ଏଥିରେ ନବଲିଖନ କରିବାକୁ ଚାହୁଁଛନ୍ତି?"
+msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+msgstr "\"%1\" ନାମକ ଗୋଟିଏ ଫାଇଲ ପୂର୍ବରୁ ଅବସ୍ଥିତ ଅଛି। ଆପଣ ନିଶ୍ଚିତକି ଆପଣ ଏଥିରେ ନବଲିଖନ କରିବାକୁ ଚାହୁଁଛନ୍ତି?"
 
 #: khtml/khtml_ext.cpp:928
 msgid "Overwrite File?"
@@ -10461,7 +10294,7 @@ msgstr ""
 
 #: khtml/test_regression_gui_main.cpp:34
 msgid "TestRegressionGui"
-msgstr ""
+msgstr "TestRegressionGui"
 
 #: khtml/test_regression_gui_main.cpp:35
 msgid "GUI for the khtml regression tester"
@@ -10469,16 +10302,16 @@ msgstr ""
 
 #: khtml/xml/xml_tokenizer.cpp:328
 msgid "the document is not in the correct file format"
-msgstr ""
+msgstr "ଦଲିଲଟି ସଠିକ ଫାଇଲ ଶୈଳୀରେ ନାହିଁ"
 
 #: khtml/xml/xml_tokenizer.cpp:334
 #, kde-format
 msgid "fatal parsing error: %1 in line %2, column %3"
-msgstr ""
+msgstr "ମାରାତ୍ମକ ବିଶ୍ଳେଷଣ ତ୍ରୁଟି: %1 ଧାଡ଼ି %2, ସ୍ତମ୍ଭ %3ରେ"
 
 #: khtml/xml/xml_tokenizer.cpp:517
 msgid "XML parsing error"
-msgstr ""
+msgstr "XML ବିଶ୍ଳେଷଣ ତ୍ରୁଟି"
 
 #: khtml/xml/dom_docimpl.cpp:2244
 msgid "Basic Page Style"
@@ -10624,10 +10457,8 @@ msgid "Reindent Sources"
 msgstr ""
 
 #: khtml/ecma/debugger/debugwindow.cpp:224
-#, fuzzy
-#| msgid "Action"
 msgid "Report Exceptions"
-msgstr "କାମ"
+msgstr "ବ୍ୟତିକ୍ରମଗୁଡ଼ିକୁ ଖବର କରନ୍ତୁ"
 
 #: khtml/ecma/debugger/debugwindow.cpp:232
 msgid "&Debug"
@@ -10682,7 +10513,7 @@ msgstr "JavaScript ତ୍ରୁଟି"
 
 #: khtml/ecma/debugger/errordlg.cpp:50
 msgid "&Do not show this message again"
-msgstr ""
+msgstr "ଏହି ସନ୍ଦେଶକୁ ପୁନର୍ବାର ଦର୍ଶାନ୍ତୁ ନାହିଁ (&D)"
 
 #: khtml/ecma/debugger/callstackdock.cpp:37
 msgid "Call Stack"
@@ -10697,15 +10528,12 @@ msgid "Line"
 msgstr "ରେଖା"
 
 #: khtml/find/khtmlfindbar.cpp:207
-#, fuzzy
-#| msgid "1 match found."
-#| msgid_plural "%1 matches found."
 msgid "Not found"
-msgstr "1 ମେଳକ ମିଳିଗଲା।ିଁ"
+msgstr "ମିଳୁନାହିଁ"
 
 #: khtml/find/khtmlfindbar.cpp:221
 msgid "No more matches for this search direction."
-msgstr ""
+msgstr "ଏହି ସନ୍ଧାନ ଦିଗ ପାଇଁ କୌଣସି ମେଳକ ନାହିଁ।"
 
 #: khtml/html/htmlparser.cpp:1832
 msgid "This is a searchable index. Enter search keywords: "
@@ -10778,7 +10606,7 @@ msgstr ""
 
 #: khtml/html/html_formimpl.cpp:2573
 msgid "Key Generator"
-msgstr "କି ସୃଷ୍ଟିକର୍ତ୍ତା"
+msgstr "କି ନିର୍ମାଣକାରୀ"
 
 #: khtml/html/html_objectimpl.cpp:574
 #, kde-format
@@ -10897,39 +10725,29 @@ msgid "Copyright 2001, David Faure <email>david@mandrakesoft.com</email>"
 msgstr "Copyright 2001, David Faure <email>david@mandrakesoft.com</email>"
 
 #: khtml/rendering/render_form.cpp:593
-#, fuzzy
-#| msgid "Shortcut"
 msgid "New Web Shortcut"
-msgstr "ସଂକ୍ଷିପ୍ତ ପଥ"
+msgstr "ନୂତନ ୱେବ ସଂକ୍ଷିପ୍ତ ପଥ"
 
 #: khtml/rendering/render_form.cpp:614
-#, fuzzy, kde-format
-#| msgctxt "Socket error code AlreadyCreated"
-#| msgid "socket is already created"
+#, kde-format
 msgid "%1 is already assigned to %2"
-msgstr "ସକେଟଟି ପୂର୍ବରୁ ନିର୍ମାଣ କରାସରିଛି"
+msgstr "%1 କୁ ପୂର୍ବରୁ %2 କୁ ନିର୍ଦ୍ଧିଷ୍ଟ କରାଯାଇଛି"
 
 #: khtml/rendering/render_form.cpp:659
 msgid "Search &provider name:"
 msgstr ""
 
 #: khtml/rendering/render_form.cpp:661
-#, fuzzy
-#| msgid "Enter search phrase here"
 msgid "New search provider"
-msgstr "ଏଠାରେ ଅନ୍ୱେଷଣ ବାକ୍ୟାଂଶ ଭରଣ କରନ୍ତୁ"
+msgstr "ନୂତନ ଅନ୍ୱେଷଣ ପ୍ରଦାତା"
 
 #: khtml/rendering/render_form.cpp:666
-#, fuzzy
-#| msgid "Shortcuts"
 msgid "UR&I shortcuts:"
-msgstr "ସଂକ୍ଷିପ୍ତ ପଥ"
+msgstr "URI ସଂକ୍ଷିପ୍ତ ପଥ (&I):"
 
 #: khtml/rendering/render_form.cpp:752
-#, fuzzy
-#| msgid "Configure Shortcuts"
 msgid "Create Web Shortcut"
-msgstr "ସଂକ୍ଷିପ୍ତ ପଥ ବିନ୍ୟାସ କରନ୍ତୁ"
+msgstr "ୱେବ ସଂକ୍ଷିପ୍ତ ପଥ ବିନ୍ୟାସ କରନ୍ତୁ"
 
 #: kinit/kinit.cpp:484
 msgid ""
@@ -10987,7 +10805,7 @@ msgstr "ସେବା '%1'କୁ ଖୋଜିପାଉନାହିଁ।"
 #: kinit/klauncher.cpp:740 kinit/klauncher.cpp:776
 #, kde-format
 msgid "Service '%1' is malformatted."
-msgstr ""
+msgstr "ସର୍ଭିସ '%1' ଟି ତ୍ରୁଟିଯୁକ୍ତ ହୋଇଛି।"
 
 #: kinit/klauncher.cpp:857
 #, kde-format
@@ -11053,8 +10871,6 @@ msgid "Edit"
 msgstr "ସମ୍ପାଦନ କରନ୍ତୁ"
 
 #: kross/ui/view.cpp:512
-#, fuzzy
-#| msgid "General"
 msgctxt "@title:group Script properties"
 msgid "General"
 msgstr "ସାଧାରଣ"
@@ -11483,10 +11299,8 @@ msgid "Select Components"
 msgstr "ଯନ୍ତ୍ରାଂଶଗୁଡିକୁ ଚୟନ କରନ୍ତୁ"
 
 #: kutils/ksettings/dialog.cpp:232
-#, fuzzy
-#| msgid "Embeddable HTML component"
 msgid "Enable component"
-msgstr "ସନ୍ନିବେଶଯୋଗ୍ୟ HTML ଉପାଦାନ"
+msgstr "ଉପାଦାନକୁ ସକ୍ରିୟ କରନ୍ତୁ"
 
 #: kjsembed/kjscmd/kjscmd.cpp:152
 msgid "KJSCmd"
@@ -11539,8 +11353,7 @@ msgstr "ଭୁଲ ସଂଖ୍ୟକ ସ୍ୱତନ୍ତ୍ରଚର।"
 
 #: kjsembed/kjsembed/qobject_binding.cpp:412
 #, kde-format
-msgid ""
-"The slot asked for %1 arguments but there are only %2 arguments available."
+msgid "The slot asked for %1 arguments but there are only %2 arguments available."
 msgstr ""
 
 #: kjsembed/kjsembed/qobject_binding.cpp:610
@@ -11685,16 +11498,12 @@ msgid "library only takes 1 argument, not %1."
 msgstr "ଲାଇବ୍ରେରୀ କେବଳ ନିଏ ୧ ସ୍ୱତନ୍ତ୍ରଚର, %1 ନୁହଁ।"
 
 #: kjsembed/kjsembed/builtins.cpp:154
-#, fuzzy
-#| msgid "Alt"
 msgid "Alert"
-msgstr "Alt"
+msgstr "ଚେତାବନୀ"
 
 #: kjsembed/kjsembed/builtins.cpp:165
-#, fuzzy
-#| msgid "Configure"
 msgid "Confirm"
-msgstr "ବିନ୍ଯାସ କରନ୍ତୁ"
+msgstr "ନିଶ୍ଚିତ କରନ୍ତୁ"
 
 #: kjsembed/kjsembed/kjsembed.cpp:273 kjsembed/kjsembed/kjsembed.cpp:295
 #, kde-format
@@ -12087,8 +11896,7 @@ msgstr ""
 "ଶଙ୍କାପ୍ରକଟକରନ୍ତୁ ବିକଳ୍ପକୁ ବ୍ୟବହାର କରନ୍ତୁ।"
 
 #: kde3support/kunittest/modrunner.cpp:48
-msgid ""
-"Disables debug capturing. You typically use this option when you use the GUI."
+msgid "Disables debug capturing. You typically use this option when you use the GUI."
 msgstr ""
 "ତ୍ରୁଟିମୁକ୍ତ କରି ଧରିବାକୁ ନିଷ୍କ୍ରିୟକରେ। ଆପଣ GUI ବ୍ୟବହାର କରୁଥିବା ସମୟରେ ବିଶିଷ୍ଟ ରୂପେ ଏହି ବିକଳ୍ପକୁ "
 "ବ୍ୟବହାର କରନ୍ତୁ।"
@@ -12102,47 +11910,37 @@ msgid "(C) 2005 Jeroen Wijnhout"
 msgstr "(C) 2005 Jeroen Wijnhout"
 
 #: kformula/FormulaCommand.cpp:32
-#, fuzzy
-#| msgid "Add Comment"
 msgid "Add Elements"
-msgstr "ଟୀପ୍ପଣୀ ଯୋଗକରନ୍ତୁ"
+msgstr "ଉପାଦାନଗୁଡ଼ିକୁ ଯୋଗକରନ୍ତୁ"
 
 #: kformula/FormulaCommand.cpp:61
-#, fuzzy
-#| msgctxt "KCharselect unicode block name"
-#| msgid "Block Elements"
 msgid "Remove Elements"
-msgstr "ଖଣ୍ଡ ବସ୍ତୁ"
+msgstr "ଉପାଦାନଗୁଡ଼ିକୁ କାଢ଼ନ୍ତୁ"
 
 #: kformula/FormulaCommand.cpp:91
-#, fuzzy
-#| msgctxt "KCharselect unicode block name"
-#| msgid "Block Elements"
 msgid "Replace Element"
-msgstr "ଖଣ୍ଡ ବସ୍ତୁ"
+msgstr "ଉପାଦାନଗୁଡ଼ିକୁ ସ୍ଥାନାନ୍ତର କରନ୍ତୁ"
 
 #: kformula/FormulaCommand.cpp:139
 msgid "Attribute Changed"
-msgstr ""
+msgstr "ଗୁଣ ପରିବର୍ତ୍ତନ ହୋଇଛି"
 
 #: kformula/sample/main.cpp:10
-#, fuzzy
-#| msgid "Quit application"
 msgid "Sample KFormula application"
-msgstr "ପ୍ରୟୋଗରୁ ବିଦାୟ ନିଅନ୍ତୁ"
+msgstr "KFormula ପ୍ରୟୋଗ ନମୁନା"
 
 #: kformula/sample/main.cpp:11
 msgid "Application showing a KFormula widget for debugging purposes"
-msgstr ""
+msgstr "ତ୍ରୁଟି ନିବାରଣ ଉଦ୍ଦେଶ୍ୟରେ ପ୍ରୟୋଗ KFormula ୱିଜେଟ ଦର୍ଶାଉଅଛି"
 
 #: kformula/sample/main.cpp:13
 msgid "Copyright 2008 Alfredo Beaumont <alfredo.beaumont@gmail.com>"
-msgstr ""
+msgstr "Copyright 2008 Alfredo Beaumont <alfredo.beaumont@gmail.com>"
 
 #: kdeui/colors/kcolordialog.cpp:97
 msgctxt "palette name"
 msgid "* Recent Colors *"
-msgstr "* ସାମ୍ପ୍ରତିକ ରଙ୍ଗ *"
+msgstr "* ସାମ୍ପ୍ରତିକ ରଙ୍ଗଗୁଡ଼ିକ *"
 
 #: kdeui/colors/kcolordialog.cpp:98
 msgctxt "palette name"
@@ -12182,8 +11980,7 @@ msgstr "ନାମକରଣ ହୋଇଥିବା ରଙ୍ଗଗୁଡିକ"
 msgid ""
 "Unable to read X11 RGB color strings. The following file location(s) were "
 "examined:\n"
-msgstr ""
-"X11 RGB ରଙ୍ଗ ଧାରାଗୁଡିକୁ ପଢିବାରେ ଅସମର୍ଥ। ଏହି ନିମ୍ନଲିଖିତ ଫାଇଲ ସ୍ଥିତି(ଗୁଡିକୁ) ପରୀକ୍ଷା କରାଯାଇଛି:\n"
+msgstr "X11 RGB ରଙ୍ଗ ଧାରାଗୁଡିକୁ ପଢିବାରେ ଅସମର୍ଥ। ଏହି ନିମ୍ନଲିଖିତ ଫାଇଲ ସ୍ଥିତି(ଗୁଡିକୁ) ପରୀକ୍ଷା କରାଯାଇଛି:\n"
 
 #: kdeui/colors/kcolordialog.cpp:949
 msgid "Select Color"
@@ -12198,8 +11995,6 @@ msgid "Saturation:"
 msgstr "ପରିପୃକ୍ତତା:"
 
 #: kdeui/colors/kcolordialog.cpp:1039
-#, fuzzy
-#| msgid "Value:"
 msgctxt "This is the V of HSV"
 msgid "Value:"
 msgstr "ମୁଲ୍ୟ:"
@@ -12302,7 +12097,7 @@ msgstr "ସମସ୍ତଙ୍କୁ ଚୟନ କରନ୍ତୁ (&A)"
 
 #: kdeui/actions/kstandardaction_p.h:63
 msgid "Dese&lect"
-msgstr ""
+msgstr "ବାଛନ୍ତୁ ନାହିଁ (&l)"
 
 #: kdeui/actions/kstandardaction_p.h:65
 msgid "Find &Next"
@@ -12438,5 +12233,3 @@ msgstr "ଆଜିର ସୂଚନା (&D)"
 msgid "No such function \"%1\""
 msgstr "ଏପରି କିଛି ଫଳନ ନାହିଁ \"%1\""
 
-#~ msgid "&Bookmarks"
-#~ msgstr "ଚିହ୍ନିତ ସ୍ଥାନ (&B)"
