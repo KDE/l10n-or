@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmlocale\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-01-01 09:42+0100\n"
+"POT-Creation-Date: 2009-01-05 10:12+0100\n"
 "PO-Revision-Date: 2009-01-02 11:46+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -424,73 +424,57 @@ msgstr ""
 msgid "WEEKDAY"
 msgstr ""
 
-#: localetime.cpp:207
+#: localetime.cpp:206
 msgid "Calendar system:"
 msgstr ""
 
-#. i18n: file: localetime.ui:60
-#. i18n: ectx: property (text), widget (QLabel, m_labTimeFmt)
-#: localetime.cpp:215 rc.cpp:81
+#: localetime.cpp:220
 msgid "Time format:"
 msgstr ""
 
-#. i18n: file: localetime.ui:74
-#. i18n: ectx: property (text), widget (QLabel, m_labDateFmt)
-#: localetime.cpp:220 rc.cpp:84
+#: localetime.cpp:230
 msgid "Date format:"
 msgstr ""
 
-#. i18n: file: localetime.ui:88
-#. i18n: ectx: property (text), widget (QLabel, m_labDateFmtShort)
-#: localetime.cpp:225 rc.cpp:87
+#: localetime.cpp:238
 msgid "Short date format:"
 msgstr ""
 
-#. i18n: file: localetime.ui:100
-#. i18n: ectx: property (text), widget (QCheckBox, m_chDateMonthNamePossessive)
-#: localetime.cpp:230 rc.cpp:90
+#: localetime.cpp:246
 msgid "Use declined form of month name"
 msgstr ""
 
-#. i18n: file: localetime.ui:118
-#. i18n: ectx: property (text), widget (QLabel, labWeekStartDay)
-#: localetime.cpp:234 rc.cpp:93
+#: localetime.cpp:256
 msgid "First day of the week:"
 msgstr ""
 
-#. i18n: file: localetime.ui:132
-#. i18n: ectx: property (text), widget (QLabel, labWorkingWeekStartDay)
-#: localetime.cpp:239 rc.cpp:96
+#: localetime.cpp:264
 msgid "First working day of the week:"
 msgstr ""
 
-#. i18n: file: localetime.ui:146
-#. i18n: ectx: property (text), widget (QLabel, labWorkingWeekEndDay)
-#: localetime.cpp:244 rc.cpp:99
+#: localetime.cpp:272
 msgid "Last working day of the week:"
 msgstr ""
 
-#. i18n: file: localetime.ui:160
-#. i18n: ectx: property (text), widget (QLabel, labWeekDayOfPray)
-#: localetime.cpp:249 rc.cpp:102
+#: localetime.cpp:281
 msgid "Day of the week for religious observance:"
 msgstr ""
 
-#: localetime.cpp:469
+#: localetime.cpp:504
 msgctxt "some reasonable time formats for the language"
 msgid ""
 "HH:MM:SS\n"
 "pH:MM:SS AMPM"
 msgstr ""
 
-#: localetime.cpp:477
+#: localetime.cpp:512
 msgctxt "some reasonable date formats for the language"
 msgid ""
 "WEEKDAY MONTH dD YYYY\n"
 "SHORTWEEKDAY MONTH dD YYYY"
 msgstr ""
 
-#: localetime.cpp:485
+#: localetime.cpp:520
 msgctxt "some reasonable short date formats for the language"
 msgid ""
 "YYYY-MM-DD\n"
@@ -498,27 +482,27 @@ msgid ""
 "DD.MM.YYYY"
 msgstr ""
 
-#: localetime.cpp:496
+#: localetime.cpp:531
 msgctxt "Calendar System Gregorian"
 msgid "Gregorian"
 msgstr ""
 
-#: localetime.cpp:498
+#: localetime.cpp:533
 msgctxt "Calendar System Hijri"
 msgid "Hijri"
 msgstr ""
 
-#: localetime.cpp:500
+#: localetime.cpp:535
 msgctxt "Calendar System Hebrew"
 msgid "Hebrew"
 msgstr ""
 
-#: localetime.cpp:502
+#: localetime.cpp:537
 msgctxt "Calendar System Jalali"
 msgid "Jalali"
 msgstr ""
 
-#: localetime.cpp:505
+#: localetime.cpp:540
 msgid ""
 "<p>The text in this textbox will be used to format time strings. The "
 "sequences below will be replaced:</p><table><tr><td><b>HH</b></td><td>The "
@@ -533,7 +517,7 @@ msgid ""
 "treated as \"pm\" and midnight as \"am\".</td></tr></table>"
 msgstr ""
 
-#: localetime.cpp:528
+#: localetime.cpp:563
 msgid ""
 "<table><tr><td><b>YYYY</b></td><td>The year with century as a decimal number."
 "</td></tr><tr><td><b>YY</b></td><td>The year without century as a decimal "
@@ -548,50 +532,50 @@ msgid ""
 "td><td>The full weekday name.</td></tr></table>"
 msgstr ""
 
-#: localetime.cpp:549
+#: localetime.cpp:584
 msgid ""
 "<p>The text in this textbox will be used to format long dates. The sequences "
 "below will be replaced:</p>"
 msgstr ""
 
-#: localetime.cpp:555
+#: localetime.cpp:590
 msgid ""
 "<p>The text in this textbox will be used to format short dates. For "
 "instance, this is used when listing files. The sequences below will be "
 "replaced:</p>"
 msgstr ""
 
-#: localetime.cpp:562
+#: localetime.cpp:597
 msgid ""
 "<p>This option determines which day will be considered as the first one of "
 "the week.</p>"
 msgstr ""
 
-#: localetime.cpp:567
+#: localetime.cpp:602
 msgid ""
 "<p>This option determines which day will be considered as the first working "
 "day of the week.</p>"
 msgstr ""
 
-#: localetime.cpp:572
+#: localetime.cpp:607
 msgid ""
 "<p>This option determines which day will be considered as the last working "
 "day of the week.</p>"
 msgstr ""
 
-#: localetime.cpp:577
+#: localetime.cpp:612
 msgid ""
 "<p>This option determines which day will be considered as the day of the "
 "week for religious observance.</p>"
 msgstr ""
 
-#: localetime.cpp:584
+#: localetime.cpp:619
 msgid ""
 "<p>This option determines whether possessive form of month names should be "
 "used in dates.</p>"
 msgstr ""
 
-#: localetime.cpp:594
+#: localetime.cpp:629
 msgctxt "Day name list, option for no day of religious observance"
 msgid "None"
 msgstr ""
@@ -608,24 +592,12 @@ msgstr ""
 msgid "Fractional digits:"
 msgstr ""
 
-#. i18n: file: localetime.ui:13
-#. i18n: ectx: property (windowTitle), widget (QWidget, localetime)
-#: rc.cpp:75
-msgid "Form"
-msgstr ""
-
-#. i18n: file: localetime.ui:21
-#. i18n: ectx: property (text), widget (QLabel, labCalendarSystem)
-#: rc.cpp:78
-msgid "Calendar system"
-msgstr ""
-
-#: rc.cpp:103
+#: rc.cpp:73
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr ""
 
-#: rc.cpp:104
+#: rc.cpp:74
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
