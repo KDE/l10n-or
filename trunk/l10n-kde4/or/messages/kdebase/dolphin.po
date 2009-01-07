@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2009-01-06 10:00+0100\n"
-"PO-Revision-Date: 2009-01-02 11:42+0530\n"
+"PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"Plural-Forms:  nplurals=2; plural=(n!=1);\n\n"
 "\n"
 "\n"
 "X-Generator: KBabel 1.11.4\n"
@@ -22,35 +22,35 @@ msgstr ""
 #: filterbar.cpp:41
 msgctxt "@info:tooltip"
 msgid "Hide Filter Bar"
-msgstr ""
+msgstr "ଛାଣକ ପଟିକୁ ଲୁଚାନ୍ତୁ"
 
 #: filterbar.cpp:45
 msgctxt "@label:textbox"
 msgid "Filter:"
-msgstr ""
+msgstr "ଛାଣକ:"
 
 #: iconsizegroupbox.cpp:35
 msgctxt "@title:group"
 msgid "Icon Size"
-msgstr ""
+msgstr "ଚିତ୍ରସଂକେତ ଆକାର"
 
 #: iconsizegroupbox.cpp:39
 msgctxt "@label:listbox"
 msgid "Default:"
-msgstr ""
+msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ:"
 
 #: iconsizegroupbox.cpp:46
 msgctxt "@label:listbox"
 msgid "Preview:"
-msgstr ""
+msgstr "ପ୍ରାକଦର୍ଶନ:"
 
 #: iconsizegroupbox.cpp:109 dolphinstatusbar.cpp:309
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Size: 1 pixel"
 msgid_plural "Size: %1 pixels"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "ଆକାର: 1 ପିକସେଲ"
+msgstr[1] "ଆକାର: %1 ପିକସେଲ"
 
 #: draganddrophelper.cpp:108
 msgctxt "@info:status"
@@ -60,34 +60,34 @@ msgstr ""
 #: dolphinfontrequester.cpp:40
 msgctxt "@item:inlistbox Font"
 msgid "System Font"
-msgstr ""
+msgstr "ତନ୍ତ୍ର ଅକ୍ଷରରୂପ"
 
 #: dolphinfontrequester.cpp:41
 msgctxt "@item:inlistbox Font"
 msgid "Custom Font"
-msgstr ""
+msgstr "ଅକ୍ଷରରୂପକୁ ଇଚ୍ଛାରୂପଣ କରନ୍ତୁ "
 
 #: dolphinfontrequester.cpp:45
 msgctxt "@action:button Choose font"
 msgid "Choose..."
-msgstr ""
+msgstr "ପସନ୍ଦ କରନ୍ତୁ..."
 
 #: dolphindetailsview.cpp:561
 msgctxt "@title:menu"
 msgid "Columns"
-msgstr ""
+msgstr "ସ୍ତମ୍ଭଗୁଡ଼ିକ"
 
 #: dolphinview.cpp:554
 #, kde-format
 msgctxt "@info:status"
 msgid "<filename>%1</filename> selected"
-msgstr ""
+msgstr "<filename>%1</filename> ବଚ୍ଛିତ"
 
 #: dolphinview.cpp:555
 #, kde-format
 msgctxt "@info:status"
 msgid "<filename>%1</filename> selected (%2)"
-msgstr ""
+msgstr "<filename>%1</filename> ବଚ୍ଛିତ (%2)"
 
 #: dolphinview.cpp:559
 #, kde-format
@@ -95,37 +95,37 @@ msgctxt "@info:status"
 msgid "1 Folder selected"
 msgid_plural "%1 Folders selected"
 msgstr[0] ""
-msgstr[1] ""
+msgstr[1] "%1 ଫୋଲଡ଼ର ବଛାହୋଇଛି"
 
 #: dolphinview.cpp:560
 #, kde-format
 msgctxt "@info:status"
 msgid "1 File selected"
 msgid_plural "%1 Files selected"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 ଫାଇଲ ବଛାହୋଇଛି"
+msgstr[1] "%1 ଫାଇଲ ବଛାହୋଇଛି"
 
 #: dolphinview.cpp:562
 #, kde-format
 msgctxt "@info:status folders, files (size)"
 msgid "%1, %2 (%3)"
-msgstr ""
+msgstr "%1, %2 (%3)"
 
 #: dolphinview.cpp:565
 #, kde-format
 msgctxt "@info:status files (size)"
 msgid "%1 (%2)"
-msgstr ""
+msgstr "%1 (%2)"
 
 #: dolphinview.cpp:1029
 msgctxt "@action:inmenu"
 msgid "Paste One Folder"
-msgstr ""
+msgstr "ଗୋଟିଏ ଫୋଲଡ଼ର ଲଗାନ୍ତୁ"
 
 #: dolphinview.cpp:1030
 msgctxt "@action:inmenu"
 msgid "Paste One File"
-msgstr ""
+msgstr "ଗୋଟିଏ ଫାଇଲ ଲଗାନ୍ତୁ"
 
 #: dolphinview.cpp:1033
 #, kde-format
@@ -133,63 +133,63 @@ msgctxt "@action:inmenu"
 msgid "Paste One Item"
 msgid_plural "Paste %1 Items"
 msgstr[0] ""
-msgstr[1] ""
+msgstr[1] "%1ଟି ବସ୍ତୁ ଲଗାନ୍ତୁ"
 
 #: dolphinview.cpp:1037 treeviewcontextmenu.cpp:67
 msgctxt "@action:inmenu"
 msgid "Paste"
-msgstr ""
+msgstr "ଲଗାନ୍ତୁ"
 
 #: dolphinview.cpp:1084
 msgctxt "@info:status"
 msgid "Delete operation completed."
-msgstr ""
+msgstr "ଅପସାରଣ କ୍ରିୟା ସମାପ୍ତହୋଇଛି।"
 
 #: dolphinview.cpp:1125
 msgctxt "@info:status"
 msgid "The location is empty."
-msgstr ""
+msgstr "ସ୍ଥାନଟି ଖାଲିଅଛି।"
 
 #: dolphinview.cpp:1127
 #, kde-format
 msgctxt "@info:status"
 msgid "The location '%1' is invalid."
-msgstr ""
+msgstr "ସ୍ଥାନ '%1' ଟି ଅବୈଧ ଏଟେ।"
 
 #: generalsettingspage.cpp:57
 msgctxt "@title:group"
 msgid "Ask For Confirmation When"
-msgstr ""
+msgstr "ନିଶ୍ଚିତକରଣ ପାଇଁ ପଚାରନ୍ତୁ"
 
 #: generalsettingspage.cpp:59
 msgctxt "@option:check Ask for Confirmation When"
 msgid "Moving files or folders to trash"
-msgstr ""
+msgstr "ଫାଇଲ କିମ୍ବା ଫୋଲଡ଼ରଗୁଡ଼ିକୁ ଆବର୍ଜନା ପାତ୍ରମଧ୍ଯକୁ ପଠାଯାଉଛି"
 
 #: generalsettingspage.cpp:62
 msgctxt "@option:check Ask for Confirmation When"
 msgid "Deleting files or folders"
-msgstr ""
+msgstr "ଫାଇଲ କିମ୍ବା ଫୋଲଡ଼ରଗୁଡ଼ିକୁ ଅପସାରଣ କରୁଅଛି"
 
 #: generalsettingspage.cpp:69
 msgctxt "@title:group"
 msgid "Context Menu"
-msgstr ""
+msgstr "ପ୍ରସଙ୍ଗ ତାଲିକା"
 
 #: generalsettingspage.cpp:72
 msgctxt "@option:check"
 msgid "Show 'Delete' command"
-msgstr ""
+msgstr "'ଅପସାରଣ କରନ୍ତୁ' ନିର୍ଦ୍ଦେଶ ଦର୍ଶାନ୍ତୁ"
 
 #: generalsettingspage.cpp:75
 msgctxt "@option:check"
 msgid "Show 'Copy To' and 'Move To' commands"
-msgstr ""
+msgstr "'କୁ ନକଲ କରନ୍ତୁ' ଏବଂ 'କୁ ପଠାନ୍ତୁ' ନିର୍ଦ୍ଦେଶ ଦର୍ଶାନ୍ତୁ"
 
 #: generalsettingspage.cpp:82
 msgctxt "@title:group"
 msgid "Status Bar"
-msgstr ""
+msgstr "ସ୍ଥିତି ପଟି"
 
 #: generalsettingspage.cpp:84
 msgctxt "@option:check"
@@ -199,12 +199,12 @@ msgstr ""
 #: generalsettingspage.cpp:87
 msgctxt "@option:check"
 msgid "Show space information"
-msgstr ""
+msgstr "ସ୍ଥାନ ସୂଚନା ଦର୍ଶାନ୍ତୁ"
 
 #: generalsettingspage.cpp:94
 msgctxt "@option:check"
 msgid "Browse through archives"
-msgstr ""
+msgstr "ଅଭିଲେଖନଗୁଡ଼ିକ ଦ୍ୱାରା ବ୍ରାଉଜକରନ୍ତୁ"
 
 #: generalsettingspage.cpp:97
 msgctxt "@option:check"
@@ -219,58 +219,58 @@ msgstr ""
 #: statusbarspaceinfo.cpp:78 statusbarspaceinfo.cpp:91
 msgctxt "@info:status"
 msgid "Unknown size"
-msgstr ""
+msgstr "ଅଜଣା ଆକାର"
 
 #: statusbarspaceinfo.cpp:102
 #, kde-format
 msgctxt "@info:status Free disk space"
 msgid "%1 free"
-msgstr ""
+msgstr "%1 ଖାଲିଅଛି"
 
 #: treeviewcontextmenu.cpp:60
 msgctxt "@action:inmenu"
 msgid "Cut"
-msgstr ""
+msgstr "କାଟନ୍ତୁ"
 
 #: treeviewcontextmenu.cpp:64
 msgctxt "@action:inmenu"
 msgid "Copy"
-msgstr ""
+msgstr "ନକଲ କରନ୍ତୁ"
 
 #: treeviewcontextmenu.cpp:79
 msgctxt "@action:inmenu"
 msgid "Rename..."
-msgstr ""
+msgstr "ପୁନଃ ନାମକରଣ କରନ୍ତୁ..."
 
 #: treeviewcontextmenu.cpp:92
 msgctxt "@action:inmenu"
 msgid "Move To Trash"
-msgstr ""
+msgstr "ଆବର୍ଜନା ପାତ୍ର ମଧ୍ଯକୁ ପଠାନ୍ତୁ"
 
 #: treeviewcontextmenu.cpp:102
 msgctxt "@action:inmenu"
 msgid "Delete"
-msgstr ""
+msgstr "ଅପସାରଣ କରନ୍ତୁ"
 
 #: treeviewcontextmenu.cpp:111 dolphincontextmenu.cpp:281
 msgctxt "@action:inmenu"
 msgid "Properties"
-msgstr ""
+msgstr "ଗୁଣଧର୍ମ"
 
 #: treeviewcontextmenu.cpp:118
 msgctxt "@action:inmenu"
 msgid "Show Hidden Files"
-msgstr ""
+msgstr "ଲୁକ୍କାୟିତ ଫାଇଲଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ"
 
 #: dolphinviewcontainer.cpp:239
 msgctxt "@info:progress"
 msgid "Loading folder..."
-msgstr ""
+msgstr "ଫୋଲଡ଼ର ଧାରଣ କରୁଅଛି..."
 
 #: dolphinviewcontainer.cpp:380
 msgctxt "@info:status"
 msgid "Dolphin does not support web pages, the web browser has been launched"
-msgstr ""
+msgstr "Dolphin ୱେବ ପୃଷ୍ଟାଗୁଡ଼ିକୁ ସମର୍ଥନ କରେନାହିଁ, ୱେବ ବ୍ରାଉଜର ଆରମ୍ଭ ହୋଇଛି"
 
 #: dolphinviewcontainer.cpp:388
 msgctxt "@info:status"
@@ -280,50 +280,50 @@ msgstr ""
 #: dolphinviewcontainer.cpp:393
 msgctxt "@info:status"
 msgid "Invalid protocol"
-msgstr ""
+msgstr "ଅବୈଧ ପ୍ରୋଟୋକଲ"
 
 #: infosidebarpage.cpp:199
 #, kde-format
 msgctxt "@info"
 msgid "%1 item selected"
 msgid_plural "%1 items selected"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1 ବସ୍ତୁ ବଛାହୋଇଛି"
+msgstr[1] "%1 ବସ୍ତୁ ବଛାହୋଇଛି"
 
 #: infosidebarpage.cpp:376
 msgctxt "@label"
 msgid "Total size:"
-msgstr ""
+msgstr "ଆକାର ସମଷ୍ଟି:"
 
 #: infosidebarpage.cpp:380 infosidebarpage.cpp:383 infosidebarpage.cpp:434
 msgctxt "@label"
 msgid "Type:"
-msgstr ""
+msgstr "ପ୍ରକାର:"
 
 #: infosidebarpage.cpp:380
 msgctxt "@label"
 msgid "Folder"
-msgstr ""
+msgstr "ଫୋଲଡ଼ର"
 
 #: infosidebarpage.cpp:381 infosidebarpage.cpp:386
 msgctxt "@label"
 msgid "Modified:"
-msgstr ""
+msgstr "ପରିବର୍ତ୍ତିତ:"
 
 #: infosidebarpage.cpp:385
 msgctxt "@label"
 msgid "Size:"
-msgstr ""
+msgstr "ଆକାର:"
 
 #: infosidebarpage.cpp:428
 msgctxt "@label"
 msgid "Album:"
-msgstr ""
+msgstr "ଆଲବମ:"
 
 #: infosidebarpage.cpp:429
 msgctxt "@label"
 msgid "Artist:"
-msgstr ""
+msgstr "କଳାକାର:"
 
 #: infosidebarpage.cpp:430
 msgctxt "@label"
@@ -333,69 +333,69 @@ msgstr ""
 #: infosidebarpage.cpp:431
 msgctxt "@label"
 msgid "Height:"
-msgstr ""
+msgstr "ଉଚ୍ଚତା:"
 
 #: infosidebarpage.cpp:432
 msgctxt "@label"
 msgid "Lines:"
-msgstr ""
+msgstr "ଧାଡ଼ି:"
 
 #: infosidebarpage.cpp:433
 msgctxt "@label"
 msgid "Title:"
-msgstr ""
+msgstr "ଶୀର୍ଷକ:"
 
 #: infosidebarpage.cpp:435
 msgctxt "@label"
 msgid "Track:"
-msgstr ""
+msgstr "ଅନୁସରଣ କରନ୍ତୁ:"
 
 #: infosidebarpage.cpp:436
 msgctxt "@label"
 msgid "Width:"
-msgstr ""
+msgstr "ଓସାର:"
 
 #: viewpropsprogressinfo.cpp:49
 msgctxt "@title:window"
 msgid "Applying View Properties"
-msgstr ""
+msgstr "ଦୃଶ୍ୟ ଗୁଣଧର୍ମ ପ୍ରୟୋଗ କରୁଅଛି"
 
 #: viewpropsprogressinfo.cpp:62 viewpropsprogressinfo.cpp:109
 #, kde-format
 msgctxt "@info:progress"
 msgid "Counting folders: %1"
-msgstr ""
+msgstr "ଫୋଲଡ଼ର ଗଣୁଅଛି: %1"
 
 #: viewpropsprogressinfo.cpp:125
 #, kde-format
 msgctxt "@info:progress"
 msgid "Folders: %1"
-msgstr ""
+msgstr "ଫୋଲଡ଼ର: %1"
 
 #: generalviewsettingspage.cpp:61
 msgctxt "@title:group"
 msgid "View Properties"
-msgstr ""
+msgstr "ଗୁଣଧର୍ମ ଦେଖନ୍ତୁ"
 
 #: generalviewsettingspage.cpp:63
 msgctxt "@option:radio"
 msgid "Remember view properties for each folder"
-msgstr ""
+msgstr "ପ୍ରତ୍ୟେକ ଫୋଲଡ଼ର ପାଇଁ ଦୃଶ୍ୟ ଗୁଣଧର୍ମକୁ ମନେରଖନ୍ତୁ"
 
 #: generalviewsettingspage.cpp:66
 msgctxt "@option:radio"
 msgid "Use common view properties for all folders"
-msgstr ""
+msgstr "ସମସ୍ତ ଫୋଲଡ଼ରଗୁଡ଼ିକ ପାଇଁ ସାଧାରଣ ଦୃଶ୍ୟ ଗୁଣଧର୍ମ ବ୍ୟବହାର କରନ୍ତୁ"
 
 #: generalviewsettingspage.cpp:74
 msgctxt "@title:group"
 msgid "File Previews"
-msgstr ""
+msgstr "ଫାଇଲ ପ୍ରାକଦର୍ଶନ"
 
 #: generalviewsettingspage.cpp:79
 msgctxt "@label:slider"
 msgid "Maximum file size:"
-msgstr ""
+msgstr "ସର୍ବାଧିକ ଫାଇଲ ଆକାର:"
 
 #: generalviewsettingspage.cpp:94
 msgctxt "@option:check"
@@ -410,7 +410,7 @@ msgstr ""
 #: generalviewsettingspage.cpp:104
 msgctxt "@option:check"
 msgid "Show tooltips"
-msgstr ""
+msgstr "ଉପକରଣ ସୂଚନା ଦର୍ଶାନ୍ତୁ"
 
 #: nepomukmassupdatejob.cpp:74
 msgctxt "@info:progress"
@@ -420,28 +420,28 @@ msgstr ""
 #: renamedialog.cpp:41
 msgctxt "@title:window"
 msgid "Rename Item"
-msgstr ""
+msgstr "ବସ୍ତୁର ପୁନଃ ନାମକରଣ କରନ୍ତୁ"
 
 #: renamedialog.cpp:42
 msgctxt "@title:window"
 msgid "Rename Items"
-msgstr ""
+msgstr "ବସ୍ତୁଗୁଡ଼ିକର ପୁନଃ ନାମକରଣ କରନ୍ତୁ"
 
 #: renamedialog.cpp:46
 msgctxt "@action:button"
 msgid "Rename"
-msgstr ""
+msgstr "ପୁନଃ ନାମକରଣ କରନ୍ତୁ"
 
 #: renamedialog.cpp:57
 #, kde-format
 msgctxt "@label:textbox"
 msgid "Rename the item <filename>%1</filename> to:"
-msgstr ""
+msgstr "<filename>%1</filename> ବସ୍ତୁକୁ ପୁନଃ ନାମକରଣ କରନ୍ତୁ:"
 
 #: renamedialog.cpp:60
 msgctxt "@info:status"
 msgid "New name #"
-msgstr ""
+msgstr "ନୂତନ ନାମ #"
 
 #: renamedialog.cpp:62
 #, kde-format
@@ -458,8 +458,7 @@ msgstr ""
 
 #: renamedialog.cpp:120
 msgctxt "@info:status"
-msgid ""
-"The new name is empty. A name with at least one character must be entered."
+msgid "The new name is empty. A name with at least one character must be entered."
 msgstr ""
 
 #: renamedialog.cpp:123
@@ -470,87 +469,87 @@ msgstr ""
 #: main.cpp:34
 msgctxt "@title"
 msgid "Dolphin"
-msgstr ""
+msgstr "Dolphin"
 
 #: main.cpp:36
 msgctxt "@title"
 msgid "File Manager"
-msgstr ""
+msgstr "ଫାଇଲ ପରିଚାଳକ"
 
 #: main.cpp:38
 msgctxt "@info:credit"
 msgid "(C) 2006-2008 Peter Penz"
-msgstr ""
+msgstr "(C) 2006-2008 Peter Penz"
 
 #: main.cpp:40
 msgctxt "@info:credit"
 msgid "Peter Penz"
-msgstr ""
+msgstr "Peter Penz"
 
 #: main.cpp:41
 msgctxt "@info:credit"
 msgid "Maintainer and developer"
-msgstr ""
+msgstr "ତତ୍ୱାବଧରକ ଏବଂ ବିକାଶକାରୀ"
 
 #: main.cpp:43
 msgctxt "@info:credit"
 msgid "David Faure"
-msgstr ""
+msgstr "David Faure"
 
 #: main.cpp:44 main.cpp:47 main.cpp:50 main.cpp:53 main.cpp:56 main.cpp:59
 msgctxt "@info:credit"
 msgid "Developer"
-msgstr ""
+msgstr "ବିକାଶକାରୀ"
 
 #: main.cpp:46
 msgctxt "@info:credit"
 msgid "Aaron J. Seigo"
-msgstr ""
+msgstr "Aaron J. Seigo"
 
 #: main.cpp:49
 msgctxt "@info:credit"
 msgid "Rafael Fernández López"
-msgstr ""
+msgstr "Rafael Fernández López"
 
 #: main.cpp:52
 msgctxt "@info:credit"
 msgid "Kevin Ottens"
-msgstr ""
+msgstr "Kevin Ottens"
 
 #: main.cpp:55
 msgctxt "@info:credit"
 msgid "Holger Freyther"
-msgstr ""
+msgstr "Holger Freyther"
 
 #: main.cpp:58
 msgctxt "@info:credit"
 msgid "Max Blazejak"
-msgstr ""
+msgstr "Max Blazejak"
 
 #: main.cpp:61
 msgctxt "@info:credit"
 msgid "Michael Austin"
-msgstr ""
+msgstr "Michael Austin"
 
 #: main.cpp:62
 msgctxt "@info:credit"
 msgid "Documentation"
-msgstr ""
+msgstr "ଦଲିଲିକରଣ"
 
 #: main.cpp:69
 msgctxt "@info:shell"
 msgid "Document to open"
-msgstr ""
+msgstr "ଖୋଲିବା ପାଇଁ ଦଲିଲ"
 
 #: dolphincontextmenu.cpp:113
 msgctxt "@action:inmenu"
 msgid "Empty Trash"
-msgstr ""
+msgstr "ଖାଲି ଆବର୍ଜନା ପାତ୍ର"
 
 #: dolphincontextmenu.cpp:119 dolphincontextmenu.cpp:278
 msgctxt "@action:inmenu Add current folder to places"
 msgid "Add to Places"
-msgstr ""
+msgstr "ସ୍ଥାନଗୁଡ଼ିକରେ ଯୋଗକରନ୍ତୁ"
 
 #: dolphincontextmenu.cpp:126
 msgctxt "@info"
@@ -560,135 +559,135 @@ msgstr ""
 #: dolphincontextmenu.cpp:130
 msgctxt "@action:button"
 msgid "Empty Trash"
-msgstr ""
+msgstr "ଖାଲି ଆବର୍ଜନା ପାତ୍ର"
 
 #: dolphincontextmenu.cpp:139
 msgctxt "@label"
 msgid "Trash"
-msgstr ""
+msgstr "ଆବର୍ଜନା ପାତ୍ର"
 
 #: dolphincontextmenu.cpp:155
 msgctxt "@action:inmenu"
 msgid "Restore"
-msgstr ""
+msgstr "ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ"
 
 #: dolphincontextmenu.cpp:184 dolphinmainwindow.cpp:961
 msgctxt "@title:menu Create new folder, file, link, etc."
 msgid "Create New"
-msgstr ""
+msgstr "ନୂତନ ନିର୍ମାଣ କରନ୍ତୁ"
 
 #: dolphincontextmenu.cpp:203
 msgctxt "@action:inmenu Add selected folder to places"
 msgid "Add to Places"
-msgstr ""
+msgstr "ସ୍ଥାନଗୁଡ଼ିକରେ ଯୋଗ କରନ୍ତୁ"
 
 #. i18n: file: dolphinui.rc:21
 #. i18n: ectx: Menu (view_mode)
 #: dolphincontextmenu.cpp:262 rc.cpp:201 rc.cpp:311
 msgctxt "@title:menu"
 msgid "View Mode"
-msgstr ""
+msgstr "ଦୃଶ୍ୟମାନ ଅବସ୍ଥା"
 
 #: dolphincontextmenu.cpp:363
 msgctxt "@action:inmenu"
 msgid "Paste Into Folder"
-msgstr ""
+msgstr "ଫୋଲଡ଼ର ମଧ୍ଯରେ ଲଗାନ୍ତୁ"
 
 #: dolphinmodel.cpp:51
 msgctxt "@title:group Name"
 msgid "Others"
-msgstr ""
+msgstr "ଅନ୍ୟମାନେ"
 
 #: dolphinmodel.cpp:192
 msgctxt "@title:group Size"
 msgid "Folders"
-msgstr ""
+msgstr "ଫୋଲଡ଼ରଗୁଡ଼ିକ"
 
 #: dolphinmodel.cpp:194
 msgctxt "@title:group Size"
 msgid "Small"
-msgstr ""
+msgstr "ସାନ"
 
 #: dolphinmodel.cpp:196
 msgctxt "@title:group Size"
 msgid "Medium"
-msgstr ""
+msgstr "ମଧ୍ଯମ"
 
 #: dolphinmodel.cpp:198
 msgctxt "@title:group Size"
 msgid "Big"
-msgstr ""
+msgstr "ବଡ଼"
 
 #: dolphinmodel.cpp:229
 msgctxt "@title:group Date"
 msgid "Today"
-msgstr ""
+msgstr "ଆଜି"
 
 #: dolphinmodel.cpp:230
 msgctxt "@title:group Date"
 msgid "Yesterday"
-msgstr ""
+msgstr "ଗତକାଲି"
 
 #: dolphinmodel.cpp:231
 #, c-format
 msgctxt "@title:group The week day name: %A"
 msgid "%A"
-msgstr ""
+msgstr "%A"
 
 #: dolphinmodel.cpp:235
 msgctxt "@title:group Date"
 msgid "Last Week"
-msgstr ""
+msgstr "ଗତ ସପ୍ତାହ"
 
 #: dolphinmodel.cpp:238
 msgctxt "@title:group Date"
 msgid "Two Weeks Ago"
-msgstr ""
+msgstr "ଦୁଇ ସପ୍ତାହ ତଳେ"
 
 #: dolphinmodel.cpp:241
 msgctxt "@title:group Date"
 msgid "Three Weeks Ago"
-msgstr ""
+msgstr "ତିନି ସପ୍ତାହ ତଳେ"
 
 #: dolphinmodel.cpp:245
 msgctxt "@title:group Date"
 msgid "Earlier this Month"
-msgstr ""
+msgstr "ଏହି ମାସ ଆରମ୍ଭରେ"
 
 #: dolphinmodel.cpp:253
 msgctxt ""
 "@title:group Date: %B is full month name in current locale, and %Y is full "
 "year number"
 msgid "Yesterday (%B, %Y)"
-msgstr ""
+msgstr "ଗତକାଲି (%B, %Y)"
 
 #: dolphinmodel.cpp:255
 msgctxt ""
 "@title:group The week day name: %A, %B is full month name in current locale, "
 "and %Y is full year number"
 msgid "%A (%B, %Y)"
-msgstr ""
+msgstr "%A (%B, %Y)"
 
 #: dolphinmodel.cpp:257
 msgctxt ""
 "@title:group Date: %B is full month name in current locale, and %Y is full "
 "year number"
 msgid "Last Week (%B, %Y)"
-msgstr ""
+msgstr "ଗତ ସପ୍ତାହ (%B, %Y)"
 
 #: dolphinmodel.cpp:259
 msgctxt ""
 "@title:group Date: %B is full month name in current locale, and %Y is full "
 "year number"
 msgid "Two Weeks Ago (%B, %Y)"
-msgstr ""
+msgstr "ଦୁଇ ସପ୍ତାହ ତଳେ (%B, %Y)"
 
 #: dolphinmodel.cpp:261
 msgctxt ""
 "@title:group Date: %B is full month name in current locale, and %Y is full "
 "year number"
 msgid "Three Weeks Ago (%B, %Y)"
-msgstr ""
+msgstr "ତିନି ସପ୍ତାହ ତଳେ (%B, %Y)"
 
 #: dolphinmodel.cpp:263
 msgctxt ""
@@ -702,22 +701,22 @@ msgctxt ""
 "@title:group The month and year: %B is full month name in current locale, "
 "and %Y is full year number"
 msgid "%B, %Y"
-msgstr ""
+msgstr "%B, %Y"
 
 #: dolphinmodel.cpp:281 dolphinmodel.cpp:293 dolphinmodel.cpp:305
 msgctxt "@item:intext Access permission, concatenated"
 msgid "Read, "
-msgstr ""
+msgstr "ପଢ଼ନ୍ତୁ, "
 
 #: dolphinmodel.cpp:284 dolphinmodel.cpp:296 dolphinmodel.cpp:308
 msgctxt "@item:intext Access permission, concatenated"
 msgid "Write, "
-msgstr ""
+msgstr "ଲେଖନ୍ତୁ, "
 
 #: dolphinmodel.cpp:287 dolphinmodel.cpp:299 dolphinmodel.cpp:311
 msgctxt "@item:intext Access permission, concatenated"
 msgid "Execute, "
-msgstr ""
+msgstr "ନିଷ୍ପାଦନ କରନ୍ତୁ, "
 
 #: dolphinmodel.cpp:289 dolphinmodel.cpp:301 dolphinmodel.cpp:313
 msgctxt "@item:intext Access permission, concatenated"
@@ -728,7 +727,7 @@ msgstr ""
 #, kde-format
 msgctxt "@title:group Files and folders by permissions"
 msgid "(User: %1) (Group: %2) (Others: %3)"
-msgstr ""
+msgstr "(ଚାଳକ: %1) (ଶ୍ରେଣୀ: %2) (ଅନ୍ୟମାନେ: %3)"
 
 #: dolphinmodel.cpp:341
 msgctxt "@title:group Tags"
@@ -739,128 +738,128 @@ msgstr ""
 #: detailsviewsettingspage.cpp:68
 msgctxt "@title:group"
 msgid "Text"
-msgstr ""
+msgstr "ପାଠ୍ୟ"
 
 #: columnviewsettingspage.cpp:71 iconsviewsettingspage.cpp:79
 #: detailsviewsettingspage.cpp:71
 msgctxt "@label:listbox"
 msgid "Font:"
-msgstr ""
+msgstr "ଅକ୍ଷରରୂପ:"
 
 #: columnviewsettingspage.cpp:75 iconsviewsettingspage.cpp:89
 msgctxt "@label:listbox"
 msgid "Text width:"
-msgstr ""
+msgstr "ପାଠ୍ୟ ଓସାର:"
 
 #: columnviewsettingspage.cpp:77 iconsviewsettingspage.cpp:91
 msgctxt "@item:inlistbox Text width"
 msgid "Small"
-msgstr ""
+msgstr "ସାନ"
 
 #: columnviewsettingspage.cpp:78 iconsviewsettingspage.cpp:92
 msgctxt "@item:inlistbox Text width"
 msgid "Medium"
-msgstr ""
+msgstr "ମଧ୍ଯମ"
 
 #: columnviewsettingspage.cpp:79 iconsviewsettingspage.cpp:93
 msgctxt "@item:inlistbox Text width"
 msgid "Large"
-msgstr ""
+msgstr "ବଡ଼"
 
 #: viewsettingspage.cpp:54 kcmdolphin.cpp:60
 msgctxt "@title:tab General settings"
 msgid "General"
-msgstr ""
+msgstr "ସାଧାରଣ"
 
 #: viewsettingspage.cpp:59 kcmdolphin.cpp:65
 msgctxt "@title:tab"
 msgid "Icons"
-msgstr ""
+msgstr "ଚିତ୍ରସଂକେତ"
 
 #: viewsettingspage.cpp:64 kcmdolphin.cpp:70
 msgctxt "@title:tab"
 msgid "Details"
-msgstr ""
+msgstr "ବିବରଣୀ"
 
 #: viewsettingspage.cpp:69 kcmdolphin.cpp:75
 msgctxt "@title:tab"
 msgid "Column"
-msgstr ""
+msgstr "ସ୍ତମ୍ଭ"
 
 #: iconsviewsettingspage.cpp:83
 msgctxt "@label:textbox"
 msgid "Number of lines:"
-msgstr ""
+msgstr "ଧାଡ଼ି ସଂଖ୍ଯା:"
 
 #: iconsviewsettingspage.cpp:94
 msgctxt "@item:inlistbox Text width"
 msgid "Huge"
-msgstr ""
+msgstr "ବୃହତ"
 
 #: iconsviewsettingspage.cpp:106
 msgctxt "@title:group"
 msgid "Grid"
-msgstr ""
+msgstr "ଜାଲି"
 
 #: iconsviewsettingspage.cpp:109
 msgctxt "@label:listbox"
 msgid "Arrangement:"
-msgstr ""
+msgstr "ବ୍ୟବସ୍ଥା:"
 
 #: iconsviewsettingspage.cpp:111
 msgctxt "@item:inlistbox Arrangement"
 msgid "Columns"
-msgstr ""
+msgstr "ସ୍ତମ୍ଭଗୁଡ଼ିକ"
 
 #: iconsviewsettingspage.cpp:112
 msgctxt "@item:inlistbox Arrangement"
 msgid "Rows"
-msgstr ""
+msgstr "ଧାଡ଼ିଗୁଡ଼ିକ"
 
 #: iconsviewsettingspage.cpp:115
 msgctxt "@label:listbox"
 msgid "Grid spacing:"
-msgstr ""
+msgstr "ଜାଲି ମଧ୍ଯରେ ଖାଲି ସ୍ଥାନ:"
 
 #: iconsviewsettingspage.cpp:117
 msgctxt "@item:inlistbox Grid spacing"
 msgid "None"
-msgstr ""
+msgstr "କେହିନୁହଁ"
 
 #: iconsviewsettingspage.cpp:118
 msgctxt "@item:inlistbox Grid spacing"
 msgid "Small"
-msgstr ""
+msgstr "ସାନ"
 
 #: iconsviewsettingspage.cpp:119
 msgctxt "@item:inlistbox Grid spacing"
 msgid "Medium"
-msgstr ""
+msgstr "ମଧ୍ଯମ"
 
 #: iconsviewsettingspage.cpp:120
 msgctxt "@item:inlistbox Grid spacing"
 msgid "Large"
-msgstr ""
+msgstr "ବଡ଼"
 
 #: dolphinsettingsdialog.cpp:42
 msgctxt "@title:window"
 msgid "Dolphin Preferences"
-msgstr ""
+msgstr "Dolphin ପସନ୍ଦ"
 
 #: dolphinsettingsdialog.cpp:49
 msgctxt "@title:group"
 msgid "Startup"
-msgstr ""
+msgstr "ଆରମ୍ଭ"
 
 #: dolphinsettingsdialog.cpp:55
 msgctxt "@title:group"
 msgid "View Modes"
-msgstr ""
+msgstr "ଦୃଶ୍ୟମାନ ଅବସ୍ଥା"
 
 #: dolphinsettingsdialog.cpp:61
 msgctxt "@title:group General settings"
 msgid "General"
-msgstr ""
+msgstr "ସାଧାରଣ"
 
 #: dolphinsettingsdialog.cpp:84
 msgctxt "@info"
@@ -870,32 +869,32 @@ msgstr ""
 #: commentwidget.cpp:55
 msgctxt "@label"
 msgid "Add Comment..."
-msgstr ""
+msgstr "ଟିପ୍ପଣୀ ଯୋଗକରନ୍ତୁ..."
 
 #: commentwidget.cpp:58
 msgctxt "@label"
 msgid "Change Comment..."
-msgstr ""
+msgstr "ଟିପ୍ପଣୀ ପରିବର୍ତ୍ତନ କରନ୍ତୁ..."
 
 #: startupsettingspage.cpp:58
 msgctxt "@title:group"
 msgid "Home Folder"
-msgstr ""
+msgstr "ମୂଖ୍ୟ ଫୋଲଡ଼ର"
 
 #: startupsettingspage.cpp:63
 msgctxt "@label:textbox"
 msgid "Location:"
-msgstr ""
+msgstr "ସ୍ଥାନ:"
 
 #: startupsettingspage.cpp:74
 msgctxt "@action:button"
 msgid "Use Current Location"
-msgstr ""
+msgstr "ପ୍ରଚଳିତ ସ୍ଥାନକୁ ବ୍ୟବହାର କରନ୍ତୁ"
 
 #: startupsettingspage.cpp:77
 msgctxt "@action:button"
 msgid "Use Default Location"
-msgstr ""
+msgstr "ପୂର୍ବନିର୍ଦ୍ଦାରିତ ସ୍ଥାନ ବ୍ୟବହାର କରନ୍ତୁ"
 
 #: startupsettingspage.cpp:86
 msgctxt "@option:check Startup Settings"
@@ -925,7 +924,7 @@ msgstr ""
 #: tagcloud/newtagdialog.cpp:31 tagcloud/newtagdialog.cpp:68
 msgctxt "@title:window"
 msgid "Create New Tag"
-msgstr ""
+msgstr "ନୂତନ ଟ୍ୟାଗ ନିର୍ମାଣ କରନ୍ତୁ"
 
 #: tagcloud/newtagdialog.cpp:69
 msgctxt "@title:window subtitle to previous message"
@@ -1793,8 +1792,7 @@ msgstr ""
 
 #: viewpropertiesdialog.cpp:357
 msgctxt "@info"
-msgid ""
-"The view properties of all folders will be changed. Do you want to continue?"
+msgid "The view properties of all folders will be changed. Do you want to continue?"
 msgstr ""
 
 #: dolphinviewactionhandler.cpp:76
@@ -1986,3 +1984,4 @@ msgstr ""
 msgctxt "@option:check Additional Information"
 msgid "Type"
 msgstr ""
+
