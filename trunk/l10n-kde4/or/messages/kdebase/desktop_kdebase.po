@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-01-20 09:26+0000\n"
+"POT-Creation-Date: 2009-01-21 09:58+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -592,7 +592,7 @@ msgctxt "Name"
 msgid "Freeciv Server"
 msgstr "Freeciv ସର୍ଭର"
 
-#: apps/kappfinder/apps/Games/TacticStrategy/freecivserver.desktop:62
+#: apps/kappfinder/apps/Games/TacticStrategy/freecivserver.desktop:63
 msgctxt "Comment"
 msgid "A server for Freeciv"
 msgstr "Freeciv ପାଇଁ ଗୋଟିଏ ସର୍ଭର"
@@ -732,7 +732,7 @@ msgctxt "Name"
 msgid "GIMP"
 msgstr "GIMP"
 
-#: apps/kappfinder/apps/Graphics/gimp.desktop:15
+#: apps/kappfinder/apps/Graphics/gimp.desktop:16
 msgctxt "GenericName"
 msgid "Image Manipulation Program"
 msgstr "ପ୍ରତିଛବି ପ୍ରକଳନ ପ୍ରଗ୍ରାମ"
@@ -1256,7 +1256,7 @@ msgctxt "GenericName"
 msgid "Videotext Viewer"
 msgstr "ଭିଡ଼ିଓ ପାଠ୍ୟ ପ୍ରଦର୍ଶକ"
 
-#: apps/kappfinder/apps/Multimedia/alevt.desktop:62
+#: apps/kappfinder/apps/Multimedia/alevt.desktop:63
 msgctxt "Name"
 msgid "AleVT"
 msgstr "AleVT"
@@ -3402,7 +3402,7 @@ msgctxt "Name"
 msgid "Window Manager"
 msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ"
 
-#: runtime/kcontrol/componentchooser/componentservices/kcm_wm.desktop:61
+#: runtime/kcontrol/componentchooser/componentservices/kcm_wm.desktop:62
 msgctxt "Comment"
 msgid "Here you can select the window manager to be run in your KDE session."
 msgstr "ଆପଣଙ୍କର KDE ଅଧିବେଶନରେ ଚଲାଇବା ପାଇଁ ୱିଣ୍ଡୋ ପରିଚାଳକଙ୍କୁ ଏଠାରେ ଚୟନ କରିପାରିବେ।"
@@ -3711,12 +3711,12 @@ msgstr "KDED ଡ଼େସ୍କଟପ ଫୋଲଡ଼ର ବିଜ୍ଞପ୍�
 
 #: runtime/kioslave/desktop/directory.trash:3
 #: runtime/kioslave/trash/kcmtrash.desktop:1
-#: runtime/kioslave/trash/kcmtrash.desktop:130
+#: runtime/kioslave/trash/kcmtrash.desktop:133
 msgctxt "Name"
 msgid "Trash"
 msgstr "ଆବର୍ଜନା ପାତ୍ର"
 
-#: runtime/kioslave/desktop/directory.trash:65
+#: runtime/kioslave/desktop/directory.trash:66
 msgctxt "Comment"
 msgid "Contains removed files"
 msgstr "ଅପସାରିତ ଫାଇଲଗୁଡ଼ିକୁ ଧାରଣ କରିଥାଏ"
@@ -3796,12 +3796,12 @@ msgctxt "Comment"
 msgid "Thumbnail Handler"
 msgstr "କ୍ଷୁଦ୍ରଚିତ୍ର ନିୟନ୍ତ୍ରକ"
 
-#: runtime/kioslave/trash/kcmtrash.desktop:63
+#: runtime/kioslave/trash/kcmtrash.desktop:64
 msgctxt "Comment"
 msgid "This service allows configuration of the trash."
 msgstr "ଏହି ସର୍ଭିସ ଆବର୍ଜନା ପାତ୍ରର ବିନ୍ୟାସ ପାଇଁ ଅନୁମତି ଦେଇଥାଏ।"
 
-#: runtime/kioslave/trash/kcmtrash.desktop:192
+#: runtime/kioslave/trash/kcmtrash.desktop:196
 msgctxt "Comment"
 msgid "Configure trash settings"
 msgstr "ଆବର୍ଜନା ପାତ୍ର ସଂରଚନାକୁ ବିନ୍ୟାସ କରନ୍ତୁ "
@@ -3877,7 +3877,7 @@ msgid "There was a serious error causing the program to exit"
 msgstr "ଗୋଟିଏ ଗମ୍ଭୀର ତ୍ରୁଟି ପ୍ରଗ୍ରାମକୁ ପ୍ରସ୍ଥାନ କରାଇଥାଏ"
 
 #: runtime/knotify/kde.notifyrc:762
-#: workspace/powerdevil/powerdevil.notifyrc:198
+#: workspace/powerdevil/powerdevil.notifyrc:200
 msgctxt "Name"
 msgid "Notification"
 msgstr "ବିଜ୍ଞପ୍ତି"
@@ -3888,7 +3888,7 @@ msgid "Something special happened in the program"
 msgstr ""
 
 #: runtime/knotify/kde.notifyrc:906
-#: workspace/powerdevil/powerdevil.notifyrc:76
+#: workspace/powerdevil/powerdevil.notifyrc:77
 msgctxt "Name"
 msgid "Warning"
 msgstr "ଚେତାବନୀ"
@@ -5259,7 +5259,7 @@ msgctxt "Name"
 msgid "Wallet Server"
 msgstr "ୱାଲେଟ ସର୍ଭର"
 
-#: runtime/kwalletd/kwalletd.desktop:60
+#: runtime/kwalletd/kwalletd.desktop:61
 msgctxt "Comment"
 msgid "Wallet Server"
 msgstr "ୱାଲେଟ ସର୍ଭର"
@@ -6753,7 +6753,7 @@ msgctxt "Name"
 msgid "Desktop Search"
 msgstr "ଡ଼େସ୍କଟପ ସନ୍ଧାନ"
 
-#: runtime/nepomuk/kcm/kcm_nepomuk.desktop:75
+#: runtime/nepomuk/kcm/kcm_nepomuk.desktop:76
 msgctxt "Comment"
 msgid "Nepomuk/Strigi Server Configuration"
 msgstr "Nepomuk/Strigi ସର୍ଭର ବିନ୍ୟାସ"
@@ -6826,53 +6826,53 @@ msgctxt "Comment"
 msgid "The Nepomuk Storage Service"
 msgstr "Nepomuk ଭଣ୍ଡାର ସର୍ଭିସ"
 
-#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:114
+#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:115
 msgctxt "Name"
 msgid "Rebuilding Nepomuk Index"
 msgstr "Nepomuk ଅନୁକ୍ରମଣିକା ପୁନଃ ନିର୍ମାଣ କରୁଅଛି"
 
-#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:163
+#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:165
 msgctxt "Comment"
 msgid "The Nepomuk full text search index is rebuilt for new features"
 msgstr ""
 "ନୂତନ ବିଶେଷଗୁଣଗୁଡ଼ିକ ପାଇଁ Nepomuk ସମ୍ପୂର୍ଣ୍ଣ ପାଠ୍ୟ ସନ୍ଧାନ ଅନୁକ୍ରମଣିକାକୁ ପୁନଃ ନିର୍ମାଣ କରାଯାଇଛି"
 
-#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:211
+#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:214
 msgctxt "Name"
 msgid "Rebuilding Nepomuk Index done"
 msgstr "Nepomuk ଅନୁକ୍ରମଣିକାର ପୁନଃ ନିର୍ମାଣ ସମାପ୍ତ ହୋଇଛି"
 
-#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:259
+#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:263
 msgctxt "Comment"
 msgid "The rebuilding of the Nepomuk full text search index is done."
 msgstr "Nepomuk ସମ୍ପୂର୍ଣ୍ଣ ପାଠ୍ୟ ସନ୍ଧାନ ଅନୁକ୍ରମଣିକାକୁ ପୁନଃ ନିର୍ମାଣ କରାସରିଛି।"
 
-#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:309
+#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:314
 msgctxt "Name"
 msgid "Converting Nepomuk data"
 msgstr "Nepomuk ତଥ୍ୟକୁ ପରିବର୍ତ୍ତନ କରାଯାଉଛି"
 
-#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:355
+#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:361
 msgctxt "Comment"
 msgid "All Nepomuk data is converted to a new storage backend"
 msgstr "ସମସ୍ତ Nepomuk ତଥ୍ୟକୁ ନୂତନ ଭଣ୍ଡାର ପୃଷ୍ଠଭୂମିକୁ ପରିବର୍ତ୍ତନ କରାଯାଇଛି"
 
-#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:403
+#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:410
 msgctxt "Name"
 msgid "Converting Nepomuk data failed"
 msgstr "ନେପୋମୁକ ତଥ୍ୟ ପରିବର୍ତ୍ତନ ବିଫଳ ହୋଇଛି"
 
-#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:449
+#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:457
 msgctxt "Comment"
 msgid "Converting Nepomuk data to a new backend failed"
 msgstr "Nepomuk ତଥ୍ୟକୁ ଗୋଟିଏ ନୂତନ ପୃଷ୍ଠଭୂମିରେ ପରିବର୍ତ୍ତନ କରିବାରେ ବିଫଳ"
 
-#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:497
+#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:506
 msgctxt "Name"
 msgid "Converting Nepomuk data done"
 msgstr "Nepomuk ତଥ୍ୟ ପରିବର୍ତ୍ତନ ସମାପ୍ତ ହେଲା"
 
-#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:543
+#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:553
 msgctxt "Comment"
 msgid "Successfully converted Nepomuk data to new backend"
 msgstr "Nepomuk ତଥ୍ୟକୁ ସଫଳତାର ସହିତ ନୂତନ ପୃଷ୍ଠଭୂମିକୁ ପରିବର୍ତ୍ତନ କରାଯାଇଛି"
@@ -6895,45 +6895,45 @@ msgctxt "Comment"
 msgid "The Nepomuk Strigi file indexer"
 msgstr "Nepomuk Strigi ଫାଇଲ ଅନୁକ୍ରମିକା"
 
-#: runtime/nepomuk/services/strigi/nepomukstrigiservice.notifyrc:55
+#: runtime/nepomuk/services/strigi/nepomukstrigiservice.notifyrc:56
 msgctxt "Name"
 msgid "Initial Indexing started"
 msgstr "ପ୍ରାରମ୍ଭିକ ଅନୁକ୍ରମିକ ଆରମ୍ଭ ହୋଇଛି"
 
-#: runtime/nepomuk/services/strigi/nepomukstrigiservice.notifyrc:106
+#: runtime/nepomuk/services/strigi/nepomukstrigiservice.notifyrc:108
 msgctxt "Comment"
 msgid ""
 "Strigi started the initial indexing of local files for fast desktop searches"
 msgstr "ତୀବ୍ର ଡ଼େସ୍କଟପ ସନ୍ଧାନ ପାଇଁ Strigi ସ୍ଥାନୀୟ ଫାଇଲଗୁଡ଼ିକର ପ୍ରାରମ୍ଭିକ ଅନୁକ୍ରମଣକୁ ଆରମ୍ଭ କରିଅଛି"
 
-#: runtime/nepomuk/services/strigi/nepomukstrigiservice.notifyrc:154
+#: runtime/nepomuk/services/strigi/nepomukstrigiservice.notifyrc:157
 msgctxt "Name"
 msgid "Initial Indexing finished"
 msgstr "ପ୍ରାରମ୍ଭିକ ଅନୁକ୍ରମଣ ସମାପ୍ତ ହୋଇଛି"
 
-#: runtime/nepomuk/services/strigi/nepomukstrigiservice.notifyrc:205
+#: runtime/nepomuk/services/strigi/nepomukstrigiservice.notifyrc:209
 msgctxt "Comment"
 msgid ""
 "Strigi finished the initial indexing of local files for fast desktop searches"
 msgstr ""
 "ତୀବ୍ର ଡ଼େସ୍କଟପ ସନ୍ଧାନ ପାଇଁ Strigi ସ୍ଥାନୀୟ ଫାଇଲଗୁଡ଼ିକର ପ୍ରାରମ୍ଭିକ ଅନୁକ୍ରମଣକୁ ସମାପ୍ତ କରିଅଛି"
 
-#: runtime/nepomuk/services/strigi/nepomukstrigiservice.notifyrc:253
+#: runtime/nepomuk/services/strigi/nepomukstrigiservice.notifyrc:258
 msgctxt "Name"
 msgid "Indexing suspended"
 msgstr "ଅନୁକ୍ରମଣ କ୍ରିୟାକୁ ନିଲମ୍ବିତ କରାଯାଇଛି"
 
-#: runtime/nepomuk/services/strigi/nepomukstrigiservice.notifyrc:305
+#: runtime/nepomuk/services/strigi/nepomukstrigiservice.notifyrc:311
 msgctxt "Comment"
 msgid "Strigi file indexing has been suspended"
 msgstr "Strigi ଫାଇଲ ଅନୁକ୍ରମଣ କ୍ରିୟାକୁ ନିଲମ୍ବିତ କରାଯାଇଛି"
 
-#: runtime/nepomuk/services/strigi/nepomukstrigiservice.notifyrc:355
+#: runtime/nepomuk/services/strigi/nepomukstrigiservice.notifyrc:362
 msgctxt "Name"
 msgid "Indexing resumed"
 msgstr "ଅନୁକ୍ରମଣ କ୍ରିୟାକୁ ପୁନଃ ଚଳନ କରାଯାଇଛି"
 
-#: runtime/nepomuk/services/strigi/nepomukstrigiservice.notifyrc:408
+#: runtime/nepomuk/services/strigi/nepomukstrigiservice.notifyrc:416
 msgctxt "Comment"
 msgid "Strigi file indexing has been resumed"
 msgstr "Strigi ଫାଇଲ ଅନୁକ୍ରମଣ କ୍ରିୟାକୁ ପୁନଃ ଚଳନ କରାଯାଇଛି"
@@ -6958,7 +6958,7 @@ msgctxt "Name"
 msgid "Sound Policy Server"
 msgstr "ଧ୍ୱନି ନୀତି ସର୍ଭର"
 
-#: runtime/phonon/kded-module/phononserver.desktop:58
+#: runtime/phonon/kded-module/phononserver.desktop:59
 msgctxt "Comment"
 msgid "A server to centralize decisions and data of applications using Phonon"
 msgstr ""
@@ -7231,7 +7231,7 @@ msgctxt "Comment"
 msgid "Joystick settings"
 msgstr "Joystick ସଂରଚନା"
 
-#: workspace/kcontrol/hardware/joystick/joystick.desktop:119
+#: workspace/kcontrol/hardware/joystick/joystick.desktop:120
 msgctxt "Name"
 msgid "Joystick"
 msgstr "Joystick"
@@ -7321,7 +7321,7 @@ msgctxt "Name"
 msgid "Global Keyboard Shortcuts"
 msgstr "ଜାଗତିକ କିବୋର୍ଡ଼ ସଂକ୍ଷିପ୍ତ ପଥ"
 
-#: workspace/kcontrol/keys/keys.desktop:75
+#: workspace/kcontrol/keys/keys.desktop:76
 msgctxt "Comment"
 msgid "Configuration of keybindings"
 msgstr "କିବନ୍ଧନଗୁଡ଼ିକର ସଂରଚନା"
@@ -7487,7 +7487,7 @@ msgctxt "Name"
 msgid "Standard Keyboard Shortcuts"
 msgstr "ମାନକ କିବୋର୍ଡ଼ ସଂକ୍ଷିପ୍ତ ପଥଗୁଡ଼ିକ"
 
-#: workspace/kcontrol/standard_actions/standard_actions.desktop:75
+#: workspace/kcontrol/standard_actions/standard_actions.desktop:76
 msgctxt "Comment"
 msgid "Configuration of standard keybindings"
 msgstr "ମାନକ କି ବନ୍ଧନଗୁଡ଼ିକର ସଂରଚନା"
@@ -8044,7 +8044,7 @@ msgstr ""
 #: workspace/khotkeys/data/kde32b1.khotkeys:772
 #: workspace/khotkeys/data/kde32b1.khotkeys:1119
 #: workspace/khotkeys/data/kde32b1.khotkeys:1460
-#: workspace/khotkeys/data/kde32b1.khotkeys:2482
+#: workspace/khotkeys/data/kde32b1.khotkeys:2483
 #: workspace/khotkeys/data/printscreen.khotkeys:259
 msgctxt "Comment"
 msgid "Simple_action"
@@ -8176,35 +8176,35 @@ msgid ""
 "the active window is Konqueror (class contains 'konqueror')."
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:1557
+#: workspace/khotkeys/data/kde32b1.khotkeys:1558
 msgctxt "Name"
 msgid "Konqi Gestures"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:1623
+#: workspace/khotkeys/data/kde32b1.khotkeys:1624
 #: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:145
 msgctxt "Comment"
 msgid "Konqueror window"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:1703
-#: workspace/khotkeys/data/kde32b1.khotkeys:1724
+#: workspace/khotkeys/data/kde32b1.khotkeys:1704
+#: workspace/khotkeys/data/kde32b1.khotkeys:1725
 #: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:225
 #: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:246
 msgctxt "Comment"
 msgid "Konqueror"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:1750
+#: workspace/khotkeys/data/kde32b1.khotkeys:1751
 #: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:334
 msgctxt "Name"
 msgid "Back"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:1841
-#: workspace/khotkeys/data/kde32b1.khotkeys:1992
-#: workspace/khotkeys/data/kde32b1.khotkeys:2140
-#: workspace/khotkeys/data/kde32b1.khotkeys:2290
+#: workspace/khotkeys/data/kde32b1.khotkeys:1842
+#: workspace/khotkeys/data/kde32b1.khotkeys:1993
+#: workspace/khotkeys/data/kde32b1.khotkeys:2141
+#: workspace/khotkeys/data/kde32b1.khotkeys:2291
 #: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:553
 #: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:742
 #: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:912
@@ -8223,25 +8223,25 @@ msgctxt "Comment"
 msgid "Gesture_triggers"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:1901
+#: workspace/khotkeys/data/kde32b1.khotkeys:1902
 #: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:1866
 msgctxt "Name"
 msgid "Forward"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:2052
+#: workspace/khotkeys/data/kde32b1.khotkeys:2053
 #: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:654
 msgctxt "Name"
 msgid "Up"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:2200
+#: workspace/khotkeys/data/kde32b1.khotkeys:2201
 #: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:2856
 msgctxt "Name"
 msgid "Reload"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:2348
+#: workspace/khotkeys/data/kde32b1.khotkeys:2349
 msgctxt "Comment"
 msgid ""
 "After pressing Win+E (Tux+E), WWW browser will be launched and it will open "
@@ -8249,7 +8249,7 @@ msgid ""
 "(Alt+F2)."
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:2399
+#: workspace/khotkeys/data/kde32b1.khotkeys:2400
 msgctxt "Name"
 msgid "Go to KDE Website"
 msgstr ""
@@ -8418,7 +8418,7 @@ msgctxt "Name"
 msgid "Mouse Gestures"
 msgstr ""
 
-#: workspace/khotkeys/kcm_hotkeys/gestures.desktop:69
+#: workspace/khotkeys/kcm_hotkeys/gestures.desktop:70
 msgctxt "Comment"
 msgid "Configure Mouse Gestures"
 msgstr ""
@@ -8740,7 +8740,7 @@ msgctxt "Name"
 msgid "Desktop Cube"
 msgstr ""
 
-#: workspace/kwin/effects/cube.desktop:63
+#: workspace/kwin/effects/cube.desktop:64
 msgctxt "Comment"
 msgid "Display each virtual desktop on a side of a cube"
 msgstr ""
@@ -8751,7 +8751,7 @@ msgctxt "Name"
 msgid "Desktop Cylinder"
 msgstr ""
 
-#: workspace/kwin/effects/cylinder.desktop:59
+#: workspace/kwin/effects/cylinder.desktop:60
 msgctxt "Comment"
 msgid "Display each virtual desktop on the side of a cylinder"
 msgstr ""
@@ -8882,7 +8882,7 @@ msgctxt "Name"
 msgid "Magic Lamp"
 msgstr ""
 
-#: workspace/kwin/effects/magiclamp.desktop:52
+#: workspace/kwin/effects/magiclamp.desktop:53
 msgctxt "Comment"
 msgid "Simulate a magic lamp when minimizing windows"
 msgstr ""
@@ -8999,7 +8999,7 @@ msgctxt "Name"
 msgid "Slide"
 msgstr ""
 
-#: workspace/kwin/effects/slide.desktop:52
+#: workspace/kwin/effects/slide.desktop:53
 msgctxt "Comment"
 msgid "Slide windows across the screen when switching virtual desktops"
 msgstr ""
@@ -9021,7 +9021,7 @@ msgctxt "Name"
 msgid "Desktop Sphere"
 msgstr ""
 
-#: workspace/kwin/effects/sphere.desktop:55
+#: workspace/kwin/effects/sphere.desktop:56
 msgctxt "Comment"
 msgid "Display each virtual desktop on the side of a sphere"
 msgstr ""
@@ -9643,7 +9643,7 @@ msgctxt "Name"
 msgid "Compositing Performance Is Slow"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5885
+#: workspace/kwin/kwin.notifyrc:5886
 msgctxt "Comment"
 msgid ""
 "The compositing performance was too slow and compositing has been suspended"
@@ -9666,12 +9666,12 @@ msgctxt "Comment"
 msgid "KDE write daemon"
 msgstr ""
 
-#: workspace/kwrited/kwrited.notifyrc:55
+#: workspace/kwrited/kwrited.notifyrc:56
 msgctxt "Name"
 msgid "New message received"
 msgstr ""
 
-#: workspace/kwrited/kwrited.notifyrc:103
+#: workspace/kwrited/kwrited.notifyrc:106
 msgctxt "Comment"
 msgid "The daemon received a new message sent with wall(1) or write(1)"
 msgstr ""
@@ -9726,7 +9726,7 @@ msgctxt "Name"
 msgid "Activity Bar"
 msgstr ""
 
-#: workspace/plasma/applets/activitybar/plasma-applet-activitybar.desktop:52
+#: workspace/plasma/applets/activitybar/plasma-applet-activitybar.desktop:54
 msgctxt "Comment"
 msgid "Tabbar to switch activities"
 msgstr ""
@@ -9737,7 +9737,7 @@ msgid "Analog Clock"
 msgstr ""
 
 #: workspace/plasma/applets/analog-clock/plasma-applet-analogclock.desktop:78
-#: workspace/plasma/scriptengines/ruby/examples/applets/clock/metadata.desktop:50
+#: workspace/plasma/scriptengines/ruby/examples/applets/clock/metadata.desktop:51
 msgctxt "Comment"
 msgid "An SVG themable clock"
 msgstr ""
@@ -9757,7 +9757,7 @@ msgctxt "Name"
 msgid "Calendar"
 msgstr ""
 
-#: workspace/plasma/applets/calendar/plasma-applet-calendar.desktop:58
+#: workspace/plasma/applets/calendar/plasma-applet-calendar.desktop:60
 msgctxt "Comment"
 msgid "View and pick dates from the calendar"
 msgstr ""
@@ -9767,7 +9767,7 @@ msgctxt "Name"
 msgid "Device Notifier"
 msgstr ""
 
-#: workspace/plasma/applets/devicenotifier/plasma-applet-devicenotifier.desktop:57
+#: workspace/plasma/applets/devicenotifier/plasma-applet-devicenotifier.desktop:58
 msgctxt "Comment"
 msgid "Notifications and access for new devices"
 msgstr ""
@@ -9842,7 +9842,7 @@ msgctxt "Name"
 msgid "Quicklaunch"
 msgstr "Quicklaunch"
 
-#: workspace/plasma/applets/quicklaunch/plasma-applet-quicklaunch.desktop:44
+#: workspace/plasma/applets/quicklaunch/plasma-applet-quicklaunch.desktop:45
 msgctxt "Comment"
 msgid "Launch your favourite Applications"
 msgstr "ଆପଣଙ୍କର ପ୍ରିୟ ପ୍ରୟୋଗଗୁଡ଼ିକୁ ଆରମ୍ଭ କରନ୍ତୁ"
@@ -9852,7 +9852,7 @@ msgctxt "Name"
 msgid "System Monitor - CPU"
 msgstr "ତନ୍ତ୍ର ନିରିକ୍ଷକ - CPU"
 
-#: workspace/plasma/applets/system-monitor/plasma-applet-sm_cpu.desktop:60
+#: workspace/plasma/applets/system-monitor/plasma-applet-sm_cpu.desktop:62
 msgctxt "Comment"
 msgid "A CPU usage monitor"
 msgstr "ଗୋଟିଏ CPU ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
@@ -9862,7 +9862,7 @@ msgctxt "Name"
 msgid "System Monitor - Hard Disk"
 msgstr "ତନ୍ତ୍ର ନିରିକ୍ଷକ - ହାର୍ଡ଼ଡ଼ିସ୍କ"
 
-#: workspace/plasma/applets/system-monitor/plasma-applet-sm_hdd.desktop:59
+#: workspace/plasma/applets/system-monitor/plasma-applet-sm_hdd.desktop:61
 msgctxt "Comment"
 msgid "A hard disk usage monitor"
 msgstr "ଗୋଟିଏ ହାର୍ଡ଼ଡ଼ିସ୍କ ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
@@ -9872,7 +9872,7 @@ msgctxt "Name"
 msgid "System Monitor - Hardware Info"
 msgstr "ତନ୍ତ୍ର ନିରିକ୍ଷକ - ହାର୍ଡ଼ୱେର ସୂଚନା"
 
-#: workspace/plasma/applets/system-monitor/plasma-applet-sm_hwinfo.desktop:59
+#: workspace/plasma/applets/system-monitor/plasma-applet-sm_hwinfo.desktop:61
 msgctxt "Comment"
 msgid "Show hardware info"
 msgstr "ହାର୍ଡ଼ୱେର ସୂଚନା ଦର୍ଶାନ୍ତୁ"
@@ -9882,7 +9882,7 @@ msgctxt "Name"
 msgid "System Monitor - Network"
 msgstr "ତନ୍ତ୍ର ନିରିକ୍ଷକ - ନେଟୱର୍କ"
 
-#: workspace/plasma/applets/system-monitor/plasma-applet-sm_net.desktop:60
+#: workspace/plasma/applets/system-monitor/plasma-applet-sm_net.desktop:62
 msgctxt "Comment"
 msgid "A network usage monitor"
 msgstr "ଗୋଟିଏ ନେଟୱର୍କ ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
@@ -9892,7 +9892,7 @@ msgctxt "Name"
 msgid "System Monitor - Temperature"
 msgstr "ତନ୍ତ୍ର ନିରିକ୍ଷକ - ଉତ୍ତାପ"
 
-#: workspace/plasma/applets/system-monitor/plasma-applet-sm_temperature.desktop:60
+#: workspace/plasma/applets/system-monitor/plasma-applet-sm_temperature.desktop:61
 msgctxt "Comment"
 msgid "A system temperature monitor"
 msgstr "ତନ୍ତ୍ର ଉତ୍ତାପ ନିରିକ୍ଷକ"
@@ -9947,7 +9947,7 @@ msgctxt "Name"
 msgid "Panel for Mobile Internet Devices"
 msgstr "ମୋବାଇଲ ଇଣ୍ଟର୍ନେଟ ଉପକରଣ ପାଇଁ ଫଳକ"
 
-#: workspace/plasma/containments/mid-panel/plasma-containment-midpanel.desktop:49
+#: workspace/plasma/containments/mid-panel/plasma-containment-midpanel.desktop:50
 #: workspace/plasma/containments/panel/plasma-containment-panel.desktop:64
 msgctxt "Comment"
 msgid "A containment for a panel"
@@ -9968,7 +9968,7 @@ msgctxt "Name"
 msgid "Application Job Information"
 msgstr "ପ୍ରୟୋଗ କାର୍ଯ୍ୟ ସୂଚନା"
 
-#: workspace/plasma/dataengines/applicationjobs/plasma-dataengine-applicationjobs.desktop:50
+#: workspace/plasma/dataengines/applicationjobs/plasma-dataengine-applicationjobs.desktop:51
 msgctxt "Comment"
 msgid "Kuiserver data for Plasmoids"
 msgstr "Plasmoids ପାଇଁ Kuiserver ତଥ୍ୟ"
@@ -9978,7 +9978,7 @@ msgctxt "Name"
 msgid "Dictionary"
 msgstr "ଅଭିଧାନ"
 
-#: workspace/plasma/dataengines/dict/plasma-dataengine-dict.desktop:62
+#: workspace/plasma/dataengines/dict/plasma-dataengine-dict.desktop:63
 msgctxt "Comment"
 msgid "Look up word meanings"
 msgstr ""
@@ -9988,7 +9988,7 @@ msgctxt "Name"
 msgid "Run Commands"
 msgstr "ନିର୍ଦ୍ଦେଶଗୁଡ଼ିକୁ ଚଲାନ୍ତୁ"
 
-#: workspace/plasma/dataengines/executable/plasma-dataengine-executable.desktop:59
+#: workspace/plasma/dataengines/executable/plasma-dataengine-executable.desktop:60
 msgctxt "Comment"
 msgid "Run Executable Data Engine"
 msgstr "ନିଷ୍ପାଦ୍ୟ ତଥ୍ୟ ଯନ୍ତ୍ର ଚଲାନ୍ତୁ"
@@ -9998,7 +9998,7 @@ msgctxt "Name"
 msgid "Favicons"
 msgstr "Favicons"
 
-#: workspace/plasma/dataengines/favicons/plasma-dataengine-favicons.desktop:49
+#: workspace/plasma/dataengines/favicons/plasma-dataengine-favicons.desktop:50
 msgctxt "Comment"
 msgid "Data Engine for getting favicons of web sites"
 msgstr ""
@@ -10008,7 +10008,7 @@ msgctxt "Name"
 msgid "Files and Directories"
 msgstr "ଫାଇଲ ଏବଂ ଡ଼ିରେକ୍ଟୋରୀଗୁଡ଼ିକ"
 
-#: workspace/plasma/dataengines/filebrowser/plasma-dataengine-filebrowser.desktop:59
+#: workspace/plasma/dataengines/filebrowser/plasma-dataengine-filebrowser.desktop:60
 msgctxt "Comment"
 msgid "Info about files and directories for Plasmoids"
 msgstr ""
@@ -10023,7 +10023,7 @@ msgctxt "Name"
 msgid "Pointer Position"
 msgstr "ସୂଚକ ସ୍ଥାନ"
 
-#: workspace/plasma/dataengines/mouse/plasma-dataengine-mouse.desktop:53
+#: workspace/plasma/dataengines/mouse/plasma-dataengine-mouse.desktop:54
 msgctxt "Comment"
 msgid "Mouse data for Plasmoids"
 msgstr "ପ୍ଲାଜମଏଡ଼ ପାଇଁ ମାଉସ ତଥ୍ୟ"
@@ -10033,7 +10033,7 @@ msgctxt "Name"
 msgid "Networking"
 msgstr "ନେଟୱର୍କିଙ୍ଗ"
 
-#: workspace/plasma/dataengines/network/plasma-dataengine-network.desktop:60
+#: workspace/plasma/dataengines/network/plasma-dataengine-network.desktop:61
 msgctxt "Comment"
 msgid "Network information for Plasmoids"
 msgstr "ପ୍ଲାଜମଏଡ଼ ପାଇଁ ନେଟୱର୍କ ସୂଚନା"
@@ -10048,7 +10048,7 @@ msgctxt "Name"
 msgid "Now Playing"
 msgstr "ବର୍ତ୍ତମାନ ଚାଲୁଅଛି"
 
-#: workspace/plasma/dataengines/nowplaying/plasma-dataengine-nowplaying.desktop:58
+#: workspace/plasma/dataengines/nowplaying/plasma-dataengine-nowplaying.desktop:59
 msgctxt "Comment"
 msgid "Lists currently playing music"
 msgstr ""
@@ -10086,7 +10086,7 @@ msgctxt "Name"
 msgid "Device Information"
 msgstr "ଯନ୍ତ୍ର ସୂଚନା"
 
-#: workspace/plasma/dataengines/soliddevice/plasma-dataengine-soliddevice.desktop:59
+#: workspace/plasma/dataengines/soliddevice/plasma-dataengine-soliddevice.desktop:60
 msgctxt "Comment"
 msgid "SolidDevice data for Plasmoids"
 msgstr "Plasmoids ପାଇଁ SolidDevice ତଥ୍ୟ"
@@ -10107,8 +10107,8 @@ msgctxt "Name"
 msgid "Date and Time"
 msgstr "ତାରିଖ ଏବଂ ସମୟ"
 
-#: workspace/plasma/dataengines/time/plasma-dataengine-time.desktop:60
-#: workspace/plasma/scriptengines/ruby/examples/dataengines/time/metadata.desktop:60
+#: workspace/plasma/dataengines/time/plasma-dataengine-time.desktop:61
+#: workspace/plasma/scriptengines/ruby/examples/dataengines/time/metadata.desktop:61
 msgctxt "Comment"
 msgid "Time data for Plasmoids"
 msgstr "Plasmoids ପାଇଁ ସମୟ ତଥ୍ୟ"
@@ -10153,7 +10153,7 @@ msgctxt "Name"
 msgid "Weather"
 msgstr "ପାଣିପାଗ"
 
-#: workspace/plasma/dataengines/weather/plasma-dataengine-weather.desktop:59
+#: workspace/plasma/dataengines/weather/plasma-dataengine-weather.desktop:60
 msgctxt "Comment"
 msgid "Weather data for Plasmoids"
 msgstr "Plasmoids ପାଇଁ ପାଣିପାଗ ତଥ୍ୟ"
@@ -10188,7 +10188,7 @@ msgctxt "Name"
 msgid "Nepomuk Desktop Search Runner"
 msgstr "Nepomuk ଡ଼େସ୍କଟପ ସନ୍ଧାନ ଚାଳକ"
 
-#: workspace/plasma/runners/nepomuksearch/plasma-runner-nepomuksearch.desktop:49
+#: workspace/plasma/runners/nepomuksearch/plasma-runner-nepomuksearch.desktop:50
 msgctxt "Comment"
 msgid "KRunner which performs desktop searches via Nepomuk"
 msgstr ""
@@ -10203,7 +10203,7 @@ msgctxt "Comment"
 msgid "Basic Power Management Operations"
 msgstr "ମୌଳିକ ଶକ୍ତି ପରିଚାଳନା ପ୍ରୟୋଗଗୁଡ଼ିକ"
 
-#: workspace/plasma/runners/powerdevil/plasma-runner-powerdevil.desktop:53
+#: workspace/plasma/runners/powerdevil/plasma-runner-powerdevil.desktop:54
 #: workspace/powerdevil/daemon/powerdevil.desktop:11
 msgctxt "Name"
 msgid "PowerDevil"
@@ -10274,7 +10274,7 @@ msgctxt "Name"
 msgid "JavaScript Widget"
 msgstr "JavaScript ୱିଜେଟ"
 
-#: workspace/plasma/scriptengines/javascript/plasma-scriptengine-applet-simple-javascript.desktop:57
+#: workspace/plasma/scriptengines/javascript/plasma-scriptengine-applet-simple-javascript.desktop:58
 msgctxt "Comment"
 msgid "Native Plasma widget written in JavaScript"
 msgstr "JavaScriptରେ ଲିଖିତ ସ୍ଥାନୀୟ ପ୍ଲାଜମା ୱିଜେଟ"
@@ -10340,7 +10340,7 @@ msgctxt "Name"
 msgid "Python Date and Time"
 msgstr "ପାଇଥନ ତାରିଖ ଏବଂ ସମୟ"
 
-#: workspace/plasma/scriptengines/python/examples/dataengines/pytime/metadata.desktop:54
+#: workspace/plasma/scriptengines/python/examples/dataengines/pytime/metadata.desktop:55
 msgctxt "Comment"
 msgid "Python Time data for Plasmoids"
 msgstr "ପ୍ଲାଜମଏଡ଼ ପାଇଁ ପାଇଥନ ସମୟ ତଥ୍ୟ"
@@ -10350,7 +10350,7 @@ msgctxt "Name"
 msgid "Python Widget"
 msgstr "ପାଇଥନ ୱିଜେଟ"
 
-#: workspace/plasma/scriptengines/python/plasma-scriptengine-applet-python.desktop:51
+#: workspace/plasma/scriptengines/python/plasma-scriptengine-applet-python.desktop:52
 msgctxt "Comment"
 msgid "Plasma widget support written in Python"
 msgstr "ପାଇଥନରେ ଲିଖିତ ପ୍ଲାଜମା ୱିଜେଟ ସମର୍ଥନ"
@@ -10360,7 +10360,7 @@ msgctxt "Name"
 msgid "Python data engine"
 msgstr "ପାଇଥନ ତଥ୍ୟ ମେସିନ"
 
-#: workspace/plasma/scriptengines/python/plasma-scriptengine-dataengine-python.desktop:50
+#: workspace/plasma/scriptengines/python/plasma-scriptengine-dataengine-python.desktop:51
 msgctxt "Comment"
 msgid "Plasma data engine support for Python"
 msgstr "ପାଇଥନ ପାଇଁ ପ୍ଲାଜମା ତଥ୍ୟ ମେସିନ ସମର୍ଥନ"
@@ -10380,7 +10380,7 @@ msgctxt "Name"
 msgid "QEdje Gadgets"
 msgstr "QEdje ମେସିନ"
 
-#: workspace/plasma/scriptengines/qedjescript/plasma-packagestructure-qedje.desktop:43
+#: workspace/plasma/scriptengines/qedjescript/plasma-packagestructure-qedje.desktop:44
 msgctxt "Comment"
 msgid "QEdje Gadget"
 msgstr "QEdje ମେସିନ"
@@ -10416,8 +10416,8 @@ msgctxt "Name"
 msgid "Ruby Widget"
 msgstr "ରୁବି ୱିଜେଟ"
 
-#: workspace/plasma/scriptengines/ruby/plasma-scriptengine-ruby-applet.desktop:52
-#: workspace/plasma/scriptengines/ruby/plasma-scriptengine-ruby-dataengine.desktop:52
+#: workspace/plasma/scriptengines/ruby/plasma-scriptengine-ruby-applet.desktop:54
+#: workspace/plasma/scriptengines/ruby/plasma-scriptengine-ruby-dataengine.desktop:54
 msgctxt "Comment"
 msgid "Native Plasma widget written in Ruby"
 msgstr "Ruby ରେ ଲେଖା ହୋଇଥିବା ସ୍ଥାନୀୟ ପ୍ଲାଜମା ୱିଜେଟ"
@@ -10427,7 +10427,7 @@ msgctxt "Name"
 msgid "MacOS Dashboard Widgets"
 msgstr "MacOS ଡ୍ୟାସବୋର୍ଡ ୱିଜେଟଗୁଡ଼ିକ"
 
-#: workspace/plasma/scriptengines/webkit/plasma-packagestructure-dashboard.desktop:47
+#: workspace/plasma/scriptengines/webkit/plasma-packagestructure-dashboard.desktop:48
 msgctxt "Comment"
 msgid "MacOS dashboard widget"
 msgstr "MacOS ଡ୍ୟାସବୋର୍ଡ ୱିଜେଟ"
@@ -10437,7 +10437,7 @@ msgctxt "Name"
 msgid "Web Widgets"
 msgstr "ୱେବ ୱିଜେଟଗୁଡ଼ିକ"
 
-#: workspace/plasma/scriptengines/webkit/plasma-packagestructure-web.desktop:54
+#: workspace/plasma/scriptengines/webkit/plasma-packagestructure-web.desktop:55
 msgctxt "Comment"
 msgid "HTML widget"
 msgstr "HTML ୱିଜେଟ"
@@ -10472,7 +10472,7 @@ msgctxt "Name"
 msgid "Desktop Theme Details"
 msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବିବରଣୀ"
 
-#: workspace/plasma/tools/desktopthemedetails/desktopthemedetails.desktop:63
+#: workspace/plasma/tools/desktopthemedetails/desktopthemedetails.desktop:64
 msgctxt "Comment"
 msgid "Customize individual desktop theme items"
 msgstr "ବ୍ୟକ୍ତିଗତ ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବସ୍ତୁଗୁଡ଼ିକୁ ଇଚ୍ଛାରୂପଣ କରୁଅଛି"
@@ -10483,12 +10483,12 @@ msgid "Color"
 msgstr "ରଙ୍ଗ"
 
 #: workspace/plasma/wallpapers/image/plasma-wallpaper-image.desktop:3
-#: workspace/plasma/wallpapers/image/plasma-wallpaper-image.desktop:76
+#: workspace/plasma/wallpapers/image/plasma-wallpaper-image.desktop:77
 msgctxt "Name"
 msgid "Image"
 msgstr "ପ୍ରତିଛବି"
 
-#: workspace/plasma/wallpapers/image/plasma-wallpaper-image.desktop:139
+#: workspace/plasma/wallpapers/image/plasma-wallpaper-image.desktop:141
 msgctxt "Name"
 msgid "Slideshow"
 msgstr "ସ୍ଲାଇଡ଼ ଦୃଶ୍ୟ"
@@ -10498,62 +10498,62 @@ msgctxt "Comment"
 msgid "A Laptop Power Management Daemon"
 msgstr "ଲ୍ୟାପଟପ ଶକ୍ତି ପରିଚାଳନା ଡ଼େମନ"
 
-#: workspace/powerdevil/kcmodule/powerdevilconfig.desktop:71
+#: workspace/powerdevil/kcmodule/powerdevilconfig.desktop:72
 msgctxt "Comment"
 msgid "Display brightness, suspend and power profile settings"
 msgstr "ଉଜ୍ଜ୍ୱଳତା, ନିଲମ୍ବନ ଏବଂ ରୂପରେଖ ବିନ୍ୟାସଗୁଡ଼ିକୁ ଦର୍ଶାଇଥାଏ"
 
-#: workspace/powerdevil/powerdevil.notifyrc:60
+#: workspace/powerdevil/powerdevil.notifyrc:61
 msgctxt "Comment"
 msgid "PowerDevil"
 msgstr "PowerDevil"
 
-#: workspace/powerdevil/powerdevil.notifyrc:151
+#: workspace/powerdevil/powerdevil.notifyrc:152
 msgctxt "Comment"
 msgid "Used for warning notifications"
 msgstr "ଚେତାବନୀ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ ପାଇଁ ବ୍ୟବହୃତ ହୋଇଥାଏ"
 
-#: workspace/powerdevil/powerdevil.notifyrc:272
+#: workspace/powerdevil/powerdevil.notifyrc:274
 msgctxt "Comment"
 msgid "Used for standard notifications"
 msgstr "ମାନକ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ ପାଇଁ ବ୍ୟବହୃତ ହୋଇଥାଏ"
 
-#: workspace/powerdevil/powerdevil.notifyrc:323
+#: workspace/powerdevil/powerdevil.notifyrc:326
 msgctxt "Name"
 msgid "Critical notification"
 msgstr "ଗମ୍ଭୀର ବିଜ୍ଞପ୍ତି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:375
+#: workspace/powerdevil/powerdevil.notifyrc:380
 msgctxt "Comment"
 msgid "Notifies a critical event"
 msgstr "ଗୋଟିଏ ଗମ୍ଭୀର ସ୍ଥିତିକୁ ଜଣାଇଥାଏ"
 
-#: workspace/powerdevil/powerdevil.notifyrc:426
+#: workspace/powerdevil/powerdevil.notifyrc:432
 msgctxt "Name"
 msgid "Low Battery"
 msgstr "ବ୍ୟାଟେରୀ ଶକ୍ତି କମ ଅଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:474
+#: workspace/powerdevil/powerdevil.notifyrc:482
 msgctxt "Comment"
 msgid "Your battery has reached low level"
 msgstr "ଆପଣଙ୍କର ବ୍ୟାଟେରୀ ନିମ୍ନ ସ୍ତରରେ ପହଞ୍ଚିଯାଇଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:530
+#: workspace/powerdevil/powerdevil.notifyrc:540
 msgctxt "Name"
 msgid "Battery at warning level"
 msgstr "ବ୍ୟାଟେରୀ ଚେତାବନୀ ସ୍ତର ପହଞ୍ଚିଯାଇଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:578
+#: workspace/powerdevil/powerdevil.notifyrc:589
 msgctxt "Comment"
 msgid "Your battery has reached warning level"
 msgstr "ଆପଣଙ୍କର ବ୍ୟାଟେରୀ ଚେତାବନୀ ସ୍ତର ପହଞ୍ଚିଯାଇଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:633
+#: workspace/powerdevil/powerdevil.notifyrc:645
 msgctxt "Name"
 msgid "Battery at critical level"
 msgstr "ବ୍ୟାଟେରି ଗମ୍ଭୀର ସ୍ଥିତିରେ ଅଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:681
+#: workspace/powerdevil/powerdevil.notifyrc:695
 msgctxt "Comment"
 msgid ""
 "Your battery has reached critical level. This notification triggers a "
@@ -10561,74 +10561,74 @@ msgid ""
 "to leave that on."
 msgstr ""
 
-#: workspace/powerdevil/powerdevil.notifyrc:728
+#: workspace/powerdevil/powerdevil.notifyrc:744
 msgctxt "Name"
 msgid "AC adaptor plugged in"
 msgstr "AC ଏଡ଼ପଟର ପ୍ଲଗ ହୋଇଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:778
+#: workspace/powerdevil/powerdevil.notifyrc:795
 msgctxt "Comment"
 msgid "The power adaptor has been plugged in"
 msgstr "ଶକ୍ତି ଏଡ଼ପଟରକୁ ପ୍ଲଗରେ ଲଗାହୋଇଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:836
+#: workspace/powerdevil/powerdevil.notifyrc:854
 msgctxt "Name"
 msgid "AC adaptor unplugged"
 msgstr "AC ଏଡ଼ପଟର ପ୍ଲଗ ହୋଇନାହିଁ"
 
-#: workspace/powerdevil/powerdevil.notifyrc:888
+#: workspace/powerdevil/powerdevil.notifyrc:907
 msgctxt "Comment"
 msgid "The power adaptor has been unplugged"
 msgstr "ଶକ୍ତି ଏଡ଼ପଟରଟି ପ୍ଲଗ ହୋଇନାହିଁ"
 
-#: workspace/powerdevil/powerdevil.notifyrc:945
+#: workspace/powerdevil/powerdevil.notifyrc:965
 msgctxt "Name"
 msgid "Job error"
 msgstr "କାର୍ଯ୍ୟ ତ୍ରୁଟି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:995
+#: workspace/powerdevil/powerdevil.notifyrc:1016
 msgctxt "Comment"
 msgid "There was an error while performing a job"
 msgstr "କାର୍ଯ୍ୟ କରିବା ସମୟରେ ଗୋଟିଏ ତ୍ରୁଟି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1050
+#: workspace/powerdevil/powerdevil.notifyrc:1072
 msgctxt "Name"
 msgid "Profile Changed"
 msgstr "ରୂପରେଖଟି ପରିବର୍ତ୍ତିତ ହୋଇଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1099
+#: workspace/powerdevil/powerdevil.notifyrc:1122
 msgctxt "Comment"
 msgid "The profile was changed"
 msgstr "ରୂପରେଖଟି ପରିବର୍ତ୍ତିତ ହୋଇଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1152
+#: workspace/powerdevil/powerdevil.notifyrc:1176
 msgctxt "Name"
 msgid "Performing a suspension job"
 msgstr "ଗୋଟିଏ ନିଲମ୍ବିତ କାର୍ଯ୍ୟ କରୁଅଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1195
+#: workspace/powerdevil/powerdevil.notifyrc:1220
 msgctxt "Comment"
 msgid ""
 "This notification is displayed when a suspension job is about to be done, "
 "and it triggers a countdown. Hence, it is strongly advised to leave it on."
 msgstr ""
 
-#: workspace/powerdevil/powerdevil.notifyrc:1238
+#: workspace/powerdevil/powerdevil.notifyrc:1264
 msgctxt "Name"
 msgid "Internal PowerDevil Error"
 msgstr "ଆଭ୍ୟନ୍ତରୀଣ PowerDevil ତ୍ରୁଟି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1289
+#: workspace/powerdevil/powerdevil.notifyrc:1316
 msgctxt "Comment"
 msgid "PowerDevil has triggered an internal error"
 msgstr "PowerDevil ଗୋଟିଏ ଆଭ୍ୟନ୍ତରୀଣ ତ୍ରୁଟିକୁ ଆରମ୍ଭ କରିଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1340
+#: workspace/powerdevil/powerdevil.notifyrc:1368
 msgctxt "Name"
 msgid "Suspension inhibited"
 msgstr ""
 
-#: workspace/powerdevil/powerdevil.notifyrc:1382
+#: workspace/powerdevil/powerdevil.notifyrc:1411
 msgctxt "Comment"
 msgid "The suspension has been inhibited because an application requested it"
 msgstr ""
