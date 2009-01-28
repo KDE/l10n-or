@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmkonq\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-12-12 10:00+0100\n"
+"POT-Creation-Date: 2009-01-28 09:13+0100\n"
 "PO-Revision-Date: 2009-01-02 11:45+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -73,7 +73,7 @@ msgid ""
 "holding the Shift key while calling 'Move to Trash'."
 msgstr ""
 
-#: globalpaths.cpp:95
+#: globalpaths.cpp:86
 msgid ""
 "<h1>Paths</h1>\n"
 "This module allows you to choose where in the filesystem the files on your "
@@ -81,22 +81,22 @@ msgid ""
 "Use the \"Whats This?\" (Shift+F1) to get help on specific options."
 msgstr ""
 
-#: globalpaths.cpp:102
-msgid "Des&ktop path:"
+#: globalpaths.cpp:91
+msgid "Desktop path:"
 msgstr ""
 
-#: globalpaths.cpp:110
+#: globalpaths.cpp:92
 msgid ""
 "This folder contains all the files which you see on your desktop. You can "
 "change the location of this folder if you want to, and the contents will "
 "move automatically to the new location as well."
 msgstr ""
 
-#: globalpaths.cpp:118
-msgid "A&utostart path:"
+#: globalpaths.cpp:97
+msgid "Autostart path:"
 msgstr ""
 
-#: globalpaths.cpp:126
+#: globalpaths.cpp:98
 msgid ""
 "This folder contains applications or links to applications (shortcuts) that "
 "you want to have started automatically whenever KDE starts. You can change "
@@ -104,37 +104,95 @@ msgid ""
 "automatically to the new location as well."
 msgstr ""
 
-#: globalpaths.cpp:135
-msgid "D&ocuments path:"
+#: globalpaths.cpp:104
+msgid "Documents path:"
 msgstr ""
 
-#: globalpaths.cpp:143
+#: globalpaths.cpp:105
 msgid ""
 "This folder will be used by default to load or save documents from or to."
 msgstr ""
 
-#: globalpaths.cpp:271 globalpaths.cpp:288
+#: globalpaths.cpp:108
+msgid "Downloads path:"
+msgstr ""
+
+#: globalpaths.cpp:109
+msgid "This folder will be used by default to save your downloaded items."
+msgstr ""
+
+#: globalpaths.cpp:112
+msgid "Movies path:"
+msgstr ""
+
+#: globalpaths.cpp:113
+msgid "This folder will be used by default to load or save movies from or to."
+msgstr ""
+
+#: globalpaths.cpp:116
+msgid "Pictures path:"
+msgstr ""
+
+#: globalpaths.cpp:117
+msgid ""
+"This folder will be used by default to load or save pictures from or to."
+msgstr ""
+
+#: globalpaths.cpp:120
+msgid "Music path:"
+msgstr ""
+
+#: globalpaths.cpp:121
+msgid "This folder will be used by default to load or save music from or to."
+msgstr ""
+
+#: globalpaths.cpp:257 globalpaths.cpp:275
 msgid "Autostart"
 msgstr ""
 
-#: globalpaths.cpp:275
+#: globalpaths.cpp:261
 msgid "Desktop"
 msgstr ""
 
-#: globalpaths.cpp:351
+#: globalpaths.cpp:285
+msgid "Documents"
+msgstr ""
+
+#: globalpaths.cpp:288
+msgid "Downloads"
+msgstr ""
+
+#: globalpaths.cpp:291
+msgid "Movies"
+msgstr ""
+
+#: globalpaths.cpp:294
+msgid "Pictures"
+msgstr ""
+
+#: globalpaths.cpp:297
+msgid "Music"
+msgstr ""
+
+#: globalpaths.cpp:336
 #, kde-format
 msgid ""
 "The path for '%1' has been changed.\n"
 "Do you want the files to be moved from '%2' to '%3'?"
 msgstr ""
 
-#: globalpaths.cpp:352
+#: globalpaths.cpp:337
 msgid "Confirmation Required"
 msgstr ""
 
-#: globalpaths.cpp:352
-msgctxt "Move desktop files from old to new place"
+#: globalpaths.cpp:338
+msgctxt "Move files from old to new place"
 msgid "Move"
+msgstr ""
+
+#: globalpaths.cpp:339
+msgctxt "Use the new directory but do not move files"
+msgid "Do not Move"
 msgstr ""
 
 #: kcustommenueditor.cpp:96

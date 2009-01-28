@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_launcher\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-01-25 10:04+0100\n"
+"POT-Creation-Date: 2009-01-28 09:13+0100\n"
 "PO-Revision-Date: 2009-01-02 11:50+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "\n"
 "\n"
 
-#: ui/flipscrollview.cpp:138
+#: ui/flipscrollview.cpp:138 simpleapplet/simpleapplet.cpp:436
 msgid "All Applications"
 msgstr ""
 
@@ -67,7 +67,7 @@ msgstr ""
 msgid "Sort Alphabetically (Z to A)"
 msgstr ""
 
-#: ui/launcher.cpp:199 core/recentlyusedmodel.cpp:101 core/systemmodel.cpp:88
+#: ui/launcher.cpp:199 core/recentlyusedmodel.cpp:115 core/systemmodel.cpp:88
 #: core/searchmodel.cpp:135
 msgid "Applications"
 msgstr ""
@@ -112,7 +112,7 @@ msgstr ""
 msgid "End session"
 msgstr ""
 
-#: core/leavemodel.cpp:53 simpleapplet/simpleapplet.cpp:392
+#: core/leavemodel.cpp:53
 msgid "Lock"
 msgstr ""
 
@@ -120,7 +120,7 @@ msgstr ""
 msgid "Lock the screen"
 msgstr ""
 
-#: core/leavemodel.cpp:57 simpleapplet/simpleapplet.cpp:390
+#: core/leavemodel.cpp:57 simpleapplet/simpleapplet.cpp:451
 msgid "Switch User"
 msgstr ""
 
@@ -133,16 +133,16 @@ msgid "Shutdown"
 msgstr ""
 
 #: core/leavemodel.cpp:63
-msgid "Turn off the computer"
+msgid "Turn off computer"
 msgstr ""
 
 #: core/leavemodel.cpp:65
-msgctxt "Restart the computer"
+msgctxt "Restart computer"
 msgid "Restart"
 msgstr ""
 
 #: core/leavemodel.cpp:67
-msgid "Restart the computer"
+msgid "Restart computer"
 msgstr ""
 
 #: core/leavemodel.cpp:69
@@ -190,7 +190,7 @@ msgstr ""
 msgid "Network Folders"
 msgstr ""
 
-#: core/recentlyusedmodel.cpp:93 core/searchmodel.cpp:221
+#: core/recentlyusedmodel.cpp:107 core/searchmodel.cpp:221
 msgid "Documents"
 msgstr ""
 
@@ -223,29 +223,29 @@ msgstr ""
 msgid "Application Launcher"
 msgstr ""
 
-#: applet/applet.cpp:84
+#: applet/applet.cpp:83
 msgid "Kickoff Application Launcher"
 msgstr ""
 
-#: applet/applet.cpp:85
+#: applet/applet.cpp:84
 msgid ""
 "Favorites, applications, computer places, recently used items and desktop "
 "sessions"
 msgstr ""
 
-#: applet/applet.cpp:108 simpleapplet/simpleapplet.cpp:245
+#: applet/applet.cpp:107 simpleapplet/simpleapplet.cpp:262
 msgid "Menu Editor"
 msgstr ""
 
-#: applet/applet.cpp:114
+#: applet/applet.cpp:113
 msgid "Switch to Classic Menu Style"
 msgstr ""
 
-#: applet/applet.cpp:148
+#: applet/applet.cpp:147
 msgid "Switch tabs on hover"
 msgstr ""
 
-#: applet/applet.cpp:154
+#: applet/applet.cpp:154 simpleapplet/simpleapplet.cpp:354
 msgid "General"
 msgstr ""
 
@@ -259,80 +259,105 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
-#: simpleapplet/simpleapplet.cpp:251
+#: simpleapplet/simpleapplet.cpp:268
 msgid "Switch to Kickoff Menu Style"
 msgstr ""
 
-#: simpleapplet/simpleapplet.cpp:295
+#: simpleapplet/simpleapplet.cpp:312
 msgctxt "@label:listbox Which category of items to view in a KMenu-like menu"
 msgid "View:"
 msgstr ""
 
-#: simpleapplet/simpleapplet.cpp:299
+#: simpleapplet/simpleapplet.cpp:316
 msgctxt "@item:inlistbox View:"
 msgid "Standard"
 msgstr ""
 
-#: simpleapplet/simpleapplet.cpp:300
+#: simpleapplet/simpleapplet.cpp:317
 msgctxt "@item:inlistbox View:"
 msgid "Favorites"
 msgstr ""
 
-#: simpleapplet/simpleapplet.cpp:301
+#: simpleapplet/simpleapplet.cpp:318
 msgctxt "@item:inlistbox View:"
 msgid "Bookmarks"
 msgstr ""
 
-#: simpleapplet/simpleapplet.cpp:302
+#: simpleapplet/simpleapplet.cpp:319
 msgctxt "@item:inlistbox View:"
 msgid "Applications"
 msgstr ""
 
-#: simpleapplet/simpleapplet.cpp:303
+#: simpleapplet/simpleapplet.cpp:320
 msgctxt "@item:inlistbox View:"
 msgid "Computer"
 msgstr ""
 
-#: simpleapplet/simpleapplet.cpp:304
+#: simpleapplet/simpleapplet.cpp:321
 msgctxt "@item:inlistbox View:"
 msgid "Recently Used"
 msgstr ""
 
-#: simpleapplet/simpleapplet.cpp:305
+#: simpleapplet/simpleapplet.cpp:322
+msgctxt "@item:inlistbox View:"
+msgid "System Settings"
+msgstr ""
+
+#: simpleapplet/simpleapplet.cpp:323
 msgctxt "@item:inlistbox View:"
 msgid "Leave"
 msgstr ""
 
-#: simpleapplet/simpleapplet.cpp:308
+#: simpleapplet/simpleapplet.cpp:326
 msgctxt "@label:listbox How to present applications in a KMenu-like menu"
 msgid "Format:"
 msgstr ""
 
-#: simpleapplet/simpleapplet.cpp:312
+#: simpleapplet/simpleapplet.cpp:330
 msgctxt "@item:inlistbox Format:"
 msgid "Name Only"
 msgstr ""
 
-#: simpleapplet/simpleapplet.cpp:313
+#: simpleapplet/simpleapplet.cpp:331
 msgctxt "@item:inlistbox Format:"
 msgid "Description Only"
 msgstr ""
 
-#: simpleapplet/simpleapplet.cpp:314
+#: simpleapplet/simpleapplet.cpp:332
 msgctxt "@item:inlistbox Format:"
 msgid "Name Description"
 msgstr ""
 
-#: simpleapplet/simpleapplet.cpp:315
+#: simpleapplet/simpleapplet.cpp:333
 msgctxt "@item:inlistbox Format:"
 msgid "Description (Name)"
 msgstr ""
 
-#: simpleapplet/simpleapplet.cpp:316
+#: simpleapplet/simpleapplet.cpp:334
 msgctxt "@item:inlistbox Format:"
 msgid "Name - Description"
 msgstr ""
 
-#: simpleapplet/simpleapplet.cpp:394
+#: simpleapplet/simpleapplet.cpp:337
+msgid "Recently Used Applications:"
+msgstr ""
+
+#: simpleapplet/simpleapplet.cpp:430
+msgid "Recently Used Applications"
+msgstr ""
+
+#: simpleapplet/simpleapplet.cpp:447
+msgid "Actions"
+msgstr ""
+
+#: simpleapplet/simpleapplet.cpp:448
+msgid "Run Command..."
+msgstr ""
+
+#: simpleapplet/simpleapplet.cpp:453
+msgid "Lock Screen"
+msgstr ""
+
+#: simpleapplet/simpleapplet.cpp:455
 msgid "Leave..."
 msgstr ""
