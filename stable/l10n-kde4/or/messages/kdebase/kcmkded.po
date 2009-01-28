@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmkded\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-01-03 10:56+0100\n"
+"POT-Creation-Date: 2009-01-27 08:23+0100\n"
 "PO-Revision-Date: 2009-01-02 11:45+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -19,23 +19,23 @@ msgstr ""
 "\n"
 "\n"
 
-#: kcmkded.cpp:73
+#: kcmkded.cpp:55
 msgid "kcmkded"
 msgstr ""
 
-#: kcmkded.cpp:73
+#: kcmkded.cpp:55
 msgid "KDE Service Manager"
 msgstr ""
 
-#: kcmkded.cpp:75
+#: kcmkded.cpp:57
 msgid "(c) 2002 Daniel Molkentin"
 msgstr ""
 
-#: kcmkded.cpp:76
+#: kcmkded.cpp:58
 msgid "Daniel Molkentin"
 msgstr ""
 
-#: kcmkded.cpp:79
+#: kcmkded.cpp:61
 msgid ""
 "<h1>Service Manager</h1><p>This module allows you to have an overview of all "
 "plugins of the KDE Daemon, also referred to as KDE Services. Generally, "
@@ -47,80 +47,80 @@ msgid ""
 "not deactivate services if you do not know what you are doing.</b></p>"
 msgstr ""
 
-#: kcmkded.cpp:87
+#: kcmkded.cpp:69
 msgid "Running"
 msgstr ""
 
-#: kcmkded.cpp:88
+#: kcmkded.cpp:70
 msgid "Not running"
 msgstr ""
 
-#: kcmkded.cpp:94
+#: kcmkded.cpp:76
 msgid "Load-on-Demand Services"
 msgstr ""
 
-#: kcmkded.cpp:95
+#: kcmkded.cpp:77
 msgid ""
 "This is a list of available KDE services which will be started on demand. "
 "They are only listed for convenience, as you cannot manipulate these "
 "services."
 msgstr ""
 
-#: kcmkded.cpp:104 kcmkded.cpp:124
+#: kcmkded.cpp:86 kcmkded.cpp:106
 msgid "Service"
 msgstr ""
 
-#: kcmkded.cpp:105 kcmkded.cpp:125
-msgid "Status"
-msgstr ""
-
-#: kcmkded.cpp:106 kcmkded.cpp:126
+#: kcmkded.cpp:87 kcmkded.cpp:107
 msgid "Description"
 msgstr ""
 
-#: kcmkded.cpp:113
+#: kcmkded.cpp:88 kcmkded.cpp:108
+msgid "Status"
+msgstr ""
+
+#: kcmkded.cpp:95
 msgid "Startup Services"
 msgstr ""
 
-#: kcmkded.cpp:114
+#: kcmkded.cpp:96
 msgid ""
 "This shows all KDE services that can be loaded on KDE startup. Checked "
 "services will be invoked on next startup. Be careful with deactivation of "
 "unknown services."
 msgstr ""
 
-#: kcmkded.cpp:123
+#: kcmkded.cpp:105
 msgid "Use"
 msgstr ""
 
-#: kcmkded.cpp:134
+#: kcmkded.cpp:116
 msgid "Start"
 msgstr ""
 
-#: kcmkded.cpp:135
+#: kcmkded.cpp:117
 msgid "Stop"
 msgstr ""
 
-#: kcmkded.cpp:310
+#: kcmkded.cpp:279
 msgid "Unable to contact KDED."
 msgstr ""
 
-#: kcmkded.cpp:455
+#: kcmkded.cpp:404
 #, kde-format
 msgid "Unable to start server <em>%1</em>."
 msgstr ""
 
-#: kcmkded.cpp:458
+#: kcmkded.cpp:407
 #, kde-format
 msgid "Unable to start service <em>%1</em>.<br /><br /><i>Error: %2</i>"
 msgstr ""
 
-#: kcmkded.cpp:475
+#: kcmkded.cpp:424
 #, kde-format
 msgid "Unable to stop server <em>%1</em>."
 msgstr ""
 
-#: kcmkded.cpp:478
+#: kcmkded.cpp:427
 #, kde-format
 msgid "Unable to stop service <em>%1</em>.<br /><br /><i>Error: %2</i>"
 msgstr ""

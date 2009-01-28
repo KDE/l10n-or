@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmkeys\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-11-05 10:42+0100\n"
+"POT-Creation-Date: 2009-01-27 08:23+0100\n"
 "PO-Revision-Date: 2009-01-02 11:45+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -19,40 +19,40 @@ msgstr ""
 "\n"
 "\n"
 
-#: globalshortcuts.cpp:56
-msgid "Import Scheme..."
+#: globalshortcuts.cpp:67
+msgid "Import scheme..."
 msgstr ""
 
-#: globalshortcuts.cpp:61
-msgid "Export Scheme..."
+#: globalshortcuts.cpp:72
+msgid "Export scheme..."
 msgstr ""
 
-#: globalshortcuts.cpp:103
+#: globalshortcuts.cpp:112
 #, kde-format
 msgid ""
 "Message: %1\n"
 "Error: %2"
 msgstr ""
 
-#: globalshortcuts.cpp:108
+#: globalshortcuts.cpp:116
 msgid "Failed to contact the KDE global shortcuts daemon\n"
 msgstr ""
 
-#: globalshortcuts.cpp:234
+#: globalshortcuts.cpp:182
 msgid ""
 "Your current changes will be lost if you load another scheme before saving "
 "this one"
 msgstr ""
 
-#: globalshortcuts.cpp:235
-msgid "Load Shortcurt Scheme"
+#: globalshortcuts.cpp:183
+msgid "Load shortcurt scheme"
 msgstr ""
 
-#: globalshortcuts.cpp:236
+#: globalshortcuts.cpp:184
 msgid "Load"
 msgstr ""
 
-#: globalshortcuts.cpp:249
+#: globalshortcuts.cpp:197
 #, kde-format
 msgid "This file (%1) does not exist. You can only select local files."
 msgstr ""
@@ -72,7 +72,7 @@ msgstr ""
 #. i18n: file: select_scheme_dialog.ui:20
 #. i18n: ectx: property (windowTitle), widget (KDialog, SelectSchemeDialog)
 #: rc.cpp:9
-msgid "Select Shortcut Scheme"
+msgid "Select a shortcut scheme"
 msgstr ""
 
 #. i18n: file: select_scheme_dialog.ui:47
@@ -84,7 +84,7 @@ msgstr ""
 #. i18n: file: select_scheme_dialog.ui:50
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: rc.cpp:15
-msgid "&Standard scheme:"
+msgid "&Standard Scheme"
 msgstr ""
 
 #. i18n: file: select_scheme_dialog.ui:100
@@ -96,5 +96,5 @@ msgstr ""
 #. i18n: file: select_scheme_dialog.ui:103
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: rc.cpp:21
-msgid "&Path:"
+msgid "&Path"
 msgstr ""

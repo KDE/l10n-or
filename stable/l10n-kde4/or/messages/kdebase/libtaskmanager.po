@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libtaskmanager\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-12-28 09:55+0100\n"
+"POT-Creation-Date: 2009-01-27 08:23+0100\n"
 "PO-Revision-Date: 2009-01-02 11:49+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -19,83 +19,78 @@ msgstr ""
 "\n"
 "\n"
 
-#: task.cpp:282
-msgctxt "marks that a task has been modified"
+#: task.cpp:296
 msgid "modified"
 msgstr ""
 
-#: taskactions.cpp:112
-msgid "Mi&nimize"
-msgstr ""
-
-#: taskactions.cpp:123
-msgid "Ma&ximize"
-msgstr ""
-
-#: taskactions.cpp:133
-msgid "&Shade"
-msgstr ""
-
-#: taskactions.cpp:144
-msgid "Re&size"
-msgstr ""
-
-#: taskactions.cpp:153
-msgid "&Move"
-msgstr ""
-
-#: taskactions.cpp:162
-msgid "&Close"
-msgstr ""
-
-#: taskactions.cpp:173
+#: taskrmbmenu.cpp:84
 msgid "&To Current Desktop"
 msgstr ""
 
-#: taskactions.cpp:192
-msgid "&All Desktops"
+#: taskrmbmenu.cpp:95
+msgid "&Move"
 msgstr ""
 
-#: taskactions.cpp:212
-msgid "To &Desktop"
+#: taskrmbmenu.cpp:98
+msgid "Re&size"
 msgstr ""
 
-#: taskactions.cpp:225
-msgid "Keep &Above Others"
+#: taskrmbmenu.cpp:101
+msgid "Mi&nimize"
 msgstr ""
 
-#: taskactions.cpp:235
-msgid "Keep &Below Others"
+#: taskrmbmenu.cpp:106
+msgid "Ma&ximize"
 msgstr ""
 
-#: taskactions.cpp:245
-msgid "&Fullscreen"
+#: taskrmbmenu.cpp:111
+msgid "&Shade"
 msgstr ""
 
-#: taskactions.cpp:255
+#: taskrmbmenu.cpp:118
+msgid "&Close"
+msgstr ""
+
+#: taskrmbmenu.cpp:146
+msgid "All &to Current Desktop"
+msgstr ""
+
+#: taskrmbmenu.cpp:161
+msgid "Mi&nimize All"
+msgstr ""
+
+#: taskrmbmenu.cpp:174
+msgid "Ma&ximize All"
+msgstr ""
+
+#: taskrmbmenu.cpp:187
+msgid "&Restore All"
+msgstr ""
+
+#: taskrmbmenu.cpp:202
+msgid "&Close All"
+msgstr ""
+
+#: taskrmbmenu.cpp:209
 msgid "Ad&vanced"
 msgstr ""
 
-#: taskactions.cpp:266
-msgid "&Leave Group"
+#: taskrmbmenu.cpp:212
+msgid "Keep &Above Others"
 msgstr ""
 
-#: taskactions.cpp:281
-msgid "&Edit Group"
+#: taskrmbmenu.cpp:218
+msgid "Keep &Below Others"
 msgstr ""
 
-#: strategies/manualgroupingstrategy.cpp:86
-msgid "Leave Group"
+#: taskrmbmenu.cpp:224
+msgid "&Fullscreen"
 msgstr ""
 
-#: strategies/manualgroupingstrategy.cpp:93
-msgid "Remove Group"
+#: taskrmbmenu.cpp:240
+msgid "To &Desktop"
 msgstr ""
 
-#: strategies/programgroupingstrategy.cpp:69
-msgid "Allow This Program to Be Grouped"
-msgstr ""
-
-#: strategies/programgroupingstrategy.cpp:71
-msgid "Do Not Allow This Program to Be Grouped"
+#: taskrmbmenu.cpp:242 taskrmbmenu.cpp:267
+msgid "&All Desktops"
 msgstr ""
