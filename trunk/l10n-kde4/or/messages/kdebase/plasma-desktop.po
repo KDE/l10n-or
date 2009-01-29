@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-01-04 10:27+0100\n"
+"POT-Creation-Date: 2009-01-29 19:54+0100\n"
 "PO-Revision-Date: 2009-01-02 11:49+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -19,25 +19,29 @@ msgstr ""
 "\n"
 "\n"
 
-#: backgrounddialog.cpp:364
+#: backgrounddialog.cpp:365
 msgid "Desktop Settings"
 msgstr ""
 
-#: backgrounddialog.cpp:390
+#: backgrounddialog.cpp:391
 msgid ""
 "This picture of a monitor contains a preview of what the current settings "
 "will look like on your desktop."
 msgstr ""
 
-#: dashboardview.cpp:62
+#: backgrounddialog.cpp:412
+msgid "Appearance"
+msgstr ""
+
+#: dashboardview.cpp:63
 msgid "Hide Dashboard"
 msgstr ""
 
-#: dashboardview.cpp:94
+#: dashboardview.cpp:95
 msgid "Widget Dashboard"
 msgstr ""
 
-#: dashboardview.cpp:141 plasmaapp.cpp:554
+#: dashboardview.cpp:142 plasmaapp.cpp:550
 msgid "Add Widgets"
 msgstr ""
 
@@ -45,11 +49,11 @@ msgstr ""
 msgid "Desktop"
 msgstr ""
 
-#: desktopview.cpp:83
+#: desktopview.cpp:84
 msgid "Next Activity"
 msgstr ""
 
-#: desktopview.cpp:88
+#: desktopview.cpp:89
 msgid "Previous Activity"
 msgstr ""
 
@@ -57,27 +61,27 @@ msgstr ""
 msgid "The KDE desktop, panels and widgets workspace application."
 msgstr ""
 
-#: main.cpp:39
+#: main.cpp:35
 msgid "Plasma Workspace"
 msgstr ""
 
-#: main.cpp:41
-msgid "Copyright 2006-2007, The KDE Team"
+#: main.cpp:37
+msgid "Copyright 2006-2009, The KDE Team"
 msgstr ""
 
-#: main.cpp:42
+#: main.cpp:38
 msgid "Aaron J. Seigo"
 msgstr ""
 
-#: main.cpp:43
+#: main.cpp:39
 msgid "Author and maintainer"
 msgstr ""
 
-#: main.cpp:45
+#: main.cpp:41
 msgid "John Lions"
 msgstr ""
 
-#: main.cpp:46
+#: main.cpp:42
 msgid "In memory of his contributions, 1937-1998."
 msgstr ""
 
