@@ -42,8 +42,6 @@ msgid "Web browser, file manager and document viewer."
 msgstr "ୱେବ ବ୍ରାଉଜର, ଫାଇଲ ପରିଚାଳକ ଏବଂ ଦଲିଲ ପ୍ରଦର୍ଶକ।"
 
 #: src/konqfactory.cpp:233
-#, fuzzy
-#| msgid "(C) 1999-2008, The Konqueror developers"
 msgid "(C) 1999-2008, The Konqueror developers"
 msgstr "(C) 1999-2008, Konqueror ବିକାଶକାରୀମାନେ"
 
@@ -350,26 +348,18 @@ msgid "Konqueror didn't close correctly. Would you like to restore session?"
 msgstr "Konqueror ସଠିକ ଭାବରେ ବନ୍ଦ ହୋଇନଥିଲା। ଆପଣ ଅଧିବେଶନକୁ ପୁନଃ ସ୍ଥାପନ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
 
 #: src/konqsessionmanager.cpp:322
-#, fuzzy
-#| msgid "Restore Session?"
 msgid "Restore Session?"
 msgstr "ଅଧିବେଶନକୁ ପୁନଃ ସ୍ଥାପନ କରିବେ କି?"
 
 #: src/konqsessionmanager.cpp:323
-#, fuzzy
-#| msgid "Restore Session"
 msgid "Restore Session"
 msgstr "ଅଧିବେଶନକୁ ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ"
 
 #: src/konqsessionmanager.cpp:324
-#, fuzzy
-#| msgid "Do Not Restore"
 msgid "Do Not Restore"
 msgstr "ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ ନାହିଁ"
 
 #: src/konqsessionmanager.cpp:325
-#, fuzzy
-#| msgid "Ask Me Later"
 msgid "Ask Me Later"
 msgstr "ପରେ ମତେ ପଚାରନ୍ତୁ"
 
@@ -461,21 +451,14 @@ msgid "Navigate to your 'Home Folder'"
 msgstr "ଆପଣଙ୍କର 'ମୂଳସ୍ଥାନ ଫୋଲଡ଼ର'କୁ ପଥପ୍ରଦର୍ଶନ କରନ୍ତୁ"
 
 #: src/konqmainwindow.cpp:2056
-#, fuzzy
-#| msgid "Navigate to your 'Home Folder'"
 msgid "Navigate to your 'Home Page'"
-msgstr "ଆପଣଙ୍କର 'ମୂଳସ୍ଥାନ ଫୋଲଡ଼ର'କୁ ପଥପ୍ରଦର୍ଶନ କରନ୍ତୁ"
+msgstr "ଆପଣଙ୍କର 'ମୂଳସ୍ଥାନ ପୃଷ୍ଠା'କୁ ପଥପ୍ରଦର୍ଶନ କରନ୍ତୁ"
 
 #: src/konqmainwindow.cpp:2057
 msgid "Navigate to your local 'Home Folder'"
 msgstr "ଆପଣଙ୍କର ସ୍ଥାନୀୟ 'ମୂଳସ୍ଥାନ ଫୋଲଡ଼ର'କୁ ପଥପ୍ରଦର୍ଶନ କରନ୍ତୁ"
 
 #: src/konqmainwindow.cpp:2058
-#, fuzzy
-#| msgid ""
-#| "<html>Navigate to your 'Home Page'<br /><br />You can configure the "
-#| "location where this button takes you under <b>Settings -> Configure "
-#| "Konqueror -> General</b>.</html>"
 msgid ""
 "<html>Navigate to your 'Home Page'<br /><br />You can configure the location "
 "where this button takes you under <b>Settings -> Configure Konqueror -> "
@@ -553,22 +536,15 @@ msgid "Move selected files from %1 to:"
 msgstr "%1ରୁ ବଚ୍ଛିତ ଫାଇଲଗୁଡ଼ିକୁ ଘୁଞ୍ଚାନ୍ତୁ:"
 
 #: src/konqmainwindow.cpp:2863
-#, fuzzy
-#| msgctxt "This menu entry empties the closed items history"
-#| msgid "Empty Closed Items History"
 msgctxt "This menu entry empties the closed items history"
 msgid "Empty Closed Items History"
 msgstr "ବନ୍ଦ ହୋଇଥିବା ବସ୍ତୁଗୁଡ଼ିକର ପୁରୁଣା ତଥ୍ୟକୁ ଖାଲିକରନ୍ତୁ"
 
 #: src/konqmainwindow.cpp:2888
-#, fuzzy
-#| msgid "Save As..."
 msgid "Save As..."
 msgstr "ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ..."
 
 #: src/konqmainwindow.cpp:2890
-#, fuzzy
-#| msgid "Manage..."
 msgid "Manage..."
 msgstr "ପରିଚାଳନା କରନ୍ତୁ..."
 
@@ -610,9 +586,6 @@ msgid "Lock to Current Location"
 msgstr "ପ୍ରଚଳିତ ସ୍ଥାନରେ ଅପରିବର୍ତ୍ତିତ ରଖନ୍ତୁ"
 
 #: src/konqmainwindow.cpp:3566
-#, fuzzy
-#| msgctxt "This option links konqueror views"
-#| msgid "Lin&k View"
 msgctxt "This option links konqueror views"
 msgid "Lin&k View"
 msgstr "ସଂଯୋଗ ଦୃଶ୍ୟ (&k)"
@@ -1163,8 +1136,7 @@ msgid "Stalled"
 msgstr "ବିଳମ୍ବିତ କରାଯାଇଛି"
 
 #: src/konqguiclients.cpp:66
-#, fuzzy, kde-format
-#| msgid "Preview &in %1"
+#, kde-format
 msgid "Preview &in %1"
 msgstr "ପ୍ରାକଦର୍ଶନ (&i) %1"
 
@@ -1257,9 +1229,6 @@ msgid "By &Date"
 msgstr "ତାରିଖ ଦ୍ୱାରା (&D)"
 
 #: sidebar/trees/history_module/history_module.cpp:261
-#, fuzzy
-#| msgctxt "@action:inmenu Parent of 'By Name' and 'By Date'"
-#| msgid "Sort"
 msgctxt "@action:inmenu Parent of 'By Name' and 'By Date'"
 msgid "Sort"
 msgstr "ସଜାଡ଼ନ୍ତୁ"
@@ -1557,9 +1526,6 @@ msgstr "ଅନୁଲମ୍ବିତ ପାର୍ଶ୍ୱପଟି"
 #: about/konq_aboutpage.cc:135 about/konq_aboutpage.cc:137
 #: about/konq_aboutpage.cc:189 about/konq_aboutpage.cc:191
 #: about/konq_aboutpage.cc:286 about/konq_aboutpage.cc:288
-#, fuzzy
-#| msgctxt "KDE 4 tag line, see http://kde.org/img/kde40.png"
-#| msgid "Be free."
 msgctxt "KDE 4 tag line, see http://kde.org/img/kde40.png"
 msgid "Be free."
 msgstr "ମୁକ୍ତ ହୁଅନ୍ତୁ।"
@@ -1571,11 +1537,6 @@ msgstr "Konqueror ଗୋଟିଏ ୱେବ ବ୍ରାଉଜର, ପାଇଲ 
 
 #: about/konq_aboutpage.cc:83 about/konq_aboutpage.cc:139
 #: about/konq_aboutpage.cc:193 about/konq_aboutpage.cc:290
-#, fuzzy
-#| msgctxt ""
-#| "Link that points to the first page of the Konqueror 'about page', "
-#| "Starting Points contains links to Home, Network Folders, Trash, etc."
-#| msgid "Starting Points"
 msgctxt ""
 "Link that points to the first page of the Konqueror 'about page', Starting "
 "Points contains links to Home, Network Folders, Trash, etc."
@@ -1839,9 +1800,6 @@ msgid "and <A HREF=\"%1\">many more...</A>"
 msgstr "ଏବଂ <A HREF=\"%1\">ଅନେକ...</A>"
 
 #: about/konq_aboutpage.cc:241
-#, fuzzy
-#| msgctxt "A feature of Konqueror"
-#| msgid "URL-Completion"
 msgctxt "A feature of Konqueror"
 msgid "URL-Completion"
 msgstr "URL-ସମ୍ପୂର୍ଣ୍ଣତା"
@@ -2133,9 +2091,6 @@ msgstr "ରୂପରେଖରେ URLଗୁଡ଼ିକୁ ସଂରକ୍ଷଣ 
 #. i18n: file: src/konqsessiondlg_base.ui:25
 #. i18n: ectx: property (text), widget (QPushButton, m_pNewButton)
 #: rc.cpp:50
-#, fuzzy
-#| msgctxt "@action:button New session"
-#| msgid "New..."
 msgctxt "@action:button New session"
 msgid "New..."
 msgstr "ନୂତନ..."
@@ -2143,9 +2098,6 @@ msgstr "ନୂତନ..."
 #. i18n: file: src/konqsessiondlg_base.ui:32
 #. i18n: ectx: property (text), widget (QPushButton, m_pSaveCurrentButton)
 #: rc.cpp:53
-#, fuzzy
-#| msgctxt "@action:button Save current session"
-#| msgid "Save Current"
 msgctxt "@action:button Save current session"
 msgid "Save Current"
 msgstr "ଏହାକୁ ସଂରକ୍ଷଣ କରନ୍ତୁ"
@@ -2245,11 +2197,6 @@ msgstr ""
 #: rc.cpp:104
 msgid "Clear History"
 msgstr "ପୁରୁଣା ତଥ୍ୟ ସଫାକରନ୍ତୁ"
-
-#, fuzzy
-#~| msgid "Navigate to your 'Home Page'"
-#~ msgid "Navigate to your 'Home Location'"
-#~ msgstr "ଆପଣଙ୍କର 'ମୂଳସ୍ଥାନ ପୃଷ୍ଠା'କୁ ପଥପ୍ରଦର୍ଶନ କରନ୍ତୁ"
 
 #, fuzzy
 #~| msgid "Specifications"
