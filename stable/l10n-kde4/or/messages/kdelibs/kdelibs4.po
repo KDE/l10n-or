@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-01-29 07:18+0100\n"
+"POT-Creation-Date: 2009-01-31 07:00+0100\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1877,15 +1877,15 @@ msgstr "ପୁରୁଣା ହୋଷ୍ଟନାମ"
 msgid "New hostname"
 msgstr "ନୂତନ ହୋଷ୍ଟନାମ"
 
-#: kded/kded.cpp:875
+#: kded/kded.cpp:874
 msgid "KDE Daemon"
 msgstr "KDE ଡେମନ"
 
-#: kded/kded.cpp:877
+#: kded/kded.cpp:876
 msgid "KDE Daemon - triggers Sycoca database updates when needed"
 msgstr "KDE ଡେମନ - ଆବଶ୍ୟକ ସମୟରେ Sycoca ତଥ୍ୟାବଳୀ ଅଦ୍ୟତନକୁ ସତର୍କ କରାଏ"
 
-#: kded/kded.cpp:880
+#: kded/kded.cpp:879
 msgid "Check Sycoca database only once"
 msgstr "Sycoca ତଥ୍ୟାବଳୀକୁ କେବଳ ଥରେ ଯାଞ୍ଚ କରନ୍ତୁ"
 
@@ -10811,26 +10811,26 @@ msgstr "URI ସଂକ୍ଷିପ୍ତ ପଥ (&I):"
 msgid "Create Web Shortcut"
 msgstr "ୱେବ ସଂକ୍ଷିପ୍ତ ପଥ ବିନ୍ୟାସ କରନ୍ତୁ"
 
-#: kinit/kinit.cpp:484
+#: kinit/kinit.cpp:482
 msgid ""
 "Unable to start new process.\n"
 "The system may have reached the maximum number of open files possible or the "
 "maximum number of open files that you are allowed to use has been reached."
 msgstr ""
 
-#: kinit/kinit.cpp:503
+#: kinit/kinit.cpp:501
 msgid ""
 "Unable to create new process.\n"
 "The system may have reached the maximum number of processes possible or the "
 "maximum number of processes that you are allowed to use has been reached."
 msgstr ""
 
-#: kinit/kinit.cpp:602
+#: kinit/kinit.cpp:600
 #, kde-format
 msgid "Could not find '%1' executable."
 msgstr "'%1' ନିଷ୍ପାଦ୍ୟକୁ ଖୋଜିପାଇଲା ନାହିଁ।"
 
-#: kinit/kinit.cpp:620
+#: kinit/kinit.cpp:618
 #, kde-format
 msgid ""
 "Could not open library '%1'.\n"
@@ -10839,7 +10839,7 @@ msgstr ""
 "ଲାଇବ୍ରେରୀ '%1'କୁ ଖୋଲିପାରିଲା ନାହିଁ।\n"
 "%2"
 
-#: kinit/kinit.cpp:666
+#: kinit/kinit.cpp:664
 #, kde-format
 msgid ""
 "Could not find 'kdemain' in '%1'.\n"
@@ -10854,32 +10854,32 @@ msgid ""
 "klauncher: It is started automatically by kdeinit4.\n"
 msgstr ""
 
-#: kinit/klauncher.cpp:533
+#: kinit/klauncher.cpp:554
 #, kde-format
 msgid "KDEInit could not launch '%1'."
 msgstr "'%1' କୁ KDEInit ଆରମ୍ଭ କରିପାରିଲା ନାହିଁ।"
 
-#: kinit/klauncher.cpp:698 kinit/klauncher.cpp:723 kinit/klauncher.cpp:738
+#: kinit/klauncher.cpp:723 kinit/klauncher.cpp:748 kinit/klauncher.cpp:763
 #, kde-format
 msgid "Could not find service '%1'."
 msgstr "ସେବା '%1'କୁ ଖୋଜିପାଉନାହିଁ।"
 
-#: kinit/klauncher.cpp:754 kinit/klauncher.cpp:790
+#: kinit/klauncher.cpp:779 kinit/klauncher.cpp:815
 #, kde-format
 msgid "Service '%1' is malformatted."
 msgstr "ସର୍ଭିସ '%1' ଟି ତ୍ରୁଟିଯୁକ୍ତ ହୋଇଛି।"
 
-#: kinit/klauncher.cpp:871
+#: kinit/klauncher.cpp:901
 #, kde-format
 msgid "Launching %1"
 msgstr "%1 ଆରମ୍ଭକରୁଅଛି"
 
-#: kinit/klauncher.cpp:1077
+#: kinit/klauncher.cpp:1098
 #, kde-format
 msgid "Unknown protocol '%1'.\n"
 msgstr "ଅଜଣା ପ୍ରଟୋକଲ '%1'।\n"
 
-#: kinit/klauncher.cpp:1138
+#: kinit/klauncher.cpp:1159
 #, kde-format
 msgid "Error loading '%1'.\n"
 msgstr "'%1' ଧାରଣକରିବାରେ ତ୍ରୁଟି।\n"
