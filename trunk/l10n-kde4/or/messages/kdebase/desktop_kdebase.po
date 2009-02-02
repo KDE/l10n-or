@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-02-01 10:39+0000\n"
+"POT-Creation-Date: 2009-02-02 10:36+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -61,7 +61,7 @@ msgctxt "Name"
 msgid "Dolphin General"
 msgstr "ଡଲଫିନ ଦୃଶ୍ୟ"
 
-#: apps/dolphin/src/kcm/kcmdolphingeneral.desktop:6
+#: apps/dolphin/src/kcm/kcmdolphingeneral.desktop:10
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "This service allows configuration of the Dolphin views."
@@ -69,14 +69,14 @@ msgctxt "Comment"
 msgid "This service allows configuration of general Dolphin settings."
 msgstr "ଏହି ସର୍ଭିସ ଡଲଫିନ ଦୃଶ୍ୟଗୁଡ଼ିକର ସଂରଚନାକୁ ଅନୁମତି ଦେଇଥାଏ।"
 
-#: apps/dolphin/src/kcm/kcmdolphingeneral.desktop:22
+#: apps/dolphin/src/kcm/kcmdolphingeneral.desktop:29
 #: apps/konqueror/settings/konqhtml/khtml_general.desktop:12
 #: workspace/systemsettings/categories/settings-general.desktop:8
 msgctxt "Name"
 msgid "General"
 msgstr "ସାଧାରଣ"
 
-#: apps/dolphin/src/kcm/kcmdolphingeneral.desktop:96
+#: apps/dolphin/src/kcm/kcmdolphingeneral.desktop:103
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -92,7 +92,7 @@ msgctxt "Name"
 msgid "Dolphin Navigation"
 msgstr "ଡଲଫିନ ଦୃଶ୍ୟ"
 
-#: apps/dolphin/src/kcm/kcmdolphinnavigation.desktop:6
+#: apps/dolphin/src/kcm/kcmdolphinnavigation.desktop:9
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "This service allows configuration of the Dolphin views."
@@ -100,7 +100,7 @@ msgctxt "Comment"
 msgid "This service allows configuration of the Dolphin navigation."
 msgstr "ଏହି ସର୍ଭିସ ଡଲଫିନ ଦୃଶ୍ୟଗୁଡ଼ିକର ସଂରଚନାକୁ ଅନୁମତି ଦେଇଥାଏ।"
 
-#: apps/dolphin/src/kcm/kcmdolphinnavigation.desktop:22
+#: apps/dolphin/src/kcm/kcmdolphinnavigation.desktop:28
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Navigation Panel"
@@ -108,7 +108,7 @@ msgctxt "Name"
 msgid "Navigation"
 msgstr "ପଥପ୍ରଦର୍ଶନ ପାନେଲ"
 
-#: apps/dolphin/src/kcm/kcmdolphinnavigation.desktop:27
+#: apps/dolphin/src/kcm/kcmdolphinnavigation.desktop:36
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -124,7 +124,7 @@ msgctxt "Name"
 msgid "Dolphin View Modes"
 msgstr "ଡଲଫିନ ଦୃଶ୍ୟ"
 
-#: apps/dolphin/src/kcm/kcmdolphinviewmodes.desktop:6
+#: apps/dolphin/src/kcm/kcmdolphinviewmodes.desktop:9
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "This service allows configuration of the Dolphin views."
@@ -132,7 +132,7 @@ msgctxt "Comment"
 msgid "This service allows configuration of the Dolphin view modes."
 msgstr "ଏହି ସର୍ଭିସ ଡଲଫିନ ଦୃଶ୍ୟଗୁଡ଼ିକର ସଂରଚନାକୁ ଅନୁମତି ଦେଇଥାଏ।"
 
-#: apps/dolphin/src/kcm/kcmdolphinviewmodes.desktop:22
+#: apps/dolphin/src/kcm/kcmdolphinviewmodes.desktop:28
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Views"
@@ -140,7 +140,7 @@ msgctxt "Name"
 msgid "View Modes"
 msgstr "ଦୃଶ୍ୟଗୁଡ଼ିକ"
 
-#: apps/dolphin/src/kcm/kcmdolphinviewmodes.desktop:27
+#: apps/dolphin/src/kcm/kcmdolphinviewmodes.desktop:37
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -8955,7 +8955,7 @@ msgctxt "Name"
 msgid "Fade Desktop"
 msgstr "ସର୍ଭର ଡ଼େସ୍କଟପ"
 
-#: workspace/kwin/effects/fadedesktop.desktop:6
+#: workspace/kwin/effects/fadedesktop.desktop:9
 msgctxt "Comment"
 msgid "Fade between virtual desktops when switching between them"
 msgstr ""
@@ -10445,7 +10445,7 @@ msgctxt "Name"
 msgid "javascript-config-test"
 msgstr "javascript-config-test"
 
-#: workspace/plasma/scriptengines/javascript/tests/javascript-config-test/metadata.desktop:9
+#: workspace/plasma/scriptengines/javascript/tests/javascript-config-test/metadata.desktop:10
 msgctxt "Comment"
 msgid "Javascript config object test widget"
 msgstr ""
@@ -10455,7 +10455,7 @@ msgctxt "Name"
 msgid "script-digital-clock"
 msgstr "script-digital-clock"
 
-#: workspace/plasma/scriptengines/javascript/tests/script-digital-clock/metadata.desktop:14
+#: workspace/plasma/scriptengines/javascript/tests/script-digital-clock/metadata.desktop:15
 msgctxt "Comment"
 msgid "Javascript digital clock"
 msgstr "Javascript ସାଂଖିକ ଘଡ଼ି"
