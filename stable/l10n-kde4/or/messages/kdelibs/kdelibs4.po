@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-01-31 07:00+0100\n"
+"POT-Creation-Date: 2009-02-02 07:08+0100\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -6419,6 +6419,9 @@ msgstr ""
 "ଦବାନ୍ତୁ"
 
 #: kdeui/dialogs/kbugreport.cpp:130
+#, fuzzy
+#| msgid "From:"
+msgctxt "Email sender address"
 msgid "From:"
 msgstr "ଠାରୁ:"
 
@@ -6431,6 +6434,9 @@ msgid "The email address this bug report is sent to."
 msgstr "ଏହି ତ୍ରୁଟି ବିବରଣୀ ପଠାଇଥିବା ଇମେଲ ଠିକଣା।"
 
 #: kdeui/dialogs/kbugreport.cpp:147
+#, fuzzy
+#| msgid "To:"
+msgctxt "Email receiver address"
 msgid "To:"
 msgstr "ଠାକୁ:"
 
@@ -7991,6 +7997,9 @@ msgid "Enter a search term or character here"
 msgstr "ଏଠାରେ ଗୋଟିଏ ଖୋଜାଯିବା ପଦ କିମ୍ବା ଅକ୍ଷର ଭରଣ କରନ୍ତୁ"
 
 #: kdeui/widgets/kcharselect.cpp:354
+#, fuzzy
+#| msgid "Back"
+msgctxt "Goes to previous character"
 msgid "Back"
 msgstr "ପଛକୁ"
 
@@ -7999,6 +8008,9 @@ msgid "Previous Character"
 msgstr "ପୂର୍ବ ଅକ୍ଷର"
 
 #: kdeui/widgets/kcharselect.cpp:361
+#, fuzzy
+#| msgid "Forward"
+msgctxt "Goes to next character"
 msgid "Forward"
 msgstr "ଆଗକୁ"
 
