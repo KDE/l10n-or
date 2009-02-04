@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-02-03 11:12+0100\n"
+"POT-Creation-Date: 2009-02-04 12:03+0100\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1599,8 +1599,8 @@ msgstr "ଫାଇଲ କିମ୍ବା ଫୋଲଡ଼ରଗୁଡ଼ିକୁ 
 
 #: settings/navigationsettingspage.cpp:61
 msgctxt "@option:check"
-msgid "Browse through archives"
-msgstr "ଅଭିଲେଖନଗୁଡ଼ିକ ଦ୍ୱାରା ବ୍ରାଉଜକରନ୍ତୁ"
+msgid "Open archives as folder"
+msgstr ""
 
 #: settings/navigationsettingspage.cpp:64
 msgctxt "option:check"
@@ -1654,57 +1654,57 @@ msgid ""
 "be applied."
 msgstr ""
 
-#: settings/contextmenusettingspage.cpp:40
+#: settings/contextmenusettingspage.cpp:42
 msgctxt "@option:check"
 msgid "Show 'Delete' command"
 msgstr "'ଅପସାରଣ କରନ୍ତୁ' ନିର୍ଦ୍ଦେଶ ଦର୍ଶାନ୍ତୁ"
 
-#: settings/contextmenusettingspage.cpp:43
+#: settings/contextmenusettingspage.cpp:45
 msgctxt "@option:check"
 msgid "Show 'Copy To' and 'Move To' commands"
 msgstr "'କୁ ନକଲ କରନ୍ତୁ' ଏବଂ 'କୁ ପଠାନ୍ତୁ' ନିର୍ଦ୍ଦେଶ ଦର୍ଶାନ୍ତୁ"
 
-#: settings/behaviorsettingspage.cpp:56
+#: settings/behaviorsettingspage.cpp:59
 msgctxt "@title:group"
 msgid "View Properties"
 msgstr "ଗୁଣଧର୍ମ ଦେଖନ୍ତୁ"
 
-#: settings/behaviorsettingspage.cpp:58
+#: settings/behaviorsettingspage.cpp:61
 msgctxt "@option:radio"
 msgid "Remember view properties for each folder"
 msgstr "ପ୍ରତ୍ୟେକ ଫୋଲଡ଼ର ପାଇଁ ଦୃଶ୍ୟ ଗୁଣଧର୍ମକୁ ମନେରଖନ୍ତୁ"
 
-#: settings/behaviorsettingspage.cpp:61
+#: settings/behaviorsettingspage.cpp:64
 msgctxt "@option:radio"
 msgid "Use common view properties for all folders"
 msgstr "ସମସ୍ତ ଫୋଲଡ଼ରଗୁଡ଼ିକ ପାଇଁ ସାଧାରଣ ଦୃଶ୍ୟ ଗୁଣଧର୍ମ ବ୍ୟବହାର କରନ୍ତୁ"
 
-#: settings/behaviorsettingspage.cpp:69
+#: settings/behaviorsettingspage.cpp:72
 msgctxt "@title:group"
 msgid "Ask For Confirmation When"
 msgstr "ନିଶ୍ଚିତକରଣ ପାଇଁ ପଚାରନ୍ତୁ"
 
-#: settings/behaviorsettingspage.cpp:71
+#: settings/behaviorsettingspage.cpp:74
 msgctxt "@option:check Ask for Confirmation When"
 msgid "Moving files or folders to trash"
 msgstr "ଫାଇଲ କିମ୍ବା ଫୋଲଡ଼ରଗୁଡ଼ିକୁ ଆବର୍ଜନା ପାତ୍ରମଧ୍ଯକୁ ପଠାଯାଉଛି"
 
-#: settings/behaviorsettingspage.cpp:74
+#: settings/behaviorsettingspage.cpp:77
 msgctxt "@option:check Ask for Confirmation When"
 msgid "Deleting files or folders"
 msgstr "ଫାଇଲ କିମ୍ବା ଫୋଲଡ଼ରଗୁଡ଼ିକୁ ଅପସାରଣ କରୁଅଛି"
 
-#: settings/behaviorsettingspage.cpp:81
+#: settings/behaviorsettingspage.cpp:84
 msgctxt "@option:check"
 msgid "Rename inline"
 msgstr ""
 
-#: settings/behaviorsettingspage.cpp:84
+#: settings/behaviorsettingspage.cpp:87
 msgctxt "@option:check"
 msgid "Show tooltips"
 msgstr "ଉପକରଣ ସୂଚନା ଦର୍ଶାନ୍ତୁ"
 
-#: settings/behaviorsettingspage.cpp:87
+#: settings/behaviorsettingspage.cpp:90
 msgctxt "@option:check"
 msgid "Show selection marker"
 msgstr ""
@@ -2026,6 +2026,10 @@ msgstr ""
 msgctxt "@action:inmenu View Mode"
 msgid "Columns"
 msgstr ""
+
+#~ msgctxt "@option:check"
+#~ msgid "Browse through archives"
+#~ msgstr "ଅଭିଲେଖନଗୁଡ଼ିକ ଦ୍ୱାରା ବ୍ରାଉଜକରନ୍ତୁ"
 
 #~ msgctxt "@title:group"
 #~ msgid "File Previews"

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-02-03 10:24+0000\n"
+"POT-Creation-Date: 2009-02-04 11:15+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -61,7 +61,7 @@ msgctxt "Name"
 msgid "Dolphin General"
 msgstr "ଡଲଫିନ ଦୃଶ୍ୟ"
 
-#: apps/dolphin/src/kcm/kcmdolphingeneral.desktop:12
+#: apps/dolphin/src/kcm/kcmdolphingeneral.desktop:13
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "This service allows configuration of the Dolphin views."
@@ -69,14 +69,14 @@ msgctxt "Comment"
 msgid "This service allows configuration of general Dolphin settings."
 msgstr "ଏହି ସର୍ଭିସ ଡଲଫିନ ଦୃଶ୍ୟଗୁଡ଼ିକର ସଂରଚନାକୁ ଅନୁମତି ଦେଇଥାଏ।"
 
-#: apps/dolphin/src/kcm/kcmdolphingeneral.desktop:33
+#: apps/dolphin/src/kcm/kcmdolphingeneral.desktop:35
 #: apps/konqueror/settings/konqhtml/khtml_general.desktop:12
 #: workspace/systemsettings/categories/settings-general.desktop:8
 msgctxt "Name"
 msgid "General"
 msgstr "ସାଧାରଣ"
 
-#: apps/dolphin/src/kcm/kcmdolphingeneral.desktop:107
+#: apps/dolphin/src/kcm/kcmdolphingeneral.desktop:109
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -92,7 +92,7 @@ msgctxt "Name"
 msgid "Dolphin Navigation"
 msgstr "ଡଲଫିନ ଦୃଶ୍ୟ"
 
-#: apps/dolphin/src/kcm/kcmdolphinnavigation.desktop:11
+#: apps/dolphin/src/kcm/kcmdolphinnavigation.desktop:12
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "This service allows configuration of the Dolphin views."
@@ -100,7 +100,7 @@ msgctxt "Comment"
 msgid "This service allows configuration of the Dolphin navigation."
 msgstr "ଏହି ସର୍ଭିସ ଡଲଫିନ ଦୃଶ୍ୟଗୁଡ଼ିକର ସଂରଚନାକୁ ଅନୁମତି ଦେଇଥାଏ।"
 
-#: apps/dolphin/src/kcm/kcmdolphinnavigation.desktop:32
+#: apps/dolphin/src/kcm/kcmdolphinnavigation.desktop:34
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Navigation Panel"
@@ -108,7 +108,7 @@ msgctxt "Name"
 msgid "Navigation"
 msgstr "ପଥପ୍ରଦର୍ଶନ ପାନେଲ"
 
-#: apps/dolphin/src/kcm/kcmdolphinnavigation.desktop:42
+#: apps/dolphin/src/kcm/kcmdolphinnavigation.desktop:45
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -124,7 +124,7 @@ msgctxt "Name"
 msgid "Dolphin View Modes"
 msgstr "ଡଲଫିନ ଦୃଶ୍ୟ"
 
-#: apps/dolphin/src/kcm/kcmdolphinviewmodes.desktop:11
+#: apps/dolphin/src/kcm/kcmdolphinviewmodes.desktop:12
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "This service allows configuration of the Dolphin views."
@@ -132,7 +132,7 @@ msgctxt "Comment"
 msgid "This service allows configuration of the Dolphin view modes."
 msgstr "ଏହି ସର୍ଭିସ ଡଲଫିନ ଦୃଶ୍ୟଗୁଡ଼ିକର ସଂରଚନାକୁ ଅନୁମତି ଦେଇଥାଏ।"
 
-#: apps/dolphin/src/kcm/kcmdolphinviewmodes.desktop:32
+#: apps/dolphin/src/kcm/kcmdolphinviewmodes.desktop:34
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Views"
@@ -140,7 +140,7 @@ msgctxt "Name"
 msgid "View Modes"
 msgstr "ଦୃଶ୍ୟଗୁଡ଼ିକ"
 
-#: apps/dolphin/src/kcm/kcmdolphinviewmodes.desktop:43
+#: apps/dolphin/src/kcm/kcmdolphinviewmodes.desktop:46
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -8960,7 +8960,7 @@ msgctxt "Name"
 msgid "Fade Desktop"
 msgstr "ସର୍ଭର ଡ଼େସ୍କଟପ"
 
-#: workspace/kwin/effects/fadedesktop.desktop:10
+#: workspace/kwin/effects/fadedesktop.desktop:11
 msgctxt "Comment"
 msgid "Fade between virtual desktops when switching between them"
 msgstr ""
@@ -8992,7 +8992,7 @@ msgctxt "Name"
 msgid "Highlight Window"
 msgstr ""
 
-#: workspace/kwin/effects/highlightwindow.desktop:7
+#: workspace/kwin/effects/highlightwindow.desktop:9
 msgctxt "Comment"
 msgid "Highlight the appropriate window when hovering over taskbar entries"
 msgstr ""
