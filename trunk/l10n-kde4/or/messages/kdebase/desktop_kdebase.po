@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-02-11 10:14+0000\n"
+"POT-Creation-Date: 2009-02-12 09:34+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -3348,57 +3348,57 @@ msgctxt "Name"
 msgid "You might want to fix your program. Take a look at the backtrace below."
 msgstr "ଆପଣ ଆପଣଙ୍କର ପ୍ରଗ୍ରାମକୁ ଠିକ କରିବାକୁ ଚାହୁଁଛନ୍ତି। ବ୍ୟାକ ଟ୍ରେସ ଟ୍ୟାବରେ ଗୋଟିଏ ନଜର ପକାନ୍ତୁ।"
 
-#: runtime/drkonqi/presets/developerrc:248
+#: runtime/drkonqi/presets/developerrc:249
 #: runtime/drkonqi/presets/enduserrc:296
 msgctxt "Name"
 msgid "SIGILL"
 msgstr "SIGILL"
 
-#: runtime/drkonqi/presets/developerrc:254
+#: runtime/drkonqi/presets/developerrc:255
 msgctxt "Comment"
 msgid "Illegal instruction."
 msgstr "ଅବୈଧ ନିର୍ଦ୍ଦେଶ।"
 
-#: runtime/drkonqi/presets/developerrc:329
+#: runtime/drkonqi/presets/developerrc:330
 #: runtime/drkonqi/presets/enduserrc:375
 msgctxt "Name"
 msgid "SIGABRT"
 msgstr "SIGABRT"
 
-#: runtime/drkonqi/presets/developerrc:333
+#: runtime/drkonqi/presets/developerrc:334
 msgctxt "Comment"
 msgid "Aborted."
 msgstr "ପ୍ରତ୍ୟାବୃତ ହୋଇଛି।"
 
-#: runtime/drkonqi/presets/developerrc:404
+#: runtime/drkonqi/presets/developerrc:405
 #: runtime/drkonqi/presets/enduserrc:451
 msgctxt "Name"
 msgid "SIGFPE"
 msgstr "SIGFPE"
 
-#: runtime/drkonqi/presets/developerrc:408
+#: runtime/drkonqi/presets/developerrc:409
 msgctxt "Comment"
 msgid "Floating point exception."
 msgstr ""
 
-#: runtime/drkonqi/presets/developerrc:477
+#: runtime/drkonqi/presets/developerrc:478
 #: runtime/drkonqi/presets/enduserrc:528
 msgctxt "Name"
 msgid "SIGSEGV"
 msgstr "SIGSEGV"
 
-#: runtime/drkonqi/presets/developerrc:481
+#: runtime/drkonqi/presets/developerrc:482
 msgctxt "Comment"
 msgid "Invalid memory reference."
 msgstr "ଅବୈଧ ସ୍ମୃତିସ୍ଥାନ ସନ୍ଦର୍ଭ"
 
-#: runtime/drkonqi/presets/developerrc:552
+#: runtime/drkonqi/presets/developerrc:553
 #: runtime/drkonqi/presets/enduserrc:604
 msgctxt "Name"
 msgid "Unknown"
 msgstr "ଅଜଣା"
 
-#: runtime/drkonqi/presets/developerrc:630
+#: runtime/drkonqi/presets/developerrc:631
 msgctxt "Comment"
 msgid "This signal is unknown."
 msgstr "ଏହି ସଂକେତଟି ଅଜଣା ଅଛି।"
@@ -9844,7 +9844,7 @@ msgctxt "Comment"
 msgid "The daemon received a new message sent with wall(1) or write(1)"
 msgstr ""
 
-#: workspace/libs/kephal/kded_kephal/kded_kephal.desktop:10
+#: workspace/libs/kephal/kded_kephal/kephal.desktop:10
 msgctxt "Name"
 msgid "KDED-module for screen-management"
 msgstr ""
@@ -10492,7 +10492,7 @@ msgctxt "Name"
 msgid "script-mediaplayer"
 msgstr "script-nowplaying"
 
-#: workspace/plasma/scriptengines/javascript/tests/script-mediaplayer/metadata.desktop:4
+#: workspace/plasma/scriptengines/javascript/tests/script-mediaplayer/metadata.desktop:6
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Javascript digital clock"
