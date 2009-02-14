@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-02-13 09:22+0000\n"
+"POT-Creation-Date: 2009-02-14 11:00+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -3348,57 +3348,57 @@ msgctxt "Name"
 msgid "You might want to fix your program. Take a look at the backtrace below."
 msgstr "ଆପଣ ଆପଣଙ୍କର ପ୍ରଗ୍ରାମକୁ ଠିକ କରିବାକୁ ଚାହୁଁଛନ୍ତି। ବ୍ୟାକ ଟ୍ରେସ ଟ୍ୟାବରେ ଗୋଟିଏ ନଜର ପକାନ୍ତୁ।"
 
-#: runtime/drkonqi/presets/developerrc:249
+#: runtime/drkonqi/presets/developerrc:250
 #: runtime/drkonqi/presets/enduserrc:296
 msgctxt "Name"
 msgid "SIGILL"
 msgstr "SIGILL"
 
-#: runtime/drkonqi/presets/developerrc:255
+#: runtime/drkonqi/presets/developerrc:256
 msgctxt "Comment"
 msgid "Illegal instruction."
 msgstr "ଅବୈଧ ନିର୍ଦ୍ଦେଶ।"
 
-#: runtime/drkonqi/presets/developerrc:330
+#: runtime/drkonqi/presets/developerrc:331
 #: runtime/drkonqi/presets/enduserrc:375
 msgctxt "Name"
 msgid "SIGABRT"
 msgstr "SIGABRT"
 
-#: runtime/drkonqi/presets/developerrc:334
+#: runtime/drkonqi/presets/developerrc:335
 msgctxt "Comment"
 msgid "Aborted."
 msgstr "ପ୍ରତ୍ୟାବୃତ ହୋଇଛି।"
 
-#: runtime/drkonqi/presets/developerrc:405
+#: runtime/drkonqi/presets/developerrc:406
 #: runtime/drkonqi/presets/enduserrc:451
 msgctxt "Name"
 msgid "SIGFPE"
 msgstr "SIGFPE"
 
-#: runtime/drkonqi/presets/developerrc:409
+#: runtime/drkonqi/presets/developerrc:410
 msgctxt "Comment"
 msgid "Floating point exception."
 msgstr ""
 
-#: runtime/drkonqi/presets/developerrc:478
+#: runtime/drkonqi/presets/developerrc:479
 #: runtime/drkonqi/presets/enduserrc:528
 msgctxt "Name"
 msgid "SIGSEGV"
 msgstr "SIGSEGV"
 
-#: runtime/drkonqi/presets/developerrc:482
+#: runtime/drkonqi/presets/developerrc:483
 msgctxt "Comment"
 msgid "Invalid memory reference."
 msgstr "ଅବୈଧ ସ୍ମୃତିସ୍ଥାନ ସନ୍ଦର୍ଭ"
 
-#: runtime/drkonqi/presets/developerrc:553
+#: runtime/drkonqi/presets/developerrc:554
 #: runtime/drkonqi/presets/enduserrc:604
 msgctxt "Name"
 msgid "Unknown"
 msgstr "ଅଜଣା"
 
-#: runtime/drkonqi/presets/developerrc:631
+#: runtime/drkonqi/presets/developerrc:632
 msgctxt "Comment"
 msgid "This signal is unknown."
 msgstr "ଏହି ସଂକେତଟି ଅଜଣା ଅଛି।"
@@ -7152,7 +7152,7 @@ msgctxt "Name"
 msgid "Platform"
 msgstr "ପ୍ଲାଟିନମ"
 
-#: runtime/platforms/win/config/platform.desktop:28
+#: runtime/platforms/win/config/platform.desktop:14
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Window Manager"
@@ -8966,31 +8966,9 @@ msgctxt "Name"
 msgid "Desktop Cube Animation"
 msgstr "ଡ଼େସ୍କଟପ ପ୍ରକାଶନ"
 
-#: workspace/kwin/effects/cube/cubeslide.desktop:11
+#: workspace/kwin/effects/cube/cubeslide.desktop:12
 msgctxt "Comment"
 msgid "Animate desktop switching with a cube"
-msgstr ""
-
-#: workspace/kwin/effects/cube/cylinder.desktop:2
-#: workspace/kwin/effects/cube/cylinder_config.desktop:9
-msgctxt "Name"
-msgid "Desktop Cylinder"
-msgstr ""
-
-#: workspace/kwin/effects/cube/cylinder.desktop:61
-msgctxt "Comment"
-msgid "Display each virtual desktop on the side of a cylinder"
-msgstr ""
-
-#: workspace/kwin/effects/cube/sphere.desktop:2
-#: workspace/kwin/effects/cube/sphere_config.desktop:9
-msgctxt "Name"
-msgid "Desktop Sphere"
-msgstr ""
-
-#: workspace/kwin/effects/cube/sphere.desktop:57
-msgctxt "Comment"
-msgid "Display each virtual desktop on the side of a sphere"
 msgstr ""
 
 #: workspace/kwin/effects/desktopgrid/desktopgrid.desktop:2
@@ -9095,7 +9073,7 @@ msgctxt "Name"
 msgid "Highlight Window"
 msgstr ""
 
-#: workspace/kwin/effects/highlightwindow/highlightwindow.desktop:16
+#: workspace/kwin/effects/highlightwindow/highlightwindow.desktop:17
 msgctxt "Comment"
 msgid "Highlight the appropriate window when hovering over taskbar entries"
 msgstr ""
@@ -9937,7 +9915,7 @@ msgid "See the power status of your battery"
 msgstr ""
 
 #: workspace/plasma/applets/calendar/plasma-applet-calendar.desktop:2
-#: workspace/plasma/dataengines/calendar/plasma-engine-calendar.desktop:2
+#: workspace/plasma/dataengines/calendar/plasma-dataengine-calendar.desktop:2
 msgctxt "Name"
 msgid "Calendar"
 msgstr ""
@@ -10161,7 +10139,7 @@ msgctxt "Comment"
 msgid "Kuiserver data for Plasmoids"
 msgstr "Plasmoids ପାଇଁ Kuiserver ତଥ୍ୟ"
 
-#: workspace/plasma/dataengines/calendar/plasma-engine-calendar.desktop:62
+#: workspace/plasma/dataengines/calendar/plasma-dataengine-calendar.desktop:62
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Calendar Manager"
