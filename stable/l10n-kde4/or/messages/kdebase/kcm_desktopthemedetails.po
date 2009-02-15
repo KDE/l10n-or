@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcm_desktopthemedetails\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-01-04 10:27+0100\n"
+"POT-Creation-Date: 2009-02-15 05:59+0100\n"
 "PO-Revision-Date: 2009-01-05 18:10+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -20,125 +20,122 @@ msgstr ""
 "\n"
 "\n"
 
-#: desktopthemedetails.cpp:268
+#: desktopthemedetails.cpp:267
 msgctxt "plasma name"
 msgid "Color Scheme"
 msgstr "ରଙ୍ଗ ଯୋଜନା"
 
-#: desktopthemedetails.cpp:269
+#: desktopthemedetails.cpp:268
 msgctxt "plasma name"
 msgid "Panel Background"
 msgstr "ପ୍ୟାନେଲ ପୃଷ୍ଠଭୂମି"
 
-#: desktopthemedetails.cpp:270
+#: desktopthemedetails.cpp:269
 msgctxt "plasma name"
 msgid "Kickoff"
 msgstr "Kickoff"
 
-#: desktopthemedetails.cpp:271
+#: desktopthemedetails.cpp:270
 msgctxt "plasma name"
 msgid "Task Items"
 msgstr "କାର୍ଯ୍ୟ ବସ୍ତୁଗୁଡ଼ିକ"
 
-#: desktopthemedetails.cpp:272
+#: desktopthemedetails.cpp:271
 msgctxt "plasma name"
 msgid "Widget Background"
 msgstr "ୱିଜେଟ ପୃଷ୍ଠଭୂମି"
 
-#: desktopthemedetails.cpp:273
+#: desktopthemedetails.cpp:272
 msgctxt "plasma name"
 msgid "Translucent Background"
 msgstr "Translucent ପୃଷ୍ଠଭୂମି"
 
-#: desktopthemedetails.cpp:274
+#: desktopthemedetails.cpp:273
 msgctxt "plasma name"
 msgid "Dialog Background"
 msgstr "ସଂଳାପ ପୃଷ୍ଠଭୂମି"
 
-#: desktopthemedetails.cpp:275
+#: desktopthemedetails.cpp:274
 msgctxt "plasma name"
 msgid "Analog Clock"
 msgstr "ଅନୁରୂପ ଘଡ଼ି"
 
-#: desktopthemedetails.cpp:276
+#: desktopthemedetails.cpp:275
 msgctxt "plasma name"
 msgid "Notes"
 msgstr "ଟିପ୍ପଣୀ"
 
-#: desktopthemedetails.cpp:277
+#: desktopthemedetails.cpp:276
 msgctxt "plasma name"
 msgid "Tooltip"
 msgstr "ଉପକରଣ ସୂଚନା"
 
-#: desktopthemedetails.cpp:278
+#: desktopthemedetails.cpp:277
 msgctxt "plasma name"
 msgid "Pager"
 msgstr "ପେଜର"
 
-#: desktopthemedetails.cpp:279
+#: desktopthemedetails.cpp:278
 msgctxt "plasma name"
 msgid "Run Command Dialog"
 msgstr "ନିର୍ଦ୍ଦେଶନାମା ସଂଳାପ ଚଲାନ୍ତୁ"
 
-#: desktopthemedetails.cpp:280
+#: desktopthemedetails.cpp:279
 msgctxt "plasma name"
 msgid "Shutdown Dialog"
 msgstr "ସଂଳାପ ବନ୍ଦ କରନ୍ତୁ"
 
 #. i18n: file: DesktopThemeDetails.ui:25
 #. i18n: ectx: property (windowTitle), widget (QWidget, DesktopThemeItems)
-#: desktopthemedetails.cpp:290 desktopthemedetails.cpp:430 rc.cpp:3
+#: desktopthemedetails.cpp:289 rc.cpp:3
 msgid "Desktop Theme Details"
 msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବିବରଣୀ"
 
-#: desktopthemedetails.cpp:405 desktopthemedetails.cpp:420
-#: desktopthemedetails.cpp:481 desktopthemedetails.cpp:560
-#: desktopthemedetails.cpp:593
+#: desktopthemedetails.cpp:449
 msgid "(Customized)"
 msgstr "(ଇଚ୍ଛାମୁତାବକ)"
 
-#: desktopthemedetails.cpp:420
+#: desktopthemedetails.cpp:450
 msgid "User customized theme"
 msgstr "ଚାଳକ ଇଚ୍ଛାମୁତାବକ ପ୍ରସଙ୍ଗ"
 
-#: desktopthemedetails.cpp:430
-msgid "Unable to save theme."
-msgstr "ପ୍ରସଙ୍ଗ ସଂରକ୍ଷଣ କରିବାରେ ଅସମର୍ଥ।"
-
-#: desktopthemedetails.cpp:442
-#, kde-format
+#: desktopthemedetails.cpp:467
+#, fuzzy, kde-format
+#| msgid ""
+#| "To change your desktop theme to \"%1\", open\n"
+#| "Desktop Settings and select \"%2\" from the droplist."
 msgid ""
 "To change your desktop theme to \"%1\", open\n"
-"Desktop Settings and select \"%2\" from the droplist."
+" the desktop Appearance Settings and select \"%2\" from the droplist."
 msgstr ""
 "ଆପଣଙ୍କର ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗକୁ \"%1\"ରେ ପରିବର୍ତ୍ତନ କରିବା ପାଇଁ,\n"
 "ଡ଼େସ୍କଟପ ବିନ୍ୟାସକୁ ବାଛନ୍ତୁ ଏବଂ ଟଣା ତାଲିକାରୁ \"%2\" କୁ ବାଛନ୍ତୁ।"
 
-#: desktopthemedetails.cpp:442
+#: desktopthemedetails.cpp:467
 msgid "How to Change Desktop Theme"
 msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗକୁ କିପରି ପରିବର୍ତ୍ତନ କରିବେ"
 
-#: desktopthemedetails.cpp:453
+#: desktopthemedetails.cpp:478
 #, kde-format
 msgid ""
 "Theme items have been changed.  Do you still wish remove the \"%1\" theme?"
 msgstr "ପ୍ରସଙ୍ଗ ବସ୍ତୁଗୁଡ଼ିକ ପରିବର୍ତ୍ତିତ ହୋଇଛି।  ଆପଣ ଏପର୍ଯ୍ୟନ୍ତ \"%1\" ପ୍ରସଙ୍ଗକୁ କାଢ଼ିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
 
-#: desktopthemedetails.cpp:453 desktopthemedetails.cpp:458
-#: desktopthemedetails.cpp:461
+#: desktopthemedetails.cpp:478 desktopthemedetails.cpp:483
+#: desktopthemedetails.cpp:486
 msgid "Remove Desktop Theme"
 msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗକୁ କାଢ଼ିଦିଅନ୍ତୁ"
 
-#: desktopthemedetails.cpp:458
+#: desktopthemedetails.cpp:483
 msgid "Removal of the default KDE theme is not allowed."
 msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ KDE ପ୍ରସଙ୍ଗକୁ କାଢ଼ିବା ଅନୁମୋଦିତ ନୁହଁ।"
 
-#: desktopthemedetails.cpp:461
+#: desktopthemedetails.cpp:486
 #, kde-format
 msgid "Are you sure you wish remove the \"%1\" theme?"
 msgstr "ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ \"%1\" ପ୍ରସଙ୍ଗକୁ କାଢ଼ିବାକୁ ଚାହୁଁଛନ୍ତି?"
 
-#: desktopthemedetails.cpp:482
+#: desktopthemedetails.cpp:509
 msgid ""
 "Please apply theme item changes (with a new theme name) before attempting to "
 "export theme."
@@ -146,42 +143,42 @@ msgstr ""
 "ଦୟାକରି ପ୍ରସଙ୍ଗ ବସ୍ତୁ ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ପ୍ରୟୋଗ କରନ୍ତୁ (ଗୋଟିଏ ନୂତନ ପ୍ରସଙ୍ଗ ନାମ ସହିତ) ପ୍ରସଙ୍ଗ ପଠାଇବା "
 "ପୂର୍ବରୁ।"
 
-#: desktopthemedetails.cpp:482
+#: desktopthemedetails.cpp:509
 msgid "Export Desktop Theme"
 msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗକୁ ପଠାନ୍ତୁ "
 
-#: desktopthemedetails.cpp:498
+#: desktopthemedetails.cpp:516
 msgid "Export theme to file"
 msgstr "ପ୍ରସଙ୍ଗକୁ ଫାଇଲ ମଧ୍ୟକୁ ପଠାନ୍ତୁ"
 
-#: desktopthemedetails.cpp:533
+#: desktopthemedetails.cpp:611
 msgid "Theme Item"
 msgstr "ପ୍ରସଙ୍ଗ ବସ୍ତୁ"
 
-#: desktopthemedetails.cpp:533
+#: desktopthemedetails.cpp:611
 msgid "Source"
 msgstr "ଉତ୍ସ"
 
-#: desktopthemedetails.cpp:594
+#: desktopthemedetails.cpp:642
 #, kde-format
 msgid "%1 %2"
 msgstr "%1 %2"
 
-#: desktopthemedetails.cpp:603 desktopthemedetails.cpp:621
+#: desktopthemedetails.cpp:645 desktopthemedetails.cpp:671
 msgid "File..."
 msgstr "ଫାଇଲ..."
 
-#: desktopthemedetails.cpp:623
+#: desktopthemedetails.cpp:673
 #, kde-format
 msgid "Select File to Use for %1"
 msgstr "%1 ପାଇଁ ବ୍ୟବହାର କରିବାକୁ ଫାଇଲ ବାଛନ୍ତୁ "
 
-#: desktopthemedetails.cpp:660
+#: desktopthemedetails.cpp:717
 #, kde-format
 msgid " Author: %1"
 msgstr " ଲେଖକ: %1"
 
-#: desktopthemedetails.cpp:667
+#: desktopthemedetails.cpp:724
 #, kde-format
 msgid "Version: %1"
 msgstr "ସଂସ୍କରଣ: %1"
@@ -267,3 +264,6 @@ msgstr "ମନୋଜ କୁମାର ଗିରି"
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "mgiri@redhat.com"
+
+#~ msgid "Unable to save theme."
+#~ msgstr "ପ୍ରସଙ୍ଗ ସଂରକ୍ଷଣ କରିବାରେ ଅସମର୍ଥ।"
