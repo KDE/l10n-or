@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-02-20 05:36+0100\n"
+"POT-Creation-Date: 2009-02-22 05:36+0100\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -6189,7 +6189,7 @@ msgid "Reset Toolbars"
 msgstr "ସାଧନପଟିଗୁଡିକୁ ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ"
 
 #: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2958
-#: khtml/khtmlview.cpp:2991 khtml/html/html_formimpl.cpp:1782
+#: khtml/khtmlview.cpp:2991 khtml/html/html_formimpl.cpp:1801
 msgid "Reset"
 msgstr "ପୁନଃସ୍ଥାପନ କରନ୍ତୁ"
 
@@ -10188,7 +10188,7 @@ msgstr ""
 "ଏହି ଫର୍ମକୁ ଦାଖଲ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?</qt>"
 
 #: khtml/khtml_part.cpp:4632 khtml/khtmlview.cpp:2944 khtml/khtmlview.cpp:2986
-#: khtml/html/html_formimpl.cpp:1581 khtml/html/html_formimpl.cpp:1790
+#: khtml/html/html_formimpl.cpp:1604 khtml/html/html_formimpl.cpp:1809
 msgid "Submit"
 msgstr "ଦାଖଲ କରନ୍ତୁ"
 
@@ -10580,7 +10580,7 @@ msgstr "ଏହି ସନ୍ଧାନ ଦିଗ ପାଇଁ କୌଣସି ମ�
 msgid "This is a searchable index. Enter search keywords: "
 msgstr "ଏହା ଗୋଟିଏ ଖୋଜିବାଯୋଗ୍ୟ ଅନୁକ୍ରମଣିକା। ଖୋଜନ୍ତୁ ସୂଚକ ଶବ୍ଦ ଭରଣ କରନ୍ତୁ: "
 
-#: khtml/html/html_formimpl.cpp:366
+#: khtml/html/html_formimpl.cpp:389
 msgid ""
 "The following files will not be uploaded because they could not be found.\n"
 "Do you want to continue?"
@@ -10588,15 +10588,15 @@ msgstr ""
 "ନିମ୍ନଲିଖିତ ଫାଇଲମାନଙ୍କୁ ଲଦାଯିବ ନାହିଁ କାରଣ ସେମାନେ ମିଳିବେ ନାହିଁ।\n"
 "କଣ ଆପଣ ପ୍ରକୃତରେ ଆଗକୁ ବଢିବାକୁ ଚାହୁଁଛନ୍ତି?"
 
-#: khtml/html/html_formimpl.cpp:370
+#: khtml/html/html_formimpl.cpp:393
 msgid "Submit Confirmation"
 msgstr "ନିଶ୍ଚିତତା ଦାଖଲକରନ୍ତୁ"
 
-#: khtml/html/html_formimpl.cpp:370
+#: khtml/html/html_formimpl.cpp:393
 msgid "&Submit Anyway"
 msgstr "ଯେକୌଣସି ପ୍ରକାରେ ଦାଖଲକରନ୍ତୁ"
 
-#: khtml/html/html_formimpl.cpp:381
+#: khtml/html/html_formimpl.cpp:404
 msgid ""
 "You are about to transfer the following files from your local computer to "
 "the Internet.\n"
@@ -10605,31 +10605,31 @@ msgstr ""
 "ଆପଣ ନିମ୍ନଲିଖିତ ଫାଇଲମାନଙ୍କୁ ସ୍ଥାନୀୟ କମ୍ପୁଟରରୁ ଇଣ୍ଟରନେଟକୁ ସ୍ଥାନାନ୍ତରଣ କରିବାକୁ ଯାଉଛନ୍ତି।\n"
 "କଣ ଆପଣ ପ୍ରକୃତରେ ଆଗକୁ ବଢିବାକୁ ଚାହୁଁଛନ୍ତି?"
 
-#: khtml/html/html_formimpl.cpp:385
+#: khtml/html/html_formimpl.cpp:408
 msgid "Send Confirmation"
 msgstr "ନିଶ୍ଚିତତା ପଠାନ୍ତୁ"
 
-#: khtml/html/html_formimpl.cpp:385
+#: khtml/html/html_formimpl.cpp:408
 msgid "&Send Files"
 msgstr "ଫାଇଲ ପଠାନ୍ତୁ (&S)"
 
-#: khtml/html/html_formimpl.cpp:627
+#: khtml/html/html_formimpl.cpp:650
 msgid "Save Login Information"
 msgstr "ଲଗଇନ ସୂଟନାକୁ ସଂରକ୍ଷଣ କରନ୍ତୁ"
 
-#: khtml/html/html_formimpl.cpp:629
+#: khtml/html/html_formimpl.cpp:652
 msgid "Store"
 msgstr "ଭଣ୍ଡାର"
 
-#: khtml/html/html_formimpl.cpp:630
+#: khtml/html/html_formimpl.cpp:653
 msgid "Ne&ver for This Site"
 msgstr "ଏହି କାର୍ଯ୍ୟସ୍ଥଳ ପାଇଁ କଦାପି ନୁହଁ (&v)"
 
-#: khtml/html/html_formimpl.cpp:631
+#: khtml/html/html_formimpl.cpp:654
 msgid "Do Not Store"
 msgstr "ସଞ୍ଚୟ କରନ୍ତୁ ନାହିଁ"
 
-#: khtml/html/html_formimpl.cpp:640
+#: khtml/html/html_formimpl.cpp:663
 msgid ""
 "Konqueror has the ability to store the password in an encrypted wallet. When "
 "the wallet is unlocked, it can then automatically restore the login "
@@ -10637,7 +10637,7 @@ msgid ""
 "information now?"
 msgstr ""
 
-#: khtml/html/html_formimpl.cpp:645
+#: khtml/html/html_formimpl.cpp:668
 #, kde-format
 msgid ""
 "Konqueror has the ability to store the password in an encrypted wallet. When "
@@ -10645,7 +10645,7 @@ msgid ""
 "information next time you visit %1. Do you want to store the information now?"
 msgstr ""
 
-#: khtml/html/html_formimpl.cpp:2573
+#: khtml/html/html_formimpl.cpp:2592
 msgid "Key Generator"
 msgstr "କି ନିର୍ମାଣକାରୀ"
 
