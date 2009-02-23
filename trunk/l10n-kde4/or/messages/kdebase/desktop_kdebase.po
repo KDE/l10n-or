@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-02-22 09:04+0000\n"
+"POT-Creation-Date: 2009-02-23 08:57+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -37,18 +37,18 @@ msgctxt "Name"
 msgid "Dolphin View"
 msgstr "ଡଲଫିନ ଦୃଶ୍ୟ"
 
-#: apps/dolphin/src/dolphinpart.desktop:86
+#: apps/dolphin/src/dolphinpart.desktop:87
 #: runtime/kcontrol/icons/icons.desktop:14
 msgctxt "Name"
 msgid "Icons"
 msgstr "ଚିତ୍ର ସଂକେତଗୁଡ଼ିକ"
 
-#: apps/dolphin/src/dolphinpart.desktop:175
+#: apps/dolphin/src/dolphinpart.desktop:176
 msgctxt "Name"
 msgid "Details"
 msgstr "ବିସ୍ତୃତ ବିବରଣୀ"
 
-#: apps/dolphin/src/dolphinpart.desktop:252
+#: apps/dolphin/src/dolphinpart.desktop:253
 msgctxt "Name"
 msgid "Columns"
 msgstr "ସ୍ତମ୍ଭ"
@@ -61,7 +61,7 @@ msgctxt "Name"
 msgid "Dolphin General"
 msgstr "ଡଲଫିନ ଦୃଶ୍ୟ"
 
-#: apps/dolphin/src/kcm/kcmdolphingeneral.desktop:20
+#: apps/dolphin/src/kcm/kcmdolphingeneral.desktop:21
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "This service allows configuration of the Dolphin views."
@@ -69,14 +69,14 @@ msgctxt "Comment"
 msgid "This service allows configuration of general Dolphin settings."
 msgstr "ଏହି ସର୍ଭିସ ଡଲଫିନ ଦୃଶ୍ୟଗୁଡ଼ିକର ସଂରଚନାକୁ ଅନୁମତି ଦେଇଥାଏ।"
 
-#: apps/dolphin/src/kcm/kcmdolphingeneral.desktop:48
+#: apps/dolphin/src/kcm/kcmdolphingeneral.desktop:50
 #: apps/konqueror/settings/konqhtml/khtml_general.desktop:12
 #: workspace/systemsettings/categories/settings-general.desktop:8
 msgctxt "Name"
 msgid "General"
 msgstr "ସାଧାରଣ"
 
-#: apps/dolphin/src/kcm/kcmdolphingeneral.desktop:123
+#: apps/dolphin/src/kcm/kcmdolphingeneral.desktop:125
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -140,7 +140,7 @@ msgctxt "Name"
 msgid "View Modes"
 msgstr "ଦୃଶ୍ୟଗୁଡ଼ିକ"
 
-#: apps/dolphin/src/kcm/kcmdolphinviewmodes.desktop:66
+#: apps/dolphin/src/kcm/kcmdolphinviewmodes.desktop:67
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -183,7 +183,7 @@ msgctxt "Name"
 msgid "Qt Designer"
 msgstr "Qt ଅଭିକଳ୍ପକ"
 
-#: apps/kappfinder/apps/Development/designer.desktop:51
+#: apps/kappfinder/apps/Development/designer.desktop:52
 msgctxt "GenericName"
 msgid "Interface Designer"
 msgstr "ଅନ୍ତରାପୃଷ୍ଠ ଅଭିକଳ୍ପକ"
@@ -218,7 +218,7 @@ msgctxt "GenericName"
 msgid "J2ME Toolkit"
 msgstr "J2ME ଯନ୍ତ୍ରବାକ୍ସ"
 
-#: apps/kappfinder/apps/Development/j2mewtk.desktop:78
+#: apps/kappfinder/apps/Development/j2mewtk.desktop:79
 msgctxt "Name"
 msgid "J2ME"
 msgstr "J2ME"
@@ -2346,7 +2346,7 @@ msgid "Attached IEEE 1394 devices"
 msgstr "ସଂଲଗ୍ନ IEEE 1394 ଉପକରଣଗୁଡ଼ିକ"
 
 #: apps/konqueror/Home.desktop:7 runtime/kioslave/desktop/Home.desktop:3
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:2094
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:2099
 msgctxt "Name"
 msgid "Home"
 msgstr "ଘର"
@@ -6691,13 +6691,13 @@ msgid "Internal Services"
 msgstr "ଆଭ୍ୟନ୍ତରୀଣ ସର୍ଭିସଗୁଡ଼ିକ"
 
 #: runtime/menu/desktop/kde-development-translation.directory:4
-#: runtime/menu/desktop/kde-development-translation.directory:91
+#: runtime/menu/desktop/kde-development-translation.directory:92
 msgctxt "Name"
 msgid "Translation"
 msgstr "ଅନୁବାଦ"
 
 #: runtime/menu/desktop/kde-development-webdevelopment.directory:4
-#: runtime/menu/desktop/kde-development-webdevelopment.directory:90
+#: runtime/menu/desktop/kde-development-webdevelopment.directory:91
 msgctxt "Name"
 msgid "Web Development"
 msgstr "ୱେବ ବିକାଶ"
@@ -6847,7 +6847,7 @@ msgctxt "Name"
 msgid "Accessibility"
 msgstr "ଅଭିଗମ୍ୟତା"
 
-#: runtime/menu/desktop/kde-utilities-accessibility.directory:88
+#: runtime/menu/desktop/kde-utilities-accessibility.directory:89
 msgctxt "Comment"
 msgid "Accessibility"
 msgstr "ଅଭିଗମ୍ୟତା"
@@ -6859,7 +6859,7 @@ msgctxt "Name"
 msgid "Desktop"
 msgstr "ଡ଼େସ୍କଟପ"
 
-#: runtime/menu/desktop/kde-utilities-desktop.directory:85
+#: runtime/menu/desktop/kde-utilities-desktop.directory:86
 msgctxt "Comment"
 msgid "Desktop"
 msgstr "ଡ଼େସ୍କଟପ"
@@ -6869,7 +6869,7 @@ msgctxt "Name"
 msgid "File"
 msgstr "ଫାଇଲ"
 
-#: runtime/menu/desktop/kde-utilities-file.directory:86
+#: runtime/menu/desktop/kde-utilities-file.directory:87
 msgctxt "Comment"
 msgid "File"
 msgstr "ଫାଇଲ"
@@ -7104,7 +7104,7 @@ msgctxt "Comment"
 msgid "Strigi file indexing has been resumed"
 msgstr "Strigi ଫାଇଲ ଅନୁକ୍ରମଣ କ୍ରିୟାକୁ ପୁନଃ ଚଳନ କରାଯାଇଛି"
 
-#: runtime/phonon/kcm/kcm_phonon.desktop:75
+#: runtime/phonon/kcm/kcm_phonon.desktop:76
 msgctxt "Comment"
 msgid "Sound and Video Configuration"
 msgstr "ଧ୍ୱନି ଏବଂ ଭିଡ଼ିଓ ସଂରଚନା"
@@ -7139,12 +7139,12 @@ msgctxt "Name"
 msgid "Application"
 msgstr "ପ୍ରୟୋଗ"
 
-#: runtime/phonon/platform_kde/phonon.notifyrc:140
+#: runtime/phonon/platform_kde/phonon.notifyrc:141
 msgctxt "Name"
 msgid "Audio Device Fallback"
 msgstr "ଧ୍ୱନୀ ଉପକରଣ ନିବର୍ତ୍ତନ"
 
-#: runtime/phonon/platform_kde/phonon.notifyrc:199
+#: runtime/phonon/platform_kde/phonon.notifyrc:200
 msgctxt "Comment"
 msgid ""
 "Notification on automatic fallback if the preferred device is unavailable"
@@ -7178,7 +7178,7 @@ msgctxt "Name"
 msgid "Platform"
 msgstr "ପ୍ଲାଟିନମ"
 
-#: runtime/platforms/win/config/platform.desktop:23
+#: runtime/platforms/win/config/platform.desktop:24
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Window Manager"
@@ -7329,7 +7329,7 @@ msgctxt "Comment"
 msgid "Mouse keys has been enabled or disabled"
 msgstr "ମାଉସ କିଗୁଡ଼ିକୁ ସକ୍ରିୟ ଅଥବା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
 
-#: workspace/kcontrol/access/kcmaccess.desktop:98
+#: workspace/kcontrol/access/kcmaccess.desktop:99
 msgctxt "Comment"
 msgid "Improve accessibility for disabled persons"
 msgstr "ନିଷ୍କ୍ରିୟ ବ୍ୟକ୍ତିମାନଙ୍କ ପାଇଁ ଅଭିଗମ୍ୟତା ଉନ୍ନତ କରନ୍ତୁ"
@@ -7339,7 +7339,7 @@ msgctxt "Name"
 msgid "Autostart"
 msgstr "ସ୍ୱୟଂଚାଳନ"
 
-#: workspace/kcontrol/autostart/autostart.desktop:83
+#: workspace/kcontrol/autostart/autostart.desktop:84
 msgctxt "Comment"
 msgid "A configuration tool for managing which programs start up with KDE."
 msgstr ""
@@ -7360,7 +7360,7 @@ msgctxt "Name"
 msgid "Colors"
 msgstr "ରଙ୍ଗ"
 
-#: workspace/kcontrol/colors/colors.desktop:95
+#: workspace/kcontrol/colors/colors.desktop:96
 msgctxt "Comment"
 msgid "Color settings"
 msgstr "ରଙ୍ଗ ସଂରଚନା"
@@ -7370,7 +7370,7 @@ msgctxt "Name"
 msgid "Date & Time"
 msgstr "ତାରିଖ ଏବଂ ସମୟ"
 
-#: workspace/kcontrol/dateandtime/clock.desktop:97
+#: workspace/kcontrol/dateandtime/clock.desktop:98
 msgctxt "Comment"
 msgid "Date and time settings"
 msgstr "ତାରିଖ ଏବଂ ସମୟ ସଂରଚନା"
@@ -7391,7 +7391,7 @@ msgctxt "Name"
 msgid "Fonts"
 msgstr "ଅକ୍ଷର ରୂପ"
 
-#: workspace/kcontrol/fonts/fonts.desktop:97
+#: workspace/kcontrol/fonts/fonts.desktop:98
 msgctxt "Comment"
 msgid "Font settings"
 msgstr "ଅକ୍ଷର ରୂପ ସଂଚଚନା"
@@ -7423,7 +7423,7 @@ msgctxt "Name"
 msgid "Mouse"
 msgstr "ମାଉସ"
 
-#: workspace/kcontrol/input/mouse.desktop:95
+#: workspace/kcontrol/input/mouse.desktop:96
 msgctxt "Comment"
 msgid "Mouse settings"
 msgstr "ମାଉସ ବିନ୍ୟାସ"
@@ -7483,7 +7483,7 @@ msgctxt "Name"
 msgid "Login Manager"
 msgstr "ଲଗଇନ ପରିଚାଳକ"
 
-#: workspace/kcontrol/kdm/kdm.desktop:98
+#: workspace/kcontrol/kdm/kdm.desktop:99
 msgctxt "Comment"
 msgid "Configure the login manager (KDM)"
 msgstr "ଲଗଇନ ପରିଚାଳକଙ୍କୁ ବିନ୍ୟାସ କରନ୍ତୁ (KDM)"
@@ -7493,7 +7493,7 @@ msgctxt "Name"
 msgid "Keyboard"
 msgstr "କିବୋର୍ଡ଼"
 
-#: workspace/kcontrol/keyboard/keyboard.desktop:98
+#: workspace/kcontrol/keyboard/keyboard.desktop:99
 msgctxt "Comment"
 msgid "Keyboard settings"
 msgstr "କିବୋର୍ଡ଼ ସଂରଚନା"
@@ -7503,7 +7503,7 @@ msgctxt "Name"
 msgid "Global Keyboard Shortcuts"
 msgstr "ଜାଗତିକ କିବୋର୍ଡ଼ ସଂକ୍ଷିପ୍ତ ପଥ"
 
-#: workspace/kcontrol/keys/keys.desktop:77
+#: workspace/kcontrol/keys/keys.desktop:78
 msgctxt "Comment"
 msgid "Configuration of keybindings"
 msgstr "କିବନ୍ଧନଗୁଡ଼ିକର ସଂରଚନା"
@@ -7563,7 +7563,7 @@ msgctxt "Name"
 msgid "Font Installer"
 msgstr "ଅକ୍ଷରରୂପ ସ୍ଥାପକ"
 
-#: workspace/kcontrol/kfontinst/kcmfontinst/fontinst.desktop:94
+#: workspace/kcontrol/kfontinst/kcmfontinst/fontinst.desktop:95
 msgctxt "Comment"
 msgid "Install, manage, and preview fonts"
 msgstr "ଅକ୍ଷରରୂପଗୁଡ଼ିକୁ ସ୍ଥାପନ କରନ୍ତୁ, ପରିଚାଳନ କରନ୍ତୁ, ଏବଂ ପ୍ରାକଦର୍ଶନ କରନ୍ତୁ"
@@ -7588,7 +7588,7 @@ msgctxt "Name"
 msgid "Theme Manager"
 msgstr "ପ୍ରସଙ୍ଗ ପରିଚାଳକ"
 
-#: workspace/kcontrol/kthememanager/kthememanager.desktop:94
+#: workspace/kcontrol/kthememanager/kthememanager.desktop:95
 msgctxt "Comment"
 msgid "Manage global KDE visual themes"
 msgstr "ଜାଗତିକ KDE ଦୃଶ୍ୟମାନ ପ୍ରସଙ୍ଗଗୁଡ଼ିକୁ ପରିଚାଳନା କରନ୍ତୁ"
@@ -7598,7 +7598,7 @@ msgctxt "Name"
 msgid "Keyboard Layout"
 msgstr "କିବୋର୍ଡ଼ ବିନ୍ୟାସ"
 
-#: workspace/kcontrol/kxkb/keyboard_layout.desktop:99
+#: workspace/kcontrol/kxkb/keyboard_layout.desktop:100
 msgctxt "Comment"
 msgid "Keyboard Layout"
 msgstr "କିବୋର୍ଡ଼ ବିନ୍ୟାସ"
@@ -7679,7 +7679,7 @@ msgctxt "Name"
 msgid "Style"
 msgstr "ଶୈଳୀ"
 
-#: workspace/kcontrol/style/style.desktop:96
+#: workspace/kcontrol/style/style.desktop:97
 msgctxt "Comment"
 msgid ""
 "Allows the manipulation of widget behavior and changing the Style for KDE"
@@ -7690,7 +7690,7 @@ msgctxt "Name"
 msgid "Multiple Monitors"
 msgstr "ଏକାଧିକ ପ୍ରଦର୍ଶିକା"
 
-#: workspace/kcontrol/xinerama/xinerama.desktop:97
+#: workspace/kcontrol/xinerama/xinerama.desktop:98
 msgctxt "Comment"
 msgid "Configure KDE for multiple monitors"
 msgstr "ଏକାଧିକ ପ୍ରଦର୍ଶିକା ପାଇଁ KDEକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
@@ -8199,40 +8199,40 @@ msgctxt "Name"
 msgid "Examples"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:148
+#: workspace/khotkeys/data/kde32b1.khotkeys:149
 msgctxt "Comment"
 msgid ""
 "After pressing Ctrl+Alt+I, the KSIRC window will be activated, if it exists. "
 "Simple."
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:210
+#: workspace/khotkeys/data/kde32b1.khotkeys:211
 msgctxt "Name"
 msgid "Activate KSIRC Window"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:291
+#: workspace/khotkeys/data/kde32b1.khotkeys:292
 msgctxt "Comment"
 msgid "KSIRC window"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:368
+#: workspace/khotkeys/data/kde32b1.khotkeys:370
 msgctxt "Comment"
 msgid "KSIRC"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:388
-#: workspace/khotkeys/data/kde32b1.khotkeys:579
-#: workspace/khotkeys/data/kde32b1.khotkeys:791
-#: workspace/khotkeys/data/kde32b1.khotkeys:1150
-#: workspace/khotkeys/data/kde32b1.khotkeys:1498
-#: workspace/khotkeys/data/kde32b1.khotkeys:2539
+#: workspace/khotkeys/data/kde32b1.khotkeys:390
+#: workspace/khotkeys/data/kde32b1.khotkeys:581
+#: workspace/khotkeys/data/kde32b1.khotkeys:793
+#: workspace/khotkeys/data/kde32b1.khotkeys:1152
+#: workspace/khotkeys/data/kde32b1.khotkeys:1501
+#: workspace/khotkeys/data/kde32b1.khotkeys:2547
 #: workspace/khotkeys/data/printscreen.khotkeys:263
 msgctxt "Comment"
 msgid "Simple_action"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:450
+#: workspace/khotkeys/data/kde32b1.khotkeys:452
 msgctxt "Comment"
 msgid ""
 "After pressing Alt+Ctrl+H, 'Hello' input will be simulated just like if you "
@@ -8247,22 +8247,22 @@ msgid ""
 "'  (space)                              Space"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:498
+#: workspace/khotkeys/data/kde32b1.khotkeys:500
 msgctxt "Name"
 msgid "Type 'Hello'"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:641
+#: workspace/khotkeys/data/kde32b1.khotkeys:643
 msgctxt "Comment"
 msgid "This action runs Konsole, after pressing Ctrl+Alt+T."
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:704
+#: workspace/khotkeys/data/kde32b1.khotkeys:706
 msgctxt "Name"
 msgid "Run Konsole"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:853
+#: workspace/khotkeys/data/kde32b1.khotkeys:855
 msgctxt "Comment"
 msgid ""
 "Read the comment on action \"Type 'Hello'\" first.\\n\\nQt Designer uses Ctrl"
@@ -8280,17 +8280,17 @@ msgid ""
 "having that title."
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:898
+#: workspace/khotkeys/data/kde32b1.khotkeys:900
 msgctxt "Name"
 msgid "Remap Ctrl+W to Ctrl+F4 in Qt Designer"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:975
+#: workspace/khotkeys/data/kde32b1.khotkeys:977
 msgctxt "Comment"
 msgid "Qt Designer"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:1036
+#: workspace/khotkeys/data/kde32b1.khotkeys:1038
 msgctxt "Comment"
 msgid ""
 "By pressing Alt+Ctrl+W a D-Bus call will be performed that will show the "
@@ -8298,12 +8298,12 @@ msgid ""
 "line 'qdbus' tool."
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:1082
+#: workspace/khotkeys/data/kde32b1.khotkeys:1084
 msgctxt "Name"
 msgid "Perform D-Bus call 'kdesktop KDesktopIface popupExecuteCommand()'"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:1212
+#: workspace/khotkeys/data/kde32b1.khotkeys:1214
 msgctxt "Comment"
 msgid ""
 "Read the comment on action \"Type 'Hello'\" first.\\n\\nJust like the \"Type "
@@ -8316,22 +8316,22 @@ msgid ""
 "and search for WM_CLASS to see 'XMMS_Player')."
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:1256
+#: workspace/khotkeys/data/kde32b1.khotkeys:1258
 msgctxt "Name"
 msgid "Next in XMMS"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:1337
+#: workspace/khotkeys/data/kde32b1.khotkeys:1339
 msgctxt "Comment"
 msgid "XMMS window"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:1417
+#: workspace/khotkeys/data/kde32b1.khotkeys:1420
 msgctxt "Comment"
 msgid "XMMS Player window"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:1560
+#: workspace/khotkeys/data/kde32b1.khotkeys:1563
 msgctxt "Comment"
 msgid ""
 "Ok, Konqi in KDE3.1 has tabs, and now you can also have gestures. No need to "
@@ -8358,72 +8358,72 @@ msgid ""
 "the active window is Konqueror (class contains 'konqueror')."
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:1600
+#: workspace/khotkeys/data/kde32b1.khotkeys:1603
 msgctxt "Name"
 msgid "Konqi Gestures"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:1667
+#: workspace/khotkeys/data/kde32b1.khotkeys:1670
 #: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:147
 msgctxt "Comment"
 msgid "Konqueror window"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:1748
-#: workspace/khotkeys/data/kde32b1.khotkeys:1769
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:228
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:249
+#: workspace/khotkeys/data/kde32b1.khotkeys:1752
+#: workspace/khotkeys/data/kde32b1.khotkeys:1773
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:229
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:250
 msgctxt "Comment"
 msgid "Konqueror"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:1795
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:338
+#: workspace/khotkeys/data/kde32b1.khotkeys:1799
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:339
 msgctxt "Name"
 msgid "Back"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:1887
-#: workspace/khotkeys/data/kde32b1.khotkeys:2040
-#: workspace/khotkeys/data/kde32b1.khotkeys:2190
-#: workspace/khotkeys/data/kde32b1.khotkeys:2342
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:561
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:754
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:929
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:1128
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:1329
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:1392
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:1587
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:1785
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:1990
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:2190
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:2387
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:2585
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:2794
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:2998
+#: workspace/khotkeys/data/kde32b1.khotkeys:1892
+#: workspace/khotkeys/data/kde32b1.khotkeys:2046
+#: workspace/khotkeys/data/kde32b1.khotkeys:2197
+#: workspace/khotkeys/data/kde32b1.khotkeys:2350
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:564
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:758
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:933
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:1132
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:1333
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:1396
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:1591
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:1789
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:1995
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:2195
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:2393
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:2592
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:2802
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:3007
 msgctxt "Comment"
 msgid "Gesture_triggers"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:1948
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:1898
+#: workspace/khotkeys/data/kde32b1.khotkeys:1953
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:1902
 msgctxt "Name"
 msgid "Forward"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:2101
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:665
+#: workspace/khotkeys/data/kde32b1.khotkeys:2107
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:668
 msgctxt "Name"
 msgid "Up"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:2251
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:2907
+#: workspace/khotkeys/data/kde32b1.khotkeys:2258
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:2915
 msgctxt "Name"
 msgid "Reload"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:2401
+#: workspace/khotkeys/data/kde32b1.khotkeys:2409
 msgctxt "Comment"
 msgid ""
 "After pressing Win+E (Tux+E), WWW browser will be launched and it will open "
@@ -8431,7 +8431,7 @@ msgid ""
 "(Alt+F2)."
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:2455
+#: workspace/khotkeys/data/kde32b1.khotkeys:2463
 msgctxt "Name"
 msgid "Go to KDE Website"
 msgstr ""
@@ -8446,31 +8446,31 @@ msgctxt "Name"
 msgid "Konqueror Gestures"
 msgstr ""
 
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:273
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:274
 msgctxt "Comment"
 msgid "Press, move left, release."
 msgstr ""
 
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:418
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:420
 msgctxt "Comment"
 msgid ""
 "Opera-style: Press, move up, release.\\nNOTE: Conflicts with 'New Tab', and "
 "as such is disabled by default."
 msgstr ""
 
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:473
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:475
 msgctxt "Name"
 msgid "Stop Loading"
 msgstr ""
 
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:612
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:615
 msgctxt "Comment"
 msgid ""
 "Going up in URL/directory structure.\\nMozilla-style: Press, move up, move "
 "left, move up, release."
 msgstr ""
 
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:805
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:809
 msgctxt "Comment"
 msgid ""
 "Going up in URL/directory structure.\\nOpera-style: Press, move up, move "
@@ -8478,99 +8478,99 @@ msgid ""
 "and as such is disabled by default."
 msgstr ""
 
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:856
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:860
 msgctxt "Name"
 msgid "Up #2"
 msgstr ""
 
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:980
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:984
 msgctxt "Comment"
 msgid "Press, move up, move right, release."
 msgstr ""
 
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:1041
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:1045
 msgctxt "Name"
 msgid "Activate Next Tab"
 msgstr ""
 
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:1179
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:1183
 msgctxt "Comment"
 msgid "Press, move up, move left, release."
 msgstr ""
 
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:1241
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:1245
 msgctxt "Name"
 msgid "Activate Previous Tab"
 msgstr ""
 
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:1443
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:1447
 msgctxt "Comment"
 msgid "Press, move down, move up, move down, release."
 msgstr ""
 
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:1505
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:1509
 msgctxt "Name"
 msgid "Duplicate Tab"
 msgstr ""
 
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:1638
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:1642
 msgctxt "Comment"
 msgid "Press, move down, move up, release."
 msgstr ""
 
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:1700
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:1704
 msgctxt "Name"
 msgid "Duplicate Window"
 msgstr ""
 
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:1836
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:1840
 msgctxt "Comment"
 msgid "Press, move right, release."
 msgstr ""
 
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:2041
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:2046
 msgctxt "Comment"
 msgid ""
 "Press, move down, move half up, move right, move down, release.\\n(Drawing a "
 "lowercase 'h'.)"
 msgstr ""
 
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:2245
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:2250
 msgctxt "Comment"
 msgid ""
 "Press, move right, move down, move right, release.\\nMozilla-style: Press, "
 "move down, move right, release."
 msgstr ""
 
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:2299
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:2304
 msgctxt "Name"
 msgid "Close Tab"
 msgstr ""
 
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:2442
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:2448
 msgctxt "Comment"
 msgid ""
 "Press, move up, release.\\nConflicts with Opera-style 'Up #2', which is "
 "disabled by default."
 msgstr ""
 
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:2497
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:2503
 msgctxt "Name"
 msgid "New Tab"
 msgstr ""
 
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:2636
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:2643
 msgctxt "Comment"
 msgid "Press, move down, release."
 msgstr ""
 
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:2698
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:2705
 #: workspace/kwin/kwin.notifyrc:3232
 msgctxt "Name"
 msgid "New Window"
 msgstr ""
 
-#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:2845
+#: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:2853
 msgctxt "Comment"
 msgid "Press, move up, move down, release."
 msgstr ""
@@ -8634,90 +8634,90 @@ msgctxt "Description"
 msgid "Launch &Gwenview"
 msgstr ""
 
-#: workspace/klipper/klipperrc.desktop:163
+#: workspace/klipper/klipperrc.desktop:164
 msgctxt "Description"
 msgid "Web-URL"
 msgstr ""
 
-#: workspace/klipper/klipperrc.desktop:239
-#: workspace/klipper/klipperrc.desktop:1689
+#: workspace/klipper/klipperrc.desktop:240
+#: workspace/klipper/klipperrc.desktop:1705
 msgctxt "Description"
 msgid "Open with &default Browser"
 msgstr ""
 
-#: workspace/klipper/klipperrc.desktop:312
-#: workspace/klipper/klipperrc.desktop:1762
+#: workspace/klipper/klipperrc.desktop:314
+#: workspace/klipper/klipperrc.desktop:1779
 msgctxt "Description"
 msgid "Open with &Konqueror"
 msgstr ""
 
-#: workspace/klipper/klipperrc.desktop:397
-#: workspace/klipper/klipperrc.desktop:1846
+#: workspace/klipper/klipperrc.desktop:400
+#: workspace/klipper/klipperrc.desktop:1864
 msgctxt "Description"
 msgid "Open with &Mozilla"
 msgstr ""
 
-#: workspace/klipper/klipperrc.desktop:481
-#: workspace/klipper/klipperrc.desktop:1227
-#: workspace/klipper/klipperrc.desktop:1459
-#: workspace/klipper/klipperrc.desktop:1930
+#: workspace/klipper/klipperrc.desktop:485
+#: workspace/klipper/klipperrc.desktop:1239
+#: workspace/klipper/klipperrc.desktop:1473
+#: workspace/klipper/klipperrc.desktop:1949
 msgctxt "Description"
 msgid "Send &URL"
 msgstr ""
 
-#: workspace/klipper/klipperrc.desktop:565
+#: workspace/klipper/klipperrc.desktop:570
 msgctxt "Description"
 msgid "Open with &Firefox"
 msgstr ""
 
-#: workspace/klipper/klipperrc.desktop:646
+#: workspace/klipper/klipperrc.desktop:652
 msgctxt "Description"
 msgid "Send &Page"
 msgstr ""
 
-#: workspace/klipper/klipperrc.desktop:730
+#: workspace/klipper/klipperrc.desktop:737
 msgctxt "Description"
 msgid "Mail-URL"
 msgstr ""
 
-#: workspace/klipper/klipperrc.desktop:807
+#: workspace/klipper/klipperrc.desktop:814
 msgctxt "Description"
 msgid "Launch &Kmail"
 msgstr ""
 
-#: workspace/klipper/klipperrc.desktop:891
+#: workspace/klipper/klipperrc.desktop:899
 msgctxt "Description"
 msgid "Launch &mutt"
 msgstr ""
 
-#: workspace/klipper/klipperrc.desktop:974
+#: workspace/klipper/klipperrc.desktop:983
 msgctxt "Description"
 msgid "Text File"
 msgstr ""
 
-#: workspace/klipper/klipperrc.desktop:1060
+#: workspace/klipper/klipperrc.desktop:1070
 msgctxt "Description"
 msgid "Launch K&Write"
 msgstr ""
 
-#: workspace/klipper/klipperrc.desktop:1142
+#: workspace/klipper/klipperrc.desktop:1153
 msgctxt "Description"
 msgid "Local file URL"
 msgstr ""
 
-#: workspace/klipper/klipperrc.desktop:1310
-#: workspace/klipper/klipperrc.desktop:1542
-#: workspace/klipper/klipperrc.desktop:2013
+#: workspace/klipper/klipperrc.desktop:1323
+#: workspace/klipper/klipperrc.desktop:1557
+#: workspace/klipper/klipperrc.desktop:2033
 msgctxt "Description"
 msgid "Send &File"
 msgstr ""
 
-#: workspace/klipper/klipperrc.desktop:1394
+#: workspace/klipper/klipperrc.desktop:1408
 msgctxt "Description"
 msgid "Gopher URL"
 msgstr ""
 
-#: workspace/klipper/klipperrc.desktop:1626
+#: workspace/klipper/klipperrc.desktop:1642
 msgctxt "Description"
 msgid "ftp URL"
 msgstr ""
@@ -8737,20 +8737,20 @@ msgctxt "Name"
 msgid "Blank Screen"
 msgstr ""
 
-#: workspace/kscreensaver/kblank_screensaver/kblank.desktop:90
+#: workspace/kscreensaver/kblank_screensaver/kblank.desktop:91
 #: workspace/kscreensaver/krandom_screensaver/krandom.desktop:91
 msgctxt "Name"
 msgid "Setup..."
 msgstr ""
 
-#: workspace/kscreensaver/kblank_screensaver/kblank.desktop:174
-#: workspace/kscreensaver/krandom_screensaver/krandom.desktop:175
+#: workspace/kscreensaver/kblank_screensaver/kblank.desktop:176
+#: workspace/kscreensaver/krandom_screensaver/krandom.desktop:176
 msgctxt "Name"
 msgid "Display in Specified Window"
 msgstr ""
 
-#: workspace/kscreensaver/kblank_screensaver/kblank.desktop:256
-#: workspace/kscreensaver/krandom_screensaver/krandom.desktop:257
+#: workspace/kscreensaver/kblank_screensaver/kblank.desktop:258
+#: workspace/kscreensaver/krandom_screensaver/krandom.desktop:258
 msgctxt "Name"
 msgid "Display in Root Window"
 msgstr ""
@@ -8770,7 +8770,7 @@ msgctxt "Name"
 msgid "Session Manager"
 msgstr ""
 
-#: workspace/ksmserver/kcm/kcmsmserver.desktop:94
+#: workspace/ksmserver/kcm/kcmsmserver.desktop:95
 msgctxt "Comment"
 msgid "Configure the session manager and logout settings"
 msgstr ""
@@ -8790,22 +8790,22 @@ msgctxt "Comment"
 msgid "KDE System Guard"
 msgstr ""
 
-#: workspace/ksysguard/example/ksysguard.notifyrc:83
+#: workspace/ksysguard/example/ksysguard.notifyrc:84
 msgctxt "Name"
 msgid "Pattern Matched"
 msgstr ""
 
-#: workspace/ksysguard/example/ksysguard.notifyrc:149
+#: workspace/ksysguard/example/ksysguard.notifyrc:150
 msgctxt "Comment"
 msgid "Search pattern matched"
 msgstr ""
 
-#: workspace/ksysguard/example/ksysguard.notifyrc:220
+#: workspace/ksysguard/example/ksysguard.notifyrc:221
 msgctxt "Name"
 msgid "Sensor Alarm"
 msgstr ""
 
-#: workspace/ksysguard/example/ksysguard.notifyrc:285
+#: workspace/ksysguard/example/ksysguard.notifyrc:286
 msgctxt "Comment"
 msgid "Sensor exceeded critical limit"
 msgstr ""
@@ -9238,7 +9238,7 @@ msgctxt "Name"
 msgid "Sheet"
 msgstr "Stylesheets"
 
-#: workspace/kwin/effects/sheet/sheet.desktop:10
+#: workspace/kwin/effects/sheet/sheet.desktop:11
 msgctxt "Comment"
 msgid ""
 "Make modal dialogs smoothly fly in and out when they are shown or hidden"
@@ -9671,197 +9671,197 @@ msgctxt "Comment"
 msgid "Another window is activated"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:3313
+#: workspace/kwin/kwin.notifyrc:3314
 msgctxt "Comment"
 msgid "New window"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:3391
+#: workspace/kwin/kwin.notifyrc:3392
 msgctxt "Name"
 msgid "Delete Window"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:3462
+#: workspace/kwin/kwin.notifyrc:3463
 msgctxt "Comment"
 msgid "Delete window"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:3539
+#: workspace/kwin/kwin.notifyrc:3540
 msgctxt "Name"
 msgid "Window Close"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:3612
+#: workspace/kwin/kwin.notifyrc:3613
 msgctxt "Comment"
 msgid "A window closes"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:3691
+#: workspace/kwin/kwin.notifyrc:3692
 msgctxt "Name"
 msgid "Window Shade Up"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:3759
+#: workspace/kwin/kwin.notifyrc:3760
 msgctxt "Comment"
 msgid "A window is shaded up"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:3829
+#: workspace/kwin/kwin.notifyrc:3830
 msgctxt "Name"
 msgid "Window Shade Down"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:3896
+#: workspace/kwin/kwin.notifyrc:3897
 msgctxt "Comment"
 msgid "A window is shaded down"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:3964
+#: workspace/kwin/kwin.notifyrc:3965
 msgctxt "Name"
 msgid "Window Minimize"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:4037
+#: workspace/kwin/kwin.notifyrc:4038
 msgctxt "Comment"
 msgid "A window is minimized"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:4114
+#: workspace/kwin/kwin.notifyrc:4115
 msgctxt "Name"
 msgid "Window Unminimize"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:4182
+#: workspace/kwin/kwin.notifyrc:4183
 msgctxt "Comment"
 msgid "A Window is restored"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:4257
+#: workspace/kwin/kwin.notifyrc:4258
 msgctxt "Name"
 msgid "Window Maximize"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:4330
+#: workspace/kwin/kwin.notifyrc:4331
 msgctxt "Comment"
 msgid "A window is maximized"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:4406
+#: workspace/kwin/kwin.notifyrc:4407
 msgctxt "Name"
 msgid "Window Unmaximize"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:4477
+#: workspace/kwin/kwin.notifyrc:4478
 msgctxt "Comment"
 msgid "A window loses maximization"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:4549
+#: workspace/kwin/kwin.notifyrc:4550
 msgctxt "Name"
 msgid "Window on All Desktops"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:4617
+#: workspace/kwin/kwin.notifyrc:4618
 msgctxt "Comment"
 msgid "A window is made visible on all desktops"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:4691
+#: workspace/kwin/kwin.notifyrc:4692
 msgctxt "Name"
 msgid "Window Not on All Desktops"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:4756
+#: workspace/kwin/kwin.notifyrc:4757
 msgctxt "Comment"
 msgid "A Window is no longer visible on all desktops"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:4828
+#: workspace/kwin/kwin.notifyrc:4829
 msgctxt "Name"
 msgid "New Dialog"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:4905
+#: workspace/kwin/kwin.notifyrc:4906
 msgctxt "Comment"
 msgid "Transient window (a dialog) appears"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:4973
+#: workspace/kwin/kwin.notifyrc:4974
 msgctxt "Name"
 msgid "Delete Dialog"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5048
+#: workspace/kwin/kwin.notifyrc:5049
 msgctxt "Comment"
 msgid "Transient window (a dialog) is removed"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5117
+#: workspace/kwin/kwin.notifyrc:5118
 msgctxt "Name"
 msgid "Window Move Start"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5187
+#: workspace/kwin/kwin.notifyrc:5188
 msgctxt "Comment"
 msgid "A window has begun moving"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5256
+#: workspace/kwin/kwin.notifyrc:5257
 msgctxt "Name"
 msgid "Window Move End"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5327
+#: workspace/kwin/kwin.notifyrc:5328
 msgctxt "Comment"
 msgid "A window has completed its moving"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5397
+#: workspace/kwin/kwin.notifyrc:5398
 msgctxt "Name"
 msgid "Window Resize Start"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5468
+#: workspace/kwin/kwin.notifyrc:5469
 msgctxt "Comment"
 msgid "A window has begun resizing"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5537
+#: workspace/kwin/kwin.notifyrc:5538
 msgctxt "Name"
 msgid "Window Resize End"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5608
+#: workspace/kwin/kwin.notifyrc:5609
 msgctxt "Comment"
 msgid "A window has finished resizing"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5677
+#: workspace/kwin/kwin.notifyrc:5678
 msgctxt "Name"
 msgid "Window on Current Desktop Demands Attention"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5737
+#: workspace/kwin/kwin.notifyrc:5738
 msgctxt "Comment"
 msgid "A window on the current virtual desktop demands attention"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5802
+#: workspace/kwin/kwin.notifyrc:5803
 msgctxt "Name"
 msgid "Window on Other Desktop Demands Attention"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5862
+#: workspace/kwin/kwin.notifyrc:5863
 msgctxt "Comment"
 msgid "A window on an inactive virtual desktop demands attention"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5924
+#: workspace/kwin/kwin.notifyrc:5925
 msgctxt "Name"
 msgid "Compositing Performance Is Slow"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5972
+#: workspace/kwin/kwin.notifyrc:5974
 msgctxt "Comment"
 msgid ""
 "The compositing performance was too slow and compositing has been suspended"
@@ -9944,7 +9944,7 @@ msgctxt "Name"
 msgid "Activity Bar"
 msgstr ""
 
-#: workspace/plasma/applets/activitybar/plasma-applet-activitybar.desktop:57
+#: workspace/plasma/applets/activitybar/plasma-applet-activitybar.desktop:59
 msgctxt "Comment"
 msgid "Tabbar to switch activities"
 msgstr ""
@@ -9976,7 +9976,7 @@ msgctxt "Name"
 msgid "Calendar"
 msgstr ""
 
-#: workspace/plasma/applets/calendar/plasma-applet-calendar.desktop:62
+#: workspace/plasma/applets/calendar/plasma-applet-calendar.desktop:63
 msgctxt "Comment"
 msgid "View and pick dates from the calendar"
 msgstr ""
@@ -10004,7 +10004,7 @@ msgctxt "Name"
 msgid "Digital Clock"
 msgstr "ସାଂଖିକ ଘଡ଼ି"
 
-#: workspace/plasma/applets/digital-clock/plasma-applet-digitalclock.desktop:78
+#: workspace/plasma/applets/digital-clock/plasma-applet-digitalclock.desktop:79
 msgctxt "Comment"
 msgid "Time displayed in a digital format"
 msgstr "ସାଂଖିକ ଶୈଳୀରେ ସମୟ ପ୍ରଦର୍ଶନ"
@@ -10014,7 +10014,7 @@ msgctxt "Name"
 msgid "Icon"
 msgstr "ଚିତ୍ର ସଂକେତ"
 
-#: workspace/plasma/applets/icon/plasma-applet-icon.desktop:76
+#: workspace/plasma/applets/icon/plasma-applet-icon.desktop:77
 msgctxt "Comment"
 msgid "A generic icon"
 msgstr "ଗୋଟିଏ ସାମାନ୍ୟ ଚିତ୍ର ସଂକେତ"
@@ -10074,7 +10074,7 @@ msgctxt "Name"
 msgid "System Monitor - CPU"
 msgstr "ତନ୍ତ୍ର ନିରିକ୍ଷକ - CPU"
 
-#: workspace/plasma/applets/system-monitor/plasma-applet-sm_cpu.desktop:64
+#: workspace/plasma/applets/system-monitor/plasma-applet-sm_cpu.desktop:65
 msgctxt "Comment"
 msgid "A CPU usage monitor"
 msgstr "ଗୋଟିଏ CPU ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
@@ -10084,7 +10084,7 @@ msgctxt "Name"
 msgid "System Monitor - Hard Disk"
 msgstr "ତନ୍ତ୍ର ନିରିକ୍ଷକ - ହାର୍ଡ଼ଡ଼ିସ୍କ"
 
-#: workspace/plasma/applets/system-monitor/plasma-applet-sm_hdd.desktop:63
+#: workspace/plasma/applets/system-monitor/plasma-applet-sm_hdd.desktop:64
 msgctxt "Comment"
 msgid "A hard disk usage monitor"
 msgstr "ଗୋଟିଏ ହାର୍ଡ଼ଡ଼ିସ୍କ ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
@@ -10094,7 +10094,7 @@ msgctxt "Name"
 msgid "System Monitor - Hardware Info"
 msgstr "ତନ୍ତ୍ର ନିରିକ୍ଷକ - ହାର୍ଡ଼ୱେର ସୂଚନା"
 
-#: workspace/plasma/applets/system-monitor/plasma-applet-sm_hwinfo.desktop:63
+#: workspace/plasma/applets/system-monitor/plasma-applet-sm_hwinfo.desktop:64
 msgctxt "Comment"
 msgid "Show hardware info"
 msgstr "ହାର୍ଡ଼ୱେର ସୂଚନା ଦର୍ଶାନ୍ତୁ"
@@ -10104,7 +10104,7 @@ msgctxt "Name"
 msgid "System Monitor - Network"
 msgstr "ତନ୍ତ୍ର ନିରିକ୍ଷକ - ନେଟୱର୍କ"
 
-#: workspace/plasma/applets/system-monitor/plasma-applet-sm_net.desktop:64
+#: workspace/plasma/applets/system-monitor/plasma-applet-sm_net.desktop:65
 msgctxt "Comment"
 msgid "A network usage monitor"
 msgstr "ଗୋଟିଏ ନେଟୱର୍କ ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
@@ -10114,12 +10114,12 @@ msgctxt "Name"
 msgid "System Monitor - Temperature"
 msgstr "ତନ୍ତ୍ର ନିରିକ୍ଷକ - ଉତ୍ତାପ"
 
-#: workspace/plasma/applets/system-monitor/plasma-applet-sm_temperature.desktop:64
+#: workspace/plasma/applets/system-monitor/plasma-applet-sm_temperature.desktop:65
 msgctxt "Comment"
 msgid "A system temperature monitor"
 msgstr "ତନ୍ତ୍ର ଉତ୍ତାପ ନିରିକ୍ଷକ"
 
-#: workspace/plasma/applets/system-monitor/plasma-applet-system-monitor.desktop:75
+#: workspace/plasma/applets/system-monitor/plasma-applet-system-monitor.desktop:76
 msgctxt "Comment"
 msgid "System monitoring applet"
 msgstr "ତନ୍ତ୍ର ନିରିକ୍ଷଣ ଆପଲେଟ"
@@ -10152,7 +10152,7 @@ msgctxt "Name"
 msgid "Task Manager"
 msgstr "କାର୍ଯ୍ୟ ପରିଚାଳକ"
 
-#: workspace/plasma/applets/tasks/plasma-tasks-default.desktop:74
+#: workspace/plasma/applets/tasks/plasma-tasks-default.desktop:75
 msgctxt "Comment"
 msgid "Switch between running applications"
 msgstr "ଚାଲୁଥିବା ପ୍ରୟୋଗଗୁଡ଼ିକ ମଧ୍ଯରେ ଅଦଳ ବଦଳ କରନ୍ତୁ"
@@ -10172,7 +10172,7 @@ msgctxt "Comment"
 msgid "A simple web browser"
 msgstr "ଗୋଟିଏ ସରଳ ୱେବ ବ୍ରାଉଜର"
 
-#: workspace/plasma/containments/desktop/plasma-containment-desktop.desktop:82
+#: workspace/plasma/containments/desktop/plasma-containment-desktop.desktop:83
 msgctxt "Comment"
 msgid "Default desktop containment"
 msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ ଡ଼େସ୍କଟପ ଧାରଣ"
@@ -10183,7 +10183,7 @@ msgid "Panel for Mobile Internet Devices"
 msgstr "ମୋବାଇଲ ଇଣ୍ଟର୍ନେଟ ଉପକରଣ ପାଇଁ ଫଳକ"
 
 #: workspace/plasma/containments/mid-panel/plasma-containment-midpanel.desktop:53
-#: workspace/plasma/containments/panel/plasma-containment-panel.desktop:65
+#: workspace/plasma/containments/panel/plasma-containment-panel.desktop:66
 msgctxt "Comment"
 msgid "A containment for a panel"
 msgstr "ଫଳକ ପାଇଁ ଗୋଟିଏ ପ୍ୟାନେଲ"
@@ -10203,12 +10203,12 @@ msgctxt "Name"
 msgid "Application Job Information"
 msgstr "ପ୍ରୟୋଗ କାର୍ଯ୍ୟ ସୂଚନା"
 
-#: workspace/plasma/dataengines/applicationjobs/plasma-dataengine-applicationjobs.desktop:54
+#: workspace/plasma/dataengines/applicationjobs/plasma-dataengine-applicationjobs.desktop:55
 msgctxt "Comment"
 msgid "Kuiserver data for Plasmoids"
 msgstr "Plasmoids ପାଇଁ Kuiserver ତଥ୍ୟ"
 
-#: workspace/plasma/dataengines/calendar/plasma-dataengine-calendar.desktop:62
+#: workspace/plasma/dataengines/calendar/plasma-dataengine-calendar.desktop:63
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Calendar Manager"
@@ -10231,7 +10231,7 @@ msgctxt "Name"
 msgid "Run Commands"
 msgstr "ନିର୍ଦ୍ଦେଶଗୁଡ଼ିକୁ ଚଲାନ୍ତୁ"
 
-#: workspace/plasma/dataengines/executable/plasma-dataengine-executable.desktop:63
+#: workspace/plasma/dataengines/executable/plasma-dataengine-executable.desktop:64
 msgctxt "Comment"
 msgid "Run Executable Data Engine"
 msgstr "ନିଷ୍ପାଦ୍ୟ ତଥ୍ୟ ଯନ୍ତ୍ର ଚଲାନ୍ତୁ"
@@ -10251,7 +10251,7 @@ msgctxt "Name"
 msgid "Files and Directories"
 msgstr "ଫାଇଲ ଏବଂ ଡ଼ିରେକ୍ଟୋରୀଗୁଡ଼ିକ"
 
-#: workspace/plasma/dataengines/filebrowser/plasma-dataengine-filebrowser.desktop:62
+#: workspace/plasma/dataengines/filebrowser/plasma-dataengine-filebrowser.desktop:63
 msgctxt "Comment"
 msgid "Info about files and directories for Plasmoids"
 msgstr ""
@@ -10276,7 +10276,7 @@ msgctxt "Name"
 msgid "Networking"
 msgstr "ନେଟୱର୍କିଙ୍ଗ"
 
-#: workspace/plasma/dataengines/network/plasma-dataengine-network.desktop:63
+#: workspace/plasma/dataengines/network/plasma-dataengine-network.desktop:64
 msgctxt "Comment"
 msgid "Network information for Plasmoids"
 msgstr "ପ୍ଲାଜମଏଡ଼ ପାଇଁ ନେଟୱର୍କ ସୂଚନା"
@@ -10291,7 +10291,7 @@ msgctxt "Name"
 msgid "Now Playing"
 msgstr "ବର୍ତ୍ତମାନ ଚାଲୁଅଛି"
 
-#: workspace/plasma/dataengines/nowplaying/plasma-dataengine-nowplaying.desktop:61
+#: workspace/plasma/dataengines/nowplaying/plasma-dataengine-nowplaying.desktop:62
 msgctxt "Comment"
 msgid "Lists currently playing music"
 msgstr ""
@@ -10302,7 +10302,7 @@ msgctxt "Name"
 msgid "Places"
 msgstr "ସ୍ଥାନଗୁଡ଼ିକ"
 
-#: workspace/plasma/dataengines/places/plasma-dataengine-places.desktop:61
+#: workspace/plasma/dataengines/places/plasma-dataengine-places.desktop:62
 msgctxt "Comment"
 msgid "Places data for Plasmoids"
 msgstr "Plasmoids ପାଇଁ ତଥ୍ୟ ରଖନ୍ତୁ"
@@ -10329,12 +10329,12 @@ msgctxt "Name"
 msgid "Device Information"
 msgstr "ଯନ୍ତ୍ର ସୂଚନା"
 
-#: workspace/plasma/dataengines/soliddevice/plasma-dataengine-soliddevice.desktop:62
+#: workspace/plasma/dataengines/soliddevice/plasma-dataengine-soliddevice.desktop:63
 msgctxt "Comment"
 msgid "SolidDevice data for Plasmoids"
 msgstr "Plasmoids ପାଇଁ SolidDevice ତଥ୍ୟ"
 
-#: workspace/plasma/dataengines/systemmonitor/plasma-dataengine-systemmonitor.desktop:76
+#: workspace/plasma/dataengines/systemmonitor/plasma-dataengine-systemmonitor.desktop:77
 msgctxt "Comment"
 msgid "System information for Plasmoids"
 msgstr "ପ୍ଲାଜମଏଡ଼ ପାଇଁ ତନ୍ତ୍ର ସୂଚନା"
@@ -10350,8 +10350,8 @@ msgctxt "Name"
 msgid "Date and Time"
 msgstr "ତାରିଖ ଏବଂ ସମୟ"
 
-#: workspace/plasma/dataengines/time/plasma-dataengine-time.desktop:63
-#: workspace/plasma/scriptengines/ruby/examples/dataengines/time/metadata.desktop:63
+#: workspace/plasma/dataengines/time/plasma-dataengine-time.desktop:64
+#: workspace/plasma/scriptengines/ruby/examples/dataengines/time/metadata.desktop:64
 msgctxt "Comment"
 msgid "Time data for Plasmoids"
 msgstr "Plasmoids ପାଇଁ ସମୟ ତଥ୍ୟ"
@@ -10406,7 +10406,7 @@ msgctxt "Name"
 msgid "Calculator"
 msgstr "କାଲକୁଲେଟର"
 
-#: workspace/plasma/runners/calculator/plasma-runner-calculator.desktop:69
+#: workspace/plasma/runners/calculator/plasma-runner-calculator.desktop:70
 msgctxt "Comment"
 msgid "Calculate expressions"
 msgstr "ଅଭିବ୍ୟକ୍ତିଗୁଡ଼ିକୁ ଗଣନା କରନ୍ତୁ"
@@ -10416,7 +10416,7 @@ msgctxt "Name"
 msgid "Locations"
 msgstr "ସ୍ଥାନଗୁଡ଼ିକ"
 
-#: workspace/plasma/runners/locations/plasma-runner-locations.desktop:66
+#: workspace/plasma/runners/locations/plasma-runner-locations.desktop:67
 msgctxt "Comment"
 msgid "File and URL opener"
 msgstr "ଫାଇଲ ଏବଂ URL ଖୋଲା"
@@ -10431,7 +10431,7 @@ msgctxt "Comment"
 msgid "KRunner which performs desktop searches via Nepomuk"
 msgstr ""
 
-#: workspace/plasma/runners/places/plasma-runner-places.desktop:64
+#: workspace/plasma/runners/places/plasma-runner-places.desktop:65
 msgctxt "Comment"
 msgid "Open Devices and Folder Bookmarks"
 msgstr "ଉପକରଣଗୁଡ଼ିକୁ ଏବଂ ଫୋଲଡ଼ର ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକୁ ଖୋଲନ୍ତୁ"
@@ -10462,7 +10462,7 @@ msgctxt "Name"
 msgid "Desktop Sessions"
 msgstr "ଡ଼େସ୍କଟପ ଅଧିବେଶନଗୁଡ଼ିକ"
 
-#: workspace/plasma/runners/sessions/plasma-runner-sessions.desktop:65
+#: workspace/plasma/runners/sessions/plasma-runner-sessions.desktop:66
 msgctxt "Comment"
 msgid "Fast user switching"
 msgstr "ପ୍ରଥମ ଚାଳକ ପରିବର୍ତ୍ତନ ହେଉଅଛି"
@@ -10472,7 +10472,7 @@ msgctxt "Name"
 msgid "Command Line"
 msgstr "ନିର୍ଦ୍ଦେଶନାମା"
 
-#: workspace/plasma/runners/shell/plasma-runner-shell.desktop:67
+#: workspace/plasma/runners/shell/plasma-runner-shell.desktop:68
 msgctxt "Comment"
 msgid "Executes shell commands"
 msgstr "ସେଲ ନିର୍ଦ୍ଦେଶଗୁଡ଼ିକୁ ନିଷ୍ପାଦନ କରନ୍ତୁ"
@@ -10512,7 +10512,7 @@ msgctxt "Name"
 msgid "JavaScript Widget"
 msgstr "JavaScript ୱିଜେଟ"
 
-#: workspace/plasma/scriptengines/javascript/plasma-scriptengine-applet-simple-javascript.desktop:59
+#: workspace/plasma/scriptengines/javascript/plasma-scriptengine-applet-simple-javascript.desktop:60
 msgctxt "Comment"
 msgid "Native Plasma widget written in JavaScript"
 msgstr "JavaScriptରେ ଲିଖିତ ସ୍ଥାନୀୟ ପ୍ଲାଜମା ୱିଜେଟ"
@@ -10522,7 +10522,7 @@ msgctxt "Name"
 msgid "JavaScript Runner"
 msgstr "JavaScript ଚାଳକ"
 
-#: workspace/plasma/scriptengines/javascript/plasma-scriptengine-runner-javascript.desktop:57
+#: workspace/plasma/scriptengines/javascript/plasma-scriptengine-runner-javascript.desktop:58
 msgctxt "Comment"
 msgid "JavaScript Runner"
 msgstr "JavaScript ଚାଳକ"
@@ -10594,7 +10594,7 @@ msgctxt "Name"
 msgid "Python Date and Time"
 msgstr "ପାଇଥନ ତାରିଖ ଏବଂ ସମୟ"
 
-#: workspace/plasma/scriptengines/python/examples/dataengines/pytime/metadata.desktop:58
+#: workspace/plasma/scriptengines/python/examples/dataengines/pytime/metadata.desktop:59
 msgctxt "Comment"
 msgid "Python Time data for Plasmoids"
 msgstr "ପ୍ଲାଜମଏଡ଼ ପାଇଁ ପାଇଥନ ସମୟ ତଥ୍ୟ"
@@ -10604,7 +10604,7 @@ msgctxt "Name"
 msgid "Python Widget"
 msgstr "ପାଇଥନ ୱିଜେଟ"
 
-#: workspace/plasma/scriptengines/python/plasma-scriptengine-applet-python.desktop:54
+#: workspace/plasma/scriptengines/python/plasma-scriptengine-applet-python.desktop:55
 msgctxt "Comment"
 msgid "Plasma widget support written in Python"
 msgstr "ପାଇଥନରେ ଲିଖିତ ପ୍ଲାଜମା ୱିଜେଟ ସମର୍ଥନ"
@@ -10624,7 +10624,7 @@ msgctxt "Name"
 msgid "QEdje"
 msgstr "QEdje"
 
-#: workspace/plasma/scriptengines/qedjescript/plasma-appletscript-qedje.desktop:6
+#: workspace/plasma/scriptengines/qedjescript/plasma-appletscript-qedje.desktop:7
 msgctxt "Comment"
 msgid "QEdje Gadgets"
 msgstr "QEdje ମେସିନଗୁଡ଼ିକ"
@@ -10659,7 +10659,7 @@ msgctxt "Name"
 msgid "DBpedia queries"
 msgstr "DBpedia ପ୍ରଶ୍ନଗୁଡ଼ିକ"
 
-#: workspace/plasma/scriptengines/ruby/examples/dataengines/dbpedia_albums/metadata.desktop:51
+#: workspace/plasma/scriptengines/ruby/examples/dataengines/dbpedia_albums/metadata.desktop:52
 msgctxt "Comment"
 msgid "DBpedia data for Plasmoids"
 msgstr "Plasmoids ପାଇଁ DBpedia ତଥ୍ୟ"
@@ -10670,8 +10670,8 @@ msgctxt "Name"
 msgid "Ruby Widget"
 msgstr "ରୁବି ୱିଜେଟ"
 
-#: workspace/plasma/scriptengines/ruby/plasma-scriptengine-ruby-applet.desktop:56
-#: workspace/plasma/scriptengines/ruby/plasma-scriptengine-ruby-dataengine.desktop:56
+#: workspace/plasma/scriptengines/ruby/plasma-scriptengine-ruby-applet.desktop:57
+#: workspace/plasma/scriptengines/ruby/plasma-scriptengine-ruby-dataengine.desktop:57
 msgctxt "Comment"
 msgid "Native Plasma widget written in Ruby"
 msgstr "Ruby ରେ ଲେଖା ହୋଇଥିବା ସ୍ଥାନୀୟ ପ୍ଲାଜମା ୱିଜେଟ"
@@ -10691,7 +10691,7 @@ msgctxt "Name"
 msgid "Web Widgets"
 msgstr "ୱେବ ୱିଜେଟଗୁଡ଼ିକ"
 
-#: workspace/plasma/scriptengines/webkit/plasma-packagestructure-web.desktop:57
+#: workspace/plasma/scriptengines/webkit/plasma-packagestructure-web.desktop:58
 msgctxt "Comment"
 msgid "HTML widget"
 msgstr "HTML ୱିଜେଟ"
@@ -10711,7 +10711,7 @@ msgctxt "Name"
 msgid "Web Widget"
 msgstr "ୱେବ ୱିଜେଟ"
 
-#: workspace/plasma/scriptengines/webkit/plasma-scriptengine-applet-web.desktop:62
+#: workspace/plasma/scriptengines/webkit/plasma-scriptengine-applet-web.desktop:63
 msgctxt "Comment"
 msgid "Webpage widget using HTML and JavaScript"
 msgstr "HTML ଏବଂ JavaScript ବ୍ୟବହାର କରି ୱେବ ପୃଷ୍ଠା ୱିଜେଟ"
@@ -10726,7 +10726,7 @@ msgctxt "Name"
 msgid "Desktop Theme Details"
 msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବିବରଣୀ"
 
-#: workspace/plasma/tools/desktopthemedetails/desktopthemedetails.desktop:67
+#: workspace/plasma/tools/desktopthemedetails/desktopthemedetails.desktop:68
 msgctxt "Comment"
 msgid "Customize individual desktop theme items"
 msgstr "ବ୍ୟକ୍ତିଗତ ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବସ୍ତୁଗୁଡ଼ିକୁ ଇଚ୍ଛାରୂପଣ କରୁଅଛି"
@@ -10737,12 +10737,12 @@ msgid "Color"
 msgstr "ରଙ୍ଗ"
 
 #: workspace/plasma/wallpapers/image/plasma-wallpaper-image.desktop:3
-#: workspace/plasma/wallpapers/image/plasma-wallpaper-image.desktop:78
+#: workspace/plasma/wallpapers/image/plasma-wallpaper-image.desktop:79
 msgctxt "Name"
 msgid "Image"
 msgstr "ପ୍ରତିଛବି"
 
-#: workspace/plasma/wallpapers/image/plasma-wallpaper-image.desktop:143
+#: workspace/plasma/wallpapers/image/plasma-wallpaper-image.desktop:145
 msgctxt "Name"
 msgid "Slideshow"
 msgstr "ସ୍ଲାଇଡ଼ ଦୃଶ୍ୟ"
@@ -10820,69 +10820,69 @@ msgctxt "Name"
 msgid "AC adaptor plugged in"
 msgstr "AC ଏଡ଼ପଟର ପ୍ଲଗ ହୋଇଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:827
+#: workspace/powerdevil/powerdevil.notifyrc:828
 msgctxt "Comment"
 msgid "The power adaptor has been plugged in"
 msgstr "ଶକ୍ତି ଏଡ଼ପଟରକୁ ପ୍ଲଗରେ ଲଗାହୋଇଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:888
+#: workspace/powerdevil/powerdevil.notifyrc:890
 msgctxt "Name"
 msgid "AC adaptor unplugged"
 msgstr "AC ଏଡ଼ପଟର ପ୍ଲଗ ହୋଇନାହିଁ"
 
-#: workspace/powerdevil/powerdevil.notifyrc:943
+#: workspace/powerdevil/powerdevil.notifyrc:946
 msgctxt "Comment"
 msgid "The power adaptor has been unplugged"
 msgstr "ଶକ୍ତି ଏଡ଼ପଟରଟି ପ୍ଲଗ ହୋଇନାହିଁ"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1004
+#: workspace/powerdevil/powerdevil.notifyrc:1008
 msgctxt "Name"
 msgid "Job error"
 msgstr "କାର୍ଯ୍ୟ ତ୍ରୁଟି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1058
+#: workspace/powerdevil/powerdevil.notifyrc:1063
 msgctxt "Comment"
 msgid "There was an error while performing a job"
 msgstr "କାର୍ଯ୍ୟ କରିବା ସମୟରେ ଗୋଟିଏ ତ୍ରୁଟି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1116
+#: workspace/powerdevil/powerdevil.notifyrc:1122
 msgctxt "Name"
 msgid "Profile Changed"
 msgstr "ରୂପରେଖଟି ପରିବର୍ତ୍ତିତ ହୋଇଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1169
+#: workspace/powerdevil/powerdevil.notifyrc:1176
 msgctxt "Comment"
 msgid "The profile was changed"
 msgstr "ରୂପରେଖଟି ପରିବର୍ତ୍ତିତ ହୋଇଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1226
+#: workspace/powerdevil/powerdevil.notifyrc:1234
 msgctxt "Name"
 msgid "Performing a suspension job"
 msgstr "ଗୋଟିଏ ନିଲମ୍ବିତ କାର୍ଯ୍ୟ କରୁଅଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1273
+#: workspace/powerdevil/powerdevil.notifyrc:1281
 msgctxt "Comment"
 msgid ""
 "This notification is displayed when a suspension job is about to be done, "
 "and it triggers a countdown. Hence, it is strongly advised to leave it on."
 msgstr ""
 
-#: workspace/powerdevil/powerdevil.notifyrc:1321
+#: workspace/powerdevil/powerdevil.notifyrc:1329
 msgctxt "Name"
 msgid "Internal PowerDevil Error"
 msgstr "ଆଭ୍ୟନ୍ତରୀଣ PowerDevil ତ୍ରୁଟି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1375
+#: workspace/powerdevil/powerdevil.notifyrc:1383
 msgctxt "Comment"
 msgid "PowerDevil has triggered an internal error"
 msgstr "PowerDevil ଗୋଟିଏ ଆଭ୍ୟନ୍ତରୀଣ ତ୍ରୁଟିକୁ ଆରମ୍ଭ କରିଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1430
+#: workspace/powerdevil/powerdevil.notifyrc:1438
 msgctxt "Name"
 msgid "Suspension inhibited"
 msgstr ""
 
-#: workspace/powerdevil/powerdevil.notifyrc:1476
+#: workspace/powerdevil/powerdevil.notifyrc:1484
 msgctxt "Comment"
 msgid "The suspension has been inhibited because an application requested it"
 msgstr ""
@@ -10912,7 +10912,7 @@ msgctxt "Name"
 msgid "Hardware"
 msgstr "ହାର୍ଡୱେର"
 
-#: workspace/solid/kcm/kcm_solid.desktop:72
+#: workspace/solid/kcm/kcm_solid.desktop:73
 msgctxt "Comment"
 msgid "Hardware Integration Configuration with Solid"
 msgstr "କଠିନ ସହିତ ହାର୍ଡୱେର ସଂଯୋଗ ବିନ୍ୟାସ"
@@ -11019,7 +11019,7 @@ msgctxt "GenericName"
 msgid "System Settings"
 msgstr "ତନ୍ତ୍ର ବିନ୍ୟାସ"
 
-#: workspace/systemsettings/systemsettings.desktop:79
+#: workspace/systemsettings/systemsettings.desktop:80
 msgctxt "Name"
 msgid "System Settings"
 msgstr "ତନ୍ତ୍ର ବିନ୍ୟାସ"
