@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-02-25 07:07+0100\n"
+"POT-Creation-Date: 2009-02-26 06:25+0100\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1790,7 +1790,7 @@ msgstr ""
 "indent:0px;\">(do not know yet)</p></body></html>"
 
 #: kjs/object.cpp:584 kdeui/dialogs/kmessagebox.cpp:832
-#: kdeui/dialogs/kmessagebox.cpp:865 khtml/rendering/render_form.cpp:614
+#: kdeui/dialogs/kmessagebox.cpp:865 khtml/rendering/render_form.cpp:688
 msgid "Error"
 msgstr "ତ୍ରୁଟି"
 
@@ -6188,8 +6188,8 @@ msgstr ""
 msgid "Reset Toolbars"
 msgstr "ସାଧନପଟିଗୁଡିକୁ ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ"
 
-#: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2958
-#: khtml/khtmlview.cpp:2991 khtml/html/html_formimpl.cpp:1801
+#: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2949
+#: khtml/khtmlview.cpp:2982 khtml/html/html_formimpl.cpp:1801
 msgid "Reset"
 msgstr "ପୁନଃସ୍ଥାପନ କରନ୍ତୁ"
 
@@ -9334,7 +9334,7 @@ msgstr "ଉପରକୁ ଗତିକରନ୍ତୁ (&G)"
 msgid "Move &Down"
 msgstr "ତଳକୁ ଗତିକରନ୍ତୁ (&D)"
 
-#: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:737
+#: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:811
 msgid "Clear &History"
 msgstr "ଇତିହାସ ସଫାକରନ୍ତୁ (&H)"
 
@@ -10187,7 +10187,7 @@ msgstr ""
 "<qt>ଏହି ଫର୍ମଟି ଦାଖଲ ହେବ <br /><b>%1</b><br />ଆପଣଙ୍କର ସ୍ଥାନୀୟ ଫାଇଲତନ୍ତ୍ରରେ।<br />ଆପଣ "
 "ଏହି ଫର୍ମକୁ ଦାଖଲ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?</qt>"
 
-#: khtml/khtml_part.cpp:4632 khtml/khtmlview.cpp:2944 khtml/khtmlview.cpp:2986
+#: khtml/khtml_part.cpp:4632 khtml/khtmlview.cpp:2935 khtml/khtmlview.cpp:2977
 #: khtml/html/html_formimpl.cpp:1604 khtml/html/html_formimpl.cpp:1809
 msgid "Submit"
 msgstr "ଦାଖଲ କରନ୍ତୁ"
@@ -10297,39 +10297,39 @@ msgstr ""
 msgid "Remove from ignores..."
 msgstr ""
 
-#: khtml/khtmlview.cpp:1913
+#: khtml/khtmlview.cpp:1904
 msgid "Find stopped."
 msgstr "ଖୋଜିବା ବନ୍ଦ ହୋଇଯାଇଛି।"
 
-#: khtml/khtmlview.cpp:1924
+#: khtml/khtmlview.cpp:1915
 msgid "Starting -- find links as you type"
 msgstr ""
 
-#: khtml/khtmlview.cpp:1930
+#: khtml/khtmlview.cpp:1921
 msgid "Starting -- find text as you type"
 msgstr ""
 
-#: khtml/khtmlview.cpp:1953
+#: khtml/khtmlview.cpp:1944
 #, kde-format
 msgid "Link found: \"%1\"."
 msgstr "ସଂଯୋଗ ମିଳିଲା: \"%1\"।"
 
-#: khtml/khtmlview.cpp:1958
+#: khtml/khtmlview.cpp:1949
 #, kde-format
 msgid "Link not found: \"%1\"."
 msgstr "ସଂଯୋଗ ମିଳିଲା ନାହିଁ: \"%1\"।"
 
-#: khtml/khtmlview.cpp:1966
+#: khtml/khtmlview.cpp:1957
 #, kde-format
 msgid "Text found: \"%1\"."
 msgstr "ପାଠ୍ୟ ମିଳିଲା: \"%1\"।"
 
-#: khtml/khtmlview.cpp:1971
+#: khtml/khtmlview.cpp:1962
 #, kde-format
 msgid "Text not found: \"%1\"."
 msgstr "ପାଠ୍ୟ ମିଳିଲା ନାହିଁ: \"%1\"।"
 
-#: khtml/khtmlview.cpp:2014
+#: khtml/khtmlview.cpp:2005
 msgid "Access Keys activated"
 msgstr ""
 
@@ -10765,30 +10765,30 @@ msgstr "ବହୁଭାଗୀୟ/ମିଶ୍ରିତ ପାଇଁ ସନ୍ନ
 msgid "Copyright 2001, David Faure <email>david@mandrakesoft.com</email>"
 msgstr "Copyright 2001, David Faure <email>david@mandrakesoft.com</email>"
 
-#: khtml/rendering/render_form.cpp:593
+#: khtml/rendering/render_form.cpp:667
 msgid "New Web Shortcut"
 msgstr "ନୂତନ ୱେବ ସଂକ୍ଷିପ୍ତ ପଥ"
 
-#: khtml/rendering/render_form.cpp:614
+#: khtml/rendering/render_form.cpp:688
 #, kde-format
 msgid "%1 is already assigned to %2"
 msgstr "%1 କୁ ପୂର୍ବରୁ %2 କୁ ନିର୍ଦ୍ଧିଷ୍ଟ କରାଯାଇଛି"
 
-#: khtml/rendering/render_form.cpp:659
+#: khtml/rendering/render_form.cpp:733
 #, fuzzy
 #| msgid "New search provider"
 msgid "Search &provider name:"
 msgstr "ନୂତନ ଅନ୍ୱେଷଣ ପ୍ରଦାତା"
 
-#: khtml/rendering/render_form.cpp:661
+#: khtml/rendering/render_form.cpp:735
 msgid "New search provider"
 msgstr "ନୂତନ ଅନ୍ୱେଷଣ ପ୍ରଦାତା"
 
-#: khtml/rendering/render_form.cpp:666
+#: khtml/rendering/render_form.cpp:740
 msgid "UR&I shortcuts:"
 msgstr "URI ସଂକ୍ଷିପ୍ତ ପଥ (&I):"
 
-#: khtml/rendering/render_form.cpp:752
+#: khtml/rendering/render_form.cpp:826
 msgid "Create Web Shortcut"
 msgstr "ୱେବ ସଂକ୍ଷିପ୍ତ ପଥ ବିନ୍ୟାସ କରନ୍ତୁ"
 
