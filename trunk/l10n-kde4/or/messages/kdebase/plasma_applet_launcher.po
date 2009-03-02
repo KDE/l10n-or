@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_launcher\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-03-01 10:33+0100\n"
+"POT-Creation-Date: 2009-03-02 09:56+0100\n"
 "PO-Revision-Date: 2009-01-02 11:50+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "\n"
 "\n"
 
-#: ui/flipscrollview.cpp:138 simpleapplet/simpleapplet.cpp:441
+#: ui/flipscrollview.cpp:138
 msgid "All Applications"
 msgstr ""
 
@@ -51,12 +51,12 @@ msgstr ""
 msgid "Safely Remove"
 msgstr ""
 
-#: ui/launcher.cpp:159 simpleapplet/simpleapplet.cpp:197
+#: ui/launcher.cpp:159 simpleapplet/simpleapplet.cpp:164
 msgid "Leave"
 msgstr ""
 
 #: ui/launcher.cpp:170 core/favoritesmodel.cpp:44
-#: simpleapplet/simpleapplet.cpp:191
+#: simpleapplet/simpleapplet.cpp:151
 msgid "Favorites"
 msgstr ""
 
@@ -69,11 +69,11 @@ msgid "Sort Alphabetically (Z to A)"
 msgstr ""
 
 #: ui/launcher.cpp:199 core/recentlyusedmodel.cpp:115 core/systemmodel.cpp:88
-#: core/searchmodel.cpp:135 simpleapplet/simpleapplet.cpp:193
+#: core/searchmodel.cpp:135 simpleapplet/simpleapplet.cpp:153
 msgid "Applications"
 msgstr ""
 
-#: ui/launcher.cpp:211 simpleapplet/simpleapplet.cpp:195
+#: ui/launcher.cpp:211 simpleapplet/simpleapplet.cpp:155
 msgid "Recently Used"
 msgstr ""
 
@@ -85,7 +85,7 @@ msgstr ""
 msgid "Clear Recent Documents"
 msgstr ""
 
-#: ui/launcher.cpp:231 simpleapplet/simpleapplet.cpp:194
+#: ui/launcher.cpp:231 simpleapplet/simpleapplet.cpp:154
 msgid "Computer"
 msgstr ""
 
@@ -105,7 +105,7 @@ msgstr ""
 msgid "Search:"
 msgstr ""
 
-#: core/leavemodel.cpp:49
+#: core/leavemodel.cpp:49 simpleapplet/simpleapplet.cpp:163
 msgid "Logout"
 msgstr ""
 
@@ -121,7 +121,7 @@ msgstr ""
 msgid "Lock the screen"
 msgstr ""
 
-#: core/leavemodel.cpp:57 simpleapplet/simpleapplet.cpp:456
+#: core/leavemodel.cpp:57 simpleapplet/simpleapplet.cpp:160
 msgid "Switch User"
 msgstr ""
 
@@ -146,7 +146,7 @@ msgstr ""
 msgid "Restart computer"
 msgstr ""
 
-#: core/leavemodel.cpp:69 simpleapplet/simpleapplet.cpp:461
+#: core/leavemodel.cpp:69 simpleapplet/simpleapplet.cpp:161
 msgid "Save Session"
 msgstr ""
 
@@ -234,7 +234,7 @@ msgid ""
 "sessions"
 msgstr ""
 
-#: applet/applet.cpp:107 simpleapplet/simpleapplet.cpp:274
+#: applet/applet.cpp:107 simpleapplet/simpleapplet.cpp:267
 msgid "Menu Editor"
 msgstr ""
 
@@ -246,7 +246,7 @@ msgstr ""
 msgid "Switch tabs on hover"
 msgstr ""
 
-#: applet/applet.cpp:154 simpleapplet/simpleapplet.cpp:362
+#: applet/applet.cpp:154
 msgid "General"
 msgstr ""
 
@@ -260,81 +260,84 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
-#: simpleapplet/simpleapplet.cpp:190
-msgid "Standard"
-msgstr ""
-
-#: simpleapplet/simpleapplet.cpp:192
+#: simpleapplet/simpleapplet.cpp:152
 msgid "Bookmarks"
 msgstr ""
 
-#: simpleapplet/simpleapplet.cpp:196
+#: simpleapplet/simpleapplet.cpp:156
+msgid "Recently Used Applications"
+msgstr ""
+
+#: simpleapplet/simpleapplet.cpp:157
+msgid "Recently Used Documents"
+msgstr ""
+
+#: simpleapplet/simpleapplet.cpp:158
 msgid "System Settings"
 msgstr ""
 
-#: simpleapplet/simpleapplet.cpp:217
+#: simpleapplet/simpleapplet.cpp:159
+msgid "Run Command"
+msgstr ""
+
+#: simpleapplet/simpleapplet.cpp:162
+msgid "Lock Screen"
+msgstr ""
+
+#: simpleapplet/simpleapplet.cpp:201
+msgid "Classic Application Launcher"
+msgstr ""
+
+#: simpleapplet/simpleapplet.cpp:201
 msgid "Traditional menu based application launcher"
 msgstr ""
 
-#: simpleapplet/simpleapplet.cpp:280
+#: simpleapplet/simpleapplet.cpp:273
 msgid "Switch to Kickoff Menu Style"
 msgstr ""
 
-#: simpleapplet/simpleapplet.cpp:326
-msgctxt "@label:listbox Which category of items to view in a KMenu-like menu"
-msgid "View:"
+#: simpleapplet/simpleapplet.cpp:331
+msgid "View"
 msgstr ""
 
-#: simpleapplet/simpleapplet.cpp:334
+#: simpleapplet/simpleapplet.cpp:337
+msgid "Icon:"
+msgstr ""
+
+#: simpleapplet/simpleapplet.cpp:344
 msgctxt "@label:listbox How to present applications in a KMenu-like menu"
 msgid "Format:"
 msgstr ""
 
-#: simpleapplet/simpleapplet.cpp:338
+#: simpleapplet/simpleapplet.cpp:348
 msgctxt "@item:inlistbox Format:"
 msgid "Name Only"
 msgstr ""
 
-#: simpleapplet/simpleapplet.cpp:339
+#: simpleapplet/simpleapplet.cpp:349
 msgctxt "@item:inlistbox Format:"
 msgid "Description Only"
 msgstr ""
 
-#: simpleapplet/simpleapplet.cpp:340
+#: simpleapplet/simpleapplet.cpp:350
 msgctxt "@item:inlistbox Format:"
 msgid "Name Description"
 msgstr ""
 
-#: simpleapplet/simpleapplet.cpp:341
+#: simpleapplet/simpleapplet.cpp:351
 msgctxt "@item:inlistbox Format:"
 msgid "Description (Name)"
 msgstr ""
 
-#: simpleapplet/simpleapplet.cpp:342
+#: simpleapplet/simpleapplet.cpp:352
 msgctxt "@item:inlistbox Format:"
 msgid "Name - Description"
 msgstr ""
 
-#: simpleapplet/simpleapplet.cpp:345
+#: simpleapplet/simpleapplet.cpp:356
 msgid "Recently Used Applications:"
 msgstr ""
 
-#: simpleapplet/simpleapplet.cpp:436
-msgid "Recently Used Applications"
-msgstr ""
-
-#: simpleapplet/simpleapplet.cpp:452
-msgid "Actions"
-msgstr ""
-
-#: simpleapplet/simpleapplet.cpp:453
-msgid "Run Command..."
-msgstr ""
-
-#: simpleapplet/simpleapplet.cpp:465
-msgid "Lock Screen"
-msgstr ""
-
-#: simpleapplet/simpleapplet.cpp:467
-msgid "Leave..."
+#: simpleapplet/simpleapplet.cpp:366
+msgid "Options"
 msgstr ""
