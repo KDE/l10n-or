@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-03-01 10:32+0100\n"
+"POT-Creation-Date: 2009-03-03 10:19+0100\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -8035,24 +8035,30 @@ msgstr "ଏଠାରେ ଗୋଟିଏ ଖୋଜାଯିବା ପଦ କି�
 
 #: kdeui/widgets/kcharselect.cpp:354
 #, fuzzy
-#| msgid "Back"
+#| msgctxt "@action"
+#| msgid "Previous Item in List"
 msgctxt "Goes to previous character"
-msgid "Back"
-msgstr "ପଛକୁ"
+msgid "Previous in History"
+msgstr "ତାଲିକାରେ ପୂର୍ବବର୍ତ୍ତୀ ବସ୍ତୁ"
 
 #: kdeui/widgets/kcharselect.cpp:356
-msgid "Previous Character"
+#, fuzzy
+#| msgid "Previous Character"
+msgid "Previous Character in History"
 msgstr "ପୂର୍ବ ଅକ୍ଷର"
 
 #: kdeui/widgets/kcharselect.cpp:361
 #, fuzzy
-#| msgid "Forward"
+#| msgctxt "@action"
+#| msgid "Next Item in List"
 msgctxt "Goes to next character"
-msgid "Forward"
-msgstr "ଆଗକୁ"
+msgid "Next in History"
+msgstr "ତାଲିକାରେ ପରବର୍ତ୍ତୀ ବସ୍ତୁ"
 
 #: kdeui/widgets/kcharselect.cpp:363
-msgid "Next Character"
+#, fuzzy
+#| msgid "Next Character"
+msgid "Next Character in History"
 msgstr "ପରବର୍ତ୍ତି ଅକ୍ଷର"
 
 #: kdeui/widgets/kcharselect.cpp:371
@@ -8071,121 +8077,114 @@ msgstr "ଅକ୍ଷରରୂପ ସଜାନ୍ତୁ"
 msgid "Set font size"
 msgstr "ଅକ୍ଷରରୂପ ଆକାର ସଜାନ୍ତୁ"
 
-#: kdeui/widgets/kcharselect.cpp:633 kdeui/widgets/kcharselect.cpp:885
-#: kdeui/widgets/kcharselect-translation.cpp:43
-msgctxt "KCharselect unicode block name"
-msgid "Combining Diacritical Marks"
-msgstr "ସଂଯୋଜକ ବିଭେଦ ସୂଚକ ଚିହ୍ନ"
-
-#: kdeui/widgets/kcharselect.cpp:636 kdeui/widgets/kcharselect.cpp:638
+#: kdeui/widgets/kcharselect.cpp:625
 msgid "Character:"
 msgstr "ଅକ୍ଷର:"
 
-#: kdeui/widgets/kcharselect.cpp:638 kdeui/widgets/kcharselect.cpp:889
-msgid "Non-printable"
-msgstr "ମୁଦ୍ରଣ ଅଯୋଗ୍ୟ"
-
-#: kdeui/widgets/kcharselect.cpp:642
+#: kdeui/widgets/kcharselect.cpp:631
 msgid "Name: "
 msgstr "ନାମ: "
 
-#: kdeui/widgets/kcharselect.cpp:650
+#: kdeui/widgets/kcharselect.cpp:639
 msgid "Annotations and Cross References"
 msgstr "ଟୀକା ଏବଂ ପ୍ରତିନିର୍ଦ୍ଦେଶ"
 
-#: kdeui/widgets/kcharselect.cpp:654
+#: kdeui/widgets/kcharselect.cpp:643
 msgid "Alias names:"
 msgstr "ଛଦ୍ମ ନାମ:"
 
-#: kdeui/widgets/kcharselect.cpp:662
+#: kdeui/widgets/kcharselect.cpp:651
 msgid "Notes:"
 msgstr "ଟିପ୍ପଣୀ:"
 
-#: kdeui/widgets/kcharselect.cpp:670
+#: kdeui/widgets/kcharselect.cpp:659
 msgid "See also:"
 msgstr "ଏଥିରେ ମଧ୍ଯ ଦେଖନ୍ତୁ:"
 
-#: kdeui/widgets/kcharselect.cpp:682
+#: kdeui/widgets/kcharselect.cpp:671
 msgid "Equivalents:"
 msgstr "ସମତୁଲ୍ଯତା:"
 
-#: kdeui/widgets/kcharselect.cpp:690
+#: kdeui/widgets/kcharselect.cpp:679
 msgid "Approximate equivalents:"
 msgstr "ପାଖାପାଖି ସମତୁଲ୍ଯତା:"
 
-#: kdeui/widgets/kcharselect.cpp:699
+#: kdeui/widgets/kcharselect.cpp:688
 msgid "CJK Ideograph Information"
 msgstr "CJK ସାଙ୍କେତିକ ରୂପ ବିଷୟରେ ସୂଚନା"
 
-#: kdeui/widgets/kcharselect.cpp:702
+#: kdeui/widgets/kcharselect.cpp:691
 msgid "Definition in English: "
 msgstr "ଇଂରାଜୀରେ ବ୍ୟାଖ୍ୟା: "
 
-#: kdeui/widgets/kcharselect.cpp:707
+#: kdeui/widgets/kcharselect.cpp:696
 msgid "Mandarin Pronunciation: "
 msgstr "ମାଣ୍ଡାରିନ ଉଚ୍ଚାରଣ: "
 
-#: kdeui/widgets/kcharselect.cpp:712
+#: kdeui/widgets/kcharselect.cpp:701
 msgid "Cantonese Pronunciation: "
 msgstr "କ୍ୟାଣ୍ଟୋନିଜ ଉଚ୍ଚାରଣ: "
 
-#: kdeui/widgets/kcharselect.cpp:717
+#: kdeui/widgets/kcharselect.cpp:706
 msgid "Japanese On Pronunciation: "
 msgstr "ଜାପାନୀଜ ଅନ ଉଚ୍ଚାରଣ: "
 
-#: kdeui/widgets/kcharselect.cpp:722
+#: kdeui/widgets/kcharselect.cpp:711
 msgid "Japanese Kun Pronunciation: "
 msgstr "ଜାପାନୀଜ କୁନ ଉଚ୍ଚାରଣ: "
 
-#: kdeui/widgets/kcharselect.cpp:727
+#: kdeui/widgets/kcharselect.cpp:716
 msgid "Tang Pronunciation: "
 msgstr "ଟାଙ୍ଗ ଉଚ୍ଚାରଣ: "
 
-#: kdeui/widgets/kcharselect.cpp:732
+#: kdeui/widgets/kcharselect.cpp:721
 msgid "Korean Pronunciation: "
 msgstr "କୋରିୟାନ ଉଚ୍ଚାରଣ: "
 
-#: kdeui/widgets/kcharselect.cpp:738
+#: kdeui/widgets/kcharselect.cpp:727
 msgid "General Character Properties"
 msgstr "ସାଧାରଣ ଅକ୍ଷର ଗୁଣଧର୍ମ"
 
-#: kdeui/widgets/kcharselect.cpp:739
+#: kdeui/widgets/kcharselect.cpp:728
 msgid "Block: "
 msgstr "ଖଣ୍ଡ: "
 
-#: kdeui/widgets/kcharselect.cpp:740
+#: kdeui/widgets/kcharselect.cpp:729
 msgid "Unicode category: "
 msgstr "ୟୁନିକୋର୍ଡ ବିଭାଗ: "
 
-#: kdeui/widgets/kcharselect.cpp:744
+#: kdeui/widgets/kcharselect.cpp:733
 msgid "Various Useful Representations"
 msgstr "ବିଭିନ୍ନ ଉପଯୋଗୀ ବର୍ଣ୍ଣନା"
 
-#: kdeui/widgets/kcharselect.cpp:745
+#: kdeui/widgets/kcharselect.cpp:734
 msgid "UTF-8:"
 msgstr "UTF-8:"
 
-#: kdeui/widgets/kcharselect.cpp:748
+#: kdeui/widgets/kcharselect.cpp:737
 msgid "UTF-16: "
 msgstr "UTF-16: "
 
-#: kdeui/widgets/kcharselect.cpp:749
+#: kdeui/widgets/kcharselect.cpp:738
 msgid "C octal escaped UTF-8: "
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:752
+#: kdeui/widgets/kcharselect.cpp:741
 msgid "XML decimal entity:"
 msgstr "XML ଦଶମିକ ସତ୍ତା:"
 
-#: kdeui/widgets/kcharselect.cpp:891
-#, kde-format
+#: kdeui/widgets/kcharselect.cpp:870
+#, fuzzy
+#| msgid "Unicode category: "
+msgid "Unicode code point:"
+msgstr "ୟୁନିକୋର୍ଡ ବିଭାଗ: "
+
+#: kdeui/widgets/kcharselect.cpp:871
+#, fuzzy
+#| msgid "XML decimal entity:"
 msgctxt "Character"
-msgid ""
-"<qt><font size=\"+4\" face=\"%1\">%2</font><br />%3<br />Unicode code point: "
-"%4<br />(In decimal: %5)</qt>"
-msgstr ""
-"<qt><font size=\"+4\" face=\"%1\">%2</font><br />%3<br />Unicode code point: "
-"%4<br />(In decimal: %5)</qt>"
+msgid "In decimal:"
+msgstr "XML ଦଶମିକ ସତ୍ତା:"
 
 #: kdeui/widgets/kcharselect-translation.cpp:23
 msgctxt "KCharSelect section name"
@@ -8248,6 +8247,7 @@ msgid "Phonetic Symbols"
 msgstr "ଫୋନେଟିକ ପ୍ରତୀକ"
 
 #: kdeui/widgets/kcharselect-translation.cpp:35
+#: kdeui/widgets/kcharselectdata.cpp:572
 msgctxt "KCharSelect section name"
 msgid "Combining Diacritical Marks"
 msgstr "ସଂଯୋଜକ ବିଭେଦ ସୂଚକ ଚିହ୍ନ"
@@ -8286,6 +8286,11 @@ msgstr "IPA ଅନୁଲଗ୍ନ"
 msgctxt "KCharselect unicode block name"
 msgid "Spacing Modifier Letters"
 msgstr "ଶୂନ୍ଯସ୍ଥାନ ରୂପାନ୍ତରକ ଅକ୍ଷର"
+
+#: kdeui/widgets/kcharselect-translation.cpp:43
+msgctxt "KCharselect unicode block name"
+msgid "Combining Diacritical Marks"
+msgstr "ସଂଯୋଜକ ବିଭେଦ ସୂଚକ ଚିହ୍ନ"
 
 #: kdeui/widgets/kcharselect-translation.cpp:44
 msgctxt "KCharselect unicode block name"
@@ -9139,147 +9144,151 @@ msgctxt "@action"
 msgid "Superscript"
 msgstr "ଉର୍ଦ୍ଧଲିପି"
 
-#: kdeui/widgets/kcharselectdata.cpp:236
+#: kdeui/widgets/kcharselectdata.cpp:241
 msgid "<Non Private Use High Surrogate>"
 msgstr "<ସାର୍ବଜନୀକ ଉପଯୋଗୀ ଉଚ୍ଚ ପ୍ରତିନିଧି>"
 
-#: kdeui/widgets/kcharselectdata.cpp:238
+#: kdeui/widgets/kcharselectdata.cpp:243
 msgid "<Private Use High Surrogate>"
 msgstr "<ବ୍ଯକ୍ତିଗତ ଉପଯୋଗ ଉଚ୍ଚ ପ୍ରତିନିଧି>"
 
-#: kdeui/widgets/kcharselectdata.cpp:240
+#: kdeui/widgets/kcharselectdata.cpp:245
 msgid "<Low Surrogate>"
 msgstr "<ସ୍ବଲ୍ପ ପ୍ରତିନିଧି>"
 
-#: kdeui/widgets/kcharselectdata.cpp:242
+#: kdeui/widgets/kcharselectdata.cpp:247
 msgid "<Private Use>"
 msgstr "<ବ୍ଯକ୍ତିଗତ ଉପଯୋଗ>"
 
-#: kdeui/widgets/kcharselectdata.cpp:272
+#: kdeui/widgets/kcharselectdata.cpp:277
 msgid "<not assigned>"
 msgstr "<ନ୍ଯସ୍ତ କରାଯାଇ ନାହିଁ>"
 
-#: kdeui/widgets/kcharselectdata.cpp:510
+#: kdeui/widgets/kcharselectdata.cpp:581
+msgid "Non-printable"
+msgstr "ମୁଦ୍ରଣ ଅଯୋଗ୍ୟ"
+
+#: kdeui/widgets/kcharselectdata.cpp:614
 msgid "Other, Control"
 msgstr "ଅନ୍ଯାନ୍ଯ, ନିୟନ୍ତ୍ରଣ"
 
-#: kdeui/widgets/kcharselectdata.cpp:511
+#: kdeui/widgets/kcharselectdata.cpp:615
 msgid "Other, Format"
 msgstr "ଅନ୍ଯାନ୍ଯ, ଶୈଳୀ"
 
-#: kdeui/widgets/kcharselectdata.cpp:512
+#: kdeui/widgets/kcharselectdata.cpp:616
 msgid "Other, Not Assigned"
 msgstr "ଅନ୍ଯାନ୍ଯ, ନ୍ଯସ୍ତ କରାଯାଇ ନାହିଁ"
 
-#: kdeui/widgets/kcharselectdata.cpp:513
+#: kdeui/widgets/kcharselectdata.cpp:617
 msgid "Other, Private Use"
 msgstr "ଅନ୍ଯାନ୍ଯ, ବ୍ଯକ୍ତିଗତ ଉପଯୋଗ"
 
-#: kdeui/widgets/kcharselectdata.cpp:514
+#: kdeui/widgets/kcharselectdata.cpp:618
 msgid "Other, Surrogate"
 msgstr "ଅନ୍ଯାନ୍ଯ, ପ୍ରତିନିଧି"
 
-#: kdeui/widgets/kcharselectdata.cpp:515
+#: kdeui/widgets/kcharselectdata.cpp:619
 msgid "Letter, Lowercase"
 msgstr "ଅକ୍ଷର, ଛୋଟ ଅକ୍ଷର"
 
-#: kdeui/widgets/kcharselectdata.cpp:516
+#: kdeui/widgets/kcharselectdata.cpp:620
 msgid "Letter, Modifier"
 msgstr "ଅକ୍ଷର, ରୂପାନ୍ତରକ"
 
-#: kdeui/widgets/kcharselectdata.cpp:517
+#: kdeui/widgets/kcharselectdata.cpp:621
 msgid "Letter, Other"
 msgstr "ଅକ୍ଷର, ଅନ୍ଯାନ୍ଯ"
 
-#: kdeui/widgets/kcharselectdata.cpp:518
+#: kdeui/widgets/kcharselectdata.cpp:622
 msgid "Letter, Titlecase"
 msgstr "ଅକ୍ଷର, ଶୀର୍ଷକ ଅକ୍ଷର"
 
-#: kdeui/widgets/kcharselectdata.cpp:519
+#: kdeui/widgets/kcharselectdata.cpp:623
 msgid "Letter, Uppercase"
 msgstr "ଅକ୍ଷର, ବଡ ଅକ୍ଷର"
 
-#: kdeui/widgets/kcharselectdata.cpp:520
+#: kdeui/widgets/kcharselectdata.cpp:624
 msgid "Mark, Spacing Combining"
 msgstr "ଚିହ୍ନ, ଶୂନ୍ଯସ୍ଥାନ ସଂଯୋଜକ"
 
-#: kdeui/widgets/kcharselectdata.cpp:521
+#: kdeui/widgets/kcharselectdata.cpp:625
 msgid "Mark, Enclosing"
 msgstr "ଚିହ୍ନ, ସଂଲଗ୍ନକ"
 
-#: kdeui/widgets/kcharselectdata.cpp:522
+#: kdeui/widgets/kcharselectdata.cpp:626
 msgid "Mark, Non-Spacing"
 msgstr "ଚିହ୍ନ, ଶୂନ୍ଯସ୍ଥାନ ବିହୀନ"
 
-#: kdeui/widgets/kcharselectdata.cpp:523
+#: kdeui/widgets/kcharselectdata.cpp:627
 msgid "Number, Decimal Digit"
 msgstr "ସଂଖ୍ଯା, ଦଶମିକ ଅଙ୍କ"
 
-#: kdeui/widgets/kcharselectdata.cpp:524
+#: kdeui/widgets/kcharselectdata.cpp:628
 msgid "Number, Letter"
 msgstr "ସଂଖ୍ଯା, ଅକ୍ଷର"
 
-#: kdeui/widgets/kcharselectdata.cpp:525
+#: kdeui/widgets/kcharselectdata.cpp:629
 msgid "Number, Other"
 msgstr "ସଂଖ୍ଯା, ଅନ୍ଯାନ୍ଯ"
 
-#: kdeui/widgets/kcharselectdata.cpp:526
+#: kdeui/widgets/kcharselectdata.cpp:630
 msgid "Punctuation, Connector"
 msgstr "ବିରାମ ଚିହ୍ନ, ସଂଯୋଜକ"
 
-#: kdeui/widgets/kcharselectdata.cpp:527
+#: kdeui/widgets/kcharselectdata.cpp:631
 msgid "Punctuation, Dash"
 msgstr "ବିରାମ ଚିହ୍ନ, ଡ୍ଯାସ"
 
-#: kdeui/widgets/kcharselectdata.cpp:528
+#: kdeui/widgets/kcharselectdata.cpp:632
 msgid "Punctuation, Close"
 msgstr "ବିରାମ ଚିହ୍ନ, ବନ୍ଦ କରନ୍ତୁ"
 
-#: kdeui/widgets/kcharselectdata.cpp:529
+#: kdeui/widgets/kcharselectdata.cpp:633
 msgid "Punctuation, Final Quote"
 msgstr "ବିରାମ ଚିହ୍ନ, ଶେଷ ଅଦ୍ଧ୍ରୁତ ଚିହ୍ନ"
 
-#: kdeui/widgets/kcharselectdata.cpp:530
+#: kdeui/widgets/kcharselectdata.cpp:634
 msgid "Punctuation, Initial Quote"
 msgstr "ବିରାମ ଚିହ୍ନ, ପ୍ରାରମ୍ଭିକ ଉଦ୍ଧ୍ରୁତ ଚିହ୍ନ"
 
-#: kdeui/widgets/kcharselectdata.cpp:531
+#: kdeui/widgets/kcharselectdata.cpp:635
 msgid "Punctuation, Other"
 msgstr "ବିରାମ ଚିହ୍ନ, ଅନ୍ଯାନ୍ଯ"
 
-#: kdeui/widgets/kcharselectdata.cpp:532
+#: kdeui/widgets/kcharselectdata.cpp:636
 msgid "Punctuation, Open"
 msgstr "ବିରାମ ଚିହ୍ନ, ଖୋଲନ୍ତୁ"
 
-#: kdeui/widgets/kcharselectdata.cpp:533
+#: kdeui/widgets/kcharselectdata.cpp:637
 msgid "Symbol, Currency"
 msgstr "ପ୍ରତୀକ, ମୁଦ୍ରା"
 
-#: kdeui/widgets/kcharselectdata.cpp:534
+#: kdeui/widgets/kcharselectdata.cpp:638
 msgid "Symbol, Modifier"
 msgstr "ପ୍ରତୀକ, ରୂପାନ୍ତରକ"
 
-#: kdeui/widgets/kcharselectdata.cpp:535
+#: kdeui/widgets/kcharselectdata.cpp:639
 msgid "Symbol, Math"
 msgstr "ପ୍ରତୀକ, ଗଣିତ"
 
-#: kdeui/widgets/kcharselectdata.cpp:536
+#: kdeui/widgets/kcharselectdata.cpp:640
 msgid "Symbol, Other"
 msgstr "ପ୍ରତୀକ, ଅନ୍ଯାନ୍ଯ"
 
-#: kdeui/widgets/kcharselectdata.cpp:537
+#: kdeui/widgets/kcharselectdata.cpp:641
 msgid "Separator, Line"
 msgstr "ବିଭାଜକ, ରେଖା"
 
-#: kdeui/widgets/kcharselectdata.cpp:538
+#: kdeui/widgets/kcharselectdata.cpp:642
 msgid "Separator, Paragraph"
 msgstr "ବିଭାଜକ, ପରିଚ୍ଛେଦ"
 
-#: kdeui/widgets/kcharselectdata.cpp:539
+#: kdeui/widgets/kcharselectdata.cpp:643
 msgid "Separator, Space"
 msgstr "ବିଭାଜକ, ଖାଲି ସ୍ଥାନ"
 
-#: kdeui/widgets/kcharselectdata.cpp:540
+#: kdeui/widgets/kcharselectdata.cpp:644
 msgid "Unknown"
 msgstr "ଅଜଣା"
 
@@ -12303,6 +12312,26 @@ msgstr "ଆଜିର ସୂଚନା (&D)"
 #, kde-format
 msgid "No such function \"%1\""
 msgstr "ଏପରି କିଛି ଫଳନ ନାହିଁ \"%1\""
+
+#, fuzzy
+#~| msgid "Back"
+#~ msgctxt "Goes to previous character"
+#~ msgid "Back"
+#~ msgstr "ପଛକୁ"
+
+#, fuzzy
+#~| msgid "Forward"
+#~ msgctxt "Goes to next character"
+#~ msgid "Forward"
+#~ msgstr "ଆଗକୁ"
+
+#~ msgctxt "Character"
+#~ msgid ""
+#~ "<qt><font size=\"+4\" face=\"%1\">%2</font><br />%3<br />Unicode code "
+#~ "point: %4<br />(In decimal: %5)</qt>"
+#~ msgstr ""
+#~ "<qt><font size=\"+4\" face=\"%1\">%2</font><br />%3<br />Unicode code "
+#~ "point: %4<br />(In decimal: %5)</qt>"
 
 #~ msgid "Add Elements"
 #~ msgstr "ଉପାଦାନଗୁଡ଼ିକୁ ଯୋଗକରନ୍ତୁ"
