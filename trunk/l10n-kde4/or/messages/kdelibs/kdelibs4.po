@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-03-04 11:11+0100\n"
+"POT-Creation-Date: 2009-03-05 10:33+0100\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1852,12 +1852,12 @@ msgstr "ହୋଷ୍ଟ ନାମରେ ହେଉଥିବା ପରିବର୍
 msgid "(c) 2001 Waldo Bastian"
 msgstr "(c) 2001 Waldo Bastian"
 
-#: kded/khostname.cpp:220 kded/kbuildsycoca.cpp:645 khtml/khtml_global.cpp:212
+#: kded/khostname.cpp:220 kded/kbuildsycoca.cpp:646 khtml/khtml_global.cpp:212
 #: kconf_update/kconf_update.cpp:963
 msgid "Waldo Bastian"
 msgstr "ୱାଲ୍ଡୋ ବାସଟିୟନ"
 
-#: kded/khostname.cpp:220 kded/kbuildsycoca.cpp:644 kded/kbuildsycoca.cpp:645
+#: kded/khostname.cpp:220 kded/kbuildsycoca.cpp:645 kded/kbuildsycoca.cpp:646
 #: kross/qts/main.cpp:63 kross/test/main.cpp:149 kross/console/main.cpp:102
 #: kde3support/kdeui/k3aboutdialog.cpp:184
 msgid "Author"
@@ -1871,19 +1871,19 @@ msgstr "ପୁରୁଣା ହୋଷ୍ଟନାମ"
 msgid "New hostname"
 msgstr "ନୂତନ ହୋଷ୍ଟନାମ"
 
-#: kded/kded.cpp:874
+#: kded/kded.cpp:875
 msgid "KDE Daemon"
 msgstr "KDE ଡେମନ"
 
-#: kded/kded.cpp:876
+#: kded/kded.cpp:877
 msgid "KDE Daemon - triggers Sycoca database updates when needed"
 msgstr "KDE ଡେମନ - ଆବଶ୍ୟକ ସମୟରେ Sycoca ତଥ୍ୟାବଳୀ ଅଦ୍ୟତନକୁ ସତର୍କ କରାଏ"
 
-#: kded/kded.cpp:879
+#: kded/kded.cpp:880
 msgid "Check Sycoca database only once"
 msgstr "Sycoca ତଥ୍ୟାବଳୀକୁ କେବଳ ଥରେ ଯାଞ୍ଚ କରନ୍ତୁ"
 
-#: kded/kbuildsycoca.cpp:415
+#: kded/kbuildsycoca.cpp:413
 #, kde-format
 msgid ""
 "Error creating database '%1'.\n"
@@ -1894,12 +1894,12 @@ msgstr ""
 "ଡିରେକ୍ଟୋରୀରେ ଅନୁମତିଗୁଡିକ ଠିକ ଅଛିକି ନାହିଁ ଯାଞ୍ଚକରନ୍ତୁ ଏବଂ ଦେଖନ୍ତୁ ଯେମିତି ଡିସ୍କଟି ସମ୍ପୂର୍ଣ୍ଣ ଭର୍ତ୍ତି "
 "ହୋଇନଥିବ।\n"
 
-#: kded/kbuildsycoca.cpp:415 kded/kbuildsycoca.cpp:446
-#: kded/kbuildsycoca.cpp:641
+#: kded/kbuildsycoca.cpp:413 kded/kbuildsycoca.cpp:444
+#: kded/kbuildsycoca.cpp:642
 msgid "KBuildSycoca"
 msgstr "KBuildSycoca"
 
-#: kded/kbuildsycoca.cpp:446
+#: kded/kbuildsycoca.cpp:444
 #, kde-format
 msgid ""
 "Error writing database '%1'.\n"
@@ -1910,76 +1910,76 @@ msgstr ""
 "ଡିରେକ୍ଟୋରୀରେ ଅନୁମତିଗୁଡିକ ଠିକ ଅଛିକି ନାହିଁ ଯାଞ୍ଚକରନ୍ତୁ ଏବଂ ଦେଖନ୍ତୁ ଯେମିତି ଡିସ୍କଟି ସମ୍ପୂର୍ଣ୍ଣ ଭର୍ତ୍ତି "
 "ହୋଇନଥିବ।\n"
 
-#: kded/kbuildsycoca.cpp:642
+#: kded/kbuildsycoca.cpp:643
 msgid "Rebuilds the system configuration cache."
 msgstr "ତନ୍ତ୍ରବିନ୍ୟାସ ସ୍ୱଳ୍ପକାଳ ସଞ୍ଚୟ ବ୍ୟବସ୍ଥାକୁ ପୁନଃନିର୍ମାଣ କରନ୍ତୁ।"
 
-#: kded/kbuildsycoca.cpp:643
+#: kded/kbuildsycoca.cpp:644
 msgid "(c) 1999-2002 KDE Developers"
 msgstr "(c) 1999-2002 KDE Developers"
 
-#: kded/kbuildsycoca.cpp:644
+#: kded/kbuildsycoca.cpp:645
 msgid "David Faure"
 msgstr "David Faure"
 
-#: kded/kbuildsycoca.cpp:648
+#: kded/kbuildsycoca.cpp:649
 msgid "Do not signal applications to update"
 msgstr "ଅଦ୍ୟତନ କରିବା ପାଇଁ ପ୍ରୟୋଗକୁ ସଙ୍କେତ ଦିଅନ୍ତୁ ନାହିଁ"
 
-#: kded/kbuildsycoca.cpp:649
+#: kded/kbuildsycoca.cpp:650
 msgid "Disable incremental update, re-read everything"
 msgstr ""
 
-#: kded/kbuildsycoca.cpp:650
+#: kded/kbuildsycoca.cpp:651
 msgid "Check file timestamps"
 msgstr "ଫାଇଲ ସମୟାଙ୍କନଗୁଡିକୁ ଯାଞ୍ଚ କରନ୍ତୁ"
 
-#: kded/kbuildsycoca.cpp:651
+#: kded/kbuildsycoca.cpp:652
 msgid "Disable checking files (dangerous)"
 msgstr "ଫାଇଲ ଯାଞ୍ଚକୁ ନିଷ୍କ୍ରିୟ କରନ୍ତୁ (ହାନିକାରକ)"
 
-#: kded/kbuildsycoca.cpp:652
+#: kded/kbuildsycoca.cpp:653
 msgid "Create global database"
 msgstr "ସାମଗ୍ରିକ ତଥ୍ୟାବଳୀ ନିର୍ମାଣ କରନ୍ତୁ"
 
-#: kded/kbuildsycoca.cpp:653
+#: kded/kbuildsycoca.cpp:654
 msgid "Perform menu generation test run only"
 msgstr "କେବଳ ତାଲିକା ନିର୍ମାଣ ପରୀକ୍ଷା ସମ୍ପାଦନ କରନ୍ତୁ"
 
-#: kded/kbuildsycoca.cpp:654
+#: kded/kbuildsycoca.cpp:655
 msgid "Track menu id for debug purposes"
 msgstr "ତ୍ରୁଟିମୁକ୍ତ କରିବା ଉଦ୍ଦେଶ୍ୟରେ ତାଲିକା ପରିଚୟକୁ ଅନୁସରଣ କରନ୍ତୁ"
 
-#: kded/kbuildsycoca.cpp:656
+#: kded/kbuildsycoca.cpp:657
 msgid "Silent - work without windows and stderr"
 msgstr ""
 
-#: kded/kbuildsycoca.cpp:657
+#: kded/kbuildsycoca.cpp:658
 msgid "Show progress information (even if 'silent' mode is on)"
 msgstr "ଅଗ୍ରଗତି ସୂଚନା ପ୍ରଦର୍ଶନ କରନ୍ତୁ (ଯଦିଚ 'ଶାନ୍ତ' ବିଧି ସକ୍ରିୟ ଅଛି)"
 
-#: kded/kbuildsycoca.cpp:682
+#: kded/kbuildsycoca.cpp:683
 msgid "Reloading KDE configuration, please wait..."
 msgstr "KDE ବିନ୍ୟାସ ପୁନର୍ଧାରଣ କରୁଅଛି, ଦୟାକରି ଅପେକ୍ଷା କରନ୍ତୁ..."
 
-#: kded/kbuildsycoca.cpp:683
+#: kded/kbuildsycoca.cpp:684
 msgid "KDE Configuration Manager"
 msgstr "KDE ବିନ୍ୟାସକାରୀ ପରିଚାଳକ"
 
-#: kded/kbuildsycoca.cpp:685
+#: kded/kbuildsycoca.cpp:686
 msgid "Do you want to reload KDE configuration?"
 msgstr "ଆପଣ KDE ବିନ୍ୟାସ ପୁନର୍ଧାରଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
 
-#: kded/kbuildsycoca.cpp:685
+#: kded/kbuildsycoca.cpp:686
 msgctxt "Reload KDE configuration messagebox"
 msgid "Reload"
 msgstr "ପୁନର୍ଧାରଣ କରନ୍ତୁ"
 
-#: kded/kbuildsycoca.cpp:685
+#: kded/kbuildsycoca.cpp:686
 msgid "Do Not Reload"
 msgstr "ପୁନର୍ଧାରଣ କରନ୍ତୁ ନାହିଁ"
 
-#: kded/kbuildsycoca.cpp:861
+#: kded/kbuildsycoca.cpp:863
 msgid "Configuration information reloaded successfully."
 msgstr "ବିନ୍ୟାସ ସୂଚନା ସଫଳତା ପୂର୍ବକ ପୁନର୍ଧାରଣ କରାଯାଇଛି।"
 
@@ -9536,33 +9536,33 @@ msgstr "ଅଞ୍ଚଳ"
 msgid "Comment"
 msgstr "ଟିପ୍ପଣୀ"
 
-#: kdeui/widgets/ktextedit.cpp:434 kde3support/kdeui/k3textedit.cpp:232
+#: kdeui/widgets/ktextedit.cpp:436 kde3support/kdeui/k3textedit.cpp:232
 msgid "Check Spelling..."
 msgstr "ବନାନ ଯାଞ୍ଚକରନ୍ତୁ..."
 
-#: kdeui/widgets/ktextedit.cpp:437 kde3support/kdeui/k3textedit.cpp:238
+#: kdeui/widgets/ktextedit.cpp:439 kde3support/kdeui/k3textedit.cpp:238
 msgid "Auto Spell Check"
 msgstr "ସ୍ୱୟଂ ବନାନ ଯାଞ୍ଚ"
 
-#: kdeui/widgets/ktextedit.cpp:441 kde3support/kdeui/k3textedit.cpp:242
+#: kdeui/widgets/ktextedit.cpp:443 kde3support/kdeui/k3textedit.cpp:242
 msgid "Allow Tabulations"
 msgstr "ସାରଣୀକରଣକୁ ଅନୁମତି ଦିଅନ୍ତୁ"
 
-#: kdeui/widgets/ktextedit.cpp:538
+#: kdeui/widgets/ktextedit.cpp:540
 #, fuzzy, kde-format
 #| msgid "Suggestions"
 msgid "Suggestions for %1"
 msgstr "ପ୍ରସ୍ତାବଗୁଡ଼ିକ"
 
-#: kdeui/widgets/ktextedit.cpp:540
+#: kdeui/widgets/ktextedit.cpp:542
 msgid "Ignore"
 msgstr "ଅଗ୍ରାହ୍ଯ କରନ୍ତୁ"
 
-#: kdeui/widgets/ktextedit.cpp:541
+#: kdeui/widgets/ktextedit.cpp:543
 msgid "Add to Dictionary"
 msgstr "ଅଭିଧାନରେ ଯୋଗ କରନ୍ତୁ"
 
-#: kdeui/widgets/ktextedit.cpp:687
+#: kdeui/widgets/ktextedit.cpp:689
 msgid "Nothing to spell check."
 msgstr "ବନାନ ଯାଞ୍ଚ କରିବାକୁ କିଛିନାହିଁ।"
 
@@ -10706,7 +10706,7 @@ msgid ""
 "information next time you submit this form."
 msgstr ""
 
-#: khtml/html/html_formimpl.cpp:2607
+#: khtml/html/html_formimpl.cpp:2613
 msgid "Key Generator"
 msgstr "କି ନିର୍ମାଣକାରୀ"
 
