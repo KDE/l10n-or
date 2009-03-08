@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-03-07 09:38+0000\n"
+"POT-Creation-Date: 2009-03-08 09:22+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -2219,7 +2219,7 @@ msgid "IO-port information"
 msgstr "IO-ସଂଯୋଗିକୀ ସୂଚନା"
 
 #: apps/kinfocenter/info/processor.desktop:13
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Processor.desktop:63
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Processor.desktop:67
 msgctxt "Name"
 msgid "Processor"
 msgstr "ସଞ୍ଚାଳକ"
@@ -2408,7 +2408,7 @@ msgctxt "Name"
 msgid "Text-to-Speech"
 msgstr "Text-to-Speech"
 
-#: apps/konqueror/kttsplugin/khtmlkttsd.desktop:83
+#: apps/konqueror/kttsplugin/khtmlkttsd.desktop:84
 msgctxt "Comment"
 msgid "Produces audio output for text in the current page"
 msgstr "ଏହି ପୃଷ୍ଠାରେ ପାଠ୍ଯ ପାଇଁ ଧ୍ୱନି ନିର୍ଗମ ହୋଇଥାଏ"
@@ -3051,47 +3051,47 @@ msgctxt "Name"
 msgid "Bell in Visible Session"
 msgstr "ଦୃଶ୍ୟମାନ ଅଧିବେଶନରେ ବେଲ"
 
-#: apps/konsole/desktop/konsole.notifyrc:109
+#: apps/konsole/desktop/konsole.notifyrc:110
 msgctxt "Comment"
 msgid "Bell emitted within a visible session"
 msgstr "ଦୃଶ୍ୟମାନ ଅଧିବେଶନ ମଧ୍ଯରେ ବେଲ ବାହାରିଥାଏ"
 
-#: apps/konsole/desktop/konsole.notifyrc:184
+#: apps/konsole/desktop/konsole.notifyrc:185
 msgctxt "Name"
 msgid "Bell in Non-Visible Session"
 msgstr "ଅଦୃଶ୍ୟମାନ ଅଧିବେଶନରେ ବେଲ"
 
-#: apps/konsole/desktop/konsole.notifyrc:249
+#: apps/konsole/desktop/konsole.notifyrc:251
 msgctxt "Comment"
 msgid "Bell emitted within a non-visible session"
 msgstr "ଅଦୃଶ୍ୟମାନ ଅଧିବେଶନ ମଧ୍ଯରେ ବେଲ ବାହାରିଥାଏ"
 
-#: apps/konsole/desktop/konsole.notifyrc:325
+#: apps/konsole/desktop/konsole.notifyrc:327
 msgctxt "Name"
 msgid "Activity in Monitored Session"
 msgstr "ଯାଞ୍ଚକୃତ ଅଧିବେଶନରେ କାର୍ଯ୍ୟକଳାପ"
 
-#: apps/konsole/desktop/konsole.notifyrc:391
+#: apps/konsole/desktop/konsole.notifyrc:394
 msgctxt "Comment"
 msgid "Activity detected in a monitored session"
 msgstr "ଯାଞ୍ଚକୃତ ଅଧିବେଶନରେ ଚିହ୍ନଟ ହୋଇଥିବା କାର୍ଯ୍ୟକଳାପ"
 
-#: apps/konsole/desktop/konsole.notifyrc:467
+#: apps/konsole/desktop/konsole.notifyrc:470
 msgctxt "Name"
 msgid "Silence in Monitored Session"
 msgstr "ଯାଞ୍ଚକୃତ ଅଧିବେଶନରେ ନିରବତା"
 
-#: apps/konsole/desktop/konsole.notifyrc:532
+#: apps/konsole/desktop/konsole.notifyrc:536
 msgctxt "Comment"
 msgid "Silence detected in a monitored session"
 msgstr "ଯାଞ୍ଚକୃତ ଅଧିବେଶନରେ ଚିହ୍ନଟ ହୋଇଥିବା ନିରବତା"
 
-#: apps/konsole/desktop/konsole.notifyrc:606
+#: apps/konsole/desktop/konsole.notifyrc:610
 msgctxt "Name"
 msgid "Session Finished With Non-Zero Status"
 msgstr "ଶୂନ୍ୟହୀନ ସ୍ଥିତି ସହିତ ସମାପ୍ତ ଅଧିବେଶନ"
 
-#: apps/konsole/desktop/konsole.notifyrc:674
+#: apps/konsole/desktop/konsole.notifyrc:679
 msgctxt "Comment"
 msgid "A session has exited with non-zero status"
 msgstr "ଶୂନ୍ୟହୀନ ସ୍ଥିତି ସହିତ ଅଧିବେଶନଟି ପ୍ରସ୍ଥାନ କରିଛି"
@@ -3282,7 +3282,7 @@ msgid "KDED Favicon Module"
 msgstr "KDED Favicon ଏକକାଂଶ"
 
 #: apps/lib/konq/favicons/favicons.desktop:81
-#: runtime/platforms/win/kwinstartmenu/winstartmenu.desktop:61
+#: runtime/platforms/win/kwinstartmenu/winstartmenu.desktop:62
 msgctxt "Comment"
 msgid "Shortcut icon support"
 msgstr "ସଂକ୍ଷିପ୍ତ ପଥ ଚିତ୍ରସଂକେତ ସମର୍ଥନ"
@@ -3367,7 +3367,7 @@ msgid "You might want to fix your program. Take a look at the backtrace below."
 msgstr "ଆପଣ ଆପଣଙ୍କର ପ୍ରଗ୍ରାମକୁ ଠିକ କରିବାକୁ ଚାହୁଁଛନ୍ତି। ବ୍ୟାକ ଟ୍ରେସ ଟ୍ୟାବରେ ଗୋଟିଏ ନଜର ପକାନ୍ତୁ।"
 
 #: runtime/drkonqi/presets/developerrc:255
-#: runtime/drkonqi/presets/enduserrc:296
+#: runtime/drkonqi/presets/enduserrc:297
 msgctxt "Name"
 msgid "SIGILL"
 msgstr "SIGILL"
@@ -3378,7 +3378,7 @@ msgid "Illegal instruction."
 msgstr "ଅବୈଧ ନିର୍ଦ୍ଦେଶ।"
 
 #: runtime/drkonqi/presets/developerrc:336
-#: runtime/drkonqi/presets/enduserrc:376
+#: runtime/drkonqi/presets/enduserrc:377
 msgctxt "Name"
 msgid "SIGABRT"
 msgstr "SIGABRT"
@@ -3389,7 +3389,7 @@ msgid "Aborted."
 msgstr "ପ୍ରତ୍ୟାବୃତ ହୋଇଛି।"
 
 #: runtime/drkonqi/presets/developerrc:411
-#: runtime/drkonqi/presets/enduserrc:453
+#: runtime/drkonqi/presets/enduserrc:454
 msgctxt "Name"
 msgid "SIGFPE"
 msgstr "SIGFPE"
@@ -3400,7 +3400,7 @@ msgid "Floating point exception."
 msgstr ""
 
 #: runtime/drkonqi/presets/developerrc:484
-#: runtime/drkonqi/presets/enduserrc:531
+#: runtime/drkonqi/presets/enduserrc:532
 msgctxt "Name"
 msgid "SIGSEGV"
 msgstr "SIGSEGV"
@@ -3411,7 +3411,7 @@ msgid "Invalid memory reference."
 msgstr "ଅବୈଧ ସ୍ମୃତିସ୍ଥାନ ସନ୍ଦର୍ଭ"
 
 #: runtime/drkonqi/presets/developerrc:559
-#: runtime/drkonqi/presets/enduserrc:608
+#: runtime/drkonqi/presets/enduserrc:609
 msgctxt "Name"
 msgid "Unknown"
 msgstr "ଅଜଣା"
@@ -3446,35 +3446,35 @@ msgid ""
 "to reproduce the error, documents that were loaded, etc."
 msgstr ""
 
-#: runtime/drkonqi/presets/enduserrc:302
+#: runtime/drkonqi/presets/enduserrc:303
 msgctxt "Comment"
 msgid ""
 "An application mostly receives the SIGILL signal due to a bug in the "
 "application. The application was asked to save its documents."
 msgstr ""
 
-#: runtime/drkonqi/presets/enduserrc:380
+#: runtime/drkonqi/presets/enduserrc:381
 msgctxt "Comment"
 msgid ""
 "An application terminates with a SIGABRT signal when it detects an internal "
 "inconsistency caused by a bug in the program."
 msgstr ""
 
-#: runtime/drkonqi/presets/enduserrc:457
+#: runtime/drkonqi/presets/enduserrc:458
 msgctxt "Comment"
 msgid ""
 "An application mostly receives the SIGFPE signal due to a bug in the "
 "application. The application was asked to save its documents."
 msgstr ""
 
-#: runtime/drkonqi/presets/enduserrc:535
+#: runtime/drkonqi/presets/enduserrc:536
 msgctxt "Comment"
 msgid ""
 "An application mostly receives the SIGSEGV signal due to a bug in the "
 "application. The application was asked to save its documents."
 msgstr ""
 
-#: runtime/drkonqi/presets/enduserrc:686
+#: runtime/drkonqi/presets/enduserrc:687
 msgctxt "Comment"
 msgid "Sorry, I do not know this signal."
 msgstr "ଏହି ସଂକେତକୁ ଜାଣିନଥିବାରୁ ମୁଁ ଦୁଖିତ।"
@@ -3992,161 +3992,161 @@ msgctxt "Name"
 msgid "Textcompletion: Rotation"
 msgstr "ପାଠ୍ୟ ସମ୍ପୂର୍ଣ୍ଣତା: ପୁନରାବୃତ୍ତି"
 
-#: runtime/knotify/kde.notifyrc:284
+#: runtime/knotify/kde.notifyrc:285
 msgctxt "Comment"
 msgid "The end of the list of matches has been reached"
 msgstr "ମେଳକମାନଙ୍କ ତାଲିକାର ଶେଷ ପହଞ୍ଚିଯାଇଛି"
 
-#: runtime/knotify/kde.notifyrc:355
+#: runtime/knotify/kde.notifyrc:356
 msgctxt "Name"
 msgid "Textcompletion: No Match"
 msgstr "ପାଠ୍ୟ ସମ୍ପୂର୍ଣ୍ଣତା: କୌଣସି ମେଳକ ନାହିଁ"
 
-#: runtime/knotify/kde.notifyrc:420
+#: runtime/knotify/kde.notifyrc:422
 msgctxt "Comment"
 msgid "No matching completion was found"
 msgstr "କୌଣସି ମେଳକ ସମ୍ପୂର୍ଣ୍ଣତା ମିଳୁନାହିଁ"
 
-#: runtime/knotify/kde.notifyrc:491
+#: runtime/knotify/kde.notifyrc:493
 msgctxt "Name"
 msgid "Textcompletion: Partial Match"
 msgstr "ପାଠ୍ୟ ସମ୍ପୂର୍ଣ୍ଣତା: ଆଂଶିକ ମେଳକ"
 
-#: runtime/knotify/kde.notifyrc:556
+#: runtime/knotify/kde.notifyrc:559
 msgctxt "Comment"
 msgid "There is more than one possible match"
 msgstr "ସେଠାରେ ଗୋଟିଏରୁ ଅଧିକ ମେଳକ ଅଛି"
 
-#: runtime/knotify/kde.notifyrc:628
+#: runtime/knotify/kde.notifyrc:631
 msgctxt "Name"
 msgid "Fatal Error"
 msgstr "ମାରାତ୍ମକ ତ୍ରୁଟି"
 
-#: runtime/knotify/kde.notifyrc:701
+#: runtime/knotify/kde.notifyrc:704
 msgctxt "Comment"
 msgid "There was a serious error causing the program to exit"
 msgstr "ଗୋଟିଏ ଗମ୍ଭୀର ତ୍ରୁଟି ପ୍ରଗ୍ରାମକୁ ପ୍ରସ୍ଥାନ କରାଇଥାଏ"
 
-#: runtime/knotify/kde.notifyrc:773
+#: runtime/knotify/kde.notifyrc:776
 #: workspace/powerdevil/powerdevil.notifyrc:207
 msgctxt "Name"
 msgid "Notification"
 msgstr "ବିଜ୍ଞପ୍ତି"
 
-#: runtime/knotify/kde.notifyrc:848
+#: runtime/knotify/kde.notifyrc:851
 msgctxt "Comment"
 msgid "Something special happened in the program"
 msgstr ""
 
-#: runtime/knotify/kde.notifyrc:919
+#: runtime/knotify/kde.notifyrc:922
 #: workspace/powerdevil/powerdevil.notifyrc:79
 msgctxt "Name"
 msgid "Warning"
 msgstr "ଚେତାବନୀ"
 
-#: runtime/knotify/kde.notifyrc:995
+#: runtime/knotify/kde.notifyrc:998
 msgctxt "Comment"
 msgid "There was an error in the program which may cause problems"
 msgstr ""
 
-#: runtime/knotify/kde.notifyrc:1066
+#: runtime/knotify/kde.notifyrc:1069
 msgctxt "Name"
 msgid "Catastrophe"
 msgstr "Catastrophe"
 
-#: runtime/knotify/kde.notifyrc:1131
+#: runtime/knotify/kde.notifyrc:1134
 msgctxt "Comment"
 msgid "A very serious error occurred, at least causing the program to exit"
 msgstr "ଗୋଟିଏ ମାରାତ୍ମକ ତ୍ରୁଟି ଘଟିଛି, ଅତି କମରେ ପ୍ରଗ୍ରାମକୁ ପ୍ରସ୍ଥାନ କରିବାକୁ ପଡ଼ିପାରେ"
 
-#: runtime/knotify/kde.notifyrc:1200
+#: runtime/knotify/kde.notifyrc:1203
 #: workspace/kwin/effects/login/login.desktop:2
 msgctxt "Name"
 msgid "Login"
 msgstr "ଲଗଇନ"
 
-#: runtime/knotify/kde.notifyrc:1274
+#: runtime/knotify/kde.notifyrc:1277
 msgctxt "Comment"
 msgid "KDE is starting up"
 msgstr "KDE ଆରମ୍ଭ ହେଉଅଛି"
 
-#: runtime/knotify/kde.notifyrc:1351
+#: runtime/knotify/kde.notifyrc:1354
 #: workspace/kwin/effects/logout/logout.desktop:2
 msgctxt "Name"
 msgid "Logout"
 msgstr "ଲଗଆଉଟ"
 
-#: runtime/knotify/kde.notifyrc:1426
+#: runtime/knotify/kde.notifyrc:1429
 msgctxt "Comment"
 msgid "KDE is exiting"
 msgstr "KDE ପ୍ରସ୍ଥାନ କରୁଅଛି"
 
-#: runtime/knotify/kde.notifyrc:1503
+#: runtime/knotify/kde.notifyrc:1506
 msgctxt "Name"
 msgid "Logout Canceled"
 msgstr "ଲଗଆଉଟ ବାତିଲ ହୋଇଛି"
 
-#: runtime/knotify/kde.notifyrc:1575
+#: runtime/knotify/kde.notifyrc:1578
 msgctxt "Comment"
 msgid "KDE logout was canceled"
 msgstr "KDE ଲଗଆଉଟକୁ ବାତିଲ କରାଯାଇଛି"
 
-#: runtime/knotify/kde.notifyrc:1648
+#: runtime/knotify/kde.notifyrc:1651
 msgctxt "Name"
 msgid "Print Error"
 msgstr "ମୁଦ୍ରଣ ତ୍ରୁଟି"
 
-#: runtime/knotify/kde.notifyrc:1722
+#: runtime/knotify/kde.notifyrc:1725
 msgctxt "Comment"
 msgid "A print error has occurred"
 msgstr "ଗୋଟିଏ ମୁଦ୍ରଣ ତ୍ରୁଟି ଘଟିଅଛି"
 
-#: runtime/knotify/kde.notifyrc:1796
+#: runtime/knotify/kde.notifyrc:1799
 msgctxt "Name"
 msgid "Information Message"
 msgstr "ସୂଚନା ସନ୍ଦେଶ"
 
-#: runtime/knotify/kde.notifyrc:1870
+#: runtime/knotify/kde.notifyrc:1873
 msgctxt "Comment"
 msgid "An information message is being shown"
 msgstr "ଗୋଟିଏ ସୂଚନା ସନ୍ଦେଶକୁ ଦର୍ଶାଯାଇଛି"
 
-#: runtime/knotify/kde.notifyrc:1945
+#: runtime/knotify/kde.notifyrc:1948
 msgctxt "Name"
 msgid "Warning Message"
 msgstr "ଚେତାବନୀ ସନ୍ଦେଶ"
 
-#: runtime/knotify/kde.notifyrc:2019
+#: runtime/knotify/kde.notifyrc:2022
 msgctxt "Comment"
 msgid "A warning message is being shown"
 msgstr "ଗୋଟିଏ ଚେତାବନୀ ସନ୍ଦେଶକୁ ଦର୍ଶାଯାଇଛି"
 
-#: runtime/knotify/kde.notifyrc:2093
+#: runtime/knotify/kde.notifyrc:2096
 msgctxt "Name"
 msgid "Critical Message"
 msgstr "ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ସନ୍ଦେଶ"
 
-#: runtime/knotify/kde.notifyrc:2162
+#: runtime/knotify/kde.notifyrc:2165
 msgctxt "Comment"
 msgid "A critical message is being shown"
 msgstr "ଗୋଟିଏ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ସନ୍ଦେଶକୁ ଦର୍ଶାଯାଇଛି"
 
-#: runtime/knotify/kde.notifyrc:2235
+#: runtime/knotify/kde.notifyrc:2238
 msgctxt "Name"
 msgid "Question"
 msgstr "ପ୍ରଶ୍ନ"
 
-#: runtime/knotify/kde.notifyrc:2309
+#: runtime/knotify/kde.notifyrc:2312
 msgctxt "Comment"
 msgid "A question is being asked"
 msgstr "ଗୋଟିଏ ପ୍ରଶ୍ନ ପଚରାଯାଇଛି"
 
-#: runtime/knotify/kde.notifyrc:2384
+#: runtime/knotify/kde.notifyrc:2387
 msgctxt "Name"
 msgid "Beep"
 msgstr "ବିପ କରିବା"
 
-#: runtime/knotify/kde.notifyrc:2454
+#: runtime/knotify/kde.notifyrc:2458
 msgctxt "Comment"
 msgid "Sound bell"
 msgstr "ଧ୍ୱନି ଘଣ୍ଟି"
@@ -7205,7 +7205,7 @@ msgctxt "Name"
 msgid "Audio Device Fallback"
 msgstr "ଧ୍ୱନୀ ଉପକରଣ ନିବର୍ତ୍ତନ"
 
-#: runtime/phonon/platform_kde/phonon.notifyrc:200
+#: runtime/phonon/platform_kde/phonon.notifyrc:201
 msgctxt "Comment"
 msgid ""
 "Notification on automatic fallback if the preferred device is unavailable"
@@ -7293,12 +7293,12 @@ msgctxt "Comment"
 msgid "KDE Accessibility Tool"
 msgstr "KDE ଅଭିଗମ୍ୟତା ଉପକରଣ"
 
-#: workspace/kcontrol/access/kaccess.notifyrc:83
+#: workspace/kcontrol/access/kaccess.notifyrc:84
 msgctxt "Name"
 msgid "A modifier key has become active"
 msgstr "ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି ସକ୍ରିୟ ହୋଇଯାଇଛି"
 
-#: workspace/kcontrol/access/kaccess.notifyrc:150
+#: workspace/kcontrol/access/kaccess.notifyrc:151
 msgctxt "Comment"
 msgid ""
 "A modifier key (e.g. Shift or Ctrl) has changed its state and is now active"
@@ -7306,12 +7306,12 @@ msgstr ""
 "ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି (ଯେପରିକି Shift କିମ୍ବା Ctrl) ସେମାନଙ୍କର ସ୍ଥିତି ପରିବର୍ତ୍ତନ କରିଅଛି ଏବଂ ବର୍ତ୍ତମାନ "
 "ସକ୍ରିୟ ଅଛି"
 
-#: workspace/kcontrol/access/kaccess.notifyrc:217
+#: workspace/kcontrol/access/kaccess.notifyrc:218
 msgctxt "Name"
 msgid "A modifier key has become inactive"
 msgstr "ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି ନିଷ୍କ୍ରିୟ ହୋଇଯାଇଛି"
 
-#: workspace/kcontrol/access/kaccess.notifyrc:284
+#: workspace/kcontrol/access/kaccess.notifyrc:285
 msgctxt "Comment"
 msgid ""
 "A modifier key (e.g. Shift or Ctrl) has changed its state and is now inactive"
@@ -7319,12 +7319,12 @@ msgstr ""
 "ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି (ଯେପରିକି Shift କିମ୍ବା Ctrl) ସେମାନଙ୍କର ସ୍ଥିତି ପରିବର୍ତ୍ତନ କରିଛନ୍ତି ଏବଂ "
 "ବର୍ତ୍ତମାନ ନିଷ୍କ୍ରିୟ ହୋଇଯାଇଛନ୍ତି"
 
-#: workspace/kcontrol/access/kaccess.notifyrc:351
+#: workspace/kcontrol/access/kaccess.notifyrc:352
 msgctxt "Name"
 msgid "A modifier key has been locked"
 msgstr "ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି ଅପରିବର୍ତ୍ତିତ ହୋଇଯାଇଛି"
 
-#: workspace/kcontrol/access/kaccess.notifyrc:418
+#: workspace/kcontrol/access/kaccess.notifyrc:419
 msgctxt "Comment"
 msgid ""
 "A modifier key (e.g. Shift or Ctrl) has been locked and is now active for "
@@ -7333,12 +7333,12 @@ msgstr ""
 "ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି (ଯେପରିକି Shift କିମ୍ବା Ctrl) ଅପରିବର୍ତ୍ତିତ ହୋଇଯାଇଛି ଏବଂ ବର୍ତ୍ତମାନ ନିମ୍ନଲିଖିତ "
 "ସମସ୍ତ କି ଚାପ ପାଇଁ ସକ୍ରିୟ ହୋଇଛି"
 
-#: workspace/kcontrol/access/kaccess.notifyrc:483
+#: workspace/kcontrol/access/kaccess.notifyrc:484
 msgctxt "Name"
 msgid "A lock key has been activated"
 msgstr "ଗୋଟିଏ ଅପରିବର୍ତ୍ତନୀୟ କିକୁ ସକ୍ରିୟ କରାଯାଇଛି"
 
-#: workspace/kcontrol/access/kaccess.notifyrc:551
+#: workspace/kcontrol/access/kaccess.notifyrc:552
 msgctxt "Comment"
 msgid ""
 "A lock key (e.g. Caps Lock or Num Lock) has changed its state and is now "
@@ -7347,12 +7347,12 @@ msgstr ""
 "ଗୋଟିଏ ଅପରିବର୍ତ୍ତନୀୟ କି (ଯେପରିକି Caps Lock କିମ୍ବା Num Lock) ସେମାନଙ୍କର ସ୍ଥିତି ପରିବର୍ତ୍ତନ କରିଛନ୍ତି "
 "ଏବଂ ବର୍ତ୍ତମାନ ସକ୍ରିୟ ଅଛନ୍ତି"
 
-#: workspace/kcontrol/access/kaccess.notifyrc:616
+#: workspace/kcontrol/access/kaccess.notifyrc:617
 msgctxt "Name"
 msgid "A lock key has been deactivated"
 msgstr "ଗୋଟିଏ ଅପରିବର୍ତ୍ତନୀୟ କିକୁ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
 
-#: workspace/kcontrol/access/kaccess.notifyrc:684
+#: workspace/kcontrol/access/kaccess.notifyrc:685
 msgctxt "Comment"
 msgid ""
 "A lock key (e.g. Caps Lock or Num Lock) has changed its state and is now "
@@ -7361,42 +7361,42 @@ msgstr ""
 "ଗୋଟିଏ ଅପରିବର୍ତ୍ତନୀୟ କି (ଯେପରିକି Caps Lock କିମ୍ବା Num Lock) ସେମାନଙ୍କର ସ୍ଥିତି ପରିବର୍ତ୍ତନ କରିଛନ୍ତି "
 "ଏବଂ ବର୍ତ୍ତମାନ ନିଷ୍କ୍ରିୟ ଅଛି"
 
-#: workspace/kcontrol/access/kaccess.notifyrc:749
+#: workspace/kcontrol/access/kaccess.notifyrc:750
 msgctxt "Name"
 msgid "Sticky keys has been enabled or disabled"
 msgstr "Sticky କିଗୁଡ଼ିକୁ ସକ୍ରିୟ ଅଥବା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
 
-#: workspace/kcontrol/access/kaccess.notifyrc:814
+#: workspace/kcontrol/access/kaccess.notifyrc:815
 msgctxt "Comment"
 msgid "Sticky keys has been enabled or disabled"
 msgstr "Sticky କିଗୁଡ଼ିକୁ ସକ୍ରିୟ ଅଥବା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
 
-#: workspace/kcontrol/access/kaccess.notifyrc:884
+#: workspace/kcontrol/access/kaccess.notifyrc:885
 msgctxt "Name"
 msgid "Slow keys has been enabled or disabled"
 msgstr "Slow କିଗୁଡ଼ିକୁ ସକ୍ରିୟ ଅଥବା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
 
-#: workspace/kcontrol/access/kaccess.notifyrc:948
+#: workspace/kcontrol/access/kaccess.notifyrc:949
 msgctxt "Comment"
 msgid "Slow keys has been enabled or disabled"
 msgstr "Slow କିଗୁଡ଼ିକୁ ସକ୍ରିୟ ଅଥବା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
 
-#: workspace/kcontrol/access/kaccess.notifyrc:1017
+#: workspace/kcontrol/access/kaccess.notifyrc:1018
 msgctxt "Name"
 msgid "Bounce keys has been enabled or disabled"
 msgstr "Bounce କିଗୁଡ଼ିକୁ ସକ୍ରିୟ ଅଥବା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
 
-#: workspace/kcontrol/access/kaccess.notifyrc:1081
+#: workspace/kcontrol/access/kaccess.notifyrc:1082
 msgctxt "Comment"
 msgid "Bounce keys has been enabled or disabled"
 msgstr "Bounce କିଗୁଡ଼ିକୁ ସକ୍ରିୟ ଅଥବା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
 
-#: workspace/kcontrol/access/kaccess.notifyrc:1150
+#: workspace/kcontrol/access/kaccess.notifyrc:1151
 msgctxt "Name"
 msgid "Mouse keys has been enabled or disabled"
 msgstr "ମାଉସ କିଗୁଡ଼ିକୁ ସକ୍ରିୟ ଅଥବା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
 
-#: workspace/kcontrol/access/kaccess.notifyrc:1215
+#: workspace/kcontrol/access/kaccess.notifyrc:1216
 msgctxt "Comment"
 msgid "Mouse keys has been enabled or disabled"
 msgstr "ମାଉସ କିଗୁଡ଼ିକୁ ସକ୍ରିୟ ଅଥବା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
@@ -8297,8 +8297,8 @@ msgstr ""
 #: workspace/khotkeys/data/kde32b1.khotkeys:548
 #: workspace/khotkeys/data/kde32b1.khotkeys:762
 #: workspace/khotkeys/data/kde32b1.khotkeys:1090
-#: workspace/khotkeys/data/kde32b1.khotkeys:1408
-#: workspace/khotkeys/data/kde32b1.khotkeys:2389
+#: workspace/khotkeys/data/kde32b1.khotkeys:1409
+#: workspace/khotkeys/data/kde32b1.khotkeys:2390
 #: workspace/khotkeys/data/printscreen.khotkeys:265
 msgctxt "Comment"
 msgid "Simple_action"
@@ -8393,17 +8393,17 @@ msgctxt "Name"
 msgid "Next in XMMS"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:1246
+#: workspace/khotkeys/data/kde32b1.khotkeys:1247
 msgctxt "Comment"
 msgid "XMMS window"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:1327
+#: workspace/khotkeys/data/kde32b1.khotkeys:1328
 msgctxt "Comment"
 msgid "XMMS Player window"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:1471
+#: workspace/khotkeys/data/kde32b1.khotkeys:1472
 msgctxt "Comment"
 msgid ""
 "Konqueror in KDE3.1 has tabs, and now you can also have gestures.\\n\\nJust "
@@ -8426,35 +8426,35 @@ msgid ""
 "window is Konqueror (class contains 'konqueror')."
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:1484
+#: workspace/khotkeys/data/kde32b1.khotkeys:1485
 msgctxt "Name"
 msgid "Konqi Gestures"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:1551
+#: workspace/khotkeys/data/kde32b1.khotkeys:1552
 #: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:147
 msgctxt "Comment"
 msgid "Konqueror window"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:1633
-#: workspace/khotkeys/data/kde32b1.khotkeys:1654
+#: workspace/khotkeys/data/kde32b1.khotkeys:1634
+#: workspace/khotkeys/data/kde32b1.khotkeys:1655
 #: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:229
 #: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:250
 msgctxt "Comment"
 msgid "Konqueror"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:1680
+#: workspace/khotkeys/data/kde32b1.khotkeys:1681
 #: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:340
 msgctxt "Name"
 msgid "Back"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:1773
-#: workspace/khotkeys/data/kde32b1.khotkeys:1928
-#: workspace/khotkeys/data/kde32b1.khotkeys:2080
-#: workspace/khotkeys/data/kde32b1.khotkeys:2234
+#: workspace/khotkeys/data/kde32b1.khotkeys:1774
+#: workspace/khotkeys/data/kde32b1.khotkeys:1929
+#: workspace/khotkeys/data/kde32b1.khotkeys:2081
+#: workspace/khotkeys/data/kde32b1.khotkeys:2235
 #: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:566
 #: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:762
 #: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:940
@@ -8473,25 +8473,25 @@ msgctxt "Comment"
 msgid "Gesture_triggers"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:1835
+#: workspace/khotkeys/data/kde32b1.khotkeys:1836
 #: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:1921
 msgctxt "Name"
 msgid "Forward"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:1990
+#: workspace/khotkeys/data/kde32b1.khotkeys:1991
 #: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:672
 msgctxt "Name"
 msgid "Up"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:2142
+#: workspace/khotkeys/data/kde32b1.khotkeys:2143
 #: workspace/khotkeys/data/konqueror_gestures_kde321.khotkeys:2944
 msgctxt "Name"
 msgid "Reload"
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:2294
+#: workspace/khotkeys/data/kde32b1.khotkeys:2295
 msgctxt "Comment"
 msgid ""
 "After pressing Win+E (Tux+E) a WWW browser will be launched, and it will "
@@ -8499,7 +8499,7 @@ msgid ""
 "minicli (Alt+F2)."
 msgstr ""
 
-#: workspace/khotkeys/data/kde32b1.khotkeys:2305
+#: workspace/khotkeys/data/kde32b1.khotkeys:2306
 msgctxt "Name"
 msgid "Go to KDE Website"
 msgstr ""
@@ -9514,7 +9514,7 @@ msgctxt "Name"
 msgid "Window-Specific"
 msgstr ""
 
-#: workspace/kwin/kcmkwin/kwinrules/kwinrules.desktop:82
+#: workspace/kwin/kcmkwin/kwinrules/kwinrules.desktop:83
 msgctxt "Comment"
 msgid "Configure settings specifically for a window"
 msgstr ""
@@ -9840,107 +9840,107 @@ msgctxt "Name"
 msgid "Window on All Desktops"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:4618
+#: workspace/kwin/kwin.notifyrc:4619
 msgctxt "Comment"
 msgid "A window is made visible on all desktops"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:4692
+#: workspace/kwin/kwin.notifyrc:4693
 msgctxt "Name"
 msgid "Window Not on All Desktops"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:4757
+#: workspace/kwin/kwin.notifyrc:4759
 msgctxt "Comment"
 msgid "A Window is no longer visible on all desktops"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:4829
+#: workspace/kwin/kwin.notifyrc:4831
 msgctxt "Name"
 msgid "New Dialog"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:4906
+#: workspace/kwin/kwin.notifyrc:4908
 msgctxt "Comment"
 msgid "Transient window (a dialog) appears"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:4974
+#: workspace/kwin/kwin.notifyrc:4976
 msgctxt "Name"
 msgid "Delete Dialog"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5049
+#: workspace/kwin/kwin.notifyrc:5051
 msgctxt "Comment"
 msgid "Transient window (a dialog) is removed"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5118
+#: workspace/kwin/kwin.notifyrc:5120
 msgctxt "Name"
 msgid "Window Move Start"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5188
+#: workspace/kwin/kwin.notifyrc:5190
 msgctxt "Comment"
 msgid "A window has begun moving"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5257
+#: workspace/kwin/kwin.notifyrc:5259
 msgctxt "Name"
 msgid "Window Move End"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5328
+#: workspace/kwin/kwin.notifyrc:5330
 msgctxt "Comment"
 msgid "A window has completed its moving"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5398
+#: workspace/kwin/kwin.notifyrc:5400
 msgctxt "Name"
 msgid "Window Resize Start"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5469
+#: workspace/kwin/kwin.notifyrc:5471
 msgctxt "Comment"
 msgid "A window has begun resizing"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5538
+#: workspace/kwin/kwin.notifyrc:5540
 msgctxt "Name"
 msgid "Window Resize End"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5609
+#: workspace/kwin/kwin.notifyrc:5611
 msgctxt "Comment"
 msgid "A window has finished resizing"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5678
+#: workspace/kwin/kwin.notifyrc:5680
 msgctxt "Name"
 msgid "Window on Current Desktop Demands Attention"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5738
+#: workspace/kwin/kwin.notifyrc:5741
 msgctxt "Comment"
 msgid "A window on the current virtual desktop demands attention"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5803
+#: workspace/kwin/kwin.notifyrc:5806
 msgctxt "Name"
 msgid "Window on Other Desktop Demands Attention"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5863
+#: workspace/kwin/kwin.notifyrc:5867
 msgctxt "Comment"
 msgid "A window on an inactive virtual desktop demands attention"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5925
+#: workspace/kwin/kwin.notifyrc:5929
 msgctxt "Name"
 msgid "Compositing Performance Is Slow"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5974
+#: workspace/kwin/kwin.notifyrc:5978
 msgctxt "Comment"
 msgid ""
 "The compositing performance was too slow and compositing has been suspended"
@@ -9963,12 +9963,12 @@ msgctxt "Comment"
 msgid "KDE write daemon"
 msgstr ""
 
-#: workspace/kwrited/kwrited.notifyrc:60
+#: workspace/kwrited/kwrited.notifyrc:61
 msgctxt "Name"
 msgid "New message received"
 msgstr ""
 
-#: workspace/kwrited/kwrited.notifyrc:113
+#: workspace/kwrited/kwrited.notifyrc:114
 msgctxt "Comment"
 msgid "The daemon received a new message sent with wall(1) or write(1)"
 msgstr ""
@@ -10065,7 +10065,7 @@ msgctxt "Name"
 msgid "Device Notifier"
 msgstr ""
 
-#: workspace/plasma/applets/devicenotifier/plasma-applet-devicenotifier.desktop:60
+#: workspace/plasma/applets/devicenotifier/plasma-applet-devicenotifier.desktop:61
 msgctxt "Comment"
 msgid "Notifications and access for new devices"
 msgstr ""
@@ -10173,7 +10173,7 @@ msgctxt "Name"
 msgid "System Monitor - Hardware Info"
 msgstr "ତନ୍ତ୍ର ନିରିକ୍ଷକ - ହାର୍ଡ଼ୱେର ସୂଚନା"
 
-#: workspace/plasma/applets/system-monitor/plasma-applet-sm_hwinfo.desktop:64
+#: workspace/plasma/applets/system-monitor/plasma-applet-sm_hwinfo.desktop:65
 msgctxt "Comment"
 msgid "Show hardware info"
 msgstr "ହାର୍ଡ଼ୱେର ସୂଚନା ଦର୍ଶାନ୍ତୁ"
@@ -10336,7 +10336,7 @@ msgctxt "Name"
 msgid "Favicons"
 msgstr "Favicons"
 
-#: workspace/plasma/dataengines/favicons/plasma-dataengine-favicons.desktop:52
+#: workspace/plasma/dataengines/favicons/plasma-dataengine-favicons.desktop:53
 msgctxt "Comment"
 msgid "Data Engine for getting favicons of web sites"
 msgstr ""
@@ -10361,7 +10361,7 @@ msgctxt "Name"
 msgid "Pointer Position"
 msgstr "ସୂଚକ ସ୍ଥାନ"
 
-#: workspace/plasma/dataengines/mouse/plasma-dataengine-mouse.desktop:56
+#: workspace/plasma/dataengines/mouse/plasma-dataengine-mouse.desktop:57
 msgctxt "Comment"
 msgid "Mouse data for Plasmoids"
 msgstr "ପ୍ଲାଜମଏଡ଼ ପାଇଁ ମାଉସ ତଥ୍ୟ"
@@ -10521,7 +10521,7 @@ msgctxt "Name"
 msgid "Nepomuk Desktop Search Runner"
 msgstr "Nepomuk ଡ଼େସ୍କଟପ ସନ୍ଧାନ ଚାଳକ"
 
-#: workspace/plasma/runners/nepomuksearch/plasma-runner-nepomuksearch.desktop:54
+#: workspace/plasma/runners/nepomuksearch/plasma-runner-nepomuksearch.desktop:55
 msgctxt "Comment"
 msgid "KRunner which performs desktop searches via Nepomuk"
 msgstr ""
@@ -10536,7 +10536,7 @@ msgctxt "Comment"
 msgid "Basic Power Management Operations"
 msgstr "ମୌଳିକ ଶକ୍ତି ପରିଚାଳନା ପ୍ରୟୋଗଗୁଡ଼ିକ"
 
-#: workspace/plasma/runners/powerdevil/plasma-runner-powerdevil.desktop:58
+#: workspace/plasma/runners/powerdevil/plasma-runner-powerdevil.desktop:59
 #: workspace/powerdevil/daemon/powerdevil.desktop:11
 msgctxt "Name"
 msgid "PowerDevil"
@@ -10617,7 +10617,7 @@ msgctxt "Name"
 msgid "JavaScript Runner"
 msgstr "JavaScript ଚାଳକ"
 
-#: workspace/plasma/scriptengines/javascript/plasma-scriptengine-runner-javascript.desktop:58
+#: workspace/plasma/scriptengines/javascript/plasma-scriptengine-runner-javascript.desktop:59
 msgctxt "Comment"
 msgid "JavaScript Runner"
 msgstr "JavaScript ଚାଳକ"
@@ -10627,7 +10627,7 @@ msgctxt "Name"
 msgid "javascript-config-test"
 msgstr "javascript-config-test"
 
-#: workspace/plasma/scriptengines/javascript/tests/javascript-config-test/metadata.desktop:12
+#: workspace/plasma/scriptengines/javascript/tests/javascript-config-test/metadata.desktop:13
 msgctxt "Comment"
 msgid "Javascript config object test widget"
 msgstr ""
@@ -11045,22 +11045,22 @@ msgid "Network management using the NetworkManager daemon, version 0.7"
 msgstr "ନେଟୱର୍କ ପରିଚାଳକ ଡ଼େମନ ବ୍ୟବହାର କରି ନେଟୱର୍କ ପରିଚାଳନା, ସଂସ୍କରଣ 0.7"
 
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-AcAdapter.desktop:2
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:47
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:51
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-Battery.desktop:28
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Block.desktop:34
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Block.desktop:37
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-Button.desktop:15
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-Camera.desktop:2
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:50
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:54
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-GenericInterface.desktop:2
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-NetworkInterface.desktop:39
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:100
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:34
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-NetworkInterface.desktop:41
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:105
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:37
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-PortableMediaPlayer.desktop:2
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Processor.desktop:50
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-SerialInterface.desktop:12
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageAccess.desktop:26
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageDrive.desktop:34
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:38
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Processor.desktop:54
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-SerialInterface.desktop:14
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageAccess.desktop:28
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageDrive.desktop:37
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:40
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-Video.desktop:2
 msgctxt "Name"
 msgid "Object Name"
@@ -11072,7 +11072,7 @@ msgctxt "Name"
 msgid "Plugged"
 msgstr ""
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AcAdapter.desktop:27
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AcAdapter.desktop:28
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "A Script Adaptor"
@@ -11081,7 +11081,7 @@ msgid "Ac Adapter"
 msgstr "ଗୋଟିଏ ସ୍କ୍ରିପ୍ଟ ଏଡ଼ପଟର"
 
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:2
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:38
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:41
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Devices"
@@ -11089,12 +11089,12 @@ msgctxt "Name"
 msgid "Device Type"
 msgstr "ଉପକରଣଗୁଡ଼ିକ"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:14
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:15
 msgctxt "Name"
 msgid "Driver"
 msgstr ""
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:25
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:26
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-SerialInterface.desktop:2
 #, fuzzy
 #| msgctxt "GenericName"
@@ -11103,7 +11103,7 @@ msgctxt "Name"
 msgid "Driver Handle"
 msgstr "DJ-ମିଶ୍ରକ ଏବଂ ଚାଳକ"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:35
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:38
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Game"
@@ -11111,12 +11111,12 @@ msgctxt "Name"
 msgid "Name"
 msgstr "ଖେଳ"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:60
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:64
 msgctxt "Name"
 msgid "Soundcard Type"
 msgstr ""
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:73
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:77
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Network Interfaces"
@@ -11134,18 +11134,18 @@ msgctxt "Name"
 msgid "Charge State"
 msgstr ""
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Battery.desktop:53
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Battery.desktop:54
 msgctxt "Name"
 msgid "Rechargeable"
 msgstr ""
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Battery.desktop:66
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Button.desktop:39
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Battery.desktop:67
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Button.desktop:41
 msgctxt "Name"
 msgid "Type"
 msgstr ""
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Battery.desktop:78
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Battery.desktop:79
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Low Battery"
@@ -11162,7 +11162,7 @@ msgctxt "Name"
 msgid "Device"
 msgstr "ଉପକରଣଗୁଡ଼ିକ"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Block.desktop:14
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Block.desktop:15
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Moria"
@@ -11170,7 +11170,7 @@ msgctxt "Name"
 msgid "Major"
 msgstr "ମୋରିଆ"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Block.desktop:24
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Block.desktop:26
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Moria"
@@ -11178,7 +11178,7 @@ msgctxt "Name"
 msgid "Minor"
 msgstr "ମୋରିଆ"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Block.desktop:47
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Block.desktop:50
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Clock"
@@ -11199,7 +11199,7 @@ msgctxt "Name"
 msgid "State Value"
 msgstr "ଯୁକ୍ତି ଖେଳ"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Button.desktop:51
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Button.desktop:53
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Bhutan"
@@ -11223,7 +11223,7 @@ msgctxt "Name"
 msgid "Supported Protocols"
 msgstr "ପ୍ରୋଟୋକଲଗୁଡ଼ିକ"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Camera.desktop:40
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Camera.desktop:41
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Cameroon"
@@ -11231,7 +11231,7 @@ msgctxt "Name"
 msgid "Camera"
 msgstr "କାମେରୁନ"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:14
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:15
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Service Manager"
@@ -11239,7 +11239,7 @@ msgctxt "Name"
 msgid "Device Adapter"
 msgstr "ସର୍ଭିସ ପରିଚାଳକ"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:26
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:28
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Help Index"
@@ -11247,7 +11247,7 @@ msgctxt "Name"
 msgid "Device Index"
 msgstr "ସହାୟତା ଅନୁକ୍ରମଣିକା"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:63
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:67
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Network Interfaces"
@@ -11276,17 +11276,17 @@ msgctxt "Name"
 msgid "Iface Name"
 msgstr "ଡ଼ାଇସ ଖେଳ"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-NetworkInterface.desktop:26
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-NetworkInterface.desktop:28
 msgctxt "Name"
 msgid "Mac Address"
 msgstr ""
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-NetworkInterface.desktop:52
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-NetworkInterface.desktop:54
 msgctxt "Name"
 msgid "Wireless"
 msgstr ""
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-NetworkInterface.desktop:64
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-NetworkInterface.desktop:67
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Network Interfaces"
@@ -11302,12 +11302,12 @@ msgctxt "Name"
 msgid "Appendable"
 msgstr "ଦୃଶ୍ୟ"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:14
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:15
 msgctxt "Name"
 msgid "Available Content"
 msgstr ""
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:27
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:28
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Plan"
@@ -11315,7 +11315,7 @@ msgctxt "Name"
 msgid "Blank"
 msgstr "ଯୋଜନା"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:39
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:41
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Audacity"
@@ -11323,18 +11323,18 @@ msgctxt "Name"
 msgid "Capacity"
 msgstr "Audacity"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:51
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:54
 msgctxt "Name"
 msgid "Disc Type"
 msgstr ""
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:64
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:67
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:2
 msgctxt "Name"
 msgid "Fs Type"
 msgstr ""
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:77
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:80
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:15
 #, fuzzy
 #| msgctxt "Name"
@@ -11343,8 +11343,8 @@ msgctxt "Name"
 msgid "Ignored"
 msgstr "Iagno"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:89
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:27
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:93
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:28
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Panel"
@@ -11352,13 +11352,13 @@ msgctxt "Name"
 msgid "Label"
 msgstr "ଫଳକ"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:113
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:118
 msgctxt "Name"
 msgid "Rewritable"
 msgstr ""
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:126
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:51
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:131
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:53
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Belize"
@@ -11366,8 +11366,8 @@ msgctxt "Name"
 msgid "Size"
 msgstr "ବେଲିଜ"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:138
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:63
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:144
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:66
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Pager"
@@ -11375,13 +11375,13 @@ msgctxt "Name"
 msgid "Usage"
 msgstr "ପେଜର"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:150
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:75
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:157
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:79
 msgctxt "Name"
 msgid "Uuid"
 msgstr ""
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:157
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:165
 msgctxt "Name"
 msgid "Optical Disc"
 msgstr ""
@@ -11395,14 +11395,14 @@ msgctxt "Name"
 msgid "Bus"
 msgstr "ବେଲାରୁସ"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:11
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageDrive.desktop:11
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:12
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageDrive.desktop:12
 msgctxt "Name"
 msgid "Drive Type"
 msgstr ""
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:24
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageDrive.desktop:24
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:25
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageDrive.desktop:25
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Portugal"
@@ -11410,7 +11410,7 @@ msgctxt "Name"
 msgid "Hotpluggable"
 msgstr "ପର୍ତ୍ତୁଗାଲ"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:47
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:50
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Spread Sheet"
@@ -11418,33 +11418,33 @@ msgctxt "Name"
 msgid "Read Speed"
 msgstr "ସ୍ପ୍ରେଡ଼ ସୀଟ"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:59
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageDrive.desktop:47
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:63
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageDrive.desktop:50
 msgctxt "Name"
 msgid "Removable"
 msgstr ""
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:72
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:76
 msgctxt "Name"
 msgid "Supported Media"
 msgstr ""
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:85
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:89
 msgctxt "Name"
 msgid "Write Speed"
 msgstr ""
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:98
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:102
 msgctxt "Name"
 msgid "Write Speeds"
 msgstr ""
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:111
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:115
 msgctxt "Name"
 msgid "Optical Drive"
 msgstr ""
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-PortableMediaPlayer.desktop:40
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-PortableMediaPlayer.desktop:41
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Multimedia Player"
@@ -11465,7 +11465,7 @@ msgctxt "Name"
 msgid "Instruction Sets"
 msgstr "ଅବୈଧ ନିର୍ଦ୍ଦେଶ।"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Processor.desktop:26
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Processor.desktop:28
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Mac Scheme"
@@ -11473,7 +11473,7 @@ msgctxt "Name"
 msgid "Max Speed"
 msgstr "Mac ଯୋଜନା"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Processor.desktop:38
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Processor.desktop:41
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Niue"
@@ -11481,7 +11481,7 @@ msgctxt "Name"
 msgid "Number"
 msgstr "ନିଉ"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-SerialInterface.desktop:25
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-SerialInterface.desktop:27
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Forte"
@@ -11489,12 +11489,12 @@ msgctxt "Name"
 msgid "Port"
 msgstr "ଫର୍ଟ"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-SerialInterface.desktop:32
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-SerialInterface.desktop:35
 msgctxt "Name"
 msgid "Serial Type"
 msgstr ""
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-SerialInterface.desktop:44
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-SerialInterface.desktop:48
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Network Interfaces"
@@ -11510,7 +11510,7 @@ msgctxt "Name"
 msgid "Accessible"
 msgstr "ଅଭିଗମ୍ୟତା"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageAccess.desktop:14
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageAccess.desktop:15
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Find Part"
@@ -11518,7 +11518,7 @@ msgctxt "Name"
 msgid "File Path"
 msgstr "ଅଂଶ ଖୋଜନ୍ତୁ"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageAccess.desktop:39
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageAccess.desktop:41
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Remote Access"
@@ -11526,12 +11526,12 @@ msgctxt "Name"
 msgid "Storage Access"
 msgstr "ସୁଦୂର ଅଭିଗମ୍ୟତା"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageDrive.desktop:60
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageDrive.desktop:63
 msgctxt "Name"
 msgid "Storage Drive"
 msgstr ""
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:82
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:87
 msgctxt "Name"
 msgid "Storage Volume"
 msgstr ""
@@ -11549,7 +11549,7 @@ msgctxt "Name"
 msgid "Device Actions"
 msgstr "ଯନ୍ତ୍ର ସୂଚନା"
 
-#: workspace/solid/solid-actions-kcm/solid-actions.desktop:24
+#: workspace/solid/solid-actions-kcm/solid-actions.desktop:25
 msgctxt "Comment"
 msgid ""
 "A configuration tool for managing the actions available to the user when "
