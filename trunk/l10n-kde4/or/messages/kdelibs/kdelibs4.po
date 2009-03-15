@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-03-14 10:45+0100\n"
+"POT-Creation-Date: 2009-03-15 10:26+0100\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -6227,8 +6227,8 @@ msgstr ""
 msgid "Reset Toolbars"
 msgstr "ସାଧନପଟିଗୁଡିକୁ ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ"
 
-#: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2964
-#: khtml/khtmlview.cpp:2997 khtml/html/html_formimpl.cpp:1807
+#: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2901
+#: khtml/khtmlview.cpp:2934 khtml/html/html_formimpl.cpp:1807
 msgid "Reset"
 msgstr "ପୁନଃସ୍ଥାପନ କରନ୍ତୁ"
 
@@ -10234,7 +10234,7 @@ msgstr ""
 "<qt>ଏହି ଫର୍ମଟି ଦାଖଲ ହେବ <br /><b>%1</b><br />ଆପଣଙ୍କର ସ୍ଥାନୀୟ ଫାଇଲତନ୍ତ୍ରରେ।<br />ଆପଣ "
 "ଏହି ଫର୍ମକୁ ଦାଖଲ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?</qt>"
 
-#: khtml/khtml_part.cpp:4639 khtml/khtmlview.cpp:2950 khtml/khtmlview.cpp:2992
+#: khtml/khtml_part.cpp:4639 khtml/khtmlview.cpp:2887 khtml/khtmlview.cpp:2929
 #: khtml/html/html_formimpl.cpp:1603 khtml/html/html_formimpl.cpp:1815
 msgid "Submit"
 msgstr "ଦାଖଲ କରନ୍ତୁ"
@@ -10344,39 +10344,39 @@ msgstr ""
 msgid "Remove from ignores..."
 msgstr ""
 
-#: khtml/khtmlview.cpp:1913
+#: khtml/khtmlview.cpp:1850
 msgid "Find stopped."
 msgstr "ଖୋଜିବା ବନ୍ଦ ହୋଇଯାଇଛି।"
 
-#: khtml/khtmlview.cpp:1924
+#: khtml/khtmlview.cpp:1861
 msgid "Starting -- find links as you type"
 msgstr ""
 
-#: khtml/khtmlview.cpp:1930
+#: khtml/khtmlview.cpp:1867
 msgid "Starting -- find text as you type"
 msgstr ""
 
-#: khtml/khtmlview.cpp:1953
+#: khtml/khtmlview.cpp:1890
 #, kde-format
 msgid "Link found: \"%1\"."
 msgstr "ସଂଯୋଗ ମିଳିଲା: \"%1\"।"
 
-#: khtml/khtmlview.cpp:1958
+#: khtml/khtmlview.cpp:1895
 #, kde-format
 msgid "Link not found: \"%1\"."
 msgstr "ସଂଯୋଗ ମିଳିଲା ନାହିଁ: \"%1\"।"
 
-#: khtml/khtmlview.cpp:1966
+#: khtml/khtmlview.cpp:1903
 #, kde-format
 msgid "Text found: \"%1\"."
 msgstr "ପାଠ୍ୟ ମିଳିଲା: \"%1\"।"
 
-#: khtml/khtmlview.cpp:1971
+#: khtml/khtmlview.cpp:1908
 #, kde-format
 msgid "Text not found: \"%1\"."
 msgstr "ପାଠ୍ୟ ମିଳିଲା ନାହିଁ: \"%1\"।"
 
-#: khtml/khtmlview.cpp:2014
+#: khtml/khtmlview.cpp:1951
 msgid "Access Keys activated"
 msgstr ""
 
@@ -10408,7 +10408,7 @@ msgstr "ମାରାତ୍ମକ ବିଶ୍ଳେଷଣ ତ୍ରୁଟି: %1
 msgid "XML parsing error"
 msgstr "XML ବିଶ୍ଳେଷଣ ତ୍ରୁଟି"
 
-#: khtml/xml/dom_docimpl.cpp:2257
+#: khtml/xml/dom_docimpl.cpp:2256
 msgid "Basic Page Style"
 msgstr "ମୌଳିକ ପୃଷ୍ଠା ଶୈଳୀ"
 
@@ -10427,62 +10427,62 @@ msgstr "JavaScript"
 msgid "&Abort"
 msgstr "ବିଷୟରେ (&A)"
 
-#: khtml/ecma/kjs_window.cpp:1593 khtml/ecma/kjs_html.cpp:2105
+#: khtml/ecma/kjs_window.cpp:1586 khtml/ecma/kjs_html.cpp:2105
 msgid "Confirmation: JavaScript Popup"
 msgstr "ନିଶ୍ଚତତା: JavaScript ପପ୍ ଅପ୍"
 
-#: khtml/ecma/kjs_window.cpp:1596
+#: khtml/ecma/kjs_window.cpp:1589
 msgid ""
 "This site is requesting to open up a new browser window via JavaScript.\n"
 "Do you want to allow this?"
 msgstr ""
 
-#: khtml/ecma/kjs_window.cpp:1599
+#: khtml/ecma/kjs_window.cpp:1592
 #, kde-format
 msgid ""
 "<qt>This site is requesting to open<p>%1</p>in a new browser window via "
 "JavaScript.<br />Do you want to allow this?</qt>"
 msgstr ""
 
-#: khtml/ecma/kjs_window.cpp:1601 khtml/ecma/kjs_html.cpp:2112
+#: khtml/ecma/kjs_window.cpp:1594 khtml/ecma/kjs_html.cpp:2112
 msgid "Allow"
 msgstr "ସ୍ବୀକାର କରନ୍ତୁ"
 
-#: khtml/ecma/kjs_window.cpp:1601 khtml/ecma/kjs_html.cpp:2112
+#: khtml/ecma/kjs_window.cpp:1594 khtml/ecma/kjs_html.cpp:2112
 msgid "Do Not Allow"
 msgstr "ଅନୁମତି ଦିଅନ୍ତୁନାହିଁ"
 
-#: khtml/ecma/kjs_window.cpp:1900
+#: khtml/ecma/kjs_window.cpp:1893
 msgid "Close window?"
 msgstr "ୱିଣ୍ଡୋ ବନ୍ଦ କରିବେ କି?"
 
-#: khtml/ecma/kjs_window.cpp:1900
+#: khtml/ecma/kjs_window.cpp:1893
 msgid "Confirmation Required"
 msgstr "ନିଶ୍ଚିତତା ଆବଶ୍ୟକ"
 
-#: khtml/ecma/kjs_window.cpp:2758
+#: khtml/ecma/kjs_window.cpp:2751
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" to be added to your "
 "collection?"
 msgstr ""
 
-#: khtml/ecma/kjs_window.cpp:2761
+#: khtml/ecma/kjs_window.cpp:2754
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
 "added to your collection?"
 msgstr ""
 
-#: khtml/ecma/kjs_window.cpp:2769
+#: khtml/ecma/kjs_window.cpp:2762
 msgid "JavaScript Attempted Bookmark Insert"
 msgstr ""
 
-#: khtml/ecma/kjs_window.cpp:2773
+#: khtml/ecma/kjs_window.cpp:2766
 msgid "Insert"
 msgstr "ଭର୍ତ୍ତୀ କରନ୍ତୁ"
 
-#: khtml/ecma/kjs_window.cpp:2773
+#: khtml/ecma/kjs_window.cpp:2766
 msgid "Disallow"
 msgstr "ଅସ୍ବୀକାର କରନ୍ତୁ"
 
