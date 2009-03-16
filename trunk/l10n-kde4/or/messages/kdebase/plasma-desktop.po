@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-03-12 10:21+0100\n"
+"POT-Creation-Date: 2009-03-16 10:32+0100\n"
 "PO-Revision-Date: 2009-01-02 11:49+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -41,7 +41,7 @@ msgstr ""
 msgid "Widget Dashboard"
 msgstr ""
 
-#: dashboardview.cpp:142 plasmaapp.cpp:526
+#: dashboardview.cpp:142 plasmaapp.cpp:527
 msgid "Add Widgets"
 msgstr ""
 
@@ -153,12 +153,16 @@ msgstr ""
 msgid "Bottom"
 msgstr ""
 
-#: plasmaapp.cpp:169
+#: plasmaapp.cpp:170
 msgid "Show Dashboard"
 msgstr ""
 
-#: plasmaapp.cpp:478
+#: plasmaapp.cpp:479
 msgid "Add Activity"
+msgstr ""
+
+#: plasmaapp.cpp:848
+msgid "Different activity for each desktop"
 msgstr ""
 
 #: positioningruler.cpp:462
