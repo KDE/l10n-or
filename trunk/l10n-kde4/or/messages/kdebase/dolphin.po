@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-03-26 10:47+0100\n"
+"POT-Creation-Date: 2009-03-27 10:54+0100\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -57,7 +57,7 @@ msgctxt "@label:textbox"
 msgid "Filter:"
 msgstr "ଛାଣକ:"
 
-#: draganddrophelper.cpp:116
+#: draganddrophelper.cpp:125
 msgctxt "@info:status"
 msgid "A folder cannot be dropped into itself"
 msgstr ""
@@ -177,9 +177,14 @@ msgctxt "@info:status"
 msgid "Invalid protocol"
 msgstr "ଅବୈଧ ପ୍ରୋଟୋକଲ"
 
+#: dolphinsearchbox.cpp:44
+msgctxt "@label:textbox"
+msgid "Search..."
+msgstr ""
+
 #: dolphinsearchbox.cpp:52
 msgctxt "@info:tooltip"
-msgid "Search"
+msgid "Click to begin the search"
 msgstr ""
 
 #: renamedialog.cpp:41
@@ -343,7 +348,7 @@ msgctxt "@action:inmenu"
 msgid "Restore"
 msgstr "ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ"
 
-#: dolphincontextmenu.cpp:193 dolphinmainwindow.cpp:1096
+#: dolphincontextmenu.cpp:193 dolphinmainwindow.cpp:1103
 msgctxt "@title:menu Create new folder, file, link, etc."
 msgid "Create New"
 msgstr "ନୂତନ ନିର୍ମାଣ କରନ୍ତୁ"
@@ -395,38 +400,38 @@ msgctxt "@title:group Size"
 msgid "Big"
 msgstr "ବଡ଼"
 
-#: dolphinmodel.cpp:229
+#: dolphinmodel.cpp:228
 msgctxt "@title:group Date"
 msgid "Today"
 msgstr "ଆଜି"
 
-#: dolphinmodel.cpp:230
+#: dolphinmodel.cpp:229
 msgctxt "@title:group Date"
 msgid "Yesterday"
 msgstr "ଗତକାଲି"
 
-#: dolphinmodel.cpp:231
+#: dolphinmodel.cpp:230
 #, c-format
 msgctxt "@title:group The week day name: %A"
 msgid "%A"
 msgstr "%A"
 
-#: dolphinmodel.cpp:235
+#: dolphinmodel.cpp:234
 msgctxt "@title:group Date"
 msgid "Last Week"
 msgstr "ଗତ ସପ୍ତାହ"
 
-#: dolphinmodel.cpp:238
+#: dolphinmodel.cpp:237
 msgctxt "@title:group Date"
 msgid "Two Weeks Ago"
 msgstr "ଦୁଇ ସପ୍ତାହ ତଳେ"
 
-#: dolphinmodel.cpp:241
+#: dolphinmodel.cpp:240
 msgctxt "@title:group Date"
 msgid "Three Weeks Ago"
 msgstr "ତିନି ସପ୍ତାହ ତଳେ"
 
-#: dolphinmodel.cpp:245
+#: dolphinmodel.cpp:244
 msgctxt "@title:group Date"
 msgid "Earlier this Month"
 msgstr "ଏହି ମାସ ଆରମ୍ଭରେ"
@@ -550,12 +555,12 @@ msgctxt "@action:inmenu"
 msgid "Preview"
 msgstr "ପ୍ରାକଦର୍ଶନ:"
 
-#: panels/information/informationpanel.cpp:237
+#: panels/information/informationpanel.cpp:239
 msgctxt "@action:inmenu"
 msgid "Rating"
 msgstr ""
 
-#: panels/information/informationpanel.cpp:242
+#: panels/information/informationpanel.cpp:245
 #, fuzzy
 #| msgctxt "@label"
 #| msgid "Add Comment..."
@@ -563,7 +568,7 @@ msgctxt "@action:inmenu"
 msgid "Comment"
 msgstr "ଟିପ୍ପଣୀ ଯୋଗକରନ୍ତୁ..."
 
-#: panels/information/informationpanel.cpp:247
+#: panels/information/informationpanel.cpp:251
 #, fuzzy
 #| msgctxt "@label"
 #| msgid "Trash"
@@ -571,7 +576,7 @@ msgctxt "@action:inmenu"
 msgid "Tags"
 msgstr "ଆବର୍ଜନା ପାତ୍ର"
 
-#: panels/information/informationpanel.cpp:344
+#: panels/information/informationpanel.cpp:349
 #, kde-format
 msgctxt "@info"
 msgid "%1 item selected"
@@ -579,29 +584,29 @@ msgid_plural "%1 items selected"
 msgstr[0] "%1 ବସ୍ତୁ ବଛାହୋଇଛି"
 msgstr[1] "%1 ବସ୍ତୁ ବଛାହୋଇଛି"
 
-#: panels/information/informationpanel.cpp:534
+#: panels/information/informationpanel.cpp:539
 msgctxt "@label"
 msgid "Total size:"
 msgstr "ଆକାର ସମଷ୍ଟି:"
 
-#: panels/information/informationpanel.cpp:541
-#: panels/information/informationpanel.cpp:544
+#: panels/information/informationpanel.cpp:546
+#: panels/information/informationpanel.cpp:549
 msgctxt "@label"
 msgid "Type:"
 msgstr "ପ୍ରକାର:"
 
-#: panels/information/informationpanel.cpp:541
+#: panels/information/informationpanel.cpp:546
 msgctxt "@label"
 msgid "Folder"
 msgstr "ଫୋଲଡ଼ର"
 
-#: panels/information/informationpanel.cpp:542
 #: panels/information/informationpanel.cpp:547
+#: panels/information/informationpanel.cpp:552
 msgctxt "@label"
 msgid "Modified:"
 msgstr "ପରିବର୍ତ୍ତିତ:"
 
-#: panels/information/informationpanel.cpp:546
+#: panels/information/informationpanel.cpp:551
 msgctxt "@label"
 msgid "Size:"
 msgstr "ଆକାର:"
@@ -669,42 +674,42 @@ msgctxt "@action:inmenu"
 msgid "Show Hidden Files"
 msgstr "ଲୁକ୍କାୟିତ ଫାଇଲଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ"
 
-#: dolphinpart.cpp:165
+#: dolphinpart.cpp:166
 msgctxt "@action:inmenu Edit"
 msgid "&Edit File Type..."
 msgstr ""
 
-#: dolphinpart.cpp:177
+#: dolphinpart.cpp:178
 msgctxt "@action:inmenu Go"
 msgid "App&lications"
 msgstr ""
 
-#: dolphinpart.cpp:180
+#: dolphinpart.cpp:181
 msgctxt "@action:inmenu Go"
 msgid "&Network Folders"
 msgstr ""
 
-#: dolphinpart.cpp:183
+#: dolphinpart.cpp:184
 msgctxt "@action:inmenu Go"
 msgid "Sett&ings"
 msgstr ""
 
-#: dolphinpart.cpp:186
+#: dolphinpart.cpp:187
 msgctxt "@action:inmenu Go"
 msgid "Trash"
 msgstr ""
 
-#: dolphinpart.cpp:189
+#: dolphinpart.cpp:190
 msgctxt "@action:inmenu Go"
 msgid "Autostart"
 msgstr ""
 
-#: dolphinpart.cpp:196
+#: dolphinpart.cpp:197
 msgctxt "@action:inmenu Tools"
 msgid "Open &Terminal"
 msgstr ""
 
-#: dolphinpart.cpp:266
+#: dolphinpart.cpp:267
 msgctxt "@title"
 msgid "Dolphin Part"
 msgstr ""
@@ -1267,146 +1272,146 @@ msgstr ""
 msgid "Do not ask again"
 msgstr ""
 
-#: dolphinmainwindow.cpp:909
+#: dolphinmainwindow.cpp:915
 msgctxt "@action:inmenu"
 msgid "New Tab"
 msgstr ""
 
-#: dolphinmainwindow.cpp:912
+#: dolphinmainwindow.cpp:918
 msgctxt "@action:inmenu"
 msgid "Close Other Tabs"
 msgstr ""
 
-#: dolphinmainwindow.cpp:914
+#: dolphinmainwindow.cpp:920
 msgctxt "@action:inmenu"
 msgid "Close Tab"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1103
+#: dolphinmainwindow.cpp:1110
 msgctxt "@action:inmenu File"
 msgid "New &Window"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1109
+#: dolphinmainwindow.cpp:1116
 msgctxt "@action:inmenu File"
 msgid "New Tab"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1115
+#: dolphinmainwindow.cpp:1122
 msgctxt "@action:inmenu File"
 msgid "Close Tab"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1137
+#: dolphinmainwindow.cpp:1144
 msgctxt "@action:inmenu Edit"
 msgid "Select All"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1142
+#: dolphinmainwindow.cpp:1149
 msgctxt "@action:inmenu Edit"
 msgid "Invert Selection"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1155
+#: dolphinmainwindow.cpp:1162
 msgctxt "@action:inmenu View"
 msgid "Reload"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1161
+#: dolphinmainwindow.cpp:1168
 msgctxt "@action:inmenu View"
 msgid "Stop"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1166
+#: dolphinmainwindow.cpp:1173
 msgctxt "@action:inmenu Navigation Bar"
 msgid "Editable Location"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1171
+#: dolphinmainwindow.cpp:1178
 msgctxt "@action:inmenu Navigation Bar"
 msgid "Replace Location"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1181
+#: dolphinmainwindow.cpp:1188
 msgid "Recently Closed Tabs"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1200
+#: dolphinmainwindow.cpp:1207
 msgctxt "@action:inmenu Tools"
 msgid "Show Search Bar"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1205
+#: dolphinmainwindow.cpp:1212
 msgctxt "@action:inmenu Tools"
 msgid "Show Filter Bar"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1210
+#: dolphinmainwindow.cpp:1217
 msgctxt "@action:inmenu Tools"
 msgid "Compare Files"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1216
+#: dolphinmainwindow.cpp:1223
 msgctxt "@action:inmenu Tools"
 msgid "Open Terminal"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1227
+#: dolphinmainwindow.cpp:1234
 msgctxt "@action:inmenu"
 msgid "Activate Next Tab"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1233
+#: dolphinmainwindow.cpp:1240
 msgctxt "@action:inmenu"
 msgid "Activate Previous Tab"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1240
+#: dolphinmainwindow.cpp:1247
 msgctxt "@action:inmenu"
 msgid "Open in New Tab"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1245
+#: dolphinmainwindow.cpp:1252
 msgctxt "@action:inmenu"
 msgid "Open in New Window"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1255
+#: dolphinmainwindow.cpp:1262
 msgctxt "@action:inmenu"
 msgid "Search Bar"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1263 dolphinmainwindow.cpp:1270
+#: dolphinmainwindow.cpp:1270 dolphinmainwindow.cpp:1277
 msgctxt "@title:window"
 msgid "Information"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1284 dolphinmainwindow.cpp:1291
+#: dolphinmainwindow.cpp:1291 dolphinmainwindow.cpp:1298
 msgctxt "@title:window"
 msgid "Folders"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1306 dolphinmainwindow.cpp:1315
+#: dolphinmainwindow.cpp:1313 dolphinmainwindow.cpp:1322
 msgctxt "@title:window Shell terminal"
 msgid "Terminal"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1333 dolphinmainwindow.cpp:1343
+#: dolphinmainwindow.cpp:1340 dolphinmainwindow.cpp:1350
 msgctxt "@title:window"
 msgid "Places"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1478
+#: dolphinmainwindow.cpp:1485
 msgctxt "@action:intoolbar Close right view"
 msgid "Close"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1481
+#: dolphinmainwindow.cpp:1488
 msgctxt "@action:intoolbar Close left view"
 msgid "Close"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1485
+#: dolphinmainwindow.cpp:1492
 msgctxt "@action:intoolbar Split view"
 msgid "Split"
 msgstr ""
@@ -1970,7 +1975,7 @@ msgctxt "@option:check Additional Information"
 msgid "Type"
 msgstr ""
 
-#: dolphinviewactionhandler.cpp:81
+#: dolphinviewactionhandler.cpp:82
 #, fuzzy
 #| msgctxt "@action:inmenu"
 #| msgid "Paste One Folder"
@@ -1978,7 +1983,7 @@ msgctxt "@action"
 msgid "Create Folder..."
 msgstr "ଗୋଟିଏ ଫୋଲଡ଼ର ଲଗାନ୍ତୁ"
 
-#: dolphinviewactionhandler.cpp:89
+#: dolphinviewactionhandler.cpp:90
 #, fuzzy
 #| msgctxt "@action:inmenu"
 #| msgid "Rename..."
@@ -1986,7 +1991,7 @@ msgctxt "@action:inmenu File"
 msgid "Rename..."
 msgstr "ପୁନଃ ନାମକରଣ କରନ୍ତୁ..."
 
-#: dolphinviewactionhandler.cpp:95
+#: dolphinviewactionhandler.cpp:96
 #, fuzzy
 #| msgctxt "@action:inmenu"
 #| msgid "Move To Trash"
@@ -1994,7 +1999,7 @@ msgctxt "@action:inmenu File"
 msgid "Move to Trash"
 msgstr "ଆବର୍ଜନା ପାତ୍ର ମଧ୍ଯକୁ ପଠାନ୍ତୁ"
 
-#: dolphinviewactionhandler.cpp:103
+#: dolphinviewactionhandler.cpp:104
 #, fuzzy
 #| msgctxt "@action:inmenu"
 #| msgid "Delete"
@@ -2002,12 +2007,12 @@ msgctxt "@action:inmenu File"
 msgid "Delete"
 msgstr "ଅପସାରଣ କରନ୍ତୁ"
 
-#: dolphinviewactionhandler.cpp:113
+#: dolphinviewactionhandler.cpp:114
 msgctxt "@action:inmenu File"
 msgid "Delete (using shortcut for Trash)"
 msgstr ""
 
-#: dolphinviewactionhandler.cpp:120
+#: dolphinviewactionhandler.cpp:121
 #, fuzzy
 #| msgctxt "@action:inmenu"
 #| msgid "Properties"
@@ -2015,7 +2020,7 @@ msgctxt "@action:inmenu File"
 msgid "Properties"
 msgstr "ଗୁଣଧର୍ମ"
 
-#: dolphinviewactionhandler.cpp:142
+#: dolphinviewactionhandler.cpp:143
 #, fuzzy
 #| msgctxt "@label:listbox"
 #| msgid "Preview:"
@@ -2023,17 +2028,17 @@ msgctxt "@action:intoolbar"
 msgid "Preview"
 msgstr "ପ୍ରାକଦର୍ଶନ:"
 
-#: dolphinviewactionhandler.cpp:147
+#: dolphinviewactionhandler.cpp:148
 msgctxt "@action:inmenu Sort"
 msgid "Descending"
 msgstr ""
 
-#: dolphinviewactionhandler.cpp:157
+#: dolphinviewactionhandler.cpp:158
 msgctxt "@action:inmenu View"
 msgid "Show in Groups"
 msgstr ""
 
-#: dolphinviewactionhandler.cpp:161
+#: dolphinviewactionhandler.cpp:162
 #, fuzzy
 #| msgctxt "@action:inmenu"
 #| msgid "Show Hidden Files"
@@ -2041,7 +2046,7 @@ msgctxt "@action:inmenu View"
 msgid "Show Hidden Files"
 msgstr "ଲୁକ୍କାୟିତ ଫାଇଲଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ"
 
-#: dolphinviewactionhandler.cpp:166
+#: dolphinviewactionhandler.cpp:167
 #, fuzzy
 #| msgctxt "@title:group"
 #| msgid "View Properties"
@@ -2049,12 +2054,12 @@ msgctxt "@action:inmenu View"
 msgid "Adjust View Properties..."
 msgstr "ଗୁଣଧର୍ମ ଦେଖନ୍ତୁ"
 
-#: dolphinviewactionhandler.cpp:172
+#: dolphinviewactionhandler.cpp:173
 msgctxt "@action:inmenu Tools"
 msgid "Find File..."
 msgstr ""
 
-#: dolphinviewactionhandler.cpp:184
+#: dolphinviewactionhandler.cpp:185
 #, fuzzy
 #| msgctxt "@label"
 #| msgid "Size:"
@@ -2062,7 +2067,7 @@ msgctxt "@action:inmenu Additional information"
 msgid "Size"
 msgstr "ଆକାର:"
 
-#: dolphinviewactionhandler.cpp:189
+#: dolphinviewactionhandler.cpp:190
 #, fuzzy
 #| msgctxt "@action:inmenu"
 #| msgid "Paste"
@@ -2070,22 +2075,22 @@ msgctxt "@action:inmenu Additional information"
 msgid "Date"
 msgstr "ଲଗାନ୍ତୁ"
 
-#: dolphinviewactionhandler.cpp:194
+#: dolphinviewactionhandler.cpp:195
 msgctxt "@action:inmenu Additional information"
 msgid "Permissions"
 msgstr ""
 
-#: dolphinviewactionhandler.cpp:199
+#: dolphinviewactionhandler.cpp:200
 msgctxt "@action:inmenu Additional information"
 msgid "Owner"
 msgstr ""
 
-#: dolphinviewactionhandler.cpp:204
+#: dolphinviewactionhandler.cpp:205
 msgctxt "@action:inmenu Additional information"
 msgid "Group"
 msgstr ""
 
-#: dolphinviewactionhandler.cpp:209
+#: dolphinviewactionhandler.cpp:210
 #, fuzzy
 #| msgctxt "@label"
 #| msgid "Type:"
@@ -2093,12 +2098,12 @@ msgctxt "@action:inmenu Additional information"
 msgid "Type"
 msgstr "ପ୍ରକାର:"
 
-#: dolphinviewactionhandler.cpp:224
+#: dolphinviewactionhandler.cpp:225
 msgctxt "@action:inmenu Sort By"
 msgid "Name"
 msgstr ""
 
-#: dolphinviewactionhandler.cpp:229
+#: dolphinviewactionhandler.cpp:230
 #, fuzzy
 #| msgctxt "@label"
 #| msgid "Size:"
@@ -2106,7 +2111,7 @@ msgctxt "@action:inmenu Sort By"
 msgid "Size"
 msgstr "ଆକାର:"
 
-#: dolphinviewactionhandler.cpp:234
+#: dolphinviewactionhandler.cpp:235
 #, fuzzy
 #| msgctxt "@action:inmenu"
 #| msgid "Paste"
@@ -2114,22 +2119,22 @@ msgctxt "@action:inmenu Sort By"
 msgid "Date"
 msgstr "ଲଗାନ୍ତୁ"
 
-#: dolphinviewactionhandler.cpp:239
+#: dolphinviewactionhandler.cpp:240
 msgctxt "@action:inmenu Sort By"
 msgid "Permissions"
 msgstr ""
 
-#: dolphinviewactionhandler.cpp:244
+#: dolphinviewactionhandler.cpp:245
 msgctxt "@action:inmenu Sort By"
 msgid "Owner"
 msgstr ""
 
-#: dolphinviewactionhandler.cpp:249
+#: dolphinviewactionhandler.cpp:250
 msgctxt "@action:inmenu Sort By"
 msgid "Group"
 msgstr ""
 
-#: dolphinviewactionhandler.cpp:254
+#: dolphinviewactionhandler.cpp:255
 #, fuzzy
 #| msgctxt "@label"
 #| msgid "Type:"
@@ -2137,7 +2142,7 @@ msgctxt "@action:inmenu Sort By"
 msgid "Type"
 msgstr "ପ୍ରକାର:"
 
-#: dolphinviewactionhandler.cpp:439
+#: dolphinviewactionhandler.cpp:434
 #, fuzzy
 #| msgctxt "@title:tab"
 #| msgid "Icons"
@@ -2145,7 +2150,7 @@ msgctxt "@action:inmenu View Mode"
 msgid "Icons"
 msgstr "ଚିତ୍ରସଂକେତ"
 
-#: dolphinviewactionhandler.cpp:449
+#: dolphinviewactionhandler.cpp:444
 #, fuzzy
 #| msgctxt "@title:tab"
 #| msgid "Details"
@@ -2153,7 +2158,7 @@ msgctxt "@action:inmenu View Mode"
 msgid "Details"
 msgstr "ବିବରଣୀ"
 
-#: dolphinviewactionhandler.cpp:459
+#: dolphinviewactionhandler.cpp:454
 #, fuzzy
 #| msgctxt "@title:menu"
 #| msgid "Columns"
