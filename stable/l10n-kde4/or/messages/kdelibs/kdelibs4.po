@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-03-28 06:29+0100\n"
+"POT-Creation-Date: 2009-03-30 06:17+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -6273,8 +6273,8 @@ msgstr ""
 msgid "Reset Toolbars"
 msgstr "ସାଧନପଟିଗୁଡିକୁ ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ"
 
-#: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2972
-#: khtml/khtmlview.cpp:3005 khtml/html/html_formimpl.cpp:1810
+#: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2973
+#: khtml/khtmlview.cpp:3006 khtml/html/html_formimpl.cpp:1810
 msgid "Reset"
 msgstr "ପୁନଃସ୍ଥାପନ କରନ୍ତୁ"
 
@@ -9576,31 +9576,31 @@ msgstr "ଅଞ୍ଚଳ"
 msgid "Comment"
 msgstr "ଟିପ୍ପଣୀ"
 
-#: kdeui/widgets/ktextedit.cpp:438 kde3support/kdeui/k3textedit.cpp:232
+#: kdeui/widgets/ktextedit.cpp:439 kde3support/kdeui/k3textedit.cpp:232
 msgid "Check Spelling..."
 msgstr "ବନାନ ଯାଞ୍ଚକରନ୍ତୁ..."
 
-#: kdeui/widgets/ktextedit.cpp:441 kde3support/kdeui/k3textedit.cpp:238
+#: kdeui/widgets/ktextedit.cpp:442 kde3support/kdeui/k3textedit.cpp:238
 msgid "Auto Spell Check"
 msgstr "ସ୍ୱୟଂ ବନାନ ଯାଞ୍ଚ"
 
-#: kdeui/widgets/ktextedit.cpp:445 kde3support/kdeui/k3textedit.cpp:242
+#: kdeui/widgets/ktextedit.cpp:446 kde3support/kdeui/k3textedit.cpp:242
 msgid "Allow Tabulations"
 msgstr "ସାରଣୀକରଣକୁ ଅନୁମତି ଦିଅନ୍ତୁ"
 
-#: kdeui/widgets/ktextedit.cpp:544
+#: kdeui/widgets/ktextedit.cpp:545
 msgid "Suggestions"
 msgstr "ପ୍ରସ୍ତାବଗୁଡ଼ିକ"
 
-#: kdeui/widgets/ktextedit.cpp:546
+#: kdeui/widgets/ktextedit.cpp:547
 msgid "Ignore"
 msgstr "ଅଗ୍ରାହ୍ଯ କରନ୍ତୁ"
 
-#: kdeui/widgets/ktextedit.cpp:547
+#: kdeui/widgets/ktextedit.cpp:548
 msgid "Add to Dictionary"
 msgstr "ଅଭିଧାନରେ ଯୋଗ କରନ୍ତୁ"
 
-#: kdeui/widgets/ktextedit.cpp:693
+#: kdeui/widgets/ktextedit.cpp:694
 msgid "Nothing to spell check."
 msgstr "ବନାନ ଯାଞ୍ଚ କରିବାକୁ କିଛିନାହିଁ।"
 
@@ -10272,7 +10272,7 @@ msgstr ""
 "<qt>ଏହି ଫର୍ମଟି ଦାଖଲ ହେବ <br /><b>%1</b><br />ଆପଣଙ୍କର ସ୍ଥାନୀୟ ଫାଇଲତନ୍ତ୍ରରେ।<br />ଆପଣ "
 "ଏହି ଫର୍ମକୁ ଦାଖଲ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?</qt>"
 
-#: khtml/khtml_part.cpp:4643 khtml/khtmlview.cpp:2958 khtml/khtmlview.cpp:3000
+#: khtml/khtml_part.cpp:4643 khtml/khtmlview.cpp:2959 khtml/khtmlview.cpp:3001
 #: khtml/html/html_formimpl.cpp:1606 khtml/html/html_formimpl.cpp:1818
 msgid "Submit"
 msgstr "ଦାଖଲ କରନ୍ତୁ"
@@ -10382,39 +10382,39 @@ msgstr ""
 msgid "Remove from ignores..."
 msgstr ""
 
-#: khtml/khtmlview.cpp:1927
+#: khtml/khtmlview.cpp:1928
 msgid "Find stopped."
 msgstr "ଖୋଜିବା ବନ୍ଦ ହୋଇଯାଇଛି।"
 
-#: khtml/khtmlview.cpp:1938
+#: khtml/khtmlview.cpp:1939
 msgid "Starting -- find links as you type"
 msgstr ""
 
-#: khtml/khtmlview.cpp:1944
+#: khtml/khtmlview.cpp:1945
 msgid "Starting -- find text as you type"
 msgstr ""
 
-#: khtml/khtmlview.cpp:1967
+#: khtml/khtmlview.cpp:1968
 #, kde-format
 msgid "Link found: \"%1\"."
 msgstr "ସଂଯୋଗ ମିଳିଲା: \"%1\"।"
 
-#: khtml/khtmlview.cpp:1972
+#: khtml/khtmlview.cpp:1973
 #, kde-format
 msgid "Link not found: \"%1\"."
 msgstr "ସଂଯୋଗ ମିଳିଲା ନାହିଁ: \"%1\"।"
 
-#: khtml/khtmlview.cpp:1980
+#: khtml/khtmlview.cpp:1981
 #, kde-format
 msgid "Text found: \"%1\"."
 msgstr "ପାଠ୍ୟ ମିଳିଲା: \"%1\"।"
 
-#: khtml/khtmlview.cpp:1985
+#: khtml/khtmlview.cpp:1986
 #, kde-format
 msgid "Text not found: \"%1\"."
 msgstr "ପାଠ୍ୟ ମିଳିଲା ନାହିଁ: \"%1\"।"
 
-#: khtml/khtmlview.cpp:2028
+#: khtml/khtmlview.cpp:2029
 msgid "Access Keys activated"
 msgstr ""
 
