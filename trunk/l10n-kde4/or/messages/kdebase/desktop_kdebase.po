@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-03-30 08:57+0000\n"
+"POT-Creation-Date: 2009-03-31 09:02+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -10244,6 +10244,20 @@ msgctxt "Comment"
 msgid "System monitoring applet"
 msgstr "ତନ୍ତ୍ର ନିରିକ୍ଷଣ ଆପଲେଟ"
 
+#: workspace/plasma/applets/systemtray/notificationareawatcher/notificationareawatcher.desktop:3
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "KDE Notification Daemon"
+msgctxt "Name"
+msgid "KDED Notification area watcher"
+msgstr "KDE ବିଜ୍ଞପ୍ତି ଡେମନ"
+
+#: workspace/plasma/applets/systemtray/notificationareawatcher/notificationareawatcher.desktop:4
+msgctxt "Comment"
+msgid ""
+"Keep track of applications that want to use the D-Bus based notification area"
+msgstr ""
+
 #: workspace/plasma/applets/systemtray/plasma-applet-systemtray.desktop:2
 msgctxt "Name"
 msgid "System Tray"
@@ -10253,19 +10267,6 @@ msgstr "ତନ୍ତ୍ର ଧାରକ"
 msgctxt "Comment"
 msgid "Access hidden applications minimized in the system tray"
 msgstr "ତନ୍ତ୍ର ଟ୍ରେରେ ଆକାର ଛୋଟହୋଇ ଲୁକ୍କାୟିତ ପ୍ରୟୋଗଗୁଡ଼ିକୁ ବ୍ୟବହାର କରନ୍ତୁ"
-
-#: workspace/plasma/applets/systemtray/systemtraydaemon/systemtraydaemon.desktop:3
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "KDE System Notifications"
-msgctxt "Name"
-msgid "KDED Systemtray daemon"
-msgstr "KDE ତନ୍ତ୍ର ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ"
-
-#: workspace/plasma/applets/systemtray/systemtraydaemon/systemtraydaemon.desktop:21
-msgctxt "Comment"
-msgid "Keep track of applications that want to use the D-Bus based system tray"
-msgstr ""
 
 #: workspace/plasma/applets/tasks/plasma-tasks-default.desktop:2
 msgctxt "Name"
@@ -11730,6 +11731,13 @@ msgstr "ଟେବଲ ଉପରେ ବର୍ଷା ହେଉଅଛି"
 msgctxt "Name"
 msgid "Vector Sunset"
 msgstr "Vector ସୂର୍ଯ୍ୟାସ୍ତ"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "KDE System Notifications"
+#~ msgctxt "Name"
+#~ msgid "KDED Systemtray daemon"
+#~ msgstr "KDE ତନ୍ତ୍ର ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ"
 
 #~ msgctxt "Name"
 #~ msgid "Remote Encoding Plugin"
