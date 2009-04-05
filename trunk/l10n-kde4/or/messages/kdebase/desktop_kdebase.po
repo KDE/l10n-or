@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-04-04 10:42+0000\n"
+"POT-Creation-Date: 2009-04-05 09:18+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -3277,7 +3277,7 @@ msgctxt "Name"
 msgid "Plugins"
 msgstr "ପ୍ଲଗଇନଗୁଡ଼ିକ"
 
-#: apps/nsplugins/khtml_plugins.desktop:97
+#: apps/nsplugins/khtml_plugins.desktop:96
 msgctxt "Comment"
 msgid "Configure the browser plugins"
 msgstr "ବ୍ରାଉଜର ପ୍ଲଗଇନଗୁଡ଼ିକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
@@ -7284,7 +7284,7 @@ msgctxt "Name"
 msgid "PolicyKit Authorization"
 msgstr ""
 
-#: workspace/PolicyKit-kde/authorization/kcm_pkk_authorization.desktop:21
+#: workspace/PolicyKit-kde/authorization/kcm_pkk_authorization.desktop:22
 msgctxt "Comment"
 msgid "Set up policies for applications using PolicyKit"
 msgstr ""
@@ -8268,17 +8268,17 @@ msgid "KHotKeys daemon. No daemon, no hotkeys."
 msgstr ""
 
 #: workspace/khotkeys/data/defaults.khotkeys:5
-#: workspace/khotkeys/data/defaults.khotkeys:29
+#: workspace/khotkeys/data/defaults.khotkeys:31
 msgctxt "Comment"
 msgid "Comment"
 msgstr ""
 
-#: workspace/khotkeys/data/defaults.khotkeys:18
+#: workspace/khotkeys/data/defaults.khotkeys:19
 msgctxt "Name"
 msgid "KMenuEdit"
 msgstr ""
 
-#: workspace/khotkeys/data/defaults.khotkeys:41
+#: workspace/khotkeys/data/defaults.khotkeys:44
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "PHP Search"
@@ -8286,7 +8286,7 @@ msgctxt "Name"
 msgid "Search"
 msgstr "PHP ସନ୍ଧାନ"
 
-#: workspace/khotkeys/data/defaults.khotkeys:66
+#: workspace/khotkeys/data/defaults.khotkeys:70
 #: workspace/khotkeys/data/kde32b1.khotkeys:399
 #: workspace/khotkeys/data/kde32b1.khotkeys:564
 #: workspace/khotkeys/data/kde32b1.khotkeys:782
@@ -10255,7 +10255,7 @@ msgctxt "Name"
 msgid "KDED Notification area watcher"
 msgstr "KDE ବିଜ୍ଞପ୍ତି ଡେମନ"
 
-#: workspace/plasma/applets/systemtray/notificationareawatcher/notificationareawatcher.desktop:11
+#: workspace/plasma/applets/systemtray/notificationareawatcher/notificationareawatcher.desktop:12
 msgctxt "Comment"
 msgid ""
 "Keep track of applications that want to use the D-Bus based notification area"
@@ -10600,11 +10600,6 @@ msgstr "ନିର୍ଦ୍ଦେଶନାମା"
 msgctxt "Comment"
 msgid "Executes shell commands"
 msgstr "ସେଲ ନିର୍ଦ୍ଦେଶଗୁଡ଼ିକୁ ନିଷ୍ପାଦନ କରନ୍ତୁ"
-
-#: workspace/plasma/runners/shell/plasma-runner-shell_config.desktop:9
-msgctxt "Name"
-msgid "Shell Runner Config"
-msgstr "ସେଲ ଚାଳକ ସଂରଚନା"
 
 #: workspace/plasma/runners/webshortcuts/plasma-runner-webshortcuts.desktop:86
 msgctxt "Comment"
@@ -11734,6 +11729,10 @@ msgstr "ଟେବଲ ଉପରେ ବର୍ଷା ହେଉଅଛି"
 msgctxt "Name"
 msgid "Vector Sunset"
 msgstr "Vector ସୂର୍ଯ୍ୟାସ୍ତ"
+
+#~ msgctxt "Name"
+#~ msgid "Shell Runner Config"
+#~ msgstr "ସେଲ ଚାଳକ ସଂରଚନା"
 
 #, fuzzy
 #~| msgctxt "Comment"
