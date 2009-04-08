@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_launcher\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-04-07 11:07+0200\n"
+"POT-Creation-Date: 2009-04-08 11:57+0200\n"
 "PO-Revision-Date: 2009-01-02 11:50+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "\n"
 "\n"
 
-#: ui/flipscrollview.cpp:138 simpleapplet/simpleapplet.cpp:543
+#: ui/flipscrollview.cpp:138 core/applicationmodel.cpp:377
 msgid "All Applications"
 msgstr ""
 
@@ -51,11 +51,12 @@ msgstr ""
 msgid "Safely Remove"
 msgstr ""
 
-#: ui/launcher.cpp:161 simpleapplet/simpleapplet.cpp:189
+#: ui/launcher.cpp:161 core/leavemodel.cpp:106
+#: simpleapplet/simpleapplet.cpp:189
 msgid "Leave"
 msgstr ""
 
-#: ui/launcher.cpp:172 core/favoritesmodel.cpp:44
+#: ui/launcher.cpp:172 core/favoritesmodel.cpp:44 core/favoritesmodel.cpp:265
 #: simpleapplet/simpleapplet.cpp:171
 msgid "Favorites"
 msgstr ""
@@ -73,7 +74,8 @@ msgstr ""
 msgid "Applications"
 msgstr ""
 
-#: ui/launcher.cpp:213 simpleapplet/simpleapplet.cpp:175
+#: ui/launcher.cpp:213 core/recentlyusedmodel.cpp:176
+#: simpleapplet/simpleapplet.cpp:175
 msgid "Recently Used"
 msgstr ""
 
@@ -85,7 +87,8 @@ msgstr ""
 msgid "Clear Recent Documents"
 msgstr ""
 
-#: ui/launcher.cpp:233 simpleapplet/simpleapplet.cpp:174
+#: ui/launcher.cpp:233 core/systemmodel.cpp:369
+#: simpleapplet/simpleapplet.cpp:174
 msgid "Computer"
 msgstr ""
 
@@ -171,16 +174,12 @@ msgstr ""
 msgid "Suspend to RAM"
 msgstr ""
 
-#: core/leavemodel.cpp:103
+#: core/leavemodel.cpp:118
 msgid "Session"
 msgstr ""
 
-#: core/leavemodel.cpp:125
+#: core/leavemodel.cpp:140
 msgid "System"
-msgstr ""
-
-#: core/applicationmodel.cpp:377
-msgid "Known Applications"
 msgstr ""
 
 #: core/models.cpp:117
@@ -193,6 +192,14 @@ msgstr ""
 
 #: core/recentlyusedmodel.cpp:107 core/searchmodel.cpp:221
 msgid "Documents"
+msgstr ""
+
+#: core/recentlyusedmodel.cpp:178 simpleapplet/simpleapplet.cpp:177
+msgid "Recently Used Documents"
+msgstr ""
+
+#: core/recentlyusedmodel.cpp:180 simpleapplet/simpleapplet.cpp:176
+msgid "Recently Used Applications"
 msgstr ""
 
 #: core/systemmodel.cpp:89
@@ -284,14 +291,6 @@ msgstr ""
 msgid "Bookmarks"
 msgstr ""
 
-#: simpleapplet/simpleapplet.cpp:176 simpleapplet/simpleapplet.cpp:559
-msgid "Recently Used Applications"
-msgstr ""
-
-#: simpleapplet/simpleapplet.cpp:177 simpleapplet/simpleapplet.cpp:566
-msgid "Recently Used Documents"
-msgstr ""
-
 #: simpleapplet/simpleapplet.cpp:178
 msgid "System Settings"
 msgstr ""
@@ -350,6 +349,6 @@ msgstr ""
 msgid "Options"
 msgstr ""
 
-#: simpleapplet/simpleapplet.cpp:545
+#: simpleapplet/simpleapplet.cpp:546
 msgid "Actions"
 msgstr ""
