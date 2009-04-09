@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-04-08 11:55+0200\n"
+"POT-Creation-Date: 2009-04-09 11:04+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -5243,8 +5243,8 @@ msgstr "ଏହି ଭରଣକୁ ଆକଳନ କରନ୍ତୁ"
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:448
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:538
 #: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:67
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:191
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:199
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:194
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:202
 msgid "Install"
 msgstr "ସ୍ଥାପନ କରନ୍ତୁ"
 
@@ -5252,7 +5252,7 @@ msgstr "ସ୍ଥାପନ କରନ୍ତୁ"
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:133
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:534
 #: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:68
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:176
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:179
 msgid "Uninstall"
 msgstr "ଅପସାରଣ କରନ୍ତୁ"
 
@@ -5290,7 +5290,7 @@ msgid "Report bad entry"
 msgstr "ଖରାପ ଭରଣକୁ ଖବର କରନ୍ତୁ"
 
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:138
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:182
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:185
 msgid "Update"
 msgstr "ଅଦ୍ୟତନ"
 
@@ -5384,23 +5384,29 @@ msgstr "ନୂତନ ତଥ୍ୟ ଆହରଣ କରନ୍ତୁ..."
 msgid "User comments"
 msgstr "ଚାଳକ ଟିପ୍ପଣୀଗୁଡିକ"
 
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:149
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:152
 #, fuzzy
 #| msgid "No Downloads"
 msgid "<p>No Downloads</p>"
 msgstr "ଆହରଣ ନାହିଁ"
 
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:149
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:152
 #, fuzzy, kde-format
 #| msgid "Downloads: %1"
 msgid "<p>Downloads: %1</p>\n"
 msgstr "ଆହରଣ: %1"
 
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:240
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:212
+#, fuzzy, kde-format
+#| msgid "Rating: "
+msgid "Rating: %1"
+msgstr "ଆକଳନ: "
+
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:252
 msgid "No Preview"
 msgstr "ପ୍ରାକଦର୍ଶନ ନାହିଁ"
 
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:250
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:262
 msgid "Loading Preview"
 msgstr "ପ୍ରାକଦର୍ଶନ ଧାରଣ କରୁଅଛି"
 
@@ -10956,15 +10962,15 @@ msgstr "ସମସ୍ତଙ୍କୁ ସ୍ୱୀକାର କରନ୍ତୁ (&G
 msgid "No handler found for %1."
 msgstr "%1 ପାଇଁ ଚାଳକ ମିଳିଲେ ନାହିଁ।"
 
-#: khtml/kmultipart/kmultipart.cpp:562
+#: khtml/kmultipart/kmultipart.cpp:564
 msgid "KMultiPart"
 msgstr "KMultiPart"
 
-#: khtml/kmultipart/kmultipart.cpp:564
+#: khtml/kmultipart/kmultipart.cpp:566
 msgid "Embeddable component for multipart/mixed"
 msgstr "ବହୁଭାଗୀୟ/ମିଶ୍ରିତ ପାଇଁ ସନ୍ନିବେଶଯୋଗ୍ୟ ଉପାଦାନ"
 
-#: khtml/kmultipart/kmultipart.cpp:566
+#: khtml/kmultipart/kmultipart.cpp:568
 msgid "Copyright 2001, David Faure <email>david@mandrakesoft.com</email>"
 msgstr "Copyright 2001, David Faure <email>david@mandrakesoft.com</email>"
 
