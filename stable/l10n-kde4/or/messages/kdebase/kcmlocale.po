@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmlocale\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-01-29 07:19+0100\n"
+"POT-Creation-Date: 2009-04-11 07:06+0200\n"
 "PO-Revision-Date: 2009-01-02 11:46+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -460,21 +460,21 @@ msgstr ""
 msgid "Day of the week for religious observance:"
 msgstr ""
 
-#: localetime.cpp:504
+#: localetime.cpp:508
 msgctxt "some reasonable time formats for the language"
 msgid ""
 "HH:MM:SS\n"
 "pH:MM:SS AMPM"
 msgstr ""
 
-#: localetime.cpp:512
+#: localetime.cpp:516
 msgctxt "some reasonable date formats for the language"
 msgid ""
 "WEEKDAY MONTH dD YYYY\n"
 "SHORTWEEKDAY MONTH dD YYYY"
 msgstr ""
 
-#: localetime.cpp:520
+#: localetime.cpp:524
 msgctxt "some reasonable short date formats for the language"
 msgid ""
 "YYYY-MM-DD\n"
@@ -482,27 +482,27 @@ msgid ""
 "DD.MM.YYYY"
 msgstr ""
 
-#: localetime.cpp:531
+#: localetime.cpp:535
 msgctxt "Calendar System Gregorian"
 msgid "Gregorian"
 msgstr ""
 
-#: localetime.cpp:533
+#: localetime.cpp:537
 msgctxt "Calendar System Hijri"
 msgid "Hijri"
 msgstr ""
 
-#: localetime.cpp:535
+#: localetime.cpp:539
 msgctxt "Calendar System Hebrew"
 msgid "Hebrew"
 msgstr ""
 
-#: localetime.cpp:537
+#: localetime.cpp:541
 msgctxt "Calendar System Jalali"
 msgid "Jalali"
 msgstr ""
 
-#: localetime.cpp:540
+#: localetime.cpp:544
 msgid ""
 "<p>The text in this textbox will be used to format time strings. The "
 "sequences below will be replaced:</p><table><tr><td><b>HH</b></td><td>The "
@@ -517,7 +517,7 @@ msgid ""
 "treated as \"pm\" and midnight as \"am\".</td></tr></table>"
 msgstr ""
 
-#: localetime.cpp:563
+#: localetime.cpp:567
 msgid ""
 "<table><tr><td><b>YYYY</b></td><td>The year with century as a decimal number."
 "</td></tr><tr><td><b>YY</b></td><td>The year without century as a decimal "
@@ -532,50 +532,50 @@ msgid ""
 "td><td>The full weekday name.</td></tr></table>"
 msgstr ""
 
-#: localetime.cpp:584
+#: localetime.cpp:588
 msgid ""
 "<p>The text in this textbox will be used to format long dates. The sequences "
 "below will be replaced:</p>"
 msgstr ""
 
-#: localetime.cpp:590
+#: localetime.cpp:594
 msgid ""
 "<p>The text in this textbox will be used to format short dates. For "
 "instance, this is used when listing files. The sequences below will be "
 "replaced:</p>"
 msgstr ""
 
-#: localetime.cpp:597
+#: localetime.cpp:601
 msgid ""
 "<p>This option determines which day will be considered as the first one of "
 "the week.</p>"
 msgstr ""
 
-#: localetime.cpp:602
+#: localetime.cpp:606
 msgid ""
 "<p>This option determines which day will be considered as the first working "
 "day of the week.</p>"
 msgstr ""
 
-#: localetime.cpp:607
+#: localetime.cpp:611
 msgid ""
 "<p>This option determines which day will be considered as the last working "
 "day of the week.</p>"
 msgstr ""
 
-#: localetime.cpp:612
+#: localetime.cpp:616
 msgid ""
 "<p>This option determines which day will be considered as the day of the "
 "week for religious observance.</p>"
 msgstr ""
 
-#: localetime.cpp:619
+#: localetime.cpp:623
 msgid ""
 "<p>This option determines whether possessive form of month names should be "
 "used in dates.</p>"
 msgstr ""
 
-#: localetime.cpp:629
+#: localetime.cpp:633
 msgctxt "Day name list, option for no day of religious observance"
 msgid "None"
 msgstr ""
