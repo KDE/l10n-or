@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-04-16 09:30+0000\n"
+"POT-Creation-Date: 2009-04-17 09:15+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -10005,17 +10005,17 @@ msgctxt "Name"
 msgid "Compositing has been suspended"
 msgstr "Strigi ଫାଇଲ ଅନୁକ୍ରମଣ କ୍ରିୟାକୁ ନିଲମ୍ବିତ କରାଯାଇଛି"
 
-#: workspace/kwin/kwin.notifyrc:6128
+#: workspace/kwin/kwin.notifyrc:6129
 msgctxt "Comment"
 msgid "Another application has requested to suspend compositing."
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:6139
+#: workspace/kwin/kwin.notifyrc:6141
 msgctxt "Name"
 msgid "Effects not supported"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:6149
+#: workspace/kwin/kwin.notifyrc:6152
 msgctxt "Comment"
 msgid "Some effects are not supported by backend or hardware."
 msgstr ""
@@ -10211,6 +10211,16 @@ msgstr "ପେଜର"
 msgctxt "Comment"
 msgid "Switch between virtual desktops"
 msgstr "ଆଭାସୀ ଡ଼େସ୍କଟପଗୁଡ଼ିକ ମଧ୍ଯରେ ଅଦଳ ବଦଳ କରନ୍ତୁ"
+
+#: workspace/plasma/applets/panelspacer/plasma-applet-panelspacer-internal.desktop:2
+msgctxt "Name"
+msgid "Panel spacer"
+msgstr ""
+
+#: workspace/plasma/applets/panelspacer/plasma-applet-panelspacer-internal.desktop:3
+msgctxt "Comment"
+msgid "Reserve empty spaces into the panel"
+msgstr ""
 
 #: workspace/plasma/applets/quicklaunch/plasma-applet-quicklaunch.desktop:2
 msgctxt "Name"
@@ -10880,16 +10890,6 @@ msgstr "ୱେବ ୱିଜେଟ"
 msgctxt "Comment"
 msgid "Webpage widget using HTML and JavaScript"
 msgstr "HTML ଏବଂ JavaScript ବ୍ୟବହାର କରି ୱେବ ପୃଷ୍ଠା ୱିଜେଟ"
-
-#: workspace/plasma/shells/desktop/plasma-applet-panelspacer-internal.desktop:2
-msgctxt "Name"
-msgid "Panel spacer"
-msgstr ""
-
-#: workspace/plasma/shells/desktop/plasma-applet-panelspacer-internal.desktop:5
-msgctxt "Comment"
-msgid "Reserves empty spaces within the panel."
-msgstr ""
 
 #: workspace/plasma/shells/desktop/plasma-desktop.desktop:4
 msgctxt "Name"
@@ -11641,7 +11641,7 @@ msgctxt "Name"
 msgid "Wicd"
 msgstr ""
 
-#: workspace/solid/wicd/solid_wicd.desktop:9
+#: workspace/solid/wicd/solid_wicd.desktop:10
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Network management using the NetworkManager daemon"

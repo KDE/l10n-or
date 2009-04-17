@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-04-16 11:16+0200\n"
+"POT-Creation-Date: 2009-04-17 11:02+0200\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -19,18 +19,26 @@ msgstr ""
 "\n"
 "X-Generator: KBabel 1.11.4\n"
 
-#: kcm/kcmdolphingeneral.cpp:55 settings/generalsettingspage.cpp:48
+#: kcm/kcmdolphingeneral.cpp:56 settings/generalsettingspage.cpp:48
 msgctxt "@title:tab Behavior settings"
 msgid "Behavior"
 msgstr ""
 
-#: kcm/kcmdolphingeneral.cpp:60 settings/generalsettingspage.cpp:53
+#: kcm/kcmdolphingeneral.cpp:61 settings/generalsettingspage.cpp:53
 #, fuzzy
 #| msgctxt "@label:listbox"
 #| msgid "Preview:"
 msgctxt "@title:tab Previews settings"
 msgid "Previews"
 msgstr "ପ୍ରାକଦର୍ଶନ:"
+
+#: kcm/kcmdolphingeneral.cpp:66 settings/generalsettingspage.cpp:58
+#, fuzzy
+#| msgctxt "@title:group"
+#| msgid "Context Menu"
+msgctxt "@title:tab Context Menu settings"
+msgid "Context Menu"
+msgstr "ପ୍ରସଙ୍ଗ ତାଲିକା"
 
 #: kcm/kcmdolphinviewmodes.cpp:59 settings/viewsettingspage.cpp:46
 msgctxt "@title:tab"
@@ -1483,14 +1491,6 @@ msgstr "ପସନ୍ଦ କରନ୍ତୁ..."
 msgctxt "@label:textbox"
 msgid "Configure which services should be shown in the context menu."
 msgstr ""
-
-#: settings/generalsettingspage.cpp:58
-#, fuzzy
-#| msgctxt "@title:group"
-#| msgid "Context Menu"
-msgctxt "@title:tab Context Menu settings"
-msgid "Context Menu"
-msgstr "ପ୍ରସଙ୍ଗ ତାଲିକା"
 
 #: settings/generalsettingspage.cpp:63
 #, fuzzy
