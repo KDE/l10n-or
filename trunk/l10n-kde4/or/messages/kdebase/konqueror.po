@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-04-17 11:02+0200\n"
+"POT-Creation-Date: 2009-04-22 11:28+0200\n"
 "PO-Revision-Date: 2008-12-26 16:53+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -410,7 +410,7 @@ msgstr ""
 #: src/konqmainwindow.cpp:2379 src/konqmainwindow.cpp:2468
 #: src/konqmainwindow.cpp:2486 src/konqmainwindow.cpp:2506
 #: src/konqmainwindow.cpp:2554 src/konqmainwindow.cpp:2587
-#: src/konqmainwindow.cpp:5040 src/konqviewmanager.cpp:1333
+#: src/konqmainwindow.cpp:5044 src/konqviewmanager.cpp:1333
 msgid "Discard Changes?"
 msgstr "ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ପ୍ରତ୍ୟାଖ୍ଯାନ କରିବେ କି?"
 
@@ -418,7 +418,7 @@ msgstr "ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ପ୍ରତ୍ୟ�
 #: src/konqmainwindow.cpp:2379 src/konqmainwindow.cpp:2468
 #: src/konqmainwindow.cpp:2486 src/konqmainwindow.cpp:2506
 #: src/konqmainwindow.cpp:2554 src/konqmainwindow.cpp:2587
-#: src/konqmainwindow.cpp:5040 src/konqviewmanager.cpp:1333
+#: src/konqmainwindow.cpp:5044 src/konqviewmanager.cpp:1333
 msgid "&Discard Changes"
 msgstr "ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ପ୍ରତ୍ୟାଖ୍ଯାନ କରନ୍ତୁ (&D)"
 
@@ -965,20 +965,20 @@ msgctxt "@action:inmenu View"
 msgid "&View Mode"
 msgstr "ଦୃଶ୍ୟ ଅବସ୍ଥା (&V)"
 
-#: src/konqmainwindow.cpp:5000
+#: src/konqmainwindow.cpp:5004
 msgid ""
 "You have multiple tabs open in this window, are you sure you want to quit?"
 msgstr "ଏହି ୱିଣ୍ଡୋରେ ଏକାଧିକ ଟ୍ୟାବ ଖୋଲାଅଛି, ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ବିଦାୟ ନେବାକୁ ଚାହୁଁଛନ୍ତି?"
 
-#: src/konqmainwindow.cpp:5002 src/konqviewmanager.cpp:1315
+#: src/konqmainwindow.cpp:5006 src/konqviewmanager.cpp:1315
 msgid "Confirmation"
 msgstr "ନିଶ୍ଚିତକରଣ"
 
-#: src/konqmainwindow.cpp:5004
+#: src/konqmainwindow.cpp:5008
 msgid "C&lose Current Tab"
 msgstr "ପ୍ରଚଳିତ ଟ୍ୟାବକୁ ଖୋଲନ୍ତୁ (&l)"
 
-#: src/konqmainwindow.cpp:5037
+#: src/konqmainwindow.cpp:5041
 msgid ""
 "This tab contains changes that have not been submitted.\n"
 "Closing the window will discard these changes."
@@ -986,7 +986,7 @@ msgstr ""
 "ଏହି ଟ୍ୟାବରେ ଦାଖଲ ହୋଇନଥିବା ପରିବର୍ତ୍ତନଗୁଡ଼ିକ ସଂରକ୍ଷିତ ଅଛି।\n"
 "ବନ୍ଦ କରିବା ଦ୍ୱାରା ଏହି ପରିବର୍ତ୍ତନଗୁଡ଼ିକ ବାତିଲ ହୋଇଯିବ।"
 
-#: src/konqmainwindow.cpp:5038
+#: src/konqmainwindow.cpp:5042
 msgid ""
 "This page contains changes that have not been submitted.\n"
 "Closing the window will discard these changes."
@@ -994,34 +994,34 @@ msgstr ""
 "ଏହି ପୃଷ୍ଠା ଦାଖଲ ହୋଇନଥିବା ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ଧାରଣ କରିଥାଏ\n"
 "ୱିଣ୍ଡୋକୁ ବନ୍ଦ କରିବା ଦ୍ୱାରା ଏହି ପରିବର୍ତ୍ତନଗୁଡ଼ିକ ବାତିଲ ହୋଇଯିବ।"
 
-#: src/konqmainwindow.cpp:5079 src/konqmainwindow.cpp:5139
+#: src/konqmainwindow.cpp:5083 src/konqmainwindow.cpp:5143
 #: src/konqclosedwindowsmanager.cpp:379
 msgid "no name"
 msgstr "କୌଣସି ନାମ ନାହିଁ"
 
-#: src/konqmainwindow.cpp:5206
+#: src/konqmainwindow.cpp:5210
 msgid ""
 "Your sidebar is not functional or unavailable. A new entry cannot be added."
 msgstr "ଆପଣଙ୍କର ପାର୍ଶ୍ୱପଟି କାମ କରୁନାହିଁ କିମ୍ୱା ଉପଲବ୍ଧ ନାହିଁ। ନୂତନ ଭରଣ ଯୋଗକରାଯାଇ ପାରିବ ନାହିଁ।"
 
-#: src/konqmainwindow.cpp:5206 src/konqmainwindow.cpp:5213
+#: src/konqmainwindow.cpp:5210 src/konqmainwindow.cpp:5217
 msgid "Web Sidebar"
 msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି"
 
-#: src/konqmainwindow.cpp:5211
+#: src/konqmainwindow.cpp:5215
 #, kde-format
 msgid "Add new web extension \"%1\" to your sidebar?"
 msgstr "ଆପଣଙ୍କ ପାର୍ଶ୍ୱପଟିରେ ନୂତନ ୱେବ ଅନୁଲଗ୍ନ ଯୋଗକରିବେ କି \"%1\"?"
 
-#: src/konqmainwindow.cpp:5213
+#: src/konqmainwindow.cpp:5217
 msgid "Add"
 msgstr "ଯୋଗ କରନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:5213
+#: src/konqmainwindow.cpp:5217
 msgid "Do Not Add"
 msgstr "ଯୋଗ କରନ୍ତୁ ନାହିଁ"
 
-#: src/konqmainwindow.cpp:5510
+#: src/konqmainwindow.cpp:5514
 #, kde-format
 msgid ""
 "There appears to be a configuration error. You have associated Konqueror "
