@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_launcher\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-04-26 10:54+0200\n"
+"POT-Creation-Date: 2009-04-27 10:59+0200\n"
 "PO-Revision-Date: 2009-01-02 11:50+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -120,7 +120,7 @@ msgstr ""
 msgid "Lock"
 msgstr ""
 
-#: core/leavemodel.cpp:55 simpleapplet/simpleapplet.cpp:182
+#: core/leavemodel.cpp:55
 msgid "Lock the screen"
 msgstr ""
 
@@ -140,7 +140,7 @@ msgstr ""
 msgid "Turn off computer"
 msgstr ""
 
-#: core/leavemodel.cpp:65 simpleapplet/simpleapplet.cpp:186
+#: core/leavemodel.cpp:65
 msgctxt "Restart computer"
 msgid "Restart"
 msgstr ""
@@ -293,6 +293,15 @@ msgstr ""
 
 #: simpleapplet/simpleapplet.cpp:178
 msgid "System Settings"
+msgstr ""
+
+#: simpleapplet/simpleapplet.cpp:182
+msgid "Lock Screen"
+msgstr ""
+
+#: simpleapplet/simpleapplet.cpp:186
+msgctxt "Restart Computer"
+msgid "Restart"
 msgstr ""
 
 #: simpleapplet/simpleapplet.cpp:245

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-04-25 11:42+0200\n"
+"POT-Creation-Date: 2009-04-27 10:58+0200\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -668,8 +668,11 @@ msgid "Rename..."
 msgstr "ପୁନଃ ନାମକରଣ କରନ୍ତୁ..."
 
 #: panels/folders/treeviewcontextmenu.cpp:92
+#, fuzzy
+#| msgctxt "@action:inmenu"
+#| msgid "Move To Trash"
 msgctxt "@action:inmenu"
-msgid "Move To Trash"
+msgid "Move to Trash"
 msgstr "ଆବର୍ଜନା ପାତ୍ର ମଧ୍ଯକୁ ପଠାନ୍ତୁ"
 
 #: panels/folders/treeviewcontextmenu.cpp:102
@@ -2191,6 +2194,10 @@ msgstr "ବିବରଣୀ"
 msgctxt "@action:inmenu View Mode"
 msgid "Columns"
 msgstr "ସ୍ତମ୍ଭଗୁଡ଼ିକ"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "Move To Trash"
+#~ msgstr "ଆବର୍ଜନା ପାତ୍ର ମଧ୍ଯକୁ ପଠାନ୍ତୁ"
 
 #, fuzzy
 #~| msgctxt "@action:inmenu"

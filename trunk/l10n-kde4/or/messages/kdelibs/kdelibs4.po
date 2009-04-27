@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-04-26 10:53+0200\n"
+"POT-Creation-Date: 2009-04-27 10:57+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -133,19 +133,25 @@ msgstr "କାର୍ଯ୍ୟ ନିୟନ୍ତ୍ରଣ"
 #. i18n: file: kdeui/dialogs/kcupsoptionsjobwidget.ui:25
 #. i18n: ectx: property (text), widget (QLabel, jobHoldLabel)
 #: rc.cpp:50
-msgid "Scheduled Printing:"
+#, fuzzy
+#| msgid "Scheduled Printing:"
+msgid "Scheduled printing:"
 msgstr "ନିର୍ଘଣ୍ଟିତ ଛପାଯିବା:"
 
 #. i18n: file: kdeui/dialogs/kcupsoptionsjobwidget.ui:38
 #. i18n: ectx: property (text), widget (QLabel, jobBillingLabel)
 #: rc.cpp:53
-msgid "Billing Information:"
+#, fuzzy
+#| msgid "Billing Information:"
+msgid "Billing information:"
 msgstr "ବିଲ କରିବାର ସୂଚନା:"
 
 #. i18n: file: kdeui/dialogs/kcupsoptionsjobwidget.ui:48
 #. i18n: ectx: property (text), widget (QLabel, jobPriorityLabel)
 #: rc.cpp:56
-msgid "Job Priority:"
+#, fuzzy
+#| msgid "Job Priority:"
+msgid "Job priority:"
 msgstr "କାର୍ଯ୍ୟ ଅଗ୍ରଗଣ୍ଯତା:"
 
 #. i18n: file: kdeui/dialogs/kcupsoptionsjobwidget.ui:94
@@ -845,13 +851,17 @@ msgstr ""
 #. i18n: file: khtml/test_regression_gui.ui:150
 #. i18n: ectx: property (text), widget (QPushButton, saveLogButton)
 #: rc.cpp:366
-msgid "Output to file..."
+#, fuzzy
+#| msgid "Output to file..."
+msgid "Output to File..."
 msgstr "ଫାଇଲକୁ ନିର୍ଗମ..."
 
 #. i18n: file: khtml/test_regression_gui.ui:162
 #. i18n: ectx: property (text), widget (QLabel, statusLabel)
 #: rc.cpp:369
-msgid "Regression testing status"
+#, fuzzy
+#| msgid "Regression testing status"
+msgid "Regression Testing Status"
 msgstr "ସମାଶ୍ରୟଣ ପରିକ୍ଷଣ ସ୍ଥିତି"
 
 #. i18n: file: khtml/test_regression_gui.ui:182
@@ -875,19 +885,25 @@ msgstr "ପରିକ୍ଷଣ ଗୁଡିକ"
 #. i18n: file: khtml/test_regression_gui.ui:238
 #. i18n: ectx: property (text), widget (QStatusBar, statusbar)
 #: rc.cpp:381
-msgid "Only run JS tests"
+#, fuzzy
+#| msgid "Only run JS tests"
+msgid "Only Run JS Tests"
 msgstr "କେବଳ JS ପରିକ୍ଷଣକୁ ଚଲାନ୍ତୁ"
 
 #. i18n: file: khtml/test_regression_gui.ui:246
 #. i18n: ectx: property (text), widget (QStatusBar, statusbar)
 #: rc.cpp:384
-msgid "Only run HTML tests"
+#, fuzzy
+#| msgid "Only run HTML tests"
+msgid "Only Run HTML Tests"
 msgstr "କେବଳ HTML ପରିକ୍ଷଣକୁ ଚଲାନ୍ତୁ"
 
 #. i18n: file: khtml/test_regression_gui.ui:254
 #. i18n: ectx: property (text), widget (QStatusBar, statusbar)
-#: rc.cpp:387 khtml/test_regression.cpp:617
-msgid "Do not suppress debug output"
+#: rc.cpp:387
+#, fuzzy
+#| msgid "Do not suppress debug output"
+msgid "Do Not Suppress Debug Output"
 msgstr "ତ୍ରୁଟିମୁକ୍ତ ନିର୍ଗମକୁ ଦମନ କରନ୍ତୁ ନାହିଁ"
 
 #. i18n: file: khtml/test_regression_gui.ui:262
@@ -899,31 +915,41 @@ msgstr "Xvfbକୁ ବ୍ୟବହାର କରନ୍ତୁ ନାହିଁ"
 #. i18n: file: khtml/test_regression_gui.ui:267
 #. i18n: ectx: property (text), widget (QStatusBar, statusbar)
 #: rc.cpp:393
-msgid "Run tests..."
+#, fuzzy
+#| msgid "Run tests..."
+msgid "Run Tests..."
 msgstr "ପରିକ୍ଷଣଗୁଡିକୁ ଚଲାନ୍ତୁ..."
 
 #. i18n: file: khtml/test_regression_gui.ui:272
 #. i18n: ectx: property (text), widget (QStatusBar, statusbar)
 #: rc.cpp:396
-msgid "Run single test..."
+#, fuzzy
+#| msgid "Run single test..."
+msgid "Run Single Test..."
 msgstr "ଏକମାତ୍ର ପରିକ୍ଷଣକୁ ଚଲାନ୍ତୁ..."
 
 #. i18n: file: khtml/test_regression_gui.ui:277
 #. i18n: ectx: property (text), widget (QStatusBar, statusbar)
 #: rc.cpp:399
-msgid "Specify tests directory..."
+#, fuzzy
+#| msgid "Specify tests directory..."
+msgid "Specify tests Directory..."
 msgstr "ପରିକ୍ଷଣ ଡିରେକ୍ଟରିକୁ ଉଲ୍ଲେଖ କରନ୍ତୁ..."
 
 #. i18n: file: khtml/test_regression_gui.ui:282
 #. i18n: ectx: property (text), widget (QStatusBar, statusbar)
 #: rc.cpp:402
-msgid "Specify khtml directory..."
+#, fuzzy
+#| msgid "Specify khtml directory..."
+msgid "Specify khtml Directory..."
 msgstr "khtml ଡିରେକ୍ଟରିକୁ ଉଲ୍ଲେଖ କରନ୍ତୁ..."
 
 #. i18n: file: khtml/test_regression_gui.ui:287
 #. i18n: ectx: property (text), widget (QStatusBar, statusbar)
 #: rc.cpp:405
-msgid "Specify output directory..."
+#, fuzzy
+#| msgid "Specify output directory..."
+msgid "Specify Output Directory..."
 msgstr "ନିର୍ଗମ ଡିରେକ୍ଟରିକୁ ଉଲ୍ଲେଖ କରନ୍ତୁ..."
 
 #. i18n: file: khtml/htmlpageinfo.ui:21
@@ -1179,19 +1205,25 @@ msgstr ""
 #. i18n: file: knotify/config/knotifyconfigactionswidgetbase.ui:123
 #. i18n: ectx: property (text), item, widget (KComboBox, KTTS_combo)
 #: rc.cpp:541
-msgid "Speak event message"
+#, fuzzy
+#| msgid "Speak event message"
+msgid "Speak Event Message"
 msgstr "ଘଟଣା ସନ୍ଦେଶ କୁହନ୍ତୁ"
 
 #. i18n: file: knotify/config/knotifyconfigactionswidgetbase.ui:128
 #. i18n: ectx: property (text), item, widget (KComboBox, KTTS_combo)
 #: rc.cpp:544
-msgid "Speak event name"
+#, fuzzy
+#| msgid "Speak event name"
+msgid "Speak Event Name"
 msgstr "ଘଟଣା ନାମ କୁହନ୍ତୁ"
 
 #. i18n: file: knotify/config/knotifyconfigactionswidgetbase.ui:133
 #. i18n: ectx: property (text), item, widget (KComboBox, KTTS_combo)
 #: rc.cpp:547
-msgid "Speak custom text"
+#, fuzzy
+#| msgid "Speak custom text"
+msgid "Speak Custom Text"
 msgstr "ଇଚ୍ଛାରୂପୀ ପାଠ୍ୟ କୁହନ୍ତୁ"
 
 #. i18n: file: kutils/kdeglobals.kcfg:9
@@ -1750,7 +1782,9 @@ msgstr ""
 #. i18n: file: threadweaver/Examples/Jobs/JobsBase.ui:39
 #. i18n: ectx: property (text), widget (QCheckBox, cbLog)
 #: rc.cpp:945
-msgid "Log Thread Activity"
+#, fuzzy
+#| msgid "Log Thread Activity"
+msgid "Log thread activity"
 msgstr "ଥ୍ରେଡ କାର୍ଯ୍ୟକଳାପକୁ ଲଗ କରନ୍ତୁ"
 
 #. i18n: file: threadweaver/Examples/Jobs/JobsBase.ui:59
@@ -3245,7 +3279,7 @@ msgstr "ଲାଇବ୍ରେରୀ %1 KDE 4 ସୁସଙ୍ଗତ କାରଖ�
 msgid "The plugin '%1' uses an incompatible KDE library (%2)."
 msgstr "ପ୍ଲଗଇନ '%1' ଗୋଟିଏ ଅସଙ୍ଗତ KDE ଲାଇବ୍ରେରୀ (%2) ବ୍ୟବହାର କରେ।"
 
-#: kdecore/config/kconfig.cpp:670
+#: kdecore/config/kconfig.cpp:676
 msgid "Please contact your system administrator."
 msgstr "ଦୟାକରି ଆପଣଙ୍କର ତନ୍ତ୍ର ପ୍ରଶାସକଙ୍କ ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ।"
 
@@ -6358,24 +6392,24 @@ msgctxt "@item:intable Action name in shortcuts configuration"
 msgid "%1"
 msgstr "%1"
 
-#: kdeui/dialogs/kdialog.cpp:236
+#: kdeui/dialogs/kdialog.cpp:232
 msgid "&Try"
 msgstr "ଚେଷ୍ଟା କରନ୍ତୁ (&T)"
 
-#: kdeui/dialogs/kdialog.cpp:418
+#: kdeui/dialogs/kdialog.cpp:414
 msgid "modified"
 msgstr "ପରିବର୍ତ୍ତିତ"
 
-#: kdeui/dialogs/kdialog.cpp:428
+#: kdeui/dialogs/kdialog.cpp:424
 msgctxt "Document/application separator in titlebar"
 msgid " – "
 msgstr ""
 
-#: kdeui/dialogs/kdialog.cpp:797
+#: kdeui/dialogs/kdialog.cpp:793
 msgid "&Details"
 msgstr "ବିସ୍ତୃତ ବିବରଣୀ (&D)"
 
-#: kdeui/dialogs/kdialog.cpp:944
+#: kdeui/dialogs/kdialog.cpp:940
 msgid "Get help..."
 msgstr "ସହାୟତା ନିଅନ୍ତୁ..."
 
@@ -9802,6 +9836,10 @@ msgstr "ସମାପ୍ତ।"
 msgid "Directory containing tests, basedir and output directories."
 msgstr "ପରୀକ୍ଷାଗୁଡିକୁ, basedir ଏବଂ ନିର୍ଗମ ଡିରେକ୍ଟୋରୀଗୁଡିକୁ ଧାରଣ କରିଥିବା ଡିରେକ୍ଟୋରୀ।"
 
+#: khtml/test_regression.cpp:617
+msgid "Do not suppress debug output"
+msgstr "ତ୍ରୁଟିମୁକ୍ତ ନିର୍ଗମକୁ ଦମନ କରନ୍ତୁ ନାହିଁ"
+
 #: khtml/test_regression.cpp:619
 msgid "Regenerate baseline (instead of checking)"
 msgstr "ଆଧାର ରେଖା ପୁନଃ ନିର୍ମାଣ କରନ୍ତୁ (ଯାଞ୍ଚ କରିବା ପରିବର୍ତ୍ତେ)"
@@ -12305,7 +12343,7 @@ msgstr "ଇଚ୍ଛାରୂପ..."
 msgid "TETest"
 msgstr "TE ପରିକ୍ଷଣ"
 
-#: kdecore/util/qtest_kde.h:76 kdecore/util/qtest_kde.h:125
+#: kdecore/util/qtest_kde.h:77 kdecore/util/qtest_kde.h:127
 msgid "KDE Test Program"
 msgstr "KDE ପରୀକ୍ଷଣ କାରିକା"
 
