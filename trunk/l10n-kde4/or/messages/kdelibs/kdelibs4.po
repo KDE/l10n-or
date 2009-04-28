@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-04-27 10:57+0200\n"
+"POT-Creation-Date: 2009-04-28 11:14+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1083,16 +1083,18 @@ msgstr "ଭଣ୍ଡାର"
 #. i18n: file: khtml/html/storepassbar_base.ui:75
 #. i18n: ectx: property (text), widget (QToolButton, m_neverForThisSite)
 #: rc.cpp:480
-msgid "Ne&ver for This Site"
+#, fuzzy
+#| msgid "Ne&ver for This Site"
+msgid "Ne&ver store for this site"
 msgstr "ଏହି କାର୍ଯ୍ୟସ୍ଥଳ ପାଇଁ କଦାପି ନୁହଁ (&v)"
 
 #. i18n: file: khtml/html/storepassbar_base.ui:85
 #. i18n: ectx: property (text), widget (QToolButton, m_doNotStore)
 #: rc.cpp:483
 #, fuzzy
-#| msgid "Do Not Store"
-msgid "Do &Not Store"
-msgstr "ସଞ୍ଚୟ କରନ୍ତୁ ନାହିଁ"
+#| msgid "Do not show this message again"
+msgid "Do &not store this time"
+msgstr "ଏହି ସନ୍ଦେଶକୁ ପୁଣିଥରେ ଦର୍ଶାନ୍ତୁ ନାହିଁ"
 
 #. i18n: file: kross/test/testguiform.ui:44
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
@@ -1851,8 +1853,8 @@ msgstr ""
 "bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
 "indent:0px;\">(do not know yet)</p></body></html>"
 
-#: kjs/object.cpp:584 kdeui/dialogs/kmessagebox.cpp:832
-#: kdeui/dialogs/kmessagebox.cpp:865 khtml/rendering/render_form.cpp:727
+#: kjs/object.cpp:584 kdeui/dialogs/kmessagebox.cpp:833
+#: kdeui/dialogs/kmessagebox.cpp:866 khtml/rendering/render_form.cpp:727
 msgid "Error"
 msgstr "ତ୍ରୁଟି"
 
@@ -6344,38 +6346,38 @@ msgctxt "@action:button post-filter"
 msgid "."
 msgstr "."
 
-#: kdeui/dialogs/kmessagebox.cpp:263
+#: kdeui/dialogs/kmessagebox.cpp:264
 msgid "Details"
 msgstr "ବିସ୍ତ୍ରୁତ ବିବରଣୀ"
 
-#: kdeui/dialogs/kmessagebox.cpp:454 kdeui/dialogs/kmessagebox.cpp:516
+#: kdeui/dialogs/kmessagebox.cpp:455 kdeui/dialogs/kmessagebox.cpp:517
 msgid "Question"
 msgstr "ପ୍ରଶ୍ନ"
 
-#: kdeui/dialogs/kmessagebox.cpp:472 kdeui/dialogs/kmessagebox.cpp:535
-#: kdeui/dialogs/kmessagebox.cpp:623 kdeui/dialogs/kmessagebox.cpp:704
-#: kdeui/dialogs/kmessagebox.cpp:792
+#: kdeui/dialogs/kmessagebox.cpp:473 kdeui/dialogs/kmessagebox.cpp:536
+#: kdeui/dialogs/kmessagebox.cpp:624 kdeui/dialogs/kmessagebox.cpp:705
+#: kdeui/dialogs/kmessagebox.cpp:793
 msgid "Do not ask again"
 msgstr "ପୁଣିଥରେ ପଚାରନ୍ତୁ ନାହିଁ"
 
-#: kdeui/dialogs/kmessagebox.cpp:605 kdeui/dialogs/kmessagebox.cpp:686
-#: kdeui/dialogs/kmessagebox.cpp:774
+#: kdeui/dialogs/kmessagebox.cpp:606 kdeui/dialogs/kmessagebox.cpp:687
+#: kdeui/dialogs/kmessagebox.cpp:775
 msgid "Warning"
 msgstr "ଚେତାବନୀ"
 
-#: kdeui/dialogs/kmessagebox.cpp:911 kdeui/dialogs/kmessagebox.cpp:942
+#: kdeui/dialogs/kmessagebox.cpp:912 kdeui/dialogs/kmessagebox.cpp:943
 msgid "Sorry"
 msgstr "କ୍ଷମା କରନ୍ତୁ"
 
-#: kdeui/dialogs/kmessagebox.cpp:988
+#: kdeui/dialogs/kmessagebox.cpp:989
 msgid "Information"
 msgstr "ସୂଚନା"
 
-#: kdeui/dialogs/kmessagebox.cpp:1006
+#: kdeui/dialogs/kmessagebox.cpp:1007
 msgid "Do not show this message again"
 msgstr "ଏହି ସନ୍ଦେଶକୁ ପୁଣିଥରେ ଦର୍ଶାନ୍ତୁ ନାହିଁ"
 
-#: kdeui/dialogs/kmessagebox.cpp:1051
+#: kdeui/dialogs/kmessagebox.cpp:1052
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:73
 #: kdeui/widgets/khelpmenu.cpp:264 kde3support/kdeui/k3aboutdialog.cpp:1045
 #, kde-format
@@ -9804,7 +9806,7 @@ msgid "a basic web browser using the KHTML library"
 msgstr "KHTML ଲାଇବ୍ରେରୀ ବ୍ୟବହାର କରୁଥିବା ଗୋଟିଏ ମୌଳିକ ୱେବ ବ୍ରାଉଜର"
 
 #: khtml/khtml_run.cpp:97 khtml/khtml_part.cpp:3699 khtml/khtml_part.cpp:3909
-#: khtml/khtml_part.cpp:4286 kparts/browserrun.cpp:444
+#: khtml/khtml_part.cpp:4286 kparts/browserrun.cpp:446
 msgid "Save As"
 msgstr "ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ"
 
@@ -10061,12 +10063,12 @@ msgstr "ଫାଇଲ ନବଲିଖନ କରିବେକି? "
 msgid "Overwrite"
 msgstr "ନବଲିଖନ କରନ୍ତୁ"
 
-#: khtml/khtml_ext.cpp:991 kparts/browserrun.cpp:415
+#: khtml/khtml_ext.cpp:991 kparts/browserrun.cpp:417
 #, kde-format
 msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr ""
 
-#: khtml/khtml_ext.cpp:992 kparts/browserrun.cpp:416
+#: khtml/khtml_ext.cpp:992 kparts/browserrun.cpp:418
 msgid ""
 "Try to reinstall it  \n"
 "\n"
@@ -11468,16 +11470,18 @@ msgstr ""
 "ନାମ: %2\n"
 "ପ୍ରକାର: %1"
 
-#: kparts/browserrun.cpp:338
+#: kparts/browserrun.cpp:339
 #, kde-format
 msgid "&Open with '%1'"
 msgstr "'%1' ସହିତ ଖୋଲନ୍ତୁ (&O)..."
 
-#: kparts/browserrun.cpp:339
-msgid "&Open With..."
+#: kparts/browserrun.cpp:341
+#, fuzzy
+#| msgid "&Open With..."
+msgid "&Open with..."
 msgstr "ସହିତ ଖୋଲନ୍ତୁ (&O)..."
 
-#: kparts/browserrun.cpp:384
+#: kparts/browserrun.cpp:386
 msgid "&Open"
 msgstr "ଖୋଲନ୍ତୁ (&O)"
 
@@ -12535,6 +12539,11 @@ msgstr "ଆଜିର ସୂଚନା (&D)"
 #, kde-format
 msgid "No such function \"%1\""
 msgstr "ଏପରି କିଛି ଫଳନ ନାହିଁ \"%1\""
+
+#, fuzzy
+#~| msgid "Do Not Store"
+#~ msgid "Do &Not Store"
+#~ msgstr "ସଞ୍ଚୟ କରନ୍ତୁ ନାହିଁ"
 
 #~ msgid "Save Login Information"
 #~ msgstr "ଲଗଇନ ସୂଟନାକୁ ସଂରକ୍ଷଣ କରନ୍ତୁ"
