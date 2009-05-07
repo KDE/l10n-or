@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: drkonqi\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-05-06 12:08+0200\n"
+"POT-Creation-Date: 2009-05-07 11:16+0200\n"
 "PO-Revision-Date: 2009-01-02 11:42+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1121,52 +1121,57 @@ msgctxt "@info:credit"
 msgid "George Kiagiadakis"
 msgstr ""
 
-#: main.cpp:72
-msgctxt "@info:shell"
-msgid "The signal number that was caught"
-msgstr ""
-
-#: main.cpp:73
-msgctxt "@info:shell"
-msgid "Name of the program"
+#: main.cpp:67
+msgctxt "@info:credit"
+msgid "A. L. Spehr"
 msgstr ""
 
 #: main.cpp:74
 msgctxt "@info:shell"
-msgid "Path to the executable"
+msgid "The signal number that was caught"
 msgstr ""
 
 #: main.cpp:75
 msgctxt "@info:shell"
-msgid "The version of the program"
+msgid "Name of the program"
 msgstr ""
 
 #: main.cpp:76
 msgctxt "@info:shell"
-msgid "The bug address to use"
+msgid "Path to the executable"
 msgstr ""
 
 #: main.cpp:77
 msgctxt "@info:shell"
-msgid "Translated name of the program"
+msgid "The version of the program"
 msgstr ""
 
 #: main.cpp:78
 msgctxt "@info:shell"
-msgid "The PID of the program"
+msgid "The bug address to use"
 msgstr ""
 
 #: main.cpp:79
 msgctxt "@info:shell"
-msgid "Startup ID of the program"
+msgid "Translated name of the program"
 msgstr ""
 
 #: main.cpp:80
 msgctxt "@info:shell"
-msgid "The program was started by kdeinit"
+msgid "The PID of the program"
 msgstr ""
 
 #: main.cpp:81
+msgctxt "@info:shell"
+msgid "Startup ID of the program"
+msgstr ""
+
+#: main.cpp:82
+msgctxt "@info:shell"
+msgid "The program was started by kdeinit"
+msgstr ""
+
+#: main.cpp:83
 msgctxt "@info:shell"
 msgid "Disable arbitrary disk access"
 msgstr ""
