@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs.or\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-05-01 05:10+0000\n"
+"POT-Creation-Date: 2009-05-11 05:13+0000\n"
 "PO-Revision-Date: 2008-06-20 13:20+0530\n"
 "Last-Translator: Manoj Kumar Giri <giri.manojkr@gmail.com>\n"
 "Language-Team: Oriya\n"
@@ -113,6 +113,11 @@ msgctxt "Comment"
 msgid "While saving check encoding of python files and add an encoding line"
 msgstr ""
 
+#: kate/plugins/timedate/ktexteditor_timedate_config.desktop:7
+msgctxt "Name"
+msgid "Format of Time & Date insertion"
+msgstr "Format of Time & Date insertion"
+
 #: kate/plugins/timedate/ktexteditor_timedate.desktop:18
 msgctxt "Name"
 msgid "Time & Date"
@@ -123,10 +128,10 @@ msgctxt "Comment"
 msgid "Insert current Time & Date"
 msgstr "Insert current Time & Date"
 
-#: kate/plugins/timedate/ktexteditor_timedate_config.desktop:7
+#: kate/plugins/wordcompletion/ktexteditor_docwordcompletion_config.desktop:9
 msgctxt "Name"
-msgid "Format of Time & Date insertion"
-msgstr "Format of Time & Date insertion"
+msgid "Behavior"
+msgstr "Behavior"
 
 #: kate/plugins/wordcompletion/ktexteditor_docwordcompletion.desktop:18
 msgctxt "Name"
@@ -137,11 +142,6 @@ msgstr "Word Completion"
 msgctxt "Comment"
 msgid "Directional or popup-based completion from words in the document"
 msgstr "Directional or popup-based completion from words in the document"
-
-#: kate/plugins/wordcompletion/ktexteditor_docwordcompletion_config.desktop:9
-msgctxt "Name"
-msgid "Behavior"
-msgstr "Behavior"
 
 #: kdecore/all_languages.desktop:2
 msgctxt "Name"
@@ -1097,6 +1097,11 @@ msgctxt "Name"
 msgid "Embedded Java Applet Viewer"
 msgstr "ସନ୍ନିବେଶିତ ଜାଭା ଏପଲେଟ ପ୍ରଦର୍ଶକ"
 
+#: khtml/khtmladaptorpart.desktop:2
+msgctxt "Name"
+msgid "KHTML Extension Adaptor"
+msgstr "KHTML ଅନୁଲଗ୍ନ ଉପଯୋଜକ"
+
 #: khtml/khtml.desktop:3
 msgctxt "Comment"
 msgid "Embeddable HTML viewing component"
@@ -1106,11 +1111,6 @@ msgstr "ସନ୍ନିବେଶଯୋଗ୍ୟ HTML ପ୍ରଦର୍ଶନୀ
 msgctxt "Name"
 msgid "KHTML"
 msgstr "KHTML"
-
-#: khtml/khtmladaptorpart.desktop:2
-msgctxt "Name"
-msgid "KHTML Extension Adaptor"
-msgstr "KHTML ଅନୁଲଗ୍ନ ଉପଯୋଜକ"
 
 #: khtml/khtmlimage.desktop:3
 msgctxt "Comment"
@@ -1367,11 +1367,6 @@ msgctxt "Comment"
 msgid "Plugin for the Rename Dialog"
 msgstr "ପୁନଃ ନାମକରଣ ସଂଳାପ ପାଇଁ ପ୍ଲଗଇନ"
 
-#: kio/tests/dummymeta.desktop:3
-msgctxt "Name"
-msgid "Dummy Meta"
-msgstr "ନକଲି ମେଟା"
-
 #: kioslave/http/http_cache_cleaner.desktop:3
 msgctxt "Name"
 msgid "HTTP Cache Cleaner"
@@ -1391,6 +1386,11 @@ msgstr "KDED କୁକି ବିରୋଧି ଏକକାଂଶ"
 msgctxt "Comment"
 msgid "Keeps track of all cookies in the system"
 msgstr "ତନ୍ତ୍ରରେ ଥିବା ସମସ୍ତ କୁକିଗୁଡିକୁ ନିୟନ୍ତ୍ରଣ କରୁଅଛି"
+
+#: kio/tests/dummymeta.desktop:3
+msgctxt "Name"
+msgid "Dummy Meta"
+msgstr "ନକଲି ମେଟା"
 
 #: knotify/tests/knotifytest.notifyrc:3
 msgctxt "Comment"
@@ -1487,14 +1487,14 @@ msgctxt "Comment"
 msgid "Plasma Animation Engine"
 msgstr ""
 
-#: plasma/servicetypes/plasma-applet-extenderapplet.desktop:2
-msgctxt "Name"
-msgid "Internal Extender Container"
-msgstr ""
-
 #: plasma/servicetypes/plasma-applet.desktop:5
 msgctxt "Comment"
 msgid "Plasma applet"
+msgstr ""
+
+#: plasma/servicetypes/plasma-applet-extenderapplet.desktop:2
+msgctxt "Name"
+msgid "Internal Extender Container"
 msgstr ""
 
 #: plasma/servicetypes/plasma-containment.desktop:5
