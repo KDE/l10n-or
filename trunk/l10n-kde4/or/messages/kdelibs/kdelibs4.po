@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-05-12 11:14+0200\n"
+"POT-Creation-Date: 2009-05-13 11:45+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -3264,19 +3264,19 @@ msgstr "ନିର୍ଦ୍ଦିଶ୍ଟ ପ୍ରକାରର ଯନ୍ତ୍�
 msgid "KLibLoader: Unknown error"
 msgstr "KLibLoader: ଅଜଣା ତ୍ରୁଟି"
 
-#: kdecore/util/kpluginloader.cpp:131
+#: kdecore/util/kpluginloader.cpp:132
 #, kde-format
 msgid ""
 "The service '%1' provides no library or the Library key is missing in the ."
 "desktop file."
 msgstr ""
 
-#: kdecore/util/kpluginloader.cpp:163
+#: kdecore/util/kpluginloader.cpp:164
 #, kde-format
 msgid "The library %1 does not offer a KDE 4 compatible factory."
 msgstr "ଲାଇବ୍ରେରୀ %1 KDE 4 ସୁସଙ୍ଗତ କାରଖାନା ପ୍ରଦାନ କରେନାହିଁ।"
 
-#: kdecore/util/kpluginloader.cpp:191
+#: kdecore/util/kpluginloader.cpp:192
 #, kde-format
 msgid "The plugin '%1' uses an incompatible KDE library (%2)."
 msgstr "ପ୍ଲଗଇନ '%1' ଗୋଟିଏ ଅସଙ୍ଗତ KDE ଲାଇବ୍ରେରୀ (%2) ବ୍ୟବହାର କରେ।"
@@ -9836,49 +9836,49 @@ msgstr "ଅଞ୍ଚଳ"
 msgid "Comment"
 msgstr "ଟିପ୍ପଣୀ"
 
-#: kdeui/widgets/ktextedit.cpp:463 kde3support/kdeui/k3textedit.cpp:232
+#: kdeui/widgets/ktextedit.cpp:465 kde3support/kdeui/k3textedit.cpp:232
 msgid "Check Spelling..."
 msgstr "ବନାନ ଯାଞ୍ଚକରନ୍ତୁ..."
 
-#: kdeui/widgets/ktextedit.cpp:466 kde3support/kdeui/k3textedit.cpp:238
+#: kdeui/widgets/ktextedit.cpp:468 kde3support/kdeui/k3textedit.cpp:238
 msgid "Auto Spell Check"
 msgstr "ସ୍ୱୟଂ ବନାନ ଯାଞ୍ଚ"
 
-#: kdeui/widgets/ktextedit.cpp:470 kde3support/kdeui/k3textedit.cpp:242
+#: kdeui/widgets/ktextedit.cpp:472 kde3support/kdeui/k3textedit.cpp:242
 msgid "Allow Tabulations"
 msgstr "ସାରଣୀକରଣକୁ ଅନୁମତି ଦିଅନ୍ତୁ"
 
-#: kdeui/widgets/ktextedit.cpp:494
+#: kdeui/widgets/ktextedit.cpp:496
 #, fuzzy
 #| msgid "Speak custom text"
 msgid "Speak Text"
 msgstr "ଇଚ୍ଛାରୂପୀ ପାଠ୍ୟ କୁହନ୍ତୁ"
 
-#: kdeui/widgets/ktextedit.cpp:509
+#: kdeui/widgets/ktextedit.cpp:511
 msgid "Starting KTTSD Failed"
 msgstr ""
 
-#: kdeui/widgets/ktextedit.cpp:595 kdeui/widgets/ktextedit.cpp:606
+#: kdeui/widgets/ktextedit.cpp:597 kdeui/widgets/ktextedit.cpp:608
 #, fuzzy, kde-format
 #| msgid "Suggestions"
 msgid "Suggestions for %1"
 msgstr "ପ୍ରସ୍ତାବଗୁଡ଼ିକ"
 
-#: kdeui/widgets/ktextedit.cpp:597
+#: kdeui/widgets/ktextedit.cpp:599
 msgid "Ignore"
 msgstr "ଅଗ୍ରାହ୍ଯ କରନ୍ତୁ"
 
-#: kdeui/widgets/ktextedit.cpp:598
+#: kdeui/widgets/ktextedit.cpp:600
 msgid "Add to Dictionary"
 msgstr "ଅଭିଧାନରେ ଯୋଗ କରନ୍ତୁ"
 
-#: kdeui/widgets/ktextedit.cpp:600 kdeui/widgets/ktextedit.cpp:602
+#: kdeui/widgets/ktextedit.cpp:602 kdeui/widgets/ktextedit.cpp:604
 #, fuzzy, kde-format
 #| msgid "Suggestions"
 msgid "No suggestions for %1"
 msgstr "ପ୍ରସ୍ତାବଗୁଡ଼ିକ"
 
-#: kdeui/widgets/ktextedit.cpp:750
+#: kdeui/widgets/ktextedit.cpp:752
 msgid "Nothing to spell check."
 msgstr "ବନାନ ଯାଞ୍ଚ କରିବାକୁ କିଛିନାହିଁ।"
 
@@ -11151,26 +11151,26 @@ msgstr "URI ସଂକ୍ଷିପ୍ତ ପଥ (&I):"
 msgid "Create Web Shortcut"
 msgstr "ୱେବ ସଂକ୍ଷିପ୍ତ ପଥ ବିନ୍ୟାସ କରନ୍ତୁ"
 
-#: kinit/kinit.cpp:456
+#: kinit/kinit.cpp:469
 msgid ""
 "Unable to start new process.\n"
 "The system may have reached the maximum number of open files possible or the "
 "maximum number of open files that you are allowed to use has been reached."
 msgstr ""
 
-#: kinit/kinit.cpp:475
+#: kinit/kinit.cpp:488
 msgid ""
 "Unable to create new process.\n"
 "The system may have reached the maximum number of processes possible or the "
 "maximum number of processes that you are allowed to use has been reached."
 msgstr ""
 
-#: kinit/kinit.cpp:566
+#: kinit/kinit.cpp:579
 #, kde-format
 msgid "Could not find '%1' executable."
 msgstr "'%1' ନିଷ୍ପାଦ୍ୟକୁ ଖୋଜିପାଇଲା ନାହିଁ।"
 
-#: kinit/kinit.cpp:584
+#: kinit/kinit.cpp:597
 #, kde-format
 msgid ""
 "Could not open library '%1'.\n"
@@ -11179,7 +11179,7 @@ msgstr ""
 "ଲାଇବ୍ରେରୀ '%1'କୁ ଖୋଲିପାରିଲା ନାହିଁ।\n"
 "%2"
 
-#: kinit/kinit.cpp:630
+#: kinit/kinit.cpp:643
 #, kde-format
 msgid ""
 "Could not find 'kdemain' in '%1'.\n"
@@ -12440,7 +12440,7 @@ msgstr "TE ପରିକ୍ଷଣ"
 msgid "KDE Test Program"
 msgstr "KDE ପରୀକ୍ଷଣ କାରିକା"
 
-#: kdecore/services/kservice.h:520
+#: kdecore/services/kservice.h:519
 #, kde-format
 msgid "The service '%1' does not provide an interface '%2' with keyword '%3'"
 msgstr "ସେବା '%1' ସୂଚକ ଶବ୍ଦ '%3' ସହିତ ଅନ୍ତରାପୃଷ୍ଠ '%2' ପ୍ରଦାନ କରେନାହିଁ"
