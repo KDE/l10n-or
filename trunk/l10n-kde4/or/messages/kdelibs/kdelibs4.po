@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-06-16 11:15+0200\n"
+"POT-Creation-Date: 2009-06-18 11:17+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -6523,8 +6523,8 @@ msgstr ""
 msgid "Reset Toolbars"
 msgstr "ସାଧନପଟିଗୁଡିକୁ ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ"
 
-#: kdeui/dialogs/kedittoolbar.cpp:529 khtml/khtmlview.cpp:2922
-#: khtml/khtmlview.cpp:2955 khtml/html/html_formimpl.cpp:1809
+#: kdeui/dialogs/kedittoolbar.cpp:529 khtml/khtmlview.cpp:2924
+#: khtml/khtmlview.cpp:2957 khtml/html/html_formimpl.cpp:1809
 msgid "Reset"
 msgstr "ପୁନଃସ୍ଥାପନ କରନ୍ତୁ"
 
@@ -7208,17 +7208,17 @@ msgctxt "@info:whatsthis"
 msgid "Here you can choose the font style to be used."
 msgstr "ଏଠାରେ ଆପଣ ବ୍ୟବହାର କରିବାକୁ ଚାହୁଁଥିବା ଅକ୍ଷରରୂପ ଶୈଳୀକୁ ବାଛିପାରିବେ।"
 
-#: kdeui/fonts/kfontchooser.cpp:288 kdeui/fonts/kfontchooser.cpp:613
+#: kdeui/fonts/kfontchooser.cpp:288 kdeui/fonts/kfontchooser.cpp:614
 msgctxt "@item font"
 msgid "Regular"
 msgstr "ନିୟମିତ"
 
-#: kdeui/fonts/kfontchooser.cpp:289 kdeui/fonts/kfontchooser.cpp:634
+#: kdeui/fonts/kfontchooser.cpp:289 kdeui/fonts/kfontchooser.cpp:635
 msgctxt "@item font"
 msgid "Italic"
 msgstr "ଇଟାଲୀୟ"
 
-#: kdeui/fonts/kfontchooser.cpp:290 kdeui/fonts/kfontchooser.cpp:635
+#: kdeui/fonts/kfontchooser.cpp:290 kdeui/fonts/kfontchooser.cpp:636
 msgctxt "@item font"
 msgid "Oblique"
 msgstr "ତିର୍ଯ୍ୟକ"
@@ -7276,7 +7276,7 @@ msgstr "ବାସ୍ତବିକ ଅକ୍ଷରରୂପ"
 #. noun-adjective congruence wrt. gender of the family name).
 #. The message provides the dynamic context 'family', which is
 #. the family name to which the style string corresponds.
-#: kdeui/fonts/kfontchooser.cpp:620
+#: kdeui/fonts/kfontchooser.cpp:621
 #, kde-format
 msgctxt "@item Font style"
 msgid "%1"
@@ -10553,7 +10553,7 @@ msgstr ""
 "<qt>ଏହି ଫର୍ମଟି ଦାଖଲ ହେବ <br /><b>%1</b><br />ଆପଣଙ୍କର ସ୍ଥାନୀୟ ଫାଇଲତନ୍ତ୍ରରେ।<br />ଆପଣ "
 "ଏହି ଫର୍ମକୁ ଦାଖଲ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?</qt>"
 
-#: khtml/khtml_part.cpp:4677 khtml/khtmlview.cpp:2908 khtml/khtmlview.cpp:2950
+#: khtml/khtml_part.cpp:4677 khtml/khtmlview.cpp:2910 khtml/khtmlview.cpp:2952
 #: khtml/html/html_formimpl.cpp:1605 khtml/html/html_formimpl.cpp:1817
 msgid "Submit"
 msgstr "ଦାଖଲ କରନ୍ତୁ"
@@ -10968,7 +10968,7 @@ msgstr "ଡାକରା"
 msgid "Line"
 msgstr "ରେଖା"
 
-#: khtml/html/htmlparser.cpp:1938
+#: khtml/html/htmlparser.cpp:1936
 msgid "This is a searchable index. Enter search keywords: "
 msgstr "ଏହା ଗୋଟିଏ ଖୋଜିବାଯୋଗ୍ୟ ଅନୁକ୍ରମଣିକା। ଖୋଜନ୍ତୁ ସୂଚକ ଶବ୍ଦ ଭରଣ କରନ୍ତୁ: "
 
@@ -11470,24 +11470,24 @@ msgstr "ସଞ୍ଚାର ତ୍ରୁଟି"
 msgid "Invalid type in Database"
 msgstr "ତଥ୍ୟାବଳୀରେ ଅବୈଧ ଟାଇପ"
 
-#: nepomuk/core/ui/kmetadatatagwidget.cpp:214
+#: nepomuk/core/ui/kmetadatatagwidget.cpp:208
 msgid "Create New Tag..."
 msgstr "ନୂତନ ସୂଚକ ନିର୍ମାଣ କରନ୍ତୁ..."
 
-#: nepomuk/core/ui/kmetadatatagwidget.cpp:220
+#: nepomuk/core/ui/kmetadatatagwidget.cpp:214
 msgid "New Tag"
 msgstr "ନୂତନ ସୂଚକ"
 
-#: nepomuk/core/ui/kmetadatatagwidget.cpp:220
+#: nepomuk/core/ui/kmetadatatagwidget.cpp:214
 msgid "Please insert the name of the new tag:"
 msgstr "ଦୟାକରି ନୂତନ ସୂଚକର ନାମ ଅନ୍ତର୍ଭୁକ୍ତ କରନ୍ତୁ:"
 
-#: nepomuk/core/ui/kmetadatatagwidget.cpp:229
+#: nepomuk/core/ui/kmetadatatagwidget.cpp:223
 #, kde-format
 msgid "The tag %1 already exists"
 msgstr "ସୂଚକ %1 ପୂର୍ବରୁ ରହିଅଛି"
 
-#: nepomuk/core/ui/kmetadatatagwidget.cpp:229
+#: nepomuk/core/ui/kmetadatatagwidget.cpp:223
 msgid "Tag Exists"
 msgstr "ସୂଚକ ଅବସ୍ଥିତ ଅଛି"
 
