@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-06-16 11:16+0200\n"
+"POT-Creation-Date: 2009-06-21 11:21+0200\n"
 "PO-Revision-Date: 2008-12-26 16:53+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -410,7 +410,7 @@ msgstr ""
 #: src/konqmainwindow.cpp:2418 src/konqmainwindow.cpp:2507
 #: src/konqmainwindow.cpp:2525 src/konqmainwindow.cpp:2545
 #: src/konqmainwindow.cpp:2593 src/konqmainwindow.cpp:2626
-#: src/konqmainwindow.cpp:5085 src/konqviewmanager.cpp:1359
+#: src/konqmainwindow.cpp:5085 src/konqviewmanager.cpp:1363
 msgid "Discard Changes?"
 msgstr "ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ପ୍ରତ୍ୟାଖ୍ଯାନ କରିବେ କି?"
 
@@ -418,7 +418,7 @@ msgstr "ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ପ୍ରତ୍ୟ�
 #: src/konqmainwindow.cpp:2418 src/konqmainwindow.cpp:2507
 #: src/konqmainwindow.cpp:2525 src/konqmainwindow.cpp:2545
 #: src/konqmainwindow.cpp:2593 src/konqmainwindow.cpp:2626
-#: src/konqmainwindow.cpp:5085 src/konqviewmanager.cpp:1359
+#: src/konqmainwindow.cpp:5085 src/konqviewmanager.cpp:1363
 msgid "&Discard Changes"
 msgstr "ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ପ୍ରତ୍ୟାଖ୍ଯାନ କରନ୍ତୁ (&D)"
 
@@ -977,7 +977,7 @@ msgid ""
 "You have multiple tabs open in this window, are you sure you want to quit?"
 msgstr "ଏହି ୱିଣ୍ଡୋରେ ଏକାଧିକ ଟ୍ୟାବ ଖୋଲାଅଛି, ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ବିଦାୟ ନେବାକୁ ଚାହୁଁଛନ୍ତି?"
 
-#: src/konqmainwindow.cpp:5047 src/konqviewmanager.cpp:1341
+#: src/konqmainwindow.cpp:5047 src/konqviewmanager.cpp:1345
 msgid "Confirmation"
 msgstr "ନିଶ୍ଚିତକରଣ"
 
@@ -1172,7 +1172,7 @@ msgstr "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ (&o): ବନ୍
 msgid "Und&o"
 msgstr ""
 
-#: src/konqviewmanager.cpp:1339
+#: src/konqviewmanager.cpp:1343
 msgid ""
 "You have multiple tabs open in this window.\n"
 "Loading a view profile will close them."
@@ -1180,11 +1180,11 @@ msgstr ""
 "ଏହି ୱିଣ୍ଡୋରେ ଆପଣ ଏକାଧିକ ଟ୍ୟାବ ଖୋଲିଛନ୍ତି।\n"
 "ରୂପରେଖ ଦୃଶ୍ୟକୁ ଧାରଣ କରାଗଲେ ଏହା ବନ୍ଦ ହୋଇଯିବ।"
 
-#: src/konqviewmanager.cpp:1342
+#: src/konqviewmanager.cpp:1346
 msgid "Load View Profile"
 msgstr "ରୂପରେଖ ଦୃଶ୍ୟକୁ ଧାରଣ କରନ୍ତୁ"
 
-#: src/konqviewmanager.cpp:1358
+#: src/konqviewmanager.cpp:1362
 msgid ""
 "This tab contains changes that have not been submitted.\n"
 "Loading a profile will discard these changes."
