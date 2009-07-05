@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-07-04 05:22+0000\n"
+"POT-Creation-Date: 2009-07-05 05:15+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -77,7 +77,7 @@ msgctxt "Name|Random file browsing settings."
 msgid "General"
 msgstr "ସାଧାରଣ"
 
-#: apps/dolphin/src/kcm/kcmdolphingeneral.desktop:149
+#: apps/dolphin/src/kcm/kcmdolphingeneral.desktop:150
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -109,7 +109,7 @@ msgctxt "Name"
 msgid "Navigation"
 msgstr "ପଥପ୍ରଦର୍ଶନ ପାନେଲ"
 
-#: apps/dolphin/src/kcm/kcmdolphinnavigation.desktop:153
+#: apps/dolphin/src/kcm/kcmdolphinnavigation.desktop:154
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -3353,7 +3353,7 @@ msgctxt "Name|standard desktop component"
 msgid "Web Browser"
 msgstr "ୱେବ ବ୍ରାଉଜର"
 
-#: runtime/kcontrol/componentchooser/componentservices/kcm_browser.desktop:43
+#: runtime/kcontrol/componentchooser/componentservices/kcm_browser.desktop:44
 msgctxt "Comment"
 msgid ""
 "Here you can configure your default web browser. All KDE applications in "
@@ -3370,7 +3370,7 @@ msgctxt "Name|standard desktop component"
 msgid "File Manager"
 msgstr "ଫାଇଲ ପରିଚାଳକ"
 
-#: runtime/kcontrol/componentchooser/componentservices/kcm_filemanager.desktop:43
+#: runtime/kcontrol/componentchooser/componentservices/kcm_filemanager.desktop:44
 msgctxt "Comment"
 msgid ""
 "Here you can configure your default file manager. The entries in the K menu "
@@ -3386,7 +3386,7 @@ msgctxt "Name|standard desktop component"
 msgid "Email Client"
 msgstr "ଇମେଲ କ୍ଲାଏଣ୍ଟ"
 
-#: runtime/kcontrol/componentchooser/componentservices/kcm_kemail.desktop:43
+#: runtime/kcontrol/componentchooser/componentservices/kcm_kemail.desktop:44
 msgctxt "Comment"
 msgid ""
 "This service allows you to configure your default email client. All KDE "
@@ -3402,7 +3402,7 @@ msgctxt "Name|standard desktop component"
 msgid "Terminal Emulator"
 msgstr "ଟର୍ମିନାଲ ଯାନ୍ତ୍ରାନୁକରଣ"
 
-#: runtime/kcontrol/componentchooser/componentservices/kcm_terminal.desktop:44
+#: runtime/kcontrol/componentchooser/componentservices/kcm_terminal.desktop:45
 msgctxt "Comment"
 msgid ""
 "This service allows you to configure your default terminal emulator. All KDE "
@@ -3418,7 +3418,7 @@ msgctxt "Name|standard desktop component"
 msgid "Window Manager"
 msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ"
 
-#: runtime/kcontrol/componentchooser/componentservices/kcm_wm.desktop:44
+#: runtime/kcontrol/componentchooser/componentservices/kcm_wm.desktop:45
 msgctxt "Comment"
 msgid "Here you can select the window manager to be run in your KDE session."
 msgstr "ଆପଣଙ୍କର KDE ଅଧିବେଶନରେ ଚଲାଇବା ପାଇଁ ୱିଣ୍ଡୋ ପରିଚାଳକଙ୍କୁ ଏଠାରେ ଚୟନ କରିପାରିବେ।"
@@ -3788,7 +3788,7 @@ msgctxt "Name"
 msgid "Network Watcher"
 msgstr "ନେଟୱର୍କ ବିଶ୍ଳେଷକ"
 
-#: runtime/kioslave/network/kded/networkwatcher.desktop:51
+#: runtime/kioslave/network/kded/networkwatcher.desktop:52
 msgctxt "Comment"
 msgid ""
 "Keeps track of the network and updates directory listings of the network:/ "
@@ -5380,7 +5380,7 @@ msgctxt "Name"
 msgid "Needs password"
 msgstr "ପ୍ରବେଶ ସଂକେତ ପରିବର୍ତ୍ତନ କରନ୍ତୁ"
 
-#: runtime/kwalletd/kwalletd.notifyrc:104
+#: runtime/kwalletd/kwalletd.notifyrc:105
 msgctxt "Comment"
 msgid "The KDE Wallet Daemon requests a password"
 msgstr ""
@@ -7237,7 +7237,7 @@ msgctxt "Name"
 msgid "Platform"
 msgstr "ପ୍ଲାଟିନମ"
 
-#: runtime/platforms/win/config/platform.desktop:53
+#: runtime/platforms/win/config/platform.desktop:54
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Window Manager"
@@ -9578,7 +9578,7 @@ msgctxt "Name"
 msgid "Screen Edges"
 msgstr "ପରଦା ସଂରକ୍ଷକ"
 
-#: workspace/kwin/kcmkwin/kwinscreenedges/kwinscreenedges.desktop:59
+#: workspace/kwin/kcmkwin/kwinscreenedges/kwinscreenedges.desktop:60
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure web cache settings"
@@ -10366,7 +10366,7 @@ msgctxt "Name|plasma containment"
 msgid "Desktop"
 msgstr "ଡ଼େସ୍କଟପ"
 
-#: workspace/plasma/containments/desktop/plasma-containment-desktop.desktop:41
+#: workspace/plasma/containments/desktop/plasma-containment-desktop.desktop:42
 msgctxt "Comment"
 msgid "Default desktop containment"
 msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ ଡ଼େସ୍କଟପ ଧାରଣ"
@@ -10697,7 +10697,7 @@ msgctxt "Name|plasma runner"
 msgid "Bookmarks"
 msgstr "ଚିହ୍ନିତ ସ୍ଥାନ"
 
-#: workspace/plasma/runners/bookmarks/plasma-runner-bookmarks.desktop:41
+#: workspace/plasma/runners/bookmarks/plasma-runner-bookmarks.desktop:42
 msgctxt "Comment"
 msgid "Find and open bookmarks"
 msgstr "ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକୁ ଖୋଜନ୍ତୁ ଏବଂ ଖୋଲନ୍ତୁ"
@@ -11206,15 +11206,15 @@ msgid "Ac Adapter"
 msgstr "ଗୋଟିଏ ସ୍କ୍ରିପ୍ଟ ଏଡ଼ପଟର"
 
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-AcAdapter.desktop:50
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:225
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Battery.desktop:138
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Block.desktop:178
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:228
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Battery.desktop:139
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Block.desktop:179
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-Button.desktop:99
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Camera.desktop:50
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:230
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Camera.desktop:51
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:232
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-GenericInterface.desktop:50
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-NetworkInterface.desktop:189
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:410
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:411
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:170
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-PortableMediaPlayer.desktop:51
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-Processor.desktop:268
@@ -11228,7 +11228,7 @@ msgid "Object Name"
 msgstr ""
 
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-AcAdapter.desktop:95
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Battery.desktop:183
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Battery.desktop:184
 msgctxt "Name"
 msgid "Plugged"
 msgstr ""
@@ -11241,8 +11241,8 @@ msgctxt "Name"
 msgid "Audio Interface"
 msgstr "ନେଟୱର୍କ ଅନ୍ତରାପୃଷ୍ଠ"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:50
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:184
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:51
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:185
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Devices"
@@ -11250,12 +11250,12 @@ msgctxt "Name"
 msgid "Device Type"
 msgstr "ଉପକରଣଗୁଡ଼ିକ"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:96
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:98
 msgctxt "Name"
 msgid "Driver"
 msgstr ""
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:139
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:141
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-SerialInterface.desktop:50
 #, fuzzy
 #| msgctxt "GenericName"
@@ -11264,7 +11264,7 @@ msgctxt "Name"
 msgid "Driver Handle"
 msgstr "DJ-ମିଶ୍ରକ ଏବଂ ଚାଳକ"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:180
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:182
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Game"
@@ -11272,7 +11272,7 @@ msgctxt "Name"
 msgid "Name"
 msgstr "ଖେଳ"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:270
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:273
 msgctxt "Name"
 msgid "Soundcard Type"
 msgstr ""
@@ -11285,22 +11285,22 @@ msgctxt "Name"
 msgid "Battery"
 msgstr "ବ୍ୟାଟେରୀ ଶକ୍ତି କମ ଅଛି"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Battery.desktop:50
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Battery.desktop:51
 msgctxt "Name"
 msgid "Charge Percent"
 msgstr ""
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Battery.desktop:94
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Battery.desktop:95
 msgctxt "Name"
 msgid "Charge State"
 msgstr ""
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Battery.desktop:228
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Battery.desktop:230
 msgctxt "Name"
 msgid "Rechargeable"
 msgstr ""
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Battery.desktop:268
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Battery.desktop:270
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-Button.desktop:185
 msgctxt "Name"
 msgid "Type"
@@ -11323,7 +11323,7 @@ msgctxt "Name"
 msgid "Device"
 msgstr "ଉପକରଣଗୁଡ଼ିକ"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Block.desktop:94
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Block.desktop:95
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Moria"
@@ -11331,7 +11331,7 @@ msgctxt "Name"
 msgid "Major"
 msgstr "ମୋରିଆ"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Block.desktop:135
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Block.desktop:136
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Moria"
@@ -11368,14 +11368,14 @@ msgctxt "Name"
 msgid "Camera"
 msgstr "କାମେରୁନ"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Camera.desktop:95
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Camera.desktop:96
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-PortableMediaPlayer.desktop:96
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-Video.desktop:83
 msgctxt "Name"
 msgid "Supported Drivers"
 msgstr ""
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Camera.desktop:141
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-Camera.desktop:142
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-PortableMediaPlayer.desktop:142
 #, fuzzy
 #| msgctxt "Name"
@@ -11392,7 +11392,7 @@ msgctxt "Name"
 msgid "Dvb Interface"
 msgstr "ନେଟୱର୍କ ଅନ୍ତରାପୃଷ୍ଠ"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:96
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:97
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Service Manager"
@@ -11400,7 +11400,7 @@ msgctxt "Name"
 msgid "Device Adapter"
 msgstr "ସର୍ଭିସ ପରିଚାଳକ"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:140
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:141
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Help Index"
@@ -11452,7 +11452,7 @@ msgctxt "Name"
 msgid "Optical Disc"
 msgstr ""
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:51
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:52
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Appearance"
@@ -11460,12 +11460,12 @@ msgctxt "Name"
 msgid "Appendable"
 msgstr "ଦୃଶ୍ୟ"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:95
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:96
 msgctxt "Name"
 msgid "Available Content"
 msgstr ""
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:139
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:140
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Plan"
@@ -11473,7 +11473,7 @@ msgctxt "Name"
 msgid "Blank"
 msgstr "ଯୋଜନା"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:185
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:186
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Audacity"
@@ -11481,18 +11481,18 @@ msgctxt "Name"
 msgid "Capacity"
 msgstr "Audacity"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:231
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:232
 msgctxt "Name"
 msgid "Disc Type"
 msgstr ""
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:277
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:278
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:47
 msgctxt "Name"
 msgid "Fs Type"
 msgstr ""
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:322
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:323
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:92
 #, fuzzy
 #| msgctxt "Name"
@@ -11501,7 +11501,7 @@ msgctxt "Name"
 msgid "Ignored"
 msgstr "Iagno"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:365
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:366
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:135
 #, fuzzy
 #| msgctxt "Name"
@@ -11510,12 +11510,12 @@ msgctxt "Name"
 msgid "Label"
 msgstr "ଫଳକ"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:455
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:456
 msgctxt "Name"
 msgid "Rewritable"
 msgstr ""
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:499
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:500
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:225
 #, fuzzy
 #| msgctxt "Name"
@@ -11524,7 +11524,7 @@ msgctxt "Name"
 msgid "Size"
 msgstr "ବେଲିଜ"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:546
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:547
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:272
 #, fuzzy
 #| msgctxt "Name"
@@ -11533,7 +11533,7 @@ msgctxt "Name"
 msgid "Usage"
 msgstr "ପେଜର"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:591
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:592
 #: workspace/solid/solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:317
 msgctxt "Name"
 msgid "Uuid"
@@ -11650,7 +11650,7 @@ msgctxt "Name"
 msgid "Port"
 msgstr "ଫର୍ଟ"
 
-#: workspace/solid/solid-actions-kcm/device-actions/solid-device-SerialInterface.desktop:168
+#: workspace/solid/solid-actions-kcm/device-actions/solid-device-SerialInterface.desktop:169
 msgctxt "Name"
 msgid "Serial Type"
 msgstr ""
