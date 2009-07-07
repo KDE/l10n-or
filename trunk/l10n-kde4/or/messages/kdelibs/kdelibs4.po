@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-07-03 11:21+0200\n"
+"POT-Creation-Date: 2009-07-07 11:28+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1623,7 +1623,7 @@ msgstr "ମୁଖ୍ଯ ୱିଣ୍ଡୋ"
 
 #. i18n: file: kjsembed/examples/kjsconsole/jsconsole.ui:106
 #. i18n: ectx: property (text), widget (QPushButton, mExecute)
-#: rc.cpp:761 kparts/browserrun.cpp:303
+#: rc.cpp:761 kparts/browserrun.cpp:304
 msgid "Execute"
 msgstr "ନିଷ୍ପାଦନ କରନ୍ତୁ"
 
@@ -5703,7 +5703,7 @@ msgid_plural "%2% of %1 files"
 msgstr[0] "1 ଫାଇଲର %2 %"
 msgstr[1] "%1 ଫାଇଲଗୁଡିକ %2 %"
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:375 khtml/khtml_ext.cpp:1091
+#: kdeui/jobs/kwidgetjobtracker.cpp:375 khtml/khtml_ext.cpp:1087
 #, no-c-format, kde-format
 msgid "%1%"
 msgstr "%1%"
@@ -9909,7 +9909,7 @@ msgid "a basic web browser using the KHTML library"
 msgstr "KHTML ଲାଇବ୍ରେରୀ ବ୍ୟବହାର କରୁଥିବା ଗୋଟିଏ ମୌଳିକ ୱେବ ବ୍ରାଉଜର"
 
 #: khtml/khtml_run.cpp:97 khtml/khtml_part.cpp:3719 khtml/khtml_part.cpp:3929
-#: khtml/khtml_part.cpp:4315 kparts/browserrun.cpp:446
+#: khtml/khtml_part.cpp:4315 kparts/browserrun.cpp:453
 msgid "Save As"
 msgstr "ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ"
 
@@ -10170,12 +10170,12 @@ msgstr "ଫାଇଲ ନବଲିଖନ କରିବେକି? "
 msgid "Overwrite"
 msgstr "ନବଲିଖନ କରନ୍ତୁ"
 
-#: khtml/khtml_ext.cpp:991 kparts/browserrun.cpp:417
+#: khtml/khtml_ext.cpp:991 kparts/browserrun.cpp:424
 #, kde-format
 msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr ""
 
-#: khtml/khtml_ext.cpp:992 kparts/browserrun.cpp:418
+#: khtml/khtml_ext.cpp:992 kparts/browserrun.cpp:425
 msgid ""
 "Try to reinstall it  \n"
 "\n"
@@ -10185,7 +10185,7 @@ msgstr ""
 "\n"
 "Konqueror ସହିତ ସମୀକୃତ ନିଷ୍କ୍ରିୟ ହୋଇଯିବ।"
 
-#: khtml/khtml_ext.cpp:1078
+#: khtml/khtml_ext.cpp:1074
 #, no-c-format
 msgid "Default Font Size (100%)"
 msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ ଅକ୍ଷରରୂପ ଆକାର (100%)"
@@ -11548,16 +11548,16 @@ msgstr ""
 msgid "Close Document"
 msgstr "ଦଲିଲ ବନ୍ଦ କରନ୍ତୁ"
 
-#: kparts/browserrun.cpp:302
+#: kparts/browserrun.cpp:303
 #, kde-format
 msgid "Do you really want to execute '%1'?"
 msgstr "କଣ ଆପଣ ପ୍ରକୃତରେ '%1'କୁ ନିଷ୍ପାଦନ କରିବାକୁ ଚାହୁଁଛନ୍ତି? "
 
-#: kparts/browserrun.cpp:303
+#: kparts/browserrun.cpp:304
 msgid "Execute File?"
 msgstr "ଫାଇଲ ନିଷ୍ପାଦନ କରନ୍ତୁ?"
 
-#: kparts/browserrun.cpp:321
+#: kparts/browserrun.cpp:322
 #, kde-format
 msgid ""
 "Open '%2'?\n"
@@ -11566,7 +11566,7 @@ msgstr ""
 "ଖୋଲନ୍ତୁ '%2'?\n"
 "ପ୍ରକାର: %1"
 
-#: kparts/browserrun.cpp:323
+#: kparts/browserrun.cpp:324
 #, kde-format
 msgid ""
 "Open '%3'?\n"
@@ -11577,18 +11577,18 @@ msgstr ""
 "ନାମ: %2\n"
 "ପ୍ରକାର: %1"
 
-#: kparts/browserrun.cpp:339
+#: kparts/browserrun.cpp:340
 #, kde-format
 msgid "&Open with '%1'"
 msgstr "'%1' ସହିତ ଖୋଲନ୍ତୁ (&O)..."
 
-#: kparts/browserrun.cpp:341
+#: kparts/browserrun.cpp:342
 #, fuzzy
 #| msgid "&Open With..."
 msgid "&Open with..."
 msgstr "ସହିତ ଖୋଲନ୍ତୁ (&O)..."
 
-#: kparts/browserrun.cpp:386
+#: kparts/browserrun.cpp:387
 msgid "&Open"
 msgstr "ଖୋଲନ୍ତୁ (&O)"
 
