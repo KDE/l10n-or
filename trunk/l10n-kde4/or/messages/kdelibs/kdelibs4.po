@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-07-10 11:50+0200\n"
+"POT-Creation-Date: 2009-07-11 13:15+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -3264,19 +3264,27 @@ msgstr "ନିର୍ଦ୍ଦିଶ୍ଟ ପ୍ରକାରର ଯନ୍ତ୍�
 msgid "KLibLoader: Unknown error"
 msgstr "KLibLoader: ଅଜଣା ତ୍ରୁଟି"
 
-#: kdecore/util/kpluginloader.cpp:133
-#, kde-format
-msgid ""
-"The service '%1' provides no library or the Library key is missing in the ."
-"desktop file."
+#: kdecore/util/kpluginloader.cpp:140 kdecore/util/kpluginloader.cpp:177
+#, fuzzy, kde-format
+#| msgid "In context '%1' for action '%2'\n"
+msgid "Could not find plugin '%1' for application '%2'"
+msgstr "ପ୍ରସଙ୍ଗ '%1'ରେ କାର୍ଯ୍ୟ '%2' ପାଇଁ\n"
+
+#: kdecore/util/kpluginloader.cpp:159
+msgid "The provided service is not valid"
 msgstr ""
 
-#: kdecore/util/kpluginloader.cpp:165
+#: kdecore/util/kpluginloader.cpp:166
+#, kde-format
+msgid "The service '%1' provides no library or the Library key is missing in "
+msgstr ""
+
+#: kdecore/util/kpluginloader.cpp:213
 #, kde-format
 msgid "The library %1 does not offer a KDE 4 compatible factory."
 msgstr "ଲାଇବ୍ରେରୀ %1 KDE 4 ସୁସଙ୍ଗତ କାରଖାନା ପ୍ରଦାନ କରେନାହିଁ।"
 
-#: kdecore/util/kpluginloader.cpp:193
+#: kdecore/util/kpluginloader.cpp:241
 #, kde-format
 msgid "The plugin '%1' uses an incompatible KDE library (%2)."
 msgstr "ପ୍ଲଗଇନ '%1' ଗୋଟିଏ ଅସଙ୍ଗତ KDE ଲାଇବ୍ରେରୀ (%2) ବ୍ୟବହାର କରେ।"
@@ -8268,7 +8276,7 @@ msgstr ""
 #: kdeui/windowmanagement/kwindowsystem_qws.cpp:177
 #: kdeui/windowmanagement/kwindowsystem_x11.cpp:854
 #: kdeui/windowmanagement/kwindowsystem_mac.cpp:564
-#: kdeui/windowmanagement/kwindowsystem_win.cpp:582
+#: kdeui/windowmanagement/kwindowsystem_win.cpp:591
 #, kde-format
 msgid "Desktop %1"
 msgstr "ଡେସ୍କଟପ %1"
@@ -9816,21 +9824,21 @@ msgstr "ବଡ (%1x%2)"
 msgid "Huge (%1x%2)"
 msgstr "ବିଶାଳ (%1x%2)"
 
-#: kdeui/widgets/ktoolbar.cpp:365 kdeui/widgets/ktoolbar.cpp:1288
+#: kdeui/widgets/ktoolbar.cpp:365 kdeui/widgets/ktoolbar.cpp:1285
 msgid "Unlock Toolbars"
 msgstr "ସାଧନପଟିଗୁଡିକୁ ପରିବର୍ତ୍ତନଶୀଳ କରନ୍ତୁ"
 
-#: kdeui/widgets/ktoolbar.cpp:365 kdeui/widgets/ktoolbar.cpp:1288
+#: kdeui/widgets/ktoolbar.cpp:365 kdeui/widgets/ktoolbar.cpp:1285
 msgid "Lock Toolbars"
 msgstr "ସାଧନପଟିଗୁଡିକୁ ଅପରିବର୍ତ୍ତନୀୟ କରନ୍ତୁ"
 
-#: kdeui/widgets/ktoolbar.cpp:1201
+#: kdeui/widgets/ktoolbar.cpp:1198
 #, kde-format
 msgctxt "@action:intoolbar Text label of toolbar button"
 msgid "%1"
 msgstr "%1"
 
-#: kdeui/widgets/ktoolbar.cpp:1202
+#: kdeui/widgets/ktoolbar.cpp:1199
 #, kde-format
 msgctxt "@info:tooltip Tooltip of toolbar button"
 msgid "%1"
