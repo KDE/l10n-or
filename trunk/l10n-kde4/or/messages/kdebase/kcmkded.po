@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmkded\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-01-03 10:56+0100\n"
+"POT-Creation-Date: 2009-07-22 12:57+0200\n"
 "PO-Revision-Date: 2009-01-02 11:45+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -55,72 +55,72 @@ msgstr ""
 msgid "Not running"
 msgstr ""
 
-#: kcmkded.cpp:94
+#: kcmkded.cpp:93
 msgid "Load-on-Demand Services"
 msgstr ""
 
-#: kcmkded.cpp:95
+#: kcmkded.cpp:94
 msgid ""
 "This is a list of available KDE services which will be started on demand. "
 "They are only listed for convenience, as you cannot manipulate these "
 "services."
 msgstr ""
 
-#: kcmkded.cpp:104 kcmkded.cpp:124
+#: kcmkded.cpp:103 kcmkded.cpp:123
 msgid "Service"
 msgstr ""
 
-#: kcmkded.cpp:105 kcmkded.cpp:125
+#: kcmkded.cpp:104 kcmkded.cpp:124
 msgid "Status"
 msgstr ""
 
-#: kcmkded.cpp:106 kcmkded.cpp:126
+#: kcmkded.cpp:105 kcmkded.cpp:125
 msgid "Description"
 msgstr ""
 
-#: kcmkded.cpp:113
+#: kcmkded.cpp:112
 msgid "Startup Services"
 msgstr ""
 
-#: kcmkded.cpp:114
+#: kcmkded.cpp:113
 msgid ""
 "This shows all KDE services that can be loaded on KDE startup. Checked "
 "services will be invoked on next startup. Be careful with deactivation of "
 "unknown services."
 msgstr ""
 
-#: kcmkded.cpp:123
+#: kcmkded.cpp:122
 msgid "Use"
 msgstr ""
 
-#: kcmkded.cpp:134
+#: kcmkded.cpp:133
 msgid "Start"
 msgstr ""
 
-#: kcmkded.cpp:135
+#: kcmkded.cpp:134
 msgid "Stop"
 msgstr ""
 
-#: kcmkded.cpp:310
+#: kcmkded.cpp:309
 msgid "Unable to contact KDED."
 msgstr ""
 
-#: kcmkded.cpp:455
+#: kcmkded.cpp:454
 #, kde-format
 msgid "Unable to start server <em>%1</em>."
 msgstr ""
 
-#: kcmkded.cpp:458
+#: kcmkded.cpp:457
 #, kde-format
 msgid "Unable to start service <em>%1</em>.<br /><br /><i>Error: %2</i>"
 msgstr ""
 
-#: kcmkded.cpp:475
+#: kcmkded.cpp:474
 #, kde-format
 msgid "Unable to stop server <em>%1</em>."
 msgstr ""
 
-#: kcmkded.cpp:478
+#: kcmkded.cpp:477
 #, kde-format
 msgid "Unable to stop service <em>%1</em>.<br /><br /><i>Error: %2</i>"
 msgstr ""
