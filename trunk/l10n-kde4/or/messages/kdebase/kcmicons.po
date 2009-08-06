@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmicons\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-06-25 14:47+0200\n"
+"POT-Creation-Date: 2009-08-06 06:18+0200\n"
 "PO-Revision-Date: 2009-01-02 11:44+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -19,261 +19,261 @@ msgstr ""
 "\n"
 "\n"
 
-#: icons.cpp:50
+#: icons.cpp:48
 msgid "Use of Icon"
 msgstr ""
 
-#: icons.cpp:67
+#: icons.cpp:65
 msgctxt "@label The icon rendered by default"
 msgid "Default"
 msgstr ""
 
-#: icons.cpp:69
+#: icons.cpp:67
 msgctxt "@label The icon rendered as active"
 msgid "Active"
 msgstr ""
 
-#: icons.cpp:71
+#: icons.cpp:69
 msgctxt "@label The icon rendered as disabled"
 msgid "Disabled"
 msgstr ""
 
-#: icons.cpp:84
+#: icons.cpp:82
 msgid "Size:"
 msgstr ""
 
-#: icons.cpp:92
+#: icons.cpp:90
 msgid "Animate icons"
 msgstr ""
 
-#: icons.cpp:118
+#: icons.cpp:116
 msgid "Set Effect..."
 msgstr ""
 
-#: icons.cpp:133
+#: icons.cpp:131
 msgid "Desktop"
 msgstr ""
 
-#: icons.cpp:134
+#: icons.cpp:132
 msgid "Toolbar"
 msgstr ""
 
-#: icons.cpp:135
+#: icons.cpp:133
 msgid "Main Toolbar"
 msgstr ""
 
-#: icons.cpp:136
+#: icons.cpp:134
 msgid "Small Icons"
 msgstr ""
 
-#: icons.cpp:137
+#: icons.cpp:135
 msgid "Panel"
 msgstr ""
 
-#: icons.cpp:138
+#: icons.cpp:136
 msgid "Dialogs"
 msgstr ""
 
-#: icons.cpp:139
+#: icons.cpp:137
 msgid "All Icons"
 msgstr ""
 
-#: icons.cpp:438
+#: icons.cpp:436
 msgid "Setup Default Icon Effect"
 msgstr ""
 
-#: icons.cpp:439
+#: icons.cpp:437
 msgid "Setup Active Icon Effect"
 msgstr ""
 
-#: icons.cpp:440
+#: icons.cpp:438
 msgid "Setup Disabled Icon Effect"
 msgstr ""
 
-#: icons.cpp:519
+#: icons.cpp:517
 msgid "&Effect:"
 msgstr ""
 
-#: icons.cpp:522
+#: icons.cpp:520
 msgid "No Effect"
 msgstr ""
 
-#: icons.cpp:523
+#: icons.cpp:521
 msgid "To Gray"
 msgstr ""
 
-#: icons.cpp:524
+#: icons.cpp:522
 msgid "Colorize"
 msgstr ""
 
-#: icons.cpp:525
+#: icons.cpp:523
 msgid "Gamma"
 msgstr ""
 
-#: icons.cpp:526
+#: icons.cpp:524
 msgid "Desaturate"
 msgstr ""
 
-#: icons.cpp:527
+#: icons.cpp:525
 msgid "To Monochrome"
 msgstr ""
 
-#: icons.cpp:532
+#: icons.cpp:530
 msgid "&Semi-transparent"
 msgstr ""
 
-#: icons.cpp:536
+#: icons.cpp:534
 msgid "Preview"
 msgstr ""
 
-#: icons.cpp:547
+#: icons.cpp:545
 msgid "Effect Parameters"
 msgstr ""
 
-#: icons.cpp:556
+#: icons.cpp:554
 msgid "&Amount:"
 msgstr ""
 
-#: icons.cpp:562
+#: icons.cpp:560
 msgid "Co&lor:"
 msgstr ""
 
-#: icons.cpp:568
+#: icons.cpp:566
 msgid "&Second color:"
 msgstr ""
 
-#: iconthemes.cpp:92
+#: iconthemes.cpp:91
 msgid "Name"
 msgstr ""
 
-#: iconthemes.cpp:93
+#: iconthemes.cpp:92
 msgid "Description"
 msgstr ""
 
-#: iconthemes.cpp:101
+#: iconthemes.cpp:100
 msgid "Install Theme File..."
 msgstr ""
 
-#: iconthemes.cpp:103
+#: iconthemes.cpp:102
 msgid "Install a theme archive file you already have locally"
 msgstr ""
 
-#: iconthemes.cpp:104
+#: iconthemes.cpp:103
 msgid ""
 "If you already have a theme archive locally, this button will unpack it and "
 "make it available for KDE applications"
 msgstr ""
 
-#: iconthemes.cpp:107
+#: iconthemes.cpp:106
 msgid "Get New Themes..."
 msgstr ""
 
-#: iconthemes.cpp:109
+#: iconthemes.cpp:108
 msgid "Get new themes from the Internet"
 msgstr ""
 
-#: iconthemes.cpp:110
+#: iconthemes.cpp:109
 msgid ""
 "You need to be connected to the Internet to use this action. A dialog will "
 "display a list of themes from the http://www.kde.org website. Clicking the "
 "Install button associated with a theme will install this theme locally."
 msgstr ""
 
-#: iconthemes.cpp:113
+#: iconthemes.cpp:112
 msgid "Remove Theme"
 msgstr ""
 
-#: iconthemes.cpp:115
+#: iconthemes.cpp:114
 msgid "Remove the selected theme from your disk"
 msgstr ""
 
-#: iconthemes.cpp:116
+#: iconthemes.cpp:115
 msgid "This will remove the selected theme from your disk."
 msgstr ""
 
-#: iconthemes.cpp:120
+#: iconthemes.cpp:119
 msgid "Select the icon theme you want to use:"
 msgstr ""
 
-#: iconthemes.cpp:187
+#: iconthemes.cpp:186
 msgid "Drag or Type Theme URL"
 msgstr ""
 
-#: iconthemes.cpp:198
+#: iconthemes.cpp:197
 #, kde-format
 msgid "Unable to find the icon theme archive %1."
 msgstr ""
 
-#: iconthemes.cpp:201
+#: iconthemes.cpp:200
 #, kde-format
 msgid ""
 "Unable to download the icon theme archive;\n"
 "please check that address %1 is correct."
 msgstr ""
 
-#: iconthemes.cpp:210
+#: iconthemes.cpp:209
 msgid "The file is not a valid icon theme archive."
 msgstr ""
 
-#: iconthemes.cpp:221
+#: iconthemes.cpp:220
 msgid ""
 "A problem occurred during the installation process; however, most of the "
 "themes in the archive have been installed"
 msgstr ""
 
-#: iconthemes.cpp:243
+#: iconthemes.cpp:242
 msgid "Installing icon themes"
 msgstr ""
 
-#: iconthemes.cpp:262
+#: iconthemes.cpp:261
 #, kde-format
 msgid "<qt>Installing <strong>%1</strong> theme</qt>"
 msgstr ""
 
-#: iconthemes.cpp:355
+#: iconthemes.cpp:354
 #, kde-format
 msgid ""
 "<qt>Are you sure you want to remove the <strong>%1</strong> icon theme?<br /"
 "><br />This will delete the files installed by this theme.</qt>"
 msgstr ""
 
-#: iconthemes.cpp:363
+#: iconthemes.cpp:362
 msgid "Confirmation"
 msgstr ""
 
-#: main.cpp:55
+#: main.cpp:54
 msgid "&Theme"
 msgstr ""
 
-#: main.cpp:60
+#: main.cpp:59
 msgid "Ad&vanced"
 msgstr ""
 
-#: main.cpp:63
+#: main.cpp:62
 msgid "Icons"
 msgstr ""
 
-#: main.cpp:64
+#: main.cpp:63
 msgid "Icons Control Panel Module"
 msgstr ""
 
-#: main.cpp:66
+#: main.cpp:65
 msgid "(c) 2000-2003 Geert Jansen"
 msgstr ""
 
-#: main.cpp:67
+#: main.cpp:66
 msgid "Geert Jansen"
 msgstr ""
 
-#: main.cpp:68
+#: main.cpp:67
 msgid "Antonio Larrosa Jimenez"
 msgstr ""
 
-#: main.cpp:69
+#: main.cpp:68
 msgid "Torsten Rahn"
 msgstr ""
 
-#: main.cpp:102
+#: main.cpp:101
 msgid ""
 "<h1>Icons</h1>This module allows you to choose the icons for your desktop."
 "<p>To choose an icon theme, click on its name and apply your choice by "
