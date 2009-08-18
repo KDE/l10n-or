@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-08-17 04:51+0000\n"
+"POT-Creation-Date: 2009-08-18 05:08+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -2434,6 +2434,7 @@ msgid "Reduces Konqueror startup time"
 msgstr "Reduces Konqueror startup time"
 
 #: apps/konqueror/profile_filemanagement.desktop:2
+#: apps/konqueror/src/tests/filemanagement.old.profile:7
 msgctxt "Name"
 msgid "File Management"
 msgstr "ଫାଇଲ ପରିଚାଳନା"
@@ -2872,6 +2873,7 @@ msgid "Navigation Panel"
 msgstr "ପଥପ୍ରଦର୍ଶନ ପାନେଲ"
 
 #: apps/konqueror/sidebar/test/test.desktop:5
+#: workspace/plasma/containmentactions/test/plasma-containmentactions-test.desktop:2
 msgctxt "Name"
 msgid "Test"
 msgstr "ପରୀକ୍ଷଣ"
@@ -9655,6 +9657,7 @@ msgstr ""
 
 #: workspace/kwin/effects/zoom/zoom_config.desktop:9
 #: workspace/kwin/effects/zoom/zoom.desktop:2
+#: workspace/plasma/containmentactions/zoom/plasma-containmentactions-zoom.desktop:2
 msgctxt "Name"
 msgid "Zoom"
 msgstr ""
@@ -10359,6 +10362,7 @@ msgid "A generic icon"
 msgstr "ଗୋଟିଏ ସାମାନ୍ୟ ଚିତ୍ର ସଂକେତ"
 
 #: workspace/plasma/applets/kickoff/applet/plasma-applet-launcher.desktop:2
+#: workspace/plasma/containmentactions/applauncher/plasma-containmentactions-applauncher.desktop:2
 msgctxt "Name"
 msgid "Application Launcher"
 msgstr "ପ୍ରୟୋଗ ଆରମ୍ଭକର୍ତ୍ତା"
@@ -10544,6 +10548,86 @@ msgctxt "Comment"
 msgid "A simple web browser"
 msgstr "ଗୋଟିଏ ସରଳ ୱେବ ବ୍ରାଉଜର"
 
+#: workspace/plasma/containmentactions/applauncher/plasma-containmentactions-applauncher.desktop:5
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Launch your favourite Applications"
+msgctxt "Comment"
+msgid "Run your favourite apps"
+msgstr "ଆପଣଙ୍କର ପ୍ରିୟ ପ୍ରୟୋଗଗୁଡ଼ିକୁ ଆରମ୍ଭ କରନ୍ତୁ"
+
+#: workspace/plasma/containmentactions/contextmenu/plasma-containmentactions-contextmenu.desktop:2
+msgctxt "Name"
+msgid "Contextual Menu"
+msgstr ""
+
+#: workspace/plasma/containmentactions/contextmenu/plasma-containmentactions-contextmenu.desktop:3
+msgctxt "Comment"
+msgid "The menu that normally shows on right-click"
+msgstr ""
+
+#: workspace/plasma/containmentactions/paste/plasma-containmentactions-paste.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Pose"
+msgctxt "Name"
+msgid "Paste"
+msgstr "ପଜ"
+
+#: workspace/plasma/containmentactions/paste/plasma-containmentactions-paste.desktop:5
+msgctxt "Comment"
+msgid "Creates a widget from the contents of the clipboard"
+msgstr ""
+
+#: workspace/plasma/containmentactions/switchactivity/plasma-containmentactions-switchactivity.desktop:2
+msgctxt "Name"
+msgid "Switch Activity"
+msgstr ""
+
+#: workspace/plasma/containmentactions/switchactivity/plasma-containmentactions-switchactivity.desktop:5
+msgctxt "Comment"
+msgid "Switch to another activity"
+msgstr ""
+
+#: workspace/plasma/containmentactions/switchdesktop/plasma-containmentactions-switchdesktop.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
+msgctxt "Name"
+msgid "Switch Desktop"
+msgstr "ଡ଼େସ୍କଟପ"
+
+#: workspace/plasma/containmentactions/switchdesktop/plasma-containmentactions-switchdesktop.desktop:5
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Switch between virtual desktops"
+msgctxt "Comment"
+msgid "Switch to another virtual desktop"
+msgstr "ଆଭାସୀ ଡ଼େସ୍କଟପଗୁଡ଼ିକ ମଧ୍ଯରେ ଅଦଳ ବଦଳ କରନ୍ତୁ"
+
+#: workspace/plasma/containmentactions/switchwindow/plasma-containmentactions-switchwindow.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "MS Windows 9x"
+msgctxt "Name"
+msgid "Switch Window"
+msgstr "MS Windows 9x"
+
+#: workspace/plasma/containmentactions/switchwindow/plasma-containmentactions-switchwindow.desktop:5
+msgctxt "Comment"
+msgid "Show a list of windows to switch to"
+msgstr ""
+
+#: workspace/plasma/containmentactions/test/plasma-containmentactions-test.desktop:3
+msgctxt "Comment"
+msgid "A dummy plugin for testing"
+msgstr ""
+
+#: workspace/plasma/containmentactions/zoom/plasma-containmentactions-zoom.desktop:5
+msgctxt "Comment"
+msgid "Zoom activities in and out"
+msgstr ""
+
 #: workspace/plasma/containments/desktop/plasma-containment-desktop.desktop:3
 #, fuzzy
 #| msgctxt "Name"
@@ -10593,6 +10677,19 @@ msgstr "ପ୍ରୟୋଗ କାର୍ଯ୍ୟ ସୂଚନା"
 #: workspace/plasma/dataengines/applicationjobs/plasma-dataengine-applicationjobs.desktop:60
 msgctxt "Comment"
 msgid "Application job updates (via kuiserver)"
+msgstr ""
+
+#: workspace/plasma/dataengines/apps/plasma-dataengine-apps.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Application Job Information"
+msgctxt "Name"
+msgid "Application Information"
+msgstr "ପ୍ରୟୋଗ କାର୍ଯ୍ୟ ସୂଚନା"
+
+#: workspace/plasma/dataengines/apps/plasma-dataengine-apps.desktop:3
+msgctxt "Comment"
+msgid "Information and launching of all applications in the app menu."
 msgstr ""
 
 #: workspace/plasma/dataengines/calendar/plasma-dataengine-calendar.desktop:66
