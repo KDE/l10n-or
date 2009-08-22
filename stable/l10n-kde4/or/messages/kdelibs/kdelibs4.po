@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-08-19 01:20+0200\n"
+"POT-Creation-Date: 2009-08-22 01:20+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -3786,7 +3786,7 @@ msgstr "KDE ପ୍ରୟୋଗ"
 msgid "Qt"
 msgstr "Qt"
 
-#: kdecore/kernel/kcmdlineargs.cpp:498 khtml/khtml_part.cpp:4738
+#: kdecore/kernel/kcmdlineargs.cpp:498 khtml/khtml_part.cpp:4744
 msgid "KDE"
 msgstr "KDE"
 
@@ -9891,7 +9891,7 @@ msgid "a basic web browser using the KHTML library"
 msgstr "KHTML ଲାଇବ୍ରେରୀ ବ୍ୟବହାର କରୁଥିବା ଗୋଟିଏ ମୌଳିକ ୱେବ ବ୍ରାଉଜର"
 
 #: khtml/khtml_run.cpp:97 khtml/khtml_part.cpp:3720 khtml/khtml_part.cpp:3930
-#: khtml/khtml_part.cpp:4316 kparts/browserrun.cpp:454
+#: khtml/khtml_part.cpp:4322 kparts/browserrun.cpp:454
 msgid "Save As"
 msgstr "ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ"
 
@@ -10503,7 +10503,7 @@ msgstr "ଫ୍ରେମରେ ଖୋଜନ୍ତୁ (&F)..."
 msgid "&Find..."
 msgstr "ଖୋଜନ୍ତୁ (&F)..."
 
-#: khtml/khtml_part.cpp:4626
+#: khtml/khtml_part.cpp:4632
 msgid ""
 "Warning:  This is a secure form but it is attempting to send your data back "
 "unencrypted.\n"
@@ -10515,16 +10515,16 @@ msgstr ""
 "ଜଣେ ତୃତୀୟ ପକ୍ଷ ଏହାକୁ ବାଟରେ ଧରିବାକୁ ସମର୍ଥ ହେବ ଏବଂ ଏହି ସୂଚନାକୁ ଦେଖିପାରିବ।\n"
 "ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ଆଗକୁ ବଢିବାକୁ ଚାହୁଁଛନ୍ତି?"
 
-#: khtml/khtml_part.cpp:4629 khtml/khtml_part.cpp:4638
-#: khtml/khtml_part.cpp:4662
+#: khtml/khtml_part.cpp:4635 khtml/khtml_part.cpp:4644
+#: khtml/khtml_part.cpp:4668
 msgid "Network Transmission"
 msgstr "ନେଟୱର୍କ ସଞ୍ଚାର"
 
-#: khtml/khtml_part.cpp:4629 khtml/khtml_part.cpp:4639
+#: khtml/khtml_part.cpp:4635 khtml/khtml_part.cpp:4645
 msgid "&Send Unencrypted"
 msgstr "ଅସଂଗୁପ୍ତ ଭାବେ ପଠାନ୍ତୁ (&S)"
 
-#: khtml/khtml_part.cpp:4636
+#: khtml/khtml_part.cpp:4642
 msgid ""
 "Warning: Your data is about to be transmitted across the network "
 "unencrypted.\n"
@@ -10533,7 +10533,7 @@ msgstr ""
 "ଚେତାବନୀ: ଆପଣଙ୍କର ତଥ୍ୟ ନେଟୱର୍କରେ ଅସଂଗୁପ୍ତ ଭାବରେ ସଞ୍ଚାର ହେବାକୁ ଯାଉଛି।\n"
 "ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ଆଗକୁ ବଢିବାକୁ ଚାହୁଁଛନ୍ତି?"
 
-#: khtml/khtml_part.cpp:4660
+#: khtml/khtml_part.cpp:4666
 msgid ""
 "This site is attempting to submit form data via email.\n"
 "Do you want to continue?"
@@ -10541,11 +10541,11 @@ msgstr ""
 "ଏହି ସାଇଟଟି ଫର୍ମ ତଥ୍ୟକୁ ଇମେଲ ମାଧ୍ଯମରେ ଦାଖଲ କରିବାକୁ ଚେଷ୍ଟା କରୁଅଛି।\n"
 "ଆପଣ ଆଗକୁ ବଢିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
 
-#: khtml/khtml_part.cpp:4663
+#: khtml/khtml_part.cpp:4669
 msgid "&Send Email"
 msgstr "ଇମେଲ ପଠାନ୍ତୁ (&S)"
 
-#: khtml/khtml_part.cpp:4684
+#: khtml/khtml_part.cpp:4690
 #, kde-format
 msgid ""
 "<qt>The form will be submitted to <br /><b>%1</b><br />on your local "
@@ -10554,84 +10554,84 @@ msgstr ""
 "<qt>ଏହି ଫର୍ମଟି ଦାଖଲ ହେବ <br /><b>%1</b><br />ଆପଣଙ୍କର ସ୍ଥାନୀୟ ଫାଇଲତନ୍ତ୍ରରେ।<br />ଆପଣ "
 "ଏହି ଫର୍ମକୁ ଦାଖଲ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?</qt>"
 
-#: khtml/khtml_part.cpp:4685 khtml/khtmlview.cpp:2910 khtml/khtmlview.cpp:2952
+#: khtml/khtml_part.cpp:4691 khtml/khtmlview.cpp:2910 khtml/khtmlview.cpp:2952
 #: khtml/html/html_formimpl.cpp:1605 khtml/html/html_formimpl.cpp:1817
 msgid "Submit"
 msgstr "ଦାଖଲ କରନ୍ତୁ"
 
-#: khtml/khtml_part.cpp:4738
+#: khtml/khtml_part.cpp:4744
 msgid ""
 "This site attempted to attach a file from your computer in the form "
 "submission. The attachment was removed for your protection."
 msgstr ""
 
-#: khtml/khtml_part.cpp:5744
+#: khtml/khtml_part.cpp:5750
 #, kde-format
 msgid "(%1/s)"
 msgstr "(%1/s)"
 
-#: khtml/khtml_part.cpp:6661
+#: khtml/khtml_part.cpp:6667
 msgid "Security Warning"
 msgstr "ସୁରକ୍ଷା ଚେତାବନୀ"
 
-#: khtml/khtml_part.cpp:6670
+#: khtml/khtml_part.cpp:6676
 #, kde-format
 msgid "<qt>Access by untrusted page to<br /><b>%1</b><br /> denied.</qt>"
 msgstr "<qt>ଅବିଶ୍ୱସ୍ତ ପୃଷ୍ଠାକୁ ପ୍ରବେଶାନୁମତୀ<br /><b>%1</b><br /> ବାରଣ କରାଯାଇଛି।</qt>"
 
-#: khtml/khtml_part.cpp:6671 khtml/java/kjavaappletserver.cpp:792
+#: khtml/khtml_part.cpp:6677 khtml/java/kjavaappletserver.cpp:792
 msgid "Security Alert"
 msgstr "ସୁରକ୍ଷା ସଚେତନତା"
 
-#: khtml/khtml_part.cpp:7019
+#: khtml/khtml_part.cpp:7025
 #, kde-format
 msgid "The wallet '%1' is open and being used for form data and passwords."
 msgstr "ୱାଲେଟ '%1' ଟି ଖୋଲାଅଛି ଏବଂ ଫର୍ମ ତଥ୍ୟ ଏବଂ ପ୍ରବେଶ ସଂକେତ ପାଇଁ ବ୍ୟବହୃତ ହେଉଛି।"
 
-#: khtml/khtml_part.cpp:7079
+#: khtml/khtml_part.cpp:7085
 msgid "&Close Wallet"
 msgstr "ୱାଲେଟ ବନ୍ଦକରନ୍ତୁ (&C)"
 
-#: khtml/khtml_part.cpp:7082
+#: khtml/khtml_part.cpp:7088
 msgid "&Allow storing passwords for this site"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7087
+#: khtml/khtml_part.cpp:7093
 #, kde-format
 msgid "Remove password for form %1"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7192
+#: khtml/khtml_part.cpp:7198
 msgid "JavaScript &Debugger"
 msgstr "JavaScript ତ୍ରୁଟିନିବାରକ (&D)"
 
-#: khtml/khtml_part.cpp:7224
+#: khtml/khtml_part.cpp:7230
 msgid "This page was prevented from opening a new window via JavaScript."
 msgstr ""
 
-#: khtml/khtml_part.cpp:7230
+#: khtml/khtml_part.cpp:7236
 msgid "Popup Window Blocked"
 msgstr "ପପ୍ ଅପ୍ ୱିଣ୍ଡୋ ବନ୍ଦ ହୋଇଯାଇଛି"
 
-#: khtml/khtml_part.cpp:7230
+#: khtml/khtml_part.cpp:7236
 msgid ""
 "This page has attempted to open a popup window but was blocked.\n"
 "You can click on this icon in the status bar to control this behavior\n"
 "or to open the popup."
 msgstr ""
 
-#: khtml/khtml_part.cpp:7243
+#: khtml/khtml_part.cpp:7249
 #, kde-format
 msgid "&Show Blocked Popup Window"
 msgid_plural "&Show %1 Blocked Popup Windows"
 msgstr[0] ""
 msgstr[1] ""
 
-#: khtml/khtml_part.cpp:7244
+#: khtml/khtml_part.cpp:7250
 msgid "Show Blocked Window Passive Popup &Notification"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7246
+#: khtml/khtml_part.cpp:7252
 msgid "&Configure JavaScript New Window Policies..."
 msgstr ""
 
