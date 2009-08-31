@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nepomuk\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-08-21 05:58+0200\n"
+"POT-Creation-Date: 2009-08-31 06:07+0200\n"
 "PO-Revision-Date: 2009-01-02 11:49+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -347,24 +347,21 @@ msgctxt "@info:status"
 msgid "File indexer is idle"
 msgstr ""
 
-#: services/strigi/systray.cpp:42
-msgid "Strigi File Indexing"
+#: services/strigi/systray.cpp:40 services/strigi/systray.cpp:43
+#: services/strigi/systray.cpp:76
+msgid "Search Service"
 msgstr ""
 
-#: services/strigi/systray.cpp:44 services/strigi/systray.cpp:45
-msgid "Suspend Strigi Indexing"
+#: services/strigi/systray.cpp:45 services/strigi/systray.cpp:46
+msgid "Suspend File Indexing"
 msgstr ""
 
-#: services/strigi/systray.cpp:46
-msgid "Suspend or resume the Strigi file indexer manually"
+#: services/strigi/systray.cpp:47
+msgid "Suspend or resume the file indexer manually"
 msgstr ""
 
-#: services/strigi/systray.cpp:51
-msgid "Configure Strigi"
-msgstr ""
-
-#: services/strigi/systray.cpp:75
-msgid "Nepomuk"
+#: services/strigi/systray.cpp:52
+msgid "Configure File Indexer"
 msgstr ""
 
 #: services/strigi/statuswidget.cpp:52
