@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmkclock\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-08-07 06:08+0200\n"
+"POT-Creation-Date: 2009-09-01 06:23+0200\n"
 "PO-Revision-Date: 2009-01-02 11:44+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -40,16 +40,16 @@ msgid ""
 "north-america.pool.ntp.org,oceania.pool.ntp.org"
 msgstr ""
 
-#: dtime.cpp:272
+#: dtime.cpp:275
 #, kde-format
 msgid "Unable to contact time server: %1."
 msgstr ""
 
-#: dtime.cpp:276
+#: dtime.cpp:279
 msgid "Can not set date."
 msgstr ""
 
-#: dtime.cpp:294 main.cpp:60
+#: dtime.cpp:297 main.cpp:62
 msgid ""
 "<h1>Date & Time</h1> This control module can be used to set the system date "
 "and time. As these settings do not only affect you as a user, but rather the "
@@ -58,48 +58,45 @@ msgid ""
 "time should be corrected, please contact your system administrator."
 msgstr ""
 
-#: main.cpp:52
+#: main.cpp:54
 msgid "kcmclock"
 msgstr ""
 
-#: main.cpp:52
+#: main.cpp:54
 msgid "KDE Clock Control Module"
 msgstr ""
 
-#: main.cpp:54
+#: main.cpp:56
 msgid "(c) 1996 - 2001 Luca Montecchiani"
 msgstr ""
 
-#: main.cpp:56
+#: main.cpp:58
 msgid "Luca Montecchiani"
 msgstr ""
 
-#: main.cpp:56
+#: main.cpp:58
 msgid "Original author"
 msgstr ""
 
-#: main.cpp:57
+#: main.cpp:59
 msgid "Paul Campbell"
 msgstr ""
 
-#: main.cpp:57
+#: main.cpp:59
 msgid "Current Maintainer"
 msgstr ""
 
-#: main.cpp:58
+#: main.cpp:60
 msgid "Benjamin Meyer"
 msgstr ""
 
-#: main.cpp:58
+#: main.cpp:60
 msgid "Added NTP support"
 msgstr ""
 
-#: main.cpp:110
-msgid "Failed to set system date/time/time zone."
-msgstr ""
-
-#: main.cpp:110
-msgid "Date/Time Error"
+#: main.cpp:103
+#, kde-format
+msgid "Unable to authenticate/execute the action: %1, %2"
 msgstr ""
 
 #: rc.cpp:1
@@ -121,10 +118,10 @@ msgstr ""
 msgid "Current local time zone: %1 (%2)"
 msgstr ""
 
-#: tzone.cpp:113
+#: tzone.cpp:114
 msgid "Error setting new time zone."
 msgstr ""
 
-#: tzone.cpp:114
+#: tzone.cpp:115
 msgid "Time zone Error"
 msgstr ""

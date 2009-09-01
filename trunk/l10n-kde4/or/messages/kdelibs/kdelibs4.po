@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-08-31 06:06+0200\n"
+"POT-Creation-Date: 2009-09-01 06:21+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -6701,7 +6701,7 @@ msgstr "ଏହି ସନ୍ଦେଶକୁ ପୁଣିଥରେ ଦର୍ଶା
 msgid "About %1"
 msgstr "%1 ବିଷୟରେ"
 
-#: kdeui/dialogs/kconfigdialog.cpp:69 kutils/kcmultidialog.cpp:123
+#: kdeui/dialogs/kconfigdialog.cpp:69 kutils/kcmultidialog.cpp:125
 msgid "Configure"
 msgstr "ବିନ୍ଯାସ କରନ୍ତୁ"
 
@@ -8574,6 +8574,16 @@ msgstr "ସାଧନ ପଟି"
 #: kdeui/widgets/klanguagebutton.cpp:177
 msgid "without name"
 msgstr "ନାମ ବିନା"
+
+#: kdeui/widgets/kcmodule.cpp:170
+msgid "You will be asked to authenticate before saving"
+msgstr ""
+
+#: kdeui/widgets/kcmodule.cpp:174
+#, fuzzy
+#| msgid "Do you want to reload KDE configuration?"
+msgid "You are not allowed to save the configuration"
+msgstr "ଆପଣ KDE ବିନ୍ୟାସ ପୁନର୍ଧାରଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
 
 #: kdeui/widgets/kactionselector.cpp:94
 msgid "&Available:"
@@ -11281,8 +11291,12 @@ msgid "Send Confirmation"
 msgstr "ନିଶ୍ଚିତତା ପଠାନ୍ତୁ"
 
 #: khtml/html/html_formimpl.cpp:440
-msgid "&Send Files"
-msgstr "ଫାଇଲ ପଠାନ୍ତୁ (&S)"
+#, fuzzy
+#| msgid "&Send Files"
+msgid "&Send File"
+msgid_plural "&Send Files"
+msgstr[0] "ଫାଇଲ ପଠାନ୍ତୁ (&S)"
+msgstr[1] "ଫାଇଲ ପଠାନ୍ତୁ (&S)"
 
 #: khtml/html/html_formimpl.cpp:2619
 msgid "Key Generator"
@@ -12076,21 +12090,7 @@ msgstr "ମୁଦ୍ରଣ ପ୍ରତିଛବି ଅଂଶକୁ ଧାରଣ
 msgid "Print Preview"
 msgstr "ପ୍ରାକ୍ ଦର୍ଶନକୁ ମୂଦ୍ରଣ କରନ୍ତୁ"
 
-#: kutils/kcmoduleproxy.cpp:131
-msgid ""
-"<b>Changes in this section require root access.</b><br />On applying your "
-"changes you will have to supply your root password."
-msgstr ""
-
-#: kutils/kcmoduleproxy.cpp:138
-msgid ""
-"This section requires special permissions, probably for system-wide changes; "
-"therefore, it is required that you provide the root password to be able to "
-"change the module's properties. If you cannot provide the password, the "
-"changes of the module cannot be saved "
-msgstr ""
-
-#: kutils/kcmoduleproxy.cpp:159
+#: kutils/kcmoduleproxy.cpp:165
 #, kde-format
 msgctxt "Argument is application name"
 msgid "This configuration section is already opened in %1"
