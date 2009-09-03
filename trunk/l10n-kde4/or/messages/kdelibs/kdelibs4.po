@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-09-02 07:20+0200\n"
+"POT-Creation-Date: 2009-09-03 07:27+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -6015,31 +6015,6 @@ msgstr "ପୂର୍ବ ପଦକ୍ଷେପ"
 #: kdeui/util/kundostack.cpp:67 kdeui/util/kkeyserver_x11.cpp:106
 msgid "Undo"
 msgstr "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ"
-
-#: kdeui/util/ksystemtrayicon.cpp:156
-msgid "Minimize"
-msgstr "କ୍ଷୁଦ୍ରତମ କରନ୍ତୁ"
-
-#: kdeui/util/ksystemtrayicon.cpp:215
-msgid "&Minimize"
-msgstr "କ୍ଷୁଦ୍ରତମ କରନ୍ତୁ (&M)"
-
-#: kdeui/util/ksystemtrayicon.cpp:219
-msgid "&Restore"
-msgstr "ପୁନଃସ୍ଥାପନ କରନ୍ତୁ (&R)"
-
-#: kdeui/util/ksystemtrayicon.cpp:239
-#, kde-format
-msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
-msgstr "<qt>ଆପଣ ନିଶ୍ଚିତକି ଆପଣ ବିଦାୟ ନେବାକୁ ଚାହୁଁଛନ୍ତି <b>%1</b>?</qt>"
-
-#: kdeui/util/ksystemtrayicon.cpp:242
-msgid "Confirm Quit From System Tray"
-msgstr "ତନ୍ତ୍ର ଧାରକରୁ ବିଦାୟନେବାକୁ ନିଶ୍ଚିତ କରନ୍ତୁ"
-
-#: kdeui/util/knotificationrestrictions.cpp:179
-msgid "Unknown Application"
-msgstr "ଅଜଣା ପ୍ରୟୋଗ"
 
 #: kdeui/util/kstandardguiitem.cpp:109
 msgid "&OK"
@@ -13029,6 +13004,24 @@ msgstr "ଆଜିର ସୂଚନା (&D)"
 #, kde-format
 msgid "No such function \"%1\""
 msgstr "ଏପରି କିଛି ଫଳନ ନାହିଁ \"%1\""
+
+#~ msgid "Minimize"
+#~ msgstr "କ୍ଷୁଦ୍ରତମ କରନ୍ତୁ"
+
+#~ msgid "&Minimize"
+#~ msgstr "କ୍ଷୁଦ୍ରତମ କରନ୍ତୁ (&M)"
+
+#~ msgid "&Restore"
+#~ msgstr "ପୁନଃସ୍ଥାପନ କରନ୍ତୁ (&R)"
+
+#~ msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
+#~ msgstr "<qt>ଆପଣ ନିଶ୍ଚିତକି ଆପଣ ବିଦାୟ ନେବାକୁ ଚାହୁଁଛନ୍ତି <b>%1</b>?</qt>"
+
+#~ msgid "Confirm Quit From System Tray"
+#~ msgstr "ତନ୍ତ୍ର ଧାରକରୁ ବିଦାୟନେବାକୁ ନିଶ୍ଚିତ କରନ୍ତୁ"
+
+#~ msgid "Unknown Application"
+#~ msgstr "ଅଜଣା ପ୍ରୟୋଗ"
 
 #~ msgid "&Abort"
 #~ msgstr "ବିଷୟରେ (&A)"
