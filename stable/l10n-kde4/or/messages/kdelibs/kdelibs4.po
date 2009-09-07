@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-09-06 01:21+0200\n"
+"POT-Creation-Date: 2009-09-07 01:21+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -6524,8 +6524,8 @@ msgstr ""
 msgid "Reset Toolbars"
 msgstr "ସାଧନପଟିଗୁଡିକୁ ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ"
 
-#: kdeui/dialogs/kedittoolbar.cpp:529 khtml/khtmlview.cpp:2924
-#: khtml/khtmlview.cpp:2957 khtml/html/html_formimpl.cpp:1809
+#: kdeui/dialogs/kedittoolbar.cpp:529 khtml/khtmlview.cpp:2926
+#: khtml/khtmlview.cpp:2959 khtml/html/html_formimpl.cpp:1809
 msgid "Reset"
 msgstr "ପୁନଃସ୍ଥାପନ କରନ୍ତୁ"
 
@@ -10270,8 +10270,38 @@ msgstr ""
 msgid "Enlarge Font"
 msgstr "ଅକ୍ଷରରୂପକୁ ବୃହତର କରନ୍ତୁ"
 
+#: khtml/khtml_part.cpp:404
+msgid ""
+"<qt>Enlarge Font<br /><br />Make the font in this window bigger. Click and "
+"hold down the mouse button for a menu with all available font sizes.</qt>"
+msgstr ""
+
 #: khtml/khtml_part.cpp:408
 msgid "Shrink Font"
+msgstr ""
+
+#: khtml/khtml_part.cpp:411
+msgid ""
+"<qt>Shrink Font<br /><br />Make the font in this window smaller. Click and "
+"hold down the mouse button for a menu with all available font sizes.</qt>"
+msgstr ""
+
+#: khtml/khtml_part.cpp:429
+msgid ""
+"<qt>Find text<br /><br />Shows a dialog that allows you to find text on the "
+"displayed page.</qt>"
+msgstr ""
+
+#: khtml/khtml_part.cpp:434
+msgid ""
+"<qt>Find next<br /><br />Find the next occurrence of the text that you have "
+"found using the <b>Find Text</b> function.</qt>"
+msgstr ""
+
+#: khtml/khtml_part.cpp:440
+msgid ""
+"<qt>Find previous<br /><br />Find the previous occurrence of the text that "
+"you have found using the <b>Find Text</b> function.</qt>"
 msgstr ""
 
 #: khtml/khtml_part.cpp:444
@@ -10281,6 +10311,12 @@ msgstr "ଆପଣ ଟାଇପ କରିବା ସମୟରେ ପାଠ୍ୟ �
 #: khtml/khtml_part.cpp:449
 msgid "Find Links as You Type"
 msgstr "ଆପଣ ଟାଇପ କରିବା ସମୟରେ ସଂଯୋଗ ଖୋଜନ୍ତୁ"
+
+#: khtml/khtml_part.cpp:470
+msgid ""
+"<qt>Print Frame<br /><br />Some pages have several frames. To print only a "
+"single frame, click on it and then use this function.</qt>"
+msgstr ""
 
 #: khtml/khtml_part.cpp:485
 msgid "Toggle Caret Mode"
@@ -10518,7 +10554,7 @@ msgstr ""
 "<qt>ଏହି ଫର୍ମଟି ଦାଖଲ ହେବ <br /><b>%1</b><br />ଆପଣଙ୍କର ସ୍ଥାନୀୟ ଫାଇଲତନ୍ତ୍ରରେ।<br />ଆପଣ "
 "ଏହି ଫର୍ମକୁ ଦାଖଲ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?</qt>"
 
-#: khtml/khtml_part.cpp:4691 khtml/khtmlview.cpp:2910 khtml/khtmlview.cpp:2952
+#: khtml/khtml_part.cpp:4691 khtml/khtmlview.cpp:2912 khtml/khtmlview.cpp:2954
 #: khtml/html/html_formimpl.cpp:1605 khtml/html/html_formimpl.cpp:1817
 msgid "Submit"
 msgstr "ଦାଖଲ କରନ୍ତୁ"
@@ -10637,39 +10673,39 @@ msgstr ""
 msgid "Remove from ignores..."
 msgstr ""
 
-#: khtml/khtmlview.cpp:1871
+#: khtml/khtmlview.cpp:1873
 msgid "Find stopped."
 msgstr "ଖୋଜିବା ବନ୍ଦ ହୋଇଯାଇଛି।"
 
-#: khtml/khtmlview.cpp:1882
+#: khtml/khtmlview.cpp:1884
 msgid "Starting -- find links as you type"
 msgstr ""
 
-#: khtml/khtmlview.cpp:1888
+#: khtml/khtmlview.cpp:1890
 msgid "Starting -- find text as you type"
 msgstr ""
 
-#: khtml/khtmlview.cpp:1911
+#: khtml/khtmlview.cpp:1913
 #, kde-format
 msgid "Link found: \"%1\"."
 msgstr "ସଂଯୋଗ ମିଳିଲା: \"%1\"।"
 
-#: khtml/khtmlview.cpp:1916
+#: khtml/khtmlview.cpp:1918
 #, kde-format
 msgid "Link not found: \"%1\"."
 msgstr "ସଂଯୋଗ ମିଳିଲା ନାହିଁ: \"%1\"।"
 
-#: khtml/khtmlview.cpp:1924
+#: khtml/khtmlview.cpp:1926
 #, kde-format
 msgid "Text found: \"%1\"."
 msgstr "ପାଠ୍ୟ ମିଳିଲା: \"%1\"।"
 
-#: khtml/khtmlview.cpp:1929
+#: khtml/khtmlview.cpp:1931
 #, kde-format
 msgid "Text not found: \"%1\"."
 msgstr "ପାଠ୍ୟ ମିଳିଲା ନାହିଁ: \"%1\"।"
 
-#: khtml/khtmlview.cpp:1972
+#: khtml/khtmlview.cpp:1974
 msgid "Access Keys activated"
 msgstr ""
 
