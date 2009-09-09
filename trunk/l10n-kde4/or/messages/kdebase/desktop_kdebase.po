@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-09-08 04:13+0000\n"
+"POT-Creation-Date: 2009-09-09 05:45+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -3358,7 +3358,7 @@ msgctxt "Comment"
 msgid "Choose the default components for various services"
 msgstr "ବିଭିନ୍ନ ପ୍ରକାର ସର୍ଭିସଗୁଡ଼ିକ ପାଇଁ ପୂର୍ବନିର୍ଦ୍ଧାରିତ ଉପାଦାନଗୁଡ଼ିକୁ ପସନ୍ଦ କରନ୍ତୁ"
 
-#: runtime/kcontrol/componentchooser/componentservices/kcm_browser.desktop:2
+#: runtime/kcontrol/componentchooser/componentservices/kcm_browser.desktop:4
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Web Browser"
@@ -3366,7 +3366,7 @@ msgctxt "Name|standard desktop component"
 msgid "Web Browser"
 msgstr "ୱେବ ବ୍ରାଉଜର"
 
-#: runtime/kcontrol/componentchooser/componentservices/kcm_browser.desktop:44
+#: runtime/kcontrol/componentchooser/componentservices/kcm_browser.desktop:46
 msgctxt "Comment"
 msgid ""
 "Here you can configure your default web browser. All KDE applications in "
@@ -3375,7 +3375,7 @@ msgstr ""
 "ଏଠାରେ ଆପଣ ପୂର୍ବନିର୍ଦ୍ଧାରିତ ୱେବ ବ୍ରାଉଜର ବିନ୍ୟାସ କରିପାରିବେ। ସମସ୍ତ KDE ପ୍ରୟୋଗଗୁଡ଼ିକ ଯେଉଁଥିରେ ଆପଣ "
 "ଅଧିୟୋଜକଗୁଡ଼ିକୁ ପସନ୍ଦ କରିପାରିବେ ସେଥିରେ ଏହି ସେଟିଙ୍ଗକୁ ମାନିବା ଉଚିତ।"
 
-#: runtime/kcontrol/componentchooser/componentservices/kcm_filemanager.desktop:2
+#: runtime/kcontrol/componentchooser/componentservices/kcm_filemanager.desktop:4
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "File Manager"
@@ -3383,7 +3383,7 @@ msgctxt "Name|standard desktop component"
 msgid "File Manager"
 msgstr "ଫାଇଲ ପରିଚାଳକ"
 
-#: runtime/kcontrol/componentchooser/componentservices/kcm_filemanager.desktop:44
+#: runtime/kcontrol/componentchooser/componentservices/kcm_filemanager.desktop:46
 msgctxt "Comment"
 msgid ""
 "Here you can configure your default file manager. The entries in the K menu "
@@ -3391,7 +3391,7 @@ msgid ""
 "manager."
 msgstr ""
 
-#: runtime/kcontrol/componentchooser/componentservices/kcm_kemail.desktop:2
+#: runtime/kcontrol/componentchooser/componentservices/kcm_kemail.desktop:4
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Email Client"
@@ -3399,7 +3399,7 @@ msgctxt "Name|standard desktop component"
 msgid "Email Client"
 msgstr "ଇମେଲ କ୍ଲାଏଣ୍ଟ"
 
-#: runtime/kcontrol/componentchooser/componentservices/kcm_kemail.desktop:44
+#: runtime/kcontrol/componentchooser/componentservices/kcm_kemail.desktop:46
 msgctxt "Comment"
 msgid ""
 "This service allows you to configure your default email client. All KDE "
@@ -3407,7 +3407,7 @@ msgid ""
 "this setting."
 msgstr ""
 
-#: runtime/kcontrol/componentchooser/componentservices/kcm_terminal.desktop:2
+#: runtime/kcontrol/componentchooser/componentservices/kcm_terminal.desktop:4
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Terminal Emulator"
@@ -3415,7 +3415,7 @@ msgctxt "Name|standard desktop component"
 msgid "Terminal Emulator"
 msgstr "ଟର୍ମିନାଲ ଯାନ୍ତ୍ରାନୁକରଣ"
 
-#: runtime/kcontrol/componentchooser/componentservices/kcm_terminal.desktop:45
+#: runtime/kcontrol/componentchooser/componentservices/kcm_terminal.desktop:47
 msgctxt "Comment"
 msgid ""
 "This service allows you to configure your default terminal emulator. All KDE "
@@ -3423,7 +3423,7 @@ msgid ""
 "setting."
 msgstr ""
 
-#: runtime/kcontrol/componentchooser/componentservices/kcm_wm.desktop:2
+#: runtime/kcontrol/componentchooser/componentservices/kcm_wm.desktop:4
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Window Manager"
@@ -3431,7 +3431,7 @@ msgctxt "Name|standard desktop component"
 msgid "Window Manager"
 msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ"
 
-#: runtime/kcontrol/componentchooser/componentservices/kcm_wm.desktop:45
+#: runtime/kcontrol/componentchooser/componentservices/kcm_wm.desktop:47
 msgctxt "Comment"
 msgid "Here you can select the window manager to be run in your KDE session."
 msgstr "ଆପଣଙ୍କର KDE ଅଧିବେଶନରେ ଚଲାଇବା ପାଇଁ ୱିଣ୍ଡୋ ପରିଚାଳକଙ୍କୁ ଏଠାରେ ଚୟନ କରିପାରିବେ।"
@@ -7836,7 +7836,7 @@ msgctxt "Name"
 msgid "Remote widgets policies"
 msgstr ""
 
-#: workspace/kcontrol/remotewidgets/remotewidgets.desktop:23
+#: workspace/kcontrol/remotewidgets/remotewidgets.desktop:24
 msgctxt "Comment"
 msgid "Define policies for remote plasma widgets"
 msgstr ""
@@ -11473,7 +11473,7 @@ msgctxt "Comment"
 msgid "Plasma Desktop Shell"
 msgstr "ପ୍ଲାଜମା ଡ଼େସ୍କଟପ କାର୍ଯ୍ୟସ୍ଥଳ"
 
-#: workspace/plasma/shells/desktop/plasma-desktop.notifyrc:11
+#: workspace/plasma/shells/desktop/plasma-desktop.notifyrc:12
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Panama"
@@ -11481,12 +11481,12 @@ msgctxt "Name"
 msgid "Plasma"
 msgstr "ପାନାମା"
 
-#: workspace/plasma/shells/desktop/plasma-desktop.notifyrc:16
+#: workspace/plasma/shells/desktop/plasma-desktop.notifyrc:17
 msgctxt "Name"
 msgid "New plasmoid published"
 msgstr ""
 
-#: workspace/plasma/shells/desktop/plasma-desktop.notifyrc:24
+#: workspace/plasma/shells/desktop/plasma-desktop.notifyrc:26
 msgctxt "Comment"
 msgid "A new plasmoid is published on the network."
 msgstr ""
