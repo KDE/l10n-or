@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-09-14 04:52+0000\n"
+"POT-Creation-Date: 2009-09-15 04:26+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -2307,7 +2307,7 @@ msgid "Network Interfaces"
 msgstr "ନେଟୱର୍କ ଅନ୍ତରାପୃଷ୍ଠ"
 
 #: apps/kinfocenter/nics/nic.desktop:97
-#: workspace/plasma/dataengines/network/plasma-dataengine-network.desktop:69
+#: workspace/plasma/generic/dataengines/network/plasma-dataengine-network.desktop:69
 msgctxt "Comment"
 msgid "Network interface information"
 msgstr "ନେଟୱର୍କ ଅନ୍ତାରାପୃଷ୍ଠ ସୂଚନା"
@@ -2881,7 +2881,7 @@ msgid "Navigation Panel"
 msgstr "ପଥପ୍ରଦର୍ଶନ ପାନେଲ"
 
 #: apps/konqueror/sidebar/test/test.desktop:5
-#: workspace/plasma/containmentactions/test/plasma-containmentactions-test.desktop:2
+#: workspace/plasma/generic/containmentactions/test/plasma-containmentactions-test.desktop:2
 msgctxt "Name"
 msgid "Test"
 msgstr "ପରୀକ୍ଷଣ"
@@ -2988,7 +2988,7 @@ msgid "This is the root of the filesystem"
 msgstr "ଏହା ଫାଇଲ ତନ୍ତ୍ରର ମୂଖ୍ୟଚାଳକ"
 
 #: apps/konqueror/sidebar/trees/init/services/applications.desktop:5
-#: workspace/plasma/runners/services/plasma-runner-services.desktop:2
+#: workspace/plasma/generic/runners/services/plasma-runner-services.desktop:2
 msgctxt "Name"
 msgid "Applications"
 msgstr "ପ୍ରୟୋଗଗୁଡ଼ିକ"
@@ -3804,12 +3804,12 @@ msgctxt "Name"
 msgid "Welcome to KDE"
 msgstr "KDEରେ ଆପଣଙ୍କୁ ସ୍ୱାଗତ"
 
-#: runtime/kioslave/cgi/kcmcgi/kcmcgi.desktop:9
+#: runtime/kioslave/cgi/kcmcgi/kcmcgi.desktop:11
 msgctxt "Name"
 msgid "CGI Scripts"
 msgstr "CGI ସ୍କ୍ରିପ୍ଟଗୁଡ଼ିକ"
 
-#: runtime/kioslave/cgi/kcmcgi/kcmcgi.desktop:94
+#: runtime/kioslave/cgi/kcmcgi/kcmcgi.desktop:96
 msgctxt "Comment"
 msgid "Configure the CGI KIO slave"
 msgstr "CGI KIO ସ୍ଲେଭକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
@@ -3944,6 +3944,16 @@ msgstr "ପାଠ୍ୟ ଫାଇଲଗୁଡ଼ିକ"
 msgctxt "Comment"
 msgid "Thumbnail Handler"
 msgstr "କ୍ଷୁଦ୍ରଚିତ୍ର ନିୟନ୍ତ୍ରକ"
+
+#: runtime/kioslave/thumbnail/windowsexethumbnail.desktop:4
+msgctxt "Name"
+msgid "Microsoft Windows Executables"
+msgstr ""
+
+#: runtime/kioslave/thumbnail/windowsimagethumbnail.desktop:4
+msgctxt "Name"
+msgid "Microsoft Windows Images"
+msgstr ""
 
 #: runtime/kioslave/trash/kcmtrash.desktop:74
 msgctxt "Comment"
@@ -7329,7 +7339,7 @@ msgid "Javascript version current track playing"
 msgstr "Javascript ସାଂଖିକ ଘଡ଼ି"
 
 #: runtime/plasma/scriptengines/javascript/tests/tiger/metadata.desktop:3
-#: workspace/plasma/scriptengines/ruby/examples/applets/tiger/metadata.desktop:2
+#: workspace/plasma/generic/scriptengines/ruby/examples/applets/tiger/metadata.desktop:2
 msgctxt "Name"
 msgid "Tiger"
 msgstr "ଟାଇଗର"
@@ -9129,8 +9139,8 @@ msgid "Sensor exceeded critical limit"
 msgstr ""
 
 #: workspace/ksysguard/gui/ksysguard.desktop:2
-#: workspace/plasma/applets/system-monitor/plasma-applet-system-monitor.desktop:2
-#: workspace/plasma/dataengines/systemmonitor/plasma-dataengine-systemmonitor.desktop:3
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-system-monitor.desktop:2
+#: workspace/plasma/generic/dataengines/systemmonitor/plasma-dataengine-systemmonitor.desktop:3
 msgctxt "Name"
 msgid "System Monitor"
 msgstr ""
@@ -9722,7 +9732,7 @@ msgstr ""
 
 #: workspace/kwin/effects/zoom/zoom_config.desktop:9
 #: workspace/kwin/effects/zoom/zoom.desktop:2
-#: workspace/plasma/containmentactions/zoom/plasma-containmentactions-zoom.desktop:2
+#: workspace/plasma/generic/containmentactions/zoom/plasma-containmentactions-zoom.desktop:2
 msgctxt "Name"
 msgid "Zoom"
 msgstr ""
@@ -10395,358 +10405,58 @@ msgctxt "Comment"
 msgid "Power Management Backend"
 msgstr ""
 
-#: workspace/plasma/animators/default/plasma-animator-default.desktop:2
-msgctxt "Name"
-msgid "Default Plasma Animator"
-msgstr ""
-
-#: workspace/plasma/applets/activitybar/plasma-applet-activitybar.desktop:2
-msgctxt "Name"
-msgid "Activity Bar"
-msgstr ""
-
-#: workspace/plasma/applets/activitybar/plasma-applet-activitybar.desktop:62
-msgctxt "Comment"
-msgid "Tab bar to switch activities"
-msgstr ""
-
-#: workspace/plasma/applets/analog-clock/plasma-applet-analogclock.desktop:2
-msgctxt "Name"
-msgid "Analog Clock"
-msgstr ""
-
-#: workspace/plasma/applets/analog-clock/plasma-applet-analogclock.desktop:81
-msgctxt "Comment"
-msgid "A themable analog clock"
-msgstr ""
-
-#: workspace/plasma/applets/battery/plasma-battery-default.desktop:2
-msgctxt "Name"
-msgid "Battery Monitor"
-msgstr ""
-
-#: workspace/plasma/applets/battery/plasma-battery-default.desktop:78
-msgctxt "Comment"
-msgid "See the power status of your battery"
-msgstr ""
-
-#: workspace/plasma/applets/calendar/plasma-applet-calendar.desktop:2
-#: workspace/plasma/dataengines/calendar/plasma-dataengine-calendar.desktop:2
-msgctxt "Name"
-msgid "Calendar"
-msgstr ""
-
-#: workspace/plasma/applets/calendar/plasma-applet-calendar.desktop:67
-msgctxt "Comment"
-msgid "View and pick dates from the calendar"
-msgstr ""
-
-#: workspace/plasma/applets/devicenotifier/plasma-applet-devicenotifier.desktop:2
-msgctxt "Name"
-msgid "Device Notifier"
-msgstr ""
-
-#: workspace/plasma/applets/devicenotifier/plasma-applet-devicenotifier.desktop:67
-msgctxt "Comment"
-msgid "Notifications and access for new devices"
-msgstr ""
-
-#: workspace/plasma/applets/devicenotifier/test-predicate-openinwindow.desktop:7
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Open with Dolphin"
-msgctxt "Name"
-msgid "Open with File Manager"
-msgstr "ଡ଼ଲଫିନ ସହିତ ଖୋଲନ୍ତୁ"
-
-#: workspace/plasma/applets/digital-clock/plasma-applet-digitalclock.desktop:2
-msgctxt "Name"
-msgid "Digital Clock"
-msgstr "ସାଂଖିକ ଘଡ଼ି"
-
-#: workspace/plasma/applets/digital-clock/plasma-applet-digitalclock.desktop:81
-msgctxt "Comment"
-msgid "Time displayed in a digital format"
-msgstr "ସାଂଖିକ ଶୈଳୀରେ ସମୟ ପ୍ରଦର୍ଶନ"
-
-#: workspace/plasma/applets/icon/plasma-applet-icon.desktop:2
-msgctxt "Name"
-msgid "Icon"
-msgstr "ଚିତ୍ର ସଂକେତ"
-
-#: workspace/plasma/applets/icon/plasma-applet-icon.desktop:79
-msgctxt "Comment"
-msgid "A generic icon"
-msgstr "ଗୋଟିଏ ସାମାନ୍ୟ ଚିତ୍ର ସଂକେତ"
-
-#: workspace/plasma/applets/kickoff/applet/plasma-applet-launcher.desktop:2
-#: workspace/plasma/containmentactions/applauncher/plasma-containmentactions-applauncher.desktop:2
+#: workspace/plasma/desktop/applets/kickoff/applet/plasma-applet-launcher.desktop:2
+#: workspace/plasma/generic/containmentactions/applauncher/plasma-containmentactions-applauncher.desktop:2
 msgctxt "Name"
 msgid "Application Launcher"
 msgstr "ପ୍ରୟୋଗ ଆରମ୍ଭକର୍ତ୍ତା"
 
-#: workspace/plasma/applets/kickoff/applet/plasma-applet-launcher.desktop:79
+#: workspace/plasma/desktop/applets/kickoff/applet/plasma-applet-launcher.desktop:79
 msgctxt "Comment"
 msgid "Launcher to start applications"
 msgstr ""
 
-#: workspace/plasma/applets/kickoff/simpleapplet/plasma-applet-simplelauncher.desktop:2
+#: workspace/plasma/desktop/applets/kickoff/simpleapplet/plasma-applet-simplelauncher.desktop:2
 msgctxt "Name"
 msgid "Application Launcher Menu"
 msgstr "ପ୍ରୟୋଗ ଆରମ୍ଭକର୍ତ୍ତା ତାଲିକା"
 
-#: workspace/plasma/applets/kickoff/simpleapplet/plasma-applet-simplelauncher.desktop:71
+#: workspace/plasma/desktop/applets/kickoff/simpleapplet/plasma-applet-simplelauncher.desktop:71
 msgctxt "Comment"
 msgid "Traditional menu based application launcher"
 msgstr "ପ୍ରଥାଗତ ତାଲିକା ଆଧାରିତ ପ୍ରୟୋଗ ଆରମ୍ଭକର୍ତ୍ତା"
 
-#: workspace/plasma/applets/lock_logout/plasma-applet-lockout.desktop:2
-msgctxt "Name"
-msgid "Lock/Logout"
-msgstr "ଅପରିବର୍ତ୍ତନୀୟ/ଲଗଆଉଟ କରନ୍ତୁ"
-
-#: workspace/plasma/applets/lock_logout/plasma-applet-lockout.desktop:77
-msgctxt "Comment"
-msgid "Lock the screen or log out"
-msgstr "ପରଦାକୁ ଅପରିବର୍ତ୍ତନୀୟ କରନ୍ତୁ କିମ୍ବା ଲଗଆଉଟ କରନ୍ତୁ"
-
-#: workspace/plasma/applets/pager/plasma-pager-default.desktop:2
+#: workspace/plasma/desktop/applets/pager/plasma-pager-default.desktop:2
 msgctxt "Name"
 msgid "Pager"
 msgstr "ପେଜର"
 
-#: workspace/plasma/applets/pager/plasma-pager-default.desktop:66
+#: workspace/plasma/desktop/applets/pager/plasma-pager-default.desktop:66
 msgctxt "Comment"
 msgid "Switch between virtual desktops"
 msgstr "ଆଭାସୀ ଡ଼େସ୍କଟପଗୁଡ଼ିକ ମଧ୍ଯରେ ଅଦଳ ବଦଳ କରନ୍ତୁ"
 
-#: workspace/plasma/applets/panelspacer/plasma-applet-panelspacer-internal.desktop:2
-msgctxt "Name"
-msgid "Panel Spacer"
-msgstr ""
-
-#: workspace/plasma/applets/panelspacer/plasma-applet-panelspacer-internal.desktop:36
-msgctxt "Comment"
-msgid "Reserve empty spaces within the panel."
-msgstr ""
-
-#: workspace/plasma/applets/quicklaunch/plasma-applet-quicklaunch.desktop:2
-msgctxt "Name"
-msgid "Quicklaunch"
-msgstr "Quicklaunch"
-
-#: workspace/plasma/applets/quicklaunch/plasma-applet-quicklaunch.desktop:53
-msgctxt "Comment"
-msgid "Launch your favourite Applications"
-msgstr "ଆପଣଙ୍କର ପ୍ରିୟ ପ୍ରୟୋଗଗୁଡ଼ିକୁ ଆରମ୍ଭ କରନ୍ତୁ"
-
-#: workspace/plasma/applets/system-monitor/plasma-applet-sm_cpu.desktop:3
-msgctxt "Name"
-msgid "System Monitor - CPU"
-msgstr "ତନ୍ତ୍ର ନିରିକ୍ଷକ - CPU"
-
-#: workspace/plasma/applets/system-monitor/plasma-applet-sm_cpu.desktop:69
-msgctxt "Comment"
-msgid "A CPU usage monitor"
-msgstr "ଗୋଟିଏ CPU ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
-
-#: workspace/plasma/applets/system-monitor/plasma-applet-sm_hdd.desktop:3
-msgctxt "Name"
-msgid "System Monitor - Hard Disk"
-msgstr "ତନ୍ତ୍ର ନିରିକ୍ଷକ - ହାର୍ଡ଼ଡ଼ିସ୍କ"
-
-#: workspace/plasma/applets/system-monitor/plasma-applet-sm_hdd.desktop:69
-msgctxt "Comment"
-msgid "A hard disk usage monitor"
-msgstr "ଗୋଟିଏ ହାର୍ଡ଼ଡ଼ିସ୍କ ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
-
-#: workspace/plasma/applets/system-monitor/plasma-applet-sm_hwinfo.desktop:3
-msgctxt "Name"
-msgid "System Monitor - Hardware Info"
-msgstr "ତନ୍ତ୍ର ନିରିକ୍ଷକ - ହାର୍ଡ଼ୱେର ସୂଚନା"
-
-#: workspace/plasma/applets/system-monitor/plasma-applet-sm_hwinfo.desktop:69
-msgctxt "Comment"
-msgid "Show hardware info"
-msgstr "ହାର୍ଡ଼ୱେର ସୂଚନା ଦର୍ଶାନ୍ତୁ"
-
-#: workspace/plasma/applets/system-monitor/plasma-applet-sm_net.desktop:3
-msgctxt "Name"
-msgid "System Monitor - Network"
-msgstr "ତନ୍ତ୍ର ନିରିକ୍ଷକ - ନେଟୱର୍କ"
-
-#: workspace/plasma/applets/system-monitor/plasma-applet-sm_net.desktop:69
-msgctxt "Comment"
-msgid "A network usage monitor"
-msgstr "ଗୋଟିଏ ନେଟୱର୍କ ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
-
-#: workspace/plasma/applets/system-monitor/plasma-applet-sm_ram.desktop:3
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "System Monitor - CPU"
-msgctxt "Name"
-msgid "System Monitor - RAM"
-msgstr "ତନ୍ତ୍ର ନିରିକ୍ଷକ - CPU"
-
-#: workspace/plasma/applets/system-monitor/plasma-applet-sm_ram.desktop:47
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "A CPU usage monitor"
-msgctxt "Comment"
-msgid "A RAM usage monitor"
-msgstr "ଗୋଟିଏ CPU ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
-
-#: workspace/plasma/applets/system-monitor/plasma-applet-sm_temperature.desktop:3
-msgctxt "Name"
-msgid "System Monitor - Temperature"
-msgstr "ତନ୍ତ୍ର ନିରିକ୍ଷକ - ଉତ୍ତାପ"
-
-#: workspace/plasma/applets/system-monitor/plasma-applet-sm_temperature.desktop:69
-msgctxt "Comment"
-msgid "A system temperature monitor"
-msgstr "ତନ୍ତ୍ର ଉତ୍ତାପ ନିରିକ୍ଷକ"
-
-#: workspace/plasma/applets/system-monitor/plasma-applet-system-monitor.desktop:78
-msgctxt "Comment"
-msgid "System monitoring applet"
-msgstr "ତନ୍ତ୍ର ନିରିକ୍ଷଣ ଆପଲେଟ"
-
-#: workspace/plasma/applets/systemtray/notificationitemwatcher/notificationitemwatcher.desktop:3
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "KDE Notification Daemon"
-msgctxt "Name"
-msgid "KDED Notification item watcher"
-msgstr "KDE ବିଜ୍ଞପ୍ତି ଡେମନ"
-
-#: workspace/plasma/applets/systemtray/notificationitemwatcher/notificationitemwatcher.desktop:41
-msgctxt "Comment"
-msgid ""
-"Keep track of applications that want to use the D-Bus based notification "
-"item."
-msgstr ""
-
-#: workspace/plasma/applets/systemtray/plasma-applet-systemtray.desktop:2
-msgctxt "Name"
-msgid "System Tray"
-msgstr "ତନ୍ତ୍ର ଧାରକ"
-
-#: workspace/plasma/applets/systemtray/plasma-applet-systemtray.desktop:83
-msgctxt "Comment"
-msgid "Access hidden applications minimized in the system tray"
-msgstr "ତନ୍ତ୍ର ଟ୍ରେରେ ଆକାର ଛୋଟହୋଇ ଲୁକ୍କାୟିତ ପ୍ରୟୋଗଗୁଡ଼ିକୁ ବ୍ୟବହାର କରନ୍ତୁ"
-
-#: workspace/plasma/applets/tasks/plasma-tasks-default.desktop:2
+#: workspace/plasma/desktop/applets/tasks/plasma-tasks-default.desktop:2
 msgctxt "Name"
 msgid "Task Manager"
 msgstr "କାର୍ଯ୍ୟ ପରିଚାଳକ"
 
-#: workspace/plasma/applets/tasks/plasma-tasks-default.desktop:77
+#: workspace/plasma/desktop/applets/tasks/plasma-tasks-default.desktop:77
 msgctxt "Comment"
 msgid "Switch between running applications"
 msgstr "ଚାଲୁଥିବା ପ୍ରୟୋଗଗୁଡ଼ିକ ମଧ୍ଯରେ ଅଦଳ ବଦଳ କରନ୍ତୁ"
 
-#: workspace/plasma/applets/trash/plasma-applet-trash.desktop:2
+#: workspace/plasma/desktop/applets/trash/plasma-applet-trash.desktop:2
 msgctxt "Name"
 msgid "Trashcan"
 msgstr "Trashcan"
 
-#: workspace/plasma/applets/trash/plasma-applet-trash.desktop:72
+#: workspace/plasma/desktop/applets/trash/plasma-applet-trash.desktop:72
 msgctxt "Comment"
 msgid "Access to deleted items"
 msgstr "ଅପସାରିତ ବସ୍ତୁଗୁଡ଼ିକୁ ବ୍ୟବହାର କରନ୍ତୁ"
 
-#: workspace/plasma/applets/webbrowser/plasma-applet-webbrowser.desktop:3
-msgctxt "Name"
-msgid "Web Browser"
-msgstr "ୱେବ ବ୍ରାଉଜର"
-
-#: workspace/plasma/applets/webbrowser/plasma-applet-webbrowser.desktop:87
-msgctxt "Comment"
-msgid "A simple web browser"
-msgstr "ଗୋଟିଏ ସରଳ ୱେବ ବ୍ରାଉଜର"
-
-#: workspace/plasma/containmentactions/applauncher/plasma-containmentactions-applauncher.desktop:81
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Launch your favourite Applications"
-msgctxt "Comment"
-msgid "Run your favourite apps"
-msgstr "ଆପଣଙ୍କର ପ୍ରିୟ ପ୍ରୟୋଗଗୁଡ଼ିକୁ ଆରମ୍ଭ କରନ୍ତୁ"
-
-#: workspace/plasma/containmentactions/contextmenu/plasma-containmentactions-contextmenu.desktop:2
-msgctxt "Name"
-msgid "Contextual Menu"
-msgstr ""
-
-#: workspace/plasma/containmentactions/contextmenu/plasma-containmentactions-contextmenu.desktop:14
-msgctxt "Comment"
-msgid "The menu that normally shows on right-click"
-msgstr ""
-
-#: workspace/plasma/containmentactions/paste/plasma-containmentactions-paste.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Pose"
-msgctxt "Name"
-msgid "Paste"
-msgstr "ପଜ"
-
-#: workspace/plasma/containmentactions/paste/plasma-containmentactions-paste.desktop:17
-msgctxt "Comment"
-msgid "Creates a widget from the contents of the clipboard"
-msgstr ""
-
-#: workspace/plasma/containmentactions/switchactivity/plasma-containmentactions-switchactivity.desktop:2
-msgctxt "Name"
-msgid "Switch Activity"
-msgstr ""
-
-#: workspace/plasma/containmentactions/switchactivity/plasma-containmentactions-switchactivity.desktop:16
-msgctxt "Comment"
-msgid "Switch to another activity"
-msgstr ""
-
-#: workspace/plasma/containmentactions/switchdesktop/plasma-containmentactions-switchdesktop.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Desktop"
-msgctxt "Name"
-msgid "Switch Desktop"
-msgstr "ଡ଼େସ୍କଟପ"
-
-#: workspace/plasma/containmentactions/switchdesktop/plasma-containmentactions-switchdesktop.desktop:17
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Switch between virtual desktops"
-msgctxt "Comment"
-msgid "Switch to another virtual desktop"
-msgstr "ଆଭାସୀ ଡ଼େସ୍କଟପଗୁଡ଼ିକ ମଧ୍ଯରେ ଅଦଳ ବଦଳ କରନ୍ତୁ"
-
-#: workspace/plasma/containmentactions/switchwindow/plasma-containmentactions-switchwindow.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "MS Windows 9x"
-msgctxt "Name"
-msgid "Switch Window"
-msgstr "MS Windows 9x"
-
-#: workspace/plasma/containmentactions/switchwindow/plasma-containmentactions-switchwindow.desktop:17
-msgctxt "Comment"
-msgid "Show a list of windows to switch to"
-msgstr ""
-
-#: workspace/plasma/containmentactions/test/plasma-containmentactions-test.desktop:68
-msgctxt "Comment"
-msgid "A dummy plugin for testing"
-msgstr ""
-
-#: workspace/plasma/containmentactions/zoom/plasma-containmentactions-zoom.desktop:71
-msgctxt "Comment"
-msgid "Zoom activities in and out"
-msgstr ""
-
-#: workspace/plasma/containments/desktop/plasma-containment-desktop.desktop:3
+#: workspace/plasma/desktop/containments/desktop/plasma-containment-desktop.desktop:3
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Desktop"
@@ -10754,34 +10464,360 @@ msgctxt "Name|plasma containment"
 msgid "Desktop"
 msgstr "ଡ଼େସ୍କଟପ"
 
-#: workspace/plasma/containments/desktop/plasma-containment-desktop.desktop:43
+#: workspace/plasma/desktop/containments/desktop/plasma-containment-desktop.desktop:43
 msgctxt "Comment"
 msgid "Default desktop containment"
 msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ ଡ଼େସ୍କଟପ ଧାରଣ"
 
-#: workspace/plasma/containments/panel/plasma-containment-panel.desktop:2
+#: workspace/plasma/desktop/containments/panel/plasma-containment-panel.desktop:2
 msgctxt "Name"
 msgid "Panel"
 msgstr "ଫଳକ"
 
-#: workspace/plasma/containments/panel/plasma-containment-panel.desktop:66
+#: workspace/plasma/desktop/containments/panel/plasma-containment-panel.desktop:66
 #: workspace/plasma/netbook/containments/netpanel/plasma-containment-midpanel.desktop:46
 #: workspace/plasma/netbook/containments/netpanel/plasma-containment-netpanel.desktop:13
 msgctxt "Comment"
 msgid "A containment for a panel"
 msgstr "ଫଳକ ପାଇଁ ଗୋଟିଏ ପ୍ୟାନେଲ"
 
-#: workspace/plasma/containments/screensaver/plasma-containment-saverdesktop.desktop:2
+#: workspace/plasma/desktop/shells/desktop/data/plasma-desktop.desktop:4
 msgctxt "Name"
-msgid "SaverDesktop"
-msgstr "ସର୍ଭର ଡ଼େସ୍କଟପ"
+msgid "Plasma Desktop Workspace"
+msgstr "ପ୍ଲାଜମା ଡ଼େସ୍କଟପ କାର୍ଯ୍ୟସ୍ଥଳ"
 
-#: workspace/plasma/dataengines/akonadi/plasma-engine-akonadi.desktop:2
+#: workspace/plasma/desktop/shells/desktop/data/plasma-desktop.notifyrc:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Plasma Desktop Workspace"
+msgctxt "Comment"
+msgid "Plasma Desktop Shell"
+msgstr "ପ୍ଲାଜମା ଡ଼େସ୍କଟପ କାର୍ଯ୍ୟସ୍ଥଳ"
+
+#: workspace/plasma/desktop/shells/desktop/data/plasma-desktop.notifyrc:14
+msgctxt "Name"
+msgid "Workspace"
+msgstr ""
+
+#: workspace/plasma/desktop/shells/desktop/data/plasma-desktop.notifyrc:25
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Web widget style"
+msgctxt "Name"
+msgid "New widget published"
+msgstr "ୱେବ ୱିଜେଟ ଶୈଳୀ"
+
+#: workspace/plasma/desktop/shells/desktop/data/plasma-desktop.notifyrc:34
+msgctxt "Comment"
+msgid "A new widget has become available on the network."
+msgstr ""
+
+#: workspace/plasma/generic/animators/default/plasma-animator-default.desktop:2
+msgctxt "Name"
+msgid "Default Plasma Animator"
+msgstr ""
+
+#: workspace/plasma/generic/applets/activitybar/plasma-applet-activitybar.desktop:2
+msgctxt "Name"
+msgid "Activity Bar"
+msgstr ""
+
+#: workspace/plasma/generic/applets/activitybar/plasma-applet-activitybar.desktop:62
+msgctxt "Comment"
+msgid "Tab bar to switch activities"
+msgstr ""
+
+#: workspace/plasma/generic/applets/analog-clock/plasma-applet-analogclock.desktop:2
+msgctxt "Name"
+msgid "Analog Clock"
+msgstr ""
+
+#: workspace/plasma/generic/applets/analog-clock/plasma-applet-analogclock.desktop:81
+msgctxt "Comment"
+msgid "A themable analog clock"
+msgstr ""
+
+#: workspace/plasma/generic/applets/battery/plasma-battery-default.desktop:2
+msgctxt "Name"
+msgid "Battery Monitor"
+msgstr ""
+
+#: workspace/plasma/generic/applets/battery/plasma-battery-default.desktop:78
+msgctxt "Comment"
+msgid "See the power status of your battery"
+msgstr ""
+
+#: workspace/plasma/generic/applets/calendar/plasma-applet-calendar.desktop:2
+#: workspace/plasma/generic/dataengines/calendar/plasma-dataengine-calendar.desktop:2
+msgctxt "Name"
+msgid "Calendar"
+msgstr ""
+
+#: workspace/plasma/generic/applets/calendar/plasma-applet-calendar.desktop:67
+msgctxt "Comment"
+msgid "View and pick dates from the calendar"
+msgstr ""
+
+#: workspace/plasma/generic/applets/devicenotifier/plasma-applet-devicenotifier.desktop:2
+msgctxt "Name"
+msgid "Device Notifier"
+msgstr ""
+
+#: workspace/plasma/generic/applets/devicenotifier/plasma-applet-devicenotifier.desktop:67
+msgctxt "Comment"
+msgid "Notifications and access for new devices"
+msgstr ""
+
+#: workspace/plasma/generic/applets/devicenotifier/test-predicate-openinwindow.desktop:7
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Open with Dolphin"
+msgctxt "Name"
+msgid "Open with File Manager"
+msgstr "ଡ଼ଲଫିନ ସହିତ ଖୋଲନ୍ତୁ"
+
+#: workspace/plasma/generic/applets/digital-clock/plasma-applet-digitalclock.desktop:2
+msgctxt "Name"
+msgid "Digital Clock"
+msgstr "ସାଂଖିକ ଘଡ଼ି"
+
+#: workspace/plasma/generic/applets/digital-clock/plasma-applet-digitalclock.desktop:81
+msgctxt "Comment"
+msgid "Time displayed in a digital format"
+msgstr "ସାଂଖିକ ଶୈଳୀରେ ସମୟ ପ୍ରଦର୍ଶନ"
+
+#: workspace/plasma/generic/applets/icon/plasma-applet-icon.desktop:2
+msgctxt "Name"
+msgid "Icon"
+msgstr "ଚିତ୍ର ସଂକେତ"
+
+#: workspace/plasma/generic/applets/icon/plasma-applet-icon.desktop:79
+msgctxt "Comment"
+msgid "A generic icon"
+msgstr "ଗୋଟିଏ ସାମାନ୍ୟ ଚିତ୍ର ସଂକେତ"
+
+#: workspace/plasma/generic/applets/lock_logout/plasma-applet-lockout.desktop:2
+msgctxt "Name"
+msgid "Lock/Logout"
+msgstr "ଅପରିବର୍ତ୍ତନୀୟ/ଲଗଆଉଟ କରନ୍ତୁ"
+
+#: workspace/plasma/generic/applets/lock_logout/plasma-applet-lockout.desktop:77
+msgctxt "Comment"
+msgid "Lock the screen or log out"
+msgstr "ପରଦାକୁ ଅପରିବର୍ତ୍ତନୀୟ କରନ୍ତୁ କିମ୍ବା ଲଗଆଉଟ କରନ୍ତୁ"
+
+#: workspace/plasma/generic/applets/panelspacer/plasma-applet-panelspacer-internal.desktop:2
+msgctxt "Name"
+msgid "Panel Spacer"
+msgstr ""
+
+#: workspace/plasma/generic/applets/panelspacer/plasma-applet-panelspacer-internal.desktop:36
+msgctxt "Comment"
+msgid "Reserve empty spaces within the panel."
+msgstr ""
+
+#: workspace/plasma/generic/applets/quicklaunch/plasma-applet-quicklaunch.desktop:2
+msgctxt "Name"
+msgid "Quicklaunch"
+msgstr "Quicklaunch"
+
+#: workspace/plasma/generic/applets/quicklaunch/plasma-applet-quicklaunch.desktop:53
+msgctxt "Comment"
+msgid "Launch your favourite Applications"
+msgstr "ଆପଣଙ୍କର ପ୍ରିୟ ପ୍ରୟୋଗଗୁଡ଼ିକୁ ଆରମ୍ଭ କରନ୍ତୁ"
+
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_cpu.desktop:3
+msgctxt "Name"
+msgid "System Monitor - CPU"
+msgstr "ତନ୍ତ୍ର ନିରିକ୍ଷକ - CPU"
+
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_cpu.desktop:69
+msgctxt "Comment"
+msgid "A CPU usage monitor"
+msgstr "ଗୋଟିଏ CPU ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
+
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_hdd.desktop:3
+msgctxt "Name"
+msgid "System Monitor - Hard Disk"
+msgstr "ତନ୍ତ୍ର ନିରିକ୍ଷକ - ହାର୍ଡ଼ଡ଼ିସ୍କ"
+
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_hdd.desktop:69
+msgctxt "Comment"
+msgid "A hard disk usage monitor"
+msgstr "ଗୋଟିଏ ହାର୍ଡ଼ଡ଼ିସ୍କ ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
+
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_hwinfo.desktop:3
+msgctxt "Name"
+msgid "System Monitor - Hardware Info"
+msgstr "ତନ୍ତ୍ର ନିରିକ୍ଷକ - ହାର୍ଡ଼ୱେର ସୂଚନା"
+
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_hwinfo.desktop:69
+msgctxt "Comment"
+msgid "Show hardware info"
+msgstr "ହାର୍ଡ଼ୱେର ସୂଚନା ଦର୍ଶାନ୍ତୁ"
+
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_net.desktop:3
+msgctxt "Name"
+msgid "System Monitor - Network"
+msgstr "ତନ୍ତ୍ର ନିରିକ୍ଷକ - ନେଟୱର୍କ"
+
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_net.desktop:69
+msgctxt "Comment"
+msgid "A network usage monitor"
+msgstr "ଗୋଟିଏ ନେଟୱର୍କ ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
+
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_ram.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "System Monitor - CPU"
+msgctxt "Name"
+msgid "System Monitor - RAM"
+msgstr "ତନ୍ତ୍ର ନିରିକ୍ଷକ - CPU"
+
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_ram.desktop:47
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "A CPU usage monitor"
+msgctxt "Comment"
+msgid "A RAM usage monitor"
+msgstr "ଗୋଟିଏ CPU ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
+
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_temperature.desktop:3
+msgctxt "Name"
+msgid "System Monitor - Temperature"
+msgstr "ତନ୍ତ୍ର ନିରିକ୍ଷକ - ଉତ୍ତାପ"
+
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_temperature.desktop:69
+msgctxt "Comment"
+msgid "A system temperature monitor"
+msgstr "ତନ୍ତ୍ର ଉତ୍ତାପ ନିରିକ୍ଷକ"
+
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-system-monitor.desktop:78
+msgctxt "Comment"
+msgid "System monitoring applet"
+msgstr "ତନ୍ତ୍ର ନିରିକ୍ଷଣ ଆପଲେଟ"
+
+#: workspace/plasma/generic/applets/systemtray/notificationitemwatcher/notificationitemwatcher.desktop:3
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "KDE Notification Daemon"
+msgctxt "Name"
+msgid "KDED Notification item watcher"
+msgstr "KDE ବିଜ୍ଞପ୍ତି ଡେମନ"
+
+#: workspace/plasma/generic/applets/systemtray/notificationitemwatcher/notificationitemwatcher.desktop:41
+msgctxt "Comment"
+msgid ""
+"Keep track of applications that want to use the D-Bus based notification "
+"item."
+msgstr ""
+
+#: workspace/plasma/generic/applets/systemtray/plasma-applet-systemtray.desktop:2
+msgctxt "Name"
+msgid "System Tray"
+msgstr "ତନ୍ତ୍ର ଧାରକ"
+
+#: workspace/plasma/generic/applets/systemtray/plasma-applet-systemtray.desktop:83
+msgctxt "Comment"
+msgid "Access hidden applications minimized in the system tray"
+msgstr "ତନ୍ତ୍ର ଟ୍ରେରେ ଆକାର ଛୋଟହୋଇ ଲୁକ୍କାୟିତ ପ୍ରୟୋଗଗୁଡ଼ିକୁ ବ୍ୟବହାର କରନ୍ତୁ"
+
+#: workspace/plasma/generic/applets/webbrowser/plasma-applet-webbrowser.desktop:3
+msgctxt "Name"
+msgid "Web Browser"
+msgstr "ୱେବ ବ୍ରାଉଜର"
+
+#: workspace/plasma/generic/applets/webbrowser/plasma-applet-webbrowser.desktop:87
+msgctxt "Comment"
+msgid "A simple web browser"
+msgstr "ଗୋଟିଏ ସରଳ ୱେବ ବ୍ରାଉଜର"
+
+#: workspace/plasma/generic/containmentactions/applauncher/plasma-containmentactions-applauncher.desktop:81
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Launch your favourite Applications"
+msgctxt "Comment"
+msgid "Run your favourite apps"
+msgstr "ଆପଣଙ୍କର ପ୍ରିୟ ପ୍ରୟୋଗଗୁଡ଼ିକୁ ଆରମ୍ଭ କରନ୍ତୁ"
+
+#: workspace/plasma/generic/containmentactions/contextmenu/plasma-containmentactions-contextmenu.desktop:2
+msgctxt "Name"
+msgid "Contextual Menu"
+msgstr ""
+
+#: workspace/plasma/generic/containmentactions/contextmenu/plasma-containmentactions-contextmenu.desktop:14
+msgctxt "Comment"
+msgid "The menu that normally shows on right-click"
+msgstr ""
+
+#: workspace/plasma/generic/containmentactions/paste/plasma-containmentactions-paste.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Pose"
+msgctxt "Name"
+msgid "Paste"
+msgstr "ପଜ"
+
+#: workspace/plasma/generic/containmentactions/paste/plasma-containmentactions-paste.desktop:17
+msgctxt "Comment"
+msgid "Creates a widget from the contents of the clipboard"
+msgstr ""
+
+#: workspace/plasma/generic/containmentactions/switchactivity/plasma-containmentactions-switchactivity.desktop:2
+msgctxt "Name"
+msgid "Switch Activity"
+msgstr ""
+
+#: workspace/plasma/generic/containmentactions/switchactivity/plasma-containmentactions-switchactivity.desktop:16
+msgctxt "Comment"
+msgid "Switch to another activity"
+msgstr ""
+
+#: workspace/plasma/generic/containmentactions/switchdesktop/plasma-containmentactions-switchdesktop.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop"
+msgctxt "Name"
+msgid "Switch Desktop"
+msgstr "ଡ଼େସ୍କଟପ"
+
+#: workspace/plasma/generic/containmentactions/switchdesktop/plasma-containmentactions-switchdesktop.desktop:17
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Switch between virtual desktops"
+msgctxt "Comment"
+msgid "Switch to another virtual desktop"
+msgstr "ଆଭାସୀ ଡ଼େସ୍କଟପଗୁଡ଼ିକ ମଧ୍ଯରେ ଅଦଳ ବଦଳ କରନ୍ତୁ"
+
+#: workspace/plasma/generic/containmentactions/switchwindow/plasma-containmentactions-switchwindow.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "MS Windows 9x"
+msgctxt "Name"
+msgid "Switch Window"
+msgstr "MS Windows 9x"
+
+#: workspace/plasma/generic/containmentactions/switchwindow/plasma-containmentactions-switchwindow.desktop:17
+msgctxt "Comment"
+msgid "Show a list of windows to switch to"
+msgstr ""
+
+#: workspace/plasma/generic/containmentactions/test/plasma-containmentactions-test.desktop:68
+msgctxt "Comment"
+msgid "A dummy plugin for testing"
+msgstr ""
+
+#: workspace/plasma/generic/containmentactions/zoom/plasma-containmentactions-zoom.desktop:71
+msgctxt "Comment"
+msgid "Zoom activities in and out"
+msgstr ""
+
+#: workspace/plasma/generic/dataengines/akonadi/plasma-engine-akonadi.desktop:2
 msgctxt "Name"
 msgid "Akonadi"
 msgstr ""
 
-#: workspace/plasma/dataengines/akonadi/plasma-engine-akonadi.desktop:5
+#: workspace/plasma/generic/dataengines/akonadi/plasma-engine-akonadi.desktop:5
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Python data engine"
@@ -10789,17 +10825,17 @@ msgctxt "Comment"
 msgid "Akonadi PIM data engine"
 msgstr "ପାଇଥନ ତଥ୍ୟ ମେସିନ"
 
-#: workspace/plasma/dataengines/applicationjobs/plasma-dataengine-applicationjobs.desktop:2
+#: workspace/plasma/generic/dataengines/applicationjobs/plasma-dataengine-applicationjobs.desktop:2
 msgctxt "Name"
 msgid "Application Job Information"
 msgstr "ପ୍ରୟୋଗ କାର୍ଯ୍ୟ ସୂଚନା"
 
-#: workspace/plasma/dataengines/applicationjobs/plasma-dataengine-applicationjobs.desktop:61
+#: workspace/plasma/generic/dataengines/applicationjobs/plasma-dataengine-applicationjobs.desktop:61
 msgctxt "Comment"
 msgid "Application job updates (via kuiserver)"
 msgstr ""
 
-#: workspace/plasma/dataengines/apps/plasma-dataengine-apps.desktop:2
+#: workspace/plasma/generic/dataengines/apps/plasma-dataengine-apps.desktop:2
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Application Job Information"
@@ -10807,12 +10843,12 @@ msgctxt "Name"
 msgid "Application Information"
 msgstr "ପ୍ରୟୋଗ କାର୍ଯ୍ୟ ସୂଚନା"
 
-#: workspace/plasma/dataengines/apps/plasma-dataengine-apps.desktop:15
+#: workspace/plasma/generic/dataengines/apps/plasma-dataengine-apps.desktop:15
 msgctxt "Comment"
 msgid "Information and launching of all applications in the app menu."
 msgstr ""
 
-#: workspace/plasma/dataengines/calendar/plasma-dataengine-calendar.desktop:67
+#: workspace/plasma/generic/dataengines/calendar/plasma-dataengine-calendar.desktop:67
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Calendar Manager"
@@ -10820,42 +10856,42 @@ msgctxt "Comment"
 msgid "Calendar data engine"
 msgstr "କ୍ୟାଲେଣ୍ଡର ପରିଚାଳକ"
 
-#: workspace/plasma/dataengines/dict/plasma-dataengine-dict.desktop:2
+#: workspace/plasma/generic/dataengines/dict/plasma-dataengine-dict.desktop:2
 msgctxt "Name"
 msgid "Dictionary"
 msgstr "ଅଭିଧାନ"
 
-#: workspace/plasma/dataengines/dict/plasma-dataengine-dict.desktop:69
+#: workspace/plasma/generic/dataengines/dict/plasma-dataengine-dict.desktop:69
 msgctxt "Comment"
 msgid "Look up word meanings"
 msgstr ""
 
-#: workspace/plasma/dataengines/executable/plasma-dataengine-executable.desktop:3
+#: workspace/plasma/generic/dataengines/executable/plasma-dataengine-executable.desktop:3
 msgctxt "Name"
 msgid "Run Commands"
 msgstr "ନିର୍ଦ୍ଦେଶଗୁଡ଼ିକୁ ଚଲାନ୍ତୁ"
 
-#: workspace/plasma/dataengines/executable/plasma-dataengine-executable.desktop:68
+#: workspace/plasma/generic/dataengines/executable/plasma-dataengine-executable.desktop:68
 msgctxt "Comment"
 msgid "Run Executable Data Engine"
 msgstr "ନିଷ୍ପାଦ୍ୟ ତଥ୍ୟ ଯନ୍ତ୍ର ଚଲାନ୍ତୁ"
 
-#: workspace/plasma/dataengines/favicons/plasma-dataengine-favicons.desktop:3
+#: workspace/plasma/generic/dataengines/favicons/plasma-dataengine-favicons.desktop:3
 msgctxt "Name"
 msgid "Favicons"
 msgstr "Favicons"
 
-#: workspace/plasma/dataengines/favicons/plasma-dataengine-favicons.desktop:59
+#: workspace/plasma/generic/dataengines/favicons/plasma-dataengine-favicons.desktop:59
 msgctxt "Comment"
 msgid "Data Engine for getting favicons of web sites"
 msgstr ""
 
-#: workspace/plasma/dataengines/filebrowser/plasma-dataengine-filebrowser.desktop:2
+#: workspace/plasma/generic/dataengines/filebrowser/plasma-dataengine-filebrowser.desktop:2
 msgctxt "Name"
 msgid "Files and Directories"
 msgstr "ଫାଇଲ ଏବଂ ଡ଼ିରେକ୍ଟୋରୀଗୁଡ଼ିକ"
 
-#: workspace/plasma/dataengines/filebrowser/plasma-dataengine-filebrowser.desktop:68
+#: workspace/plasma/generic/dataengines/filebrowser/plasma-dataengine-filebrowser.desktop:68
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Files and Directories"
@@ -10863,7 +10899,7 @@ msgctxt "Comment"
 msgid "Information about files and directories."
 msgstr "ଫାଇଲ ଏବଂ ଡ଼ିରେକ୍ଟୋରୀଗୁଡ଼ିକ"
 
-#: workspace/plasma/dataengines/geolocation/plasma-dataengine-geolocation.desktop:3
+#: workspace/plasma/generic/dataengines/geolocation/plasma-dataengine-geolocation.desktop:3
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Locations"
@@ -10871,7 +10907,7 @@ msgctxt "Name"
 msgid "Geolocation"
 msgstr "ସ୍ଥାନଗୁଡ଼ିକ"
 
-#: workspace/plasma/dataengines/geolocation/plasma-dataengine-geolocation.desktop:40
+#: workspace/plasma/generic/dataengines/geolocation/plasma-dataengine-geolocation.desktop:40
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Python data engine"
@@ -10879,17 +10915,17 @@ msgctxt "Comment"
 msgid "Geolocation Data Engine"
 msgstr "ପାଇଥନ ତଥ୍ୟ ମେସିନ"
 
-#: workspace/plasma/dataengines/geolocation/plasma-geolocation-gps.desktop:2
+#: workspace/plasma/generic/dataengines/geolocation/plasma-geolocation-gps.desktop:2
 msgctxt "Name"
 msgid "Geolocation GPS"
 msgstr ""
 
-#: workspace/plasma/dataengines/geolocation/plasma-geolocation-gps.desktop:36
+#: workspace/plasma/generic/dataengines/geolocation/plasma-geolocation-gps.desktop:36
 msgctxt "Comment"
 msgid "Geolocation from GPS address."
 msgstr ""
 
-#: workspace/plasma/dataengines/geolocation/plasma-geolocation-ip.desktop:2
+#: workspace/plasma/generic/dataengines/geolocation/plasma-geolocation-ip.desktop:2
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Locations"
@@ -10897,12 +10933,12 @@ msgctxt "Name"
 msgid "Geolocation IP"
 msgstr "ସ୍ଥାନଗୁଡ଼ିକ"
 
-#: workspace/plasma/dataengines/geolocation/plasma-geolocation-ip.desktop:36
+#: workspace/plasma/generic/dataengines/geolocation/plasma-geolocation-ip.desktop:36
 msgctxt "Comment"
 msgid "Geolocation from IP address."
 msgstr ""
 
-#: workspace/plasma/dataengines/geolocation/plasma-geolocationprovider.desktop:4
+#: workspace/plasma/generic/dataengines/geolocation/plasma-geolocationprovider.desktop:4
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Locations"
@@ -10910,17 +10946,17 @@ msgctxt "Comment"
 msgid "Plasma Geolocation Provider"
 msgstr "ସ୍ଥାନଗୁଡ଼ିକ"
 
-#: workspace/plasma/dataengines/hotplug/plasma-dataengine-hotplug.desktop:2
+#: workspace/plasma/generic/dataengines/hotplug/plasma-dataengine-hotplug.desktop:2
 msgctxt "Name"
 msgid "Hotplug Events"
 msgstr ""
 
-#: workspace/plasma/dataengines/hotplug/plasma-dataengine-hotplug.desktop:60
+#: workspace/plasma/generic/dataengines/hotplug/plasma-dataengine-hotplug.desktop:60
 msgctxt "Comment"
 msgid "Tracks hot-pluggable devices as they appear and disappear."
 msgstr ""
 
-#: workspace/plasma/dataengines/keystate/plasma-dataengine-keystate.desktop:2
+#: workspace/plasma/generic/dataengines/keystate/plasma-dataengine-keystate.desktop:2
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Keyboard & Mouse"
@@ -10928,63 +10964,63 @@ msgctxt "Name"
 msgid "Keyboard and Mouse State"
 msgstr "କିବୋର୍ଡ ଏବଂ ମାଉସ"
 
-#: workspace/plasma/dataengines/keystate/plasma-dataengine-keystate.desktop:41
+#: workspace/plasma/generic/dataengines/keystate/plasma-dataengine-keystate.desktop:41
 msgctxt "Comment"
 msgid "Keyboard modifier and mouse buttons states"
 msgstr ""
 
-#: workspace/plasma/dataengines/metadata/plasma-engine-metadata.desktop:2
+#: workspace/plasma/generic/dataengines/metadata/plasma-engine-metadata.desktop:2
 msgctxt "Name"
 msgid "Meta Data"
 msgstr ""
 
-#: workspace/plasma/dataengines/mouse/plasma-dataengine-mouse.desktop:2
+#: workspace/plasma/generic/dataengines/mouse/plasma-dataengine-mouse.desktop:2
 msgctxt "Name"
 msgid "Pointer Position"
 msgstr "ସୂଚକ ସ୍ଥାନ"
 
-#: workspace/plasma/dataengines/mouse/plasma-dataengine-mouse.desktop:63
+#: workspace/plasma/generic/dataengines/mouse/plasma-dataengine-mouse.desktop:63
 msgctxt "Comment"
 msgid "Mouse position and cursor"
 msgstr ""
 
-#: workspace/plasma/dataengines/network/plasma-dataengine-network.desktop:3
+#: workspace/plasma/generic/dataengines/network/plasma-dataengine-network.desktop:3
 msgctxt "Name"
 msgid "Networking"
 msgstr "ନେଟୱର୍କିଙ୍ଗ"
 
-#: workspace/plasma/dataengines/notifications/plasma-dataengine-notifications.desktop:2
+#: workspace/plasma/generic/dataengines/notifications/plasma-dataengine-notifications.desktop:2
 msgctxt "Name"
 msgid "Application Notifications"
 msgstr "ପ୍ରୟୋଗ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ"
 
-#: workspace/plasma/dataengines/notifications/plasma-dataengine-notifications.desktop:67
+#: workspace/plasma/generic/dataengines/notifications/plasma-dataengine-notifications.desktop:67
 msgctxt "Comment"
 msgid "Passive visual notifications for the user."
 msgstr ""
 
-#: workspace/plasma/dataengines/nowplaying/plasma-dataengine-nowplaying.desktop:2
+#: workspace/plasma/generic/dataengines/nowplaying/plasma-dataengine-nowplaying.desktop:2
 msgctxt "Name"
 msgid "Now Playing"
 msgstr "ବର୍ତ୍ତମାନ ଚାଲୁଅଛି"
 
-#: workspace/plasma/dataengines/nowplaying/plasma-dataengine-nowplaying.desktop:69
+#: workspace/plasma/generic/dataengines/nowplaying/plasma-dataengine-nowplaying.desktop:69
 msgctxt "Comment"
 msgid "Lists currently playing music"
 msgstr ""
 
-#: workspace/plasma/dataengines/places/plasma-dataengine-places.desktop:2
-#: workspace/plasma/runners/places/plasma-runner-places.desktop:2
+#: workspace/plasma/generic/dataengines/places/plasma-dataengine-places.desktop:2
+#: workspace/plasma/generic/runners/places/plasma-runner-places.desktop:2
 msgctxt "Name"
 msgid "Places"
 msgstr "ସ୍ଥାନଗୁଡ଼ିକ"
 
-#: workspace/plasma/dataengines/places/plasma-dataengine-places.desktop:67
+#: workspace/plasma/generic/dataengines/places/plasma-dataengine-places.desktop:67
 msgctxt "Comment"
 msgid "Places, as seen in the file manager and in file dialogs."
 msgstr ""
 
-#: workspace/plasma/dataengines/powermanagement/plasma-dataengine-powermanagement.desktop:3
+#: workspace/plasma/generic/dataengines/powermanagement/plasma-dataengine-powermanagement.desktop:3
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Power Management"
@@ -10992,27 +11028,27 @@ msgctxt "Name|plasma data engine"
 msgid "Power Management"
 msgstr "ଶକ୍ତି ପରିଚାଳନା"
 
-#: workspace/plasma/dataengines/powermanagement/plasma-dataengine-powermanagement.desktop:42
+#: workspace/plasma/generic/dataengines/powermanagement/plasma-dataengine-powermanagement.desktop:42
 msgctxt "Comment"
 msgid "Battery, AC, sleep and PowerDevil information."
 msgstr ""
 
-#: workspace/plasma/dataengines/rss/plasma-dataengine-rss.desktop:3
+#: workspace/plasma/generic/dataengines/rss/plasma-dataengine-rss.desktop:3
 msgctxt "Name"
 msgid "RSS"
 msgstr "RSS"
 
-#: workspace/plasma/dataengines/rss/plasma-dataengine-rss.desktop:13
+#: workspace/plasma/generic/dataengines/rss/plasma-dataengine-rss.desktop:13
 msgctxt "Comment"
 msgid "RSS News Data Engine"
 msgstr "RSS ଖବର ତଥ୍ୟ ଯନ୍ତ୍ର"
 
-#: workspace/plasma/dataengines/soliddevice/plasma-dataengine-soliddevice.desktop:2
+#: workspace/plasma/generic/dataengines/soliddevice/plasma-dataengine-soliddevice.desktop:2
 msgctxt "Name"
 msgid "Device Information"
 msgstr "ଯନ୍ତ୍ର ସୂଚନା"
 
-#: workspace/plasma/dataengines/soliddevice/plasma-dataengine-soliddevice.desktop:68
+#: workspace/plasma/generic/dataengines/soliddevice/plasma-dataengine-soliddevice.desktop:68
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "SolidDevice data for Plasmoids"
@@ -11020,7 +11056,7 @@ msgctxt "Comment"
 msgid "Device data via Solid"
 msgstr "Plasmoids ପାଇଁ SolidDevice ତଥ୍ୟ"
 
-#: workspace/plasma/dataengines/systemmonitor/plasma-dataengine-systemmonitor.desktop:79
+#: workspace/plasma/generic/dataengines/systemmonitor/plasma-dataengine-systemmonitor.desktop:79
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "System Process Information"
@@ -11028,23 +11064,23 @@ msgctxt "Comment"
 msgid "System status information"
 msgstr "ତନ୍ତ୍ର ପ୍ରଣାଳୀ ସୂଚନା"
 
-#: workspace/plasma/dataengines/tasks/plasma-dataengine-tasks.desktop:2
+#: workspace/plasma/generic/dataengines/tasks/plasma-dataengine-tasks.desktop:2
 msgctxt "Name"
 msgid "Window Information"
 msgstr "ୱିଣ୍ଡୋ ସୂଚନା"
 
-#: workspace/plasma/dataengines/tasks/plasma-dataengine-tasks.desktop:67
+#: workspace/plasma/generic/dataengines/tasks/plasma-dataengine-tasks.desktop:67
 msgctxt "Comment"
 msgid "Information and management services for all available windows."
 msgstr ""
 
-#: workspace/plasma/dataengines/time/plasma-dataengine-time.desktop:2
-#: workspace/plasma/scriptengines/ruby/examples/dataengines/time/metadata.desktop:2
+#: workspace/plasma/generic/dataengines/time/plasma-dataengine-time.desktop:2
+#: workspace/plasma/generic/scriptengines/ruby/examples/dataengines/time/metadata.desktop:2
 msgctxt "Name"
 msgid "Date and Time"
 msgstr "ତାରିଖ ଏବଂ ସମୟ"
 
-#: workspace/plasma/dataengines/time/plasma-dataengine-time.desktop:69
+#: workspace/plasma/generic/dataengines/time/plasma-dataengine-time.desktop:69
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Date and time settings"
@@ -11052,45 +11088,361 @@ msgctxt "Comment"
 msgid "Date and time by timezone"
 msgstr "ତାରିଖ ଏବଂ ସମୟ ସଂରଚନା"
 
-#: workspace/plasma/dataengines/weather/ions/ion-bbcukmet.desktop:2
+#: workspace/plasma/generic/dataengines/weather/ions/ion-bbcukmet.desktop:2
 msgctxt "Name"
 msgid "BBC Weather from UK MET Office"
 msgstr "UK MET କାର୍ଯ୍ୟାଳୟରୁ BBC ପାଣିପାଗ"
 
-#: workspace/plasma/dataengines/weather/ions/ion-bbcukmet.desktop:67
+#: workspace/plasma/generic/dataengines/weather/ions/ion-bbcukmet.desktop:67
 msgctxt "Comment"
 msgid "XML Data from the UK MET Office"
 msgstr "UK MET କାର୍ଯ୍ୟାଳୟରୁ XML ତଥ୍ୟ"
 
-#: workspace/plasma/dataengines/weather/ions/ion-envcan.desktop:2
+#: workspace/plasma/generic/dataengines/weather/ions/ion-envcan.desktop:2
 msgctxt "Name"
 msgid "Environment Canada"
 msgstr ""
 
-#: workspace/plasma/dataengines/weather/ions/ion-envcan.desktop:34
+#: workspace/plasma/generic/dataengines/weather/ions/ion-envcan.desktop:34
 msgctxt "Comment"
 msgid "XML Data from Environment Canada"
 msgstr ""
 
-#: workspace/plasma/dataengines/weather/ions/ion-noaa.desktop:2
+#: workspace/plasma/generic/dataengines/weather/ions/ion-noaa.desktop:2
 msgctxt "Name"
 msgid "NOAA's National Weather Service"
 msgstr ""
 
-#: workspace/plasma/dataengines/weather/ions/ion-noaa.desktop:58
+#: workspace/plasma/generic/dataengines/weather/ions/ion-noaa.desktop:58
 msgctxt "Comment"
 msgid "XML Data from NOAA's National Weather Service"
 msgstr ""
 
-#: workspace/plasma/dataengines/weather/plasma-dataengine-weather.desktop:2
+#: workspace/plasma/generic/dataengines/weather/plasma-dataengine-weather.desktop:2
 msgctxt "Name"
 msgid "Weather"
 msgstr "ପାଣିପାଗ"
 
-#: workspace/plasma/dataengines/weather/plasma-dataengine-weather.desktop:68
+#: workspace/plasma/generic/dataengines/weather/plasma-dataengine-weather.desktop:68
 msgctxt "Comment"
 msgid "Weather data from multiple online sources"
 msgstr ""
+
+#: workspace/plasma/generic/runners/bookmarks/plasma-runner-bookmarks.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Bookmarks"
+msgctxt "Name|plasma runner"
+msgid "Bookmarks"
+msgstr "ଚିହ୍ନିତ ସ୍ଥାନ"
+
+#: workspace/plasma/generic/runners/bookmarks/plasma-runner-bookmarks.desktop:43
+msgctxt "Comment"
+msgid "Find and open bookmarks"
+msgstr "ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକୁ ଖୋଜନ୍ତୁ ଏବଂ ଖୋଲନ୍ତୁ"
+
+#: workspace/plasma/generic/runners/calculator/plasma-runner-calculator.desktop:2
+msgctxt "Name"
+msgid "Calculator"
+msgstr "କାଲକୁଲେଟର"
+
+#: workspace/plasma/generic/runners/calculator/plasma-runner-calculator.desktop:72
+msgctxt "Comment"
+msgid "Calculate expressions"
+msgstr "ଅଭିବ୍ୟକ୍ତିଗୁଡ଼ିକୁ ଗଣନା କରନ୍ତୁ"
+
+#: workspace/plasma/generic/runners/locations/plasma-runner-locations.desktop:2
+msgctxt "Name"
+msgid "Locations"
+msgstr "ସ୍ଥାନଗୁଡ଼ିକ"
+
+#: workspace/plasma/generic/runners/locations/plasma-runner-locations.desktop:69
+msgctxt "Comment"
+msgid "File and URL opener"
+msgstr "ଫାଇଲ ଏବଂ URL ଖୋଲା"
+
+#: workspace/plasma/generic/runners/nepomuksearch/plasma-runner-nepomuksearch.desktop:2
+msgctxt "Name"
+msgid "Nepomuk Desktop Search Runner"
+msgstr "Nepomuk ଡ଼େସ୍କଟପ ସନ୍ଧାନ ଚାଳକ"
+
+#: workspace/plasma/generic/runners/nepomuksearch/plasma-runner-nepomuksearch.desktop:62
+msgctxt "Comment"
+msgid "KRunner which performs desktop searches via Nepomuk"
+msgstr ""
+
+#: workspace/plasma/generic/runners/places/plasma-runner-places.desktop:70
+msgctxt "Comment"
+msgid "Open Devices and Folder Bookmarks"
+msgstr "ଉପକରଣଗୁଡ଼ିକୁ ଏବଂ ଫୋଲଡ଼ର ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକୁ ଖୋଲନ୍ତୁ"
+
+#: workspace/plasma/generic/runners/plasma-desktop/plasma-runner-plasma-desktop.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Plasma Desktop Workspace"
+msgctxt "Name"
+msgid "Plasma Desktop Shell"
+msgstr "ପ୍ଲାଜମା ଡ଼େସ୍କଟପ କାର୍ଯ୍ୟସ୍ଥଳ"
+
+#: workspace/plasma/generic/runners/plasma-desktop/plasma-runner-plasma-desktop.desktop:15
+msgctxt "Comment"
+msgid "Interact with the Plasma desktop shell"
+msgstr ""
+
+#: workspace/plasma/generic/runners/powerdevil/plasma-runner-powerdevil.desktop:2
+msgctxt "Comment"
+msgid "Basic Power Management Operations"
+msgstr "ମୌଳିକ ଶକ୍ତି ପରିଚାଳନା ପ୍ରୟୋଗଗୁଡ଼ିକ"
+
+#: workspace/plasma/generic/runners/powerdevil/plasma-runner-powerdevil.desktop:65
+#: workspace/powerdevil/daemon/powerdevil.desktop:11
+msgctxt "Name"
+msgid "PowerDevil"
+msgstr "PowerDevil"
+
+#: workspace/plasma/generic/runners/recentdocuments/recentdocuments.desktop:2
+msgctxt "Name"
+msgid "Recent Documents"
+msgstr "ପ୍ରଚଳିତ ଦଲିଲଗୁଡ଼ିକ"
+
+#: workspace/plasma/generic/runners/services/plasma-runner-services.desktop:86
+msgctxt "Comment"
+msgid "Find applications, control panels and services"
+msgstr "ପ୍ରୟୋଗ, ନିୟନ୍ତ୍ରଣ ପଟି ଏବଂ ସର୍ଭିସଗୁଡ଼ିକୁ ଖୋଜନ୍ତୁ"
+
+#: workspace/plasma/generic/runners/sessions/plasma-runner-sessions.desktop:2
+msgctxt "Name"
+msgid "Desktop Sessions"
+msgstr "ଡ଼େସ୍କଟପ ଅଧିବେଶନଗୁଡ଼ିକ"
+
+#: workspace/plasma/generic/runners/sessions/plasma-runner-sessions.desktop:68
+msgctxt "Comment"
+msgid "Fast user switching"
+msgstr "ପ୍ରଥମ ଚାଳକ ପରିବର୍ତ୍ତନ ହେଉଅଛି"
+
+#: workspace/plasma/generic/runners/shell/plasma-runner-shell.desktop:2
+msgctxt "Name"
+msgid "Command Line"
+msgstr "ନିର୍ଦ୍ଦେଶନାମା"
+
+#: workspace/plasma/generic/runners/shell/plasma-runner-shell.desktop:71
+msgctxt "Comment"
+msgid "Executes shell commands"
+msgstr "ସେଲ ନିର୍ଦ୍ଦେଶଗୁଡ଼ିକୁ ନିଷ୍ପାଦନ କରନ୍ତୁ"
+
+#: workspace/plasma/generic/runners/webshortcuts/plasma-runner-webshortcuts.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Web Shortcuts"
+msgctxt "Name|plasma runner"
+msgid "Web Shortcuts"
+msgstr "ୱେବ ସଂକ୍ଷିପ୍ତ ପଥଗୁଡ଼ିକ"
+
+#: workspace/plasma/generic/runners/webshortcuts/plasma-runner-webshortcuts.desktop:43
+msgctxt "Comment"
+msgid "Allows user to use Konqueror's Web shortcuts"
+msgstr "ଚାଳକମାନଙ୍କୁ Konquerorର ୱେବ ସଂକ୍ଷିପ୍ତ ପଥଗୁଡ଼ିକୁ ବ୍ୟବହାର କରିବାକୁ ଅନୁମତି ଦିଅନ୍ତୁ"
+
+#: workspace/plasma/generic/runners/windows/plasma-runner-windows.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "MS Windows 9x"
+msgctxt "Name|plasma runner"
+msgid "Windows"
+msgstr "MS Windows 9x"
+
+#: workspace/plasma/generic/runners/windows/plasma-runner-windows.desktop:17
+msgctxt "Comment"
+msgid "List windows and desktops and switch them"
+msgstr ""
+
+#: workspace/plasma/generic/scriptengines/google_gadgets/plasma-packagestructure-googlegadgets.desktop:2
+msgctxt "Name"
+msgid "Google Gadgets"
+msgstr "Google ମେସିନ"
+
+#: workspace/plasma/generic/scriptengines/google_gadgets/plasma-packagestructure-googlegadgets.desktop:49
+msgctxt "Comment"
+msgid "Google Desktop Gadget"
+msgstr "Google ଡ଼େସ୍କଟପ ମେସିନ"
+
+#: workspace/plasma/generic/scriptengines/google_gadgets/plasma-scriptengine-googlegadgets.desktop:2
+msgctxt "Name"
+msgid "GoogleGadgets"
+msgstr "GoogleGadgets"
+
+#: workspace/plasma/generic/scriptengines/google_gadgets/plasma-scriptengine-googlegadgets.desktop:35
+msgctxt "Comment"
+msgid "Google Desktop Gadgets"
+msgstr "Google ଡ଼େସ୍କଟପ ମେସିନଗୁଡ଼ିକ"
+
+#: workspace/plasma/generic/scriptengines/python/examples/applets/pyclock/metadata.desktop:3
+msgctxt "Name"
+msgid "Python Clock"
+msgstr "ପାଇଥନ ଘଣ୍ଟା"
+
+#: workspace/plasma/generic/scriptengines/python/examples/dataengines/pytime/metadata.desktop:2
+msgctxt "Name"
+msgid "Python Date and Time"
+msgstr "ପାଇଥନ ତାରିଖ ଏବଂ ସମୟ"
+
+#: workspace/plasma/generic/scriptengines/python/examples/dataengines/pytime/metadata.desktop:65
+msgctxt "Comment"
+msgid "Python Time data for Plasmoids"
+msgstr "ପ୍ଲାଜମଏଡ଼ ପାଇଁ ପାଇଥନ ସମୟ ତଥ୍ୟ"
+
+#: workspace/plasma/generic/scriptengines/python/plasma-scriptengine-applet-python.desktop:2
+msgctxt "Name"
+msgid "Python Widget"
+msgstr "ପାଇଥନ ୱିଜେଟ"
+
+#: workspace/plasma/generic/scriptengines/python/plasma-scriptengine-applet-python.desktop:61
+msgctxt "Comment"
+msgid "Plasma widget support written in Python"
+msgstr "ପାଇଥନରେ ଲିଖିତ ପ୍ଲାଜମା ୱିଜେଟ ସମର୍ଥନ"
+
+#: workspace/plasma/generic/scriptengines/python/plasma-scriptengine-dataengine-python.desktop:2
+msgctxt "Name"
+msgid "Python data engine"
+msgstr "ପାଇଥନ ତଥ୍ୟ ମେସିନ"
+
+#: workspace/plasma/generic/scriptengines/python/plasma-scriptengine-dataengine-python.desktop:61
+msgctxt "Comment"
+msgid "Plasma data engine support for Python"
+msgstr "ପାଇଥନ ପାଇଁ ପ୍ଲାଜମା ତଥ୍ୟ ମେସିନ ସମର୍ଥନ"
+
+#: workspace/plasma/generic/scriptengines/qedjescript/plasma-appletscript-qedje.desktop:2
+msgctxt "Name"
+msgid "QEdje"
+msgstr "QEdje"
+
+#: workspace/plasma/generic/scriptengines/qedjescript/plasma-appletscript-qedje.desktop:8
+msgctxt "Comment"
+msgid "QEdje Gadgets"
+msgstr "QEdje ମେସିନଗୁଡ଼ିକ"
+
+#: workspace/plasma/generic/scriptengines/qedjescript/plasma-packagestructure-qedje.desktop:2
+msgctxt "Name"
+msgid "QEdje Gadgets"
+msgstr "QEdje ମେସିନ"
+
+#: workspace/plasma/generic/scriptengines/qedjescript/plasma-packagestructure-qedje.desktop:51
+msgctxt "Comment"
+msgid "QEdje Gadget"
+msgstr "QEdje ମେସିନ"
+
+#: workspace/plasma/generic/scriptengines/ruby/examples/applets/clock/metadata.desktop:2
+msgctxt "Name"
+msgid "Ruby Analog Clock"
+msgstr "ରୁବି ଅନୁରୂପ ଘଣ୍ଟା"
+
+#: workspace/plasma/generic/scriptengines/ruby/examples/applets/clock/metadata.desktop:63
+msgctxt "Comment"
+msgid "An SVG themable clock"
+msgstr ""
+
+#: workspace/plasma/generic/scriptengines/ruby/examples/applets/extendertutorial/metadata.desktop:2
+msgctxt "Name"
+msgid "Ruby Extender Tutorial"
+msgstr ""
+
+#: workspace/plasma/generic/scriptengines/ruby/examples/applets/extendertutorial/metadata.desktop:22
+msgctxt "Comment"
+msgid "An example of a popup applet with extender"
+msgstr ""
+
+#: workspace/plasma/generic/scriptengines/ruby/examples/applets/tiger/metadata.desktop:45
+msgctxt "Comment"
+msgid "An example of displaying an SVG"
+msgstr "SVG ଦର୍ଶାଇବା ପାଇଁ ଗୋଟିଏ ଉଦାହରଣ"
+
+#: workspace/plasma/generic/scriptengines/ruby/examples/applets/webapplet/metadata.desktop:2
+msgctxt "Name"
+msgid "Ruby Web Browser"
+msgstr "ରୁବି ୱେବ ବ୍ରାଉଜର"
+
+#: workspace/plasma/generic/scriptengines/ruby/examples/dataengines/dbpedia_albums/metadata.desktop:2
+msgctxt "Name"
+msgid "DBpedia queries"
+msgstr "DBpedia ପ୍ରଶ୍ନଗୁଡ଼ିକ"
+
+#: workspace/plasma/generic/scriptengines/ruby/examples/dataengines/dbpedia_albums/metadata.desktop:59
+msgctxt "Comment"
+msgid "DBpedia data for Plasmoids"
+msgstr "Plasmoids ପାଇଁ DBpedia ତଥ୍ୟ"
+
+#: workspace/plasma/generic/scriptengines/ruby/examples/dataengines/time/metadata.desktop:69
+msgctxt "Comment"
+msgid "Time data for Plasmoids"
+msgstr "Plasmoids ପାଇଁ ସମୟ ତଥ୍ୟ"
+
+#: workspace/plasma/generic/scriptengines/ruby/plasma-scriptengine-ruby-applet.desktop:2
+#: workspace/plasma/generic/scriptengines/ruby/plasma-scriptengine-ruby-dataengine.desktop:2
+msgctxt "Name"
+msgid "Ruby Widget"
+msgstr "ରୁବି ୱିଜେଟ"
+
+#: workspace/plasma/generic/scriptengines/ruby/plasma-scriptengine-ruby-applet.desktop:64
+#: workspace/plasma/generic/scriptengines/ruby/plasma-scriptengine-ruby-dataengine.desktop:64
+msgctxt "Comment"
+msgid "Native Plasma widget written in Ruby"
+msgstr "Ruby ରେ ଲେଖା ହୋଇଥିବା ସ୍ଥାନୀୟ ପ୍ଲାଜମା ୱିଜେଟ"
+
+#: workspace/plasma/generic/scriptengines/webkit/plasma-packagestructure-dashboard.desktop:2
+msgctxt "Name"
+msgid "MacOS Dashboard Widgets"
+msgstr "MacOS ଡ୍ୟାସବୋର୍ଡ ୱିଜେଟଗୁଡ଼ିକ"
+
+#: workspace/plasma/generic/scriptengines/webkit/plasma-packagestructure-dashboard.desktop:58
+msgctxt "Comment"
+msgid "MacOS dashboard widget"
+msgstr "MacOS ଡ୍ୟାସବୋର୍ଡ ୱିଜେଟ"
+
+#: workspace/plasma/generic/scriptengines/webkit/plasma-packagestructure-web.desktop:2
+msgctxt "Name"
+msgid "Web Widgets"
+msgstr "ୱେବ ୱିଜେଟଗୁଡ଼ିକ"
+
+#: workspace/plasma/generic/scriptengines/webkit/plasma-packagestructure-web.desktop:63
+msgctxt "Comment"
+msgid "HTML widget"
+msgstr "HTML ୱିଜେଟ"
+
+#: workspace/plasma/generic/scriptengines/webkit/plasma-scriptengine-applet-dashboard.desktop:2
+msgctxt "Name"
+msgid "Dashboard"
+msgstr "ଡ୍ୟାସବୋର୍ଡ"
+
+#: workspace/plasma/generic/scriptengines/webkit/plasma-scriptengine-applet-dashboard.desktop:46
+msgctxt "Comment"
+msgid "MacOS X dashboard widget"
+msgstr "MacOS X ଡ୍ୟାସବୋର୍ଡ ୱିଜେଟ"
+
+#: workspace/plasma/generic/scriptengines/webkit/plasma-scriptengine-applet-web.desktop:2
+msgctxt "Name"
+msgid "Web Widget"
+msgstr "ୱେବ ୱିଜେଟ"
+
+#: workspace/plasma/generic/scriptengines/webkit/plasma-scriptengine-applet-web.desktop:66
+msgctxt "Comment"
+msgid "Webpage widget using HTML and JavaScript"
+msgstr "HTML ଏବଂ JavaScript ବ୍ୟବହାର କରି ୱେବ ପୃଷ୍ଠା ୱିଜେଟ"
+
+#: workspace/plasma/generic/wallpapers/color/plasma-wallpaper-color.desktop:2
+msgctxt "Name"
+msgid "Color"
+msgstr "ରଙ୍ଗ"
+
+#: workspace/plasma/generic/wallpapers/image/plasma-wallpaper-image.desktop:3
+#: workspace/plasma/generic/wallpapers/image/plasma-wallpaper-image.desktop:85
+msgctxt "Name"
+msgid "Image"
+msgstr "ପ୍ରତିଛବି"
+
+#: workspace/plasma/generic/wallpapers/image/plasma-wallpaper-image.desktop:155
+msgctxt "Name"
+msgid "Slideshow"
+msgstr "ସ୍ଲାଇଡ଼ ଦୃଶ୍ୟ"
 
 #: workspace/plasma/netbook/applets/currentappcontrol/plasma-applet-currentappcontrol.desktop:2
 #, fuzzy
@@ -11185,336 +11537,10 @@ msgctxt "Comment"
 msgid "Workspace shell for netbook devices."
 msgstr ""
 
-#: workspace/plasma/runners/bookmarks/plasma-runner-bookmarks.desktop:3
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Bookmarks"
-msgctxt "Name|plasma runner"
-msgid "Bookmarks"
-msgstr "ଚିହ୍ନିତ ସ୍ଥାନ"
-
-#: workspace/plasma/runners/bookmarks/plasma-runner-bookmarks.desktop:43
-msgctxt "Comment"
-msgid "Find and open bookmarks"
-msgstr "ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକୁ ଖୋଜନ୍ତୁ ଏବଂ ଖୋଲନ୍ତୁ"
-
-#: workspace/plasma/runners/calculator/plasma-runner-calculator.desktop:2
+#: workspace/plasma/screensaver/containments/screensaver/plasma-containment-saverdesktop.desktop:2
 msgctxt "Name"
-msgid "Calculator"
-msgstr "କାଲକୁଲେଟର"
-
-#: workspace/plasma/runners/calculator/plasma-runner-calculator.desktop:72
-msgctxt "Comment"
-msgid "Calculate expressions"
-msgstr "ଅଭିବ୍ୟକ୍ତିଗୁଡ଼ିକୁ ଗଣନା କରନ୍ତୁ"
-
-#: workspace/plasma/runners/locations/plasma-runner-locations.desktop:2
-msgctxt "Name"
-msgid "Locations"
-msgstr "ସ୍ଥାନଗୁଡ଼ିକ"
-
-#: workspace/plasma/runners/locations/plasma-runner-locations.desktop:69
-msgctxt "Comment"
-msgid "File and URL opener"
-msgstr "ଫାଇଲ ଏବଂ URL ଖୋଲା"
-
-#: workspace/plasma/runners/nepomuksearch/plasma-runner-nepomuksearch.desktop:2
-msgctxt "Name"
-msgid "Nepomuk Desktop Search Runner"
-msgstr "Nepomuk ଡ଼େସ୍କଟପ ସନ୍ଧାନ ଚାଳକ"
-
-#: workspace/plasma/runners/nepomuksearch/plasma-runner-nepomuksearch.desktop:62
-msgctxt "Comment"
-msgid "KRunner which performs desktop searches via Nepomuk"
-msgstr ""
-
-#: workspace/plasma/runners/places/plasma-runner-places.desktop:70
-msgctxt "Comment"
-msgid "Open Devices and Folder Bookmarks"
-msgstr "ଉପକରଣଗୁଡ଼ିକୁ ଏବଂ ଫୋଲଡ଼ର ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକୁ ଖୋଲନ୍ତୁ"
-
-#: workspace/plasma/runners/plasma-desktop/plasma-runner-plasma-desktop.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Plasma Desktop Workspace"
-msgctxt "Name"
-msgid "Plasma Desktop Shell"
-msgstr "ପ୍ଲାଜମା ଡ଼େସ୍କଟପ କାର୍ଯ୍ୟସ୍ଥଳ"
-
-#: workspace/plasma/runners/plasma-desktop/plasma-runner-plasma-desktop.desktop:15
-msgctxt "Comment"
-msgid "Interact with the Plasma desktop shell"
-msgstr ""
-
-#: workspace/plasma/runners/powerdevil/plasma-runner-powerdevil.desktop:2
-msgctxt "Comment"
-msgid "Basic Power Management Operations"
-msgstr "ମୌଳିକ ଶକ୍ତି ପରିଚାଳନା ପ୍ରୟୋଗଗୁଡ଼ିକ"
-
-#: workspace/plasma/runners/powerdevil/plasma-runner-powerdevil.desktop:65
-#: workspace/powerdevil/daemon/powerdevil.desktop:11
-msgctxt "Name"
-msgid "PowerDevil"
-msgstr "PowerDevil"
-
-#: workspace/plasma/runners/recentdocuments/recentdocuments.desktop:2
-msgctxt "Name"
-msgid "Recent Documents"
-msgstr "ପ୍ରଚଳିତ ଦଲିଲଗୁଡ଼ିକ"
-
-#: workspace/plasma/runners/services/plasma-runner-services.desktop:86
-msgctxt "Comment"
-msgid "Find applications, control panels and services"
-msgstr "ପ୍ରୟୋଗ, ନିୟନ୍ତ୍ରଣ ପଟି ଏବଂ ସର୍ଭିସଗୁଡ଼ିକୁ ଖୋଜନ୍ତୁ"
-
-#: workspace/plasma/runners/sessions/plasma-runner-sessions.desktop:2
-msgctxt "Name"
-msgid "Desktop Sessions"
-msgstr "ଡ଼େସ୍କଟପ ଅଧିବେଶନଗୁଡ଼ିକ"
-
-#: workspace/plasma/runners/sessions/plasma-runner-sessions.desktop:68
-msgctxt "Comment"
-msgid "Fast user switching"
-msgstr "ପ୍ରଥମ ଚାଳକ ପରିବର୍ତ୍ତନ ହେଉଅଛି"
-
-#: workspace/plasma/runners/shell/plasma-runner-shell.desktop:2
-msgctxt "Name"
-msgid "Command Line"
-msgstr "ନିର୍ଦ୍ଦେଶନାମା"
-
-#: workspace/plasma/runners/shell/plasma-runner-shell.desktop:71
-msgctxt "Comment"
-msgid "Executes shell commands"
-msgstr "ସେଲ ନିର୍ଦ୍ଦେଶଗୁଡ଼ିକୁ ନିଷ୍ପାଦନ କରନ୍ତୁ"
-
-#: workspace/plasma/runners/webshortcuts/plasma-runner-webshortcuts.desktop:3
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Web Shortcuts"
-msgctxt "Name|plasma runner"
-msgid "Web Shortcuts"
-msgstr "ୱେବ ସଂକ୍ଷିପ୍ତ ପଥଗୁଡ଼ିକ"
-
-#: workspace/plasma/runners/webshortcuts/plasma-runner-webshortcuts.desktop:43
-msgctxt "Comment"
-msgid "Allows user to use Konqueror's Web shortcuts"
-msgstr "ଚାଳକମାନଙ୍କୁ Konquerorର ୱେବ ସଂକ୍ଷିପ୍ତ ପଥଗୁଡ଼ିକୁ ବ୍ୟବହାର କରିବାକୁ ଅନୁମତି ଦିଅନ୍ତୁ"
-
-#: workspace/plasma/runners/windows/plasma-runner-windows.desktop:3
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "MS Windows 9x"
-msgctxt "Name|plasma runner"
-msgid "Windows"
-msgstr "MS Windows 9x"
-
-#: workspace/plasma/runners/windows/plasma-runner-windows.desktop:17
-msgctxt "Comment"
-msgid "List windows and desktops and switch them"
-msgstr ""
-
-#: workspace/plasma/scriptengines/google_gadgets/plasma-packagestructure-googlegadgets.desktop:2
-msgctxt "Name"
-msgid "Google Gadgets"
-msgstr "Google ମେସିନ"
-
-#: workspace/plasma/scriptengines/google_gadgets/plasma-packagestructure-googlegadgets.desktop:49
-msgctxt "Comment"
-msgid "Google Desktop Gadget"
-msgstr "Google ଡ଼େସ୍କଟପ ମେସିନ"
-
-#: workspace/plasma/scriptengines/google_gadgets/plasma-scriptengine-googlegadgets.desktop:2
-msgctxt "Name"
-msgid "GoogleGadgets"
-msgstr "GoogleGadgets"
-
-#: workspace/plasma/scriptengines/google_gadgets/plasma-scriptengine-googlegadgets.desktop:35
-msgctxt "Comment"
-msgid "Google Desktop Gadgets"
-msgstr "Google ଡ଼େସ୍କଟପ ମେସିନଗୁଡ଼ିକ"
-
-#: workspace/plasma/scriptengines/python/examples/applets/pyclock/metadata.desktop:3
-msgctxt "Name"
-msgid "Python Clock"
-msgstr "ପାଇଥନ ଘଣ୍ଟା"
-
-#: workspace/plasma/scriptengines/python/examples/dataengines/pytime/metadata.desktop:2
-msgctxt "Name"
-msgid "Python Date and Time"
-msgstr "ପାଇଥନ ତାରିଖ ଏବଂ ସମୟ"
-
-#: workspace/plasma/scriptengines/python/examples/dataengines/pytime/metadata.desktop:65
-msgctxt "Comment"
-msgid "Python Time data for Plasmoids"
-msgstr "ପ୍ଲାଜମଏଡ଼ ପାଇଁ ପାଇଥନ ସମୟ ତଥ୍ୟ"
-
-#: workspace/plasma/scriptengines/python/plasma-scriptengine-applet-python.desktop:2
-msgctxt "Name"
-msgid "Python Widget"
-msgstr "ପାଇଥନ ୱିଜେଟ"
-
-#: workspace/plasma/scriptengines/python/plasma-scriptengine-applet-python.desktop:61
-msgctxt "Comment"
-msgid "Plasma widget support written in Python"
-msgstr "ପାଇଥନରେ ଲିଖିତ ପ୍ଲାଜମା ୱିଜେଟ ସମର୍ଥନ"
-
-#: workspace/plasma/scriptengines/python/plasma-scriptengine-dataengine-python.desktop:2
-msgctxt "Name"
-msgid "Python data engine"
-msgstr "ପାଇଥନ ତଥ୍ୟ ମେସିନ"
-
-#: workspace/plasma/scriptengines/python/plasma-scriptengine-dataengine-python.desktop:61
-msgctxt "Comment"
-msgid "Plasma data engine support for Python"
-msgstr "ପାଇଥନ ପାଇଁ ପ୍ଲାଜମା ତଥ୍ୟ ମେସିନ ସମର୍ଥନ"
-
-#: workspace/plasma/scriptengines/qedjescript/plasma-appletscript-qedje.desktop:2
-msgctxt "Name"
-msgid "QEdje"
-msgstr "QEdje"
-
-#: workspace/plasma/scriptengines/qedjescript/plasma-appletscript-qedje.desktop:8
-msgctxt "Comment"
-msgid "QEdje Gadgets"
-msgstr "QEdje ମେସିନଗୁଡ଼ିକ"
-
-#: workspace/plasma/scriptengines/qedjescript/plasma-packagestructure-qedje.desktop:2
-msgctxt "Name"
-msgid "QEdje Gadgets"
-msgstr "QEdje ମେସିନ"
-
-#: workspace/plasma/scriptengines/qedjescript/plasma-packagestructure-qedje.desktop:51
-msgctxt "Comment"
-msgid "QEdje Gadget"
-msgstr "QEdje ମେସିନ"
-
-#: workspace/plasma/scriptengines/ruby/examples/applets/clock/metadata.desktop:2
-msgctxt "Name"
-msgid "Ruby Analog Clock"
-msgstr "ରୁବି ଅନୁରୂପ ଘଣ୍ଟା"
-
-#: workspace/plasma/scriptengines/ruby/examples/applets/clock/metadata.desktop:63
-msgctxt "Comment"
-msgid "An SVG themable clock"
-msgstr ""
-
-#: workspace/plasma/scriptengines/ruby/examples/applets/extendertutorial/metadata.desktop:2
-msgctxt "Name"
-msgid "Ruby Extender Tutorial"
-msgstr ""
-
-#: workspace/plasma/scriptengines/ruby/examples/applets/extendertutorial/metadata.desktop:22
-msgctxt "Comment"
-msgid "An example of a popup applet with extender"
-msgstr ""
-
-#: workspace/plasma/scriptengines/ruby/examples/applets/tiger/metadata.desktop:45
-msgctxt "Comment"
-msgid "An example of displaying an SVG"
-msgstr "SVG ଦର୍ଶାଇବା ପାଇଁ ଗୋଟିଏ ଉଦାହରଣ"
-
-#: workspace/plasma/scriptengines/ruby/examples/applets/webapplet/metadata.desktop:2
-msgctxt "Name"
-msgid "Ruby Web Browser"
-msgstr "ରୁବି ୱେବ ବ୍ରାଉଜର"
-
-#: workspace/plasma/scriptengines/ruby/examples/dataengines/dbpedia_albums/metadata.desktop:2
-msgctxt "Name"
-msgid "DBpedia queries"
-msgstr "DBpedia ପ୍ରଶ୍ନଗୁଡ଼ିକ"
-
-#: workspace/plasma/scriptengines/ruby/examples/dataengines/dbpedia_albums/metadata.desktop:59
-msgctxt "Comment"
-msgid "DBpedia data for Plasmoids"
-msgstr "Plasmoids ପାଇଁ DBpedia ତଥ୍ୟ"
-
-#: workspace/plasma/scriptengines/ruby/examples/dataengines/time/metadata.desktop:69
-msgctxt "Comment"
-msgid "Time data for Plasmoids"
-msgstr "Plasmoids ପାଇଁ ସମୟ ତଥ୍ୟ"
-
-#: workspace/plasma/scriptengines/ruby/plasma-scriptengine-ruby-applet.desktop:2
-#: workspace/plasma/scriptengines/ruby/plasma-scriptengine-ruby-dataengine.desktop:2
-msgctxt "Name"
-msgid "Ruby Widget"
-msgstr "ରୁବି ୱିଜେଟ"
-
-#: workspace/plasma/scriptengines/ruby/plasma-scriptengine-ruby-applet.desktop:64
-#: workspace/plasma/scriptengines/ruby/plasma-scriptengine-ruby-dataengine.desktop:64
-msgctxt "Comment"
-msgid "Native Plasma widget written in Ruby"
-msgstr "Ruby ରେ ଲେଖା ହୋଇଥିବା ସ୍ଥାନୀୟ ପ୍ଲାଜମା ୱିଜେଟ"
-
-#: workspace/plasma/scriptengines/webkit/plasma-packagestructure-dashboard.desktop:2
-msgctxt "Name"
-msgid "MacOS Dashboard Widgets"
-msgstr "MacOS ଡ୍ୟାସବୋର୍ଡ ୱିଜେଟଗୁଡ଼ିକ"
-
-#: workspace/plasma/scriptengines/webkit/plasma-packagestructure-dashboard.desktop:58
-msgctxt "Comment"
-msgid "MacOS dashboard widget"
-msgstr "MacOS ଡ୍ୟାସବୋର୍ଡ ୱିଜେଟ"
-
-#: workspace/plasma/scriptengines/webkit/plasma-packagestructure-web.desktop:2
-msgctxt "Name"
-msgid "Web Widgets"
-msgstr "ୱେବ ୱିଜେଟଗୁଡ଼ିକ"
-
-#: workspace/plasma/scriptengines/webkit/plasma-packagestructure-web.desktop:63
-msgctxt "Comment"
-msgid "HTML widget"
-msgstr "HTML ୱିଜେଟ"
-
-#: workspace/plasma/scriptengines/webkit/plasma-scriptengine-applet-dashboard.desktop:2
-msgctxt "Name"
-msgid "Dashboard"
-msgstr "ଡ୍ୟାସବୋର୍ଡ"
-
-#: workspace/plasma/scriptengines/webkit/plasma-scriptengine-applet-dashboard.desktop:46
-msgctxt "Comment"
-msgid "MacOS X dashboard widget"
-msgstr "MacOS X ଡ୍ୟାସବୋର୍ଡ ୱିଜେଟ"
-
-#: workspace/plasma/scriptengines/webkit/plasma-scriptengine-applet-web.desktop:2
-msgctxt "Name"
-msgid "Web Widget"
-msgstr "ୱେବ ୱିଜେଟ"
-
-#: workspace/plasma/scriptengines/webkit/plasma-scriptengine-applet-web.desktop:66
-msgctxt "Comment"
-msgid "Webpage widget using HTML and JavaScript"
-msgstr "HTML ଏବଂ JavaScript ବ୍ୟବହାର କରି ୱେବ ପୃଷ୍ଠା ୱିଜେଟ"
-
-#: workspace/plasma/shells/desktop/plasma-desktop.desktop:4
-msgctxt "Name"
-msgid "Plasma Desktop Workspace"
-msgstr "ପ୍ଲାଜମା ଡ଼େସ୍କଟପ କାର୍ଯ୍ୟସ୍ଥଳ"
-
-#: workspace/plasma/shells/desktop/plasma-desktop.notifyrc:3
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Plasma Desktop Workspace"
-msgctxt "Comment"
-msgid "Plasma Desktop Shell"
-msgstr "ପ୍ଲାଜମା ଡ଼େସ୍କଟପ କାର୍ଯ୍ୟସ୍ଥଳ"
-
-#: workspace/plasma/shells/desktop/plasma-desktop.notifyrc:14
-msgctxt "Name"
-msgid "Workspace"
-msgstr ""
-
-#: workspace/plasma/shells/desktop/plasma-desktop.notifyrc:25
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Web widget style"
-msgctxt "Name"
-msgid "New widget published"
-msgstr "ୱେବ ୱିଜେଟ ଶୈଳୀ"
-
-#: workspace/plasma/shells/desktop/plasma-desktop.notifyrc:34
-msgctxt "Comment"
-msgid "A new widget has become available on the network."
-msgstr ""
+msgid "SaverDesktop"
+msgstr "ସର୍ଭର ଡ଼େସ୍କଟପ"
 
 #: workspace/plasma/tools/desktopthemedetails/desktopthemedetails.desktop:12
 msgctxt "Name"
@@ -11525,22 +11551,6 @@ msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବିବରଣୀ"
 msgctxt "Comment"
 msgid "Customize individual desktop theme items"
 msgstr "ବ୍ୟକ୍ତିଗତ ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବସ୍ତୁଗୁଡ଼ିକୁ ଇଚ୍ଛାରୂପଣ କରୁଅଛି"
-
-#: workspace/plasma/wallpapers/color/plasma-wallpaper-color.desktop:2
-msgctxt "Name"
-msgid "Color"
-msgstr "ରଙ୍ଗ"
-
-#: workspace/plasma/wallpapers/image/plasma-wallpaper-image.desktop:3
-#: workspace/plasma/wallpapers/image/plasma-wallpaper-image.desktop:85
-msgctxt "Name"
-msgid "Image"
-msgstr "ପ୍ରତିଛବି"
-
-#: workspace/plasma/wallpapers/image/plasma-wallpaper-image.desktop:155
-msgctxt "Name"
-msgid "Slideshow"
-msgstr "ସ୍ଲାଇଡ଼ ଦୃଶ୍ୟ"
 
 #: workspace/PolicyKit-kde/authorization/kcm_pkk_authorization.desktop:12
 msgctxt "Name"
