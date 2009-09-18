@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-09-17 06:20+0200\n"
+"POT-Creation-Date: 2009-09-18 06:12+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -7933,11 +7933,11 @@ msgstr "ଶେଷଭାଗରୁ ଚାଲୁ କରିବେକି?"
 msgid "Continue from the beginning?"
 msgstr "ଆରମ୍ଭରୁ ଚାଲୁ କରିବେକି?"
 
-#: kdeui/itemviews/kfilterproxysearchline.cpp:72
-#: kdeui/itemviews/ktreewidgetsearchline.cpp:605
-#: kde3support/kdeui/k3listviewsearchline.cpp:557
-msgid "S&earch:"
-msgstr "ଖୋଜନ୍ତୁ (&e):"
+#: kdeui/itemviews/kfilterproxysearchline.cpp:73
+#, fuzzy
+#| msgid "&Search"
+msgid "Search"
+msgstr "ଖୋଜନ୍ତୁ (&S)"
 
 #: kdeui/itemviews/ktreewidgetsearchline.cpp:424
 #: kde3support/kdeui/k3listviewsearchline.cpp:287
@@ -7948,6 +7948,11 @@ msgstr "ସ୍ତମ୍ଭଗୁଡିକୁ ଖୋଜନ୍ତୁ"
 #: kde3support/kdeui/k3listviewsearchline.cpp:290
 msgid "All Visible Columns"
 msgstr "ସମସ୍ତ ଦୃଶ୍ୟମାନ ସ୍ତମ୍ଭଗୁଡିକ"
+
+#: kdeui/itemviews/ktreewidgetsearchline.cpp:605
+#: kde3support/kdeui/k3listviewsearchline.cpp:557
+msgid "S&earch:"
+msgstr "ଖୋଜନ୍ତୁ (&e):"
 
 #: kdeui/shortcuts/kglobalaccel.cpp:494
 msgid "Conflict with Global Shortcut"
