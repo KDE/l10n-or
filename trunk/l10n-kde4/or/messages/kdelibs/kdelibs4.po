@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-09-18 06:12+0200\n"
+"POT-Creation-Date: 2009-09-20 06:16+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -10921,68 +10921,68 @@ msgstr ""
 msgid "(%1/s)"
 msgstr "(%1/s)"
 
-#: khtml/khtml_part.cpp:6676
+#: khtml/khtml_part.cpp:6680
 msgid "Security Warning"
 msgstr "ସୁରକ୍ଷା ଚେତାବନୀ"
 
-#: khtml/khtml_part.cpp:6685
+#: khtml/khtml_part.cpp:6689
 #, kde-format
 msgid "<qt>Access by untrusted page to<br /><b>%1</b><br /> denied.</qt>"
 msgstr "<qt>ଅବିଶ୍ୱସ୍ତ ପୃଷ୍ଠାକୁ ପ୍ରବେଶାନୁମତୀ<br /><b>%1</b><br /> ବାରଣ କରାଯାଇଛି।</qt>"
 
-#: khtml/khtml_part.cpp:6686 khtml/java/kjavaappletserver.cpp:792
+#: khtml/khtml_part.cpp:6690 khtml/java/kjavaappletserver.cpp:792
 msgid "Security Alert"
 msgstr "ସୁରକ୍ଷା ସଚେତନତା"
 
-#: khtml/khtml_part.cpp:7034
+#: khtml/khtml_part.cpp:7038
 #, kde-format
 msgid "The wallet '%1' is open and being used for form data and passwords."
 msgstr "ୱାଲେଟ '%1' ଟି ଖୋଲାଅଛି ଏବଂ ଫର୍ମ ତଥ୍ୟ ଏବଂ ପ୍ରବେଶ ସଂକେତ ପାଇଁ ବ୍ୟବହୃତ ହେଉଛି।"
 
-#: khtml/khtml_part.cpp:7094
+#: khtml/khtml_part.cpp:7098
 msgid "&Close Wallet"
 msgstr "ୱାଲେଟ ବନ୍ଦକରନ୍ତୁ (&C)"
 
-#: khtml/khtml_part.cpp:7097
+#: khtml/khtml_part.cpp:7101
 msgid "&Allow storing passwords for this site"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7102
+#: khtml/khtml_part.cpp:7106
 #, kde-format
 msgid "Remove password for form %1"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7207
+#: khtml/khtml_part.cpp:7211
 msgid "JavaScript &Debugger"
 msgstr "JavaScript ତ୍ରୁଟିନିବାରକ (&D)"
 
-#: khtml/khtml_part.cpp:7239
+#: khtml/khtml_part.cpp:7243
 msgid "This page was prevented from opening a new window via JavaScript."
 msgstr ""
 
-#: khtml/khtml_part.cpp:7245
+#: khtml/khtml_part.cpp:7249
 msgid "Popup Window Blocked"
 msgstr "ପପ୍ ଅପ୍ ୱିଣ୍ଡୋ ବନ୍ଦ ହୋଇଯାଇଛି"
 
-#: khtml/khtml_part.cpp:7245
+#: khtml/khtml_part.cpp:7249
 msgid ""
 "This page has attempted to open a popup window but was blocked.\n"
 "You can click on this icon in the status bar to control this behavior\n"
 "or to open the popup."
 msgstr ""
 
-#: khtml/khtml_part.cpp:7258
+#: khtml/khtml_part.cpp:7262
 #, kde-format
 msgid "&Show Blocked Popup Window"
 msgid_plural "&Show %1 Blocked Popup Windows"
 msgstr[0] ""
 msgstr[1] ""
 
-#: khtml/khtml_part.cpp:7259
+#: khtml/khtml_part.cpp:7263
 msgid "Show Blocked Window Passive Popup &Notification"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7261
+#: khtml/khtml_part.cpp:7265
 msgid "&Configure JavaScript New Window Policies..."
 msgstr ""
 
@@ -11123,7 +11123,7 @@ msgstr "JavaScript"
 msgid "&Stop Script"
 msgstr "ମୁକ୍ତ ସ୍କ୍ରିପ୍ଟ"
 
-#: khtml/ecma/kjs_window.cpp:1590 khtml/ecma/kjs_html.cpp:2118
+#: khtml/ecma/kjs_window.cpp:1590 khtml/ecma/kjs_html.cpp:2115
 msgid "Confirmation: JavaScript Popup"
 msgstr "ନିଶ୍ଚତତା: JavaScript ପପ୍ ଅପ୍"
 
@@ -11140,11 +11140,11 @@ msgid ""
 "JavaScript.<br />Do you want to allow this?</qt>"
 msgstr ""
 
-#: khtml/ecma/kjs_window.cpp:1598 khtml/ecma/kjs_html.cpp:2125
+#: khtml/ecma/kjs_window.cpp:1598 khtml/ecma/kjs_html.cpp:2122
 msgid "Allow"
 msgstr "ସ୍ବୀକାର କରନ୍ତୁ"
 
-#: khtml/ecma/kjs_window.cpp:1598 khtml/ecma/kjs_html.cpp:2125
+#: khtml/ecma/kjs_window.cpp:1598 khtml/ecma/kjs_html.cpp:2122
 msgid "Do Not Allow"
 msgstr "ଅନୁମତି ଦିଅନ୍ତୁନାହିଁ"
 
@@ -11182,14 +11182,14 @@ msgstr "ଭର୍ତ୍ତୀ କରନ୍ତୁ"
 msgid "Disallow"
 msgstr "ଅସ୍ବୀକାର କରନ୍ତୁ"
 
-#: khtml/ecma/kjs_html.cpp:2120
+#: khtml/ecma/kjs_html.cpp:2117
 msgid ""
 "This site is submitting a form which will open up a new browser window via "
 "JavaScript.\n"
 "Do you want to allow the form to be submitted?"
 msgstr ""
 
-#: khtml/ecma/kjs_html.cpp:2123
+#: khtml/ecma/kjs_html.cpp:2120
 #, kde-format
 msgid ""
 "<qt>This site is submitting a form which will open <p>%1</p> in a new "
