@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-09-21 05:57+0200\n"
+"POT-Creation-Date: 2009-09-24 06:14+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -6860,6 +6860,11 @@ msgstr "ଚିତ୍ର ସଂକେତ ପରିବର୍ତ୍ତନ କରନ
 msgid "Icon Te&xt:"
 msgstr "ସଂଯୋଗ ପାଠ୍ୟ:"
 
+#: kdeui/dialogs/kshortcutseditor.cpp:127
+#: kdeui/widgets/kcharselectdata.cpp:644
+msgid "Unknown"
+msgstr "ଅଜଣା"
+
 #: kdeui/dialogs/kshortcutseditor.cpp:566
 #: kdeui/dialogs/kshortcutseditor.cpp:582
 msgid "Key Conflict"
@@ -9886,10 +9891,6 @@ msgstr "ବିଭାଜକ, ପରିଚ୍ଛେଦ"
 msgid "Separator, Space"
 msgstr "ବିଭାଜକ, ଖାଲି ସ୍ଥାନ"
 
-#: kdeui/widgets/kcharselectdata.cpp:644
-msgid "Unknown"
-msgstr "ଅଜଣା"
-
 #: kdeui/widgets/ksqueezedtextlabel.cpp:158
 msgid "&Copy Full Text"
 msgstr "ସମ୍ପୂର୍ଣ୍ଣ ପାଠ୍ୟ ନକଲ କରନ୍ତୁ (&C)"
@@ -10577,7 +10578,7 @@ msgstr "ଗ୍ରହଣ କରନ୍ତୁ"
 msgid "Reject"
 msgstr "ତ୍ୟାଗ କରନ୍ତୁ"
 
-#: khtml/khtml_settings.cpp:781
+#: khtml/khtml_settings.cpp:802
 msgid "Filter error"
 msgstr "ତ୍ରୁଟି ଛାଣନ୍ତୁ"
 
