@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-09-20 01:20+0200\n"
+"POT-Creation-Date: 2009-09-24 01:22+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -6599,6 +6599,11 @@ msgstr "%1"
 msgid "Change Icon"
 msgstr "ଚିତ୍ର ସଂକେତ ପରିବର୍ତ୍ତନ କରନ୍ତୁ"
 
+#: kdeui/dialogs/kshortcutseditor.cpp:127
+#: kdeui/widgets/kcharselectdata.cpp:644
+msgid "Unknown"
+msgstr "ଅଜଣା"
+
 #: kdeui/dialogs/kshortcutseditor.cpp:566
 #: kdeui/dialogs/kshortcutseditor.cpp:582
 msgid "Key Conflict"
@@ -9596,10 +9601,6 @@ msgstr "ବିଭାଜକ, ପରିଚ୍ଛେଦ"
 #: kdeui/widgets/kcharselectdata.cpp:643
 msgid "Separator, Space"
 msgstr "ବିଭାଜକ, ଖାଲି ସ୍ଥାନ"
-
-#: kdeui/widgets/kcharselectdata.cpp:644
-msgid "Unknown"
-msgstr "ଅଜଣା"
 
 #: kdeui/widgets/ksqueezedtextlabel.cpp:158
 msgid "&Copy Full Text"
