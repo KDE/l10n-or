@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-09-09 07:27+0200\n"
+"POT-Creation-Date: 2009-10-01 05:51+0200\n"
 "PO-Revision-Date: 2008-12-26 16:53+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -302,44 +302,44 @@ msgid ""
 "tab width."
 msgstr ""
 
-#: src/konqtabs.cpp:103
+#: src/konqtabs.cpp:100
 msgid "Open a new tab"
 msgstr "ଗୋଟିଏ ନୂତନ ଟ୍ୟାବ ଖୋଲନ୍ତୁ"
 
-#: src/konqtabs.cpp:112
+#: src/konqtabs.cpp:109
 msgid "Close the current tab"
 msgstr "ବର୍ତ୍ତମାନ ଖୋଲାଯାଇଥିବା ଟ୍ୟାବକୁ ବନ୍ଦକରନ୍ତୁ"
 
-#: src/konqtabs.cpp:332 src/konqmainwindow.cpp:3758
+#: src/konqtabs.cpp:338 src/konqmainwindow.cpp:3758
 msgid "&Reload All Tabs"
 msgstr "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ (&R)"
 
-#: src/konqtabs.cpp:355 src/konqmainwindow.cpp:2577
+#: src/konqtabs.cpp:361 src/konqmainwindow.cpp:2577
 #: src/konqmainwindow.cpp:3696
 msgid "Close &Other Tabs"
 msgstr "ଅନ୍ୟାନ୍ୟ ଟ୍ୟାବଗୁଡ଼ିକୁ ବନ୍ଦକରନ୍ତୁ (&O)"
 
-#: src/konqtabs.cpp:473 src/konqmainwindow.cpp:3669
+#: src/konqtabs.cpp:479 src/konqmainwindow.cpp:3669
 msgid "&New Tab"
 msgstr "ନୂତନ ଟ୍ୟାବ (&N)"
 
-#: src/konqtabs.cpp:478
+#: src/konqtabs.cpp:484
 msgid "&Duplicate Tab"
 msgstr "ନକଲି ଟ୍ୟାବ (&D)"
 
-#: src/konqtabs.cpp:483
+#: src/konqtabs.cpp:489
 msgid "&Reload Tab"
 msgstr "ଟ୍ୟାବକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ (&R)"
 
-#: src/konqtabs.cpp:490
+#: src/konqtabs.cpp:496
 msgid "Other Tabs"
 msgstr "ଅନ୍ୟାନ୍ୟ ଟ୍ୟାବଗୁଡ଼ିକ"
 
-#: src/konqtabs.cpp:495
+#: src/konqtabs.cpp:501
 msgid "D&etach Tab"
 msgstr "ଟ୍ୟାବକୁ ପୃଥକ କରନ୍ତୁ (&e)"
 
-#: src/konqtabs.cpp:501
+#: src/konqtabs.cpp:507
 msgid "&Close Tab"
 msgstr "ଟ୍ୟାବକୁ ବନ୍ଦକରନ୍ତୁ (&C)"
 
@@ -410,7 +410,7 @@ msgstr ""
 #: src/konqmainwindow.cpp:2420 src/konqmainwindow.cpp:2509
 #: src/konqmainwindow.cpp:2527 src/konqmainwindow.cpp:2547
 #: src/konqmainwindow.cpp:2595 src/konqmainwindow.cpp:2628
-#: src/konqmainwindow.cpp:5075 src/konqviewmanager.cpp:1382
+#: src/konqmainwindow.cpp:5074 src/konqviewmanager.cpp:1387
 msgid "Discard Changes?"
 msgstr "ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ପ୍ରତ୍ୟାଖ୍ଯାନ କରିବେ କି?"
 
@@ -418,7 +418,7 @@ msgstr "ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ପ୍ରତ୍ୟ�
 #: src/konqmainwindow.cpp:2420 src/konqmainwindow.cpp:2509
 #: src/konqmainwindow.cpp:2527 src/konqmainwindow.cpp:2547
 #: src/konqmainwindow.cpp:2595 src/konqmainwindow.cpp:2628
-#: src/konqmainwindow.cpp:5075 src/konqviewmanager.cpp:1382
+#: src/konqmainwindow.cpp:5074 src/konqviewmanager.cpp:1387
 msgid "&Discard Changes"
 msgstr "ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ପ୍ରତ୍ୟାଖ୍ଯାନ କରନ୍ତୁ (&D)"
 
@@ -972,20 +972,20 @@ msgctxt "@action:inmenu View"
 msgid "&View Mode"
 msgstr "ଦୃଶ୍ୟ ଅବସ୍ଥା (&V)"
 
-#: src/konqmainwindow.cpp:5035
+#: src/konqmainwindow.cpp:5034
 msgid ""
 "You have multiple tabs open in this window, are you sure you want to quit?"
 msgstr "ଏହି ୱିଣ୍ଡୋରେ ଏକାଧିକ ଟ୍ୟାବ ଖୋଲାଅଛି, ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ବିଦାୟ ନେବାକୁ ଚାହୁଁଛନ୍ତି?"
 
-#: src/konqmainwindow.cpp:5037 src/konqviewmanager.cpp:1364
+#: src/konqmainwindow.cpp:5036 src/konqviewmanager.cpp:1369
 msgid "Confirmation"
 msgstr "ନିଶ୍ଚିତକରଣ"
 
-#: src/konqmainwindow.cpp:5039
+#: src/konqmainwindow.cpp:5038
 msgid "C&lose Current Tab"
 msgstr "ପ୍ରଚଳିତ ଟ୍ୟାବକୁ ଖୋଲନ୍ତୁ (&l)"
 
-#: src/konqmainwindow.cpp:5072
+#: src/konqmainwindow.cpp:5071
 msgid ""
 "This tab contains changes that have not been submitted.\n"
 "Closing the window will discard these changes."
@@ -993,7 +993,7 @@ msgstr ""
 "ଏହି ଟ୍ୟାବରେ ଦାଖଲ ହୋଇନଥିବା ପରିବର୍ତ୍ତନଗୁଡ଼ିକ ସଂରକ୍ଷିତ ଅଛି।\n"
 "ବନ୍ଦ କରିବା ଦ୍ୱାରା ଏହି ପରିବର୍ତ୍ତନଗୁଡ଼ିକ ବାତିଲ ହୋଇଯିବ।"
 
-#: src/konqmainwindow.cpp:5073
+#: src/konqmainwindow.cpp:5072
 msgid ""
 "This page contains changes that have not been submitted.\n"
 "Closing the window will discard these changes."
@@ -1001,34 +1001,34 @@ msgstr ""
 "ଏହି ପୃଷ୍ଠା ଦାଖଲ ହୋଇନଥିବା ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ଧାରଣ କରିଥାଏ\n"
 "ୱିଣ୍ଡୋକୁ ବନ୍ଦ କରିବା ଦ୍ୱାରା ଏହି ପରିବର୍ତ୍ତନଗୁଡ଼ିକ ବାତିଲ ହୋଇଯିବ।"
 
-#: src/konqmainwindow.cpp:5114 src/konqmainwindow.cpp:5174
+#: src/konqmainwindow.cpp:5113 src/konqmainwindow.cpp:5173
 #: src/konqclosedwindowsmanager.cpp:418
 msgid "no name"
 msgstr "କୌଣସି ନାମ ନାହିଁ"
 
-#: src/konqmainwindow.cpp:5241
+#: src/konqmainwindow.cpp:5240
 msgid ""
 "Your sidebar is not functional or unavailable. A new entry cannot be added."
 msgstr "ଆପଣଙ୍କର ପାର୍ଶ୍ୱପଟି କାମ କରୁନାହିଁ କିମ୍ୱା ଉପଲବ୍ଧ ନାହିଁ। ନୂତନ ଭରଣ ଯୋଗକରାଯାଇ ପାରିବ ନାହିଁ।"
 
-#: src/konqmainwindow.cpp:5241 src/konqmainwindow.cpp:5248
+#: src/konqmainwindow.cpp:5240 src/konqmainwindow.cpp:5247
 msgid "Web Sidebar"
 msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି"
 
-#: src/konqmainwindow.cpp:5246
+#: src/konqmainwindow.cpp:5245
 #, kde-format
 msgid "Add new web extension \"%1\" to your sidebar?"
 msgstr "ଆପଣଙ୍କ ପାର୍ଶ୍ୱପଟିରେ ନୂତନ ୱେବ ଅନୁଲଗ୍ନ ଯୋଗକରିବେ କି \"%1\"?"
 
-#: src/konqmainwindow.cpp:5248
+#: src/konqmainwindow.cpp:5247
 msgid "Add"
 msgstr "ଯୋଗ କରନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:5248
+#: src/konqmainwindow.cpp:5247
 msgid "Do Not Add"
 msgstr "ଯୋଗ କରନ୍ତୁ ନାହିଁ"
 
-#: src/konqmainwindow.cpp:5545
+#: src/konqmainwindow.cpp:5544
 #, kde-format
 msgid ""
 "There appears to be a configuration error. You have associated Konqueror "
@@ -1172,7 +1172,7 @@ msgstr "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ (&o): ବନ୍
 msgid "Und&o"
 msgstr ""
 
-#: src/konqviewmanager.cpp:1362
+#: src/konqviewmanager.cpp:1367
 msgid ""
 "You have multiple tabs open in this window.\n"
 "Loading a view profile will close them."
@@ -1180,11 +1180,11 @@ msgstr ""
 "ଏହି ୱିଣ୍ଡୋରେ ଆପଣ ଏକାଧିକ ଟ୍ୟାବ ଖୋଲିଛନ୍ତି।\n"
 "ରୂପରେଖ ଦୃଶ୍ୟକୁ ଧାରଣ କରାଗଲେ ଏହା ବନ୍ଦ ହୋଇଯିବ।"
 
-#: src/konqviewmanager.cpp:1365
+#: src/konqviewmanager.cpp:1370
 msgid "Load View Profile"
 msgstr "ରୂପରେଖ ଦୃଶ୍ୟକୁ ଧାରଣ କରନ୍ତୁ"
 
-#: src/konqviewmanager.cpp:1381
+#: src/konqviewmanager.cpp:1386
 msgid ""
 "This tab contains changes that have not been submitted.\n"
 "Loading a profile will discard these changes."
