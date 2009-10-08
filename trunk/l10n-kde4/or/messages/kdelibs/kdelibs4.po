@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-10-07 07:02+0200\n"
+"POT-Creation-Date: 2009-10-08 06:06+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -5970,7 +5970,7 @@ msgid_plural "%2% of %1 files"
 msgstr[0] "1 ଫାଇଲର %2 %"
 msgstr[1] "%1 ଫାଇଲଗୁଡିକ %2 %"
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:375 khtml/khtml_ext.cpp:1087
+#: kdeui/jobs/kwidgetjobtracker.cpp:375 khtml/khtml_ext.cpp:1083
 #, no-c-format, kde-format
 msgid "%1%"
 msgstr "%1%"
@@ -10383,149 +10383,149 @@ msgstr "ସାଇମନ ହାଉସମେନ"
 msgid "Tobias Anton"
 msgstr "ଟବାୟାସ ଏନଟନ"
 
-#: khtml/khtml_ext.cpp:423
+#: khtml/khtml_ext.cpp:419
 msgid "&Copy Text"
 msgstr "ପାଠ୍ୟ ନକଲ କରନ୍ତୁ (&C)"
 
-#: khtml/khtml_ext.cpp:437
+#: khtml/khtml_ext.cpp:433
 #, kde-format
 msgid "Open '%1'"
 msgstr "'%1' ଖୋଲନ୍ତୁ"
 
-#: khtml/khtml_ext.cpp:454
+#: khtml/khtml_ext.cpp:450
 msgid "&Copy Email Address"
 msgstr "ଇମେଲ ଠିକଣା ନକଲ କରନ୍ତୁ (&C)"
 
-#: khtml/khtml_ext.cpp:459
+#: khtml/khtml_ext.cpp:455
 msgid "&Save Link As..."
 msgstr "ସଂଯୋଗକୁ ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ (&S)..."
 
-#: khtml/khtml_ext.cpp:464
+#: khtml/khtml_ext.cpp:460
 msgid "&Copy Link Address"
 msgstr "ସଂଯୋଗ ଠିକଣା ନକଲ କରନ୍ତୁ (&C)"
 
-#: khtml/khtml_ext.cpp:476
+#: khtml/khtml_ext.cpp:472
 msgctxt "@title:menu HTML frame/iframe"
 msgid "Frame"
 msgstr "ବନ୍ଧେଇ"
 
-#: khtml/khtml_ext.cpp:477
+#: khtml/khtml_ext.cpp:473
 msgid "Open in New &Window"
 msgstr "ନୂତନ ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ (&W)"
 
-#: khtml/khtml_ext.cpp:483
+#: khtml/khtml_ext.cpp:479
 msgid "Open in &This Window"
 msgstr "ଏହି ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ (&T)"
 
-#: khtml/khtml_ext.cpp:488
+#: khtml/khtml_ext.cpp:484
 msgid "Open in &New Tab"
 msgstr "ନୂତନ ଟ୍ୟାବରେ ଖୋଲନ୍ତୁ (&N)"
 
-#: khtml/khtml_ext.cpp:498
+#: khtml/khtml_ext.cpp:494
 msgid "Reload Frame"
 msgstr "ଫ୍ରେମକୁ ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ"
 
-#: khtml/khtml_ext.cpp:503 khtml/khtml_part.cpp:465
+#: khtml/khtml_ext.cpp:499 khtml/khtml_part.cpp:465
 msgid "Print Frame..."
 msgstr "ଫ୍ରେମକୁ ମୁଦ୍ରଣ କରନ୍ତୁ..."
 
-#: khtml/khtml_ext.cpp:509 khtml/khtml_part.cpp:328
+#: khtml/khtml_ext.cpp:505 khtml/khtml_part.cpp:328
 msgid "Save &Frame As..."
 msgstr "ଫ୍ରେମକୁ ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ (&F)..."
 
-#: khtml/khtml_ext.cpp:514 khtml/khtml_part.cpp:303
+#: khtml/khtml_ext.cpp:510 khtml/khtml_part.cpp:303
 msgid "View Frame Source"
 msgstr "ଫ୍ରେମ ଉତ୍ସ ଦେଖନ୍ତୁ"
 
-#: khtml/khtml_ext.cpp:519
+#: khtml/khtml_ext.cpp:515
 msgid "View Frame Information"
 msgstr "ଫ୍ରେମ ସୂଚନା ଦେଖନ୍ତୁ"
 
-#: khtml/khtml_ext.cpp:529
+#: khtml/khtml_ext.cpp:525
 msgid "Block IFrame..."
 msgstr "IFrameକୁ ଅବରୋଧ କରନ୍ତୁ..."
 
-#: khtml/khtml_ext.cpp:554
+#: khtml/khtml_ext.cpp:550
 msgid "Save Image As..."
 msgstr "ପ୍ରତିଛବିକୁ ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ..."
 
-#: khtml/khtml_ext.cpp:559
+#: khtml/khtml_ext.cpp:555
 msgid "Send Image..."
 msgstr "ପ୍ରତିଛବିକୁ ପଠାନ୍ତୁ..."
 
-#: khtml/khtml_ext.cpp:565
+#: khtml/khtml_ext.cpp:561
 msgid "Copy Image"
 msgstr "ପ୍ରତିଛବିକୁ ନକଲ କରନ୍ତୁ"
 
-#: khtml/khtml_ext.cpp:573
+#: khtml/khtml_ext.cpp:569
 msgid "Copy Image Location"
 msgstr "ପ୍ରତିଛବି ସ୍ଥାନକୁ ନକଲ କରନ୍ତୁ"
 
-#: khtml/khtml_ext.cpp:582
+#: khtml/khtml_ext.cpp:578
 #, kde-format
 msgid "View Image (%1)"
 msgstr "ପ୍ରତିଛବିକୁ ଦେଖନ୍ତୁ (%1)"
 
-#: khtml/khtml_ext.cpp:588
+#: khtml/khtml_ext.cpp:584
 msgid "Block Image..."
 msgstr "ପ୍ରତିଛବିକୁ ଅବରୋଧ କରନ୍ତୁ..."
 
-#: khtml/khtml_ext.cpp:596
+#: khtml/khtml_ext.cpp:592
 #, kde-format
 msgid "Block Images From %1"
 msgstr "%1ରୁ ପ୍ରତିଛବିଗୁଡିକୁ ଅବରୋଧ କରନ୍ତୁ"
 
-#: khtml/khtml_ext.cpp:608
+#: khtml/khtml_ext.cpp:604
 msgid "Stop Animations"
 msgstr "ଜୀବନାୟନକୁ ଅଟକାନ୍ତୁ"
 
-#: khtml/khtml_ext.cpp:675
+#: khtml/khtml_ext.cpp:671
 #, kde-format
 msgid "Search for '%1' with %2"
 msgstr "%2 ସହିତ '%1'କୁ ଖୋଜନ୍ତୁ"
 
-#: khtml/khtml_ext.cpp:687
+#: khtml/khtml_ext.cpp:683
 #, kde-format
 msgid "Search for '%1' with"
 msgstr "ସହିତ '%1'କୁ ଖୋଜନ୍ତୁ"
 
-#: khtml/khtml_ext.cpp:747
+#: khtml/khtml_ext.cpp:743
 msgid "Save Link As"
 msgstr "ସଂଯୋଗକୁ ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ"
 
-#: khtml/khtml_ext.cpp:767
+#: khtml/khtml_ext.cpp:763
 msgid "Save Image As"
 msgstr "ପ୍ରତିଛବି ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ"
 
-#: khtml/khtml_ext.cpp:781 khtml/khtml_ext.cpp:794
+#: khtml/khtml_ext.cpp:777 khtml/khtml_ext.cpp:790
 msgid "Add URL to Filter"
 msgstr "ଛାଣକରେ URL ଯୋଗ କରନ୍ତୁ"
 
-#: khtml/khtml_ext.cpp:782 khtml/khtml_ext.cpp:795
+#: khtml/khtml_ext.cpp:778 khtml/khtml_ext.cpp:791
 msgid "Enter the URL:"
 msgstr "URL ଭରଣ କରନ୍ତୁ:"
 
-#: khtml/khtml_ext.cpp:930
+#: khtml/khtml_ext.cpp:926
 #, kde-format
 msgid ""
 "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr ""
 "\"%1\" ନାମକ ଗୋଟିଏ ଫାଇଲ ପୂର୍ବରୁ ଅବସ୍ଥିତ ଅଛି। ଆପଣ ନିଶ୍ଚିତକି ଆପଣ ଏଥିରେ ନବଲିଖନ କରିବାକୁ ଚାହୁଁଛନ୍ତି?"
 
-#: khtml/khtml_ext.cpp:930
+#: khtml/khtml_ext.cpp:926
 msgid "Overwrite File?"
 msgstr "ଫାଇଲ ନବଲିଖନ କରିବେକି? "
 
-#: khtml/khtml_ext.cpp:930
+#: khtml/khtml_ext.cpp:926
 msgid "Overwrite"
 msgstr "ନବଲିଖନ କରନ୍ତୁ"
 
-#: khtml/khtml_ext.cpp:991 kparts/browserrun.cpp:431
+#: khtml/khtml_ext.cpp:987 kparts/browserrun.cpp:431
 #, kde-format
 msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr ""
 
-#: khtml/khtml_ext.cpp:992 kparts/browserrun.cpp:432
+#: khtml/khtml_ext.cpp:988 kparts/browserrun.cpp:432
 msgid ""
 "Try to reinstall it  \n"
 "\n"
@@ -10535,7 +10535,7 @@ msgstr ""
 "\n"
 "Konqueror ସହିତ ସମୀକୃତ ନିଷ୍କ୍ରିୟ ହୋଇଯିବ।"
 
-#: khtml/khtml_ext.cpp:1074
+#: khtml/khtml_ext.cpp:1070
 #, no-c-format
 msgid "Default Font Size (100%)"
 msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ ଅକ୍ଷରରୂପ ଆକାର (100%)"
@@ -10933,73 +10933,73 @@ msgid ""
 "submission. The attachment was removed for your protection."
 msgstr ""
 
-#: khtml/khtml_part.cpp:5758
+#: khtml/khtml_part.cpp:5762
 #, kde-format
 msgid "(%1/s)"
 msgstr "(%1/s)"
 
-#: khtml/khtml_part.cpp:6683
+#: khtml/khtml_part.cpp:6687
 msgid "Security Warning"
 msgstr "ସୁରକ୍ଷା ଚେତାବନୀ"
 
-#: khtml/khtml_part.cpp:6692
+#: khtml/khtml_part.cpp:6696
 #, kde-format
 msgid "<qt>Access by untrusted page to<br /><b>%1</b><br /> denied.</qt>"
 msgstr "<qt>ଅବିଶ୍ୱସ୍ତ ପୃଷ୍ଠାକୁ ପ୍ରବେଶାନୁମତୀ<br /><b>%1</b><br /> ବାରଣ କରାଯାଇଛି।</qt>"
 
-#: khtml/khtml_part.cpp:6693 khtml/java/kjavaappletserver.cpp:792
+#: khtml/khtml_part.cpp:6697 khtml/java/kjavaappletserver.cpp:792
 msgid "Security Alert"
 msgstr "ସୁରକ୍ଷା ସଚେତନତା"
 
-#: khtml/khtml_part.cpp:7041
+#: khtml/khtml_part.cpp:7045
 #, kde-format
 msgid "The wallet '%1' is open and being used for form data and passwords."
 msgstr "ୱାଲେଟ '%1' ଟି ଖୋଲାଅଛି ଏବଂ ଫର୍ମ ତଥ୍ୟ ଏବଂ ପ୍ରବେଶ ସଂକେତ ପାଇଁ ବ୍ୟବହୃତ ହେଉଛି।"
 
-#: khtml/khtml_part.cpp:7101
+#: khtml/khtml_part.cpp:7105
 msgid "&Close Wallet"
 msgstr "ୱାଲେଟ ବନ୍ଦକରନ୍ତୁ (&C)"
 
-#: khtml/khtml_part.cpp:7104
+#: khtml/khtml_part.cpp:7108
 msgid "&Allow storing passwords for this site"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7109
+#: khtml/khtml_part.cpp:7113
 #, kde-format
 msgid "Remove password for form %1"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7214
+#: khtml/khtml_part.cpp:7218
 msgid "JavaScript &Debugger"
 msgstr "JavaScript ତ୍ରୁଟିନିବାରକ (&D)"
 
-#: khtml/khtml_part.cpp:7246
+#: khtml/khtml_part.cpp:7250
 msgid "This page was prevented from opening a new window via JavaScript."
 msgstr ""
 
-#: khtml/khtml_part.cpp:7252
+#: khtml/khtml_part.cpp:7256
 msgid "Popup Window Blocked"
 msgstr "ପପ୍ ଅପ୍ ୱିଣ୍ଡୋ ବନ୍ଦ ହୋଇଯାଇଛି"
 
-#: khtml/khtml_part.cpp:7252
+#: khtml/khtml_part.cpp:7256
 msgid ""
 "This page has attempted to open a popup window but was blocked.\n"
 "You can click on this icon in the status bar to control this behavior\n"
 "or to open the popup."
 msgstr ""
 
-#: khtml/khtml_part.cpp:7265
+#: khtml/khtml_part.cpp:7269
 #, kde-format
 msgid "&Show Blocked Popup Window"
 msgid_plural "&Show %1 Blocked Popup Windows"
 msgstr[0] ""
 msgstr[1] ""
 
-#: khtml/khtml_part.cpp:7266
+#: khtml/khtml_part.cpp:7270
 msgid "Show Blocked Window Passive Popup &Notification"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7268
+#: khtml/khtml_part.cpp:7272
 msgid "&Configure JavaScript New Window Policies..."
 msgstr ""
 
