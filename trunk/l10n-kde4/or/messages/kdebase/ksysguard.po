@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ksysguard\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-09-30 06:30+0200\n"
+"POT-Creation-Date: 2009-10-10 06:20+0200\n"
 "PO-Revision-Date: 2009-01-02 11:49+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -279,7 +279,7 @@ msgid "Dropped Packets Rate"
 msgstr ""
 
 #: ksgrd/SensorManager.cc:106
-msgid "Errors Rate"
+msgid "Error Rate"
 msgstr ""
 
 #: ksgrd/SensorManager.cc:107
@@ -287,20 +287,20 @@ msgid "FIFO Overruns Rate"
 msgstr ""
 
 #: ksgrd/SensorManager.cc:108
-msgid "Frame Errors Rate"
+msgid "Frame Error Rate"
 msgstr ""
 
 #: ksgrd/SensorManager.cc:109
-msgid "Multicast Packets Rate"
+msgid "Multicast Packet Rate"
 msgstr ""
 
 #: ksgrd/SensorManager.cc:110
-msgid "Packets Rate"
+msgid "Packet Rate"
 msgstr ""
 
 #: ksgrd/SensorManager.cc:111
 msgctxt "@item sensor description ('carrier' is a type of network signal)"
-msgid "Carrier Losses Rate"
+msgid "Carrier Loss Rate"
 msgstr ""
 
 #: ksgrd/SensorManager.cc:112 ksgrd/SensorManager.cc:123

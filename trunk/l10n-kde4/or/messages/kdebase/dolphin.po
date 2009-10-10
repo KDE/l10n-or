@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-10-06 05:58+0200\n"
+"POT-Creation-Date: 2009-10-10 06:19+0200\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -184,7 +184,7 @@ msgctxt "@info:status"
 msgid "Invalid protocol"
 msgstr "ଅବୈଧ ପ୍ରୋଟୋକଲ"
 
-#: dolphinsearchbox.cpp:66
+#: dolphinsearchbox.cpp:69
 #, fuzzy
 #| msgctxt "@label"
 #| msgid "Trash"
@@ -192,27 +192,12 @@ msgctxt "Tag as in Nepomuk::Tag"
 msgid "Tag"
 msgstr "ଆବର୍ଜନା ପାତ୍ର"
 
-#: dolphinsearchbox.cpp:73
-msgctxt "and ss in a logic operator to connect search terms"
-msgid "and"
-msgstr ""
-
-#: dolphinsearchbox.cpp:76
-msgctxt "or as in a logic operator to connect search terms"
-msgid "or"
-msgstr ""
-
-#: dolphinsearchbox.cpp:79
-msgctxt "not as in a logic operator to connect search terms"
-msgid "not"
-msgstr ""
-
-#: dolphinsearchbox.cpp:248
+#: dolphinsearchbox.cpp:266
 msgctxt "@label:textbox"
 msgid "Search..."
 msgstr ""
 
-#: dolphinsearchbox.cpp:259
+#: dolphinsearchbox.cpp:277
 msgctxt "@info:tooltip"
 msgid "Click to begin the search"
 msgstr ""
