@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-10-11 04:55+0000\n"
+"POT-Creation-Date: 2009-10-12 05:06+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -66,7 +66,7 @@ msgctxt "Comment"
 msgid "logic operator and"
 msgstr ""
 
-#: apps/dolphin/src/dolphinsearchcommands.desktop:13
+#: apps/dolphin/src/dolphinsearchcommands.desktop:18
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Forte"
@@ -74,12 +74,12 @@ msgctxt "Name"
 msgid "or"
 msgstr "ଫର୍ଟ"
 
-#: apps/dolphin/src/dolphinsearchcommands.desktop:14
+#: apps/dolphin/src/dolphinsearchcommands.desktop:19
 msgctxt "Comment"
 msgid "logic operator or"
 msgstr ""
 
-#: apps/dolphin/src/dolphinsearchcommands.desktop:19
+#: apps/dolphin/src/dolphinsearchcommands.desktop:29
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Gnotski"
@@ -87,22 +87,22 @@ msgctxt "Name"
 msgid "not"
 msgstr "Gnotski"
 
-#: apps/dolphin/src/dolphinsearchcommands.desktop:20
+#: apps/dolphin/src/dolphinsearchcommands.desktop:30
 msgctxt "Comment"
 msgid "logic operator not"
 msgstr ""
 
-#: apps/dolphin/src/dolphinsearchcommands.desktop:24
+#: apps/dolphin/src/dolphinsearchcommands.desktop:39
 msgctxt "Name"
 msgid "File extension"
 msgstr ""
 
-#: apps/dolphin/src/dolphinsearchcommands.desktop:25
+#: apps/dolphin/src/dolphinsearchcommands.desktop:45
 msgctxt "Comment"
 msgid "for example txt"
 msgstr ""
 
-#: apps/dolphin/src/dolphinsearchcommands.desktop:31
+#: apps/dolphin/src/dolphinsearchcommands.desktop:56
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Rattan"
@@ -110,30 +110,30 @@ msgctxt "Name"
 msgid "Rating"
 msgstr "Rattan"
 
-#: apps/dolphin/src/dolphinsearchcommands.desktop:33
+#: apps/dolphin/src/dolphinsearchcommands.desktop:58
 msgctxt "Comment"
 msgid "1 to 10, for example >=7"
 msgstr ""
 
-#: apps/dolphin/src/dolphinsearchcommands.desktop:34
-#: apps/dolphin/src/dolphinsearchcommands.desktop:53
-#: apps/dolphin/src/dolphinsearchcommands.desktop:59
-#: apps/dolphin/src/dolphinsearchcommands.desktop:66
+#: apps/dolphin/src/dolphinsearchcommands.desktop:64
+#: apps/dolphin/src/dolphinsearchcommands.desktop:103
+#: apps/dolphin/src/dolphinsearchcommands.desktop:124
+#: apps/dolphin/src/dolphinsearchcommands.desktop:141
 msgctxt "GenericName"
 msgid "Use <, <=, :, >= and >."
 msgstr ""
 
-#: apps/dolphin/src/dolphinsearchcommands.desktop:40
+#: apps/dolphin/src/dolphinsearchcommands.desktop:75
 msgctxt "Name"
 msgid "Tag"
 msgstr ""
 
-#: apps/dolphin/src/dolphinsearchcommands.desktop:41
+#: apps/dolphin/src/dolphinsearchcommands.desktop:76
 msgctxt "Comment"
 msgid "Tag"
 msgstr ""
 
-#: apps/dolphin/src/dolphinsearchcommands.desktop:47
+#: apps/dolphin/src/dolphinsearchcommands.desktop:87
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "File"
@@ -141,7 +141,7 @@ msgctxt "Name"
 msgid "Title"
 msgstr "ଫାଇଲ"
 
-#: apps/dolphin/src/dolphinsearchcommands.desktop:51
+#: apps/dolphin/src/dolphinsearchcommands.desktop:91
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "System"
@@ -149,27 +149,27 @@ msgctxt "Name"
 msgid "File size"
 msgstr "ତନ୍ତ୍ର"
 
-#: apps/dolphin/src/dolphinsearchcommands.desktop:52
+#: apps/dolphin/src/dolphinsearchcommands.desktop:97
 msgctxt "Comment"
 msgid "in bytes, for example >1000"
 msgstr ""
 
-#: apps/dolphin/src/dolphinsearchcommands.desktop:57
+#: apps/dolphin/src/dolphinsearchcommands.desktop:112
 msgctxt "Name"
 msgid "Content size"
 msgstr ""
 
-#: apps/dolphin/src/dolphinsearchcommands.desktop:58
+#: apps/dolphin/src/dolphinsearchcommands.desktop:118
 msgctxt "Comment"
 msgid "in bytes"
 msgstr ""
 
-#: apps/dolphin/src/dolphinsearchcommands.desktop:64
+#: apps/dolphin/src/dolphinsearchcommands.desktop:134
 msgctxt "Name"
 msgid "Last modified"
 msgstr ""
 
-#: apps/dolphin/src/dolphinsearchcommands.desktop:65
+#: apps/dolphin/src/dolphinsearchcommands.desktop:135
 msgctxt "Comment"
 msgid "for example >1999-10-10"
 msgstr ""
@@ -3728,7 +3728,7 @@ msgctxt "Comment"
 msgid "An application registered new global shortcuts."
 msgstr ""
 
-#: runtime/kglobalaccel/kglobalaccel.notifyrc:179
+#: runtime/kglobalaccel/kglobalaccel.notifyrc:184
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "KDED Global Shortcuts Server"
@@ -3736,7 +3736,7 @@ msgctxt "Name"
 msgid "Global Shortcut Triggered"
 msgstr "KDED ଜାଗତିକ ସଂକ୍ଷିପ୍ତ ପଥଗୁଡ଼ିକର ସର୍ଭର"
 
-#: runtime/kglobalaccel/kglobalaccel.notifyrc:200
+#: runtime/kglobalaccel/kglobalaccel.notifyrc:205
 msgctxt "Comment"
 msgid "The user triggered a global shortcut"
 msgstr ""
@@ -4745,7 +4745,7 @@ msgctxt "Name"
 msgid "CNRTL/TILF French dictionary"
 msgstr ""
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/dictfr.desktop:6
+#: runtime/kurifilter-plugins/ikws/searchproviders/dictfr.desktop:11
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.dict.cc/?s=\\\\{@}"
@@ -11910,7 +11910,7 @@ msgctxt "Name"
 msgid "Lirc"
 msgstr "Licq"
 
-#: workspace/solid/lirc/solid_lirc.desktop:17
+#: workspace/solid/lirc/solid_lirc.desktop:18
 msgctxt "Comment"
 msgid "Linux Infrared Remote Control"
 msgstr ""
