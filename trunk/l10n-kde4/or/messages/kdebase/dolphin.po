@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-10-20 06:07+0200\n"
+"POT-Creation-Date: 2009-10-21 07:08+0200\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -644,27 +644,27 @@ msgctxt "@label"
 msgid "Change..."
 msgstr "ଟିପ୍ପଣୀ ପରିବର୍ତ୍ତନ କରନ୍ତୁ..."
 
-#: panels/information/metadatawidget.cpp:199
+#: panels/information/metadatawidget.cpp:201
 msgctxt "@label"
 msgid "Type:"
 msgstr "ପ୍ରକାର:"
 
-#: panels/information/metadatawidget.cpp:201
+#: panels/information/metadatawidget.cpp:203
 msgctxt "@label"
 msgid "Modified:"
 msgstr "ପରିବର୍ତ୍ତିତ:"
 
-#: panels/information/metadatawidget.cpp:202
+#: panels/information/metadatawidget.cpp:204
 msgctxt "@label"
 msgid "Owner:"
 msgstr ""
 
-#: panels/information/metadatawidget.cpp:203
+#: panels/information/metadatawidget.cpp:205
 msgctxt "@label"
 msgid "Permissions:"
 msgstr ""
 
-#: panels/information/metadatawidget.cpp:221
+#: panels/information/metadatawidget.cpp:223
 #, fuzzy
 #| msgctxt "@label:textbox"
 #| msgid "Location:"
@@ -672,7 +672,7 @@ msgctxt "@label"
 msgid "Rating:"
 msgstr "ସ୍ଥାନ:"
 
-#: panels/information/metadatawidget.cpp:222
+#: panels/information/metadatawidget.cpp:224
 #, fuzzy
 #| msgctxt "@label"
 #| msgid "Trash"
@@ -680,7 +680,7 @@ msgctxt "@label"
 msgid "Tags:"
 msgstr "ଆବର୍ଜନା ପାତ୍ର"
 
-#: panels/information/metadatawidget.cpp:223
+#: panels/information/metadatawidget.cpp:225
 #, fuzzy
 #| msgctxt "@label"
 #| msgid "Add Comment..."
@@ -688,17 +688,17 @@ msgctxt "@label"
 msgid "Comment:"
 msgstr "ଟିପ୍ପଣୀ ଯୋଗକରନ୍ତୁ..."
 
-#: panels/information/metadatawidget.cpp:583
+#: panels/information/metadatawidget.cpp:596
 msgctxt "@label"
 msgid "Size:"
 msgstr "ଆକାର:"
 
-#: panels/information/metadatawidget.cpp:585
+#: panels/information/metadatawidget.cpp:598
 msgctxt "@label"
 msgid "Folder"
 msgstr "ଫୋଲଡ଼ର"
 
-#: panels/information/metadatawidget.cpp:606
+#: panels/information/metadatawidget.cpp:619
 #, fuzzy
 #| msgctxt "@label"
 #| msgid "Total size:"
@@ -1370,27 +1370,27 @@ msgstr "ସ୍ଥାନ ସୂଚନା ଦର୍ଶାନ୍ତୁ"
 
 #: dolphinmainwindow.cpp:170
 msgctxt "@info:status"
-msgid "Copy operation completed."
+msgid "Successfully copied."
 msgstr ""
 
 #: dolphinmainwindow.cpp:174
 msgctxt "@info:status"
-msgid "Move operation completed."
+msgid "Successfully moved."
 msgstr ""
 
 #: dolphinmainwindow.cpp:178
 msgctxt "@info:status"
-msgid "Link operation completed."
+msgid "Successfully lined."
 msgstr ""
 
 #: dolphinmainwindow.cpp:182
 msgctxt "@info:status"
-msgid "Move to trash operation completed."
+msgid "Successfully moved to trash."
 msgstr ""
 
 #: dolphinmainwindow.cpp:186
 msgctxt "@info:status"
-msgid "Renaming operation completed."
+msgid "Successfully renamed."
 msgstr ""
 
 #: dolphinmainwindow.cpp:191
