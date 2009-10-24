@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ksysguard\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-10-10 06:20+0200\n"
+"POT-Creation-Date: 2009-10-24 06:13+0200\n"
 "PO-Revision-Date: 2009-01-02 11:49+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -578,6 +578,22 @@ msgstr ""
 #, kde-format
 msgid "Error for host %1: %2"
 msgstr ""
+
+#: tests/signalplottertest.cpp:297 tests/signalplottertest.cpp:321
+#, kde-format
+msgctxt "Units"
+msgid "%1 second"
+msgid_plural "%1 seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tests/signalplottertest.cpp:310
+#, kde-format
+msgctxt "Units"
+msgid "%1 minute"
+msgid_plural "%1 minutes"
+msgstr[0] ""
+msgstr[1] ""
 
 #: TimerSettings.cc:38
 msgid "Timer Settings"
@@ -1227,6 +1243,11 @@ msgid ""
 "This is an empty space in a worksheet. Drag a sensor from the Sensor Browser "
 "and drop it here. A sensor display will appear that allows you to monitor "
 "the values of the sensor over time."
+msgstr ""
+
+#: SensorDisplayLib/SignalPlotter.cc:89
+#, kde-format
+msgid "%1"
 msgstr ""
 
 #. i18n: file: ksysguardui.rc:4
