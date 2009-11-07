@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: systemsettings\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-09-10 06:21+0200\n"
+"POT-Creation-Date: 2009-11-07 06:20+0100\n"
 "PO-Revision-Date: 2009-01-02 11:51+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -55,6 +55,13 @@ msgstr ""
 msgid "Internal module representation, internal module model"
 msgstr ""
 
+#: app/ToolTips/tooltipmanager.cpp:209
+#, kde-format
+msgid "<i>Contains 1 item</i>"
+msgid_plural "<i>Contains %1 items</i>"
+msgstr[0] ""
+msgstr[1] ""
+
 #: app/SettingsBase.cpp:56
 msgctxt "Search through a list of control modules"
 msgid "Search"
@@ -101,13 +108,6 @@ msgstr ""
 #, kde-format
 msgid "About %1"
 msgstr ""
-
-#: core/ToolTipManager.cpp:138
-#, kde-format
-msgid "<i>Contains 1 item</i>"
-msgid_plural "<i>Contains %1 items</i>"
-msgstr[0] ""
-msgstr[1] ""
 
 #: core/ExternalAppModule.cpp:31
 #, kde-format

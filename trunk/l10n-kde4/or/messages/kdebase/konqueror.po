@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-11-06 05:49+0100\n"
+"POT-Creation-Date: 2009-11-07 06:19+0100\n"
 "PO-Revision-Date: 2008-12-26 16:53+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -347,7 +347,7 @@ msgstr "ଟ୍ୟାବକୁ ପୃଥକ କରନ୍ତୁ (&e)"
 msgid "&Close Tab"
 msgstr "ଟ୍ୟାବକୁ ବନ୍ଦକରନ୍ତୁ (&C)"
 
-#: src/konqsessionmanager.cpp:321
+#: src/konqsessionmanager.cpp:343
 #, fuzzy
 #| msgid "Konqueror didn't close correctly. Would you like to restore session?"
 msgid ""
@@ -355,19 +355,19 @@ msgid ""
 "session?"
 msgstr "Konqueror ସଠିକ ଭାବରେ ବନ୍ଦ ହୋଇନଥିଲା। ଆପଣ ଅଧିବେଶନକୁ ପୁନଃ ସ୍ଥାପନ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
 
-#: src/konqsessionmanager.cpp:322
+#: src/konqsessionmanager.cpp:345
 msgid "Restore Session?"
 msgstr "ଅଧିବେଶନକୁ ପୁନଃ ସ୍ଥାପନ କରିବେ କି?"
 
-#: src/konqsessionmanager.cpp:323
+#: src/konqsessionmanager.cpp:346
 msgid "Restore Session"
 msgstr "ଅଧିବେଶନକୁ ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ"
 
-#: src/konqsessionmanager.cpp:324
+#: src/konqsessionmanager.cpp:347
 msgid "Do Not Restore"
 msgstr "ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ ନାହିଁ"
 
-#: src/konqsessionmanager.cpp:325
+#: src/konqsessionmanager.cpp:348
 msgid "Ask Me Later"
 msgstr "ପରେ ମତେ ପଚାରନ୍ତୁ"
 
@@ -1068,7 +1068,7 @@ msgstr "'%1' ନାମକ ଅଧିବେଶନ ପୂର୍ବରୁ ଅବସ�
 msgid "Session exists. Overwrite?"
 msgstr "ଅଧିବେଶନ ଅବସ୍ଥିତ ଅଛି। ନବଲିଖନ କରିବେ କି?"
 
-#: src/konqhistorymodel.cpp:137
+#: src/konqhistorymodel.cpp:136
 #, kde-format
 msgid ""
 "<qt><center><b>%1</b></center><hr />Last visited: %2<br />First visited: %"
@@ -1077,7 +1077,7 @@ msgstr ""
 "<qt><center><b>%1</b></center><hr />ଶେଷଥର ପରିଦର୍ଶିତ: %2<br />ପ୍ରଥମଥର ପରିଦର୍ଶିତ: %"
 "3<br />ପରିଦର୍ଶନ କରିଥିବା ସଂଖ୍ୟା: %4</qt>"
 
-#: src/konqhistorymodel.cpp:232
+#: src/konqhistorymodel.cpp:231
 msgid "Miscellaneous"
 msgstr "ମିଶ୍ରିତ"
 
