@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_launcher\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-11-09 05:57+0100\n"
+"POT-Creation-Date: 2009-11-10 06:09+0100\n"
 "PO-Revision-Date: 2009-01-02 11:50+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "\n"
 "\n"
 
-#: ui/flipscrollview.cpp:138 core/applicationmodel.cpp:396
+#: ui/flipscrollview.cpp:138 core/applicationmodel.cpp:422
 msgid "All Applications"
 msgstr ""
 
@@ -189,6 +189,10 @@ msgstr ""
 
 #: core/leavemodel.cpp:139
 msgid "System"
+msgstr ""
+
+#: core/applicationmodel.cpp:332
+msgid "Games"
 msgstr ""
 
 #: core/models.cpp:121
