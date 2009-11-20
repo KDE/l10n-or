@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs.or\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-11-17 05:16+0000\n"
+"POT-Creation-Date: 2009-11-20 05:24+0000\n"
 "PO-Revision-Date: 2008-06-20 13:20+0530\n"
 "Last-Translator: Manoj Kumar Giri <giri.manojkr@gmail.com>\n"
 "Language-Team: Oriya\n"
@@ -88,6 +88,26 @@ msgstr "Autobookmarker"
 msgctxt "Comment"
 msgid "Set bookmarks on lines matching a pattern when documents are loaded"
 msgstr "Set bookmarks on lines matching a pattern when documents are loaded"
+
+#: kate/plugins/autobrace/ktexteditor_autobrace.desktop:18
+msgctxt "Name"
+msgid "AutoBrace"
+msgstr ""
+
+#: kate/plugins/autobrace/ktexteditor_autobrace.desktop:36
+msgctxt "Comment"
+msgid "Insert closing braces on pressing Enter"
+msgstr ""
+
+#: kate/plugins/exporter/ktexteditor_exporter.desktop:18
+msgctxt "Name"
+msgid "Exporter"
+msgstr ""
+
+#: kate/plugins/exporter/ktexteditor_exporter.desktop:20
+msgctxt "Comment"
+msgid "Export highlighted document to HTML"
+msgstr ""
 
 #: kate/plugins/insertfile/ktexteditor_insertfile.desktop:17
 msgctxt "Name"
