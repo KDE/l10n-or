@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-11-19 06:19+0100\n"
+"POT-Creation-Date: 2009-11-23 06:14+0100\n"
 "PO-Revision-Date: 2008-12-26 16:53+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -414,7 +414,7 @@ msgstr ""
 #: src/konqmainwindow.cpp:2405 src/konqmainwindow.cpp:2494
 #: src/konqmainwindow.cpp:2512 src/konqmainwindow.cpp:2532
 #: src/konqmainwindow.cpp:2580 src/konqmainwindow.cpp:2613
-#: src/konqmainwindow.cpp:5064 src/konqviewmanager.cpp:1405
+#: src/konqmainwindow.cpp:5061 src/konqviewmanager.cpp:1405
 msgid "Discard Changes?"
 msgstr "ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ପ୍ରତ୍ୟାଖ୍ଯାନ କରିବେ କି?"
 
@@ -422,7 +422,7 @@ msgstr "ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ପ୍ରତ୍ୟ�
 #: src/konqmainwindow.cpp:2405 src/konqmainwindow.cpp:2494
 #: src/konqmainwindow.cpp:2512 src/konqmainwindow.cpp:2532
 #: src/konqmainwindow.cpp:2580 src/konqmainwindow.cpp:2613
-#: src/konqmainwindow.cpp:5064 src/konqviewmanager.cpp:1405
+#: src/konqmainwindow.cpp:5061 src/konqviewmanager.cpp:1405
 msgid "&Discard Changes"
 msgstr "ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ପ୍ରତ୍ୟାଖ୍ଯାନ କରନ୍ତୁ (&D)"
 
@@ -623,8 +623,10 @@ msgctxt "@action:inmenu Go"
 msgid "Show History"
 msgstr "ପୁରୁଣା ତଥ୍ୟ ପାର୍ଶ୍ୱପଟିକୁ ଦର୍ଶାନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:3616 src/konqmainwindow.cpp:4244
-msgid "&Save View Profile..."
+#: src/konqmainwindow.cpp:3616
+#, fuzzy
+#| msgid "&Save View Profile..."
+msgid "&Save View Profile As..."
 msgstr "ରୂପରେଖ ଦୃଶ୍ୟକୁ ସଂରକ୍ଷଣ କରନ୍ତୁ (&S)..."
 
 #: src/konqmainwindow.cpp:3637
@@ -919,12 +921,7 @@ msgstr "ଫାଇଲଗୁଡ଼ିକୁ ନକଲ କରନ୍ତୁ (&F)..."
 msgid "M&ove Files..."
 msgstr "ଫାଇଲଗୁଡ଼ିକୁ ଗତିକରାନ୍ତୁ (&)..."
 
-#: src/konqmainwindow.cpp:4243
-#, kde-format
-msgid "&Save View Profile \"%1\"..."
-msgstr "ଦୃଶ୍ୟ ରୂପରେଖା \"%1\"କୁ ସଂରକ୍ଷଣ କରନ୍ତୁ (&S)..."
-
-#: src/konqmainwindow.cpp:4451
+#: src/konqmainwindow.cpp:4448
 msgid ""
 "You have requested to open more than 20 bookmarks in tabs. This might take a "
 "while. Continue?"
@@ -932,63 +929,63 @@ msgstr ""
 "ଆପଣ ଟ୍ୟାବରେ 20ରୁ ଅଧିକ ଚିହ୍ନିତ ସ୍ଥାନ ଖୋଲିବା ପାଇଁ ଅନୁରୋଧ କରିଥିଲେ। ଏଥିପାଇଁହୁଏତ କିଛି ସମୟ ଲାଗିପାରେ। "
 "ଆଗକୁ ବଢ଼ିବେ କି?"
 
-#: src/konqmainwindow.cpp:4453
+#: src/konqmainwindow.cpp:4450
 msgid "Open bookmarks folder in new tabs"
 msgstr "ନୂତନ ଟ୍ୟାବଗୁଡ଼ିକରେ ଚିହ୍ନିତ ସ୍ଥାନ ଫୋଲଡ଼ର ଖୋଲନ୍ତୁ "
 
-#: src/konqmainwindow.cpp:4619
+#: src/konqmainwindow.cpp:4616
 msgid "Open in T&his Window"
 msgstr "ଏହି ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ (&h)"
 
-#: src/konqmainwindow.cpp:4620
+#: src/konqmainwindow.cpp:4617
 msgid "Open the document in current window"
 msgstr "ଦଲିଲକୁ ପ୍ରଚଳିତ ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:4626 src/konqhistoryview.cpp:60
+#: src/konqmainwindow.cpp:4623 src/konqhistoryview.cpp:60
 #: sidebar/web_module/web_module.h:54
 msgid "Open in New &Window"
 msgstr "ନୂତନ ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ (&W)"
 
-#: src/konqmainwindow.cpp:4627
+#: src/konqmainwindow.cpp:4624
 msgid "Open the document in a new window"
 msgstr "ଦଲିଲକୁ ଗୋଟିଏ ନୂତନ ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:4633
+#: src/konqmainwindow.cpp:4630
 msgid "Open in &New Tab"
 msgstr "ନୂତନ ଟ୍ୟାବରେ ଖୋଲନ୍ତୁ (&N)"
 
-#: src/konqmainwindow.cpp:4635
+#: src/konqmainwindow.cpp:4632
 msgid "Open the document in a new tab"
 msgstr "ଦଲିଲକୁ ଗୋଟିଏ ନୂତନ ଟ୍ୟାବରେ ଖୋଲନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:4845
+#: src/konqmainwindow.cpp:4842
 msgid "&Open With"
 msgstr "ଏହା ସହିତ ଖୋଲନ୍ତୁ (&O)"
 
-#: src/konqmainwindow.cpp:4859
+#: src/konqmainwindow.cpp:4856
 #, kde-format
 msgid "Open with %1"
 msgstr "%1 ସହିତ ଖୋଲନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:4905
+#: src/konqmainwindow.cpp:4902
 msgctxt "@action:inmenu View"
 msgid "&View Mode"
 msgstr "ଦୃଶ୍ୟ ଅବସ୍ଥା (&V)"
 
-#: src/konqmainwindow.cpp:5024
+#: src/konqmainwindow.cpp:5021
 msgid ""
 "You have multiple tabs open in this window, are you sure you want to quit?"
 msgstr "ଏହି ୱିଣ୍ଡୋରେ ଏକାଧିକ ଟ୍ୟାବ ଖୋଲାଅଛି, ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ବିଦାୟ ନେବାକୁ ଚାହୁଁଛନ୍ତି?"
 
-#: src/konqmainwindow.cpp:5026 src/konqviewmanager.cpp:1387
+#: src/konqmainwindow.cpp:5023 src/konqviewmanager.cpp:1387
 msgid "Confirmation"
 msgstr "ନିଶ୍ଚିତକରଣ"
 
-#: src/konqmainwindow.cpp:5028
+#: src/konqmainwindow.cpp:5025
 msgid "C&lose Current Tab"
 msgstr "ପ୍ରଚଳିତ ଟ୍ୟାବକୁ ଖୋଲନ୍ତୁ (&l)"
 
-#: src/konqmainwindow.cpp:5061
+#: src/konqmainwindow.cpp:5058
 msgid ""
 "This tab contains changes that have not been submitted.\n"
 "Closing the window will discard these changes."
@@ -996,7 +993,7 @@ msgstr ""
 "ଏହି ଟ୍ୟାବରେ ଦାଖଲ ହୋଇନଥିବା ପରିବର୍ତ୍ତନଗୁଡ଼ିକ ସଂରକ୍ଷିତ ଅଛି।\n"
 "ବନ୍ଦ କରିବା ଦ୍ୱାରା ଏହି ପରିବର୍ତ୍ତନଗୁଡ଼ିକ ବାତିଲ ହୋଇଯିବ।"
 
-#: src/konqmainwindow.cpp:5062
+#: src/konqmainwindow.cpp:5059
 msgid ""
 "This page contains changes that have not been submitted.\n"
 "Closing the window will discard these changes."
@@ -1004,34 +1001,34 @@ msgstr ""
 "ଏହି ପୃଷ୍ଠା ଦାଖଲ ହୋଇନଥିବା ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ଧାରଣ କରିଥାଏ\n"
 "ୱିଣ୍ଡୋକୁ ବନ୍ଦ କରିବା ଦ୍ୱାରା ଏହି ପରିବର୍ତ୍ତନଗୁଡ଼ିକ ବାତିଲ ହୋଇଯିବ।"
 
-#: src/konqmainwindow.cpp:5103 src/konqmainwindow.cpp:5163
+#: src/konqmainwindow.cpp:5100 src/konqmainwindow.cpp:5160
 #: src/konqclosedwindowsmanager.cpp:418
 msgid "no name"
 msgstr "କୌଣସି ନାମ ନାହିଁ"
 
-#: src/konqmainwindow.cpp:5230
+#: src/konqmainwindow.cpp:5227
 msgid ""
 "Your sidebar is not functional or unavailable. A new entry cannot be added."
 msgstr "ଆପଣଙ୍କର ପାର୍ଶ୍ୱପଟି କାମ କରୁନାହିଁ କିମ୍ୱା ଉପଲବ୍ଧ ନାହିଁ। ନୂତନ ଭରଣ ଯୋଗକରାଯାଇ ପାରିବ ନାହିଁ।"
 
-#: src/konqmainwindow.cpp:5230 src/konqmainwindow.cpp:5237
+#: src/konqmainwindow.cpp:5227 src/konqmainwindow.cpp:5234
 msgid "Web Sidebar"
 msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି"
 
-#: src/konqmainwindow.cpp:5235
+#: src/konqmainwindow.cpp:5232
 #, kde-format
 msgid "Add new web extension \"%1\" to your sidebar?"
 msgstr "ଆପଣଙ୍କ ପାର୍ଶ୍ୱପଟିରେ ନୂତନ ୱେବ ଅନୁଲଗ୍ନ ଯୋଗକରିବେ କି \"%1\"?"
 
-#: src/konqmainwindow.cpp:5237
+#: src/konqmainwindow.cpp:5234
 msgid "Add"
 msgstr "ଯୋଗ କରନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:5237
+#: src/konqmainwindow.cpp:5234
 msgid "Do Not Add"
 msgstr "ଯୋଗ କରନ୍ତୁ ନାହିଁ"
 
-#: src/konqmainwindow.cpp:5534
+#: src/konqmainwindow.cpp:5531
 #, kde-format
 msgid ""
 "There appears to be a configuration error. You have associated Konqueror "
@@ -1705,7 +1702,8 @@ msgid ""
 "<em>Tuning Tip:</em> If you want the Konqueror web browser to start faster, "
 "you can turn off this information screen by clicking <a href=\"%1\">here</"
 "a>. You can re-enable it by choosing the Help -> Konqueror Introduction menu "
-"option, and then pressing Settings -> Save View Profile \"Web Browsing\"."
+"option, and then pressing Settings -> Save View Profile As... -> \"Web "
+"Browsing\"."
 msgstr ""
 
 #: about/konq_aboutpage.cc:164
@@ -2398,6 +2396,9 @@ msgid ""
 "If true, when opening a session from within the sessions dialog the tabs "
 "will be opened inside current window."
 msgstr ""
+
+#~ msgid "&Save View Profile \"%1\"..."
+#~ msgstr "ଦୃଶ୍ୟ ରୂପରେଖା \"%1\"କୁ ସଂରକ୍ଷଣ କରନ୍ତୁ (&S)..."
 
 #~ msgid "Configure Navigation Panel"
 #~ msgstr "ପଥପ୍ରଦର୍ଶନ ପ୍ୟାନେଲରେ ସଂରଚନା କରନ୍ତୁ"
