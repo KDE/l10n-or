@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-12-03 06:09+0100\n"
+"POT-Creation-Date: 2009-12-04 06:02+0100\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -2622,2435 +2622,6 @@ msgstr ""
 msgid "DBus Backend error: received corrupt data from helper %1 %2"
 msgstr ""
 
-#: kdecore/date/kcalendarsystemjulian.cpp:206
-#: kdecore/date/kcalendarsystemgregorian.cpp:200
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:239
-msgctxt "of January"
-msgid "of Jan"
-msgstr "of Jan"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:208
-#: kdecore/date/kcalendarsystemgregorian.cpp:202
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:241
-msgctxt "of February"
-msgid "of Feb"
-msgstr "of Feb"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:210
-#: kdecore/date/kcalendarsystemgregorian.cpp:204
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:243
-msgctxt "of March"
-msgid "of Mar"
-msgstr "of Mar"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:212
-#: kdecore/date/kcalendarsystemgregorian.cpp:206
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:245
-msgctxt "of April"
-msgid "of Apr"
-msgstr "of Apr"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:214
-#: kdecore/date/kcalendarsystemgregorian.cpp:208
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:247
-msgctxt "of May short"
-msgid "of May"
-msgstr "of May"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:216
-#: kdecore/date/kcalendarsystemgregorian.cpp:210
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:249
-msgctxt "of June"
-msgid "of Jun"
-msgstr "of Jun"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:218
-#: kdecore/date/kcalendarsystemgregorian.cpp:212
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:251
-msgctxt "of July"
-msgid "of Jul"
-msgstr "of Jul"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:220
-#: kdecore/date/kcalendarsystemgregorian.cpp:214
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:253
-msgctxt "of August"
-msgid "of Aug"
-msgstr "of Aug"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:222
-#: kdecore/date/kcalendarsystemgregorian.cpp:216
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:255
-msgctxt "of September"
-msgid "of Sep"
-msgstr "of Sep"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:224
-#: kdecore/date/kcalendarsystemgregorian.cpp:218
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:257
-msgctxt "of October"
-msgid "of Oct"
-msgstr "of Oct"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:226
-#: kdecore/date/kcalendarsystemgregorian.cpp:220
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:259
-msgctxt "of November"
-msgid "of Nov"
-msgstr "of Nov"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:228
-#: kdecore/date/kcalendarsystemgregorian.cpp:222
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:261
-msgctxt "of December"
-msgid "of Dec"
-msgstr "of Dec"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:237
-#: kdecore/date/kcalendarsystemgregorian.cpp:231
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:270
-msgid "of January"
-msgstr "ଜାନୁଆରୀ ର"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:239
-#: kdecore/date/kcalendarsystemgregorian.cpp:233
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:272
-msgid "of February"
-msgstr "ଫେବ୍ରୁୟାରୀ ର"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:241
-#: kdecore/date/kcalendarsystemgregorian.cpp:235
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:274
-msgid "of March"
-msgstr "ମାର୍ଚ୍ଚ ର"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:243
-#: kdecore/date/kcalendarsystemgregorian.cpp:237
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:276
-msgid "of April"
-msgstr "ଅପ୍ରେଲ ର"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:245
-#: kdecore/date/kcalendarsystemgregorian.cpp:239
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:278
-msgctxt "of May long"
-msgid "of May"
-msgstr "ମଇ ର"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:247
-#: kdecore/date/kcalendarsystemgregorian.cpp:241
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:280
-msgid "of June"
-msgstr "ଜୁନ ର"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:249
-#: kdecore/date/kcalendarsystemgregorian.cpp:243
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:282
-msgid "of July"
-msgstr "ଜୁଲାଇ ର"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:251
-#: kdecore/date/kcalendarsystemgregorian.cpp:245
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:284
-msgid "of August"
-msgstr "ଅଗଷ୍ଟ ର"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:253
-#: kdecore/date/kcalendarsystemgregorian.cpp:247
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:286
-msgid "of September"
-msgstr "ସେପ୍ଟେମ୍ୱର ର"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:255
-#: kdecore/date/kcalendarsystemgregorian.cpp:249
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:288
-msgid "of October"
-msgstr "ଅକ୍ଟୋବର ର"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:257
-#: kdecore/date/kcalendarsystemgregorian.cpp:251
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:290
-msgid "of November"
-msgstr "ନଭେମ୍ୱର ର"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:259
-#: kdecore/date/kcalendarsystemgregorian.cpp:253
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:292
-msgid "of December"
-msgstr "ଡିସେମ୍ୱର ର"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:268
-#: kdecore/date/kcalendarsystemgregorian.cpp:262
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:301
-msgctxt "January"
-msgid "Jan"
-msgstr "Jan"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:270
-#: kdecore/date/kcalendarsystemgregorian.cpp:264
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:303
-msgctxt "February"
-msgid "Feb"
-msgstr "Feb"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:272
-#: kdecore/date/kcalendarsystemgregorian.cpp:266
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:305
-msgctxt "March"
-msgid "Mar"
-msgstr "Mar"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:274
-#: kdecore/date/kcalendarsystemgregorian.cpp:268
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:307
-msgctxt "April"
-msgid "Apr"
-msgstr "Apr"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:276
-#: kdecore/date/kcalendarsystemgregorian.cpp:270
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:309
-msgctxt "May short"
-msgid "May"
-msgstr "May"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:278
-#: kdecore/date/kcalendarsystemgregorian.cpp:272
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:311
-msgctxt "June"
-msgid "Jun"
-msgstr "Jun"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:280
-#: kdecore/date/kcalendarsystemgregorian.cpp:274
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:313
-msgctxt "July"
-msgid "Jul"
-msgstr "Jul"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:282
-#: kdecore/date/kcalendarsystemgregorian.cpp:276
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:315
-msgctxt "August"
-msgid "Aug"
-msgstr "Aug"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:284
-#: kdecore/date/kcalendarsystemgregorian.cpp:278
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:317
-msgctxt "September"
-msgid "Sep"
-msgstr "Sep"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:286
-#: kdecore/date/kcalendarsystemgregorian.cpp:280
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:319
-msgctxt "October"
-msgid "Oct"
-msgstr "Oct"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:288
-#: kdecore/date/kcalendarsystemgregorian.cpp:282
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:321
-msgctxt "November"
-msgid "Nov"
-msgstr "Nov"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:290
-#: kdecore/date/kcalendarsystemgregorian.cpp:284
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:323
-msgctxt "December"
-msgid "Dec"
-msgstr "Dec"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:299
-#: kdecore/date/kcalendarsystemgregorian.cpp:293
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:332
-msgid "January"
-msgstr "ଜାନୁଆରୀ"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:301
-#: kdecore/date/kcalendarsystemgregorian.cpp:295
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:334
-msgid "February"
-msgstr "ଫେବ୍ରୁଆରୀ"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:303
-#: kdecore/date/kcalendarsystemgregorian.cpp:297
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:336
-msgctxt "March long"
-msgid "March"
-msgstr "ମାର୍ଚ୍ଚ"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:305
-#: kdecore/date/kcalendarsystemgregorian.cpp:299
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:338
-msgid "April"
-msgstr "ଅପ୍ରେଲ"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:307
-#: kdecore/date/kcalendarsystemgregorian.cpp:301
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:340
-msgctxt "May long"
-msgid "May"
-msgstr "ମଇ"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:309
-#: kdecore/date/kcalendarsystemgregorian.cpp:303
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:342
-msgid "June"
-msgstr "ଜୁନ"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:311
-#: kdecore/date/kcalendarsystemgregorian.cpp:305
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:344
-msgid "July"
-msgstr "ଜୁଲାଇ"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:313
-#: kdecore/date/kcalendarsystemgregorian.cpp:307
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:346
-msgctxt "August long"
-msgid "August"
-msgstr "ଅଗଷ୍ଟ"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:315
-#: kdecore/date/kcalendarsystemgregorian.cpp:309
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:348
-msgid "September"
-msgstr "ସେପ୍ଟେମ୍ବର"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:317
-#: kdecore/date/kcalendarsystemgregorian.cpp:311
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:350
-msgid "October"
-msgstr "ଅକ୍ଟୋବର"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:319
-#: kdecore/date/kcalendarsystemgregorian.cpp:313
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:352
-msgid "November"
-msgstr "ନଭେମ୍ବର"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:321
-#: kdecore/date/kcalendarsystemgregorian.cpp:315
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:354
-msgid "December"
-msgstr "ଡିସେମ୍ବର"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:337
-#: kdecore/date/kcalendarsystemgregorian.cpp:331
-#: kdecore/date/kcalendarsystemhebrew.cpp:838
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:370
-msgctxt "Monday"
-msgid "Mon"
-msgstr "ସୋମ"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:338
-#: kdecore/date/kcalendarsystemgregorian.cpp:332
-#: kdecore/date/kcalendarsystemhebrew.cpp:839
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:371
-msgctxt "Tuesday"
-msgid "Tue"
-msgstr "ମଙ୍ଗଳ"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:339
-#: kdecore/date/kcalendarsystemgregorian.cpp:333
-#: kdecore/date/kcalendarsystemhebrew.cpp:840
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:372
-msgctxt "Wednesday"
-msgid "Wed"
-msgstr "ବୁଧ"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:340
-#: kdecore/date/kcalendarsystemgregorian.cpp:334
-#: kdecore/date/kcalendarsystemhebrew.cpp:841
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:373
-msgctxt "Thursday"
-msgid "Thu"
-msgstr "ଗୁରୁ"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:341
-#: kdecore/date/kcalendarsystemgregorian.cpp:335
-#: kdecore/date/kcalendarsystemhebrew.cpp:842
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:374
-msgctxt "Friday"
-msgid "Fri"
-msgstr "ଶୁକ୍ର"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:342
-#: kdecore/date/kcalendarsystemgregorian.cpp:336
-#: kdecore/date/kcalendarsystemhebrew.cpp:843
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:375
-msgctxt "Saturday"
-msgid "Sat"
-msgstr "ଶନି"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:343
-#: kdecore/date/kcalendarsystemgregorian.cpp:337
-#: kdecore/date/kcalendarsystemhebrew.cpp:844
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:376
-msgctxt "Sunday"
-msgid "Sun"
-msgstr "ରବି"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:349
-#: kdecore/date/kcalendarsystemgregorian.cpp:343
-#: kdecore/date/kcalendarsystemhebrew.cpp:850
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:382
-msgid "Monday"
-msgstr "ସୋମବାର"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:350
-#: kdecore/date/kcalendarsystemgregorian.cpp:344
-#: kdecore/date/kcalendarsystemhebrew.cpp:851
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:383
-msgid "Tuesday"
-msgstr "ମଙ୍ଗଳବାର"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:351
-#: kdecore/date/kcalendarsystemgregorian.cpp:345
-#: kdecore/date/kcalendarsystemhebrew.cpp:852
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:384
-msgid "Wednesday"
-msgstr "ବୁଧବାର"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:352
-#: kdecore/date/kcalendarsystemgregorian.cpp:346
-#: kdecore/date/kcalendarsystemhebrew.cpp:853
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:385
-msgid "Thursday"
-msgstr "ଗୁରୁବାର"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:353
-#: kdecore/date/kcalendarsystemgregorian.cpp:347
-#: kdecore/date/kcalendarsystemhebrew.cpp:854
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:386
-msgid "Friday"
-msgstr "ଶୁକ୍ରବାର"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:354
-#: kdecore/date/kcalendarsystemgregorian.cpp:348
-#: kdecore/date/kcalendarsystemhebrew.cpp:855
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:387
-msgid "Saturday"
-msgstr "ଶନିବାର"
-
-#: kdecore/date/kcalendarsystemjulian.cpp:355
-#: kdecore/date/kcalendarsystemgregorian.cpp:349
-#: kdecore/date/kcalendarsystemhebrew.cpp:856
-#: kdecore/date/kcalendarsystemgregorianproleptic.cpp:388
-msgid "Sunday"
-msgstr "ରବିବାର"
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:248
-#, fuzzy
-#| msgctxt "of Shahrivar short"
-#| msgid "of Sha"
-msgctxt "Indian National month 1 - ShortNamePossessive"
-msgid "of Cha"
-msgstr "ଶା ର"
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:250
-#, fuzzy
-#| msgctxt "of Farvardin short"
-#| msgid "of Far"
-msgctxt "Indian National month 2 - ShortNamePossessive"
-msgid "of Vai"
-msgstr "ଫାର ର"
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:252
-#, fuzzy
-#| msgctxt "of January"
-#| msgid "of Jan"
-msgctxt "Indian National month 3 - ShortNamePossessive"
-msgid "of Jya"
-msgstr "of Jan"
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:254
-#, fuzzy
-#| msgctxt "of Khordad short"
-#| msgid "of Kho"
-msgctxt "Indian National month 4 - ShortNamePossessive"
-msgid "of Āsh"
-msgstr "ଖୋ ର"
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:256
-#, fuzzy
-#| msgctxt "of Shahrivar short"
-#| msgid "of Sha"
-msgctxt "Indian National month 5 - ShortNamePossessive"
-msgid "of Shr"
-msgstr "ଶା ର"
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:258
-#, fuzzy
-#| msgctxt "of Bahman short"
-#| msgid "of Bah"
-msgctxt "Indian National month 6 - ShortNamePossessive"
-msgid "of Bhā"
-msgstr "ବାହ୍ ର"
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:260
-#, fuzzy
-#| msgctxt "of Esfand short"
-#| msgid "of Esf"
-msgctxt "Indian National month 7 - ShortNamePossessive"
-msgid "of Āsw"
-msgstr "ଏସ୍ଫ୍ ର"
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:262
-#, fuzzy
-#| msgctxt "of Farvardin short"
-#| msgid "of Far"
-msgctxt "Indian National month 8 - ShortNamePossessive"
-msgid "of Kār"
-msgstr "ଫାର ର"
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:264
-#, fuzzy
-#| msgctxt "of April"
-#| msgid "of Apr"
-msgctxt "Indian National month 9 - ShortNamePossessive"
-msgid "of Agr"
-msgstr "of Apr"
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:266
-#, fuzzy
-#| msgid "of Tamuz"
-msgctxt "Indian National month 10 - ShortNamePossessive"
-msgid "of Pau"
-msgstr "ତାମୁଜ ର"
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:268
-#, fuzzy
-#| msgctxt "of Mordad short"
-#| msgid "of Mor"
-msgctxt "Indian National month 11 - ShortNamePossessive"
-msgid "of Māg"
-msgstr "ମୋର ର"
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:270
-#, fuzzy
-#| msgctxt "of Khordad short"
-#| msgid "of Kho"
-msgctxt "Indian National month 12 - ShortNamePossessive"
-msgid "of Phā"
-msgstr "ଖୋ ର"
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:279
-#, fuzzy
-#| msgid "of Muharram"
-msgctxt "Indian National month 1 - LongNamePossessive"
-msgid "of Chaitra"
-msgstr "ମୁହରମର"
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:281
-msgctxt "Indian National month 2 - LongNamePossessive"
-msgid "of Vaishākh"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:283
-#, fuzzy
-#| msgid "of Nisan"
-msgctxt "Indian National month 3 - LongNamePossessive"
-msgid "of Jyaishtha"
-msgstr "ନିସାନ ର"
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:285
-msgctxt "Indian National month 4 - LongNamePossessive"
-msgid "of Āshādha"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:287
-#, fuzzy
-#| msgid "of Shvat"
-msgctxt "Indian National month 5 - LongNamePossessive"
-msgid "of Shrāvana"
-msgstr "ଶ୍ୱାତ ର"
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:289
-#, fuzzy
-#| msgid "of Khordad"
-msgctxt "Indian National month 6 - LongNamePossessive"
-msgid "of Bhādrapad"
-msgstr "ଖର୍ଡାଡ ର"
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:291
-#, fuzzy
-#| msgid "of Heshvan"
-msgctxt "Indian National month 7 - LongNamePossessive"
-msgid "of Āshwin"
-msgstr "ହେଶୱାନ ର"
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:293
-msgctxt "Indian National month 8 - LongNamePossessive"
-msgid "of Kārtik"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:295
-#, fuzzy
-#| msgid "of Bahman"
-msgctxt "Indian National month 9 - LongNamePossessive"
-msgid "of Agrahayana"
-msgstr "ବାହମାନ ର"
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:297
-#, fuzzy
-#| msgctxt "of Bahman short"
-#| msgid "of Bah"
-msgctxt "Indian National month 10 - LongNamePossessive"
-msgid "of Paush"
-msgstr "ବାହ୍ ର"
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:299
-#, fuzzy
-#| msgctxt "of Mehr short"
-#| msgid "of Meh"
-msgctxt "Indian National month 11 - LongNamePossessive"
-msgid "of Māgh"
-msgstr "ମେହ୍ ର"
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:301
-msgctxt "Indian National month 12 - LongNamePossessive"
-msgid "of Phālgun"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:310
-#, fuzzy
-#| msgid "Kha"
-msgctxt "Indian National month 1 - ShortName"
-msgid "Cha"
-msgstr "ଖା"
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:312
-msgctxt "Indian National month 2 - ShortName"
-msgid "Vai"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:314
-#, fuzzy
-#| msgctxt "January"
-#| msgid "Jan"
-msgctxt "Indian National month 3 - ShortName"
-msgid "Jya"
-msgstr "Jan"
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:316
-msgctxt "Indian National month 4 - ShortName"
-msgid "Āsh"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:318
-#, fuzzy
-#| msgctxt "Shahrivar short"
-#| msgid "Sha"
-msgctxt "Indian National month 5 - ShortName"
-msgid "Shr"
-msgstr "ଶା"
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:320
-msgctxt "Indian National month 6 - ShortName"
-msgid "Bhā"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:322
-msgctxt "Indian National month 7 - ShortName"
-msgid "Āsw"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:324
-msgctxt "Indian National month 8 - ShortName"
-msgid "Kār"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:326
-#, fuzzy
-#| msgid "Arb"
-msgctxt "Indian National month 9 - ShortName"
-msgid "Agr"
-msgstr "ଆରବ"
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:328
-#, fuzzy
-#| msgid "Pause"
-msgctxt "Indian National month 10 - ShortName"
-msgid "Pau"
-msgstr "ବିରତି"
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:330
-msgctxt "Indian National month 11 - ShortName"
-msgid "Māg"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:332
-msgctxt "Indian National month 12 - ShortName"
-msgid "Phā"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:341
-msgctxt "Indian National month 1 - LongName"
-msgid "Chaitra"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:343
-msgctxt "Indian National month 2 - LongName"
-msgid "Vaishākh"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:345
-msgctxt "Indian National month 3 - LongName"
-msgid "Jyaishtha"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:347
-msgctxt "Indian National month 4 - LongName"
-msgid "Āshādha"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:349
-msgctxt "Indian National month 5 - LongName"
-msgid "Shrāvana"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:351
-msgctxt "Indian National month 6 - LongName"
-msgid "Bhādrapad"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:353
-msgctxt "Indian National month 7 - LongName"
-msgid "Āshwin"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:355
-msgctxt "Indian National month 8 - LongName"
-msgid "Kārtik"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:357
-#, fuzzy
-#| msgctxt "KCharselect unicode block name"
-#| msgid "Thaana"
-msgctxt "Indian National month 9 - LongName"
-msgid "Agrahayana"
-msgstr "ଥାନା"
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:359
-#, fuzzy
-#| msgid "Pause"
-msgctxt "Indian National month 10 - LongName"
-msgid "Paush"
-msgstr "ବିରତି"
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:361
-msgctxt "Indian National month 11 - LongName"
-msgid "Māgh"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:363
-msgctxt "Indian National month 12 - LongName"
-msgid "Phālgun"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:378
-#, fuzzy
-#| msgctxt "Jumee short"
-#| msgid "Jom"
-msgctxt "Indian National weekday 1 - ShortDayName"
-msgid "Som"
-msgstr "ଜମ"
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:379
-msgctxt "Indian National weekday 2 - ShortDayName"
-msgid "Mañ"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:380
-#, fuzzy
-#| msgctxt "KCharselect unicode block name"
-#| msgid "Buhid"
-msgctxt "Indian National weekday 3 - ShortDayName"
-msgid "Bud"
-msgstr "ବୁହିଦ"
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:381
-msgctxt "Indian National weekday 4 - ShortDayName"
-msgid "Gur"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:382
-#, fuzzy
-#| msgctxt "Sunday"
-#| msgid "Sun"
-msgctxt "Indian National weekday 5 - ShortDayName"
-msgid "Suk"
-msgstr "ରବି"
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:383
-#, fuzzy
-#| msgid "Sivan"
-msgctxt "Indian National weekday 6 - ShortDayName"
-msgid "San"
-msgstr "ସିୱାନ"
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:384
-msgctxt "Indian National weekday 7 - ShortDayName"
-msgid "Rav"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:390
-msgctxt "Indian National weekday 1 - LongDayName"
-msgid "Somavãra"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:391
-msgctxt "Indian National weekday 2 - LongDayName"
-msgid "Mañgalvã"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:392
-msgctxt "Indian National weekday 3 - LongDayName"
-msgid "Budhavãra"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:393
-msgctxt "Indian National weekday 4 - LongDayName"
-msgid "Guruvãra"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:394
-msgctxt "Indian National weekday 5 - LongDayName"
-msgid "Sukravãra"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:395
-msgctxt "Indian National weekday 6 - LongDayName"
-msgid "Sanivãra"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemindiannational.cpp:396
-msgctxt "Indian National weekday 7 - LongDayName"
-msgid "Raviãra"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemhijri.cpp:543
-#: kdecore/date/kcalendarsystemhijri.cpp:574
-msgid "of Muharram"
-msgstr "ମୁହରମର"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:545
-#: kdecore/date/kcalendarsystemhijri.cpp:576
-msgid "of Safar"
-msgstr "ସଫରର"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:547
-msgid "of R. Awal"
-msgstr "ଆର. ଆୱାଲର"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:549
-msgid "of R. Thaani"
-msgstr "ଆର. ଥାନିର"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:551
-msgid "of J. Awal"
-msgstr "ଜେ. ଆୱାଲର"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:553
-msgid "of J. Thaani"
-msgstr "ଜେ. ଥାନିର"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:555
-#: kdecore/date/kcalendarsystemhijri.cpp:586
-msgid "of Rajab"
-msgstr "ରଜବର"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:557
-#: kdecore/date/kcalendarsystemhijri.cpp:588
-msgid "of Sha`ban"
-msgstr "ଶା`ବାନର"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:559
-#: kdecore/date/kcalendarsystemhijri.cpp:590
-msgid "of Ramadan"
-msgstr "ରାମାଦାନର"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:561
-#: kdecore/date/kcalendarsystemhijri.cpp:592
-msgid "of Shawwal"
-msgstr "ଶାୱାଲର"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:563
-msgid "of Qi`dah"
-msgstr "କ୍ୱି`ଦାହ୍ ର"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:565
-msgid "of Hijjah"
-msgstr "ହିଜ୍ଜାର"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:578
-msgid "of Rabi` al-Awal"
-msgstr "ରାବି` ଆଲ-ଆୱାଲର"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:580
-msgid "of Rabi` al-Thaani"
-msgstr "ରାବି` ଆଲ-ଥାନିର"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:582
-msgid "of Jumaada al-Awal"
-msgstr "ଜୁମ୍ମାଦା ଆଲ-ଆୱାଲର"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:584
-msgid "of Jumaada al-Thaani"
-msgstr "ଜୁମ୍ମାଦା ଆଲ-ଥାନିର"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:594
-msgid "of Thu al-Qi`dah"
-msgstr "ଥୁ ଆଲ-କାଇ`ଦାହ୍ ର"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:596
-msgid "of Thu al-Hijjah"
-msgstr "ଥୁ ଆଲ-ହିଜ୍ଜାହ୍ ର"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:605
-#: kdecore/date/kcalendarsystemhijri.cpp:636
-msgid "Muharram"
-msgstr "ମୁହରମ"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:607
-#: kdecore/date/kcalendarsystemhijri.cpp:638
-msgid "Safar"
-msgstr "ସଫର"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:609
-msgid "R. Awal"
-msgstr "ଆର. ଆୱାଲ"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:611
-msgid "R. Thaani"
-msgstr "ଆର. ଥାନି"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:613
-msgid "J. Awal"
-msgstr "ଜେ. ଆୱାଲ"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:615
-msgid "J. Thaani"
-msgstr "ଜେ. ଥାନି"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:617
-#: kdecore/date/kcalendarsystemhijri.cpp:648
-msgid "Rajab"
-msgstr "ରଜବ"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:619
-#: kdecore/date/kcalendarsystemhijri.cpp:650
-msgid "Sha`ban"
-msgstr "ଶା`ବାନ"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:621
-#: kdecore/date/kcalendarsystemhijri.cpp:652
-msgid "Ramadan"
-msgstr "ରାମାଦାନ"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:623
-#: kdecore/date/kcalendarsystemhijri.cpp:654
-msgid "Shawwal"
-msgstr "ଶାୱାଲ"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:625
-msgid "Qi`dah"
-msgstr "କାଇ`ଦାହ"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:627
-msgid "Hijjah"
-msgstr "ହିଜ୍ଜାହ୍"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:640
-msgid "Rabi` al-Awal"
-msgstr "ରାବି` ଆଲ-ଆୱାଲ"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:642
-msgid "Rabi` al-Thaani"
-msgstr "ରାବି` ଆଲ-ଥାନି"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:644
-msgid "Jumaada al-Awal"
-msgstr "ଜୁମାଦା ଆଲ-ଆୱାଲ"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:646
-msgid "Jumaada al-Thaani"
-msgstr "ଜୁମାଦା ଆଲ-ଥାନି"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:656
-msgid "Thu al-Qi`dah"
-msgstr "ଥୁ ଆଲ-କାଇ`ଦାହ"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:658
-msgid "Thu al-Hijjah"
-msgstr "ଥୁ ଆଲ-ହିଜ୍ଜାହ"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:674
-msgid "Ith"
-msgstr "ଇଥ"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:676
-msgid "Thl"
-msgstr "Thl"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:678
-msgid "Arb"
-msgstr "ଆରବ"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:680
-msgid "Kha"
-msgstr "ଖା"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:682
-msgid "Jum"
-msgstr "ଜୁମ"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:684
-msgid "Sab"
-msgstr "ସବ"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:686
-msgid "Ahd"
-msgstr "Ahd"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:695
-msgid "Yaum al-Ithnain"
-msgstr "Yaum al-Ithnain"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:697
-msgid "Yau al-Thulatha"
-msgstr "Yau al-Thulatha"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:699
-msgid "Yaum al-Arbi'a"
-msgstr "Yaum al-Arbi'a"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:701
-msgid "Yaum al-Khamees"
-msgstr "Yaum al-Khamees"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:703
-msgid "Yaum al-Jumma"
-msgstr "Yaum al-Jumma"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:705
-msgid "Yaum al-Sabt"
-msgstr "Yaum al-Sabt"
-
-#: kdecore/date/kcalendarsystemhijri.cpp:707
-msgid "Yaum al-Ahad"
-msgstr "Yaum al-Ahad"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:536
-msgctxt "of Farvardin short"
-msgid "of Far"
-msgstr "ଫାର ର"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:538
-msgctxt "of Ordibehesht short"
-msgid "of Ord"
-msgstr "ଅର୍ଡ ର"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:540
-msgctxt "of Khordad short"
-msgid "of Kho"
-msgstr "ଖୋ ର"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:542
-msgctxt "of Tir short"
-msgid "of Tir"
-msgstr "ତିର ର"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:544
-msgctxt "of Mordad short"
-msgid "of Mor"
-msgstr "ମୋର ର"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:546
-msgctxt "of Shahrivar short"
-msgid "of Sha"
-msgstr "ଶା ର"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:548
-msgctxt "of Mehr short"
-msgid "of Meh"
-msgstr "ମେହ୍ ର"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:550
-msgctxt "of Aban short"
-msgid "of Aba"
-msgstr "ଆବା ର"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:552
-msgctxt "of Azar short"
-msgid "of Aza"
-msgstr "ଆଜା ର"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:554
-msgctxt "of Dei short"
-msgid "of Dei"
-msgstr "ଦେଇ ର"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:556
-msgctxt "of Bahman short"
-msgid "of Bah"
-msgstr "ବାହ୍ ର"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:558
-msgctxt "of Esfand short"
-msgid "of Esf"
-msgstr "ଏସ୍ଫ୍ ର"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:567
-msgctxt "Farvardin short"
-msgid "Far"
-msgstr "ଫାର "
-
-#: kdecore/date/kcalendarsystemjalali.cpp:569
-msgctxt "Ordibehesht short"
-msgid "Ord"
-msgstr "ଅର୍ଡ"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:571
-msgctxt "Khordad short"
-msgid "Kho"
-msgstr "ଖୋ"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:573
-msgctxt "Tir short"
-msgid "Tir"
-msgstr "ତିର"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:575
-msgctxt "Mordad short"
-msgid "Mor"
-msgstr "ମୋର"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:577
-msgctxt "Shahrivar short"
-msgid "Sha"
-msgstr "ଶା"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:579
-msgctxt "Mehr short"
-msgid "Meh"
-msgstr "ମେହ୍"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:581
-msgctxt "Aban short"
-msgid "Aba"
-msgstr "ଆବା"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:583
-msgctxt "Azar short"
-msgid "Aza"
-msgstr "ଆଜା"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:585
-msgctxt "Dei short"
-msgid "Dei"
-msgstr "ଦେଇ"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:587
-msgctxt "Bahman short"
-msgid "Bah"
-msgstr "ବାହ୍"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:589
-msgctxt "Esfand"
-msgid "Esf"
-msgstr "ଏସଫ"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:598
-msgid "of Farvardin"
-msgstr "ଫାରଭାଦିନ ର"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:600
-msgid "of Ordibehesht"
-msgstr "ଓର୍ଡିବେହେଷ୍ଟ ର"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:602
-msgid "of Khordad"
-msgstr "ଖର୍ଡାଡ ର"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:604
-msgctxt "of Tir long"
-msgid "of Tir"
-msgstr "ତିର ର"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:606
-msgid "of Mordad"
-msgstr "ମରଦାଦ ର"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:608
-msgid "of Shahrivar"
-msgstr "ଶାହରିଭାର ର"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:610
-msgid "of Mehr"
-msgstr "ମେହର ର"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:612
-msgid "of Aban"
-msgstr "ଆବାନ ର"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:614
-msgid "of Azar"
-msgstr "ଆଜାର ର"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:616
-msgctxt "of Dei long"
-msgid "of Dei"
-msgstr "ଦେଇ ର"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:618
-msgid "of Bahman"
-msgstr "ବାହମାନ ର"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:620
-msgid "of Esfand"
-msgstr "ଏସଫାଣ୍ଡ ର"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:629
-msgid "Farvardin"
-msgstr "ଫାରଭାଦିନ"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:631
-msgid "Ordibehesht"
-msgstr "ଓର୍ଡିବେହେଷ୍ଟ"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:633
-msgid "Khordad"
-msgstr "ଖୋରଦାଦ"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:635
-msgctxt "Tir long"
-msgid "Tir"
-msgstr "ତିର"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:637
-msgid "Mordad"
-msgstr "ମୋରଦାଦ"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:639
-msgid "Shahrivar"
-msgstr "ଶାହରିଭାର"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:641
-msgid "Mehr"
-msgstr "ମେହର"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:643
-msgid "Aban"
-msgstr "ଆବାନ"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:645
-msgid "Azar"
-msgstr "ଆଜାର"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:647
-msgctxt "Dei long"
-msgid "Dei"
-msgstr "ଦେଇ"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:649
-msgid "Bahman"
-msgstr "ବାହମାନ"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:651
-msgid "Esfand"
-msgstr "ଏସଫାଣ୍ଡ"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:667
-msgctxt "Do shanbe short"
-msgid "2sh"
-msgstr "2sh"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:669
-msgctxt "Se shanbe short"
-msgid "3sh"
-msgstr "3sh"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:671
-msgctxt "Chahar shanbe short"
-msgid "4sh"
-msgstr "4sh"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:673
-msgctxt "Panj shanbe short"
-msgid "5sh"
-msgstr "5sh"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:675
-msgctxt "Jumee short"
-msgid "Jom"
-msgstr "ଜମ"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:677
-msgctxt "Shanbe short"
-msgid "shn"
-msgstr "shn"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:679
-msgctxt "Yek-shanbe short"
-msgid "1sh"
-msgstr "1sh"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:688
-msgid "Do shanbe"
-msgstr "ଦୋ ଶାନୱେ"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:690
-msgid "Se shanbe"
-msgstr "ସେ ଶାନୱେ"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:692
-msgid "Chahar shanbe"
-msgstr "କହର ଶାନୱେ"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:694
-msgid "Panj shanbe"
-msgstr "ପଞ୍ଜ ଶାନୱେ"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:696
-msgid "Jumee"
-msgstr "ଜୁମୀ"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:698
-msgid "Shanbe"
-msgstr "ଶାନୱେ"
-
-#: kdecore/date/kcalendarsystemjalali.cpp:700
-msgid "Yek-shanbe"
-msgstr "ଐକ-ଶାନୱେ"
-
-#: kdecore/date/kcalendarsystemhebrew.cpp:760
-msgid "of Tishrey"
-msgstr "ତିସ୍ରେ ର"
-
-#: kdecore/date/kcalendarsystemhebrew.cpp:762
-msgid "of Heshvan"
-msgstr "ହେଶୱାନ ର"
-
-#: kdecore/date/kcalendarsystemhebrew.cpp:764
-msgid "of Kislev"
-msgstr "କିସଲେଭ ର"
-
-#: kdecore/date/kcalendarsystemhebrew.cpp:766
-msgid "of Tevet"
-msgstr "ତେଭେତ ର"
-
-#: kdecore/date/kcalendarsystemhebrew.cpp:768
-msgid "of Shvat"
-msgstr "ଶ୍ୱାତ ର"
-
-#: kdecore/date/kcalendarsystemhebrew.cpp:770
-msgid "of Adar"
-msgstr "ଆଦାର ର"
-
-#: kdecore/date/kcalendarsystemhebrew.cpp:772
-msgid "of Nisan"
-msgstr "ନିସାନ ର"
-
-#: kdecore/date/kcalendarsystemhebrew.cpp:774
-msgid "of Iyar"
-msgstr "ଆୟାର ର"
-
-#: kdecore/date/kcalendarsystemhebrew.cpp:776
-msgid "of Sivan"
-msgstr "ସିୱାନ ର"
-
-#: kdecore/date/kcalendarsystemhebrew.cpp:778
-msgid "of Tamuz"
-msgstr "ତାମୁଜ ର"
-
-#: kdecore/date/kcalendarsystemhebrew.cpp:780
-msgid "of Av"
-msgstr "ଏଭ ର"
-
-#: kdecore/date/kcalendarsystemhebrew.cpp:782
-msgid "of Elul"
-msgstr "ଏଲୁଲ ର"
-
-#: kdecore/date/kcalendarsystemhebrew.cpp:784
-msgid "of Adar I"
-msgstr "ଆଦାର I ର"
-
-#: kdecore/date/kcalendarsystemhebrew.cpp:786
-msgid "of Adar II"
-msgstr "ଆଦାର II ର"
-
-#: kdecore/date/kcalendarsystemhebrew.cpp:794
-msgid "Tishrey"
-msgstr "ତିସ୍ରେ"
-
-#: kdecore/date/kcalendarsystemhebrew.cpp:796
-msgid "Heshvan"
-msgstr "ହେଶୱାନ"
-
-#: kdecore/date/kcalendarsystemhebrew.cpp:798
-msgid "Kislev"
-msgstr "କିସଲେଭ"
-
-#: kdecore/date/kcalendarsystemhebrew.cpp:800
-msgid "Tevet"
-msgstr "ତେଭେତ"
-
-#: kdecore/date/kcalendarsystemhebrew.cpp:802
-msgid "Shvat"
-msgstr "ଶ୍ୱାତ"
-
-#: kdecore/date/kcalendarsystemhebrew.cpp:804
-msgid "Adar"
-msgstr "ଆଦାର"
-
-#: kdecore/date/kcalendarsystemhebrew.cpp:806
-msgid "Nisan"
-msgstr "ନିସାନ"
-
-#: kdecore/date/kcalendarsystemhebrew.cpp:808
-msgid "Iyar"
-msgstr "ଆୟାର"
-
-#: kdecore/date/kcalendarsystemhebrew.cpp:810
-msgid "Sivan"
-msgstr "ସିୱାନ"
-
-#: kdecore/date/kcalendarsystemhebrew.cpp:812
-msgid "Tamuz"
-msgstr "ତାମୁଜ"
-
-#: kdecore/date/kcalendarsystemhebrew.cpp:814
-msgid "Av"
-msgstr "ଏଭ"
-
-#: kdecore/date/kcalendarsystemhebrew.cpp:816
-msgid "Elul"
-msgstr "ଏଲୁଲ"
-
-#: kdecore/date/kcalendarsystemhebrew.cpp:818
-msgid "Adar I"
-msgstr "ଆଦାର I"
-
-#: kdecore/date/kcalendarsystemhebrew.cpp:820
-msgid "Adar II"
-msgstr "ଆଦାର II"
-
-#: kdecore/date/kcalendarsystem.cpp:105
-#, fuzzy
-#| msgctxt "KCharselect unicode block name"
-#| msgid "Coptic"
-msgctxt "@item Calendar system"
-msgid "Coptic"
-msgstr "କୋପଟିକ"
-
-#: kdecore/date/kcalendarsystem.cpp:109
-#, fuzzy
-#| msgctxt "KCharselect unicode block name"
-#| msgid "Ethiopic"
-msgctxt "@item Calendar system"
-msgid "Ethiopian"
-msgstr "ଇଥିଓପିକ"
-
-#: kdecore/date/kcalendarsystem.cpp:113
-msgctxt "@item Calendar system"
-msgid "Gregorian"
-msgstr "ଗ୍ରେଗରିଆନ"
-
-#: kdecore/date/kcalendarsystem.cpp:117
-#, fuzzy
-#| msgctxt "@item Calendar system"
-#| msgid "Gregorian"
-msgctxt "@item Calendar system"
-msgid "Gregorian (Proleptic)"
-msgstr "ଗ୍ରେଗରିଆନ"
-
-#: kdecore/date/kcalendarsystem.cpp:121
-msgctxt "@item Calendar system"
-msgid "Hebrew"
-msgstr "ହେବ୍ରିୟୁ"
-
-#: kdecore/date/kcalendarsystem.cpp:125
-msgctxt "@item Calendar system"
-msgid "Hijri"
-msgstr "ହିଜରି"
-
-#: kdecore/date/kcalendarsystem.cpp:129
-msgctxt "@item Calendar system"
-msgid "Indian National"
-msgstr ""
-
-#: kdecore/date/kcalendarsystem.cpp:133
-msgctxt "@item Calendar system"
-msgid "Jalali"
-msgstr "ଜଲାଲି"
-
-#: kdecore/date/kcalendarsystem.cpp:137
-#, fuzzy
-#| msgctxt "January"
-#| msgid "Jan"
-msgctxt "@item Calendar system"
-msgid "Julian"
-msgstr "Jan"
-
-#: kdecore/date/kcalendarsystem.cpp:140
-msgctxt "@item Calendar system"
-msgid "Invalid Calendar Type"
-msgstr "ଅବୈଧ କାଲେଣ୍ଡର ଟାଇପ"
-
-#: kdecore/date/kcalendarsystem.cpp:898 kdecore/localization/klocale.cpp:2233
-msgid "Today"
-msgstr "ଆଜି"
-
-#: kdecore/date/kcalendarsystem.cpp:900 kdecore/localization/klocale.cpp:2236
-msgid "Yesterday"
-msgstr "ଗତକାଲି"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:271
-#, fuzzy
-#| msgctxt "of Khordad short"
-#| msgid "of Kho"
-msgctxt "Coptic month 1 - ShortNamePossessive"
-msgid "of Tho"
-msgstr "ଖୋ ର"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:273
-#, fuzzy
-#| msgid "of Tamuz"
-msgctxt "Coptic month 2 - ShortNamePossessive"
-msgid "of Pao"
-msgstr "ତାମୁଜ ର"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:275
-#, fuzzy
-#| msgid "of Shvat"
-msgctxt "Coptic month 3 - ShortNamePossessive"
-msgid "of Hat"
-msgstr "ଶ୍ୱାତ ର"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:277
-#, fuzzy
-#| msgid "of Nisan"
-msgctxt "Coptic month 4 - ShortNamePossessive"
-msgid "of Kia"
-msgstr "ନିସାନ ର"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:279
-#, fuzzy
-#| msgctxt "of February"
-#| msgid "of Feb"
-msgctxt "Coptic month 5 - ShortNamePossessive"
-msgid "of Tob"
-msgstr "of Feb"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:281
-#, fuzzy
-#| msgctxt "of Mehr short"
-#| msgid "of Meh"
-msgctxt "Coptic month 6 - ShortNamePossessive"
-msgid "of Mes"
-msgstr "ମେହ୍ ର"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:283
-#, fuzzy
-#| msgctxt "of March"
-#| msgid "of Mar"
-msgctxt "Coptic month 7 - ShortNamePossessive"
-msgid "of Par"
-msgstr "of Mar"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:285
-#, fuzzy
-#| msgid "of Tamuz"
-msgctxt "Coptic month 8 - ShortNamePossessive"
-msgid "of Pam"
-msgstr "ତାମୁଜ ର"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:287
-#, fuzzy
-#| msgctxt "of Bahman short"
-#| msgid "of Bah"
-msgctxt "Coptic month 9 - ShortNamePossessive"
-msgid "of Pas"
-msgstr "ବାହ୍ ର"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:289
-#, fuzzy
-#| msgctxt "of January"
-#| msgid "of Jan"
-msgctxt "Coptic month 10 - ShortNamePossessive"
-msgid "of Pan"
-msgstr "of Jan"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:291
-#, fuzzy
-#| msgctxt "of February"
-#| msgid "of Feb"
-msgctxt "Coptic month 11 - ShortNamePossessive"
-msgid "of Epe"
-msgstr "of Feb"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:293
-#, fuzzy
-#| msgctxt "of Mordad short"
-#| msgid "of Mor"
-msgctxt "Coptic month 12 - ShortNamePossessive"
-msgid "of Meo"
-msgstr "ମୋର ର"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:295
-#, fuzzy
-#| msgctxt "of Khordad short"
-#| msgid "of Kho"
-msgctxt "Coptic month 13 - ShortNamePossessive"
-msgid "of Kou"
-msgstr "ଖୋ ର"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:304
-#, fuzzy
-#| msgctxt "of Khordad short"
-#| msgid "of Kho"
-msgctxt "Coptic month 1 - LongNamePossessive"
-msgid "of Thoout"
-msgstr "ଖୋ ର"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:306
-#, fuzzy
-#| msgid "of Tamuz"
-msgctxt "Coptic month 2 - LongNamePossessive"
-msgid "of Paope"
-msgstr "ତାମୁଜ ର"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:308
-#, fuzzy
-#| msgid "of Hijjah"
-msgctxt "Coptic month 3 - LongNamePossessive"
-msgid "of Hathor"
-msgstr "ହିଜ୍ଜାର"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:310
-#, fuzzy
-#| msgctxt "of Khordad short"
-#| msgid "of Kho"
-msgctxt "Coptic month 4 - LongNamePossessive"
-msgid "of Kiahk"
-msgstr "ଖୋ ର"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:312
-#, fuzzy
-#| msgid "of October"
-msgctxt "Coptic month 5 - LongNamePossessive"
-msgid "of Tobe"
-msgstr "ଅକ୍ଟୋବର ର"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:314
-#, fuzzy
-#| msgid "of Mehr"
-msgctxt "Coptic month 6 - LongNamePossessive"
-msgid "of Meshir"
-msgstr "ମେହର ର"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:316
-msgctxt "Coptic month 7 - LongNamePossessive"
-msgid "of Paremhotep"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:318
-#, fuzzy
-#| msgid "of Tamuz"
-msgctxt "Coptic month 8 - LongNamePossessive"
-msgid "of Parmoute"
-msgstr "ତାମୁଜ ର"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:320
-#, fuzzy
-#| msgctxt "of Bahman short"
-#| msgid "of Bah"
-msgctxt "Coptic month 9 - LongNamePossessive"
-msgid "of Pashons"
-msgstr "ବାହ୍ ର"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:322
-#, fuzzy
-#| msgctxt "of January"
-#| msgid "of Jan"
-msgctxt "Coptic month 10 - LongNamePossessive"
-msgid "of Paone"
-msgstr "of Jan"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:324
-#, fuzzy
-#| msgctxt "of September"
-#| msgid "of Sep"
-msgctxt "Coptic month 11 - LongNamePossessive"
-msgid "of Epep"
-msgstr "of Sep"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:326
-#, fuzzy
-#| msgctxt "of Mordad short"
-#| msgid "of Mor"
-msgctxt "Coptic month 12 - LongNamePossessive"
-msgid "of Mesore"
-msgstr "ମୋର ର"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:328
-msgctxt "Coptic month 13 - LongNamePossessive"
-msgid "of Kouji nabot"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:337
-#, fuzzy
-#| msgid "Thl"
-msgctxt "Coptic month 1 - ShortName"
-msgid "Tho"
-msgstr "Thl"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:339
-#, fuzzy
-#| msgid "Pause"
-msgctxt "Coptic month 2 - ShortName"
-msgid "Pao"
-msgstr "ବିରତି"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:341
-#, fuzzy
-#| msgctxt "Saturday"
-#| msgid "Sat"
-msgctxt "Coptic month 3 - ShortName"
-msgid "Hat"
-msgstr "ଶନି"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:343
-#, fuzzy
-#| msgid "Kha"
-msgctxt "Coptic month 4 - ShortName"
-msgid "Kia"
-msgstr "ଖା"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:345
-#, fuzzy
-#| msgid "Job"
-msgctxt "Coptic month 5 - ShortName"
-msgid "Tob"
-msgstr "କାର୍ଯ୍ୟ"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:347
-#, fuzzy
-#| msgid "Yes"
-msgctxt "Coptic month 6 - ShortName"
-msgid "Mes"
-msgstr "ହଁ"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:349
-#, fuzzy
-#| msgctxt "March"
-#| msgid "Mar"
-msgctxt "Coptic month 7 - ShortName"
-msgid "Par"
-msgstr "Mar"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:351
-#, fuzzy
-#| msgid "am"
-msgctxt "Coptic month 8 - ShortName"
-msgid "Pam"
-msgstr "ପୂର୍ବାହ୍ନ"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:353
-#, fuzzy
-#| msgid "Pages"
-msgctxt "Coptic month 9 - ShortName"
-msgid "Pas"
-msgstr "ପୃଷ୍ଠାଗୁଡିକ"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:355
-#, fuzzy
-#| msgctxt "January"
-#| msgid "Jan"
-msgctxt "Coptic month 10 - ShortName"
-msgid "Pan"
-msgstr "Jan"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:357
-#, fuzzy
-#| msgid "Escape"
-msgctxt "Coptic month 11 - ShortName"
-msgid "Epe"
-msgstr "ବାହାରକୁ ଯାଆନ୍ତୁ (Escape)"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:359
-#, fuzzy
-#| msgctxt "Monday"
-#| msgid "Mon"
-msgctxt "Coptic month 12 - ShortName"
-msgid "Meo"
-msgstr "ସୋମ"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:361
-#, fuzzy
-#| msgctxt "Khordad short"
-#| msgid "Kho"
-msgctxt "Coptic month 13 - ShortName"
-msgid "Kou"
-msgstr "ଖୋ"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:370
-#, fuzzy
-#| msgctxt "Thursday"
-#| msgid "Thu"
-msgctxt "Coptic month 1 - LongName"
-msgid "Thoout"
-msgstr "ଗୁରୁ"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:372
-#, fuzzy
-#| msgid "Property"
-msgctxt "Coptic month 2 - LongName"
-msgid "Paope"
-msgstr "ଗୁଣ"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:374
-#, fuzzy
-#| msgid "Author"
-msgctxt "Coptic month 3 - LongName"
-msgid "Hathor"
-msgstr "ଲେଖକ"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:376
-msgctxt "Coptic month 4 - LongName"
-msgid "Kiahk"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:378
-msgctxt "Coptic month 5 - LongName"
-msgid "Tobe"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:380
-#, fuzzy
-#| msgid "Mehr"
-msgctxt "Coptic month 6 - LongName"
-msgid "Meshir"
-msgstr "ମେହର"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:382
-#, fuzzy
-#| msgid "Parameter"
-msgctxt "Coptic month 7 - LongName"
-msgid "Paremhotep"
-msgstr "ପ୍ରାଚଳ"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:384
-#, fuzzy
-#| msgid "Parameter"
-msgctxt "Coptic month 8 - LongName"
-msgid "Parmoute"
-msgstr "ପ୍ରାଚଳ"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:386
-#, fuzzy
-#| msgid "Pause"
-msgctxt "Coptic month 9 - LongName"
-msgid "Pashons"
-msgstr "ବିରତି"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:388
-#, fuzzy
-#| msgctxt "No border line"
-#| msgid "None"
-msgctxt "Coptic month 10 - LongName"
-msgid "Paone"
-msgstr "କେହିନୁହଁ"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:390
-#, fuzzy
-#| msgid "Escape"
-msgctxt "Coptic month 11 - LongName"
-msgid "Epep"
-msgstr "ବାହାରକୁ ଯାଆନ୍ତୁ (Escape)"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:392
-#, fuzzy
-#| msgid "&Restore"
-msgctxt "Coptic month 12 - LongName"
-msgid "Mesore"
-msgstr "ପୁନଃସ୍ଥାପନ କରନ୍ତୁ (&R)"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:394
-msgctxt "Coptic month 13 - LongName"
-msgid "Kouji nabot"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:411
-#, fuzzy
-#| msgid "Pages"
-msgctxt "Coptic weekday 1 - ShortDayName"
-msgid "Pes"
-msgstr "ପୃଷ୍ଠାଗୁଡିକ"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:412
-#, fuzzy
-#| msgid "Pause"
-msgctxt "Coptic weekday 2 - ShortDayName"
-msgid "Psh"
-msgstr "ବିରତି"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:413
-msgctxt "Coptic weekday 3 - ShortDayName"
-msgid "Pef"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:414
-msgctxt "Coptic weekday 4 - ShortDayName"
-msgid "Pti"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:415
-msgctxt "Coptic weekday 5 - ShortDayName"
-msgid "Pso"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:416
-#, fuzzy
-#| msgid "Pause"
-msgctxt "Coptic weekday 6 - ShortDayName"
-msgid "Psa"
-msgstr "ବିରତି"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:417
-msgctxt "Coptic weekday 7 - ShortDayName"
-msgid "Tky"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:423
-#, fuzzy
-#| msgid "Pause"
-msgctxt "Coptic weekday 1 - LongDayName"
-msgid "Pesnau"
-msgstr "ବିରତି"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:424
-#, fuzzy
-#| msgid "Comment"
-msgctxt "Coptic weekday 2 - LongDayName"
-msgid "Pshoment"
-msgstr "ଟିପ୍ପଣୀ"
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:425
-msgctxt "Coptic weekday 3 - LongDayName"
-msgid "Peftoou"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:426
-msgctxt "Coptic weekday 4 - LongDayName"
-msgid "Ptiou"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:427
-msgctxt "Coptic weekday 5 - LongDayName"
-msgid "Psoou"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:428
-msgctxt "Coptic weekday 6 - LongDayName"
-msgid "Psabbaton"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemcoptic.cpp:429
-msgctxt "Coptic weekday 7 - LongDayName"
-msgid "Tkyriakē"
-msgstr ""
-
-#: kdecore/date/kdatetime.cpp:1500 kdecore/date/kdatetime.cpp:1510
-#: kdecore/date/kdatetime.cpp:2872 kdecore/localization/klocale.cpp:2018
-#: kdecore/localization/klocale.cpp:2176
-msgid "am"
-msgstr "ପୂର୍ବାହ୍ନ"
-
-#: kdecore/date/kdatetime.cpp:2880 kdecore/localization/klocale.cpp:2012
-#: kdecore/localization/klocale.cpp:2174
-msgid "pm"
-msgstr "ଅପରାହ୍ନ"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:193
-#, fuzzy
-#| msgctxt "of Mehr short"
-#| msgid "of Meh"
-msgctxt "Ethiopian month 1 - ShortNamePossessive"
-msgid "of Mes"
-msgstr "ମେହ୍ ର"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:195
-#, fuzzy
-#| msgid "of Tevet"
-msgctxt "Ethiopian month 2 - ShortNamePossessive"
-msgid "of Teq"
-msgstr "ତେଭେତ ର"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:197
-#, fuzzy
-#| msgctxt "of February"
-#| msgid "of Feb"
-msgctxt "Ethiopian month 3 - ShortNamePossessive"
-msgid "of Hed"
-msgstr "of Feb"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:199
-#, fuzzy
-#| msgctxt "of Bahman short"
-#| msgid "of Bah"
-msgctxt "Ethiopian month 4 - ShortNamePossessive"
-msgid "of Tah"
-msgstr "ବାହ୍ ର"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:201
-#, fuzzy
-#| msgctxt "of Tir short"
-#| msgid "of Tir"
-msgctxt "Ethiopian month 5 - ShortNamePossessive"
-msgid "of Ter"
-msgstr "ତିର ର"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:203
-#, fuzzy
-#| msgctxt "of January"
-#| msgid "of Jan"
-msgctxt "Ethiopian month 6 - ShortNamePossessive"
-msgid "of Yak"
-msgstr "of Jan"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:205
-#, fuzzy
-#| msgctxt "of March"
-#| msgid "of Mar"
-msgctxt "Ethiopian month 7 - ShortNamePossessive"
-msgid "of Mag"
-msgstr "of Mar"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:207
-#, fuzzy
-#| msgctxt "of May short"
-#| msgid "of May"
-msgctxt "Ethiopian month 8 - ShortNamePossessive"
-msgid "of Miy"
-msgstr "of May"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:209
-#, fuzzy
-#| msgctxt "of January"
-#| msgid "of Jan"
-msgctxt "Ethiopian month 9 - ShortNamePossessive"
-msgid "of Gen"
-msgstr "of Jan"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:211
-#, fuzzy
-#| msgctxt "of September"
-#| msgid "of Sep"
-msgctxt "Ethiopian month 10 - ShortNamePossessive"
-msgid "of Sen"
-msgstr "of Sep"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:213
-#, fuzzy
-#| msgid "of Tamuz"
-msgctxt "Ethiopian month 11 - ShortNamePossessive"
-msgid "of Ham"
-msgstr "ତାମୁଜ ର"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:215
-#, fuzzy
-#| msgctxt "of Mehr short"
-#| msgid "of Meh"
-msgctxt "Ethiopian month 12 - ShortNamePossessive"
-msgid "of Neh"
-msgstr "ମେହ୍ ର"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:217
-#, fuzzy
-#| msgid "of Tamuz"
-msgctxt "Ethiopian month 13 - ShortNamePossessive"
-msgid "of Pag"
-msgstr "ତାମୁଜ ର"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:226
-#, fuzzy
-#| msgid "of Mehr"
-msgctxt "Ethiopian month 1 - LongNamePossessive"
-msgid "of Meskerem"
-msgstr "ମେହର ର"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:228
-#, fuzzy
-#| msgid "of Tevet"
-msgctxt "Ethiopian month 2 - LongNamePossessive"
-msgid "of Tequemt"
-msgstr "ତେଭେତ ର"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:230
-#, fuzzy
-#| msgid "of Adar"
-msgctxt "Ethiopian month 3 - LongNamePossessive"
-msgid "of Hedar"
-msgstr "ଆଦାର ର"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:232
-#, fuzzy
-#| msgid "of Bahman"
-msgctxt "Ethiopian month 4 - LongNamePossessive"
-msgid "of Tahsas"
-msgstr "ବାହମାନ ର"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:234
-#, fuzzy
-#| msgctxt "of Tir short"
-#| msgid "of Tir"
-msgctxt "Ethiopian month 5 - LongNamePossessive"
-msgid "of Ter"
-msgstr "ତିର ର"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:236
-#, fuzzy
-#| msgctxt "of Farvardin short"
-#| msgid "of Far"
-msgctxt "Ethiopian month 6 - LongNamePossessive"
-msgid "of Yakatit"
-msgstr "ଫାର ର"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:238
-#, fuzzy
-#| msgid "of Rajab"
-msgctxt "Ethiopian month 7 - LongNamePossessive"
-msgid "of Magabit"
-msgstr "ରଜବର"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:240
-#, fuzzy
-#| msgctxt "of May short"
-#| msgid "of May"
-msgctxt "Ethiopian month 8 - LongNamePossessive"
-msgid "of Miyazya"
-msgstr "of May"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:242
-#, fuzzy
-#| msgctxt "of February"
-#| msgid "of Feb"
-msgctxt "Ethiopian month 9 - LongNamePossessive"
-msgid "of Genbot"
-msgstr "of Feb"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:244
-#, fuzzy
-#| msgctxt "of September"
-#| msgid "of Sep"
-msgctxt "Ethiopian month 10 - LongNamePossessive"
-msgid "of Sene"
-msgstr "of Sep"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:246
-#, fuzzy
-#| msgid "of Tamuz"
-msgctxt "Ethiopian month 11 - LongNamePossessive"
-msgid "of Hamle"
-msgstr "ତାମୁଜ ର"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:248
-#, fuzzy
-#| msgctxt "of Shahrivar short"
-#| msgid "of Sha"
-msgctxt "Ethiopian month 12 - LongNamePossessive"
-msgid "of Nehase"
-msgstr "ଶା ର"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:250
-#, fuzzy
-#| msgid "of Tamuz"
-msgctxt "Ethiopian month 13 - LongNamePossessive"
-msgid "of Pagumen"
-msgstr "ତାମୁଜ ର"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:259
-#, fuzzy
-#| msgid "Yes"
-msgctxt "Ethiopian month 1 - ShortName"
-msgid "Mes"
-msgstr "ହଁ"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:261
-#, fuzzy
-#| msgctxt "Tuesday"
-#| msgid "Tue"
-msgctxt "Ethiopian month 2 - ShortName"
-msgid "Teq"
-msgstr "ମଙ୍ଗଳ"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:263
-#, fuzzy
-#| msgctxt "Wednesday"
-#| msgid "Wed"
-msgctxt "Ethiopian month 3 - ShortName"
-msgid "Hed"
-msgstr "ବୁଧ"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:265
-#, fuzzy
-#| msgid "Thl"
-msgctxt "Ethiopian month 4 - ShortName"
-msgid "Tah"
-msgstr "Thl"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:267
-#, fuzzy
-#| msgctxt "Tuesday"
-#| msgid "Tue"
-msgctxt "Ethiopian month 5 - ShortName"
-msgid "Ter"
-msgstr "ମଙ୍ଗଳ"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:269
-msgctxt "Ethiopian month 6 - ShortName"
-msgid "Yak"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:271
-#, fuzzy
-#| msgctxt "March"
-#| msgid "Mar"
-msgctxt "Ethiopian month 7 - ShortName"
-msgid "Mag"
-msgstr "Mar"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:273
-#, fuzzy
-#| msgctxt "May short"
-#| msgid "May"
-msgctxt "Ethiopian month 8 - ShortName"
-msgid "Miy"
-msgstr "May"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:275
-#, fuzzy
-#| msgid "Green:"
-msgctxt "Ethiopian month 9 - ShortName"
-msgid "Gen"
-msgstr "ସବୁଜ:"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:277
-#, fuzzy
-#| msgid "&Send"
-msgctxt "Ethiopian month 10 - ShortName"
-msgid "Sen"
-msgstr "ପଠାନ୍ତୁ (&S)"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:279
-#, fuzzy
-#| msgid "am"
-msgctxt "Ethiopian month 11 - ShortName"
-msgid "Ham"
-msgstr "ପୂର୍ବାହ୍ନ"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:281
-#, fuzzy
-#| msgctxt "Mehr short"
-#| msgid "Meh"
-msgctxt "Ethiopian month 12 - ShortName"
-msgid "Neh"
-msgstr "ମେହ୍"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:283
-#, fuzzy
-#| msgid "Pages"
-msgctxt "Ethiopian month 13 - ShortName"
-msgid "Pag"
-msgstr "ପୃଷ୍ଠାଗୁଡିକ"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:292
-msgctxt "Ethiopian month 1 - LongName"
-msgid "Meskerem"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:294
-#, fuzzy
-#| msgid "Tevet"
-msgctxt "Ethiopian month 2 - LongName"
-msgid "Tequemt"
-msgstr "ତେଭେତ"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:296
-#, fuzzy
-#| msgid "Adar"
-msgctxt "Ethiopian month 3 - LongName"
-msgid "Hedar"
-msgstr "ଆଦାର"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:298
-#, fuzzy
-#| msgid "Task"
-msgctxt "Ethiopian month 4 - LongName"
-msgid "Tahsas"
-msgstr "କାର୍ଯ୍ୟ"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:300
-#, fuzzy
-#| msgctxt "Tuesday"
-#| msgid "Tue"
-msgctxt "Ethiopian month 5 - LongName"
-msgid "Ter"
-msgstr "ମଙ୍ଗଳ"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:302
-msgctxt "Ethiopian month 6 - LongName"
-msgid "Yakatit"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:304
-msgctxt "Ethiopian month 7 - LongName"
-msgid "Magabit"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:306
-msgctxt "Ethiopian month 8 - LongName"
-msgid "Miyazya"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:308
-msgctxt "Ethiopian month 9 - LongName"
-msgid "Genbot"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:310
-#, fuzzy
-#| msgid "&Send"
-msgctxt "Ethiopian month 10 - LongName"
-msgid "Sene"
-msgstr "ପଠାନ୍ତୁ (&S)"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:312
-#, fuzzy
-#| msgid "Name"
-msgctxt "Ethiopian month 11 - LongName"
-msgid "Hamle"
-msgstr "ନାମ"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:314
-#, fuzzy
-#| msgid "Name"
-msgctxt "Ethiopian month 12 - LongName"
-msgid "Nehase"
-msgstr "ନାମ"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:316
-#, fuzzy
-#| msgid "Pages"
-msgctxt "Ethiopian month 13 - LongName"
-msgid "Pagumen"
-msgstr "ପୃଷ୍ଠାଗୁଡିକ"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:332
-#, fuzzy
-#| msgctxt "September"
-#| msgid "Sep"
-msgctxt "Ethiopian weekday 1 - ShortDayName"
-msgid "Seg"
-msgstr "Sep"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:333
-#, fuzzy
-#| msgctxt "March"
-#| msgid "Mar"
-msgctxt "Ethiopian weekday 2 - ShortDayName"
-msgid "Mak"
-msgstr "Mar"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:334
-#, fuzzy
-#| msgid "Job"
-msgctxt "Ethiopian weekday 3 - ShortDayName"
-msgid "Rob"
-msgstr "କାର୍ଯ୍ୟ"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:335
-#, fuzzy
-#| msgid "am"
-msgctxt "Ethiopian weekday 4 - ShortDayName"
-msgid "Ham"
-msgstr "ପୂର୍ବାହ୍ନ"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:336
-#, fuzzy
-#| msgid "Arb"
-msgctxt "Ethiopian weekday 5 - ShortDayName"
-msgid "Arb"
-msgstr "ଆରବ"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:337
-#, fuzzy
-#| msgctxt "Wednesday"
-#| msgid "Wed"
-msgctxt "Ethiopian weekday 6 - ShortDayName"
-msgid "Qed"
-msgstr "ବୁଧ"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:338
-#, fuzzy
-#| msgctxt "Thursday"
-#| msgid "Thu"
-msgctxt "Ethiopian weekday 7 - ShortDayName"
-msgid "Ehu"
-msgstr "ଗୁରୁ"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:344
-#, fuzzy
-#| msgid "&Send"
-msgctxt "Ethiopian weekday 1 - LongDayName"
-msgid "Segno"
-msgstr "ପଠାନ୍ତୁ (&S)"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:345
-msgctxt "Ethiopian weekday 2 - LongDayName"
-msgid "Maksegno"
-msgstr ""
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:346
-#, fuzzy
-#| msgid "Job"
-msgctxt "Ethiopian weekday 3 - LongDayName"
-msgid "Rob"
-msgstr "କାର୍ଯ୍ୟ"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:347
-#, fuzzy
-#| msgid "Pause"
-msgctxt "Ethiopian weekday 4 - LongDayName"
-msgid "Hamus"
-msgstr "ବିରତି"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:348
-#, fuzzy
-#| msgid "Arb"
-msgctxt "Ethiopian weekday 5 - LongDayName"
-msgid "Arb"
-msgstr "ଆରବ"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:349
-#, fuzzy
-#| msgid "Name"
-msgctxt "Ethiopian weekday 6 - LongDayName"
-msgid "Qedame"
-msgstr "ନାମ"
-
-#: kdecore/date/kcalendarsystemethiopian.cpp:350
-msgctxt "Ethiopian weekday 7 - LongDayName"
-msgid "Ehud"
-msgstr ""
-
 #: kdecore/util/klibloader.cpp:98
 #, kde-format
 msgid "Library \"%1\" not found"
@@ -6231,7 +3802,7 @@ msgctxt "@item Text character set"
 msgid "Thai"
 msgstr "ଥାଈ"
 
-#: kdecore/localization/klocale.cpp:1027
+#: kdecore/localization/klocale.cpp:1028
 #, fuzzy
 #| msgctxt "@item Text character set"
 #| msgid "Arabic"
@@ -6239,12 +3810,12 @@ msgctxt "digit set"
 msgid "Arabic-Indic"
 msgstr "ଆରବୀ"
 
-#: kdecore/localization/klocale.cpp:1030
+#: kdecore/localization/klocale.cpp:1031
 msgctxt "digit set"
 msgid "Eastern Arabic-Indic"
 msgstr ""
 
-#: kdecore/localization/klocale.cpp:1033
+#: kdecore/localization/klocale.cpp:1034
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Devanagari"
@@ -6252,7 +3823,7 @@ msgctxt "digit set"
 msgid "Devenagari"
 msgstr "ଦେବନାଗରି"
 
-#: kdecore/localization/klocale.cpp:1036
+#: kdecore/localization/klocale.cpp:1037
 #, fuzzy
 #| msgctxt "@item Text character set"
 #| msgid "Arabic"
@@ -6260,7 +3831,7 @@ msgctxt "digit set"
 msgid "Arabic"
 msgstr "ଆରବୀ"
 
-#: kdecore/localization/klocale.cpp:1041
+#: kdecore/localization/klocale.cpp:1042
 #, fuzzy, kde-format
 #| msgctxt "dictionary name. %1-language and %2-country name"
 #| msgid "%1 (%2)"
@@ -6269,7 +3840,7 @@ msgid "%1 (%2)"
 msgstr "%1 (%2)"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale.cpp:1454
+#: kdecore/localization/klocale.cpp:1455
 #, fuzzy, kde-format
 #| msgid "%1 B"
 msgctxt "size in bytes"
@@ -6277,7 +3848,7 @@ msgid "%1 B"
 msgstr "%1 B"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale.cpp:1459
+#: kdecore/localization/klocale.cpp:1460
 #, fuzzy, kde-format
 #| msgid "%1 B"
 msgctxt "size in 1000 bytes"
@@ -6285,7 +3856,7 @@ msgid "%1 kB"
 msgstr "%1 B"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale.cpp:1461
+#: kdecore/localization/klocale.cpp:1462
 #, fuzzy, kde-format
 #| msgid "%1 MiB"
 msgctxt "size in 10^6 bytes"
@@ -6293,7 +3864,7 @@ msgid "%1 MB"
 msgstr "%1 MiB"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale.cpp:1463
+#: kdecore/localization/klocale.cpp:1464
 #, fuzzy, kde-format
 #| msgid "%1 GiB"
 msgctxt "size in 10^9 bytes"
@@ -6301,7 +3872,7 @@ msgid "%1 GB"
 msgstr "%1 GiB"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale.cpp:1465
+#: kdecore/localization/klocale.cpp:1466
 #, fuzzy, kde-format
 #| msgid "%1 TiB"
 msgctxt "size in 10^12 bytes"
@@ -6309,7 +3880,7 @@ msgid "%1 TB"
 msgstr "%1 TiB"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale.cpp:1467
+#: kdecore/localization/klocale.cpp:1468
 #, fuzzy, kde-format
 #| msgid "%1 B"
 msgctxt "size in 10^15 bytes"
@@ -6317,7 +3888,7 @@ msgid "%1 PB"
 msgstr "%1 B"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale.cpp:1469
+#: kdecore/localization/klocale.cpp:1470
 #, fuzzy, kde-format
 #| msgid "%1 B"
 msgctxt "size in 10^18 bytes"
@@ -6325,7 +3896,7 @@ msgid "%1 EB"
 msgstr "%1 B"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale.cpp:1471
+#: kdecore/localization/klocale.cpp:1472
 #, fuzzy, kde-format
 #| msgid "%1 B"
 msgctxt "size in 10^21 bytes"
@@ -6333,7 +3904,7 @@ msgid "%1 ZB"
 msgstr "%1 B"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale.cpp:1473
+#: kdecore/localization/klocale.cpp:1474
 #, fuzzy, kde-format
 #| msgid "%1 B"
 msgctxt "size in 10^24 bytes"
@@ -6341,7 +3912,7 @@ msgid "%1 YB"
 msgstr "%1 B"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale.cpp:1478
+#: kdecore/localization/klocale.cpp:1479
 #, fuzzy, kde-format
 #| msgid "%1 KiB"
 msgctxt "memory size in 1024 bytes"
@@ -6349,7 +3920,7 @@ msgid "%1 KB"
 msgstr "%1 KiB"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale.cpp:1480
+#: kdecore/localization/klocale.cpp:1481
 #, fuzzy, kde-format
 #| msgid "%1 MiB"
 msgctxt "memory size in 2^20 bytes"
@@ -6357,7 +3928,7 @@ msgid "%1 MB"
 msgstr "%1 MiB"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale.cpp:1482
+#: kdecore/localization/klocale.cpp:1483
 #, fuzzy, kde-format
 #| msgid "%1 GiB"
 msgctxt "memory size in 2^30 bytes"
@@ -6365,7 +3936,7 @@ msgid "%1 GB"
 msgstr "%1 GiB"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale.cpp:1484
+#: kdecore/localization/klocale.cpp:1485
 #, fuzzy, kde-format
 #| msgid "%1 TiB"
 msgctxt "memory size in 2^40 bytes"
@@ -6373,7 +3944,7 @@ msgid "%1 TB"
 msgstr "%1 TiB"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale.cpp:1486
+#: kdecore/localization/klocale.cpp:1487
 #, fuzzy, kde-format
 #| msgid "%1 B"
 msgctxt "memory size in 2^40 bytes"
@@ -6381,7 +3952,7 @@ msgid "%1 PB"
 msgstr "%1 B"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale.cpp:1488
+#: kdecore/localization/klocale.cpp:1489
 #, fuzzy, kde-format
 #| msgid "%1 B"
 msgctxt "memory size in 2^50 bytes"
@@ -6389,7 +3960,7 @@ msgid "%1 EB"
 msgstr "%1 B"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale.cpp:1490
+#: kdecore/localization/klocale.cpp:1491
 #, fuzzy, kde-format
 #| msgid "%1 B"
 msgctxt "memory size in 2^60 bytes"
@@ -6397,7 +3968,7 @@ msgid "%1 ZB"
 msgstr "%1 B"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale.cpp:1492
+#: kdecore/localization/klocale.cpp:1493
 #, fuzzy, kde-format
 #| msgid "%1 B"
 msgctxt "memory size in 2^70 bytes"
@@ -6405,7 +3976,7 @@ msgid "%1 YB"
 msgstr "%1 B"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale.cpp:1498
+#: kdecore/localization/klocale.cpp:1499
 #, fuzzy, kde-format
 #| msgid "%1 KiB"
 msgctxt "size in 1024 bytes"
@@ -6413,7 +3984,7 @@ msgid "%1 KiB"
 msgstr "%1 KiB"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale.cpp:1500
+#: kdecore/localization/klocale.cpp:1501
 #, fuzzy, kde-format
 #| msgid "%1 MiB"
 msgctxt "size in 2^20 bytes"
@@ -6421,7 +3992,7 @@ msgid "%1 MiB"
 msgstr "%1 MiB"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale.cpp:1502
+#: kdecore/localization/klocale.cpp:1503
 #, fuzzy, kde-format
 #| msgid "%1 GiB"
 msgctxt "size in 2^30 bytes"
@@ -6429,7 +4000,7 @@ msgid "%1 GiB"
 msgstr "%1 GiB"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale.cpp:1504
+#: kdecore/localization/klocale.cpp:1505
 #, fuzzy, kde-format
 #| msgid "%1 TiB"
 msgctxt "size in 2^40 bytes"
@@ -6437,7 +4008,7 @@ msgid "%1 TiB"
 msgstr "%1 TiB"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale.cpp:1506
+#: kdecore/localization/klocale.cpp:1507
 #, fuzzy, kde-format
 #| msgid "%1 TiB"
 msgctxt "size in 2^40 bytes"
@@ -6445,7 +4016,7 @@ msgid "%1 PiB"
 msgstr "%1 TiB"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale.cpp:1508
+#: kdecore/localization/klocale.cpp:1509
 #, fuzzy, kde-format
 #| msgid "%1 TiB"
 msgctxt "size in 2^50 bytes"
@@ -6453,7 +4024,7 @@ msgid "%1 EiB"
 msgstr "%1 TiB"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale.cpp:1510
+#: kdecore/localization/klocale.cpp:1511
 #, fuzzy, kde-format
 #| msgid "%1 TiB"
 msgctxt "size in 2^60 bytes"
@@ -6461,42 +4032,42 @@ msgid "%1 ZiB"
 msgstr "%1 TiB"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale.cpp:1512
+#: kdecore/localization/klocale.cpp:1513
 #, fuzzy, kde-format
 #| msgid "%1 TiB"
 msgctxt "size in 2^70 bytes"
 msgid "%1 YiB"
 msgstr "%1 TiB"
 
-#: kdecore/localization/klocale.cpp:1598
+#: kdecore/localization/klocale.cpp:1599
 #, fuzzy, kde-format
 #| msgid "%1 days"
 msgctxt "@item:intext %1 is a real number, e.g. 1.23 days"
 msgid "%1 days"
 msgstr "%1 ଦିନ"
 
-#: kdecore/localization/klocale.cpp:1601
+#: kdecore/localization/klocale.cpp:1602
 #, fuzzy, kde-format
 #| msgid "%1 hours"
 msgctxt "@item:intext %1 is a real number, e.g. 1.23 hours"
 msgid "%1 hours"
 msgstr "%1 ଘଣ୍ଟା"
 
-#: kdecore/localization/klocale.cpp:1604
+#: kdecore/localization/klocale.cpp:1605
 #, fuzzy, kde-format
 #| msgid "%1 minutes"
 msgctxt "@item:intext %1 is a real number, e.g. 1.23 minutes"
 msgid "%1 minutes"
 msgstr "%1 ମିନଟ"
 
-#: kdecore/localization/klocale.cpp:1607
+#: kdecore/localization/klocale.cpp:1608
 #, fuzzy, kde-format
 #| msgid "%1 seconds"
 msgctxt "@item:intext %1 is a real number, e.g. 1.23 seconds"
 msgid "%1 seconds"
 msgstr "%1 ସେକଣ୍ଡ"
 
-#: kdecore/localization/klocale.cpp:1610
+#: kdecore/localization/klocale.cpp:1611
 #, fuzzy, kde-format
 #| msgid "%1 milliseconds"
 msgctxt "@item:intext"
@@ -6505,7 +4076,7 @@ msgid_plural "%1 milliseconds"
 msgstr[0] "%1 ମିଲିସେକଣ୍ଡ"
 msgstr[1] "%1 ମିଲିସେକଣ୍ଡ"
 
-#: kdecore/localization/klocale.cpp:1617
+#: kdecore/localization/klocale.cpp:1618
 #, kde-format
 msgctxt "@item:intext"
 msgid "1 day"
@@ -6513,7 +4084,7 @@ msgid_plural "%1 days"
 msgstr[0] "1 ଦିନ"
 msgstr[1] "%1 ଦିନ"
 
-#: kdecore/localization/klocale.cpp:1619
+#: kdecore/localization/klocale.cpp:1620
 #, kde-format
 msgctxt "@item:intext"
 msgid "1 hour"
@@ -6521,7 +4092,7 @@ msgid_plural "%1 hours"
 msgstr[0] "1 ଘଣ୍ଟା"
 msgstr[1] "%1 ଘଣ୍ଟା"
 
-#: kdecore/localization/klocale.cpp:1621
+#: kdecore/localization/klocale.cpp:1622
 #, kde-format
 msgctxt "@item:intext"
 msgid "1 minute"
@@ -6529,7 +4100,7 @@ msgid_plural "%1 minutes"
 msgstr[0] "1 ମିନଟ"
 msgstr[1] "%1 ମିନଟ"
 
-#: kdecore/localization/klocale.cpp:1623
+#: kdecore/localization/klocale.cpp:1624
 #, kde-format
 msgctxt "@item:intext"
 msgid "1 second"
@@ -6537,7 +4108,7 @@ msgid_plural "%1 seconds"
 msgstr[0] "1 ସେକଣ୍ଡ"
 msgstr[1] "%1 ସେକଣ୍ଡ"
 
-#: kdecore/localization/klocale.cpp:1647
+#: kdecore/localization/klocale.cpp:1648
 #, kde-format
 msgctxt ""
 "@item:intext days and hours. This uses the previous item:intext messages. If "
@@ -6546,7 +4117,7 @@ msgctxt ""
 msgid "%1 and %2"
 msgstr "%1 ଏବଂ %2"
 
-#: kdecore/localization/klocale.cpp:1653
+#: kdecore/localization/klocale.cpp:1654
 #, kde-format
 msgctxt ""
 "@item:intext hours and minutes. This uses the previous item:intext messages. "
@@ -6555,7 +4126,7 @@ msgctxt ""
 msgid "%1 and %2"
 msgstr "%1 ଏବଂ %2"
 
-#: kdecore/localization/klocale.cpp:1660
+#: kdecore/localization/klocale.cpp:1661
 #, kde-format
 msgctxt ""
 "@item:intext minutes and seconds. This uses the previous item:intext "
@@ -6564,13 +4135,32 @@ msgctxt ""
 msgid "%1 and %2"
 msgstr "%1 ଏବଂ %2"
 
-#: kdecore/localization/klocale.cpp:2252
+#: kdecore/localization/klocale.cpp:2013 kdecore/localization/klocale.cpp:2175
+#: kdecore/date/kdatetime.cpp:2880
+msgid "pm"
+msgstr "ଅପରାହ୍ନ"
+
+#: kdecore/localization/klocale.cpp:2019 kdecore/localization/klocale.cpp:2177
+#: kdecore/date/kdatetime.cpp:1500 kdecore/date/kdatetime.cpp:1510
+#: kdecore/date/kdatetime.cpp:2872
+msgid "am"
+msgstr "ପୂର୍ବାହ୍ନ"
+
+#: kdecore/localization/klocale.cpp:2234
+msgid "Today"
+msgstr "ଆଜି"
+
+#: kdecore/localization/klocale.cpp:2237
+msgid "Yesterday"
+msgstr "ଗତକାଲି"
+
+#: kdecore/localization/klocale.cpp:2253
 #, kde-format
 msgctxt "concatenation of dates and time"
 msgid "%1 %2"
 msgstr "%1 %2"
 
-#: kdecore/localization/klocale.cpp:2292
+#: kdecore/localization/klocale.cpp:2293
 #, kde-format
 msgctxt "concatenation of date/time and time zone"
 msgid "%1 %2"
@@ -15300,6 +12890,1644 @@ msgstr "ଆଜିର ସୂଚନା (&D)"
 #, kde-format
 msgid "No such function \"%1\""
 msgstr "ଏପରି କିଛି ଫଳନ ନାହିଁ \"%1\""
+
+#~ msgctxt "of January"
+#~ msgid "of Jan"
+#~ msgstr "of Jan"
+
+#~ msgctxt "of February"
+#~ msgid "of Feb"
+#~ msgstr "of Feb"
+
+#~ msgctxt "of March"
+#~ msgid "of Mar"
+#~ msgstr "of Mar"
+
+#~ msgctxt "of April"
+#~ msgid "of Apr"
+#~ msgstr "of Apr"
+
+#~ msgctxt "of May short"
+#~ msgid "of May"
+#~ msgstr "of May"
+
+#~ msgctxt "of June"
+#~ msgid "of Jun"
+#~ msgstr "of Jun"
+
+#~ msgctxt "of July"
+#~ msgid "of Jul"
+#~ msgstr "of Jul"
+
+#~ msgctxt "of August"
+#~ msgid "of Aug"
+#~ msgstr "of Aug"
+
+#~ msgctxt "of September"
+#~ msgid "of Sep"
+#~ msgstr "of Sep"
+
+#~ msgctxt "of October"
+#~ msgid "of Oct"
+#~ msgstr "of Oct"
+
+#~ msgctxt "of November"
+#~ msgid "of Nov"
+#~ msgstr "of Nov"
+
+#~ msgctxt "of December"
+#~ msgid "of Dec"
+#~ msgstr "of Dec"
+
+#~ msgid "of January"
+#~ msgstr "ଜାନୁଆରୀ ର"
+
+#~ msgid "of February"
+#~ msgstr "ଫେବ୍ରୁୟାରୀ ର"
+
+#~ msgid "of March"
+#~ msgstr "ମାର୍ଚ୍ଚ ର"
+
+#~ msgid "of April"
+#~ msgstr "ଅପ୍ରେଲ ର"
+
+#~ msgctxt "of May long"
+#~ msgid "of May"
+#~ msgstr "ମଇ ର"
+
+#~ msgid "of June"
+#~ msgstr "ଜୁନ ର"
+
+#~ msgid "of July"
+#~ msgstr "ଜୁଲାଇ ର"
+
+#~ msgid "of August"
+#~ msgstr "ଅଗଷ୍ଟ ର"
+
+#~ msgid "of September"
+#~ msgstr "ସେପ୍ଟେମ୍ୱର ର"
+
+#~ msgid "of October"
+#~ msgstr "ଅକ୍ଟୋବର ର"
+
+#~ msgid "of November"
+#~ msgstr "ନଭେମ୍ୱର ର"
+
+#~ msgid "of December"
+#~ msgstr "ଡିସେମ୍ୱର ର"
+
+#~ msgctxt "January"
+#~ msgid "Jan"
+#~ msgstr "Jan"
+
+#~ msgctxt "February"
+#~ msgid "Feb"
+#~ msgstr "Feb"
+
+#~ msgctxt "March"
+#~ msgid "Mar"
+#~ msgstr "Mar"
+
+#~ msgctxt "April"
+#~ msgid "Apr"
+#~ msgstr "Apr"
+
+#~ msgctxt "May short"
+#~ msgid "May"
+#~ msgstr "May"
+
+#~ msgctxt "June"
+#~ msgid "Jun"
+#~ msgstr "Jun"
+
+#~ msgctxt "July"
+#~ msgid "Jul"
+#~ msgstr "Jul"
+
+#~ msgctxt "August"
+#~ msgid "Aug"
+#~ msgstr "Aug"
+
+#~ msgctxt "September"
+#~ msgid "Sep"
+#~ msgstr "Sep"
+
+#~ msgctxt "October"
+#~ msgid "Oct"
+#~ msgstr "Oct"
+
+#~ msgctxt "November"
+#~ msgid "Nov"
+#~ msgstr "Nov"
+
+#~ msgctxt "December"
+#~ msgid "Dec"
+#~ msgstr "Dec"
+
+#~ msgid "January"
+#~ msgstr "ଜାନୁଆରୀ"
+
+#~ msgid "February"
+#~ msgstr "ଫେବ୍ରୁଆରୀ"
+
+#~ msgctxt "March long"
+#~ msgid "March"
+#~ msgstr "ମାର୍ଚ୍ଚ"
+
+#~ msgid "April"
+#~ msgstr "ଅପ୍ରେଲ"
+
+#~ msgctxt "May long"
+#~ msgid "May"
+#~ msgstr "ମଇ"
+
+#~ msgid "June"
+#~ msgstr "ଜୁନ"
+
+#~ msgid "July"
+#~ msgstr "ଜୁଲାଇ"
+
+#~ msgctxt "August long"
+#~ msgid "August"
+#~ msgstr "ଅଗଷ୍ଟ"
+
+#~ msgid "September"
+#~ msgstr "ସେପ୍ଟେମ୍ବର"
+
+#~ msgid "October"
+#~ msgstr "ଅକ୍ଟୋବର"
+
+#~ msgid "November"
+#~ msgstr "ନଭେମ୍ବର"
+
+#~ msgid "December"
+#~ msgstr "ଡିସେମ୍ବର"
+
+#~ msgctxt "Monday"
+#~ msgid "Mon"
+#~ msgstr "ସୋମ"
+
+#~ msgctxt "Tuesday"
+#~ msgid "Tue"
+#~ msgstr "ମଙ୍ଗଳ"
+
+#~ msgctxt "Wednesday"
+#~ msgid "Wed"
+#~ msgstr "ବୁଧ"
+
+#~ msgctxt "Thursday"
+#~ msgid "Thu"
+#~ msgstr "ଗୁରୁ"
+
+#~ msgctxt "Friday"
+#~ msgid "Fri"
+#~ msgstr "ଶୁକ୍ର"
+
+#~ msgctxt "Saturday"
+#~ msgid "Sat"
+#~ msgstr "ଶନି"
+
+#~ msgctxt "Sunday"
+#~ msgid "Sun"
+#~ msgstr "ରବି"
+
+#~ msgid "Monday"
+#~ msgstr "ସୋମବାର"
+
+#~ msgid "Tuesday"
+#~ msgstr "ମଙ୍ଗଳବାର"
+
+#~ msgid "Wednesday"
+#~ msgstr "ବୁଧବାର"
+
+#~ msgid "Thursday"
+#~ msgstr "ଗୁରୁବାର"
+
+#~ msgid "Friday"
+#~ msgstr "ଶୁକ୍ରବାର"
+
+#~ msgid "Saturday"
+#~ msgstr "ଶନିବାର"
+
+#~ msgid "Sunday"
+#~ msgstr "ରବିବାର"
+
+#, fuzzy
+#~| msgctxt "of Shahrivar short"
+#~| msgid "of Sha"
+#~ msgctxt "Indian National month 1 - ShortNamePossessive"
+#~ msgid "of Cha"
+#~ msgstr "ଶା ର"
+
+#, fuzzy
+#~| msgctxt "of Farvardin short"
+#~| msgid "of Far"
+#~ msgctxt "Indian National month 2 - ShortNamePossessive"
+#~ msgid "of Vai"
+#~ msgstr "ଫାର ର"
+
+#, fuzzy
+#~| msgctxt "of January"
+#~| msgid "of Jan"
+#~ msgctxt "Indian National month 3 - ShortNamePossessive"
+#~ msgid "of Jya"
+#~ msgstr "of Jan"
+
+#, fuzzy
+#~| msgctxt "of Khordad short"
+#~| msgid "of Kho"
+#~ msgctxt "Indian National month 4 - ShortNamePossessive"
+#~ msgid "of Āsh"
+#~ msgstr "ଖୋ ର"
+
+#, fuzzy
+#~| msgctxt "of Shahrivar short"
+#~| msgid "of Sha"
+#~ msgctxt "Indian National month 5 - ShortNamePossessive"
+#~ msgid "of Shr"
+#~ msgstr "ଶା ର"
+
+#, fuzzy
+#~| msgctxt "of Bahman short"
+#~| msgid "of Bah"
+#~ msgctxt "Indian National month 6 - ShortNamePossessive"
+#~ msgid "of Bhā"
+#~ msgstr "ବାହ୍ ର"
+
+#, fuzzy
+#~| msgctxt "of Esfand short"
+#~| msgid "of Esf"
+#~ msgctxt "Indian National month 7 - ShortNamePossessive"
+#~ msgid "of Āsw"
+#~ msgstr "ଏସ୍ଫ୍ ର"
+
+#, fuzzy
+#~| msgctxt "of Farvardin short"
+#~| msgid "of Far"
+#~ msgctxt "Indian National month 8 - ShortNamePossessive"
+#~ msgid "of Kār"
+#~ msgstr "ଫାର ର"
+
+#, fuzzy
+#~| msgctxt "of April"
+#~| msgid "of Apr"
+#~ msgctxt "Indian National month 9 - ShortNamePossessive"
+#~ msgid "of Agr"
+#~ msgstr "of Apr"
+
+#, fuzzy
+#~| msgid "of Tamuz"
+#~ msgctxt "Indian National month 10 - ShortNamePossessive"
+#~ msgid "of Pau"
+#~ msgstr "ତାମୁଜ ର"
+
+#, fuzzy
+#~| msgctxt "of Mordad short"
+#~| msgid "of Mor"
+#~ msgctxt "Indian National month 11 - ShortNamePossessive"
+#~ msgid "of Māg"
+#~ msgstr "ମୋର ର"
+
+#, fuzzy
+#~| msgctxt "of Khordad short"
+#~| msgid "of Kho"
+#~ msgctxt "Indian National month 12 - ShortNamePossessive"
+#~ msgid "of Phā"
+#~ msgstr "ଖୋ ର"
+
+#, fuzzy
+#~| msgid "of Muharram"
+#~ msgctxt "Indian National month 1 - LongNamePossessive"
+#~ msgid "of Chaitra"
+#~ msgstr "ମୁହରମର"
+
+#, fuzzy
+#~| msgid "of Nisan"
+#~ msgctxt "Indian National month 3 - LongNamePossessive"
+#~ msgid "of Jyaishtha"
+#~ msgstr "ନିସାନ ର"
+
+#, fuzzy
+#~| msgid "of Shvat"
+#~ msgctxt "Indian National month 5 - LongNamePossessive"
+#~ msgid "of Shrāvana"
+#~ msgstr "ଶ୍ୱାତ ର"
+
+#, fuzzy
+#~| msgid "of Khordad"
+#~ msgctxt "Indian National month 6 - LongNamePossessive"
+#~ msgid "of Bhādrapad"
+#~ msgstr "ଖର୍ଡାଡ ର"
+
+#, fuzzy
+#~| msgid "of Heshvan"
+#~ msgctxt "Indian National month 7 - LongNamePossessive"
+#~ msgid "of Āshwin"
+#~ msgstr "ହେଶୱାନ ର"
+
+#, fuzzy
+#~| msgid "of Bahman"
+#~ msgctxt "Indian National month 9 - LongNamePossessive"
+#~ msgid "of Agrahayana"
+#~ msgstr "ବାହମାନ ର"
+
+#, fuzzy
+#~| msgctxt "of Bahman short"
+#~| msgid "of Bah"
+#~ msgctxt "Indian National month 10 - LongNamePossessive"
+#~ msgid "of Paush"
+#~ msgstr "ବାହ୍ ର"
+
+#, fuzzy
+#~| msgctxt "of Mehr short"
+#~| msgid "of Meh"
+#~ msgctxt "Indian National month 11 - LongNamePossessive"
+#~ msgid "of Māgh"
+#~ msgstr "ମେହ୍ ର"
+
+#, fuzzy
+#~| msgid "Kha"
+#~ msgctxt "Indian National month 1 - ShortName"
+#~ msgid "Cha"
+#~ msgstr "ଖା"
+
+#, fuzzy
+#~| msgctxt "January"
+#~| msgid "Jan"
+#~ msgctxt "Indian National month 3 - ShortName"
+#~ msgid "Jya"
+#~ msgstr "Jan"
+
+#, fuzzy
+#~| msgctxt "Shahrivar short"
+#~| msgid "Sha"
+#~ msgctxt "Indian National month 5 - ShortName"
+#~ msgid "Shr"
+#~ msgstr "ଶା"
+
+#, fuzzy
+#~| msgid "Arb"
+#~ msgctxt "Indian National month 9 - ShortName"
+#~ msgid "Agr"
+#~ msgstr "ଆରବ"
+
+#, fuzzy
+#~| msgid "Pause"
+#~ msgctxt "Indian National month 10 - ShortName"
+#~ msgid "Pau"
+#~ msgstr "ବିରତି"
+
+#, fuzzy
+#~| msgctxt "KCharselect unicode block name"
+#~| msgid "Thaana"
+#~ msgctxt "Indian National month 9 - LongName"
+#~ msgid "Agrahayana"
+#~ msgstr "ଥାନା"
+
+#, fuzzy
+#~| msgid "Pause"
+#~ msgctxt "Indian National month 10 - LongName"
+#~ msgid "Paush"
+#~ msgstr "ବିରତି"
+
+#, fuzzy
+#~| msgctxt "Jumee short"
+#~| msgid "Jom"
+#~ msgctxt "Indian National weekday 1 - ShortDayName"
+#~ msgid "Som"
+#~ msgstr "ଜମ"
+
+#, fuzzy
+#~| msgctxt "KCharselect unicode block name"
+#~| msgid "Buhid"
+#~ msgctxt "Indian National weekday 3 - ShortDayName"
+#~ msgid "Bud"
+#~ msgstr "ବୁହିଦ"
+
+#, fuzzy
+#~| msgctxt "Sunday"
+#~| msgid "Sun"
+#~ msgctxt "Indian National weekday 5 - ShortDayName"
+#~ msgid "Suk"
+#~ msgstr "ରବି"
+
+#, fuzzy
+#~| msgid "Sivan"
+#~ msgctxt "Indian National weekday 6 - ShortDayName"
+#~ msgid "San"
+#~ msgstr "ସିୱାନ"
+
+#~ msgid "of Muharram"
+#~ msgstr "ମୁହରମର"
+
+#~ msgid "of Safar"
+#~ msgstr "ସଫରର"
+
+#~ msgid "of R. Awal"
+#~ msgstr "ଆର. ଆୱାଲର"
+
+#~ msgid "of R. Thaani"
+#~ msgstr "ଆର. ଥାନିର"
+
+#~ msgid "of J. Awal"
+#~ msgstr "ଜେ. ଆୱାଲର"
+
+#~ msgid "of J. Thaani"
+#~ msgstr "ଜେ. ଥାନିର"
+
+#~ msgid "of Rajab"
+#~ msgstr "ରଜବର"
+
+#~ msgid "of Sha`ban"
+#~ msgstr "ଶା`ବାନର"
+
+#~ msgid "of Ramadan"
+#~ msgstr "ରାମାଦାନର"
+
+#~ msgid "of Shawwal"
+#~ msgstr "ଶାୱାଲର"
+
+#~ msgid "of Qi`dah"
+#~ msgstr "କ୍ୱି`ଦାହ୍ ର"
+
+#~ msgid "of Hijjah"
+#~ msgstr "ହିଜ୍ଜାର"
+
+#~ msgid "of Rabi` al-Awal"
+#~ msgstr "ରାବି` ଆଲ-ଆୱାଲର"
+
+#~ msgid "of Rabi` al-Thaani"
+#~ msgstr "ରାବି` ଆଲ-ଥାନିର"
+
+#~ msgid "of Jumaada al-Awal"
+#~ msgstr "ଜୁମ୍ମାଦା ଆଲ-ଆୱାଲର"
+
+#~ msgid "of Jumaada al-Thaani"
+#~ msgstr "ଜୁମ୍ମାଦା ଆଲ-ଥାନିର"
+
+#~ msgid "of Thu al-Qi`dah"
+#~ msgstr "ଥୁ ଆଲ-କାଇ`ଦାହ୍ ର"
+
+#~ msgid "of Thu al-Hijjah"
+#~ msgstr "ଥୁ ଆଲ-ହିଜ୍ଜାହ୍ ର"
+
+#~ msgid "Muharram"
+#~ msgstr "ମୁହରମ"
+
+#~ msgid "Safar"
+#~ msgstr "ସଫର"
+
+#~ msgid "R. Awal"
+#~ msgstr "ଆର. ଆୱାଲ"
+
+#~ msgid "R. Thaani"
+#~ msgstr "ଆର. ଥାନି"
+
+#~ msgid "J. Awal"
+#~ msgstr "ଜେ. ଆୱାଲ"
+
+#~ msgid "J. Thaani"
+#~ msgstr "ଜେ. ଥାନି"
+
+#~ msgid "Rajab"
+#~ msgstr "ରଜବ"
+
+#~ msgid "Sha`ban"
+#~ msgstr "ଶା`ବାନ"
+
+#~ msgid "Ramadan"
+#~ msgstr "ରାମାଦାନ"
+
+#~ msgid "Shawwal"
+#~ msgstr "ଶାୱାଲ"
+
+#~ msgid "Qi`dah"
+#~ msgstr "କାଇ`ଦାହ"
+
+#~ msgid "Hijjah"
+#~ msgstr "ହିଜ୍ଜାହ୍"
+
+#~ msgid "Rabi` al-Awal"
+#~ msgstr "ରାବି` ଆଲ-ଆୱାଲ"
+
+#~ msgid "Rabi` al-Thaani"
+#~ msgstr "ରାବି` ଆଲ-ଥାନି"
+
+#~ msgid "Jumaada al-Awal"
+#~ msgstr "ଜୁମାଦା ଆଲ-ଆୱାଲ"
+
+#~ msgid "Jumaada al-Thaani"
+#~ msgstr "ଜୁମାଦା ଆଲ-ଥାନି"
+
+#~ msgid "Thu al-Qi`dah"
+#~ msgstr "ଥୁ ଆଲ-କାଇ`ଦାହ"
+
+#~ msgid "Thu al-Hijjah"
+#~ msgstr "ଥୁ ଆଲ-ହିଜ୍ଜାହ"
+
+#~ msgid "Ith"
+#~ msgstr "ଇଥ"
+
+#~ msgid "Thl"
+#~ msgstr "Thl"
+
+#~ msgid "Arb"
+#~ msgstr "ଆରବ"
+
+#~ msgid "Kha"
+#~ msgstr "ଖା"
+
+#~ msgid "Jum"
+#~ msgstr "ଜୁମ"
+
+#~ msgid "Sab"
+#~ msgstr "ସବ"
+
+#~ msgid "Ahd"
+#~ msgstr "Ahd"
+
+#~ msgid "Yaum al-Ithnain"
+#~ msgstr "Yaum al-Ithnain"
+
+#~ msgid "Yau al-Thulatha"
+#~ msgstr "Yau al-Thulatha"
+
+#~ msgid "Yaum al-Arbi'a"
+#~ msgstr "Yaum al-Arbi'a"
+
+#~ msgid "Yaum al-Khamees"
+#~ msgstr "Yaum al-Khamees"
+
+#~ msgid "Yaum al-Jumma"
+#~ msgstr "Yaum al-Jumma"
+
+#~ msgid "Yaum al-Sabt"
+#~ msgstr "Yaum al-Sabt"
+
+#~ msgid "Yaum al-Ahad"
+#~ msgstr "Yaum al-Ahad"
+
+#~ msgctxt "of Farvardin short"
+#~ msgid "of Far"
+#~ msgstr "ଫାର ର"
+
+#~ msgctxt "of Ordibehesht short"
+#~ msgid "of Ord"
+#~ msgstr "ଅର୍ଡ ର"
+
+#~ msgctxt "of Khordad short"
+#~ msgid "of Kho"
+#~ msgstr "ଖୋ ର"
+
+#~ msgctxt "of Tir short"
+#~ msgid "of Tir"
+#~ msgstr "ତିର ର"
+
+#~ msgctxt "of Mordad short"
+#~ msgid "of Mor"
+#~ msgstr "ମୋର ର"
+
+#~ msgctxt "of Shahrivar short"
+#~ msgid "of Sha"
+#~ msgstr "ଶା ର"
+
+#~ msgctxt "of Mehr short"
+#~ msgid "of Meh"
+#~ msgstr "ମେହ୍ ର"
+
+#~ msgctxt "of Aban short"
+#~ msgid "of Aba"
+#~ msgstr "ଆବା ର"
+
+#~ msgctxt "of Azar short"
+#~ msgid "of Aza"
+#~ msgstr "ଆଜା ର"
+
+#~ msgctxt "of Dei short"
+#~ msgid "of Dei"
+#~ msgstr "ଦେଇ ର"
+
+#~ msgctxt "of Bahman short"
+#~ msgid "of Bah"
+#~ msgstr "ବାହ୍ ର"
+
+#~ msgctxt "of Esfand short"
+#~ msgid "of Esf"
+#~ msgstr "ଏସ୍ଫ୍ ର"
+
+#~ msgctxt "Farvardin short"
+#~ msgid "Far"
+#~ msgstr "ଫାର "
+
+#~ msgctxt "Ordibehesht short"
+#~ msgid "Ord"
+#~ msgstr "ଅର୍ଡ"
+
+#~ msgctxt "Khordad short"
+#~ msgid "Kho"
+#~ msgstr "ଖୋ"
+
+#~ msgctxt "Tir short"
+#~ msgid "Tir"
+#~ msgstr "ତିର"
+
+#~ msgctxt "Mordad short"
+#~ msgid "Mor"
+#~ msgstr "ମୋର"
+
+#~ msgctxt "Shahrivar short"
+#~ msgid "Sha"
+#~ msgstr "ଶା"
+
+#~ msgctxt "Mehr short"
+#~ msgid "Meh"
+#~ msgstr "ମେହ୍"
+
+#~ msgctxt "Aban short"
+#~ msgid "Aba"
+#~ msgstr "ଆବା"
+
+#~ msgctxt "Azar short"
+#~ msgid "Aza"
+#~ msgstr "ଆଜା"
+
+#~ msgctxt "Dei short"
+#~ msgid "Dei"
+#~ msgstr "ଦେଇ"
+
+#~ msgctxt "Bahman short"
+#~ msgid "Bah"
+#~ msgstr "ବାହ୍"
+
+#~ msgctxt "Esfand"
+#~ msgid "Esf"
+#~ msgstr "ଏସଫ"
+
+#~ msgid "of Farvardin"
+#~ msgstr "ଫାରଭାଦିନ ର"
+
+#~ msgid "of Ordibehesht"
+#~ msgstr "ଓର୍ଡିବେହେଷ୍ଟ ର"
+
+#~ msgid "of Khordad"
+#~ msgstr "ଖର୍ଡାଡ ର"
+
+#~ msgctxt "of Tir long"
+#~ msgid "of Tir"
+#~ msgstr "ତିର ର"
+
+#~ msgid "of Mordad"
+#~ msgstr "ମରଦାଦ ର"
+
+#~ msgid "of Shahrivar"
+#~ msgstr "ଶାହରିଭାର ର"
+
+#~ msgid "of Mehr"
+#~ msgstr "ମେହର ର"
+
+#~ msgid "of Aban"
+#~ msgstr "ଆବାନ ର"
+
+#~ msgid "of Azar"
+#~ msgstr "ଆଜାର ର"
+
+#~ msgctxt "of Dei long"
+#~ msgid "of Dei"
+#~ msgstr "ଦେଇ ର"
+
+#~ msgid "of Bahman"
+#~ msgstr "ବାହମାନ ର"
+
+#~ msgid "of Esfand"
+#~ msgstr "ଏସଫାଣ୍ଡ ର"
+
+#~ msgid "Farvardin"
+#~ msgstr "ଫାରଭାଦିନ"
+
+#~ msgid "Ordibehesht"
+#~ msgstr "ଓର୍ଡିବେହେଷ୍ଟ"
+
+#~ msgid "Khordad"
+#~ msgstr "ଖୋରଦାଦ"
+
+#~ msgctxt "Tir long"
+#~ msgid "Tir"
+#~ msgstr "ତିର"
+
+#~ msgid "Mordad"
+#~ msgstr "ମୋରଦାଦ"
+
+#~ msgid "Shahrivar"
+#~ msgstr "ଶାହରିଭାର"
+
+#~ msgid "Mehr"
+#~ msgstr "ମେହର"
+
+#~ msgid "Aban"
+#~ msgstr "ଆବାନ"
+
+#~ msgid "Azar"
+#~ msgstr "ଆଜାର"
+
+#~ msgctxt "Dei long"
+#~ msgid "Dei"
+#~ msgstr "ଦେଇ"
+
+#~ msgid "Bahman"
+#~ msgstr "ବାହମାନ"
+
+#~ msgid "Esfand"
+#~ msgstr "ଏସଫାଣ୍ଡ"
+
+#~ msgctxt "Do shanbe short"
+#~ msgid "2sh"
+#~ msgstr "2sh"
+
+#~ msgctxt "Se shanbe short"
+#~ msgid "3sh"
+#~ msgstr "3sh"
+
+#~ msgctxt "Chahar shanbe short"
+#~ msgid "4sh"
+#~ msgstr "4sh"
+
+#~ msgctxt "Panj shanbe short"
+#~ msgid "5sh"
+#~ msgstr "5sh"
+
+#~ msgctxt "Jumee short"
+#~ msgid "Jom"
+#~ msgstr "ଜମ"
+
+#~ msgctxt "Shanbe short"
+#~ msgid "shn"
+#~ msgstr "shn"
+
+#~ msgctxt "Yek-shanbe short"
+#~ msgid "1sh"
+#~ msgstr "1sh"
+
+#~ msgid "Do shanbe"
+#~ msgstr "ଦୋ ଶାନୱେ"
+
+#~ msgid "Se shanbe"
+#~ msgstr "ସେ ଶାନୱେ"
+
+#~ msgid "Chahar shanbe"
+#~ msgstr "କହର ଶାନୱେ"
+
+#~ msgid "Panj shanbe"
+#~ msgstr "ପଞ୍ଜ ଶାନୱେ"
+
+#~ msgid "Jumee"
+#~ msgstr "ଜୁମୀ"
+
+#~ msgid "Shanbe"
+#~ msgstr "ଶାନୱେ"
+
+#~ msgid "Yek-shanbe"
+#~ msgstr "ଐକ-ଶାନୱେ"
+
+#~ msgid "of Tishrey"
+#~ msgstr "ତିସ୍ରେ ର"
+
+#~ msgid "of Heshvan"
+#~ msgstr "ହେଶୱାନ ର"
+
+#~ msgid "of Kislev"
+#~ msgstr "କିସଲେଭ ର"
+
+#~ msgid "of Tevet"
+#~ msgstr "ତେଭେତ ର"
+
+#~ msgid "of Shvat"
+#~ msgstr "ଶ୍ୱାତ ର"
+
+#~ msgid "of Adar"
+#~ msgstr "ଆଦାର ର"
+
+#~ msgid "of Nisan"
+#~ msgstr "ନିସାନ ର"
+
+#~ msgid "of Iyar"
+#~ msgstr "ଆୟାର ର"
+
+#~ msgid "of Sivan"
+#~ msgstr "ସିୱାନ ର"
+
+#~ msgid "of Tamuz"
+#~ msgstr "ତାମୁଜ ର"
+
+#~ msgid "of Av"
+#~ msgstr "ଏଭ ର"
+
+#~ msgid "of Elul"
+#~ msgstr "ଏଲୁଲ ର"
+
+#~ msgid "of Adar I"
+#~ msgstr "ଆଦାର I ର"
+
+#~ msgid "of Adar II"
+#~ msgstr "ଆଦାର II ର"
+
+#~ msgid "Tishrey"
+#~ msgstr "ତିସ୍ରେ"
+
+#~ msgid "Heshvan"
+#~ msgstr "ହେଶୱାନ"
+
+#~ msgid "Kislev"
+#~ msgstr "କିସଲେଭ"
+
+#~ msgid "Tevet"
+#~ msgstr "ତେଭେତ"
+
+#~ msgid "Shvat"
+#~ msgstr "ଶ୍ୱାତ"
+
+#~ msgid "Adar"
+#~ msgstr "ଆଦାର"
+
+#~ msgid "Nisan"
+#~ msgstr "ନିସାନ"
+
+#~ msgid "Iyar"
+#~ msgstr "ଆୟାର"
+
+#~ msgid "Sivan"
+#~ msgstr "ସିୱାନ"
+
+#~ msgid "Tamuz"
+#~ msgstr "ତାମୁଜ"
+
+#~ msgid "Av"
+#~ msgstr "ଏଭ"
+
+#~ msgid "Elul"
+#~ msgstr "ଏଲୁଲ"
+
+#~ msgid "Adar I"
+#~ msgstr "ଆଦାର I"
+
+#~ msgid "Adar II"
+#~ msgstr "ଆଦାର II"
+
+#, fuzzy
+#~| msgctxt "KCharselect unicode block name"
+#~| msgid "Coptic"
+#~ msgctxt "@item Calendar system"
+#~ msgid "Coptic"
+#~ msgstr "କୋପଟିକ"
+
+#, fuzzy
+#~| msgctxt "KCharselect unicode block name"
+#~| msgid "Ethiopic"
+#~ msgctxt "@item Calendar system"
+#~ msgid "Ethiopian"
+#~ msgstr "ଇଥିଓପିକ"
+
+#~ msgctxt "@item Calendar system"
+#~ msgid "Gregorian"
+#~ msgstr "ଗ୍ରେଗରିଆନ"
+
+#, fuzzy
+#~| msgctxt "@item Calendar system"
+#~| msgid "Gregorian"
+#~ msgctxt "@item Calendar system"
+#~ msgid "Gregorian (Proleptic)"
+#~ msgstr "ଗ୍ରେଗରିଆନ"
+
+#~ msgctxt "@item Calendar system"
+#~ msgid "Hebrew"
+#~ msgstr "ହେବ୍ରିୟୁ"
+
+#~ msgctxt "@item Calendar system"
+#~ msgid "Hijri"
+#~ msgstr "ହିଜରି"
+
+#~ msgctxt "@item Calendar system"
+#~ msgid "Jalali"
+#~ msgstr "ଜଲାଲି"
+
+#, fuzzy
+#~| msgctxt "January"
+#~| msgid "Jan"
+#~ msgctxt "@item Calendar system"
+#~ msgid "Julian"
+#~ msgstr "Jan"
+
+#~ msgctxt "@item Calendar system"
+#~ msgid "Invalid Calendar Type"
+#~ msgstr "ଅବୈଧ କାଲେଣ୍ଡର ଟାଇପ"
+
+#, fuzzy
+#~| msgctxt "of Khordad short"
+#~| msgid "of Kho"
+#~ msgctxt "Coptic month 1 - ShortNamePossessive"
+#~ msgid "of Tho"
+#~ msgstr "ଖୋ ର"
+
+#, fuzzy
+#~| msgid "of Tamuz"
+#~ msgctxt "Coptic month 2 - ShortNamePossessive"
+#~ msgid "of Pao"
+#~ msgstr "ତାମୁଜ ର"
+
+#, fuzzy
+#~| msgid "of Shvat"
+#~ msgctxt "Coptic month 3 - ShortNamePossessive"
+#~ msgid "of Hat"
+#~ msgstr "ଶ୍ୱାତ ର"
+
+#, fuzzy
+#~| msgid "of Nisan"
+#~ msgctxt "Coptic month 4 - ShortNamePossessive"
+#~ msgid "of Kia"
+#~ msgstr "ନିସାନ ର"
+
+#, fuzzy
+#~| msgctxt "of February"
+#~| msgid "of Feb"
+#~ msgctxt "Coptic month 5 - ShortNamePossessive"
+#~ msgid "of Tob"
+#~ msgstr "of Feb"
+
+#, fuzzy
+#~| msgctxt "of Mehr short"
+#~| msgid "of Meh"
+#~ msgctxt "Coptic month 6 - ShortNamePossessive"
+#~ msgid "of Mes"
+#~ msgstr "ମେହ୍ ର"
+
+#, fuzzy
+#~| msgctxt "of March"
+#~| msgid "of Mar"
+#~ msgctxt "Coptic month 7 - ShortNamePossessive"
+#~ msgid "of Par"
+#~ msgstr "of Mar"
+
+#, fuzzy
+#~| msgid "of Tamuz"
+#~ msgctxt "Coptic month 8 - ShortNamePossessive"
+#~ msgid "of Pam"
+#~ msgstr "ତାମୁଜ ର"
+
+#, fuzzy
+#~| msgctxt "of Bahman short"
+#~| msgid "of Bah"
+#~ msgctxt "Coptic month 9 - ShortNamePossessive"
+#~ msgid "of Pas"
+#~ msgstr "ବାହ୍ ର"
+
+#, fuzzy
+#~| msgctxt "of January"
+#~| msgid "of Jan"
+#~ msgctxt "Coptic month 10 - ShortNamePossessive"
+#~ msgid "of Pan"
+#~ msgstr "of Jan"
+
+#, fuzzy
+#~| msgctxt "of February"
+#~| msgid "of Feb"
+#~ msgctxt "Coptic month 11 - ShortNamePossessive"
+#~ msgid "of Epe"
+#~ msgstr "of Feb"
+
+#, fuzzy
+#~| msgctxt "of Mordad short"
+#~| msgid "of Mor"
+#~ msgctxt "Coptic month 12 - ShortNamePossessive"
+#~ msgid "of Meo"
+#~ msgstr "ମୋର ର"
+
+#, fuzzy
+#~| msgctxt "of Khordad short"
+#~| msgid "of Kho"
+#~ msgctxt "Coptic month 13 - ShortNamePossessive"
+#~ msgid "of Kou"
+#~ msgstr "ଖୋ ର"
+
+#, fuzzy
+#~| msgctxt "of Khordad short"
+#~| msgid "of Kho"
+#~ msgctxt "Coptic month 1 - LongNamePossessive"
+#~ msgid "of Thoout"
+#~ msgstr "ଖୋ ର"
+
+#, fuzzy
+#~| msgid "of Tamuz"
+#~ msgctxt "Coptic month 2 - LongNamePossessive"
+#~ msgid "of Paope"
+#~ msgstr "ତାମୁଜ ର"
+
+#, fuzzy
+#~| msgid "of Hijjah"
+#~ msgctxt "Coptic month 3 - LongNamePossessive"
+#~ msgid "of Hathor"
+#~ msgstr "ହିଜ୍ଜାର"
+
+#, fuzzy
+#~| msgctxt "of Khordad short"
+#~| msgid "of Kho"
+#~ msgctxt "Coptic month 4 - LongNamePossessive"
+#~ msgid "of Kiahk"
+#~ msgstr "ଖୋ ର"
+
+#, fuzzy
+#~| msgid "of October"
+#~ msgctxt "Coptic month 5 - LongNamePossessive"
+#~ msgid "of Tobe"
+#~ msgstr "ଅକ୍ଟୋବର ର"
+
+#, fuzzy
+#~| msgid "of Mehr"
+#~ msgctxt "Coptic month 6 - LongNamePossessive"
+#~ msgid "of Meshir"
+#~ msgstr "ମେହର ର"
+
+#, fuzzy
+#~| msgid "of Tamuz"
+#~ msgctxt "Coptic month 8 - LongNamePossessive"
+#~ msgid "of Parmoute"
+#~ msgstr "ତାମୁଜ ର"
+
+#, fuzzy
+#~| msgctxt "of Bahman short"
+#~| msgid "of Bah"
+#~ msgctxt "Coptic month 9 - LongNamePossessive"
+#~ msgid "of Pashons"
+#~ msgstr "ବାହ୍ ର"
+
+#, fuzzy
+#~| msgctxt "of January"
+#~| msgid "of Jan"
+#~ msgctxt "Coptic month 10 - LongNamePossessive"
+#~ msgid "of Paone"
+#~ msgstr "of Jan"
+
+#, fuzzy
+#~| msgctxt "of September"
+#~| msgid "of Sep"
+#~ msgctxt "Coptic month 11 - LongNamePossessive"
+#~ msgid "of Epep"
+#~ msgstr "of Sep"
+
+#, fuzzy
+#~| msgctxt "of Mordad short"
+#~| msgid "of Mor"
+#~ msgctxt "Coptic month 12 - LongNamePossessive"
+#~ msgid "of Mesore"
+#~ msgstr "ମୋର ର"
+
+#, fuzzy
+#~| msgid "Thl"
+#~ msgctxt "Coptic month 1 - ShortName"
+#~ msgid "Tho"
+#~ msgstr "Thl"
+
+#, fuzzy
+#~| msgid "Pause"
+#~ msgctxt "Coptic month 2 - ShortName"
+#~ msgid "Pao"
+#~ msgstr "ବିରତି"
+
+#, fuzzy
+#~| msgctxt "Saturday"
+#~| msgid "Sat"
+#~ msgctxt "Coptic month 3 - ShortName"
+#~ msgid "Hat"
+#~ msgstr "ଶନି"
+
+#, fuzzy
+#~| msgid "Kha"
+#~ msgctxt "Coptic month 4 - ShortName"
+#~ msgid "Kia"
+#~ msgstr "ଖା"
+
+#, fuzzy
+#~| msgid "Job"
+#~ msgctxt "Coptic month 5 - ShortName"
+#~ msgid "Tob"
+#~ msgstr "କାର୍ଯ୍ୟ"
+
+#, fuzzy
+#~| msgid "Yes"
+#~ msgctxt "Coptic month 6 - ShortName"
+#~ msgid "Mes"
+#~ msgstr "ହଁ"
+
+#, fuzzy
+#~| msgctxt "March"
+#~| msgid "Mar"
+#~ msgctxt "Coptic month 7 - ShortName"
+#~ msgid "Par"
+#~ msgstr "Mar"
+
+#, fuzzy
+#~| msgid "am"
+#~ msgctxt "Coptic month 8 - ShortName"
+#~ msgid "Pam"
+#~ msgstr "ପୂର୍ବାହ୍ନ"
+
+#, fuzzy
+#~| msgid "Pages"
+#~ msgctxt "Coptic month 9 - ShortName"
+#~ msgid "Pas"
+#~ msgstr "ପୃଷ୍ଠାଗୁଡିକ"
+
+#, fuzzy
+#~| msgctxt "January"
+#~| msgid "Jan"
+#~ msgctxt "Coptic month 10 - ShortName"
+#~ msgid "Pan"
+#~ msgstr "Jan"
+
+#, fuzzy
+#~| msgid "Escape"
+#~ msgctxt "Coptic month 11 - ShortName"
+#~ msgid "Epe"
+#~ msgstr "ବାହାରକୁ ଯାଆନ୍ତୁ (Escape)"
+
+#, fuzzy
+#~| msgctxt "Monday"
+#~| msgid "Mon"
+#~ msgctxt "Coptic month 12 - ShortName"
+#~ msgid "Meo"
+#~ msgstr "ସୋମ"
+
+#, fuzzy
+#~| msgctxt "Khordad short"
+#~| msgid "Kho"
+#~ msgctxt "Coptic month 13 - ShortName"
+#~ msgid "Kou"
+#~ msgstr "ଖୋ"
+
+#, fuzzy
+#~| msgctxt "Thursday"
+#~| msgid "Thu"
+#~ msgctxt "Coptic month 1 - LongName"
+#~ msgid "Thoout"
+#~ msgstr "ଗୁରୁ"
+
+#, fuzzy
+#~| msgid "Property"
+#~ msgctxt "Coptic month 2 - LongName"
+#~ msgid "Paope"
+#~ msgstr "ଗୁଣ"
+
+#, fuzzy
+#~| msgid "Author"
+#~ msgctxt "Coptic month 3 - LongName"
+#~ msgid "Hathor"
+#~ msgstr "ଲେଖକ"
+
+#, fuzzy
+#~| msgid "Mehr"
+#~ msgctxt "Coptic month 6 - LongName"
+#~ msgid "Meshir"
+#~ msgstr "ମେହର"
+
+#, fuzzy
+#~| msgid "Parameter"
+#~ msgctxt "Coptic month 7 - LongName"
+#~ msgid "Paremhotep"
+#~ msgstr "ପ୍ରାଚଳ"
+
+#, fuzzy
+#~| msgid "Parameter"
+#~ msgctxt "Coptic month 8 - LongName"
+#~ msgid "Parmoute"
+#~ msgstr "ପ୍ରାଚଳ"
+
+#, fuzzy
+#~| msgid "Pause"
+#~ msgctxt "Coptic month 9 - LongName"
+#~ msgid "Pashons"
+#~ msgstr "ବିରତି"
+
+#, fuzzy
+#~| msgctxt "No border line"
+#~| msgid "None"
+#~ msgctxt "Coptic month 10 - LongName"
+#~ msgid "Paone"
+#~ msgstr "କେହିନୁହଁ"
+
+#, fuzzy
+#~| msgid "Escape"
+#~ msgctxt "Coptic month 11 - LongName"
+#~ msgid "Epep"
+#~ msgstr "ବାହାରକୁ ଯାଆନ୍ତୁ (Escape)"
+
+#, fuzzy
+#~| msgid "&Restore"
+#~ msgctxt "Coptic month 12 - LongName"
+#~ msgid "Mesore"
+#~ msgstr "ପୁନଃସ୍ଥାପନ କରନ୍ତୁ (&R)"
+
+#, fuzzy
+#~| msgid "Pages"
+#~ msgctxt "Coptic weekday 1 - ShortDayName"
+#~ msgid "Pes"
+#~ msgstr "ପୃଷ୍ଠାଗୁଡିକ"
+
+#, fuzzy
+#~| msgid "Pause"
+#~ msgctxt "Coptic weekday 2 - ShortDayName"
+#~ msgid "Psh"
+#~ msgstr "ବିରତି"
+
+#, fuzzy
+#~| msgid "Pause"
+#~ msgctxt "Coptic weekday 6 - ShortDayName"
+#~ msgid "Psa"
+#~ msgstr "ବିରତି"
+
+#, fuzzy
+#~| msgid "Pause"
+#~ msgctxt "Coptic weekday 1 - LongDayName"
+#~ msgid "Pesnau"
+#~ msgstr "ବିରତି"
+
+#, fuzzy
+#~| msgid "Comment"
+#~ msgctxt "Coptic weekday 2 - LongDayName"
+#~ msgid "Pshoment"
+#~ msgstr "ଟିପ୍ପଣୀ"
+
+#, fuzzy
+#~| msgctxt "of Mehr short"
+#~| msgid "of Meh"
+#~ msgctxt "Ethiopian month 1 - ShortNamePossessive"
+#~ msgid "of Mes"
+#~ msgstr "ମେହ୍ ର"
+
+#, fuzzy
+#~| msgid "of Tevet"
+#~ msgctxt "Ethiopian month 2 - ShortNamePossessive"
+#~ msgid "of Teq"
+#~ msgstr "ତେଭେତ ର"
+
+#, fuzzy
+#~| msgctxt "of February"
+#~| msgid "of Feb"
+#~ msgctxt "Ethiopian month 3 - ShortNamePossessive"
+#~ msgid "of Hed"
+#~ msgstr "of Feb"
+
+#, fuzzy
+#~| msgctxt "of Bahman short"
+#~| msgid "of Bah"
+#~ msgctxt "Ethiopian month 4 - ShortNamePossessive"
+#~ msgid "of Tah"
+#~ msgstr "ବାହ୍ ର"
+
+#, fuzzy
+#~| msgctxt "of Tir short"
+#~| msgid "of Tir"
+#~ msgctxt "Ethiopian month 5 - ShortNamePossessive"
+#~ msgid "of Ter"
+#~ msgstr "ତିର ର"
+
+#, fuzzy
+#~| msgctxt "of January"
+#~| msgid "of Jan"
+#~ msgctxt "Ethiopian month 6 - ShortNamePossessive"
+#~ msgid "of Yak"
+#~ msgstr "of Jan"
+
+#, fuzzy
+#~| msgctxt "of March"
+#~| msgid "of Mar"
+#~ msgctxt "Ethiopian month 7 - ShortNamePossessive"
+#~ msgid "of Mag"
+#~ msgstr "of Mar"
+
+#, fuzzy
+#~| msgctxt "of May short"
+#~| msgid "of May"
+#~ msgctxt "Ethiopian month 8 - ShortNamePossessive"
+#~ msgid "of Miy"
+#~ msgstr "of May"
+
+#, fuzzy
+#~| msgctxt "of January"
+#~| msgid "of Jan"
+#~ msgctxt "Ethiopian month 9 - ShortNamePossessive"
+#~ msgid "of Gen"
+#~ msgstr "of Jan"
+
+#, fuzzy
+#~| msgctxt "of September"
+#~| msgid "of Sep"
+#~ msgctxt "Ethiopian month 10 - ShortNamePossessive"
+#~ msgid "of Sen"
+#~ msgstr "of Sep"
+
+#, fuzzy
+#~| msgid "of Tamuz"
+#~ msgctxt "Ethiopian month 11 - ShortNamePossessive"
+#~ msgid "of Ham"
+#~ msgstr "ତାମୁଜ ର"
+
+#, fuzzy
+#~| msgctxt "of Mehr short"
+#~| msgid "of Meh"
+#~ msgctxt "Ethiopian month 12 - ShortNamePossessive"
+#~ msgid "of Neh"
+#~ msgstr "ମେହ୍ ର"
+
+#, fuzzy
+#~| msgid "of Tamuz"
+#~ msgctxt "Ethiopian month 13 - ShortNamePossessive"
+#~ msgid "of Pag"
+#~ msgstr "ତାମୁଜ ର"
+
+#, fuzzy
+#~| msgid "of Mehr"
+#~ msgctxt "Ethiopian month 1 - LongNamePossessive"
+#~ msgid "of Meskerem"
+#~ msgstr "ମେହର ର"
+
+#, fuzzy
+#~| msgid "of Tevet"
+#~ msgctxt "Ethiopian month 2 - LongNamePossessive"
+#~ msgid "of Tequemt"
+#~ msgstr "ତେଭେତ ର"
+
+#, fuzzy
+#~| msgid "of Adar"
+#~ msgctxt "Ethiopian month 3 - LongNamePossessive"
+#~ msgid "of Hedar"
+#~ msgstr "ଆଦାର ର"
+
+#, fuzzy
+#~| msgid "of Bahman"
+#~ msgctxt "Ethiopian month 4 - LongNamePossessive"
+#~ msgid "of Tahsas"
+#~ msgstr "ବାହମାନ ର"
+
+#, fuzzy
+#~| msgctxt "of Tir short"
+#~| msgid "of Tir"
+#~ msgctxt "Ethiopian month 5 - LongNamePossessive"
+#~ msgid "of Ter"
+#~ msgstr "ତିର ର"
+
+#, fuzzy
+#~| msgctxt "of Farvardin short"
+#~| msgid "of Far"
+#~ msgctxt "Ethiopian month 6 - LongNamePossessive"
+#~ msgid "of Yakatit"
+#~ msgstr "ଫାର ର"
+
+#, fuzzy
+#~| msgid "of Rajab"
+#~ msgctxt "Ethiopian month 7 - LongNamePossessive"
+#~ msgid "of Magabit"
+#~ msgstr "ରଜବର"
+
+#, fuzzy
+#~| msgctxt "of May short"
+#~| msgid "of May"
+#~ msgctxt "Ethiopian month 8 - LongNamePossessive"
+#~ msgid "of Miyazya"
+#~ msgstr "of May"
+
+#, fuzzy
+#~| msgctxt "of February"
+#~| msgid "of Feb"
+#~ msgctxt "Ethiopian month 9 - LongNamePossessive"
+#~ msgid "of Genbot"
+#~ msgstr "of Feb"
+
+#, fuzzy
+#~| msgctxt "of September"
+#~| msgid "of Sep"
+#~ msgctxt "Ethiopian month 10 - LongNamePossessive"
+#~ msgid "of Sene"
+#~ msgstr "of Sep"
+
+#, fuzzy
+#~| msgid "of Tamuz"
+#~ msgctxt "Ethiopian month 11 - LongNamePossessive"
+#~ msgid "of Hamle"
+#~ msgstr "ତାମୁଜ ର"
+
+#, fuzzy
+#~| msgctxt "of Shahrivar short"
+#~| msgid "of Sha"
+#~ msgctxt "Ethiopian month 12 - LongNamePossessive"
+#~ msgid "of Nehase"
+#~ msgstr "ଶା ର"
+
+#, fuzzy
+#~| msgid "of Tamuz"
+#~ msgctxt "Ethiopian month 13 - LongNamePossessive"
+#~ msgid "of Pagumen"
+#~ msgstr "ତାମୁଜ ର"
+
+#, fuzzy
+#~| msgid "Yes"
+#~ msgctxt "Ethiopian month 1 - ShortName"
+#~ msgid "Mes"
+#~ msgstr "ହଁ"
+
+#, fuzzy
+#~| msgctxt "Tuesday"
+#~| msgid "Tue"
+#~ msgctxt "Ethiopian month 2 - ShortName"
+#~ msgid "Teq"
+#~ msgstr "ମଙ୍ଗଳ"
+
+#, fuzzy
+#~| msgctxt "Wednesday"
+#~| msgid "Wed"
+#~ msgctxt "Ethiopian month 3 - ShortName"
+#~ msgid "Hed"
+#~ msgstr "ବୁଧ"
+
+#, fuzzy
+#~| msgid "Thl"
+#~ msgctxt "Ethiopian month 4 - ShortName"
+#~ msgid "Tah"
+#~ msgstr "Thl"
+
+#, fuzzy
+#~| msgctxt "Tuesday"
+#~| msgid "Tue"
+#~ msgctxt "Ethiopian month 5 - ShortName"
+#~ msgid "Ter"
+#~ msgstr "ମଙ୍ଗଳ"
+
+#, fuzzy
+#~| msgctxt "March"
+#~| msgid "Mar"
+#~ msgctxt "Ethiopian month 7 - ShortName"
+#~ msgid "Mag"
+#~ msgstr "Mar"
+
+#, fuzzy
+#~| msgctxt "May short"
+#~| msgid "May"
+#~ msgctxt "Ethiopian month 8 - ShortName"
+#~ msgid "Miy"
+#~ msgstr "May"
+
+#, fuzzy
+#~| msgid "Green:"
+#~ msgctxt "Ethiopian month 9 - ShortName"
+#~ msgid "Gen"
+#~ msgstr "ସବୁଜ:"
+
+#, fuzzy
+#~| msgid "&Send"
+#~ msgctxt "Ethiopian month 10 - ShortName"
+#~ msgid "Sen"
+#~ msgstr "ପଠାନ୍ତୁ (&S)"
+
+#, fuzzy
+#~| msgid "am"
+#~ msgctxt "Ethiopian month 11 - ShortName"
+#~ msgid "Ham"
+#~ msgstr "ପୂର୍ବାହ୍ନ"
+
+#, fuzzy
+#~| msgctxt "Mehr short"
+#~| msgid "Meh"
+#~ msgctxt "Ethiopian month 12 - ShortName"
+#~ msgid "Neh"
+#~ msgstr "ମେହ୍"
+
+#, fuzzy
+#~| msgid "Pages"
+#~ msgctxt "Ethiopian month 13 - ShortName"
+#~ msgid "Pag"
+#~ msgstr "ପୃଷ୍ଠାଗୁଡିକ"
+
+#, fuzzy
+#~| msgid "Tevet"
+#~ msgctxt "Ethiopian month 2 - LongName"
+#~ msgid "Tequemt"
+#~ msgstr "ତେଭେତ"
+
+#, fuzzy
+#~| msgid "Adar"
+#~ msgctxt "Ethiopian month 3 - LongName"
+#~ msgid "Hedar"
+#~ msgstr "ଆଦାର"
+
+#, fuzzy
+#~| msgid "Task"
+#~ msgctxt "Ethiopian month 4 - LongName"
+#~ msgid "Tahsas"
+#~ msgstr "କାର୍ଯ୍ୟ"
+
+#, fuzzy
+#~| msgctxt "Tuesday"
+#~| msgid "Tue"
+#~ msgctxt "Ethiopian month 5 - LongName"
+#~ msgid "Ter"
+#~ msgstr "ମଙ୍ଗଳ"
+
+#, fuzzy
+#~| msgid "&Send"
+#~ msgctxt "Ethiopian month 10 - LongName"
+#~ msgid "Sene"
+#~ msgstr "ପଠାନ୍ତୁ (&S)"
+
+#, fuzzy
+#~| msgid "Name"
+#~ msgctxt "Ethiopian month 11 - LongName"
+#~ msgid "Hamle"
+#~ msgstr "ନାମ"
+
+#, fuzzy
+#~| msgid "Name"
+#~ msgctxt "Ethiopian month 12 - LongName"
+#~ msgid "Nehase"
+#~ msgstr "ନାମ"
+
+#, fuzzy
+#~| msgid "Pages"
+#~ msgctxt "Ethiopian month 13 - LongName"
+#~ msgid "Pagumen"
+#~ msgstr "ପୃଷ୍ଠାଗୁଡିକ"
+
+#, fuzzy
+#~| msgctxt "September"
+#~| msgid "Sep"
+#~ msgctxt "Ethiopian weekday 1 - ShortDayName"
+#~ msgid "Seg"
+#~ msgstr "Sep"
+
+#, fuzzy
+#~| msgctxt "March"
+#~| msgid "Mar"
+#~ msgctxt "Ethiopian weekday 2 - ShortDayName"
+#~ msgid "Mak"
+#~ msgstr "Mar"
+
+#, fuzzy
+#~| msgid "Job"
+#~ msgctxt "Ethiopian weekday 3 - ShortDayName"
+#~ msgid "Rob"
+#~ msgstr "କାର୍ଯ୍ୟ"
+
+#, fuzzy
+#~| msgid "am"
+#~ msgctxt "Ethiopian weekday 4 - ShortDayName"
+#~ msgid "Ham"
+#~ msgstr "ପୂର୍ବାହ୍ନ"
+
+#, fuzzy
+#~| msgid "Arb"
+#~ msgctxt "Ethiopian weekday 5 - ShortDayName"
+#~ msgid "Arb"
+#~ msgstr "ଆରବ"
+
+#, fuzzy
+#~| msgctxt "Wednesday"
+#~| msgid "Wed"
+#~ msgctxt "Ethiopian weekday 6 - ShortDayName"
+#~ msgid "Qed"
+#~ msgstr "ବୁଧ"
+
+#, fuzzy
+#~| msgctxt "Thursday"
+#~| msgid "Thu"
+#~ msgctxt "Ethiopian weekday 7 - ShortDayName"
+#~ msgid "Ehu"
+#~ msgstr "ଗୁରୁ"
+
+#, fuzzy
+#~| msgid "&Send"
+#~ msgctxt "Ethiopian weekday 1 - LongDayName"
+#~ msgid "Segno"
+#~ msgstr "ପଠାନ୍ତୁ (&S)"
+
+#, fuzzy
+#~| msgid "Job"
+#~ msgctxt "Ethiopian weekday 3 - LongDayName"
+#~ msgid "Rob"
+#~ msgstr "କାର୍ଯ୍ୟ"
+
+#, fuzzy
+#~| msgid "Pause"
+#~ msgctxt "Ethiopian weekday 4 - LongDayName"
+#~ msgid "Hamus"
+#~ msgstr "ବିରତି"
+
+#, fuzzy
+#~| msgid "Arb"
+#~ msgctxt "Ethiopian weekday 5 - LongDayName"
+#~ msgid "Arb"
+#~ msgstr "ଆରବ"
+
+#, fuzzy
+#~| msgid "Name"
+#~ msgctxt "Ethiopian weekday 6 - LongDayName"
+#~ msgid "Qedame"
+#~ msgstr "ନାମ"
 
 #, fuzzy
 #~| msgid "Most Downloads"
