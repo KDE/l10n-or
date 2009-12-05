@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-12-04 06:02+0100\n"
+"POT-Creation-Date: 2009-12-05 06:14+0100\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -85,7 +85,7 @@ msgstr "ସହଯୋଗ"
 #. i18n: file: knewstuff/knewstuff3/uploaddialog.ui:14
 #. i18n: ectx: property (windowTitle), widget (QWidget, UploadDialog)
 #: rc.cpp:26 rc.cpp:98 knewstuff/knewstuff2/ui/uploaddialog.cpp:58
-#: knewstuff/knewstuff3/uploaddialog.cpp:120
+#: knewstuff/knewstuff3/uploaddialog.cpp:118
 msgid "Share Hot New Stuff"
 msgstr "ନୂତନ ଉପାଦାନକୁ ସହଭାଗ କରନ୍ତୁ"
 
@@ -285,7 +285,7 @@ msgstr "ଦୟାକରି ଆପଣଙ୍କ ବିଷୟରେ କିଛି �
 
 #. i18n: file: knewstuff/knewstuff3/uploaddialog.ui:92
 #. i18n: ectx: property (title), widget (QGroupBox, uploadGroup)
-#: rc.cpp:113 knewstuff/knewstuff3/uploaddialog.cpp:297
+#: rc.cpp:113 knewstuff/knewstuff3/uploaddialog.cpp:295
 #, fuzzy
 #| msgctxt "Reload KDE configuration messagebox"
 #| msgid "Reload"
@@ -4802,7 +4802,7 @@ msgid "Payload"
 msgstr "Payload"
 
 #: knewstuff/knewstuff2/ui/uploaddialog.cpp:65
-#: knewstuff/knewstuff3/uploaddialog.cpp:128
+#: knewstuff/knewstuff3/uploaddialog.cpp:126
 #, fuzzy, kde-format
 #| msgctxt "Program name followed by 'Add On Installer'"
 #| msgid "%1 Add-On Installer"
@@ -4811,7 +4811,7 @@ msgid "%1 Add-On Uploader"
 msgstr "%1 ଅତିରିକ୍ତ ସ୍ଥାପନକାରୀ"
 
 #: knewstuff/knewstuff2/ui/uploaddialog.cpp:92
-#: knewstuff/knewstuff3/uploaddialog.cpp:216
+#: knewstuff/knewstuff3/uploaddialog.cpp:214
 msgid "Please put in a name."
 msgstr "ଦୟାକରି ଗୋଟିଏ ନାମରେ ରଖନ୍ତୁ।"
 
@@ -4829,14 +4829,14 @@ msgstr "ଭରଣ କରନ୍ତୁ ନାହିଁ"
 
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:127
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:555
-#: knewstuff/knewstuff3/downloaddialog.cpp:174
-#: knewstuff/knewstuff3/downloaddialog.cpp:274
+#: knewstuff/knewstuff3/downloaddialog.cpp:82
+#: knewstuff/knewstuff3/downloaddialog_p.cpp:139
 #: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:68
 msgid "Get Hot New Stuff"
 msgstr "ନୂତନ ଉପାଦାନ ଗ୍ରହଣକରନ୍ତୁ"
 
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:129
-#: knewstuff/knewstuff3/downloaddialog.cpp:176
+#: knewstuff/knewstuff3/downloaddialog_p.cpp:191
 #, kde-format
 msgctxt "Program name followed by 'Add On Installer'"
 msgid "%1 Add-On Installer"
@@ -4863,7 +4863,7 @@ msgid "Re: %1"
 msgstr "Re: %1"
 
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:312
-#: knewstuff/knewstuff3/downloaddialog.cpp:200
+#: knewstuff/knewstuff3/downloaddialog_p.cpp:67
 #, fuzzy
 #| msgid "Timeout. Check Internet connection!"
 msgid "Timeout. Check Internet connection."
@@ -4875,19 +4875,19 @@ msgstr "ଭରଣଗୁଡିକ ଧାରଣକରିବାରେ ବିଫଳ 
 
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:503
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:252
-#: knewstuff/knewstuff3/downloaddialog.cpp:244
+#: knewstuff/knewstuff3/downloaddialog_p.cpp:111
 #, kde-format
 msgid "Server: %1"
 msgstr "ସର୍ଭର: %1"
 
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:504
-#: knewstuff/knewstuff3/downloaddialog.cpp:245
+#: knewstuff/knewstuff3/downloaddialog_p.cpp:112
 #, kde-format
 msgid "<br />Provider: %1"
 msgstr "<br />ପ୍ରଦାତା: %1"
 
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:505
-#: knewstuff/knewstuff3/downloaddialog.cpp:246
+#: knewstuff/knewstuff3/downloaddialog_p.cpp:113
 #, kde-format
 msgid "<br />Version: %1"
 msgstr "<br />ସଂସ୍କରଣ: %1"
@@ -4895,18 +4895,18 @@ msgstr "<br />ସଂସ୍କରଣ: %1"
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:509
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:82
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:258
-#: knewstuff/knewstuff3/downloaddialog.cpp:250
+#: knewstuff/knewstuff3/downloaddialog_p.cpp:117
 msgid "Provider information"
 msgstr "ସୂଚନା ପ୍ରଦାତା"
 
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:535
-#: knewstuff/knewstuff3/downloaddialog.cpp:262
+#: knewstuff/knewstuff3/downloaddialog_p.cpp:128
 #, kde-format
 msgid "Could not install %1"
 msgstr "%1କୁ ସ୍ଥାପନ କରିପାରିଲା ନାହିଁ"
 
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:536
-#: knewstuff/knewstuff3/downloaddialog.cpp:263
+#: knewstuff/knewstuff3/downloaddialog_p.cpp:129
 msgid "Get Hot New Stuff!"
 msgstr "ନୂତନ ଉପାଦାନ ଗ୍ରହଣକରନ୍ତୁ!"
 
@@ -5160,91 +5160,91 @@ msgid ""
 "installed, otherwise signing of the resources will not be possible.</qt>"
 msgstr ""
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:102
+#: knewstuff/knewstuff3/uploaddialog.cpp:99
 #, fuzzy, kde-format
 #| msgid "Rating: "
 msgctxt "Label showing the file name of a file that is about to be uploaded"
 msgid "Uploading: %1"
 msgstr "ଆକଳନ: "
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:124
+#: knewstuff/knewstuff3/uploaddialog.cpp:122
 #, fuzzy
 #| msgid "&Replace..."
 msgid "Upload..."
 msgstr "ବଦଳାନ୍ତୁ (&R)..."
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:132
+#: knewstuff/knewstuff3/uploaddialog.cpp:130
 #, fuzzy
 #| msgid "Provider information"
 msgid "Fetching provider information..."
 msgstr "ସୂଚନା ପ୍ରଦାତା"
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:211
+#: knewstuff/knewstuff3/uploaddialog.cpp:209
 #, fuzzy
 #| msgid "The rating could not be submitted."
 msgid "Provider could not be initialized."
 msgstr "ଏହି ଆକଳନଟି ଦାଖଲ ହୋଇପାରିଲା ନାହିଁ।"
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:223
+#: knewstuff/knewstuff3/uploaddialog.cpp:221
 msgid "Creating Content on Server..."
 msgstr ""
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:264
+#: knewstuff/knewstuff3/uploaddialog.cpp:262
 msgid "There was a network error."
 msgstr ""
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:264
-#: knewstuff/knewstuff3/uploaddialog.cpp:269
+#: knewstuff/knewstuff3/uploaddialog.cpp:262
+#: knewstuff/knewstuff3/uploaddialog.cpp:267
 #, fuzzy
 #| msgid "Download"
 msgid "Uploading Failed"
 msgstr "ଆହରଣ"
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:269
+#: knewstuff/knewstuff3/uploaddialog.cpp:267
 #, fuzzy
 #| msgid "Communication error"
 msgid "Authentication error."
 msgstr "ସଞ୍ଚାର ତ୍ରୁଟି"
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:275
+#: knewstuff/knewstuff3/uploaddialog.cpp:273
 #, fuzzy
 #| msgid "Loading Preview"
 msgid "Uploading preview and content..."
 msgstr "ପ୍ରାକଦର୍ଶନ ଧାରଣ କରୁଅଛି"
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:284
+#: knewstuff/knewstuff3/uploaddialog.cpp:282
 msgid "Uploading content..."
 msgstr ""
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:288
+#: knewstuff/knewstuff3/uploaddialog.cpp:286
 #, fuzzy
 #| msgid "Loading Preview"
 msgid "Uploading preview image and content..."
 msgstr "ପ୍ରାକଦର୍ଶନ ଧାରଣ କରୁଅଛି"
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:297
+#: knewstuff/knewstuff3/uploaddialog.cpp:295
 #, fuzzy, kde-format
 #| msgid "File %1 not found."
 msgid "File not found: %1"
 msgstr "ଫାଇଲ %1 ମିଳୁନାହିଁ।"
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:321
+#: knewstuff/knewstuff3/uploaddialog.cpp:319
 msgid "Content Added"
 msgstr ""
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:321
+#: knewstuff/knewstuff3/uploaddialog.cpp:319
 #, fuzzy
 #| msgid "Page loaded."
 msgid "File Uploaded"
 msgstr "ପୃଷ୍ଠା ଧାରଣକରାସରିଛି।"
 
-#: knewstuff/knewstuff3/downloaddialog.cpp:163
+#: knewstuff/knewstuff3/downloaddialog_p.cpp:183
 #, fuzzy
 #| msgid "Provider: %1"
 msgid "All Providers"
 msgstr "ପ୍ରଦାତା: %1"
 
-#: knewstuff/knewstuff3/downloaddialog.cpp:167
+#: knewstuff/knewstuff3/downloaddialog_p.cpp:187
 #, fuzzy
 #| msgid "Pages"
 msgid "All Categories"
@@ -9946,24 +9946,24 @@ msgid "Minimize"
 msgstr "କ୍ଷୁଦ୍ରତମ କରନ୍ତୁ"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:215
-#: kdeui/notifications/kstatusnotifieritem.cpp:379
-#: kdeui/notifications/kstatusnotifieritem.cpp:798
+#: kdeui/notifications/kstatusnotifieritem.cpp:351
+#: kdeui/notifications/kstatusnotifieritem.cpp:773
 msgid "&Minimize"
 msgstr "କ୍ଷୁଦ୍ରତମ କରନ୍ତୁ (&M)"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:219
-#: kdeui/notifications/kstatusnotifieritem.cpp:796
+#: kdeui/notifications/kstatusnotifieritem.cpp:771
 msgid "&Restore"
 msgstr "ପୁନଃସ୍ଥାପନ କରନ୍ତୁ (&R)"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:239
-#: kdeui/notifications/kstatusnotifieritem.cpp:806
+#: kdeui/notifications/kstatusnotifieritem.cpp:781
 #, kde-format
 msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
 msgstr "<qt>ଆପଣ ନିଶ୍ଚିତକି ଆପଣ ବିଦାୟ ନେବାକୁ ଚାହୁଁଛନ୍ତି <b>%1</b>?</qt>"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:242
-#: kdeui/notifications/kstatusnotifieritem.cpp:809
+#: kdeui/notifications/kstatusnotifieritem.cpp:784
 msgid "Confirm Quit From System Tray"
 msgstr "ତନ୍ତ୍ର ଧାରକରୁ ବିଦାୟନେବାକୁ ନିଶ୍ଚିତ କରନ୍ତୁ"
 
