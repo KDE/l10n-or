@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-12-05 06:14+0100\n"
+"POT-Creation-Date: 2009-12-06 06:14+0100\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -5380,6 +5380,10 @@ msgstr ""
 msgid "Could not make you a fan."
 msgstr "ଅସ୍ଥାୟୀ ଫାଇଲ ନିର୍ମାଣ କରିହେଲା ନାହିଁ।"
 
+#: kdewebkit/kwebpage.cpp:197 khtml/khtml_ext.cpp:933
+msgid "Overwrite File?"
+msgstr "ଫାଇଲ ନବଲିଖନ କରିବେକି? "
+
 #: dnssd/servicemodel.cpp:102
 msgid "Host"
 msgstr "ଆଧାର"
@@ -10236,10 +10240,6 @@ msgid ""
 "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr ""
 "\"%1\" ନାମକ ଗୋଟିଏ ଫାଇଲ ପୂର୍ବରୁ ଅବସ୍ଥିତ ଅଛି। ଆପଣ ନିଶ୍ଚିତକି ଆପଣ ଏଥିରେ ନବଲିଖନ କରିବାକୁ ଚାହୁଁଛନ୍ତି?"
-
-#: khtml/khtml_ext.cpp:933
-msgid "Overwrite File?"
-msgstr "ଫାଇଲ ନବଲିଖନ କରିବେକି? "
 
 #: khtml/khtml_ext.cpp:933
 msgid "Overwrite"
