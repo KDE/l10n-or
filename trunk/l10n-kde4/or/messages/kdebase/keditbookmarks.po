@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: keditbookmarks\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-01-08 06:11+0100\n"
+"POT-Creation-Date: 2010-02-05 02:24+0100\n"
 "PO-Revision-Date: 2009-01-02 11:47+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -105,22 +105,27 @@ msgid "*.xml|KDE Bookmark Files (*.xml)"
 msgstr ""
 
 #: bookmarkmodel.cpp:86
+msgctxt "name of the container of all browser bookmarks"
 msgid "Bookmarks"
 msgstr ""
 
-#: bookmarkmodel.cpp:184
-msgid "Bookmark"
-msgstr ""
-
 #: bookmarkmodel.cpp:186
-msgid "URL"
-msgstr ""
-
-#: bookmarkmodel.cpp:188
-msgid "Comment"
+msgctxt "@title:column name of a bookmark"
+msgid "Name"
 msgstr ""
 
 #: bookmarkmodel.cpp:190
+msgctxt "@title:column name of a bookmark"
+msgid "Location"
+msgstr ""
+
+#: bookmarkmodel.cpp:194
+msgctxt "@title:column comment for a bookmark"
+msgid "Comment"
+msgstr ""
+
+#: bookmarkmodel.cpp:198
+msgctxt "@title:column status of a bookmark"
 msgid "Status"
 msgstr ""
 
@@ -476,7 +481,7 @@ msgid "Rename"
 msgstr ""
 
 #: actionsimpl.cpp:104
-msgid "C&hange URL"
+msgid "C&hange Location"
 msgstr ""
 
 #: actionsimpl.cpp:110

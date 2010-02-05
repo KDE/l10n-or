@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libkonq\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-11-20 06:08+0100\n"
+"POT-Creation-Date: 2010-02-05 02:24+0100\n"
 "PO-Revision-Date: 2009-01-02 11:49+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -18,29 +18,6 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 "\n"
 "\n"
-
-#: knewmenu.cpp:147
-msgid "Create New"
-msgstr ""
-
-#: knewmenu.cpp:171
-msgid "Link to Device"
-msgstr ""
-
-#: knewmenu.cpp:495
-#, kde-format
-msgid "<qt>The template file <b>%1</b> does not exist.</qt>"
-msgstr ""
-
-#: knewmenu.cpp:504 knewmenu.cpp:550
-msgid "File name:"
-msgstr ""
-
-#: knewmenu.cpp:564
-msgid ""
-"Basic links can only point to local files or directories.\n"
-"Please use \"Link to Location\" for remote URLs."
-msgstr ""
 
 #: konq_copytomenu.cpp:78
 msgctxt "@title:menu"
@@ -126,11 +103,18 @@ msgstr ""
 msgid "Create hidden directory?"
 msgstr ""
 
-#: konq_operations.cpp:835 konq_operations.cpp:842
+#: konq_operations.cpp:835
+msgctxt "@label Default name when creating a folder"
+msgid "New Folder"
+msgstr ""
+
+#: konq_operations.cpp:842
+msgctxt "@title:window"
 msgid "New Folder"
 msgstr ""
 
 #: konq_operations.cpp:843
+msgctxt "@label:textbox"
 msgid "Enter folder name:"
 msgstr ""
 
