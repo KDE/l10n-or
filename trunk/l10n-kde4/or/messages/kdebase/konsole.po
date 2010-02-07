@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-02-05 02:24+0100\n"
+"POT-Creation-Date: 2010-02-07 07:39+0100\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1730,6 +1730,7 @@ msgid "Could not find binary: "
 msgstr ""
 
 #: Session.cpp:342
+msgctxt "@info:shell Alert the user with red color text"
 msgid "Warning: "
 msgstr ""
 
@@ -1765,6 +1766,7 @@ msgid "Activity in session '%1'"
 msgstr ""
 
 #: Session.cpp:721
+msgctxt "@info:shell This session is done"
 msgid "Finished"
 msgstr ""
 
