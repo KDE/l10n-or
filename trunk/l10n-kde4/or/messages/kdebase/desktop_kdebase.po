@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-02-16 06:22+0000\n"
+"POT-Creation-Date: 2010-02-17 06:45+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -2317,197 +2317,6 @@ msgctxt "Name"
 msgid "Find Files/Folders"
 msgstr "ଫାଇଲ/ଫୋଲଡର ଖୋଜନ୍ତୁ"
 
-#: apps/kinfocenter/info/devices.desktop:14
-msgctxt "Name"
-msgid "Devices"
-msgstr "ଉପକରଣଗୁଡ଼ିକ"
-
-#: apps/kinfocenter/info/devices.desktop:104
-msgctxt "Comment"
-msgid "Attached devices information"
-msgstr "ସଂଲଗ୍ନ ଉପକରଣଗୁଡ଼ିକର ସୂଚନା"
-
-#: apps/kinfocenter/info/dma.desktop:14
-msgctxt "Name"
-msgid "DMA-Channels"
-msgstr "DMA-ଚ୍ୟାନେଲଗୁଡ଼ିକ"
-
-#: apps/kinfocenter/info/dma.desktop:103
-msgctxt "Comment"
-msgid "DMA information"
-msgstr "DMA ସୂଚନା"
-
-#: apps/kinfocenter/info/interrupts.desktop:14
-msgctxt "Name"
-msgid "Interrupts"
-msgstr "ବ୍ୟାହାତ"
-
-#: apps/kinfocenter/info/interrupts.desktop:103
-msgctxt "Comment"
-msgid "Interrupt information"
-msgstr "ବ୍ୟାହାତ ସୂଚନା"
-
-#: apps/kinfocenter/info/ioports.desktop:14
-msgctxt "Name"
-msgid "IO-Ports"
-msgstr "IO-ସଂଯୋଗିକୀ"
-
-#: apps/kinfocenter/info/ioports.desktop:103
-msgctxt "Comment"
-msgid "IO-port information"
-msgstr "IO-ସଂଯୋଗିକୀ ସୂଚନା"
-
-#: apps/kinfocenter/info/processor.desktop:13
-msgctxt "Name"
-msgid "Processor"
-msgstr "ସଞ୍ଚାଳକ"
-
-#: apps/kinfocenter/info/processor.desktop:103
-msgctxt "Comment"
-msgid "Processor information"
-msgstr "ସଂଚାଳକ ସୂଚନା"
-
-#: apps/kinfocenter/info/scsi.desktop:13
-msgctxt "Name"
-msgid "SCSI"
-msgstr "SCSI"
-
-#: apps/kinfocenter/info/scsi.desktop:103
-msgctxt "Comment"
-msgid "SCSI information"
-msgstr "SCSI ସୂଚନା"
-
-#: apps/kinfocenter/info/sound.desktop:13
-msgctxt "Name"
-msgid "Sound"
-msgstr "ଧ୍ୱନୀ"
-
-#: apps/kinfocenter/info/sound.desktop:103
-msgctxt "Comment"
-msgid "Sound information"
-msgstr "ଧ୍ୱନି ସୂଚନା"
-
-#: apps/kinfocenter/info/xserver.desktop:13
-msgctxt "Name"
-msgid "X-Server"
-msgstr "X-ସର୍ଭର"
-
-#: apps/kinfocenter/info/xserver.desktop:102
-msgctxt "Comment"
-msgid "X-Server information"
-msgstr "X-ସର୍ଭର ସୂଚନା"
-
-#: apps/kinfocenter/ioslaveinfo/ioslaveinfo.desktop:2
-msgctxt "Comment"
-msgid "Information about available protocols"
-msgstr "ଉପଲବ୍ଧ ପ୍ରୋଟୋକଲଗୁଡ଼ିକ ବିଷୟରେ ସୂଚନା"
-
-#: apps/kinfocenter/ioslaveinfo/ioslaveinfo.desktop:141
-msgctxt "Name"
-msgid "Protocols"
-msgstr "ପ୍ରୋଟୋକଲଗୁଡ଼ିକ"
-
-#: apps/kinfocenter/kinfocenter.desktop:9
-msgctxt "Name"
-msgid "KInfoCenter"
-msgstr "KInfoCenter"
-
-#: apps/kinfocenter/kinfocenter.desktop:95
-msgctxt "GenericName"
-msgid "Info Center"
-msgstr "ସୂଚନା କେନ୍ଦ୍ର"
-
-#: apps/kinfocenter/memory/kcm_memory.desktop:12
-msgctxt "Name"
-msgid "Memory"
-msgstr "ସ୍ମୃତିସ୍ଥାନ"
-
-#: apps/kinfocenter/memory/kcm_memory.desktop:102
-msgctxt "Comment"
-msgid "Memory information"
-msgstr "ସ୍ମୃତିସ୍ଥାନ ସୂଚନା"
-
-#: apps/kinfocenter/nics/nic.desktop:11
-msgctxt "Name"
-msgid "Network Interfaces"
-msgstr "ନେଟୱର୍କ ଅନ୍ତରାପୃଷ୍ଠ"
-
-#: apps/kinfocenter/nics/nic.desktop:100
-#: workspace/plasma/generic/dataengines/network/plasma-dataengine-network.desktop:74
-msgctxt "Comment"
-msgid "Network interface information"
-msgstr "ନେଟୱର୍କ ଅନ୍ତାରାପୃଷ୍ଠ ସୂଚନା"
-
-#: apps/kinfocenter/opengl/opengl.desktop:11
-msgctxt "Name"
-msgid "OpenGL"
-msgstr "OpenGL"
-
-#: apps/kinfocenter/opengl/opengl.desktop:99
-msgctxt "Comment"
-msgid "OpenGL information"
-msgstr "OpenGL ସୂଚନା"
-
-#: apps/kinfocenter/partition/kcm_partition.desktop:11
-msgctxt "Name"
-msgid "Partitions"
-msgstr "ବିଭାଜନଗୁଡ଼ିକ"
-
-#: apps/kinfocenter/partition/kcm_partition.desktop:101
-msgctxt "Comment"
-msgid "Partition information"
-msgstr "ବିଭାଜନ ସୂଚନା"
-
-#: apps/kinfocenter/pci/kcm_pci.desktop:11
-msgctxt "Name"
-msgid "PCI"
-msgstr "PCI"
-
-#: apps/kinfocenter/pci/kcm_pci.desktop:100
-msgctxt "Comment"
-msgid "PCI information"
-msgstr "PCI ସୂଚନା"
-
-#: apps/kinfocenter/samba/smbstatus.desktop:11
-msgctxt "Name"
-msgid "Samba Status"
-msgstr "ସାମ୍ବା ସ୍ଥିତି"
-
-#: apps/kinfocenter/samba/smbstatus.desktop:100
-msgctxt "Comment"
-msgid "Samba status monitor"
-msgstr "ସାମ୍ବା ସ୍ଥିତି ପ୍ରଦର୍ଶିକା"
-
-#: apps/kinfocenter/solidproc/kcmsolidproc.desktop:10
-msgctxt "Name"
-msgid "Processor Information"
-msgstr "ସଞ୍ଚାଳକ ସୂଚନା"
-
-#: apps/kinfocenter/solidproc/kcmsolidproc.desktop:91
-msgctxt "Comment"
-msgid "Processor Information"
-msgstr "ସଞ୍ଚାଳକ ସୂଚନା"
-
-#: apps/kinfocenter/usbview/kcmusb.desktop:11
-msgctxt "Name"
-msgid "USB Devices"
-msgstr "USB ଉପକରଣ"
-
-#: apps/kinfocenter/usbview/kcmusb.desktop:100
-msgctxt "Comment"
-msgid "USB devices attached to this computer"
-msgstr "USB ଉପକରଣଗୁଡ଼ିକ ଏହି କମ୍ପୁଟର ସହିତ ସଂଲଗ୍ନ"
-
-#: apps/kinfocenter/view1394/kcmview1394.desktop:11
-msgctxt "Name"
-msgid "IEEE 1394 Devices"
-msgstr "IEEE 1394 ଉପକରଣଗୁଡ଼ିକ"
-
-#: apps/kinfocenter/view1394/kcmview1394.desktop:99
-msgctxt "Comment"
-msgid "Attached IEEE 1394 devices"
-msgstr "ସଂଲଗ୍ନ IEEE 1394 ଉପକରଣଗୁଡ଼ିକ"
-
 #: apps/konqueror/about/konq_aboutpage.desktop:3
 msgctxt "Name"
 msgid "About-Page for Konqueror"
@@ -3455,7 +3264,7 @@ msgctxt "Name"
 msgid "Open Collaboration Services provider"
 msgstr ""
 
-#: runtime/attica/kcm/kcm_attica.desktop:23
+#: runtime/attica/kcm/kcm_attica.desktop:24
 msgctxt "Comment"
 msgid "Manage Open Collaboration Services providers"
 msgstr ""
@@ -8627,7 +8436,7 @@ msgctxt "Name"
 msgid "Nepomuk Search Module"
 msgstr "Nepomuk ସର୍ଭିସ"
 
-#: runtime/nepomuk/kioslaves/search/kdedmodule/nepomuksearchmodule.desktop:45
+#: runtime/nepomuk/kioslaves/search/kdedmodule/nepomuksearchmodule.desktop:46
 msgctxt "Comment"
 msgid ""
 "Helper module for KIO to ensure automatic updates of nepomuksearch listings."
@@ -10476,6 +10285,197 @@ msgctxt "Comment"
 msgid "Configure Input Actions settings"
 msgstr "ଆବର୍ଜନା ପାତ୍ର ସଂରଚନାକୁ ବିନ୍ୟାସ କରନ୍ତୁ "
 
+#: workspace/kinfocenter/info/devices.desktop:14
+msgctxt "Name"
+msgid "Devices"
+msgstr "ଉପକରଣଗୁଡ଼ିକ"
+
+#: workspace/kinfocenter/info/devices.desktop:104
+msgctxt "Comment"
+msgid "Attached devices information"
+msgstr "ସଂଲଗ୍ନ ଉପକରଣଗୁଡ଼ିକର ସୂଚନା"
+
+#: workspace/kinfocenter/info/dma.desktop:14
+msgctxt "Name"
+msgid "DMA-Channels"
+msgstr "DMA-ଚ୍ୟାନେଲଗୁଡ଼ିକ"
+
+#: workspace/kinfocenter/info/dma.desktop:103
+msgctxt "Comment"
+msgid "DMA information"
+msgstr "DMA ସୂଚନା"
+
+#: workspace/kinfocenter/info/interrupts.desktop:14
+msgctxt "Name"
+msgid "Interrupts"
+msgstr "ବ୍ୟାହାତ"
+
+#: workspace/kinfocenter/info/interrupts.desktop:103
+msgctxt "Comment"
+msgid "Interrupt information"
+msgstr "ବ୍ୟାହାତ ସୂଚନା"
+
+#: workspace/kinfocenter/info/ioports.desktop:14
+msgctxt "Name"
+msgid "IO-Ports"
+msgstr "IO-ସଂଯୋଗିକୀ"
+
+#: workspace/kinfocenter/info/ioports.desktop:103
+msgctxt "Comment"
+msgid "IO-port information"
+msgstr "IO-ସଂଯୋଗିକୀ ସୂଚନା"
+
+#: workspace/kinfocenter/info/processor.desktop:13
+msgctxt "Name"
+msgid "Processor"
+msgstr "ସଞ୍ଚାଳକ"
+
+#: workspace/kinfocenter/info/processor.desktop:103
+msgctxt "Comment"
+msgid "Processor information"
+msgstr "ସଂଚାଳକ ସୂଚନା"
+
+#: workspace/kinfocenter/info/scsi.desktop:13
+msgctxt "Name"
+msgid "SCSI"
+msgstr "SCSI"
+
+#: workspace/kinfocenter/info/scsi.desktop:103
+msgctxt "Comment"
+msgid "SCSI information"
+msgstr "SCSI ସୂଚନା"
+
+#: workspace/kinfocenter/info/sound.desktop:13
+msgctxt "Name"
+msgid "Sound"
+msgstr "ଧ୍ୱନୀ"
+
+#: workspace/kinfocenter/info/sound.desktop:103
+msgctxt "Comment"
+msgid "Sound information"
+msgstr "ଧ୍ୱନି ସୂଚନା"
+
+#: workspace/kinfocenter/info/xserver.desktop:13
+msgctxt "Name"
+msgid "X-Server"
+msgstr "X-ସର୍ଭର"
+
+#: workspace/kinfocenter/info/xserver.desktop:102
+msgctxt "Comment"
+msgid "X-Server information"
+msgstr "X-ସର୍ଭର ସୂଚନା"
+
+#: workspace/kinfocenter/ioslaveinfo/ioslaveinfo.desktop:2
+msgctxt "Comment"
+msgid "Information about available protocols"
+msgstr "ଉପଲବ୍ଧ ପ୍ରୋଟୋକଲଗୁଡ଼ିକ ବିଷୟରେ ସୂଚନା"
+
+#: workspace/kinfocenter/ioslaveinfo/ioslaveinfo.desktop:141
+msgctxt "Name"
+msgid "Protocols"
+msgstr "ପ୍ରୋଟୋକଲଗୁଡ଼ିକ"
+
+#: workspace/kinfocenter/kinfocenter.desktop:9
+msgctxt "Name"
+msgid "KInfoCenter"
+msgstr "KInfoCenter"
+
+#: workspace/kinfocenter/kinfocenter.desktop:95
+msgctxt "GenericName"
+msgid "Info Center"
+msgstr "ସୂଚନା କେନ୍ଦ୍ର"
+
+#: workspace/kinfocenter/memory/kcm_memory.desktop:12
+msgctxt "Name"
+msgid "Memory"
+msgstr "ସ୍ମୃତିସ୍ଥାନ"
+
+#: workspace/kinfocenter/memory/kcm_memory.desktop:102
+msgctxt "Comment"
+msgid "Memory information"
+msgstr "ସ୍ମୃତିସ୍ଥାନ ସୂଚନା"
+
+#: workspace/kinfocenter/nics/nic.desktop:11
+msgctxt "Name"
+msgid "Network Interfaces"
+msgstr "ନେଟୱର୍କ ଅନ୍ତରାପୃଷ୍ଠ"
+
+#: workspace/kinfocenter/nics/nic.desktop:100
+#: workspace/plasma/generic/dataengines/network/plasma-dataengine-network.desktop:74
+msgctxt "Comment"
+msgid "Network interface information"
+msgstr "ନେଟୱର୍କ ଅନ୍ତାରାପୃଷ୍ଠ ସୂଚନା"
+
+#: workspace/kinfocenter/opengl/opengl.desktop:11
+msgctxt "Name"
+msgid "OpenGL"
+msgstr "OpenGL"
+
+#: workspace/kinfocenter/opengl/opengl.desktop:99
+msgctxt "Comment"
+msgid "OpenGL information"
+msgstr "OpenGL ସୂଚନା"
+
+#: workspace/kinfocenter/partition/kcm_partition.desktop:11
+msgctxt "Name"
+msgid "Partitions"
+msgstr "ବିଭାଜନଗୁଡ଼ିକ"
+
+#: workspace/kinfocenter/partition/kcm_partition.desktop:101
+msgctxt "Comment"
+msgid "Partition information"
+msgstr "ବିଭାଜନ ସୂଚନା"
+
+#: workspace/kinfocenter/pci/kcm_pci.desktop:11
+msgctxt "Name"
+msgid "PCI"
+msgstr "PCI"
+
+#: workspace/kinfocenter/pci/kcm_pci.desktop:100
+msgctxt "Comment"
+msgid "PCI information"
+msgstr "PCI ସୂଚନା"
+
+#: workspace/kinfocenter/samba/smbstatus.desktop:11
+msgctxt "Name"
+msgid "Samba Status"
+msgstr "ସାମ୍ବା ସ୍ଥିତି"
+
+#: workspace/kinfocenter/samba/smbstatus.desktop:100
+msgctxt "Comment"
+msgid "Samba status monitor"
+msgstr "ସାମ୍ବା ସ୍ଥିତି ପ୍ରଦର୍ଶିକା"
+
+#: workspace/kinfocenter/solidproc/kcmsolidproc.desktop:10
+msgctxt "Name"
+msgid "Processor Information"
+msgstr "ସଞ୍ଚାଳକ ସୂଚନା"
+
+#: workspace/kinfocenter/solidproc/kcmsolidproc.desktop:91
+msgctxt "Comment"
+msgid "Processor Information"
+msgstr "ସଞ୍ଚାଳକ ସୂଚନା"
+
+#: workspace/kinfocenter/usbview/kcmusb.desktop:11
+msgctxt "Name"
+msgid "USB Devices"
+msgstr "USB ଉପକରଣ"
+
+#: workspace/kinfocenter/usbview/kcmusb.desktop:100
+msgctxt "Comment"
+msgid "USB devices attached to this computer"
+msgstr "USB ଉପକରଣଗୁଡ଼ିକ ଏହି କମ୍ପୁଟର ସହିତ ସଂଲଗ୍ନ"
+
+#: workspace/kinfocenter/view1394/kcmview1394.desktop:11
+msgctxt "Name"
+msgid "IEEE 1394 Devices"
+msgstr "IEEE 1394 ଉପକରଣଗୁଡ଼ିକ"
+
+#: workspace/kinfocenter/view1394/kcmview1394.desktop:99
+msgctxt "Comment"
+msgid "Attached IEEE 1394 devices"
+msgstr "ସଂଲଗ୍ନ IEEE 1394 ଉପକରଣଗୁଡ଼ିକ"
+
 #: workspace/klipper/klipper.desktop:2
 msgctxt "Name"
 msgid "Klipper"
@@ -11098,7 +11098,7 @@ msgctxt "Name"
 msgid "Resize Window"
 msgstr ""
 
-#: workspace/kwin/effects/resize/resize.desktop:56
+#: workspace/kwin/effects/resize/resize.desktop:57
 msgctxt "Comment"
 msgid "Effect to outline geometry while resizing a window"
 msgstr ""
@@ -11195,7 +11195,7 @@ msgctxt "Name"
 msgid "Sliding popups"
 msgstr ""
 
-#: workspace/kwin/effects/slidingpopups/slidingpopups.desktop:51
+#: workspace/kwin/effects/slidingpopups/slidingpopups.desktop:52
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "System information for Plasmoids"
@@ -12338,7 +12338,7 @@ msgctxt "Name"
 msgid "CPU Monitor"
 msgstr "ଗୋଟିଏ CPU ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
 
-#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_cpu.desktop:15
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_cpu.desktop:16
 msgctxt "Comment"
 msgid "A CPU usage monitor"
 msgstr "ଗୋଟିଏ CPU ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
@@ -12348,7 +12348,7 @@ msgctxt "Name"
 msgid "Hard Disk Status"
 msgstr ""
 
-#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_hdd.desktop:15
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_hdd.desktop:16
 msgctxt "Comment"
 msgid "A hard disk usage monitor"
 msgstr "ଗୋଟିଏ ହାର୍ଡ଼ଡ଼ିସ୍କ ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
@@ -12361,7 +12361,7 @@ msgctxt "Name"
 msgid "Hardware Info"
 msgstr "ହାର୍ଡୱେର"
 
-#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_hwinfo.desktop:15
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_hwinfo.desktop:16
 msgctxt "Comment"
 msgid "Show hardware info"
 msgstr "ହାର୍ଡ଼ୱେର ସୂଚନା ଦର୍ଶାନ୍ତୁ"
@@ -12374,7 +12374,7 @@ msgctxt "Name"
 msgid "Network Monitor"
 msgstr "ନେଟୱର୍କ ସାଧନ"
 
-#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_net.desktop:18
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_net.desktop:19
 msgctxt "Comment"
 msgid "A network usage monitor"
 msgstr "ଗୋଟିଏ ନେଟୱର୍କ ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
@@ -12387,7 +12387,7 @@ msgctxt "Name"
 msgid "Memory Status"
 msgstr "ସାମ୍ବା ସ୍ଥିତି"
 
-#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_ram.desktop:15
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_ram.desktop:16
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "A CPU usage monitor"
@@ -12400,7 +12400,7 @@ msgctxt "Name"
 msgid "Hardware Temperature"
 msgstr ""
 
-#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_temperature.desktop:15
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_temperature.desktop:16
 msgctxt "Comment"
 msgid "A system temperature monitor"
 msgstr "ତନ୍ତ୍ର ଉତ୍ତାପ ନିରିକ୍ଷକ"
@@ -12556,7 +12556,7 @@ msgctxt "Name"
 msgid "Application Information"
 msgstr "ପ୍ରୟୋଗ କାର୍ଯ୍ୟ ସୂଚନା"
 
-#: workspace/plasma/generic/dataengines/apps/plasma-dataengine-apps.desktop:54
+#: workspace/plasma/generic/dataengines/apps/plasma-dataengine-apps.desktop:55
 msgctxt "Comment"
 msgid "Information and launching of all applications in the app menu."
 msgstr ""
