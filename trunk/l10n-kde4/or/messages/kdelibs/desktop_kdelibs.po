@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs.or\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-02-18 06:25+0000\n"
+"POT-Creation-Date: 2010-02-20 06:18+0000\n"
 "PO-Revision-Date: 2008-06-20 13:20+0530\n"
 "Last-Translator: Manoj Kumar Giri <giri.manojkr@gmail.com>\n"
 "Language-Team: Oriya\n"
@@ -128,6 +128,24 @@ msgstr "Data Tools"
 msgctxt "Comment"
 msgid "Enable data tools like thesaurus and spell check (if installed)"
 msgstr "Enable data tools like thesaurus and spell check (if installed)"
+
+#: kate/plugins/kte_iconinserter/ktexteditor_iconinserter.desktop:3
+msgctxt "Comment"
+msgid "Select an icon and use it as a KIcon in your source-code"
+msgstr ""
+
+#: kate/plugins/kte_iconinserter/ktexteditor_iconinserter.desktop:15
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Insert File"
+msgctxt "Name"
+msgid "IconInserter"
+msgstr "Insert File"
+
+#: kate/plugins/kte_iconinserter/ktexteditor_iconinserter.desktop:27
+msgctxt "GenericName"
+msgid "Insert Code for KIcon-Creation"
+msgstr ""
 
 #: kate/plugins/pythonencoding/ktexteditor_python-encoding.desktop:5
 msgctxt "Name"
