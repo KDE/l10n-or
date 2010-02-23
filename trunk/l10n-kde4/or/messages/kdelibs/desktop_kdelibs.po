@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs.or\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-02-22 06:19+0000\n"
+"POT-Creation-Date: 2010-02-23 06:25+0000\n"
 "PO-Revision-Date: 2008-06-20 13:20+0530\n"
 "Last-Translator: Manoj Kumar Giri <giri.manojkr@gmail.com>\n"
 "Language-Team: Oriya\n"
@@ -134,7 +134,7 @@ msgctxt "Comment"
 msgid "Select an icon and use it as a KIcon in your source-code"
 msgstr ""
 
-#: kate/plugins/kte_iconinserter/ktexteditor_iconinserter.desktop:7
+#: kate/plugins/kte_iconinserter/ktexteditor_iconinserter.desktop:8
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Insert File"
@@ -142,7 +142,7 @@ msgctxt "Name"
 msgid "IconInserter"
 msgstr "Insert File"
 
-#: kate/plugins/kte_iconinserter/ktexteditor_iconinserter.desktop:11
+#: kate/plugins/kte_iconinserter/ktexteditor_iconinserter.desktop:15
 msgctxt "GenericName"
 msgid "Insert Code for KIcon-Creation"
 msgstr ""
@@ -1140,13 +1140,13 @@ msgstr "KConfig ପାଇଁ ଭଣ୍ଡାର ପଛ ପାଖ"
 
 #: kdecore/network/kssld/kssld.desktop:8
 msgctxt "Name"
-msgid "KSSL Daemon Module"
-msgstr "KSSL ଡେମନ ଏକକାଂଶ"
+msgid "SSL Certificate Policy"
+msgstr ""
 
 #: kdecore/network/kssld/kssld.desktop:98
 msgctxt "Comment"
-msgid "KSSL daemon module for KDED"
-msgstr "KDED ପାଇଁ KSSL ଡେମନ ଏକକାଂଶ"
+msgid "Provides SSL Certificate Policy to applications"
+msgstr ""
 
 #: kdecore/services/kplugininfo.desktop:4
 msgctxt "Name"
@@ -1405,9 +1405,12 @@ msgid "Enhanced Browsing Plugin"
 msgstr "ବର୍ଦ୍ଧିତ ବ୍ରାଉଜିଙ୍ଗ ପ୍ଲଗଇନ"
 
 #: kio/misc/kpac/proxyscout.desktop:3
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Automatic Proxy Configuration"
 msgctxt "Name"
-msgid "Proxy Scout"
-msgstr "ଛାୟା ସ୍କାଉଟ"
+msgid "Network Proxy Configuration"
+msgstr "ସ୍ୱୟଂଚାଳିତ ଛାୟା ବିନ୍ୟାସ"
 
 #: kio/misc/kpac/proxyscout.desktop:91
 msgctxt "Comment"
@@ -1470,14 +1473,17 @@ msgid "Cleans up old entries from the HTTP cache"
 msgstr "HTTP ଗୁପ୍ତ ଭଣ୍ଡାର ରୁ ପୁରୁଣା ନିବେଶ ଗୁଡିକୁ ସଫାକରନ୍ତୁ"
 
 #: kioslave/http/kcookiejar/kcookiejar.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "KDED Cookie Jar Module"
 msgctxt "Name"
-msgid "KDED Cookie Jar Module"
+msgid "Cookie Jar"
 msgstr "KDED କୁକି ବିରୋଧି ଏକକାଂଶ"
 
 #: kioslave/http/kcookiejar/kcookiejar.desktop:90
 msgctxt "Comment"
-msgid "Keeps track of all cookies in the system"
-msgstr "ତନ୍ତ୍ରରେ ଥିବା ସମସ୍ତ କୁକିଗୁଡିକୁ ନିୟନ୍ତ୍ରଣ କରୁଅଛି"
+msgid "Stores network cookies"
+msgstr ""
 
 #: kio/tests/dummymeta.desktop:3
 msgctxt "Name"
@@ -1702,6 +1708,22 @@ msgstr "HSpell"
 msgctxt "Name"
 msgid "Hunspell"
 msgstr "HSpell"
+
+#~ msgctxt "Name"
+#~ msgid "KSSL Daemon Module"
+#~ msgstr "KSSL ଡେମନ ଏକକାଂଶ"
+
+#~ msgctxt "Comment"
+#~ msgid "KSSL daemon module for KDED"
+#~ msgstr "KDED ପାଇଁ KSSL ଡେମନ ଏକକାଂଶ"
+
+#~ msgctxt "Name"
+#~ msgid "Proxy Scout"
+#~ msgstr "ଛାୟା ସ୍କାଉଟ"
+
+#~ msgctxt "Comment"
+#~ msgid "Keeps track of all cookies in the system"
+#~ msgstr "ତନ୍ତ୍ରରେ ଥିବା ସମସ୍ତ କୁକିଗୁଡିକୁ ନିୟନ୍ତ୍ରଣ କରୁଅଛି"
 
 #, fuzzy
 #~| msgctxt "Name"
