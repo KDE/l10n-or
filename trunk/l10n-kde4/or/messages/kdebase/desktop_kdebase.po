@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-02-23 06:25+0000\n"
+"POT-Creation-Date: 2010-02-24 06:34+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -2366,7 +2366,7 @@ msgctxt "Name"
 msgid "Browser Preloader"
 msgstr ""
 
-#: apps/konqueror/preloader/konqy_preloader.desktop:87
+#: apps/konqueror/preloader/konqy_preloader.desktop:4
 msgctxt "Comment"
 msgid "Reduces Konqueror startup time"
 msgstr "Reduces Konqueror startup time"
@@ -3040,7 +3040,7 @@ msgctxt "Name"
 msgid "Favicons"
 msgstr "Favicons"
 
-#: apps/lib/konq/favicons/favicons.desktop:91
+#: apps/lib/konq/favicons/favicons.desktop:73
 msgctxt "Comment"
 msgid "Stores website icons"
 msgstr ""
@@ -3756,7 +3756,7 @@ msgctxt "Name"
 msgid "Directory Watcher"
 msgstr "ନେଟୱର୍କ ବିଶ୍ଳେଷକ"
 
-#: runtime/kioslave/desktop/desktopnotifier.desktop:84
+#: runtime/kioslave/desktop/desktopnotifier.desktop:11
 msgctxt "Comment"
 msgid "Monitors directories for changes"
 msgstr ""
@@ -3819,7 +3819,7 @@ msgctxt "Name"
 msgid "Remote URL Change Notifier"
 msgstr "KDED ସୁଦୂର ଆଧାର URL ସୂଚନା ଦାତା"
 
-#: runtime/kioslave/remote/kdedmodule/remotedirnotify.desktop:80
+#: runtime/kioslave/remote/kdedmodule/remotedirnotify.desktop:4
 msgctxt "Comment"
 msgid "Provides change notification to the remote:/ ioslave"
 msgstr ""
@@ -4141,7 +4141,7 @@ msgctxt "Name"
 msgid "Password Caching"
 msgstr "ପ୍ରବେଶ ସଂକେତ ଧରିବା ସମର୍ଥନ"
 
-#: runtime/kpasswdserver/kpasswdserver.desktop:82
+#: runtime/kpasswdserver/kpasswdserver.desktop:4
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Password caching support"
@@ -4393,7 +4393,7 @@ msgctxt "Name"
 msgid "Time Zone"
 msgstr "KDE ସମୟ ଅଞ୍ଚଳ ଡ଼େମନ"
 
-#: runtime/ktimezoned/ktimezoned.desktop:90
+#: runtime/ktimezoned/ktimezoned.desktop:11
 msgctxt "Comment"
 msgid "Holds the configured time zone for the desktop"
 msgstr ""
@@ -8676,7 +8676,7 @@ msgctxt "Name"
 msgid "Sound Policy"
 msgstr "ଧ୍ୱନି ନୀତି ସର୍ଭର"
 
-#: runtime/phonon/kded-module/phononserver.desktop:78
+#: runtime/phonon/kded-module/phononserver.desktop:9
 msgctxt "Comment"
 msgid "Provides sound system policy to applications"
 msgstr ""
@@ -8781,7 +8781,7 @@ msgctxt "Name"
 msgid "Drive Ejector"
 msgstr ""
 
-#: runtime/solidautoeject/solidautoeject.desktop:62
+#: runtime/solidautoeject/solidautoeject.desktop:8
 msgctxt "Comment"
 msgid "Automatically releases drives when their eject button is pushed"
 msgstr ""
@@ -8817,7 +8817,7 @@ msgctxt "Name"
 msgid "Hardware Detection"
 msgstr "ହାର୍ଡୱେର"
 
-#: runtime/soliduiserver/soliduiserver.desktop:82
+#: runtime/soliduiserver/soliduiserver.desktop:9
 msgctxt "Comment"
 msgid "Provides a user interface for hardware events"
 msgstr ""
@@ -9283,7 +9283,7 @@ msgctxt "Name"
 msgid "Display Management change monitor"
 msgstr ""
 
-#: workspace/kcontrol/randr/module/randrmonitor.desktop:47
+#: workspace/kcontrol/randr/module/randrmonitor.desktop:3
 msgctxt "Comment"
 msgid "Is this required when kephal has its own kded module?"
 msgstr ""
@@ -9876,7 +9876,7 @@ msgctxt "Name"
 msgid "Input Actions"
 msgstr ""
 
-#: workspace/khotkeys/app/khotkeys.desktop:88
+#: workspace/khotkeys/app/khotkeys.desktop:85
 msgctxt "Comment"
 msgid "Input Actions service performing configured actions on key presses"
 msgstr ""
@@ -11948,7 +11948,7 @@ msgid "KDE Write Daemon"
 msgstr ""
 
 #: workspace/kwrited/kwrited-autostart.desktop:88
-#: workspace/kwrited/kwrited.desktop:88
+#: workspace/kwrited/kwrited.desktop:3
 msgctxt "Comment"
 msgid "Watch for messages from local users sent with write(1) or wall(1)"
 msgstr ""
@@ -11981,7 +11981,7 @@ msgctxt "Name"
 msgid "Display Management"
 msgstr "ଫାଇଲ ପରିଚାଳନା"
 
-#: workspace/libs/kephal/kded_kephal/kephal.desktop:75
+#: workspace/libs/kephal/kded_kephal/kephal.desktop:11
 msgctxt "Comment"
 msgid "Manages displays and video outputs"
 msgstr ""
@@ -12344,7 +12344,7 @@ msgctxt "Name"
 msgid "CPU Monitor"
 msgstr "ଗୋଟିଏ CPU ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
 
-#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_cpu.desktop:18
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_cpu.desktop:19
 msgctxt "Comment"
 msgid "A CPU usage monitor"
 msgstr "ଗୋଟିଏ CPU ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
@@ -12354,7 +12354,7 @@ msgctxt "Name"
 msgid "Hard Disk Status"
 msgstr ""
 
-#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_hdd.desktop:18
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_hdd.desktop:19
 msgctxt "Comment"
 msgid "A hard disk usage monitor"
 msgstr "ଗୋଟିଏ ହାର୍ଡ଼ଡ଼ିସ୍କ ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
@@ -12367,7 +12367,7 @@ msgctxt "Name"
 msgid "Hardware Info"
 msgstr "ହାର୍ଡୱେର"
 
-#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_hwinfo.desktop:18
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_hwinfo.desktop:19
 msgctxt "Comment"
 msgid "Show hardware info"
 msgstr "ହାର୍ଡ଼ୱେର ସୂଚନା ଦର୍ଶାନ୍ତୁ"
@@ -12380,7 +12380,7 @@ msgctxt "Name"
 msgid "Network Monitor"
 msgstr "ନେଟୱର୍କ ସାଧନ"
 
-#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_net.desktop:20
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_net.desktop:21
 msgctxt "Comment"
 msgid "A network usage monitor"
 msgstr "ଗୋଟିଏ ନେଟୱର୍କ ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
@@ -12393,7 +12393,7 @@ msgctxt "Name"
 msgid "Memory Status"
 msgstr "ସାମ୍ବା ସ୍ଥିତି"
 
-#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_ram.desktop:18
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_ram.desktop:19
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "A CPU usage monitor"
@@ -12406,7 +12406,7 @@ msgctxt "Name"
 msgid "Hardware Temperature"
 msgstr ""
 
-#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_temperature.desktop:18
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_temperature.desktop:19
 msgctxt "Comment"
 msgid "A system temperature monitor"
 msgstr "ତନ୍ତ୍ର ଉତ୍ତାପ ନିରିକ୍ଷକ"
@@ -12434,7 +12434,7 @@ msgctxt "Name"
 msgid "Status Notifier Manager"
 msgstr "KDE ବିଜ୍ଞପ୍ତି ଡେମନ"
 
-#: workspace/plasma/generic/applets/systemtray/statusnotifierwatcher/statusnotifierwatcher.desktop:51
+#: workspace/plasma/generic/applets/systemtray/statusnotifierwatcher/statusnotifierwatcher.desktop:4
 msgctxt "Comment"
 msgid "Manages services that provide status notifier user interfaces"
 msgstr ""
@@ -13362,7 +13362,7 @@ msgctxt "Name"
 msgid "Power Management"
 msgstr "ଶକ୍ତି ପରିଚାଳନା"
 
-#: workspace/powerdevil/daemon/powerdevil.desktop:80
+#: workspace/powerdevil/daemon/powerdevil.desktop:83
 msgctxt "Comment"
 msgid "Battery, Display and CPU power management and notification"
 msgstr ""
@@ -13553,7 +13553,7 @@ msgctxt "Name"
 msgid "Network Status"
 msgstr "ନେଟୱର୍କ ସ୍ଥିତି ଡ଼େମନ"
 
-#: workspace/solid/networking/kded/networkstatus.desktop:75
+#: workspace/solid/networking/kded/networkstatus.desktop:3
 msgctxt "Comment"
 msgid ""
 "Tracks status of network interfaces and provides notification to "
