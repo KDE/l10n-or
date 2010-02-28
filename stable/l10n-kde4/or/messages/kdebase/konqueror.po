@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-01-19 06:22+0100\n"
+"POT-Creation-Date: 2010-02-26 20:27+0100\n"
 "PO-Revision-Date: 2008-12-26 16:53+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -19,357 +19,6 @@ msgstr ""
 "\n"
 "\n"
 "X-Generator: KBabel 1.11.4\n"
-
-#: src/konqfactory.cpp:90
-#, kde-format
-msgid ""
-"There was an error loading the module %1.\n"
-"The diagnostics is:\n"
-"%2"
-msgstr ""
-"ଏକକାଂଶ %1କୁ ଧାରଣ କରିବା ସମୟରେ ତ୍ରୁଟି।\n"
-"ନିରୂପଣ କରାଯାଇଛି:\n"
-"%2"
-
-#: src/konqfactory.cpp:229 about/konq_aboutpage.cc:80
-#: about/konq_aboutpage.cc:136 about/konq_aboutpage.cc:190
-#: about/konq_aboutpage.cc:287
-msgid "Konqueror"
-msgstr "Konqueror"
-
-#: src/konqfactory.cpp:231
-msgid "Web browser, file manager and document viewer."
-msgstr "ୱେବ ବ୍ରାଉଜର, ଫାଇଲ ପରିଚାଳକ ଏବଂ ଦଲିଲ ପ୍ରଦର୍ଶକ।"
-
-#: src/konqfactory.cpp:233
-msgid "(C) 1999-2008, The Konqueror developers"
-msgstr "(C) 1999-2008, Konqueror ବିକାଶକାରୀମାନେ"
-
-#: src/konqfactory.cpp:235
-msgid "http://konqueror.kde.org"
-msgstr "http://konqueror.kde.org"
-
-#: src/konqfactory.cpp:236 sidebar/sidebar_part.cpp:30
-msgid "David Faure"
-msgstr "David Faure"
-
-#: src/konqfactory.cpp:236
-msgid "Developer (framework, parts, JavaScript, I/O library) and maintainer"
-msgstr "ବିକାଶକାରୀ (ଫ୍ରେମୱର୍କ, ଅଂଶ, JavaScript, I/O ଲାଇବ୍ରେରୀ) ଏବଂ ତତ୍ୱାବଧାରକ"
-
-#: src/konqfactory.cpp:237
-msgid "Simon Hausmann"
-msgstr "Simon Hausmann"
-
-#: src/konqfactory.cpp:237
-msgid "Developer (framework, parts)"
-msgstr "ବିକାଶକାରୀ (ଫ୍ରେମୱର୍କ, ଅଂଶ)"
-
-#: src/konqfactory.cpp:238
-msgid "Michael Reiher"
-msgstr "Michael Reiher"
-
-#: src/konqfactory.cpp:238 src/konqfactory.cpp:266 src/konqfactory.cpp:272
-msgid "Developer (framework)"
-msgstr "ବିକାଶକାରୀ (ଫ୍ରେମୱର୍କ, ଅଂଶ)"
-
-#: src/konqfactory.cpp:239
-msgid "Matthias Welk"
-msgstr "Matthias Welk"
-
-#: src/konqfactory.cpp:239
-msgid "Developer"
-msgstr "ବିକାଶକାରୀ"
-
-#: src/konqfactory.cpp:240
-msgid "Alexander Neundorf"
-msgstr "Alexander Neundorf"
-
-#: src/konqfactory.cpp:240
-msgid "Developer (List views)"
-msgstr "ବିକାଶକାରୀ (ତାଲିକା ଦୃଶ୍ୟ)"
-
-#: src/konqfactory.cpp:241
-msgid "Michael Brade"
-msgstr "Michael Brade"
-
-#: src/konqfactory.cpp:241
-msgid "Developer (List views, I/O library)"
-msgstr "ବିକାଶକାରୀ (ତାଲିକା ଦୃଶ୍ୟ, I/O ଲାଇବ୍ରେରୀ)"
-
-#: src/konqfactory.cpp:242
-msgid "Lars Knoll"
-msgstr "Lars Knoll"
-
-#: src/konqfactory.cpp:242 src/konqfactory.cpp:243 src/konqfactory.cpp:244
-#: src/konqfactory.cpp:246 src/konqfactory.cpp:247 src/konqfactory.cpp:249
-#: src/konqfactory.cpp:250 src/konqfactory.cpp:251 src/konqfactory.cpp:252
-#: src/konqfactory.cpp:254
-msgid "Developer (HTML rendering engine)"
-msgstr "ବିକାଶକାରୀ (HTML ଚିତ୍ରଣ ଯନ୍ତ୍ର)"
-
-#: src/konqfactory.cpp:243
-msgid "Dirk Mueller"
-msgstr "Dirk Mueller"
-
-#: src/konqfactory.cpp:244
-msgid "Peter Kelly"
-msgstr "Peter Kelly"
-
-#: src/konqfactory.cpp:245
-msgid "Waldo Bastian"
-msgstr "Waldo Bastian"
-
-#: src/konqfactory.cpp:245
-msgid "Developer (HTML rendering engine, I/O library)"
-msgstr "ବିକାଶକାରୀ (HTML ଚିତ୍ରଣ ଯନ୍ତ୍ର, I/O ଲାଇବ୍ରେରୀ)"
-
-#: src/konqfactory.cpp:246
-msgid "Germain Garand"
-msgstr "Germain Garand"
-
-#: src/konqfactory.cpp:247
-msgid "Leo Savernik"
-msgstr "Leo Savernik"
-
-#: src/konqfactory.cpp:248
-msgid "Stephan Kulow"
-msgstr "Stephan Kulow"
-
-#: src/konqfactory.cpp:248
-msgid ""
-"Developer (HTML rendering engine, I/O library, regression test framework)"
-msgstr "ବିକାଶକାରୀ (HTML ଚିତ୍ରଣ ଯନ୍ତ୍ର, I/O ଲାଇବ୍ରେରୀ, ସମାଶ୍ରୟଣ ପରୀକ୍ଷଣ ଫ୍ରେମୱର୍କ)"
-
-#: src/konqfactory.cpp:249
-msgid "Antti Koivisto"
-msgstr "Antti Koivisto"
-
-#: src/konqfactory.cpp:250
-msgid "Zack Rusin"
-msgstr "Zack Rusin"
-
-#: src/konqfactory.cpp:251
-msgid "Tobias Anton"
-msgstr "Tobias Anton"
-
-#: src/konqfactory.cpp:252
-msgid "Lubos Lunak"
-msgstr "Lubos Lunak"
-
-#: src/konqfactory.cpp:253
-msgid "Maks Orlovich"
-msgstr ""
-
-#: src/konqfactory.cpp:253 src/konqfactory.cpp:255
-msgid "Developer (HTML rendering engine, JavaScript)"
-msgstr "ବିକାଶକାରୀ (HTML ଚିତ୍ରଣ ଯନ୍ତ୍ର, JavaScript)"
-
-#: src/konqfactory.cpp:254
-msgid "Allan Sandfeld Jensen"
-msgstr "Allan Sandfeld Jensen"
-
-#: src/konqfactory.cpp:255
-msgid "Apple Safari Developers"
-msgstr "ଆପେଲ ସଫାରି ବିକାଶକାରୀ"
-
-#: src/konqfactory.cpp:256
-msgid "Harri Porten"
-msgstr "Harri Porten"
-
-#: src/konqfactory.cpp:256
-msgid "Developer (JavaScript)"
-msgstr "ବିକାଶକାରୀ (JavaScript)"
-
-#: src/konqfactory.cpp:257
-msgid "Koos Vriezen"
-msgstr "Koos Vriezen"
-
-#: src/konqfactory.cpp:257
-msgid "Developer (Java applets and other embedded objects)"
-msgstr "ବିକାଶକାରୀ (Java ଆପଲେଟ ଏବଂ ଅନ୍ୟାନ୍ୟ ଏମ୍ବେଡ଼େଡ଼ ବସ୍ତୁଗୁଡ଼ିକ)"
-
-#: src/konqfactory.cpp:258
-msgid "Matt Koss"
-msgstr "Matt Koss"
-
-#: src/konqfactory.cpp:258 src/konqfactory.cpp:259
-msgid "Developer (I/O library)"
-msgstr "ବିକାଶକାରୀ (I/O ଲାଇବ୍ରେରୀ)"
-
-#: src/konqfactory.cpp:259
-msgid "Alex Zepeda"
-msgstr "Alex Zepeda"
-
-#: src/konqfactory.cpp:260
-msgid "Richard Moore"
-msgstr "Richard Moore"
-
-#: src/konqfactory.cpp:260 src/konqfactory.cpp:261
-msgid "Developer (Java applet support)"
-msgstr "ବିକାଶକାରୀ (Java ଆପଲେଟ ସମର୍ଥନ)"
-
-#: src/konqfactory.cpp:261
-msgid "Dima Rogozin"
-msgstr "Dima Rogozin"
-
-#: src/konqfactory.cpp:262
-msgid "Wynn Wilkes"
-msgstr "Wynn Wilkes"
-
-#: src/konqfactory.cpp:262
-msgid ""
-"Developer (Java 2 security manager support,\n"
-" and other major improvements to applet support)"
-msgstr ""
-"ବିକାଶକାରୀ (Java 2 ସୁରକ୍ଷା ପରିଚାଳକ ସମର୍ଥନ,\n"
-" ଏବଂ ଆପଲେଟ ସମର୍ଥନରେ ଅନ୍ୟାନ୍ୟ ପ୍ରମୁଖ ଉନ୍ନତି)"
-
-#: src/konqfactory.cpp:263
-msgid "Stefan Schimanski"
-msgstr "Stefan Schimanski"
-
-#: src/konqfactory.cpp:263
-msgid "Developer (Netscape plugin support)"
-msgstr "ବିକାଶକାରୀ (ନେଟସ୍କେପ ପ୍ଲଗଇନ ସମର୍ଥନ)"
-
-#: src/konqfactory.cpp:264
-msgid "George Staikos"
-msgstr "George Staikos"
-
-#: src/konqfactory.cpp:264
-msgid "Developer (SSL, Netscape plugins)"
-msgstr "ବିକାଶକାରୀ (SSL, ନେଟସ୍କେପ ପ୍ଲଗଇନଗୁଡ଼ିକ)"
-
-#: src/konqfactory.cpp:265
-msgid "Dawit Alemayehu"
-msgstr "Dawit Alemayehu"
-
-#: src/konqfactory.cpp:265
-msgid "Developer (I/O library, Authentication support)"
-msgstr "ବିକାଶକାରୀ (I/O ଲାଇବ୍ରେରୀ, ପ୍ରାଧିକରଣ ସମର୍ଥନ)"
-
-#: src/konqfactory.cpp:266
-msgid "Carsten Pfeiffer"
-msgstr "Carsten Pfeiffer"
-
-#: src/konqfactory.cpp:267
-msgid "Torsten Rahn"
-msgstr "Torsten Rahn"
-
-#: src/konqfactory.cpp:267
-msgid "Graphics/icons"
-msgstr "ଆଲେଖୀ/ଚିତ୍ରସଂକେତଗୁଡ଼ିକ"
-
-#: src/konqfactory.cpp:268
-msgid "Torben Weis"
-msgstr "Torben Weis"
-
-#: src/konqfactory.cpp:268
-msgid "KFM author"
-msgstr "KFM ଲେଖକ"
-
-#: src/konqfactory.cpp:269 sidebar/sidebar_part.cpp:29
-msgid "Joseph Wenninger"
-msgstr "Joseph Wenninger"
-
-#: src/konqfactory.cpp:269
-msgid "Developer (navigation panel framework)"
-msgstr "ବିକାଶକାରୀ (ପଥପ୍ରଦର୍ଶନ ଫଳକ ଫ୍ରେମୱର୍କ)"
-
-#: src/konqfactory.cpp:270
-msgid "Stephan Binner"
-msgstr "Stephan Binner"
-
-#: src/konqfactory.cpp:270
-msgid "Developer (misc stuff)"
-msgstr "ବିକାଶକାରୀ (ମିଶ୍ରିତ ବସ୍ତୁ)"
-
-#: src/konqfactory.cpp:271
-msgid "Ivor Hewitt"
-msgstr "Ivor Hewitt"
-
-#: src/konqfactory.cpp:271
-msgid "Developer (AdBlock filter)"
-msgstr "ବିକାଶକାରୀ (AdBlock ଛାଣକ)"
-
-#: src/konqfactory.cpp:272
-msgid "Eduardo Robles Elvira"
-msgstr "Eduardo Robles Elvira"
-
-#: src/konqtabs.cpp:66
-msgid ""
-"This bar contains the list of currently open tabs. Click on a tab to make it "
-"active. You can also use keyboard shortcuts to navigate through tabs. The "
-"text on the tab shows the content currently open in it; place your mouse "
-"over the tab to see the full title, in case it has been shortened to fit the "
-"tab width."
-msgstr ""
-
-#: src/konqtabs.cpp:102
-msgid "Open a new tab"
-msgstr "ଗୋଟିଏ ନୂତନ ଟ୍ୟାବ ଖୋଲନ୍ତୁ"
-
-#: src/konqtabs.cpp:111
-msgid "Close the current tab"
-msgstr "ବର୍ତ୍ତମାନ ଖୋଲାଯାଇଥିବା ଟ୍ୟାବକୁ ବନ୍ଦକରନ୍ତୁ"
-
-#: src/konqtabs.cpp:338 src/konqmainwindow.cpp:3745
-msgid "&Reload All Tabs"
-msgstr "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ (&R)"
-
-#: src/konqtabs.cpp:361 src/konqmainwindow.cpp:2563
-#: src/konqmainwindow.cpp:3683
-msgid "Close &Other Tabs"
-msgstr "ଅନ୍ୟାନ୍ୟ ଟ୍ୟାବଗୁଡ଼ିକୁ ବନ୍ଦକରନ୍ତୁ (&O)"
-
-#: src/konqtabs.cpp:479 src/konqmainwindow.cpp:3656
-msgid "&New Tab"
-msgstr "ନୂତନ ଟ୍ୟାବ (&N)"
-
-#: src/konqtabs.cpp:484
-msgid "&Duplicate Tab"
-msgstr "ନକଲି ଟ୍ୟାବ (&D)"
-
-#: src/konqtabs.cpp:489
-msgid "&Reload Tab"
-msgstr "ଟ୍ୟାବକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ (&R)"
-
-#: src/konqtabs.cpp:496
-msgid "Other Tabs"
-msgstr "ଅନ୍ୟାନ୍ୟ ଟ୍ୟାବଗୁଡ଼ିକ"
-
-#: src/konqtabs.cpp:501
-msgid "D&etach Tab"
-msgstr "ଟ୍ୟାବକୁ ପୃଥକ କରନ୍ତୁ (&e)"
-
-#: src/konqtabs.cpp:507
-msgid "&Close Tab"
-msgstr "ଟ୍ୟାବକୁ ବନ୍ଦକରନ୍ତୁ (&C)"
-
-#: src/konqsessionmanager.cpp:343
-#, fuzzy
-#| msgid "Konqueror didn't close correctly. Would you like to restore session?"
-msgid ""
-"Konqueror did not close correctly. Would you like to restore the previous "
-"session?"
-msgstr "Konqueror ସଠିକ ଭାବରେ ବନ୍ଦ ହୋଇନଥିଲା। ଆପଣ ଅଧିବେଶନକୁ ପୁନଃ ସ୍ଥାପନ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
-
-#: src/konqsessionmanager.cpp:345
-msgid "Restore Session?"
-msgstr "ଅଧିବେଶନକୁ ପୁନଃ ସ୍ଥାପନ କରିବେ କି?"
-
-#: src/konqsessionmanager.cpp:346
-msgid "Restore Session"
-msgstr "ଅଧିବେଶନକୁ ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ"
-
-#: src/konqsessionmanager.cpp:347
-msgid "Do Not Restore"
-msgstr "ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ ନାହିଁ"
-
-#: src/konqsessionmanager.cpp:348
-msgid "Ask Me Later"
-msgstr "ପରେ ମତେ ପଚାରନ୍ତୁ"
 
 #: src/konqmainwindow.cpp:522
 #, kde-format
@@ -504,6 +153,11 @@ msgstr "କଣ ଆପଣ ପ୍ରକୃତରେ ଅନ୍ୟ ସମସ୍ତ �
 #: src/konqmainwindow.cpp:2563
 msgid "Close Other Tabs Confirmation"
 msgstr "ଅନ୍ୟାନ୍ୟ ଟ୍ୟାବଗୁଡ଼ିକୁ ବନ୍ଦକରିବାର ନିଶ୍ଚିତକରଣ"
+
+#: src/konqmainwindow.cpp:2563 src/konqmainwindow.cpp:3683
+#: src/konqtabs.cpp:361
+msgid "Close &Other Tabs"
+msgstr "ଅନ୍ୟାନ୍ୟ ଟ୍ୟାବଗୁଡ଼ିକୁ ବନ୍ଦକରନ୍ତୁ (&O)"
 
 #: src/konqmainwindow.cpp:2580
 msgid ""
@@ -645,6 +299,10 @@ msgstr "ବିଭାଜିତ ଦୃଶ୍ୟ ବାମ/ଡ଼ାହାଣ (&L)"
 msgid "Split View &Top/Bottom"
 msgstr "ବିଭାଜିତ ଦୃଶ୍ୟ ଉପର/ତଳ (&T)"
 
+#: src/konqmainwindow.cpp:3656 src/konqtabs.cpp:479
+msgid "&New Tab"
+msgstr "ନୂତନ ଟ୍ୟାବ (&N)"
+
 #: src/konqmainwindow.cpp:3662
 msgid "&Duplicate Current Tab"
 msgstr "ନକଲି ପ୍ରଚଳିତ ଟ୍ୟାବ (&D)"
@@ -697,6 +355,10 @@ msgstr "ଦୃଶ୍ୟ ରୂପରେଖକୁ ଧାରଣ କରନ୍ତୁ
 #: src/konqmainwindow.cpp:3740 sidebar/web_module/web_module.h:57
 msgid "&Reload"
 msgstr "ପୁନର୍ଧାରଣ କରନ୍ତୁ (&R)"
+
+#: src/konqmainwindow.cpp:3745 src/konqtabs.cpp:338
+msgid "&Reload All Tabs"
+msgstr "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ (&R)"
 
 #: src/konqmainwindow.cpp:3753
 msgid "&Force Reload"
@@ -1037,6 +699,45 @@ msgstr ""
 "ସେଠାରେ ଗୋଟିଏ ସଂରଚନା ତ୍ରୁଟି ଦେଖାଯାଉଛି। ଆପଣଙ୍କ ପାଖରେ %1 ସହିତ ସମ୍ବନ୍ଧିତ Konqueror ଅଛି, କିନ୍ତୁ "
 "ଏହି ଫାଇଲ ପ୍ରକାରକୁ ନିୟନ୍ତ୍ରଣ କରିପାରିବ ନାହିଁ।"
 
+#: src/konqhistorymodel.cpp:137
+#, kde-format
+msgid ""
+"<qt><center><b>%1</b></center><hr />Last visited: %2<br />First visited: %"
+"3<br />Number of times visited: %4</qt>"
+msgstr ""
+"<qt><center><b>%1</b></center><hr />ଶେଷଥର ପରିଦର୍ଶିତ: %2<br />ପ୍ରଥମଥର ପରିଦର୍ଶିତ: %"
+"3<br />ପରିଦର୍ଶନ କରିଥିବା ସଂଖ୍ୟା: %4</qt>"
+
+#: src/konqhistorymodel.cpp:233
+msgid "Local"
+msgstr ""
+
+#: src/konqhistorymodel.cpp:236
+msgid "Miscellaneous"
+msgstr "ମିଶ୍ରିତ"
+
+#: src/konqundomanager.cpp:110 src/konqundomanager.cpp:266
+msgid "Und&o: Closed Tab"
+msgstr "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ (&o): ବନ୍ଦଥିବା ଟ୍ୟାବ"
+
+#: src/konqundomanager.cpp:112 src/konqundomanager.cpp:120
+#: src/konqundomanager.cpp:162
+msgid "Und&o: Closed Window"
+msgstr "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ (&o): ବନ୍ଦଥିବା ୱିଣ୍ଡୋ"
+
+#: src/konqundomanager.cpp:122
+msgid "Und&o"
+msgstr ""
+
+#: src/konqextensionmanager.cpp:54
+msgid "Configure"
+msgstr "ବିନ୍ୟାସ କରନ୍ତୁ"
+
+#: src/konqextensionmanager.cpp:75 src/konqextensionmanager.cpp:78
+#: src/konqextensionmanager.cpp:79
+msgid "Extensions"
+msgstr "ଅନୁଲଗ୍ନଗୁଡ଼ିକ"
+
 #: src/konqsessiondlg.cpp:78
 msgid "Manage Sessions"
 msgstr "ଅଧିବେଶନଗୁଡ଼ିକୁ ପରିଚାଳନ କରନ୍ତୁ"
@@ -1065,72 +766,6 @@ msgstr "'%1' ନାମକ ଅଧିବେଶନ ପୂର୍ବରୁ ଅବସ�
 msgid "Session exists. Overwrite?"
 msgstr "ଅଧିବେଶନ ଅବସ୍ଥିତ ଅଛି। ନବଲିଖନ କରିବେ କି?"
 
-#: src/konqhistorymodel.cpp:137
-#, kde-format
-msgid ""
-"<qt><center><b>%1</b></center><hr />Last visited: %2<br />First visited: %"
-"3<br />Number of times visited: %4</qt>"
-msgstr ""
-"<qt><center><b>%1</b></center><hr />ଶେଷଥର ପରିଦର୍ଶିତ: %2<br />ପ୍ରଥମଥର ପରିଦର୍ଶିତ: %"
-"3<br />ପରିଦର୍ଶନ କରିଥିବା ସଂଖ୍ୟା: %4</qt>"
-
-#: src/konqhistorymodel.cpp:233
-msgid "Local"
-msgstr ""
-
-#: src/konqhistorymodel.cpp:236
-msgid "Miscellaneous"
-msgstr "ମିଶ୍ରିତ"
-
-#: src/konqhistorydialog.cpp:44
-#, fuzzy
-#| msgid "Clear History"
-msgctxt "@title:window"
-msgid "History"
-msgstr "ପୁରୁଣା ତଥ୍ୟ ସଫାକରନ୍ତୁ"
-
-#: src/konqhistorydialog.cpp:60 src/konqhistoryview.cpp:143
-msgctxt "@action:inmenu Parent of 'By Name' and 'By Date'"
-msgid "Sort"
-msgstr "ସଜାଡ଼ନ୍ତୁ"
-
-#: src/konqview.cpp:1230
-msgid ""
-"The page you are trying to view is the result of posted form data. If you "
-"resend the data, any action the form carried out (such as search or online "
-"purchase) will be repeated. "
-msgstr ""
-
-#: src/konqview.cpp:1232
-msgid "Warning"
-msgstr "ଚେତାବନି"
-
-#: src/konqview.cpp:1232
-msgid "Resend"
-msgstr "ପୁଣି ପଠାନ୍ତୁ"
-
-#: src/konqextensionmanager.cpp:54
-msgid "Configure"
-msgstr "ବିନ୍ୟାସ କରନ୍ତୁ"
-
-#: src/konqextensionmanager.cpp:75 src/konqextensionmanager.cpp:78
-#: src/konqextensionmanager.cpp:79
-msgid "Extensions"
-msgstr "ଅନୁଲଗ୍ନଗୁଡ଼ିକ"
-
-#: src/konqundomanager.cpp:110 src/konqundomanager.cpp:266
-msgid "Und&o: Closed Tab"
-msgstr "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ (&o): ବନ୍ଦଥିବା ଟ୍ୟାବ"
-
-#: src/konqundomanager.cpp:112 src/konqundomanager.cpp:120
-#: src/konqundomanager.cpp:162
-msgid "Und&o: Closed Window"
-msgstr "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ (&o): ବନ୍ଦଥିବା ୱିଣ୍ଡୋ"
-
-#: src/konqundomanager.cpp:122
-msgid "Und&o"
-msgstr ""
-
 #: src/konqviewmanager.cpp:1391
 msgid ""
 "You have multiple tabs open in this window.\n"
@@ -1150,6 +785,98 @@ msgid ""
 msgstr ""
 "ଏହି ଟ୍ୟାବ ଦାଖଲ ହୋଇନଥିବା ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ଧାରଣ କରିଥାଏ।\n"
 "ରୂପରେଖ ଧାରଣ କରାଗଲେ ଏହି ପରିବର୍ତ୍ତନଗୁଡ଼ିକ ବାତିଲ ହୋଇଯିବ।"
+
+#: src/konqguiclients.cpp:66
+#, kde-format
+msgid "Preview &in %1"
+msgstr "ପ୍ରାକଦର୍ଶନ (&i) %1"
+
+#: src/konqguiclients.cpp:135
+#, kde-format
+msgid "Show %1"
+msgstr "%1କୁ ଦର୍ଶାନ୍ତୁ"
+
+#: src/konqguiclients.cpp:140
+#, kde-format
+msgid "Hide %1"
+msgstr "%1କୁ ଲୁଚାନ୍ତୁ"
+
+#: src/konqview.cpp:1230
+msgid ""
+"The page you are trying to view is the result of posted form data. If you "
+"resend the data, any action the form carried out (such as search or online "
+"purchase) will be repeated. "
+msgstr ""
+
+#: src/konqview.cpp:1232
+msgid "Warning"
+msgstr "ଚେତାବନି"
+
+#: src/konqview.cpp:1232
+msgid "Resend"
+msgstr "ପୁଣି ପଠାନ୍ତୁ"
+
+#: src/konqsessionmanager.cpp:343
+#, fuzzy
+#| msgid "Konqueror didn't close correctly. Would you like to restore session?"
+msgid ""
+"Konqueror did not close correctly. Would you like to restore the previous "
+"session?"
+msgstr "Konqueror ସଠିକ ଭାବରେ ବନ୍ଦ ହୋଇନଥିଲା। ଆପଣ ଅଧିବେଶନକୁ ପୁନଃ ସ୍ଥାପନ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
+
+#: src/konqsessionmanager.cpp:345
+msgid "Restore Session?"
+msgstr "ଅଧିବେଶନକୁ ପୁନଃ ସ୍ଥାପନ କରିବେ କି?"
+
+#: src/konqsessionmanager.cpp:346
+msgid "Restore Session"
+msgstr "ଅଧିବେଶନକୁ ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ"
+
+#: src/konqsessionmanager.cpp:347
+msgid "Do Not Restore"
+msgstr "ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ ନାହିଁ"
+
+#: src/konqsessionmanager.cpp:348
+msgid "Ask Me Later"
+msgstr "ପରେ ମତେ ପଚାରନ୍ତୁ"
+
+#: src/konqmain.cpp:51
+msgid "Start without a default window"
+msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ ୱିଣ୍ଡୋ ବିନା ଆରମ୍ଭ କରନ୍ତୁ"
+
+#: src/konqmain.cpp:53
+msgid "Preload for later use"
+msgstr "ପରବର୍ତ୍ତି ବ୍ୟବହାର ପାଇଁ ପୂର୍ବରୁ ଧାରଣ କରନ୍ତୁ"
+
+#: src/konqmain.cpp:55
+msgid "Profile to open"
+msgstr "ଖୋଲିବା ପାଇଁ ରୂପରେଖ"
+
+#: src/konqmain.cpp:57
+msgid "List available profiles"
+msgstr "ସ୍ୱଳ୍ପ ଉପଲବ୍ଧ ରୂପରେଖଗୁଡ଼ିକ"
+
+#: src/konqmain.cpp:59
+msgid "List available sessions"
+msgstr "ସ୍ୱଳ୍ପ ଉପଲବ୍ଧ ଅଧିବେଶନଗୁଡ଼ିକ"
+
+#: src/konqmain.cpp:61
+msgid "Session to open"
+msgstr "ଖୋଲିବା ପାଇଁ ଅଧିବେଶନ"
+
+#: src/konqmain.cpp:63
+msgid "Mimetype to use for this URL (e.g. text/html or inode/directory)"
+msgstr "ଏହି URL ପାଇଁ ବ୍ୟବହୃତ ମାଇମଟାଇପ (ଯେପରିକି text/html କିମ୍ବା inode/directory)"
+
+#: src/konqmain.cpp:65
+msgid ""
+"For URLs that point to files, opens the directory and selects the file, "
+"instead of opening the actual file"
+msgstr ""
+
+#: src/konqmain.cpp:67
+msgid "Location to open"
+msgstr "ଖୋଲିବା ପାଇଁ ସ୍ଥାନ"
 
 #: src/konqframestatusbar.cpp:107
 msgid ""
@@ -1211,6 +938,11 @@ msgstr "ତାରିଖ ଦ୍ୱାରା (&D)"
 msgid "Search in history"
 msgstr "ପୁରୁଣା ତଥ୍ୟ ସଫାକରନ୍ତୁ"
 
+#: src/konqhistoryview.cpp:143 src/konqhistorydialog.cpp:60
+msgctxt "@action:inmenu Parent of 'By Name' and 'By Date'"
+msgid "Sort"
+msgstr "ସଜାଡ଼ନ୍ତୁ"
+
 #: src/konqhistoryview.cpp:171 sidebar/history_module/kcmhistory.cpp:254
 msgid "Do you really want to clear the entire history?"
 msgstr "ଆପଣ ସମ୍ପୂର୍ଣ୍ଣ ପୁରୁଣା ତଥ୍ଯକୁ ଅପସାରଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
@@ -1219,20 +951,326 @@ msgstr "ଆପଣ ସମ୍ପୂର୍ଣ୍ଣ ପୁରୁଣା ତଥ୍ଯ
 msgid "Clear History?"
 msgstr "ପୁରୁଣା ତଥ୍ଯକୁ ଅପସାରଣ କରିବେ କି?"
 
-#: src/konqguiclients.cpp:66
+#: src/konqfactory.cpp:90
 #, kde-format
-msgid "Preview &in %1"
-msgstr "ପ୍ରାକଦର୍ଶନ (&i) %1"
+msgid ""
+"There was an error loading the module %1.\n"
+"The diagnostics is:\n"
+"%2"
+msgstr ""
+"ଏକକାଂଶ %1କୁ ଧାରଣ କରିବା ସମୟରେ ତ୍ରୁଟି।\n"
+"ନିରୂପଣ କରାଯାଇଛି:\n"
+"%2"
 
-#: src/konqguiclients.cpp:135
-#, kde-format
-msgid "Show %1"
-msgstr "%1କୁ ଦର୍ଶାନ୍ତୁ"
+#: src/konqfactory.cpp:229 about/konq_aboutpage.cc:80
+#: about/konq_aboutpage.cc:136 about/konq_aboutpage.cc:190
+#: about/konq_aboutpage.cc:287
+msgid "Konqueror"
+msgstr "Konqueror"
 
-#: src/konqguiclients.cpp:140
-#, kde-format
-msgid "Hide %1"
-msgstr "%1କୁ ଲୁଚାନ୍ତୁ"
+#: src/konqfactory.cpp:231
+msgid "Web browser, file manager and document viewer."
+msgstr "ୱେବ ବ୍ରାଉଜର, ଫାଇଲ ପରିଚାଳକ ଏବଂ ଦଲିଲ ପ୍ରଦର୍ଶକ।"
+
+#: src/konqfactory.cpp:233
+msgid "(C) 1999-2008, The Konqueror developers"
+msgstr "(C) 1999-2008, Konqueror ବିକାଶକାରୀମାନେ"
+
+#: src/konqfactory.cpp:235
+msgid "http://konqueror.kde.org"
+msgstr "http://konqueror.kde.org"
+
+#: src/konqfactory.cpp:236 sidebar/sidebar_part.cpp:30
+msgid "David Faure"
+msgstr "David Faure"
+
+#: src/konqfactory.cpp:236
+msgid "Developer (framework, parts, JavaScript, I/O library) and maintainer"
+msgstr "ବିକାଶକାରୀ (ଫ୍ରେମୱର୍କ, ଅଂଶ, JavaScript, I/O ଲାଇବ୍ରେରୀ) ଏବଂ ତତ୍ୱାବଧାରକ"
+
+#: src/konqfactory.cpp:237
+msgid "Simon Hausmann"
+msgstr "Simon Hausmann"
+
+#: src/konqfactory.cpp:237
+msgid "Developer (framework, parts)"
+msgstr "ବିକାଶକାରୀ (ଫ୍ରେମୱର୍କ, ଅଂଶ)"
+
+#: src/konqfactory.cpp:238
+msgid "Michael Reiher"
+msgstr "Michael Reiher"
+
+#: src/konqfactory.cpp:238 src/konqfactory.cpp:266 src/konqfactory.cpp:272
+msgid "Developer (framework)"
+msgstr "ବିକାଶକାରୀ (ଫ୍ରେମୱର୍କ, ଅଂଶ)"
+
+#: src/konqfactory.cpp:239
+msgid "Matthias Welk"
+msgstr "Matthias Welk"
+
+#: src/konqfactory.cpp:239
+msgid "Developer"
+msgstr "ବିକାଶକାରୀ"
+
+#: src/konqfactory.cpp:240
+msgid "Alexander Neundorf"
+msgstr "Alexander Neundorf"
+
+#: src/konqfactory.cpp:240
+msgid "Developer (List views)"
+msgstr "ବିକାଶକାରୀ (ତାଲିକା ଦୃଶ୍ୟ)"
+
+#: src/konqfactory.cpp:241
+msgid "Michael Brade"
+msgstr "Michael Brade"
+
+#: src/konqfactory.cpp:241
+msgid "Developer (List views, I/O library)"
+msgstr "ବିକାଶକାରୀ (ତାଲିକା ଦୃଶ୍ୟ, I/O ଲାଇବ୍ରେରୀ)"
+
+#: src/konqfactory.cpp:242
+msgid "Lars Knoll"
+msgstr "Lars Knoll"
+
+#: src/konqfactory.cpp:242 src/konqfactory.cpp:243 src/konqfactory.cpp:244
+#: src/konqfactory.cpp:246 src/konqfactory.cpp:247 src/konqfactory.cpp:249
+#: src/konqfactory.cpp:250 src/konqfactory.cpp:251 src/konqfactory.cpp:252
+#: src/konqfactory.cpp:254
+msgid "Developer (HTML rendering engine)"
+msgstr "ବିକାଶକାରୀ (HTML ଚିତ୍ରଣ ଯନ୍ତ୍ର)"
+
+#: src/konqfactory.cpp:243
+msgid "Dirk Mueller"
+msgstr "Dirk Mueller"
+
+#: src/konqfactory.cpp:244
+msgid "Peter Kelly"
+msgstr "Peter Kelly"
+
+#: src/konqfactory.cpp:245
+msgid "Waldo Bastian"
+msgstr "Waldo Bastian"
+
+#: src/konqfactory.cpp:245
+msgid "Developer (HTML rendering engine, I/O library)"
+msgstr "ବିକାଶକାରୀ (HTML ଚିତ୍ରଣ ଯନ୍ତ୍ର, I/O ଲାଇବ୍ରେରୀ)"
+
+#: src/konqfactory.cpp:246
+msgid "Germain Garand"
+msgstr "Germain Garand"
+
+#: src/konqfactory.cpp:247
+msgid "Leo Savernik"
+msgstr "Leo Savernik"
+
+#: src/konqfactory.cpp:248
+msgid "Stephan Kulow"
+msgstr "Stephan Kulow"
+
+#: src/konqfactory.cpp:248
+msgid ""
+"Developer (HTML rendering engine, I/O library, regression test framework)"
+msgstr "ବିକାଶକାରୀ (HTML ଚିତ୍ରଣ ଯନ୍ତ୍ର, I/O ଲାଇବ୍ରେରୀ, ସମାଶ୍ରୟଣ ପରୀକ୍ଷଣ ଫ୍ରେମୱର୍କ)"
+
+#: src/konqfactory.cpp:249
+msgid "Antti Koivisto"
+msgstr "Antti Koivisto"
+
+#: src/konqfactory.cpp:250
+msgid "Zack Rusin"
+msgstr "Zack Rusin"
+
+#: src/konqfactory.cpp:251
+msgid "Tobias Anton"
+msgstr "Tobias Anton"
+
+#: src/konqfactory.cpp:252
+msgid "Lubos Lunak"
+msgstr "Lubos Lunak"
+
+#: src/konqfactory.cpp:253
+msgid "Maks Orlovich"
+msgstr ""
+
+#: src/konqfactory.cpp:253 src/konqfactory.cpp:255
+msgid "Developer (HTML rendering engine, JavaScript)"
+msgstr "ବିକାଶକାରୀ (HTML ଚିତ୍ରଣ ଯନ୍ତ୍ର, JavaScript)"
+
+#: src/konqfactory.cpp:254
+msgid "Allan Sandfeld Jensen"
+msgstr "Allan Sandfeld Jensen"
+
+#: src/konqfactory.cpp:255
+msgid "Apple Safari Developers"
+msgstr "ଆପେଲ ସଫାରି ବିକାଶକାରୀ"
+
+#: src/konqfactory.cpp:256
+msgid "Harri Porten"
+msgstr "Harri Porten"
+
+#: src/konqfactory.cpp:256
+msgid "Developer (JavaScript)"
+msgstr "ବିକାଶକାରୀ (JavaScript)"
+
+#: src/konqfactory.cpp:257
+msgid "Koos Vriezen"
+msgstr "Koos Vriezen"
+
+#: src/konqfactory.cpp:257
+msgid "Developer (Java applets and other embedded objects)"
+msgstr "ବିକାଶକାରୀ (Java ଆପଲେଟ ଏବଂ ଅନ୍ୟାନ୍ୟ ଏମ୍ବେଡ଼େଡ଼ ବସ୍ତୁଗୁଡ଼ିକ)"
+
+#: src/konqfactory.cpp:258
+msgid "Matt Koss"
+msgstr "Matt Koss"
+
+#: src/konqfactory.cpp:258 src/konqfactory.cpp:259
+msgid "Developer (I/O library)"
+msgstr "ବିକାଶକାରୀ (I/O ଲାଇବ୍ରେରୀ)"
+
+#: src/konqfactory.cpp:259
+msgid "Alex Zepeda"
+msgstr "Alex Zepeda"
+
+#: src/konqfactory.cpp:260
+msgid "Richard Moore"
+msgstr "Richard Moore"
+
+#: src/konqfactory.cpp:260 src/konqfactory.cpp:261
+msgid "Developer (Java applet support)"
+msgstr "ବିକାଶକାରୀ (Java ଆପଲେଟ ସମର୍ଥନ)"
+
+#: src/konqfactory.cpp:261
+msgid "Dima Rogozin"
+msgstr "Dima Rogozin"
+
+#: src/konqfactory.cpp:262
+msgid "Wynn Wilkes"
+msgstr "Wynn Wilkes"
+
+#: src/konqfactory.cpp:262
+msgid ""
+"Developer (Java 2 security manager support,\n"
+" and other major improvements to applet support)"
+msgstr ""
+"ବିକାଶକାରୀ (Java 2 ସୁରକ୍ଷା ପରିଚାଳକ ସମର୍ଥନ,\n"
+" ଏବଂ ଆପଲେଟ ସମର୍ଥନରେ ଅନ୍ୟାନ୍ୟ ପ୍ରମୁଖ ଉନ୍ନତି)"
+
+#: src/konqfactory.cpp:263
+msgid "Stefan Schimanski"
+msgstr "Stefan Schimanski"
+
+#: src/konqfactory.cpp:263
+msgid "Developer (Netscape plugin support)"
+msgstr "ବିକାଶକାରୀ (ନେଟସ୍କେପ ପ୍ଲଗଇନ ସମର୍ଥନ)"
+
+#: src/konqfactory.cpp:264
+msgid "George Staikos"
+msgstr "George Staikos"
+
+#: src/konqfactory.cpp:264
+msgid "Developer (SSL, Netscape plugins)"
+msgstr "ବିକାଶକାରୀ (SSL, ନେଟସ୍କେପ ପ୍ଲଗଇନଗୁଡ଼ିକ)"
+
+#: src/konqfactory.cpp:265
+msgid "Dawit Alemayehu"
+msgstr "Dawit Alemayehu"
+
+#: src/konqfactory.cpp:265
+msgid "Developer (I/O library, Authentication support)"
+msgstr "ବିକାଶକାରୀ (I/O ଲାଇବ୍ରେରୀ, ପ୍ରାଧିକରଣ ସମର୍ଥନ)"
+
+#: src/konqfactory.cpp:266
+msgid "Carsten Pfeiffer"
+msgstr "Carsten Pfeiffer"
+
+#: src/konqfactory.cpp:267
+msgid "Torsten Rahn"
+msgstr "Torsten Rahn"
+
+#: src/konqfactory.cpp:267
+msgid "Graphics/icons"
+msgstr "ଆଲେଖୀ/ଚିତ୍ରସଂକେତଗୁଡ଼ିକ"
+
+#: src/konqfactory.cpp:268
+msgid "Torben Weis"
+msgstr "Torben Weis"
+
+#: src/konqfactory.cpp:268
+msgid "KFM author"
+msgstr "KFM ଲେଖକ"
+
+#: src/konqfactory.cpp:269 sidebar/sidebar_part.cpp:29
+msgid "Joseph Wenninger"
+msgstr "Joseph Wenninger"
+
+#: src/konqfactory.cpp:269
+msgid "Developer (navigation panel framework)"
+msgstr "ବିକାଶକାରୀ (ପଥପ୍ରଦର୍ଶନ ଫଳକ ଫ୍ରେମୱର୍କ)"
+
+#: src/konqfactory.cpp:270
+msgid "Stephan Binner"
+msgstr "Stephan Binner"
+
+#: src/konqfactory.cpp:270
+msgid "Developer (misc stuff)"
+msgstr "ବିକାଶକାରୀ (ମିଶ୍ରିତ ବସ୍ତୁ)"
+
+#: src/konqfactory.cpp:271
+msgid "Ivor Hewitt"
+msgstr "Ivor Hewitt"
+
+#: src/konqfactory.cpp:271
+msgid "Developer (AdBlock filter)"
+msgstr "ବିକାଶକାରୀ (AdBlock ଛାଣକ)"
+
+#: src/konqfactory.cpp:272
+msgid "Eduardo Robles Elvira"
+msgstr "Eduardo Robles Elvira"
+
+#: src/konqhistorydialog.cpp:44
+#, fuzzy
+#| msgid "Clear History"
+msgctxt "@title:window"
+msgid "History"
+msgstr "ପୁରୁଣା ତଥ୍ୟ ସଫାକରନ୍ତୁ"
+
+#: src/konqtabs.cpp:66
+msgid ""
+"This bar contains the list of currently open tabs. Click on a tab to make it "
+"active. You can also use keyboard shortcuts to navigate through tabs. The "
+"text on the tab shows the content currently open in it; place your mouse "
+"over the tab to see the full title, in case it has been shortened to fit the "
+"tab width."
+msgstr ""
+
+#: src/konqtabs.cpp:102
+msgid "Open a new tab"
+msgstr "ଗୋଟିଏ ନୂତନ ଟ୍ୟାବ ଖୋଲନ୍ତୁ"
+
+#: src/konqtabs.cpp:111
+msgid "Close the current tab"
+msgstr "ବର୍ତ୍ତମାନ ଖୋଲାଯାଇଥିବା ଟ୍ୟାବକୁ ବନ୍ଦକରନ୍ତୁ"
+
+#: src/konqtabs.cpp:484
+msgid "&Duplicate Tab"
+msgstr "ନକଲି ଟ୍ୟାବ (&D)"
+
+#: src/konqtabs.cpp:489
+msgid "&Reload Tab"
+msgstr "ଟ୍ୟାବକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ (&R)"
+
+#: src/konqtabs.cpp:496
+msgid "Other Tabs"
+msgstr "ଅନ୍ୟାନ୍ୟ ଟ୍ୟାବଗୁଡ଼ିକ"
+
+#: src/konqtabs.cpp:501
+msgid "D&etach Tab"
+msgstr "ଟ୍ୟାବକୁ ପୃଥକ କରନ୍ତୁ (&e)"
+
+#: src/konqtabs.cpp:507
+msgid "&Close Tab"
+msgstr "ଟ୍ୟାବକୁ ବନ୍ଦକରନ୍ତୁ (&C)"
 
 #: src/konqprofiledlg.cpp:111
 msgid "Profile Management"
@@ -1246,44 +1284,6 @@ msgstr "ରୂପରେଖ ପୁନଃ ନାମକରଣ କରନ୍ତୁ (&
 msgid "&Delete Profile"
 msgstr "ରୂପରେଖ ଅପସାରଣ କରନ୍ତୁ (&D)"
 
-#: src/konqmain.cpp:51
-msgid "Start without a default window"
-msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ ୱିଣ୍ଡୋ ବିନା ଆରମ୍ଭ କରନ୍ତୁ"
-
-#: src/konqmain.cpp:53
-msgid "Preload for later use"
-msgstr "ପରବର୍ତ୍ତି ବ୍ୟବହାର ପାଇଁ ପୂର୍ବରୁ ଧାରଣ କରନ୍ତୁ"
-
-#: src/konqmain.cpp:55
-msgid "Profile to open"
-msgstr "ଖୋଲିବା ପାଇଁ ରୂପରେଖ"
-
-#: src/konqmain.cpp:57
-msgid "List available profiles"
-msgstr "ସ୍ୱଳ୍ପ ଉପଲବ୍ଧ ରୂପରେଖଗୁଡ଼ିକ"
-
-#: src/konqmain.cpp:59
-msgid "List available sessions"
-msgstr "ସ୍ୱଳ୍ପ ଉପଲବ୍ଧ ଅଧିବେଶନଗୁଡ଼ିକ"
-
-#: src/konqmain.cpp:61
-msgid "Session to open"
-msgstr "ଖୋଲିବା ପାଇଁ ଅଧିବେଶନ"
-
-#: src/konqmain.cpp:63
-msgid "Mimetype to use for this URL (e.g. text/html or inode/directory)"
-msgstr "ଏହି URL ପାଇଁ ବ୍ୟବହୃତ ମାଇମଟାଇପ (ଯେପରିକି text/html କିମ୍ବା inode/directory)"
-
-#: src/konqmain.cpp:65
-msgid ""
-"For URLs that point to files, opens the directory and selects the file, "
-"instead of opening the actual file"
-msgstr ""
-
-#: src/konqmain.cpp:67
-msgid "Location to open"
-msgstr "ଖୋଲିବା ପାଇଁ ସ୍ଥାନ"
-
 #: sidebar/test/modulemanagertest.cpp:89
 #: sidebar/test/modulemanagertest.cpp:115
 #, fuzzy
@@ -1291,71 +1291,14 @@ msgstr "ଖୋଲିବା ପାଇଁ ସ୍ଥାନ"
 msgid "SideBar Test Plugin"
 msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି ପ୍ଲଗଇନ"
 
-#: sidebar/history_module/history_module.cpp:126
-#, fuzzy
-#| msgid "Web Sidebar"
-msgctxt "@action:inmenu Add"
-msgid "History Sidebar Module"
-msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି"
-
-#: sidebar/history_module/history_module.cpp:149
-#, fuzzy
-#| msgid "Clear History"
-msgctxt "@title:tab"
-msgid "History"
-msgstr "ପୁରୁଣା ତଥ୍ୟ ସଫାକରନ୍ତୁ"
-
-#: sidebar/history_module/kcmhistory.cpp:71
-msgid " day"
-msgid_plural " days"
-msgstr[0] " ଦିନ"
-msgstr[1] " ଦିନ"
-
-#: sidebar/history_module/kcmhistory.cpp:77
-#: sidebar/history_module/kcmhistory.cpp:82
-#: sidebar/history_module/kcmhistory.cpp:215
-#: sidebar/history_module/kcmhistory.cpp:227
-msgid "Minute"
-msgid_plural "Minutes"
-msgstr[0] "ମିନଟ"
-msgstr[1] "ମିନଟ"
-
-#: sidebar/history_module/kcmhistory.cpp:79
-#: sidebar/history_module/kcmhistory.cpp:84
-#: sidebar/history_module/kcmhistory.cpp:213
-#: sidebar/history_module/kcmhistory.cpp:225
-msgid "Day"
-msgid_plural "Days"
-msgstr[0] "ଦିନ"
-msgstr[1] "ଦିନ"
-
-#: sidebar/history_module/kcmhistory.cpp:198
-msgid "<h1>History Sidebar</h1> You can configure the history sidebar here."
-msgstr "<h1>ପୁରୁଣା ତଥ୍ୟ ପାର୍ଶ୍ୱପଟି</h1> ଆପଣ ଏଠାରେ ପୁରୁଣା ତଥ୍ୟ ପାର୍ଶ୍ୱପଟିକୁ ବିନ୍ୟାସ କରିପାରିବେ। "
-
 #: sidebar/trees/dirtree_module/dirtree_module.cpp:417
 #, kde-format
 msgid "Cannot find parent item %1 in the tree. Internal error."
 msgstr ""
 
-#: sidebar/trees/konqsidebar_oldtreemodule.cpp:179
-#: sidebar/web_module/web_module.cpp:251
-#, fuzzy
-#| msgid "Name:"
-msgctxt "@label"
-msgid "Name:"
-msgstr "ନାମ:"
-
-#: sidebar/trees/konqsidebar_oldtreemodule.cpp:179
-#: sidebar/web_module/web_module.cpp:251
-msgctxt "@label"
-msgid "Path or URL:"
-msgstr ""
-
-#: sidebar/trees/konqsidebar_oldtreemodule.cpp:180
-msgctxt "@title:window"
-msgid "Add folder sidebar module"
-msgstr ""
+#: sidebar/trees/bookmark_module/bookmark_module.h:88
+msgid "Add Bookmark"
+msgstr "ଚିହ୍ନିତ ସ୍ଥାନ ଯୋଗକରନ୍ତୁ"
 
 #: sidebar/trees/bookmark_module/bookmark_module.cpp:74
 msgid "&Create New Folder"
@@ -1431,10 +1374,6 @@ msgstr "ନାମ:"
 msgid "Location:"
 msgstr "ସ୍ଥାନ:"
 
-#: sidebar/trees/bookmark_module/bookmark_module.h:88
-msgid "Add Bookmark"
-msgstr "ଚିହ୍ନିତ ସ୍ଥାନ ଯୋଗକରନ୍ତୁ"
-
 #: sidebar/trees/konq_sidebartree.cpp:206
 msgid "&Create New Folder..."
 msgstr "ନୂତନ ଫୋଲଡ଼ର ନିର୍ମାଣ କରନ୍ତୁ (&C)..."
@@ -1462,6 +1401,99 @@ msgstr "ନୂତନ ଫୋଲଡ଼ର ନିର୍ମାଣ କରନ୍ତୁ
 #: sidebar/trees/konq_sidebartree.cpp:959
 msgid "Enter folder name:"
 msgstr "ଫୋଲଡ଼ର ନାମ ଭରଣ କରନ୍ତୁ:"
+
+#: sidebar/trees/konqsidebar_oldtreemodule.cpp:179
+#: sidebar/web_module/web_module.cpp:251
+#, fuzzy
+#| msgid "Name:"
+msgctxt "@label"
+msgid "Name:"
+msgstr "ନାମ:"
+
+#: sidebar/trees/konqsidebar_oldtreemodule.cpp:179
+#: sidebar/web_module/web_module.cpp:251
+msgctxt "@label"
+msgid "Path or URL:"
+msgstr ""
+
+#: sidebar/trees/konqsidebar_oldtreemodule.cpp:180
+msgctxt "@title:window"
+msgid "Add folder sidebar module"
+msgstr ""
+
+#: sidebar/web_module/web_module.cpp:89
+msgid "Set Refresh Timeout (0 disables)"
+msgstr "ସତେଜନ ସମୟ ସମାପ୍ତ ସେଟକରନ୍ତୁ (0 ନିଷ୍କ୍ରିୟ ହୋଇଛି)"
+
+#: sidebar/web_module/web_module.cpp:97
+msgid " min"
+msgstr " ମିନଟ"
+
+#: sidebar/web_module/web_module.cpp:99
+msgid " sec"
+msgstr " ସେକଣ୍ଡ"
+
+#: sidebar/web_module/web_module.cpp:231
+#, fuzzy
+#| msgid "Web Sidebar"
+msgctxt "@action:inmenu Add"
+msgid "Web Sidebar Module"
+msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି"
+
+#: sidebar/web_module/web_module.cpp:252
+msgctxt "@title:window"
+msgid "Add web sidebar module"
+msgstr ""
+
+#: sidebar/web_module/web_module.h:52
+msgid "&Open Link"
+msgstr "ସଂଯୋଗ ଖୋଲନ୍ତୁ (&O)"
+
+#: sidebar/web_module/web_module.h:59
+msgid "Set &Automatic Reload"
+msgstr "ସ୍ୱୟଂଚାଳିତ ପୁନର୍ଧାରଣ ସେଟକରନ୍ତୁ (&A)"
+
+#: sidebar/history_module/history_module.cpp:126
+#, fuzzy
+#| msgid "Web Sidebar"
+msgctxt "@action:inmenu Add"
+msgid "History Sidebar Module"
+msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି"
+
+#: sidebar/history_module/history_module.cpp:149
+#, fuzzy
+#| msgid "Clear History"
+msgctxt "@title:tab"
+msgid "History"
+msgstr "ପୁରୁଣା ତଥ୍ୟ ସଫାକରନ୍ତୁ"
+
+#: sidebar/history_module/kcmhistory.cpp:71
+msgid " day"
+msgid_plural " days"
+msgstr[0] " ଦିନ"
+msgstr[1] " ଦିନ"
+
+#: sidebar/history_module/kcmhistory.cpp:77
+#: sidebar/history_module/kcmhistory.cpp:82
+#: sidebar/history_module/kcmhistory.cpp:215
+#: sidebar/history_module/kcmhistory.cpp:227
+msgid "Minute"
+msgid_plural "Minutes"
+msgstr[0] "ମିନଟ"
+msgstr[1] "ମିନଟ"
+
+#: sidebar/history_module/kcmhistory.cpp:79
+#: sidebar/history_module/kcmhistory.cpp:84
+#: sidebar/history_module/kcmhistory.cpp:213
+#: sidebar/history_module/kcmhistory.cpp:225
+msgid "Day"
+msgid_plural "Days"
+msgstr[0] "ଦିନ"
+msgstr[1] "ଦିନ"
+
+#: sidebar/history_module/kcmhistory.cpp:198
+msgid "<h1>History Sidebar</h1> You can configure the history sidebar here."
+msgstr "<h1>ପୁରୁଣା ତଥ୍ୟ ପାର୍ଶ୍ୱପଟି</h1> ଆପଣ ଏଠାରେ ପୁରୁଣା ତଥ୍ୟ ପାର୍ଶ୍ୱପଟିକୁ ବିନ୍ୟାସ କରିପାରିବେ। "
 
 #: sidebar/sidebar_part.cpp:28
 msgid "Extended Sidebar"
@@ -1557,38 +1589,6 @@ msgstr "କାଢ଼ି ଦିଅନ୍ତୁ"
 #| msgid "Web Sidebar"
 msgid "Web module"
 msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି"
-
-#: sidebar/web_module/web_module.cpp:89
-msgid "Set Refresh Timeout (0 disables)"
-msgstr "ସତେଜନ ସମୟ ସମାପ୍ତ ସେଟକରନ୍ତୁ (0 ନିଷ୍କ୍ରିୟ ହୋଇଛି)"
-
-#: sidebar/web_module/web_module.cpp:97
-msgid " min"
-msgstr " ମିନଟ"
-
-#: sidebar/web_module/web_module.cpp:99
-msgid " sec"
-msgstr " ସେକଣ୍ଡ"
-
-#: sidebar/web_module/web_module.cpp:231
-#, fuzzy
-#| msgid "Web Sidebar"
-msgctxt "@action:inmenu Add"
-msgid "Web Sidebar Module"
-msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି"
-
-#: sidebar/web_module/web_module.cpp:252
-msgctxt "@title:window"
-msgid "Add web sidebar module"
-msgstr ""
-
-#: sidebar/web_module/web_module.h:52
-msgid "&Open Link"
-msgstr "ସଂଯୋଗ ଖୋଲନ୍ତୁ (&O)"
-
-#: sidebar/web_module/web_module.h:59
-msgid "Set &Automatic Reload"
-msgstr "ସ୍ୱୟଂଚାଳିତ ପୁନର୍ଧାରଣ ସେଟକରନ୍ତୁ (&A)"
 
 #: about/konq_aboutpage.cc:79 about/konq_aboutpage.cc:81
 #: about/konq_aboutpage.cc:135 about/konq_aboutpage.cc:137
@@ -2131,42 +2131,54 @@ msgstr "ଚିହ୍ନିତ ସ୍ଥାନ ସାଧନପଟି"
 msgid "&Tools"
 msgstr "ସାଧନ (&T)"
 
+#. i18n: file: src/konqnewsessiondlg_base.ui:33
+#. i18n: ectx: property (text), widget (QLabel, lblDescription)
+#: rc.cpp:41
+msgid "Save open tabs and windows for easy retrieval"
+msgstr "ସହଜ ପୁନରୁଦ୍ଧାର ପାଇଁ ଖୋଲାଥିବା ଟ୍ୟାବ ଏବଂ ୱିଣ୍ଡୋଗୁଡ଼ିକୁ ସଂରକ୍ଷଣ କରନ୍ତୁ"
+
+#. i18n: file: src/konqnewsessiondlg_base.ui:48
+#. i18n: ectx: property (text), widget (QLabel, lblSessionName)
+#: rc.cpp:44
+msgid "&Session name:"
+msgstr "ଅଧିବେଶନ ନାମ (&S):"
+
 #. i18n: file: src/konqprofiledlg_base.ui:16
 #. i18n: ectx: property (text), widget (QLabel, lblName)
-#: rc.cpp:41
+#: rc.cpp:47
 msgid "&Profile name:"
 msgstr "ରୂପରେଖ ନାମ (&P):"
 
 #. i18n: file: src/konqprofiledlg_base.ui:32
 #. i18n: ectx: property (text), widget (QCheckBox, m_cbSaveURLs)
-#: rc.cpp:44
+#: rc.cpp:50
 msgid "Save &URLs in profile"
 msgstr "ରୂପରେଖରେ URLଗୁଡ଼ିକୁ ସଂରକ୍ଷଣ କରନ୍ତୁ (&U)"
 
 #. i18n: file: src/konqsessiondlg_base.ui:25
 #. i18n: ectx: property (text), widget (KPushButton, m_pNewButton)
-#: rc.cpp:47
+#: rc.cpp:53
 msgctxt "@action:button New session"
 msgid "New..."
 msgstr "ନୂତନ..."
 
 #. i18n: file: src/konqsessiondlg_base.ui:32
 #. i18n: ectx: property (text), widget (KPushButton, m_pSaveCurrentButton)
-#: rc.cpp:50
+#: rc.cpp:56
 msgctxt "@action:button Save current session"
 msgid "Save Current"
 msgstr "ଏହାକୁ ସଂରକ୍ଷଣ କରନ୍ତୁ"
 
 #. i18n: file: src/konqsessiondlg_base.ui:39
 #. i18n: ectx: property (text), widget (KPushButton, m_pRenameButton)
-#: rc.cpp:53
+#: rc.cpp:59
 msgctxt "@action:button Rename session"
 msgid "Rename..."
 msgstr "ପୁନଃ ନାମକରଣ କରନ୍ତୁ..."
 
 #. i18n: file: src/konqsessiondlg_base.ui:46
 #. i18n: ectx: property (text), widget (KPushButton, m_pDeleteButton)
-#: rc.cpp:56
+#: rc.cpp:62
 msgctxt "@action:button Delete session"
 msgid "Delete"
 msgstr "ଅପସାରଣ କରନ୍ତୁ"
@@ -2175,21 +2187,9 @@ msgstr "ଅପସାରଣ କରନ୍ତୁ"
 #. i18n: ectx: property (text), widget (QCheckBox, m_pOpenTabsInsideCurrentWindow)
 #. i18n: file: src/konqueror.kcfg:531
 #. i18n: ectx: label, entry, group (Trash)
-#: rc.cpp:59 rc.cpp:306
+#: rc.cpp:65 rc.cpp:306
 msgid "Open tabs inside current window"
 msgstr "ଏହି ୱିଣ୍ଡୋ ଭିତରେ ଟ୍ୟାବଗୁଡ଼ିକୁ ଖୋଲନ୍ତୁ"
-
-#. i18n: file: src/konqnewsessiondlg_base.ui:33
-#. i18n: ectx: property (text), widget (QLabel, lblDescription)
-#: rc.cpp:62
-msgid "Save open tabs and windows for easy retrieval"
-msgstr "ସହଜ ପୁନରୁଦ୍ଧାର ପାଇଁ ଖୋଲାଥିବା ଟ୍ୟାବ ଏବଂ ୱିଣ୍ଡୋଗୁଡ଼ିକୁ ସଂରକ୍ଷଣ କରନ୍ତୁ"
-
-#. i18n: file: src/konqnewsessiondlg_base.ui:48
-#. i18n: ectx: property (text), widget (QLabel, lblSessionName)
-#: rc.cpp:65
-msgid "&Session name:"
-msgstr "ଅଧିବେଶନ ନାମ (&S):"
 
 #. i18n: file: sidebar/history_module/history_dlg.ui:16
 #. i18n: ectx: property (title), widget (QGroupBox, gbLimits)
