@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-03-14 04:21+0100\n"
+"POT-Creation-Date: 2010-03-15 04:23+0100\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -598,7 +598,7 @@ msgstr "ସଂଳାପର ଆକାର"
 #. i18n: ectx: property (windowTitle), widget (QWidget, UploadDialog)
 #. i18n: file: knewstuff/knewstuff2/ui/UploadDialog.ui:14
 #. i18n: ectx: property (windowTitle), widget (QWidget, UploadDialog)
-#: rc.cpp:270 rc.cpp:417 knewstuff/knewstuff3/uploaddialog.cpp:256
+#: rc.cpp:270 rc.cpp:417 knewstuff/knewstuff3/uploaddialog.cpp:258
 #: knewstuff/knewstuff2/ui/uploaddialog.cpp:58
 msgid "Share Hot New Stuff"
 msgstr "ନୂତନ ଉପାଦାନକୁ ସହଭାଗ କରନ୍ତୁ"
@@ -2858,24 +2858,24 @@ msgid "Could not verify login, please try again."
 msgstr "ଲଗଇନ ସୂଟନାକୁ ସଂରକ୍ଷଣ କରନ୍ତୁ"
 
 #: knewstuff/knewstuff3/uploaddialog.cpp:174
-#: knewstuff/knewstuff3/uploaddialog.cpp:425
+#: knewstuff/knewstuff3/uploaddialog.cpp:427
 #: khtml/rendering/render_form.cpp:811 kjs/object.cpp:585
 #: kdeui/dialogs/kmessagebox.cpp:830 kdeui/dialogs/kmessagebox.cpp:860
 msgid "Error"
 msgstr "ତ୍ରୁଟି"
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:261
+#: knewstuff/knewstuff3/uploaddialog.cpp:263
 #: kdeui/dialogs/kassistantdialog.cpp:94
 msgctxt "Opposite to Back"
 msgid "Next"
 msgstr "ପରବର୍ତ୍ତୀ"
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:263
+#: knewstuff/knewstuff3/uploaddialog.cpp:265
 #: kdeui/dialogs/kassistantdialog.cpp:95
 msgid "Finish"
 msgstr "ସମାପ୍ତ"
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:284
+#: knewstuff/knewstuff3/uploaddialog.cpp:286
 #: knewstuff/knewstuff2/ui/uploaddialog.cpp:65
 #, fuzzy, kde-format
 #| msgctxt "Program name followed by 'Add On Installer'"
@@ -2884,22 +2884,22 @@ msgctxt "Program name followed by 'Add On Uploader'"
 msgid "%1 Add-On Uploader"
 msgstr "%1 ଅତିରିକ୍ତ ସ୍ଥାପନକାରୀ"
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:336
-#: knewstuff/knewstuff3/uploaddialog.cpp:552
+#: knewstuff/knewstuff3/uploaddialog.cpp:338
+#: knewstuff/knewstuff3/uploaddialog.cpp:564
 #, fuzzy, kde-format
 #| msgid "File %1 not found."
 msgid "File not found: %1"
 msgstr "ଫାଇଲ %1 ମିଳୁନାହିଁ।"
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:336
-#: knewstuff/knewstuff3/uploaddialog.cpp:473
-#: knewstuff/knewstuff3/uploaddialog.cpp:552
+#: knewstuff/knewstuff3/uploaddialog.cpp:338
+#: knewstuff/knewstuff3/uploaddialog.cpp:475
+#: knewstuff/knewstuff3/uploaddialog.cpp:564
 #, fuzzy
 #| msgid "Download"
 msgid "Upload Failed"
 msgstr "ଆହରଣ"
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:422
+#: knewstuff/knewstuff3/uploaddialog.cpp:424
 #, kde-format
 msgid ""
 "The server does not recognize the category %2 to which you are trying to "
@@ -2910,47 +2910,47 @@ msgid_plural ""
 msgstr[0] ""
 msgstr[1] ""
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:473
+#: knewstuff/knewstuff3/uploaddialog.cpp:475
 #, kde-format
 msgid "The selected category \"%1\" is invalid."
 msgstr ""
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:477
+#: knewstuff/knewstuff3/uploaddialog.cpp:479
 msgid "Creating Content on Server..."
 msgstr ""
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:522
+#: knewstuff/knewstuff3/uploaddialog.cpp:534
 msgid "There was a network error."
 msgstr ""
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:522
-#: knewstuff/knewstuff3/uploaddialog.cpp:527
+#: knewstuff/knewstuff3/uploaddialog.cpp:534
+#: knewstuff/knewstuff3/uploaddialog.cpp:539
 #, fuzzy
 #| msgid "Download"
 msgid "Uploading Failed"
 msgstr "ଆହରଣ"
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:527
+#: knewstuff/knewstuff3/uploaddialog.cpp:539
 #, fuzzy
 #| msgid "Communication error"
 msgid "Authentication error."
 msgstr "ସଞ୍ଚାର ତ୍ରୁଟି"
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:539
+#: knewstuff/knewstuff3/uploaddialog.cpp:551
 msgid "Uploading content..."
 msgstr ""
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:543
+#: knewstuff/knewstuff3/uploaddialog.cpp:555
 #, fuzzy
 #| msgid "Loading Preview"
 msgid "Uploading preview image and content..."
 msgstr "ପ୍ରାକଦର୍ଶନ ଧାରଣ କରୁଅଛି"
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:577
+#: knewstuff/knewstuff3/uploaddialog.cpp:589
 msgid "Content file successfully uploaded."
 msgstr ""
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:585
+#: knewstuff/knewstuff3/uploaddialog.cpp:597
 msgid "Preview image successfully uploaded."
 msgstr ""
 
