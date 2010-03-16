@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-03-15 03:42+0000\n"
+"POT-Creation-Date: 2010-03-16 03:51+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -2315,7 +2315,7 @@ msgctxt "Name"
 msgid "Bookmark Editor"
 msgstr "ସାଧନପଟିକୁ ଚିହ୍ନଟ କରନ୍ତୁ"
 
-#: apps/keditbookmarks/keditbookmarks.desktop:19
+#: apps/keditbookmarks/keditbookmarks.desktop:20
 msgctxt "Comment"
 msgid "Bookmark Organizer and Editor"
 msgstr ""
@@ -4541,7 +4541,7 @@ msgctxt "Name"
 msgid "Ecosia search engine"
 msgstr "ସନ୍ଧାନ ଯନ୍ତ୍ର"
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/ecosia.desktop:17
+#: runtime/kurifilter-plugins/ikws/searchproviders/ecosia.desktop:18
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -4769,7 +4769,7 @@ msgctxt "Name"
 msgid "Google Maps"
 msgstr "Google Groups"
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/google_maps.desktop:16
+#: runtime/kurifilter-plugins/ikws/searchproviders/google_maps.desktop:17
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://news.google.com/news?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
@@ -5371,7 +5371,7 @@ msgctxt "Name"
 msgid "YouTube"
 msgstr ""
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/youtube.desktop:14
+#: runtime/kurifilter-plugins/ikws/searchproviders/youtube.desktop:15
 msgctxt "Query"
 msgid "http://www.youtube.com/results?search_query=\\\\{@}&search_type=&aq=f"
 msgstr ""
@@ -8081,6 +8081,7 @@ msgid "Internal Services"
 msgstr "ଆଭ୍ୟନ୍ତରୀଣ ସର୍ଭିସଗୁଡ଼ିକ"
 
 #: runtime/menu/desktop/kde-development.directory:4
+#: workspace/plasma/netbook/containments/sal/services/plasma-sal-development.desktop:2
 msgctxt "Name"
 msgid "Development"
 msgstr "ବିକାଶ"
@@ -9515,7 +9516,7 @@ msgctxt "Name"
 msgid "LXDE"
 msgstr ""
 
-#: workspace/kdm/kfrontend/sessions/lxde.desktop:16
+#: workspace/kdm/kfrontend/sessions/lxde.desktop:17
 msgctxt "Comment"
 msgid "Lightweight X11 desktop environment"
 msgstr ""
@@ -10273,7 +10274,7 @@ msgctxt "Name"
 msgid "Processor"
 msgstr "ସଞ୍ଚାଳକ"
 
-#: workspace/kinfocenter/info/processor.desktop:103
+#: workspace/kinfocenter/info/processor.desktop:99
 msgctxt "Comment"
 msgid "Processor information"
 msgstr "ସଂଚାଳକ ସୂଚନା"
@@ -10303,7 +10304,7 @@ msgctxt "Comment"
 msgid "Information about available protocols"
 msgstr "ଉପଲବ୍ଧ ପ୍ରୋଟୋକଲଗୁଡ଼ିକ ବିଷୟରେ ସୂଚନା"
 
-#: workspace/kinfocenter/ioslaveinfo/ioslaveinfo.desktop:141
+#: workspace/kinfocenter/ioslaveinfo/ioslaveinfo.desktop:137
 msgctxt "Name"
 msgid "Protocols"
 msgstr "ପ୍ରୋଟୋକଲଗୁଡ଼ିକ"
@@ -13385,6 +13386,11 @@ msgstr "ଅକ୍ଷର ରୂପ"
 #: workspace/plasma/netbook/containments/sal/services/plasma-sal-contacts.desktop:56
 msgctxt "Comment"
 msgid "List all your contacts"
+msgstr ""
+
+#: workspace/plasma/netbook/containments/sal/services/plasma-sal-development.desktop:3
+msgctxt "Comment"
+msgid "Applications targeted to software development"
 msgstr ""
 
 #: workspace/plasma/netbook/containments/sal/services/plasma-sal-education.desktop:85
