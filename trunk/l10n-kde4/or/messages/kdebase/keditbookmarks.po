@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: keditbookmarks\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-03-11 04:16+0100\n"
+"POT-Creation-Date: 2010-03-17 05:06+0100\n"
 "PO-Revision-Date: 2009-01-02 11:47+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -35,30 +35,6 @@ msgstr ""
 
 #: kebsearchline.cpp:680
 msgid "S&earch:"
-msgstr ""
-
-#: bookmarkinfo.cpp:254
-msgid "Name:"
-msgstr ""
-
-#: bookmarkinfo.cpp:262
-msgid "Location:"
-msgstr ""
-
-#: bookmarkinfo.cpp:270
-msgid "Comment:"
-msgstr ""
-
-#: bookmarkinfo.cpp:277
-msgid "First viewed:"
-msgstr ""
-
-#: bookmarkinfo.cpp:280
-msgid "Viewed last:"
-msgstr ""
-
-#: bookmarkinfo.cpp:283
-msgid "Times visited:"
 msgstr ""
 
 #: main.cpp:67
@@ -518,6 +494,30 @@ msgstr ""
 
 #: testlink.cpp:108
 msgid "Checking..."
+msgstr ""
+
+#: bookmarkinfowidget.cpp:251
+msgid "Name:"
+msgstr ""
+
+#: bookmarkinfowidget.cpp:259
+msgid "Location:"
+msgstr ""
+
+#: bookmarkinfowidget.cpp:267
+msgid "Comment:"
+msgstr ""
+
+#: bookmarkinfowidget.cpp:274
+msgid "First viewed:"
+msgstr ""
+
+#: bookmarkinfowidget.cpp:277
+msgid "Viewed last:"
+msgstr ""
+
+#: bookmarkinfowidget.cpp:280
+msgid "Times visited:"
 msgstr ""
 
 #. i18n: file: keditbookmarks-genui.rc:6
