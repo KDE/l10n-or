@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmstyle\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-01-02 05:57+0100\n"
+"POT-Creation-Date: 2010-03-21 12:20+0100\n"
 "PO-Revision-Date: 2009-01-02 11:46+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -19,122 +19,122 @@ msgstr ""
 "\n"
 "\n"
 
-#: kcmstyle.cpp:344
+#: kcmstyle.cpp:343
 msgid ""
 "<h1>Style</h1>This module allows you to modify the visual appearance of user "
 "interface elements, such as the widget style and effects."
 msgstr ""
 
-#: kcmstyle.cpp:360
+#: kcmstyle.cpp:359
 msgid "kcmstyle"
 msgstr ""
 
-#: kcmstyle.cpp:361
+#: kcmstyle.cpp:360
 msgid "KDE Style Module"
 msgstr ""
 
-#: kcmstyle.cpp:363
+#: kcmstyle.cpp:362
 msgid "(c) 2002 Karol Szwed, Daniel Molkentin"
 msgstr ""
 
-#: kcmstyle.cpp:365
+#: kcmstyle.cpp:364
 msgid "Karol Szwed"
 msgstr ""
 
-#: kcmstyle.cpp:366
+#: kcmstyle.cpp:365
 msgid "Daniel Molkentin"
 msgstr ""
 
-#: kcmstyle.cpp:367
+#: kcmstyle.cpp:366
 msgid "Ralf Nolden"
 msgstr ""
 
-#: kcmstyle.cpp:407
+#: kcmstyle.cpp:408
 msgid "Widget style:"
 msgstr ""
 
-#: kcmstyle.cpp:417
+#: kcmstyle.cpp:418
 msgid "Con&figure..."
 msgstr ""
 
-#: kcmstyle.cpp:426
+#: kcmstyle.cpp:427
 msgid "Preview"
 msgstr ""
 
-#: kcmstyle.cpp:447
+#: kcmstyle.cpp:448
 msgid "Low display resolution and Low CPU"
 msgstr ""
 
-#: kcmstyle.cpp:448
+#: kcmstyle.cpp:449
 msgid "High display resolution and Low CPU"
 msgstr ""
 
-#: kcmstyle.cpp:449
+#: kcmstyle.cpp:450
 msgid "Low display resolution and High CPU"
 msgstr ""
 
-#: kcmstyle.cpp:450
+#: kcmstyle.cpp:451
 msgid "High display resolution and High CPU"
 msgstr ""
 
-#: kcmstyle.cpp:451
+#: kcmstyle.cpp:452
 msgid "Low display resolution and Very High CPU"
 msgstr ""
 
-#: kcmstyle.cpp:452
+#: kcmstyle.cpp:453
 msgid "High display resolution and Very High CPU"
-msgstr ""
-
-#: kcmstyle.cpp:463
-msgctxt "@title:tab"
-msgid "&Applications"
 msgstr ""
 
 #: kcmstyle.cpp:464
 msgctxt "@title:tab"
-msgid "&Workspace"
+msgid "&Applications"
 msgstr ""
 
 #: kcmstyle.cpp:465
 msgctxt "@title:tab"
+msgid "&Workspace"
+msgstr ""
+
+#: kcmstyle.cpp:466
+msgctxt "@title:tab"
 msgid "&Fine Tuning"
 msgstr ""
 
-#: kcmstyle.cpp:495 kcmstyle.cpp:506
+#: kcmstyle.cpp:498 kcmstyle.cpp:509
 msgid "There was an error loading the configuration dialog for this style."
 msgstr ""
 
-#: kcmstyle.cpp:497 kcmstyle.cpp:508
+#: kcmstyle.cpp:500 kcmstyle.cpp:511
 msgid "Unable to Load Dialog"
 msgstr ""
 
-#: kcmstyle.cpp:789 kcmstyle.cpp:900
+#: kcmstyle.cpp:795 kcmstyle.cpp:906
 msgid "No description available."
 msgstr ""
 
-#: kcmstyle.cpp:900
+#: kcmstyle.cpp:906
 #, kde-format
 msgid "Description: %1"
 msgstr ""
 
-#: kcmstyle.cpp:982
+#: kcmstyle.cpp:988
 msgid ""
 "Here you can choose from a list of predefined widget styles (e.g. the way "
 "buttons are drawn) which may or may not be combined with a theme (additional "
 "information like a marble texture or a gradient)."
 msgstr ""
 
-#: kcmstyle.cpp:986
+#: kcmstyle.cpp:992
 msgid ""
 "This area shows a preview of the currently selected style without having to "
 "apply it to the whole desktop."
 msgstr ""
 
-#: kcmstyle.cpp:989
+#: kcmstyle.cpp:995
 msgid "This page allows you to choose details about the widget style options"
 msgstr ""
 
-#: kcmstyle.cpp:990
+#: kcmstyle.cpp:996
 msgid ""
 "<p><b>No Text:</b> Shows only icons on toolbar buttons. Best option for low "
 "resolutions.</p><p><b>Text Only: </b>Shows only text on toolbar buttons.</"
@@ -143,13 +143,13 @@ msgid ""
 "and text on toolbar buttons. Text is aligned below the icon."
 msgstr ""
 
-#: kcmstyle.cpp:997
+#: kcmstyle.cpp:1003
 msgid ""
 "If you enable this option, KDE Applications will show small icons alongside "
 "some important buttons."
 msgstr ""
 
-#: kcmstyle.cpp:999
+#: kcmstyle.cpp:1005
 msgid ""
 "If you enable this option, KDE Applications will run internal animations."
 msgstr ""
