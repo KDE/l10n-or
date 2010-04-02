@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-04-01 05:05+0200\n"
+"POT-Creation-Date: 2010-04-02 04:55+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -623,7 +623,7 @@ msgstr "ଚାଳକନାମ:"
 
 #. i18n: file: knewstuff/knewstuff3/uploaddialog.ui:127
 #. i18n: ectx: property (text), widget (QLabel, label_9)
-#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:43
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:49
 #. i18n: ectx: property (text), widget (QLabel, m_providerLabel)
 #: rc.cpp:279 rc.cpp:381
 #, fuzzy
@@ -650,7 +650,7 @@ msgstr "ପୁନର୍ଧାରଣ କରନ୍ତୁ"
 
 #. i18n: file: knewstuff/knewstuff3/uploaddialog.ui:164
 #. i18n: ectx: property (text), widget (QRadioButton, radioUpdate)
-#. i18n: file: knewstuff/knewstuff3/ui/entrydetailsdialog.ui:235
+#. i18n: file: knewstuff/knewstuff3/ui/entrydetailsdialog.ui:239
 #. i18n: ectx: property (text), widget (QPushButton, updateButton)
 #: rc.cpp:288 rc.cpp:426 knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:128
 #: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:232
@@ -691,7 +691,7 @@ msgstr "ବର୍ଣ୍ଣନା:"
 
 #. i18n: file: knewstuff/knewstuff3/uploaddialog.ui:223
 #. i18n: ectx: property (text), widget (QLabel, priceLabel_2)
-#: rc.cpp:303 knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:135
+#: rc.cpp:303 knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:131
 #, fuzzy
 #| msgid "Changelog"
 msgid "Changelog:"
@@ -731,7 +731,7 @@ msgstr "ଶୀର୍ଷକ:"
 
 #. i18n: file: knewstuff/knewstuff3/uploaddialog.ui:297
 #. i18n: ectx: property (text), widget (QLabel, mCategoryLabel)
-#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:60
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:66
 #. i18n: ectx: property (text), widget (QLabel, m_categoryLabel)
 #: rc.cpp:318 rc.cpp:384
 #, fuzzy
@@ -880,7 +880,7 @@ msgstr "ପ୍ରାକଦର୍ଶନ ଧାରଣ କରୁଅଛି"
 msgid "Start Upload"
 msgstr "ବଦଳାଇବା ଆରମ୍ଭ କରନ୍ତୁ"
 
-#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:79
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:85
 #. i18n: ectx: property (text), widget (QRadioButton, newestRadio)
 #: rc.cpp:387
 #, fuzzy
@@ -889,7 +889,7 @@ msgstr "ବଦଳାଇବା ଆରମ୍ଭ କରନ୍ତୁ"
 msgid "Newest"
 msgstr "ନୂତନ"
 
-#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:89
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:98
 #. i18n: ectx: property (text), widget (QRadioButton, ratingRadio)
 #: rc.cpp:390
 #, fuzzy
@@ -897,13 +897,13 @@ msgstr "ନୂତନ"
 msgid "Rating"
 msgstr "ଆକଳନ: "
 
-#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:96
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:105
 #. i18n: ectx: property (text), widget (QRadioButton, mostDownloadsRadio)
 #: rc.cpp:393 knewstuff/knewstuff2/core/providerhandler.cpp:166
 msgid "Most Downloads"
 msgstr "ଅଧିକାଂଶ ଆହରଣଗୁଡିକ"
 
-#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:103
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:112
 #. i18n: ectx: property (text), widget (QRadioButton, installedRadio)
 #: rc.cpp:396
 #, fuzzy
@@ -911,7 +911,7 @@ msgstr "ଅଧିକାଂଶ ଆହରଣଗୁଡିକ"
 msgid "Installed"
 msgstr "ସ୍ଥାପନ କରନ୍ତୁ"
 
-#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:161
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:170
 #. i18n: ectx: property (text), widget (QLabel, orderLabel)
 #: rc.cpp:399
 #, fuzzy
@@ -919,7 +919,7 @@ msgstr "ସ୍ଥାପନ କରନ୍ତୁ"
 msgid "Order by:"
 msgstr "ଆଦେଶ ଦ୍ୱାରା (&O):"
 
-#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:171
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:180
 #. i18n: ectx: property (text), widget (QLabel, label_4)
 #: rc.cpp:402
 #, fuzzy
@@ -927,7 +927,7 @@ msgstr "ଆଦେଶ ଦ୍ୱାରା (&O):"
 msgid "Search:"
 msgstr "ଖୋଜନ୍ତୁ (&e):"
 
-#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:197
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:206
 #. i18n: ectx: property (clickMessage), widget (KLineEdit, m_searchEdit)
 #. i18n: file: knewstuff/knewstuff2/ui/DownloadDialog.ui:93
 #. i18n: ectx: property (clickMessage), widget (KLineEdit, m_searchEdit)
@@ -935,7 +935,7 @@ msgstr "ଖୋଜନ୍ତୁ (&e):"
 msgid "Enter search phrase here"
 msgstr "ଏଠାରେ ସନ୍ଧାନ ବାକ୍ୟାଂଶ ଭରଣ କରନ୍ତୁ"
 
-#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:223
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:232
 #. i18n: ectx: property (text), widget (QPushButton, m_uploadButton)
 #: rc.cpp:408
 #, fuzzy
@@ -943,19 +943,19 @@ msgstr "ଏଠାରେ ସନ୍ଧାନ ବାକ୍ୟାଂଶ ଭରଣ �
 msgid "Upload your own files..."
 msgstr "ଆହରଣ"
 
-#. i18n: file: knewstuff/knewstuff3/ui/entrydetailsdialog.ui:110
+#. i18n: file: knewstuff/knewstuff3/ui/entrydetailsdialog.ui:114
 #. i18n: ectx: property (text), widget (QPushButton, voteGoodButton)
 #: rc.cpp:411
 msgid "I like this"
 msgstr ""
 
-#. i18n: file: knewstuff/knewstuff3/ui/entrydetailsdialog.ui:117
+#. i18n: file: knewstuff/knewstuff3/ui/entrydetailsdialog.ui:121
 #. i18n: ectx: property (text), widget (QPushButton, voteBadButton)
 #: rc.cpp:414
 msgid "I do not like this"
 msgstr ""
 
-#. i18n: file: knewstuff/knewstuff3/ui/entrydetailsdialog.ui:182
+#. i18n: file: knewstuff/knewstuff3/ui/entrydetailsdialog.ui:186
 #. i18n: ectx: property (text), widget (QLabel, label)
 #. i18n: file: knewstuff/knewstuff2/ui/UploadDialog.ui:20
 #. i18n: ectx: property (text), widget (QLabel, label)
@@ -963,13 +963,13 @@ msgstr ""
 msgid "Author:"
 msgstr "ଲେଖକ:"
 
-#. i18n: file: knewstuff/knewstuff3/ui/entrydetailsdialog.ui:205
+#. i18n: file: knewstuff/knewstuff3/ui/entrydetailsdialog.ui:209
 #. i18n: ectx: property (text), widget (QLabel, homepageLabel)
 #: rc.cpp:420
-msgid "<a href=\"http://opendesktop.org\">Visit Homepage</a>"
+msgid "<a href=\"http://opendesktop.org\">Homepage</a>"
 msgstr ""
 
-#. i18n: file: knewstuff/knewstuff3/ui/entrydetailsdialog.ui:225
+#. i18n: file: knewstuff/knewstuff3/ui/entrydetailsdialog.ui:229
 #. i18n: ectx: property (text), widget (QPushButton, installButton)
 #: rc.cpp:423 knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:143
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:153
@@ -986,7 +986,7 @@ msgstr ""
 msgid "Install"
 msgstr "ସ୍ଥାପନ କରନ୍ତୁ"
 
-#. i18n: file: knewstuff/knewstuff3/ui/entrydetailsdialog.ui:245
+#. i18n: file: knewstuff/knewstuff3/ui/entrydetailsdialog.ui:249
 #. i18n: ectx: property (text), widget (QPushButton, uninstallButton)
 #: rc.cpp:429 knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:124
 #: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:228
@@ -998,7 +998,7 @@ msgstr "ସ୍ଥାପନ କରନ୍ତୁ"
 msgid "Uninstall"
 msgstr "ଅପସାରଣ କରନ୍ତୁ"
 
-#. i18n: file: knewstuff/knewstuff3/ui/entrydetailsdialog.ui:252
+#. i18n: file: knewstuff/knewstuff3/ui/entrydetailsdialog.ui:256
 #. i18n: ectx: property (text), widget (QPushButton, becomeFanButton)
 #: rc.cpp:432
 msgid "Become a Fan"
@@ -1012,7 +1012,7 @@ msgstr "ଇମେଲ ଠିକଣା:"
 
 #. i18n: file: knewstuff/knewstuff2/ui/UploadDialog.ui:46
 #. i18n: ectx: property (text), widget (QLabel, label_4)
-#: rc.cpp:444 kross/ui/view.cpp:151 kdeui/colors/kcolordialog.cpp:1184
+#: rc.cpp:444 kross/ui/view.cpp:151 kdeui/colors/kcolordialog.cpp:1230
 msgid "Name:"
 msgstr "ନାମ:"
 
@@ -3087,13 +3087,21 @@ msgstr "%1କୁ ସ୍ଥାପନ କରିପାରିଲା ନାହିଁ"
 msgid "Get Hot New Stuff!"
 msgstr "ନୂତନ ଉପାଦାନ ଗ୍ରହଣକରନ୍ତୁ!"
 
-#: knewstuff/knewstuff3/downloadwidget.cpp:253
+#: knewstuff/knewstuff3/downloadwidget.cpp:238
+msgid "Icons view mode"
+msgstr ""
+
+#: knewstuff/knewstuff3/downloadwidget.cpp:240
+msgid "Details view mode"
+msgstr ""
+
+#: knewstuff/knewstuff3/downloadwidget.cpp:255
 #, fuzzy
 #| msgid "Provider: %1"
 msgid "All Providers"
 msgstr "ପ୍ରଦାତା: %1"
 
-#: knewstuff/knewstuff3/downloadwidget.cpp:260
+#: knewstuff/knewstuff3/downloadwidget.cpp:262
 #, fuzzy
 #| msgid "Pages"
 msgid "All Categories"
@@ -3305,7 +3313,7 @@ msgstr ""
 msgid "Unknown Open Collaboration Service API error. (%1)"
 msgstr ""
 
-#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:123
+#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:119
 #, fuzzy, kde-format
 #| msgid "Suggestions"
 msgid "Details for %1"
@@ -3315,14 +3323,31 @@ msgstr "ପ୍ରସ୍ତାବଗୁଡ଼ିକ"
 #, fuzzy
 #| msgid "Homepage"
 msgctxt "A link to the description of this Get Hot New Stuff item"
-msgid "Visit homepage..."
+msgid "Homepage"
 msgstr "ମୂଳସ୍ଥାନ ପୃଷ୍ଠା"
 
-#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:162
+#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:143
 #, fuzzy
-#| msgid "Loading Preview"
-msgid "Loading preview..."
-msgstr "ପ୍ରାକଦର୍ଶନ ଧାରଣ କରୁଅଛି"
+#| msgid "HTML documentation"
+msgctxt ""
+"A link to make a donation for a Get Hot New Stuff item (opens a web browser)"
+msgid "Make a donation"
+msgstr "HTML ଦଲିଲିକରଣ"
+
+#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:147
+#, kde-format
+msgctxt "A link to the knowledgebase (like a forum) (opens a web browser)"
+msgid "Knowledgebase (no entries)"
+msgid_plural "Knowledgebase (%1 entries)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:150
+#, fuzzy
+#| msgid "Open in New &Window"
+msgctxt "Tooltip for a link in a dialog"
+msgid "Opens in a browser window"
+msgstr "ନୂତନ ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ (&W)"
 
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:138
 #: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:242
@@ -3338,16 +3363,16 @@ msgstr "ଅଦ୍ୟତନ"
 msgid "Install Again"
 msgstr "ସ୍ଥାପନ କରନ୍ତୁ"
 
-#: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:175
+#: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:174
 #: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:282
 #, fuzzy
 #| msgid "Details"
 msgid "Details..."
 msgstr "ବିସ୍ତ୍ରୁତ ବିବରଣୀ"
 
-#: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:224
-#: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:226
-#: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:228
+#: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:223
+#: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:225
+#: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:227
 #: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:168
 #: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:170
 #: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:172
@@ -3358,7 +3383,7 @@ msgctxt "Show the author of this item in a list"
 msgid "By <i>%1</i>"
 msgstr "<i>%1</i>"
 
-#: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:242
+#: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:241
 #: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:194
 #, kde-format
 msgid "1 fan"
@@ -3366,7 +3391,7 @@ msgid_plural "%1 fans"
 msgstr[0] ""
 msgstr[1] ""
 
-#: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:245
+#: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:244
 #: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:197
 #, fuzzy, kde-format
 #| msgid "Download"
@@ -3375,14 +3400,14 @@ msgid_plural "%1 downloads"
 msgstr[0] "ଆହରଣ"
 msgstr[1] "ଆହରଣ"
 
-#: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:264
+#: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:263
 #: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:118
 #, fuzzy, kde-format
 #| msgid "Rating: "
 msgid "Rating: %1%"
 msgstr "ଆକଳନ: "
 
-#: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:315
+#: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:314
 #: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:328
 #: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:264
 msgid "Loading Preview"
@@ -12768,46 +12793,46 @@ msgstr "ଆଧାର"
 msgid "Port"
 msgstr "ସଂଯୋଗିକୀ"
 
-#: kdeui/colors/kcolordialog.cpp:98
+#: kdeui/colors/kcolordialog.cpp:99
 msgctxt "palette name"
 msgid "* Recent Colors *"
 msgstr "* ସାମ୍ପ୍ରତିକ ରଙ୍ଗଗୁଡ଼ିକ *"
 
-#: kdeui/colors/kcolordialog.cpp:99
+#: kdeui/colors/kcolordialog.cpp:100
 msgctxt "palette name"
 msgid "* Custom Colors *"
 msgstr "* ଇଚ୍ଛାରୂପୀ ରଙ୍ଗ *"
 
-#: kdeui/colors/kcolordialog.cpp:100
+#: kdeui/colors/kcolordialog.cpp:101
 msgctxt "palette name"
 msgid "Forty Colors"
 msgstr "ଚାଳିଶ ରଙ୍ଗ"
 
-#: kdeui/colors/kcolordialog.cpp:101
+#: kdeui/colors/kcolordialog.cpp:102
 msgctxt "palette name"
 msgid "Oxygen Colors"
 msgstr "ପ୍ରାଣପ୍ରଦ ରଙ୍ଗଗୁଡିକ"
 
-#: kdeui/colors/kcolordialog.cpp:102
+#: kdeui/colors/kcolordialog.cpp:103
 msgctxt "palette name"
 msgid "Rainbow Colors"
 msgstr "ଇନ୍ଦ୍ରଧନୁ ରଙ୍ଗଗୁଡିକ"
 
-#: kdeui/colors/kcolordialog.cpp:103
+#: kdeui/colors/kcolordialog.cpp:104
 msgctxt "palette name"
 msgid "Royal Colors"
 msgstr "ରାଜକୀୟ ରଙ୍ଗଗୁଡିକ"
 
-#: kdeui/colors/kcolordialog.cpp:104
+#: kdeui/colors/kcolordialog.cpp:105
 msgctxt "palette name"
 msgid "Web Colors"
 msgstr "ୱେବ ରଙ୍ଗଗୁଡିକ"
 
-#: kdeui/colors/kcolordialog.cpp:520
+#: kdeui/colors/kcolordialog.cpp:566
 msgid "Named Colors"
 msgstr "ନାମକରଣ ହୋଇଥିବା ରଙ୍ଗଗୁଡିକ"
 
-#: kdeui/colors/kcolordialog.cpp:707
+#: kdeui/colors/kcolordialog.cpp:753
 #, fuzzy, kde-format
 #| msgid ""
 #| "Unable to read X11 RGB color strings. The following file location(s) were "
@@ -12828,52 +12853,52 @@ msgstr[0] ""
 msgstr[1] ""
 "X11 RGB ରଙ୍ଗ ଧାରାଗୁଡିକୁ ପଢିବାରେ ଅସମର୍ଥ। ଏହି ନିମ୍ନଲିଖିତ ଫାଇଲ ସ୍ଥିତି(ଗୁଡିକୁ) ପରୀକ୍ଷା କରାଯାଇଛି:\n"
 
-#: kdeui/colors/kcolordialog.cpp:989
+#: kdeui/colors/kcolordialog.cpp:1035
 msgid "Select Color"
 msgstr "ରଙ୍ଗ ଚୟନ କରନ୍ତୁ"
 
-#: kdeui/colors/kcolordialog.cpp:1058
+#: kdeui/colors/kcolordialog.cpp:1104
 msgid "Hue:"
 msgstr "ରଙ୍ଗ:"
 
-#: kdeui/colors/kcolordialog.cpp:1068
+#: kdeui/colors/kcolordialog.cpp:1114
 msgid "Saturation:"
 msgstr "ପରିପୃକ୍ତତା:"
 
-#: kdeui/colors/kcolordialog.cpp:1078
+#: kdeui/colors/kcolordialog.cpp:1124
 msgctxt "This is the V of HSV"
 msgid "Value:"
 msgstr "ମୁଲ୍ୟ:"
 
-#: kdeui/colors/kcolordialog.cpp:1092
+#: kdeui/colors/kcolordialog.cpp:1138
 msgid "Red:"
 msgstr "ନାଲି:"
 
-#: kdeui/colors/kcolordialog.cpp:1101
+#: kdeui/colors/kcolordialog.cpp:1147
 msgid "Green:"
 msgstr "ସବୁଜ:"
 
-#: kdeui/colors/kcolordialog.cpp:1111
+#: kdeui/colors/kcolordialog.cpp:1157
 msgid "Blue:"
 msgstr "ନିଳ:"
 
-#: kdeui/colors/kcolordialog.cpp:1156
+#: kdeui/colors/kcolordialog.cpp:1202
 msgid "&Add to Custom Colors"
 msgstr "ଇଚ୍ଛାରୂପୀ ରଙ୍ଗରେ ମିଶାନ୍ତୁ (&A)"
 
-#: kdeui/colors/kcolordialog.cpp:1191
+#: kdeui/colors/kcolordialog.cpp:1237
 msgid "HTML:"
 msgstr "HTML:"
 
-#: kdeui/colors/kcolordialog.cpp:1281
+#: kdeui/colors/kcolordialog.cpp:1327
 msgid "Default color"
 msgstr "ପୂର୍ବ ନିର୍ଦ୍ଧାରିତ ରଙ୍ଗ"
 
-#: kdeui/colors/kcolordialog.cpp:1362
+#: kdeui/colors/kcolordialog.cpp:1408
 msgid "-default-"
 msgstr "-ପୂର୍ବ ନିର୍ଦ୍ଧାରିତ-"
 
-#: kdeui/colors/kcolordialog.cpp:1680
+#: kdeui/colors/kcolordialog.cpp:1726
 msgid "-unnamed-"
 msgstr "-ନାମକରଣ ବିହିନ-"
 
@@ -13080,6 +13105,17 @@ msgstr "ଏହା କଣ? (&T)"
 #: kdeui/actions/kstandardaction_p.h:113
 msgid "Tip of the &Day"
 msgstr "ଆଜିର ସୂଚନା (&D)"
+
+#, fuzzy
+#~| msgid "Homepage"
+#~ msgctxt "A link to the description of this Get Hot New Stuff item"
+#~ msgid "Visit homepage..."
+#~ msgstr "ମୂଳସ୍ଥାନ ପୃଷ୍ଠା"
+
+#, fuzzy
+#~| msgid "Loading Preview"
+#~ msgid "Loading preview..."
+#~ msgstr "ପ୍ରାକଦର୍ଶନ ଧାରଣ କରୁଅଛି"
 
 #~ msgid "Error: HOME environment variable not set.\n"
 #~ msgstr "ତ୍ରୁଟି: HOME ପରିବେଶ ଚଳ ସଜାହୋଇ ନାହିଁ।\n"
