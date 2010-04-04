@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-04-03 04:40+0200\n"
+"POT-Creation-Date: 2010-04-04 04:37+0200\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -191,7 +191,7 @@ msgctxt "@label:listbox"
 msgid "Preview:"
 msgstr "ପ୍ରାକଦର୍ଶନ:"
 
-#: settings/iconsizegroupbox.cpp:109 statusbar/dolphinstatusbar.cpp:345
+#: settings/iconsizegroupbox.cpp:109 statusbar/dolphinstatusbar.cpp:372
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Size: 1 pixel"
@@ -812,7 +812,6 @@ msgid "Save search options"
 msgstr ""
 
 #: search/dolphinsearchoptionsconfigurator.cpp:148
-#: statusbar/statusbarmessagelabel.cpp:50
 msgctxt "@action:button"
 msgid "Close"
 msgstr ""
@@ -968,16 +967,50 @@ msgctxt "@info:status"
 msgid "Updating version information..."
 msgstr ""
 
-#: statusbar/statusbarspaceinfo.cpp:78 statusbar/statusbarspaceinfo.cpp:91
+#: statusbar/statusbarspaceinfo.cpp:80 statusbar/statusbarspaceinfo.cpp:93
 msgctxt "@info:status"
 msgid "Unknown size"
 msgstr "ଅଜଣା ଆକାର"
 
-#: statusbar/statusbarspaceinfo.cpp:102
+#: statusbar/statusbarspaceinfo.cpp:104
 #, kde-format
 msgctxt "@info:status Free disk space"
 msgid "%1 free"
 msgstr "%1 ଖାଲିଅଛି"
+
+#: statusbar/dolphinstatusbar.cpp:269
+#, fuzzy
+#| msgctxt "@title:group"
+#| msgid "Ask For Confirmation When"
+msgctxt "@action:inmenu"
+msgid "Copy Information Message"
+msgstr "ନିଶ୍ଚିତକରଣ ପାଇଁ ପଚାରନ୍ତୁ"
+
+#: statusbar/dolphinstatusbar.cpp:272
+msgctxt "@action:inmenu"
+msgid "Copy Error Message"
+msgstr ""
+
+#: statusbar/dolphinstatusbar.cpp:279
+#, fuzzy
+#| msgctxt "@option:check"
+#| msgid "Show tooltips"
+msgctxt "@action:inmenu"
+msgid "Show Zoom Slider"
+msgstr "ଉପକରଣ ସୂଚନା ଦର୍ଶାନ୍ତୁ"
+
+#: statusbar/dolphinstatusbar.cpp:283
+#, fuzzy
+#| msgctxt "@option:check"
+#| msgid "Show space information"
+msgctxt "@action:inmenu"
+msgid "Show Space Information"
+msgstr "ସ୍ଥାନ ସୂଚନା ଦର୍ଶାନ୍ତୁ"
+
+#: statusbar/statusbarmessagelabel.cpp:53
+msgctxt "@info"
+msgid "Close"
+msgstr ""
 
 #: filterbar.cpp:41
 msgctxt "@info:tooltip"
