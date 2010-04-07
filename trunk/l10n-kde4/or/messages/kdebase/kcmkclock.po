@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmkclock\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-01-03 06:11+0100\n"
+"POT-Creation-Date: 2010-04-07 04:53+0200\n"
 "PO-Revision-Date: 2009-01-02 11:44+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -19,42 +19,42 @@ msgstr ""
 "\n"
 "\n"
 
-#: dtime.cpp:98
+#: dtime.cpp:100
 msgid ""
 "Here you can change the system time. Click into the hours, minutes or "
 "seconds field to change the relevant value, either using the up and down "
 "buttons to the right or by entering a new value."
 msgstr ""
 
-#: dtime.cpp:122
+#: dtime.cpp:124
 #, kde-format
 msgid "Current local time zone: %1 (%2)"
 msgstr ""
 
-#: dtime.cpp:188
+#: dtime.cpp:191
 msgid ""
 "Public Time Server (pool.ntp.org),asia.pool.ntp.org,europe.pool.ntp.org,"
 "north-america.pool.ntp.org,oceania.pool.ntp.org"
 msgstr ""
 
-#: dtime.cpp:267
+#: dtime.cpp:270
 #, kde-format
 msgid "Unable to contact time server: %1."
 msgstr ""
 
-#: dtime.cpp:271
+#: dtime.cpp:274
 msgid "Can not set date."
 msgstr ""
 
-#: dtime.cpp:274
+#: dtime.cpp:277
 msgid "Error setting new time zone."
 msgstr ""
 
-#: dtime.cpp:275
+#: dtime.cpp:278
 msgid "Time zone Error"
 msgstr ""
 
-#: dtime.cpp:292
+#: dtime.cpp:295
 msgid ""
 "<h1>Date & Time</h1> This system settings module can be used to set the "
 "system date and time. As these settings do not only affect you as a user, "
@@ -109,7 +109,7 @@ msgid ""
 "time should be corrected, please contact your system administrator."
 msgstr ""
 
-#: main.cpp:97
+#: main.cpp:98
 #, kde-format
 msgid "Unable to authenticate/execute the action: %1, %2"
 msgstr ""
