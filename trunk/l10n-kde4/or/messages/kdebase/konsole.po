@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-04-15 04:29+0200\n"
+"POT-Creation-Date: 2010-04-18 04:46+0200\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1843,6 +1843,16 @@ msgstr ""
 msgid ""
 "<qt>Output has been <a href=\"http://en.wikipedia.org/wiki/Flow_control"
 "\">suspended</a> by pressing Ctrl+S.  Press <b>Ctrl+Q</b> to resume.</qt>"
+msgstr ""
+
+#: ViewContainer.cpp:513
+msgctxt "@action:inmenu"
+msgid "&Rename Tab..."
+msgstr ""
+
+#: ViewContainer.cpp:517
+msgctxt "@action:inmenu"
+msgid "&Close Tab"
 msgstr ""
 
 #: ViewManager.cpp:137
