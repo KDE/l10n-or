@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-04-23 03:08+0000\n"
+"POT-Creation-Date: 2010-04-24 03:05+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1322,7 +1322,7 @@ msgctxt "Name"
 msgid "Social Desktop"
 msgstr "ଡ଼େସ୍କଟପ"
 
-#: runtime/attica/kcm/kcm_attica.desktop:26
+#: runtime/attica/kcm/kcm_attica.desktop:27
 msgctxt "Comment"
 msgid "Manage Social Desktop Providers"
 msgstr ""
@@ -1526,7 +1526,7 @@ msgctxt "Name"
 msgid "Manage Notifications"
 msgstr "ବିଜ୍ଞପ୍ତି"
 
-#: runtime/kcontrol/knotify/kcmnotify.desktop:23
+#: runtime/kcontrol/knotify/kcmnotify.desktop:24
 msgctxt "Comment"
 msgid "System Notification Configuration"
 msgstr "ତନ୍ତ୍ର ବିଜ୍ଞପ୍ତି ସଂରଚନା"
@@ -6593,7 +6593,7 @@ msgctxt "Name"
 msgid "Phonon"
 msgstr "Phonon Xine"
 
-#: runtime/phonon/kcm/kcm_phonon.desktop:23
+#: runtime/phonon/kcm/kcm_phonon.desktop:24
 msgctxt "Comment"
 msgid "Sound and Video Configuration"
 msgstr "ଧ୍ୱନି ଏବଂ ଭିଡ଼ିଓ ସଂରଚନା"
@@ -6973,7 +6973,7 @@ msgid "Display"
 msgstr "ପ୍ରଦର୍ଶକ"
 
 #: workspace/kcontrol/hardware/display/display.desktop:99
-#: workspace/systemsettings/categories/settings-display.desktop:17
+#: workspace/systemsettings/categories/settings-display.desktop:18
 msgctxt "Comment"
 msgid "Display Settings"
 msgstr "ପ୍ରଦର୍ଶକ ସଂରଚନା"
@@ -7053,7 +7053,7 @@ msgctxt "Name"
 msgid "Login Screen"
 msgstr ""
 
-#: workspace/kcontrol/kdm/kdm.desktop:27
+#: workspace/kcontrol/kdm/kdm.desktop:28
 msgctxt "Comment"
 msgid "Configure the login manager (KDM)"
 msgstr "ଲଗଇନ ପରିଚାଳକଙ୍କୁ ବିନ୍ୟାସ କରନ୍ତୁ (KDM)"
@@ -8269,7 +8269,7 @@ msgctxt "Name"
 msgid "Custom Shortcuts"
 msgstr "ୱେବ ସଂକ୍ଷିପ୍ତ ପଥଗୁଡ଼ିକ"
 
-#: workspace/khotkeys/kcm_hotkeys/khotkeys.desktop:22
+#: workspace/khotkeys/kcm_hotkeys/khotkeys.desktop:23
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure trash settings"
@@ -8671,7 +8671,7 @@ msgctxt "Name"
 msgid "Session Management"
 msgstr "ଫାଇଲ ପରିଚାଳନା"
 
-#: workspace/ksmserver/kcm/kcmsmserver.desktop:24
+#: workspace/ksmserver/kcm/kcmsmserver.desktop:25
 msgctxt "Comment"
 msgid "Configure the session manager and logout settings"
 msgstr ""
@@ -9602,7 +9602,7 @@ msgctxt "Name"
 msgid "Window Decorations"
 msgstr "ୱିଣ୍ଡୋ ସୂଚନା"
 
-#: workspace/kwin/kcmkwin/kwindecoration/kwindecoration.desktop:24
+#: workspace/kwin/kcmkwin/kwindecoration/kwindecoration.desktop:25
 msgctxt "Comment"
 msgid "Configure the look and feel of window titles"
 msgstr ""
@@ -9615,7 +9615,7 @@ msgctxt "Name"
 msgid "Virtual Desktops"
 msgstr "ଡ଼େସ୍କଟପ"
 
-#: workspace/kwin/kcmkwin/kwindesktop/desktop.desktop:24
+#: workspace/kwin/kcmkwin/kwindesktop/desktop.desktop:25
 msgctxt "Comment"
 msgid "You can configure how many virtual desktops there are."
 msgstr ""
@@ -9679,7 +9679,7 @@ msgctxt "Name"
 msgid "Window Rules"
 msgstr "MS Windows 9x"
 
-#: workspace/kwin/kcmkwin/kwinrules/kwinrules.desktop:24
+#: workspace/kwin/kcmkwin/kwinrules/kwinrules.desktop:25
 msgctxt "Comment"
 msgid "Configure settings specifically for a window"
 msgstr ""
@@ -9705,7 +9705,7 @@ msgctxt "Name"
 msgid "Task Switcher"
 msgstr ""
 
-#: workspace/kwin/kcmkwin/kwintabbox/kwintabbox.desktop:21
+#: workspace/kwin/kcmkwin/kwintabbox/kwintabbox.desktop:22
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure the behavior of Java and JavaScript"
@@ -10041,93 +10041,93 @@ msgctxt "Name"
 msgid "New Dialog"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5307
+#: workspace/kwin/kwin.notifyrc:5308
 msgctxt "Comment"
 msgid "Transient window (a dialog) appears"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5380
+#: workspace/kwin/kwin.notifyrc:5381
 msgctxt "Name"
 msgid "Delete Dialog"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5461
+#: workspace/kwin/kwin.notifyrc:5463
 msgctxt "Comment"
 msgid "Transient window (a dialog) is removed"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5535
+#: workspace/kwin/kwin.notifyrc:5537
 msgctxt "Name"
 msgid "Window Move Start"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5612
+#: workspace/kwin/kwin.notifyrc:5614
 msgctxt "Comment"
 msgid "A window has begun moving"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5688
+#: workspace/kwin/kwin.notifyrc:5690
 msgctxt "Name"
 msgid "Window Move End"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5765
+#: workspace/kwin/kwin.notifyrc:5767
 msgctxt "Comment"
 msgid "A window has completed its moving"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5841
+#: workspace/kwin/kwin.notifyrc:5843
 msgctxt "Name"
 msgid "Window Resize Start"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5918
+#: workspace/kwin/kwin.notifyrc:5920
 msgctxt "Comment"
 msgid "A window has begun resizing"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:5994
+#: workspace/kwin/kwin.notifyrc:5996
 msgctxt "Name"
 msgid "Window Resize End"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:6071
+#: workspace/kwin/kwin.notifyrc:6073
 msgctxt "Comment"
 msgid "A window has finished resizing"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:6147
+#: workspace/kwin/kwin.notifyrc:6149
 msgctxt "Name"
 msgid "Window on Current Desktop Demands Attention"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:6215
+#: workspace/kwin/kwin.notifyrc:6217
 msgctxt "Comment"
 msgid "A window on the current virtual desktop demands attention"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:6287
+#: workspace/kwin/kwin.notifyrc:6289
 msgctxt "Name"
 msgid "Window on Other Desktop Demands Attention"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:6355
+#: workspace/kwin/kwin.notifyrc:6357
 msgctxt "Comment"
 msgid "A window on an inactive virtual desktop demands attention"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:6424
+#: workspace/kwin/kwin.notifyrc:6426
 msgctxt "Name"
 msgid "Compositing Performance Is Slow"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:6485
+#: workspace/kwin/kwin.notifyrc:6487
 msgctxt "Comment"
 msgid ""
 "The compositing performance was too slow and compositing has been suspended"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:6547
+#: workspace/kwin/kwin.notifyrc:6549
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Strigi file indexing has been suspended"
@@ -10135,17 +10135,17 @@ msgctxt "Name"
 msgid "Compositing has been suspended"
 msgstr "Strigi ଫାଇଲ ଅନୁକ୍ରମଣ କ୍ରିୟାକୁ ନିଲମ୍ବିତ କରାଯାଇଛି"
 
-#: workspace/kwin/kwin.notifyrc:6604
+#: workspace/kwin/kwin.notifyrc:6606
 msgctxt "Comment"
 msgid "Another application has requested to suspend compositing."
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:6659
+#: workspace/kwin/kwin.notifyrc:6662
 msgctxt "Name"
 msgid "Effects not supported"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:6719
+#: workspace/kwin/kwin.notifyrc:6723
 msgctxt "Comment"
 msgid "Some effects are not supported by backend or hardware."
 msgstr ""
@@ -10155,7 +10155,7 @@ msgctxt "Name"
 msgid "KDE Write Daemon"
 msgstr ""
 
-#: workspace/kwrited/kwrited-autostart.desktop:88
+#: workspace/kwrited/kwrited-autostart.desktop:89
 #: workspace/kwrited/kwrited.desktop:25
 msgctxt "Comment"
 msgid "Watch for messages from local users sent with write(1) or wall(1)"
@@ -10199,42 +10199,42 @@ msgctxt "Name"
 msgid "KSysGuard"
 msgstr ""
 
-#: workspace/libs/ksysguard/processcore/actions.actions:66
+#: workspace/libs/ksysguard/processcore/actions.actions:67
 msgctxt "Name"
 msgid "Kill or stop etc a process"
 msgstr ""
 
-#: workspace/libs/ksysguard/processcore/actions.actions:117
+#: workspace/libs/ksysguard/processcore/actions.actions:118
 msgctxt "Description"
 msgid "Sends a given signal to a given process"
 msgstr ""
 
-#: workspace/libs/ksysguard/processcore/actions.actions:172
+#: workspace/libs/ksysguard/processcore/actions.actions:173
 msgctxt "Name"
 msgid "Change the priority of a process"
 msgstr ""
 
-#: workspace/libs/ksysguard/processcore/actions.actions:225
+#: workspace/libs/ksysguard/processcore/actions.actions:226
 msgctxt "Description"
 msgid "Change the niceness of a given process"
 msgstr ""
 
-#: workspace/libs/ksysguard/processcore/actions.actions:277
+#: workspace/libs/ksysguard/processcore/actions.actions:278
 msgctxt "Name"
 msgid "Change IO Scheduler and priority"
 msgstr ""
 
-#: workspace/libs/ksysguard/processcore/actions.actions:325
+#: workspace/libs/ksysguard/processcore/actions.actions:326
 msgctxt "Description"
 msgid "Change how the read and writes of a given process are prioritized"
 msgstr ""
 
-#: workspace/libs/ksysguard/processcore/actions.actions:374
+#: workspace/libs/ksysguard/processcore/actions.actions:375
 msgctxt "Name"
 msgid "Change CPU Scheduler and priority"
 msgstr ""
 
-#: workspace/libs/ksysguard/processcore/actions.actions:421
+#: workspace/libs/ksysguard/processcore/actions.actions:422
 msgctxt "Description"
 msgid ""
 "Change which CPU scheduler is to schedule the running of a given process"
@@ -10253,7 +10253,7 @@ msgctxt "Name"
 msgid "Fake Bluetooth"
 msgstr ""
 
-#: workspace/libs/solid/control/backends/fakebluetooth/solid_fakebluetooth.desktop:83
+#: workspace/libs/solid/control/backends/fakebluetooth/solid_fakebluetooth.desktop:84
 msgctxt "Comment"
 msgid "Fake Bluetooth Management"
 msgstr ""
@@ -10263,7 +10263,7 @@ msgctxt "Name"
 msgid "Fake Net"
 msgstr ""
 
-#: workspace/libs/solid/control/backends/fakenet/solid_fakenet.desktop:82
+#: workspace/libs/solid/control/backends/fakenet/solid_fakenet.desktop:83
 msgctxt "Comment"
 msgid "Fake Network Management"
 msgstr ""
@@ -10294,7 +10294,7 @@ msgctxt "Name"
 msgid "Application Launcher"
 msgstr "ପ୍ରୟୋଗ ଆରମ୍ଭକର୍ତ୍ତା"
 
-#: workspace/plasma/desktop/applets/kickoff/applet/plasma-applet-launcher.desktop:82
+#: workspace/plasma/desktop/applets/kickoff/applet/plasma-applet-launcher.desktop:83
 msgctxt "Comment"
 msgid "Launcher to start applications"
 msgstr ""
@@ -10324,7 +10324,7 @@ msgctxt "Name"
 msgid "Task Manager"
 msgstr "କାର୍ଯ୍ୟ ପରିଚାଳକ"
 
-#: workspace/plasma/desktop/applets/tasks/plasma-tasks-default.desktop:79
+#: workspace/plasma/desktop/applets/tasks/plasma-tasks-default.desktop:80
 msgctxt "Comment"
 msgid "Switch between running applications"
 msgstr "ଚାଲୁଥିବା ପ୍ରୟୋଗଗୁଡ଼ିକ ମଧ୍ଯରେ ଅଦଳ ବଦଳ କରନ୍ତୁ"
@@ -10334,7 +10334,7 @@ msgctxt "Name"
 msgid "Trashcan"
 msgstr "Trashcan"
 
-#: workspace/plasma/desktop/applets/trash/plasma-applet-trash.desktop:76
+#: workspace/plasma/desktop/applets/trash/plasma-applet-trash.desktop:77
 msgctxt "Comment"
 msgid "Access to deleted items"
 msgstr "ଅପସାରିତ ବସ୍ତୁଗୁଡ଼ିକୁ ବ୍ୟବହାର କରନ୍ତୁ"
@@ -10347,7 +10347,7 @@ msgctxt "Name"
 msgid "Window List"
 msgstr "MS Windows 9x"
 
-#: workspace/plasma/desktop/applets/windowlist/plasma-applet-windowlist.desktop:55
+#: workspace/plasma/desktop/applets/windowlist/plasma-applet-windowlist.desktop:56
 msgctxt "Comment"
 msgid "Plasmoid to show list of opened windows."
 msgstr ""
@@ -10360,7 +10360,7 @@ msgctxt "Name|plasma containment"
 msgid "Desktop"
 msgstr "ଡ଼େସ୍କଟପ"
 
-#: workspace/plasma/desktop/containments/desktop/plasma-containment-desktop.desktop:64
+#: workspace/plasma/desktop/containments/desktop/plasma-containment-desktop.desktop:65
 msgctxt "Comment"
 msgid "Default desktop containment"
 msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ ଡ଼େସ୍କଟପ ଧାରଣ"
@@ -10373,7 +10373,7 @@ msgctxt "Name"
 msgid "Empty Panel"
 msgstr "ଫଳକ"
 
-#: workspace/plasma/desktop/containments/panel/plasma-containment-panel.desktop:13
+#: workspace/plasma/desktop/containments/panel/plasma-containment-panel.desktop:15
 #: workspace/plasma/netbook/containments/netpanel/plasma-containment-midpanel.desktop:65
 #: workspace/plasma/netbook/containments/netpanel/plasma-containment-netpanel.desktop:55
 msgctxt "Comment"
@@ -10438,7 +10438,7 @@ msgctxt "Name"
 msgid "Activity Bar"
 msgstr ""
 
-#: workspace/plasma/generic/applets/activitybar/plasma-applet-activitybar.desktop:70
+#: workspace/plasma/generic/applets/activitybar/plasma-applet-activitybar.desktop:71
 msgctxt "Comment"
 msgid "Tab bar to switch activities"
 msgstr ""
@@ -10448,7 +10448,7 @@ msgctxt "Name"
 msgid "Analog Clock"
 msgstr ""
 
-#: workspace/plasma/generic/applets/analog-clock/plasma-applet-analogclock.desktop:83
+#: workspace/plasma/generic/applets/analog-clock/plasma-applet-analogclock.desktop:84
 msgctxt "Comment"
 msgid "A clock with hands"
 msgstr ""
@@ -10458,7 +10458,7 @@ msgctxt "Name"
 msgid "Battery Monitor"
 msgstr ""
 
-#: workspace/plasma/generic/applets/battery/plasma-battery-default.desktop:82
+#: workspace/plasma/generic/applets/battery/plasma-battery-default.desktop:83
 msgctxt "Comment"
 msgid "See the power status of your battery"
 msgstr ""
@@ -10469,7 +10469,7 @@ msgctxt "Name"
 msgid "Calendar"
 msgstr ""
 
-#: workspace/plasma/generic/applets/calendar/plasma-applet-calendar.desktop:73
+#: workspace/plasma/generic/applets/calendar/plasma-applet-calendar.desktop:74
 msgctxt "Comment"
 msgid "View and pick dates from the calendar"
 msgstr ""
@@ -10479,7 +10479,7 @@ msgctxt "Name"
 msgid "Device Notifier"
 msgstr ""
 
-#: workspace/plasma/generic/applets/devicenotifier/plasma-applet-devicenotifier.desktop:72
+#: workspace/plasma/generic/applets/devicenotifier/plasma-applet-devicenotifier.desktop:73
 msgctxt "Comment"
 msgid "Notifications and access for new devices"
 msgstr ""
@@ -10497,7 +10497,7 @@ msgctxt "Name"
 msgid "Digital Clock"
 msgstr "ସାଂଖିକ ଘଡ଼ି"
 
-#: workspace/plasma/generic/applets/digital-clock/plasma-applet-digitalclock.desktop:84
+#: workspace/plasma/generic/applets/digital-clock/plasma-applet-digitalclock.desktop:85
 msgctxt "Comment"
 msgid "Time displayed in a digital format"
 msgstr "ସାଂଖିକ ଶୈଳୀରେ ସମୟ ପ୍ରଦର୍ଶନ"
@@ -10507,7 +10507,7 @@ msgctxt "Name"
 msgid "Icon"
 msgstr "ଚିତ୍ର ସଂକେତ"
 
-#: workspace/plasma/generic/applets/icon/plasma-applet-icon.desktop:82
+#: workspace/plasma/generic/applets/icon/plasma-applet-icon.desktop:83
 msgctxt "Comment"
 msgid "A generic icon"
 msgstr "ଗୋଟିଏ ସାମାନ୍ୟ ଚିତ୍ର ସଂକେତ"
@@ -10655,7 +10655,7 @@ msgctxt "Comment"
 msgid "A simple web browser"
 msgstr "ଗୋଟିଏ ସରଳ ୱେବ ବ୍ରାଉଜର"
 
-#: workspace/plasma/generic/containmentactions/applauncher/plasma-containmentactions-applauncher.desktop:84
+#: workspace/plasma/generic/containmentactions/applauncher/plasma-containmentactions-applauncher.desktop:85
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Application Launcher"
@@ -10771,7 +10771,7 @@ msgctxt "Comment"
 msgid "Information and launching of all applications in the app menu."
 msgstr ""
 
-#: workspace/plasma/generic/dataengines/calendar/plasma-dataengine-calendar.desktop:73
+#: workspace/plasma/generic/dataengines/calendar/plasma-dataengine-calendar.desktop:74
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Calendar Manager"
@@ -11169,7 +11169,7 @@ msgctxt "Name"
 msgid "Command Line"
 msgstr "ନିର୍ଦ୍ଦେଶନାମା"
 
-#: workspace/plasma/generic/runners/shell/plasma-runner-shell.desktop:75
+#: workspace/plasma/generic/runners/shell/plasma-runner-shell.desktop:76
 msgctxt "Comment"
 msgid "Executes shell commands"
 msgstr "ସେଲ ନିର୍ଦ୍ଦେଶଗୁଡ଼ିକୁ ନିଷ୍ପାଦନ କରନ୍ତୁ"
@@ -11182,7 +11182,7 @@ msgctxt "Name|plasma runner"
 msgid "Devices"
 msgstr "ଉପକରଣଗୁଡ଼ିକ"
 
-#: workspace/plasma/generic/runners/solid/plasma-runner-solid.desktop:55
+#: workspace/plasma/generic/runners/solid/plasma-runner-solid.desktop:56
 msgctxt "Comment"
 msgid "Manage removable devices"
 msgstr ""
@@ -11195,7 +11195,7 @@ msgctxt "Name|plasma runner"
 msgid "Web Shortcuts"
 msgstr "ୱେବ ସଂକ୍ଷିପ୍ତ ପଥଗୁଡ଼ିକ"
 
-#: workspace/plasma/generic/runners/webshortcuts/plasma-runner-webshortcuts.desktop:63
+#: workspace/plasma/generic/runners/webshortcuts/plasma-runner-webshortcuts.desktop:64
 msgctxt "Comment"
 msgid "Allows user to use Konqueror's Web shortcuts"
 msgstr "ଚାଳକମାନଙ୍କୁ Konquerorର ୱେବ ସଂକ୍ଷିପ୍ତ ପଥଗୁଡ଼ିକୁ ବ୍ୟବହାର କରିବାକୁ ଅନୁମତି ଦିଅନ୍ତୁ"
@@ -11208,7 +11208,7 @@ msgctxt "Name|plasma runner"
 msgid "Windows"
 msgstr "MS Windows 9x"
 
-#: workspace/plasma/generic/runners/windows/plasma-runner-windows.desktop:59
+#: workspace/plasma/generic/runners/windows/plasma-runner-windows.desktop:60
 msgctxt "Comment"
 msgid "List windows and desktops and switch them"
 msgstr ""
@@ -11287,7 +11287,7 @@ msgctxt "Name"
 msgid "QEdje"
 msgstr "QEdje"
 
-#: workspace/plasma/generic/scriptengines/qedjescript/plasma-appletscript-qedje.desktop:72
+#: workspace/plasma/generic/scriptengines/qedjescript/plasma-appletscript-qedje.desktop:73
 msgctxt "Comment"
 msgid "QEdje Gadgets"
 msgstr "QEdje ମେସିନଗୁଡ଼ିକ"
@@ -11630,22 +11630,22 @@ msgctxt "Comment"
 msgid "Your battery has reached low level"
 msgstr "ଆପଣଙ୍କର ବ୍ୟାଟେରୀ ନିମ୍ନ ସ୍ତରରେ ପହଞ୍ଚିଯାଇଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:691
+#: workspace/powerdevil/powerdevil.notifyrc:692
 msgctxt "Name"
 msgid "Battery at warning level"
 msgstr "ବ୍ୟାଟେରୀ ଚେତାବନୀ ସ୍ତର ପହଞ୍ଚିଯାଇଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:761
+#: workspace/powerdevil/powerdevil.notifyrc:763
 msgctxt "Comment"
 msgid "Your battery has reached warning level"
 msgstr "ଆପଣଙ୍କର ବ୍ୟାଟେରୀ ଚେତାବନୀ ସ୍ତର ପହଞ୍ଚିଯାଇଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:837
+#: workspace/powerdevil/powerdevil.notifyrc:840
 msgctxt "Name"
 msgid "Battery at critical level"
 msgstr "ବ୍ୟାଟେରି ଗମ୍ଭୀର ସ୍ଥିତିରେ ଅଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:908
+#: workspace/powerdevil/powerdevil.notifyrc:911
 msgctxt "Comment"
 msgid ""
 "Your battery has reached critical level. This notification triggers a "
@@ -11653,74 +11653,74 @@ msgid ""
 "to leave that on."
 msgstr ""
 
-#: workspace/powerdevil/powerdevil.notifyrc:977
+#: workspace/powerdevil/powerdevil.notifyrc:981
 msgctxt "Name"
 msgid "AC adaptor plugged in"
 msgstr "AC ଏଡ଼ପଟର ପ୍ଲଗ ହୋଇଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1048
+#: workspace/powerdevil/powerdevil.notifyrc:1052
 msgctxt "Comment"
 msgid "The power adaptor has been plugged in"
 msgstr "ଶକ୍ତି ଏଡ଼ପଟରକୁ ପ୍ଲଗରେ ଲଗାହୋଇଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1125
+#: workspace/powerdevil/powerdevil.notifyrc:1129
 msgctxt "Name"
 msgid "AC adaptor unplugged"
 msgstr "AC ଏଡ଼ପଟର ପ୍ଲଗ ହୋଇନାହିଁ"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1196
+#: workspace/powerdevil/powerdevil.notifyrc:1200
 msgctxt "Comment"
 msgid "The power adaptor has been unplugged"
 msgstr "ଶକ୍ତି ଏଡ଼ପଟରଟି ପ୍ଲଗ ହୋଇନାହିଁ"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1273
+#: workspace/powerdevil/powerdevil.notifyrc:1277
 msgctxt "Name"
 msgid "Job error"
 msgstr "କାର୍ଯ୍ୟ ତ୍ରୁଟି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1344
+#: workspace/powerdevil/powerdevil.notifyrc:1348
 msgctxt "Comment"
 msgid "There was an error while performing a job"
 msgstr "କାର୍ଯ୍ୟ କରିବା ସମୟରେ ଗୋଟିଏ ତ୍ରୁଟି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1417
+#: workspace/powerdevil/powerdevil.notifyrc:1421
 msgctxt "Name"
 msgid "Profile Changed"
 msgstr "ରୂପରେଖଟି ପରିବର୍ତ୍ତିତ ହୋଇଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1488
+#: workspace/powerdevil/powerdevil.notifyrc:1492
 msgctxt "Comment"
 msgid "The profile was changed"
 msgstr "ରୂପରେଖଟି ପରିବର୍ତ୍ତିତ ହୋଇଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1563
+#: workspace/powerdevil/powerdevil.notifyrc:1567
 msgctxt "Name"
 msgid "Performing a suspension job"
 msgstr "ଗୋଟିଏ ନିଲମ୍ବିତ କାର୍ଯ୍ୟ କରୁଅଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1630
+#: workspace/powerdevil/powerdevil.notifyrc:1634
 msgctxt "Comment"
 msgid ""
 "This notification is displayed when a suspension job is about to be done, "
 "and it triggers a countdown. Hence, it is strongly advised to leave it on."
 msgstr ""
 
-#: workspace/powerdevil/powerdevil.notifyrc:1694
+#: workspace/powerdevil/powerdevil.notifyrc:1698
 msgctxt "Name"
 msgid "Internal PowerDevil Error"
 msgstr "ଆଭ୍ୟନ୍ତରୀଣ PowerDevil ତ୍ରୁଟି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1762
+#: workspace/powerdevil/powerdevil.notifyrc:1766
 msgctxt "Comment"
 msgid "PowerDevil has triggered an internal error"
 msgstr "PowerDevil ଗୋଟିଏ ଆଭ୍ୟନ୍ତରୀଣ ତ୍ରୁଟିକୁ ଆରମ୍ଭ କରିଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1833
+#: workspace/powerdevil/powerdevil.notifyrc:1837
 msgctxt "Name"
 msgid "Suspension inhibited"
 msgstr ""
 
-#: workspace/powerdevil/powerdevil.notifyrc:1897
+#: workspace/powerdevil/powerdevil.notifyrc:1901
 msgctxt "Comment"
 msgid "The suspension has been inhibited because an application requested it"
 msgstr ""
@@ -11753,7 +11753,7 @@ msgctxt "Name"
 msgid "Information Sources"
 msgstr "ସୂଚନା ସନ୍ଦେଶ"
 
-#: workspace/solid/kcm/kcm_solid.desktop:19
+#: workspace/solid/kcm/kcm_solid.desktop:21
 msgctxt "Comment"
 msgid "Hardware Integration Configuration with Solid"
 msgstr "କଠିନ ସହିତ ହାର୍ଡୱେର ସଂଯୋଗ ବିନ୍ୟାସ"
