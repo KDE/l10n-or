@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: keditbookmarks\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-04-19 04:43+0200\n"
+"POT-Creation-Date: 2010-04-25 04:52+0200\n"
 "PO-Revision-Date: 2009-01-02 11:47+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -187,81 +187,6 @@ msgstr ""
 
 #: importers.cpp:208
 msgid "*.xml|KDE Bookmark Files (*.xml)"
-msgstr ""
-
-#: bookmarkmodel.cpp:107
-msgctxt "name of the container of all browser bookmarks"
-msgid "Bookmarks"
-msgstr ""
-
-#: bookmarkmodel.cpp:206
-msgctxt "@title:column name of a bookmark"
-msgid "Name"
-msgstr ""
-
-#: bookmarkmodel.cpp:210
-msgctxt "@title:column name of a bookmark"
-msgid "Location"
-msgstr ""
-
-#: bookmarkmodel.cpp:214
-msgctxt "@title:column comment for a bookmark"
-msgid "Comment"
-msgstr ""
-
-#: bookmarkmodel.cpp:218
-msgctxt "@title:column status of a bookmark"
-msgid "Status"
-msgstr ""
-
-#: commands.cpp:68
-msgid "Insert Separator"
-msgstr ""
-
-#: commands.cpp:77
-msgid "Create Bookmark"
-msgstr ""
-
-#: commands.cpp:86
-msgid "Create Folder"
-msgstr ""
-
-#: commands.cpp:95
-#, kde-format
-msgid "Copy %1"
-msgstr ""
-
-#: commands.cpp:183
-msgid "Icon Change"
-msgstr ""
-
-#: commands.cpp:185
-msgid "Title Change"
-msgstr ""
-
-#: commands.cpp:187
-msgid "URL Change"
-msgstr ""
-
-#: commands.cpp:189
-msgid "Comment Change"
-msgstr ""
-
-#: commands.cpp:359
-#, kde-format
-msgid "Move %1"
-msgstr ""
-
-#: commands.cpp:476
-msgid "Set as Bookmark Toolbar"
-msgstr ""
-
-#: commands.cpp:512
-msgid "Copy Items"
-msgstr ""
-
-#: commands.cpp:513
-msgid "Move Items"
 msgstr ""
 
 #: updater.cpp:87
@@ -511,6 +436,81 @@ msgstr ""
 
 #: bookmarkinfowidget.cpp:275
 msgid "Times visited:"
+msgstr ""
+
+#: kbookmarkmodel/model.cpp:112
+msgctxt "name of the container of all browser bookmarks"
+msgid "Bookmarks"
+msgstr ""
+
+#: kbookmarkmodel/model.cpp:216
+msgctxt "@title:column name of a bookmark"
+msgid "Name"
+msgstr ""
+
+#: kbookmarkmodel/model.cpp:220
+msgctxt "@title:column name of a bookmark"
+msgid "Location"
+msgstr ""
+
+#: kbookmarkmodel/model.cpp:224
+msgctxt "@title:column comment for a bookmark"
+msgid "Comment"
+msgstr ""
+
+#: kbookmarkmodel/model.cpp:228
+msgctxt "@title:column status of a bookmark"
+msgid "Status"
+msgstr ""
+
+#: kbookmarkmodel/commands.cpp:68
+msgid "Insert Separator"
+msgstr ""
+
+#: kbookmarkmodel/commands.cpp:77
+msgid "Create Bookmark"
+msgstr ""
+
+#: kbookmarkmodel/commands.cpp:86
+msgid "Create Folder"
+msgstr ""
+
+#: kbookmarkmodel/commands.cpp:95
+#, kde-format
+msgid "Copy %1"
+msgstr ""
+
+#: kbookmarkmodel/commands.cpp:183
+msgid "Icon Change"
+msgstr ""
+
+#: kbookmarkmodel/commands.cpp:185
+msgid "Title Change"
+msgstr ""
+
+#: kbookmarkmodel/commands.cpp:187
+msgid "URL Change"
+msgstr ""
+
+#: kbookmarkmodel/commands.cpp:189
+msgid "Comment Change"
+msgstr ""
+
+#: kbookmarkmodel/commands.cpp:359
+#, kde-format
+msgid "Move %1"
+msgstr ""
+
+#: kbookmarkmodel/commands.cpp:476
+msgid "Set as Bookmark Toolbar"
+msgstr ""
+
+#: kbookmarkmodel/commands.cpp:512
+msgid "Copy Items"
+msgstr ""
+
+#: kbookmarkmodel/commands.cpp:513
+msgid "Move Items"
 msgstr ""
 
 #. i18n: file: keditbookmarks-genui.rc:6
