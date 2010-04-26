@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-04-24 04:51+0200\n"
+"POT-Creation-Date: 2010-04-26 04:36+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -6183,7 +6183,7 @@ msgid "Submit"
 msgstr "ଦାଖଲ କରନ୍ତୁ"
 
 #: khtml/khtmlview.cpp:2968 khtml/khtmlview.cpp:3001
-#: khtml/html/html_formimpl.cpp:1810 kdeui/dialogs/kedittoolbar.cpp:533
+#: khtml/html/html_formimpl.cpp:1810 kdeui/dialogs/kedittoolbar.cpp:601
 msgid "Reset"
 msgstr "ପୁନଃସ୍ଥାପନ କରନ୍ତୁ"
 
@@ -9181,104 +9181,108 @@ msgstr "ବିସ୍ତୃତ ବିବରଣୀ (&D)"
 msgid "Get help..."
 msgstr "ସହାୟତା ନିଅନ୍ତୁ..."
 
-#: kdeui/dialogs/kedittoolbar.cpp:56
+#: kdeui/dialogs/kedittoolbar.cpp:58
 msgid "--- separator ---"
 msgstr "--- ବିଭାଜକ ---"
 
-#: kdeui/dialogs/kedittoolbar.cpp:484
-msgid "Configure Toolbars"
-msgstr "ସାଧନପଟିଗୁଡିକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
-
-#: kdeui/dialogs/kedittoolbar.cpp:533
-msgid ""
-"Do you really want to reset all toolbars of this application to their "
-"default? The changes will be applied immediately."
-msgstr ""
-
-#: kdeui/dialogs/kedittoolbar.cpp:533
-msgid "Reset Toolbars"
-msgstr "ସାଧନପଟିଗୁଡିକୁ ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ"
-
-#: kdeui/dialogs/kedittoolbar.cpp:831
-msgid "&Toolbar:"
-msgstr "ସାଧନପଟି (&T):"
-
-#: kdeui/dialogs/kedittoolbar.cpp:846
-msgid "A&vailable actions:"
-msgstr "ଉପଲବ୍ଧ କାର୍ଯ୍ୟ (&v):"
-
-#: kdeui/dialogs/kedittoolbar.cpp:861 kdeui/dialogs/kedittoolbar.cpp:880
-#, fuzzy
-#| msgid "File"
-msgid "Filter"
-msgstr "ଫାଇଲ"
-
-#: kdeui/dialogs/kedittoolbar.cpp:864
-msgid "Curr&ent actions:"
-msgstr "ସାମ୍ପ୍ରତିକ କାର୍ଯ୍ୟ (&e):"
-
-#: kdeui/dialogs/kedittoolbar.cpp:883
-msgid "Change &Icon..."
-msgstr "ଚିତ୍ର ସଂକେତ ପରିବର୍ତ୍ତନ କରନ୍ତୁ (&I)..."
-
-#: kdeui/dialogs/kedittoolbar.cpp:893
-#, fuzzy
-#| msgid "Change &Icon..."
-msgid "Change Te&xt..."
-msgstr "ଚିତ୍ର ସଂକେତ ପରିବର୍ତ୍ତନ କରନ୍ତୁ (&I)..."
-
-#: kdeui/dialogs/kedittoolbar.cpp:1044
-#, kde-format
-msgctxt "@item:intable Action name in toolbar editor"
-msgid "%1"
-msgstr "%1"
-
-#: kdeui/dialogs/kedittoolbar.cpp:1065
-msgid ""
-"This element will be replaced with all the elements of an embedded component."
-msgstr ""
-
-#: kdeui/dialogs/kedittoolbar.cpp:1067
-msgid "<Merge>"
-msgstr "<ମିଶ୍ରଣ>"
-
-#: kdeui/dialogs/kedittoolbar.cpp:1069
-#, kde-format
-msgid "<Merge %1>"
-msgstr "<ମିଶ୍ରଣ %1>"
-
-#: kdeui/dialogs/kedittoolbar.cpp:1075
-msgid ""
-"This is a dynamic list of actions. You can move it, but if you remove it you "
-"will not be able to re-add it."
-msgstr ""
-
-#: kdeui/dialogs/kedittoolbar.cpp:1076
-#, kde-format
-msgid "ActionList: %1"
-msgstr "କାର୍ଯ୍ୟ ତାଲିକା: %1"
-
-#: kdeui/dialogs/kedittoolbar.cpp:1176 kdeui/dialogs/kedittoolbar.cpp:1206
-#, kde-format
-msgctxt "@label Action tooltip in toolbar editor, below the action list"
-msgid "%1"
-msgstr "%1"
-
-#: kdeui/dialogs/kedittoolbar.cpp:1461
-msgid "Change Icon"
-msgstr "ଚିତ୍ର ସଂକେତ ପରିବର୍ତ୍ତନ କରନ୍ତୁ"
-
-#: kdeui/dialogs/kedittoolbar.cpp:1493
+#: kdeui/dialogs/kedittoolbar.cpp:287
 #, fuzzy
 #| msgid "Change Icon"
 msgid "Change Text"
 msgstr "ଚିତ୍ର ସଂକେତ ପରିବର୍ତ୍ତନ କରନ୍ତୁ"
 
-#: kdeui/dialogs/kedittoolbar.cpp:1493
+#: kdeui/dialogs/kedittoolbar.cpp:299
 #, fuzzy
 #| msgid "Link Text:"
-msgid "Icon Te&xt:"
+msgid "Icon te&xt:"
 msgstr "ସଂଯୋଗ ପାଠ୍ୟ:"
+
+#: kdeui/dialogs/kedittoolbar.cpp:304
+msgid "&Hide text when toolbar shows text alongside icons"
+msgstr ""
+
+#: kdeui/dialogs/kedittoolbar.cpp:552
+msgid "Configure Toolbars"
+msgstr "ସାଧନପଟିଗୁଡିକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
+
+#: kdeui/dialogs/kedittoolbar.cpp:601
+msgid ""
+"Do you really want to reset all toolbars of this application to their "
+"default? The changes will be applied immediately."
+msgstr ""
+
+#: kdeui/dialogs/kedittoolbar.cpp:601
+msgid "Reset Toolbars"
+msgstr "ସାଧନପଟିଗୁଡିକୁ ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ"
+
+#: kdeui/dialogs/kedittoolbar.cpp:899
+msgid "&Toolbar:"
+msgstr "ସାଧନପଟି (&T):"
+
+#: kdeui/dialogs/kedittoolbar.cpp:914
+msgid "A&vailable actions:"
+msgstr "ଉପଲବ୍ଧ କାର୍ଯ୍ୟ (&v):"
+
+#: kdeui/dialogs/kedittoolbar.cpp:929 kdeui/dialogs/kedittoolbar.cpp:948
+#, fuzzy
+#| msgid "File"
+msgid "Filter"
+msgstr "ଫାଇଲ"
+
+#: kdeui/dialogs/kedittoolbar.cpp:932
+msgid "Curr&ent actions:"
+msgstr "ସାମ୍ପ୍ରତିକ କାର୍ଯ୍ୟ (&e):"
+
+#: kdeui/dialogs/kedittoolbar.cpp:951
+msgid "Change &Icon..."
+msgstr "ଚିତ୍ର ସଂକେତ ପରିବର୍ତ୍ତନ କରନ୍ତୁ (&I)..."
+
+#: kdeui/dialogs/kedittoolbar.cpp:961
+#, fuzzy
+#| msgid "Change &Icon..."
+msgid "Change Te&xt..."
+msgstr "ଚିତ୍ର ସଂକେତ ପରିବର୍ତ୍ତନ କରନ୍ତୁ (&I)..."
+
+#: kdeui/dialogs/kedittoolbar.cpp:1112
+#, kde-format
+msgctxt "@item:intable Action name in toolbar editor"
+msgid "%1"
+msgstr "%1"
+
+#: kdeui/dialogs/kedittoolbar.cpp:1133
+msgid ""
+"This element will be replaced with all the elements of an embedded component."
+msgstr ""
+
+#: kdeui/dialogs/kedittoolbar.cpp:1135
+msgid "<Merge>"
+msgstr "<ମିଶ୍ରଣ>"
+
+#: kdeui/dialogs/kedittoolbar.cpp:1137
+#, kde-format
+msgid "<Merge %1>"
+msgstr "<ମିଶ୍ରଣ %1>"
+
+#: kdeui/dialogs/kedittoolbar.cpp:1143
+msgid ""
+"This is a dynamic list of actions. You can move it, but if you remove it you "
+"will not be able to re-add it."
+msgstr ""
+
+#: kdeui/dialogs/kedittoolbar.cpp:1144
+#, kde-format
+msgid "ActionList: %1"
+msgstr "କାର୍ଯ୍ୟ ତାଲିକା: %1"
+
+#: kdeui/dialogs/kedittoolbar.cpp:1245 kdeui/dialogs/kedittoolbar.cpp:1275
+#, kde-format
+msgctxt "@label Action tooltip in toolbar editor, below the action list"
+msgid "%1"
+msgstr "%1"
+
+#: kdeui/dialogs/kedittoolbar.cpp:1530
+msgid "Change Icon"
+msgstr "ଚିତ୍ର ସଂକେତ ପରିବର୍ତ୍ତନ କରନ୍ତୁ"
 
 #: kdeui/dialogs/kshortcuteditwidget.cpp:59
 msgid "Default:"
@@ -12199,24 +12203,24 @@ msgid "Minimize"
 msgstr "କ୍ଷୁଦ୍ରତମ କରନ୍ତୁ"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:215
-#: kdeui/notifications/kstatusnotifieritem.cpp:355
-#: kdeui/notifications/kstatusnotifieritem.cpp:781
+#: kdeui/notifications/kstatusnotifieritem.cpp:389
+#: kdeui/notifications/kstatusnotifieritem.cpp:815
 msgid "&Minimize"
 msgstr "କ୍ଷୁଦ୍ରତମ କରନ୍ତୁ (&M)"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:219
-#: kdeui/notifications/kstatusnotifieritem.cpp:779
+#: kdeui/notifications/kstatusnotifieritem.cpp:813
 msgid "&Restore"
 msgstr "ପୁନଃସ୍ଥାପନ କରନ୍ତୁ (&R)"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:239
-#: kdeui/notifications/kstatusnotifieritem.cpp:789
+#: kdeui/notifications/kstatusnotifieritem.cpp:823
 #, kde-format
 msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
 msgstr "<qt>ଆପଣ ନିଶ୍ଚିତକି ଆପଣ ବିଦାୟ ନେବାକୁ ଚାହୁଁଛନ୍ତି <b>%1</b>?</qt>"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:242
-#: kdeui/notifications/kstatusnotifieritem.cpp:792
+#: kdeui/notifications/kstatusnotifieritem.cpp:826
 msgid "Confirm Quit From System Tray"
 msgstr "ତନ୍ତ୍ର ଧାରକରୁ ବିଦାୟନେବାକୁ ନିଶ୍ଚିତ କରନ୍ତୁ"
 

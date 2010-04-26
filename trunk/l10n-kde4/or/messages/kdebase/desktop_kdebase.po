@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-04-25 03:12+0000\n"
+"POT-Creation-Date: 2010-04-26 02:55+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -8282,7 +8282,7 @@ msgctxt "Name"
 msgid "KInfoCenter"
 msgstr "KInfoCenter"
 
-#: workspace/kinfocenter/kinfocenter.desktop:19
+#: workspace/kinfocenter/kinfocenter.desktop:96
 msgctxt "GenericName"
 msgid "Info Center"
 msgstr "ସୂଚନା କେନ୍ଦ୍ର"
@@ -8295,7 +8295,7 @@ msgctxt "Name"
 msgid "Device Viewer"
 msgstr "ଛବି ପ୍ରଦର୍ଶକ"
 
-#: workspace/kinfocenter/Modules/devinfo/devinfo.desktop:23
+#: workspace/kinfocenter/Modules/devinfo/devinfo.desktop:19
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Picture Viewer"
@@ -8308,7 +8308,7 @@ msgctxt "Name"
 msgid "DMA-Channels"
 msgstr "DMA-ଚ୍ୟାନେଲଗୁଡ଼ିକ"
 
-#: workspace/kinfocenter/Modules/info/dma.desktop:25
+#: workspace/kinfocenter/Modules/info/dma.desktop:104
 msgctxt "Comment"
 msgid "DMA information"
 msgstr "DMA ସୂଚନା"
@@ -8318,7 +8318,7 @@ msgctxt "Name"
 msgid "Interrupts"
 msgstr "ବ୍ୟାହାତ"
 
-#: workspace/kinfocenter/Modules/info/interrupts.desktop:25
+#: workspace/kinfocenter/Modules/info/interrupts.desktop:104
 msgctxt "Comment"
 msgid "Interrupt information"
 msgstr "ବ୍ୟାହାତ ସୂଚନା"
@@ -8328,7 +8328,7 @@ msgctxt "Name"
 msgid "IO-Ports"
 msgstr "IO-ସଂଯୋଗିକୀ"
 
-#: workspace/kinfocenter/Modules/info/ioports.desktop:25
+#: workspace/kinfocenter/Modules/info/ioports.desktop:104
 msgctxt "Comment"
 msgid "IO-port information"
 msgstr "IO-ସଂଯୋଗିକୀ ସୂଚନା"
@@ -8338,7 +8338,7 @@ msgctxt "Name"
 msgid "Processor"
 msgstr "ସଞ୍ଚାଳକ"
 
-#: workspace/kinfocenter/Modules/info/processor.desktop:26
+#: workspace/kinfocenter/Modules/info/processor.desktop:103
 msgctxt "Comment"
 msgid "Processor information"
 msgstr "ସଂଚାଳକ ସୂଚନା"
@@ -8348,7 +8348,7 @@ msgctxt "Name"
 msgid "SCSI"
 msgstr "SCSI"
 
-#: workspace/kinfocenter/Modules/info/scsi.desktop:24
+#: workspace/kinfocenter/Modules/info/scsi.desktop:104
 msgctxt "Comment"
 msgid "SCSI information"
 msgstr "SCSI ସୂଚନା"
@@ -8358,7 +8358,7 @@ msgctxt "Name"
 msgid "Summary"
 msgstr ""
 
-#: workspace/kinfocenter/Modules/infosummary/kcm_infosummary.desktop:22
+#: workspace/kinfocenter/Modules/infosummary/kcm_infosummary.desktop:17
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Hardware"
@@ -8371,7 +8371,7 @@ msgctxt "Name"
 msgid "X-Server"
 msgstr "X-ସର୍ଭର"
 
-#: workspace/kinfocenter/Modules/info/xserver.desktop:24
+#: workspace/kinfocenter/Modules/info/xserver.desktop:103
 msgctxt "Comment"
 msgid "X-Server information"
 msgstr "X-ସର୍ଭର ସୂଚନା"
@@ -8381,7 +8381,7 @@ msgctxt "Name"
 msgid "Memory"
 msgstr "ସ୍ମୃତିସ୍ଥାନ"
 
-#: workspace/kinfocenter/Modules/memory/kcm_memory.desktop:23
+#: workspace/kinfocenter/Modules/memory/kcm_memory.desktop:103
 msgctxt "Comment"
 msgid "Memory information"
 msgstr "ସ୍ମୃତିସ୍ଥାନ ସୂଚନା"
@@ -8391,7 +8391,7 @@ msgctxt "Name"
 msgid "Network Interfaces"
 msgstr "ନେଟୱର୍କ ଅନ୍ତରାପୃଷ୍ଠ"
 
-#: workspace/kinfocenter/Modules/nics/nic.desktop:23
+#: workspace/kinfocenter/Modules/nics/nic.desktop:85
 #: workspace/plasma/generic/dataengines/network/plasma-dataengine-network.desktop:74
 msgctxt "Comment"
 msgid "Network interface information"
@@ -8402,7 +8402,7 @@ msgctxt "Name"
 msgid "OpenGL"
 msgstr "OpenGL"
 
-#: workspace/kinfocenter/Modules/opengl/opengl.desktop:23
+#: workspace/kinfocenter/Modules/opengl/opengl.desktop:101
 msgctxt "Comment"
 msgid "OpenGL information"
 msgstr "OpenGL ସୂଚନା"
@@ -8412,7 +8412,7 @@ msgctxt "Name"
 msgid "PCI"
 msgstr "PCI"
 
-#: workspace/kinfocenter/Modules/pci/kcm_pci.desktop:23
+#: workspace/kinfocenter/Modules/pci/kcm_pci.desktop:102
 msgctxt "Comment"
 msgid "PCI information"
 msgstr "PCI ସୂଚନା"
@@ -8422,7 +8422,7 @@ msgctxt "Name"
 msgid "Samba Status"
 msgstr "ସାମ୍ବା ସ୍ଥିତି"
 
-#: workspace/kinfocenter/Modules/samba/smbstatus.desktop:23
+#: workspace/kinfocenter/Modules/samba/smbstatus.desktop:102
 msgctxt "Comment"
 msgid "Samba status monitor"
 msgstr "ସାମ୍ବା ସ୍ଥିତି ପ୍ରଦର୍ଶିକା"
@@ -8432,7 +8432,7 @@ msgctxt "Name"
 msgid "USB Devices"
 msgstr "USB ଉପକରଣ"
 
-#: workspace/kinfocenter/Modules/usbview/kcmusb.desktop:23
+#: workspace/kinfocenter/Modules/usbview/kcmusb.desktop:102
 msgctxt "Comment"
 msgid "USB devices attached to this computer"
 msgstr "USB ଉପକରଣଗୁଡ଼ିକ ଏହି କମ୍ପୁଟର ସହିତ ସଂଲଗ୍ନ"
@@ -8442,7 +8442,7 @@ msgctxt "Name"
 msgid "IEEE 1394 Devices"
 msgstr "IEEE 1394 ଉପକରଣଗୁଡ଼ିକ"
 
-#: workspace/kinfocenter/Modules/view1394/kcmview1394.desktop:23
+#: workspace/kinfocenter/Modules/view1394/kcmview1394.desktop:101
 msgctxt "Comment"
 msgid "Attached IEEE 1394 devices"
 msgstr "ସଂଲଗ୍ନ IEEE 1394 ଉପକରଣଗୁଡ଼ିକ"
@@ -10164,6 +10164,42 @@ msgstr ""
 #: workspace/kwin/kwin.notifyrc:6723
 msgctxt "Comment"
 msgid "Some effects are not supported by backend or hardware."
+msgstr ""
+
+#: workspace/kwin/kwin.notifyrc:6780
+msgctxt "Name"
+msgid "Tiling Enabled"
+msgstr ""
+
+#: workspace/kwin/kwin.notifyrc:6781
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "A modifier key has been locked"
+msgctxt "Comment"
+msgid "Tiling mode has been enabled"
+msgstr "ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି ଅପରିବର୍ତ୍ତିତ ହୋଇଯାଇଛି"
+
+#: workspace/kwin/kwin.notifyrc:6785
+msgctxt "Name"
+msgid "Tiling Disabled"
+msgstr ""
+
+#: workspace/kwin/kwin.notifyrc:6786
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Slow keys has been enabled or disabled"
+msgctxt "Comment"
+msgid "Tiling mode has been disabled"
+msgstr "Slow କିଗୁଡ଼ିକୁ ସକ୍ରିୟ ଅଥବା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
+
+#: workspace/kwin/kwin.notifyrc:6790
+msgctxt "Name"
+msgid "Tiling Layout Changed"
+msgstr ""
+
+#: workspace/kwin/kwin.notifyrc:6791
+msgctxt "Comment"
+msgid "Tiling Layout has been changed"
 msgstr ""
 
 #: workspace/kwrited/kwrited-autostart.desktop:2

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-03-29 04:26+0200\n"
+"POT-Creation-Date: 2010-04-26 04:38+0200\n"
 "PO-Revision-Date: 2009-01-02 11:49+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "\n"
 "\n"
 
-#: activation.cpp:747
+#: activation.cpp:750
 #, kde-format
 msgid "Window '%1' demands attention."
 msgstr ""
@@ -580,6 +580,78 @@ msgstr ""
 msgid "Suspend Compositing"
 msgstr ""
 
+#: kwinbindings.cpp:223
+msgid "Tiling"
+msgstr ""
+
+#: kwinbindings.cpp:224
+msgid "Toggle Tiling"
+msgstr ""
+
+#: kwinbindings.cpp:225
+msgid "Toggle Orientation"
+msgstr ""
+
+#: kwinbindings.cpp:226
+msgid "Increase Ratio"
+msgstr ""
+
+#: kwinbindings.cpp:227
+msgid "Decrease Ratio"
+msgstr ""
+
+#: kwinbindings.cpp:228
+msgid "Toggle Floating"
+msgstr ""
+
+#: kwinbindings.cpp:230
+msgid "Switch Focus Left"
+msgstr ""
+
+#: kwinbindings.cpp:231
+msgid "Switch Focus Right"
+msgstr ""
+
+#: kwinbindings.cpp:232
+msgid "Switch Focus Up"
+msgstr ""
+
+#: kwinbindings.cpp:233
+msgid "Switch Focus Down"
+msgstr ""
+
+#: kwinbindings.cpp:234
+msgid "Move Left"
+msgstr ""
+
+#: kwinbindings.cpp:235
+msgid "Move Right"
+msgstr ""
+
+#: kwinbindings.cpp:236
+msgid "Move Up"
+msgstr ""
+
+#: kwinbindings.cpp:237
+msgid "Move Down"
+msgstr ""
+
+#: kwinbindings.cpp:238
+msgid "Next Layout"
+msgstr ""
+
+#: kwinbindings.cpp:239
+msgid "Previous Layout"
+msgstr ""
+
+#: kwinbindings.cpp:241
+msgid "Test Dump tiles"
+msgstr ""
+
+#: kwinbindings.cpp:242
+msgid "Test Below Cursor"
+msgstr ""
+
 #: main.cpp:178
 msgid ""
 "kwin: it looks like there's already a window manager running. kwin not "
@@ -666,6 +738,19 @@ msgstr ""
 #: tabbox.cpp:212
 msgctxt "Special entry in alt+tab list for minimizing all windows"
 msgid "Show Desktop"
+msgstr ""
+
+#: tiling.cpp:72
+msgid "Tiling Disabled"
+msgstr ""
+
+#: tiling.cpp:78
+msgid "Tiling Enabled"
+msgstr ""
+
+#: tilinglayoutfactory.cpp:43
+#, kde-format
+msgid "Layout changed to %1"
 msgstr ""
 
 #: useractions.cpp:73
@@ -769,12 +854,12 @@ msgstr ""
 msgid "Activate Window (%1)"
 msgstr ""
 
-#: workspace.cpp:1190 workspace.cpp:1210
+#: workspace.cpp:1210 workspace.cpp:1230
 #, kde-format
 msgid "Desktop %1"
 msgstr ""
 
-#: workspace.cpp:2603
+#: workspace.cpp:2636
 #, kde-format
 msgid ""
 "You have selected to show a window without its border.\n"
@@ -783,7 +868,7 @@ msgid ""
 "keyboard shortcut."
 msgstr ""
 
-#: workspace.cpp:2617
+#: workspace.cpp:2650
 #, kde-format
 msgid ""
 "You have selected to show a window in fullscreen mode.\n"
