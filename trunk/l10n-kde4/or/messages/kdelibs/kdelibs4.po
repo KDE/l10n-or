@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-04-29 04:51+0200\n"
+"POT-Creation-Date: 2010-04-30 04:43+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -7521,11 +7521,11 @@ msgstr "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ (&U): %1"
 msgid "&Redo: %1"
 msgstr "ପୁଣି କରନ୍ତୁ (&R): %1"
 
-#: kde3support/kdeui/k3spell.cpp:1231
+#: kde3support/kdeui/k3spell.cpp:1290
 msgid "You have to restart the dialog for changes to take effect"
 msgstr "ଆପଣଙ୍କୁ ପରିବର୍ତ୍ତନ ଘଟାଇବାକୁ ହେଲେ ଏହି ସଂଳାପକୁ ପୁନଃଆରମ୍ଭ କରିବାକୁ ପଡିବ"
 
-#: kde3support/kdeui/k3spell.cpp:1467
+#: kde3support/kdeui/k3spell.cpp:1526
 msgid "Spell Checker"
 msgstr "ବନାନ ଯାଞ୍ଚକାରି"
 
@@ -7605,199 +7605,216 @@ msgstr[1] "ପ୍ରବେଶ ସଂକେତଟି ଅତିକମରେ %1 ଅ
 msgid "Passwords match"
 msgstr "ପ୍ରବେଶ ସଂକେତ ମେଳକ"
 
-#: kde3support/kdeui/k3sconfig.cpp:109
+#: kde3support/kdeui/k3sconfig.cpp:110
 msgctxt "@option:check"
 msgid "Do Spellchecking"
 msgstr "ବନାନଯାଞ୍ଚ କରନ୍ତୁ"
 
-#: kde3support/kdeui/k3sconfig.cpp:113
+#: kde3support/kdeui/k3sconfig.cpp:114
 msgctxt "@option:check"
 msgid "Create &root/affix combinations not in dictionary"
 msgstr "ଅବିଧାନରେ ନଥିବା root/affix ସଂଯୋଜନକୁ ସୃଷ୍ଟିକରନ୍ତୁ (&r)"
 
-#: kde3support/kdeui/k3sconfig.cpp:120
+#: kde3support/kdeui/k3sconfig.cpp:121
 msgctxt "@option:check"
 msgid "Consider run-together &words as spelling errors"
 msgstr "ଏକସଙ୍ଗେ ଚାଲୁଥିବା ଶବ୍ଦଗୁଡିକୁ ବନାନ ତ୍ରୁଟି ବୋଲି ଧରିନିଅନ୍ତୁ (&w)"
 
-#: kde3support/kdeui/k3sconfig.cpp:132
+#: kde3support/kdeui/k3sconfig.cpp:133
 msgctxt "@label:listbox"
 msgid "&Dictionary:"
 msgstr "ଅଭିଧାନ (&D):"
 
-#: kde3support/kdeui/k3sconfig.cpp:159
+#: kde3support/kdeui/k3sconfig.cpp:160
 msgctxt "@label:listbox"
 msgid "&Encoding:"
 msgstr "ସାଙ୍କେତିକରଣ (&E):"
 
-#: kde3support/kdeui/k3sconfig.cpp:166
+#: kde3support/kdeui/k3sconfig.cpp:167
 msgctxt "@item:inlistbox Spell checker"
 msgid "International <application>Ispell</application>"
 msgstr "ଅନ୍ତର୍ରାଷ୍ଟ୍ରିୟ <application>Ispell</application>"
 
-#: kde3support/kdeui/k3sconfig.cpp:167
+#: kde3support/kdeui/k3sconfig.cpp:168
 msgctxt "@item:inlistbox Spell checker"
 msgid "<application>Aspell</application>"
 msgstr "<application>Aspell</application>"
 
-#: kde3support/kdeui/k3sconfig.cpp:168
+#: kde3support/kdeui/k3sconfig.cpp:169
 msgctxt "@item:inlistbox Spell checker"
 msgid "<application>Hspell</application>"
 msgstr "<application>Hspell</application>"
 
-#: kde3support/kdeui/k3sconfig.cpp:169
+#: kde3support/kdeui/k3sconfig.cpp:170
 msgctxt "@item:inlistbox Spell checker"
 msgid "<application>Zemberek</application>"
 msgstr "<application>Zemberek</application>"
 
-#: kde3support/kdeui/k3sconfig.cpp:174
+#: kde3support/kdeui/k3sconfig.cpp:171
+#, fuzzy
+#| msgctxt "@item:inlistbox Spell checker"
+#| msgid "<application>Hspell</application>"
+msgctxt "@item:inlistbox Spell checker"
+msgid "<application>Hunspell</application>"
+msgstr "<application>Hspell</application>"
+
+#: kde3support/kdeui/k3sconfig.cpp:176
 msgctxt "@label:listbox"
 msgid "&Client:"
 msgstr "ଗ୍ରାହକ (&C):"
 
-#: kde3support/kdeui/k3sconfig.cpp:256 kde3support/kdeui/k3sconfig.cpp:416
-#: kde3support/kdeui/k3sconfig.cpp:680
+#: kde3support/kdeui/k3sconfig.cpp:258 kde3support/kdeui/k3sconfig.cpp:420
+#: kde3support/kdeui/k3sconfig.cpp:743
 msgctxt "@item Spelling dictionary"
 msgid "Hebrew"
 msgstr "ହବ୍ର୍ୟୁ"
 
-#: kde3support/kdeui/k3sconfig.cpp:261 kde3support/kdeui/k3sconfig.cpp:421
-#: kde3support/kdeui/k3sconfig.cpp:685
+#: kde3support/kdeui/k3sconfig.cpp:263 kde3support/kdeui/k3sconfig.cpp:425
+#: kde3support/kdeui/k3sconfig.cpp:748
 msgctxt "@item Spelling dictionary"
 msgid "Turkish"
 msgstr "ତୁର୍କିଶ"
 
-#: kde3support/kdeui/k3sconfig.cpp:314
+#: kde3support/kdeui/k3sconfig.cpp:318
 msgctxt "@item Spelling dictionary"
 msgid "English"
 msgstr "ଇଂରାଜୀ"
 
-#: kde3support/kdeui/k3sconfig.cpp:317
+#: kde3support/kdeui/k3sconfig.cpp:321
 msgctxt "@item Spelling dictionary"
 msgid "Spanish"
 msgstr "ସ୍ପାନିଶ"
 
-#: kde3support/kdeui/k3sconfig.cpp:320
+#: kde3support/kdeui/k3sconfig.cpp:324
 msgctxt "@item Spelling dictionary"
 msgid "Danish"
 msgstr "ଡାନିଶ"
 
-#: kde3support/kdeui/k3sconfig.cpp:323
+#: kde3support/kdeui/k3sconfig.cpp:327
 msgctxt "@item Spelling dictionary"
 msgid "German"
 msgstr "ଜର୍ମାନ"
 
-#: kde3support/kdeui/k3sconfig.cpp:326
+#: kde3support/kdeui/k3sconfig.cpp:330
 msgctxt "@item Spelling dictionary"
 msgid "German (new spelling)"
 msgstr "ଜର୍ମାନ (ନୁତନ ବନାନ)"
 
-#: kde3support/kdeui/k3sconfig.cpp:329
+#: kde3support/kdeui/k3sconfig.cpp:333
 msgctxt "@item Spelling dictionary"
 msgid "Brazilian Portuguese"
 msgstr "ବ୍ରଜିଲିଆନ ପର୍ତୁଗୀଜ"
 
-#: kde3support/kdeui/k3sconfig.cpp:332
+#: kde3support/kdeui/k3sconfig.cpp:336
 msgctxt "@item Spelling dictionary"
 msgid "Portuguese"
 msgstr "ପର୍ତୁଗୀଜ"
 
-#: kde3support/kdeui/k3sconfig.cpp:335
+#: kde3support/kdeui/k3sconfig.cpp:339
 msgctxt "@item Spelling dictionary"
 msgid "Esperanto"
 msgstr "ଏସପେରେଣ୍ଟୋ"
 
-#: kde3support/kdeui/k3sconfig.cpp:338
+#: kde3support/kdeui/k3sconfig.cpp:342
 msgctxt "@item Spelling dictionary"
 msgid "Norwegian"
 msgstr "ନୋରୱେଜିୟାନ"
 
-#: kde3support/kdeui/k3sconfig.cpp:341
+#: kde3support/kdeui/k3sconfig.cpp:345
 msgctxt "@item Spelling dictionary"
 msgid "Polish"
 msgstr "ପୋଲିଶ"
 
-#: kde3support/kdeui/k3sconfig.cpp:344
+#: kde3support/kdeui/k3sconfig.cpp:348
 msgctxt "@item Spelling dictionary"
 msgid "Russian"
 msgstr "ରୁଷି"
 
-#: kde3support/kdeui/k3sconfig.cpp:347
+#: kde3support/kdeui/k3sconfig.cpp:351
 msgctxt "@item Spelling dictionary"
 msgid "Slovenian"
 msgstr "ସ୍ଲୋଭେନିୟାନ"
 
-#: kde3support/kdeui/k3sconfig.cpp:350
+#: kde3support/kdeui/k3sconfig.cpp:354
 msgctxt "@item Spelling dictionary"
 msgid "Slovak"
 msgstr "ସ୍ଲୋଭାକ"
 
-#: kde3support/kdeui/k3sconfig.cpp:353
+#: kde3support/kdeui/k3sconfig.cpp:357
 msgctxt "@item Spelling dictionary"
 msgid "Czech"
 msgstr "ଚେକ"
 
-#: kde3support/kdeui/k3sconfig.cpp:356
+#: kde3support/kdeui/k3sconfig.cpp:360
 msgctxt "@item Spelling dictionary"
 msgid "Swedish"
 msgstr "ସ୍ବୀଡିଶ"
 
-#: kde3support/kdeui/k3sconfig.cpp:359
+#: kde3support/kdeui/k3sconfig.cpp:363
 msgctxt "@item Spelling dictionary"
 msgid "Swiss German"
 msgstr "ସ୍ୱୀସ ଜର୍ମାନ"
 
-#: kde3support/kdeui/k3sconfig.cpp:362
+#: kde3support/kdeui/k3sconfig.cpp:366
 msgctxt "@item Spelling dictionary"
 msgid "Ukrainian"
 msgstr "ୟୁକ୍ରେନିୟନ"
 
-#: kde3support/kdeui/k3sconfig.cpp:365
+#: kde3support/kdeui/k3sconfig.cpp:369
 msgctxt "@item Spelling dictionary"
 msgid "Lithuanian"
 msgstr "ଲିଥୁଆନିୟନ"
 
-#: kde3support/kdeui/k3sconfig.cpp:368
+#: kde3support/kdeui/k3sconfig.cpp:372
 msgctxt "@item Spelling dictionary"
 msgid "French"
 msgstr "ଫରାସୀ"
 
-#: kde3support/kdeui/k3sconfig.cpp:371
+#: kde3support/kdeui/k3sconfig.cpp:375
 msgctxt "@item Spelling dictionary"
 msgid "Belarusian"
 msgstr "ବେଲାରୁସିୟାନ"
 
-#: kde3support/kdeui/k3sconfig.cpp:374
+#: kde3support/kdeui/k3sconfig.cpp:378
 msgctxt "@item Spelling dictionary"
 msgid "Hungarian"
 msgstr "ହଙ୍ଗାରିୟାନ"
 
-#: kde3support/kdeui/k3sconfig.cpp:378
+#: kde3support/kdeui/k3sconfig.cpp:382
 msgctxt "@item Spelling dictionary"
 msgid "Unknown"
 msgstr "ଅଜଣା"
 
-#: kde3support/kdeui/k3sconfig.cpp:462 kde3support/kdeui/k3sconfig.cpp:618
+#: kde3support/kdeui/k3sconfig.cpp:468 kde3support/kdeui/k3sconfig.cpp:681
 msgctxt "@item Spelling dictionary"
 msgid "<application>ISpell</application> Default"
 msgstr "<application>ISpell</application> ପୂର୍ବ ନିର୍ଦ୍ଧାରିତ"
 
-#: kde3support/kdeui/k3sconfig.cpp:510 kde3support/kdeui/k3sconfig.cpp:666
+#: kde3support/kdeui/k3sconfig.cpp:516 kde3support/kdeui/k3sconfig.cpp:658
+#: kde3support/kdeui/k3sconfig.cpp:729 kde3support/kdeui/k3sconfig.cpp:872
 #, kde-format
 msgctxt "@item Spelling dictionary: %1 dictionary name, %2 file name"
 msgid "Default - %1 [%2]"
 msgstr "ପୂର୍ବ ନିର୍ଦ୍ଧାରିତ - %1 [%2]"
 
-#: kde3support/kdeui/k3sconfig.cpp:531 kde3support/kdeui/k3sconfig.cpp:693
+#: kde3support/kdeui/k3sconfig.cpp:537 kde3support/kdeui/k3sconfig.cpp:755
 msgctxt "@item Spelling dictionary"
 msgid "<application>ASpell</application> Default"
 msgstr "<application>ASpell</application> ପୂର୍ବ ନିର୍ଦ୍ଧାରିତ"
 
-#: kde3support/kdeui/k3sconfig.cpp:596 kde3support/kdeui/k3sconfig.cpp:758
+#: kde3support/kdeui/k3sconfig.cpp:602 kde3support/kdeui/k3sconfig.cpp:820
 #, kde-format
 msgctxt "@item Spelling dictionary: %1 dictionary name"
 msgid "Default - %1"
 msgstr "ପୂର୍ବ ନିର୍ଦ୍ଧାରିତ - %1"
+
+#: kde3support/kdeui/k3sconfig.cpp:621 kde3support/kdeui/k3sconfig.cpp:835
+#, fuzzy
+#| msgctxt "@item Spelling dictionary"
+#| msgid "<application>ISpell</application> Default"
+msgctxt "@item Spelling dictionary"
+msgid "<application>Hunspell</application> Default"
+msgstr "<application>ISpell</application> ପୂର୍ବ ନିର୍ଦ୍ଧାରିତ"
 
 #: kde3support/kdeui/k3aboutdialog.cpp:185
 msgid "Email"
@@ -11696,47 +11713,47 @@ msgstr "ବର୍ଷ ଚୟନ କରନ୍ତୁ"
 msgid "Select the current day"
 msgstr "ଆଜିର ତାରିଖ ଚୟନ କରନ୍ତୁ"
 
-#: kdeui/widgets/klineedit.cpp:262
+#: kdeui/widgets/klineedit.cpp:276
 msgctxt "@action:button Clear current text in the line edit"
 msgid "Clear text"
 msgstr "ପାଠ୍ୟ ସଫାକରନ୍ତୁ"
 
-#: kdeui/widgets/klineedit.cpp:1130
+#: kdeui/widgets/klineedit.cpp:1144
 msgctxt "@title:menu"
 msgid "Text Completion"
 msgstr "ପାଠ୍ୟ ସମାପ୍ତି"
 
-#: kdeui/widgets/klineedit.cpp:1137
+#: kdeui/widgets/klineedit.cpp:1151
 msgctxt "@item:inmenu Text Completion"
 msgid "None"
 msgstr "କେହିନୁହଁ"
 
-#: kdeui/widgets/klineedit.cpp:1138
+#: kdeui/widgets/klineedit.cpp:1152
 msgctxt "@item:inmenu Text Completion"
 msgid "Manual"
 msgstr "ହସ୍ତକୃତ"
 
-#: kdeui/widgets/klineedit.cpp:1139
+#: kdeui/widgets/klineedit.cpp:1153
 msgctxt "@item:inmenu Text Completion"
 msgid "Automatic"
 msgstr "ସ୍ବୟଂଚାଳିତ"
 
-#: kdeui/widgets/klineedit.cpp:1140
+#: kdeui/widgets/klineedit.cpp:1154
 msgctxt "@item:inmenu Text Completion"
 msgid "Dropdown List"
 msgstr ""
 
-#: kdeui/widgets/klineedit.cpp:1141
+#: kdeui/widgets/klineedit.cpp:1155
 msgctxt "@item:inmenu Text Completion"
 msgid "Short Automatic"
 msgstr "ସଂକ୍ଷିପ୍ତ ସ୍ୱୟଂଚାଳିତ"
 
-#: kdeui/widgets/klineedit.cpp:1142
+#: kdeui/widgets/klineedit.cpp:1156
 msgctxt "@item:inmenu Text Completion"
 msgid "Dropdown List && Automatic"
 msgstr ""
 
-#: kdeui/widgets/klineedit.cpp:1173
+#: kdeui/widgets/klineedit.cpp:1187
 msgctxt "@item:inmenu Text Completion"
 msgid "Default"
 msgstr "ପୂର୍ବ ନିର୍ଦ୍ଧାରିତ"
@@ -12203,24 +12220,24 @@ msgid "Minimize"
 msgstr "କ୍ଷୁଦ୍ରତମ କରନ୍ତୁ"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:215
-#: kdeui/notifications/kstatusnotifieritem.cpp:389
-#: kdeui/notifications/kstatusnotifieritem.cpp:815
+#: kdeui/notifications/kstatusnotifieritem.cpp:395
+#: kdeui/notifications/kstatusnotifieritem.cpp:831
 msgid "&Minimize"
 msgstr "କ୍ଷୁଦ୍ରତମ କରନ୍ତୁ (&M)"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:219
-#: kdeui/notifications/kstatusnotifieritem.cpp:813
+#: kdeui/notifications/kstatusnotifieritem.cpp:829
 msgid "&Restore"
 msgstr "ପୁନଃସ୍ଥାପନ କରନ୍ତୁ (&R)"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:239
-#: kdeui/notifications/kstatusnotifieritem.cpp:823
+#: kdeui/notifications/kstatusnotifieritem.cpp:839
 #, kde-format
 msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
 msgstr "<qt>ଆପଣ ନିଶ୍ଚିତକି ଆପଣ ବିଦାୟ ନେବାକୁ ଚାହୁଁଛନ୍ତି <b>%1</b>?</qt>"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:242
-#: kdeui/notifications/kstatusnotifieritem.cpp:826
+#: kdeui/notifications/kstatusnotifieritem.cpp:842
 msgid "Confirm Quit From System Tray"
 msgstr "ତନ୍ତ୍ର ଧାରକରୁ ବିଦାୟନେବାକୁ ନିଶ୍ଚିତ କରନ୍ତୁ"
 
