@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-05-03 04:52+0200\n"
+"POT-Creation-Date: 2010-05-06 04:55+0200\n"
 "PO-Revision-Date: 2009-01-02 11:49+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -740,11 +740,11 @@ msgctxt "Special entry in alt+tab list for minimizing all windows"
 msgid "Show Desktop"
 msgstr ""
 
-#: tiling.cpp:72
+#: tiling.cpp:68
 msgid "Tiling Disabled"
 msgstr ""
 
-#: tiling.cpp:78
+#: tiling.cpp:74
 msgid "Tiling Enabled"
 msgstr ""
 
@@ -854,12 +854,12 @@ msgstr ""
 msgid "Activate Window (%1)"
 msgstr ""
 
-#: workspace.cpp:1210 workspace.cpp:1230
+#: workspace.cpp:1215 workspace.cpp:1235
 #, kde-format
 msgid "Desktop %1"
 msgstr ""
 
-#: workspace.cpp:2636
+#: workspace.cpp:2641
 #, kde-format
 msgid ""
 "You have selected to show a window without its border.\n"
@@ -868,7 +868,7 @@ msgid ""
 "keyboard shortcut."
 msgstr ""
 
-#: workspace.cpp:2650
+#: workspace.cpp:2655
 #, kde-format
 msgid ""
 "You have selected to show a window in fullscreen mode.\n"
