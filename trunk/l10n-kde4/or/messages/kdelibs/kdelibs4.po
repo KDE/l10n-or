@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-05-09 04:28+0200\n"
+"POT-Creation-Date: 2010-05-10 04:40+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -899,8 +899,10 @@ msgstr "ଆକଳନ: "
 
 #. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:110
 #. i18n: ectx: property (text), widget (QRadioButton, mostDownloadsRadio)
-#: rc.cpp:393 knewstuff/knewstuff2/core/providerhandler.cpp:166
-msgid "Most Downloads"
+#: rc.cpp:393
+#, fuzzy
+#| msgid "Most Downloads"
+msgid "Most downloads"
 msgstr "ଅଧିକାଂଶ ଆହରଣଗୁଡିକ"
 
 #. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:117
@@ -940,7 +942,7 @@ msgstr "ଏଠାରେ ସନ୍ଧାନ ବାକ୍ୟାଂଶ ଭରଣ �
 #: rc.cpp:408
 #, fuzzy
 #| msgid "Download"
-msgid "Upload your own files..."
+msgid "Upload Your Own Files..."
 msgstr "ଆହରଣ"
 
 #. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:366
@@ -1173,7 +1175,7 @@ msgstr "ଗୁଣ"
 #. i18n: file: kdeui/dialogs/kcupsoptionsjobwidget.ui:122
 #. i18n: ectx: property (text), widget (QTableWidget, jobOptionsTable)
 #: rc.cpp:537 rc.cpp:904 khtml/ecma/debugger/localvariabledock.cpp:52
-#: khtml/java/kjavaappletviewer.cpp:139
+#: khtml/java/kjavaappletviewer.cpp:140
 msgid "Value"
 msgstr "ମୂଲ୍ୟ"
 
@@ -3424,9 +3426,8 @@ msgstr "ସ୍ଥାପନ କରନ୍ତୁ"
 
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:174
 #: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:282
-#, fuzzy
-#| msgid "Details"
-msgid "Details..."
+#: kdeui/dialogs/kmessagebox.cpp:266
+msgid "Details"
 msgstr "ବିସ୍ତ୍ରୁତ ବିବରଣୀ"
 
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:223
@@ -3487,6 +3488,10 @@ msgstr "ନୂତନ"
 #: knewstuff/knewstuff2/core/providerhandler.cpp:160
 msgid "Highest Rated"
 msgstr "ସର୍ବାଧିକ ଆକଳିତ"
+
+#: knewstuff/knewstuff2/core/providerhandler.cpp:166
+msgid "Most Downloads"
+msgstr "ଅଧିକାଂଶ ଆହରଣଗୁଡିକ"
 
 #: knewstuff/knewstuff2/ui/kdxschanges.cpp:31
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:70
@@ -7448,23 +7453,23 @@ msgstr "ଆପଲେଟ \"%1\" ଆରମ୍ଭ ହୋଇଯାଇଛି"
 msgid "Applet \"%1\" stopped"
 msgstr "ଆପଲେଟ \"%1\" ବନ୍ଦହୋଇଯାଇଛି"
 
-#: khtml/java/kjavaappletviewer.cpp:127
+#: khtml/java/kjavaappletviewer.cpp:128
 msgid "Applet Parameters"
 msgstr "ଆପଲେଟ ପ୍ରାଚଳଗୁଡିକ"
 
-#: khtml/java/kjavaappletviewer.cpp:138
+#: khtml/java/kjavaappletviewer.cpp:139
 msgid "Parameter"
 msgstr "ପ୍ରାଚଳ"
 
-#: khtml/java/kjavaappletviewer.cpp:142
+#: khtml/java/kjavaappletviewer.cpp:143
 msgid "Class"
 msgstr "ଶ୍ରେଣୀ"
 
-#: khtml/java/kjavaappletviewer.cpp:148
+#: khtml/java/kjavaappletviewer.cpp:149
 msgid "Base URL"
 msgstr "ଆଧାର URL"
 
-#: khtml/java/kjavaappletviewer.cpp:154
+#: khtml/java/kjavaappletviewer.cpp:155
 msgid "Archives"
 msgstr "ଅଭିଲେଖନଗୁଡିକ"
 
@@ -8044,12 +8049,12 @@ msgstr "ଖୋଜନ୍ତୁ (&e):"
 
 #: kde3support/kdeui/k3syntaxhighlighter.cpp:470
 #: kde3support/kdeui/k3syntaxhighlighter.cpp:576
-#: kdeui/sonnet/highlighter.cpp:292 kdeui/sonnet/highlighter.cpp:315
+#: kdeui/sonnet/highlighter.cpp:241 kdeui/sonnet/highlighter.cpp:264
 msgid "As-you-type spell checking enabled."
 msgstr "ଆପଣ ଟାଇପ କଲାମାତ୍ରେ ବନାନ ଯାଞ୍ଚ ସକ୍ରିୟ ହୋଇଯିବ।"
 
 #: kde3support/kdeui/k3syntaxhighlighter.cpp:472
-#: kdeui/sonnet/highlighter.cpp:317
+#: kdeui/sonnet/highlighter.cpp:266
 msgid "As-you-type spell checking disabled."
 msgstr "ଆପଣ ଟାଇପ କଲାମାତ୍ରେ ବନାନ ଯାଞ୍ଚ ନିଷ୍କ୍ରିୟ ହୋଇଯିବ।"
 
@@ -8058,7 +8063,7 @@ msgid "Incremental Spellcheck"
 msgstr "କ୍ରମବର୍ଦ୍ଦୀ ବନାନଯାଞ୍ଚ"
 
 #: kde3support/kdeui/k3syntaxhighlighter.cpp:578
-#: kdeui/sonnet/highlighter.cpp:294
+#: kdeui/sonnet/highlighter.cpp:243
 msgid "Too many misspelled words. As-you-type spell checking disabled."
 msgstr "ଅତ୍ୟଧିକ ବନାନଭୁଲ ଶବ୍ଦଗୁଡିଏ। ଆପଣ ଟାଇପ କଲାମାତ୍ରେ ବନାନ ଯାଞ୍ଚ ନିଷ୍କ୍ରିୟ ହୋଇଯିବ।"
 
@@ -9073,10 +9078,6 @@ msgstr "%1"
 msgctxt "@action:button post-filter"
 msgid "."
 msgstr "."
-
-#: kdeui/dialogs/kmessagebox.cpp:266
-msgid "Details"
-msgstr "ବିସ୍ତ୍ରୁତ ବିବରଣୀ"
 
 #: kdeui/dialogs/kmessagebox.cpp:457 kdeui/dialogs/kmessagebox.cpp:518
 msgid "Question"
@@ -13274,6 +13275,11 @@ msgstr "ଏହା କଣ? (&T)"
 #: kdeui/actions/kstandardaction_p.h:113
 msgid "Tip of the &Day"
 msgstr "ଆଜିର ସୂଚନା (&D)"
+
+#, fuzzy
+#~| msgid "Details"
+#~ msgid "Details..."
+#~ msgstr "ବିସ୍ତ୍ରୁତ ବିବରଣୀ"
 
 #~ msgid "New Tag"
 #~ msgstr "ନୂତନ ସୂଚକ"
