@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-05-10 04:40+0200\n"
+"POT-Creation-Date: 2010-05-11 05:53+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -2499,19 +2499,19 @@ msgctxt ""
 msgid "or"
 msgstr "ମୋର"
 
-#: nepomuk/core/resource.cpp:519
+#: nepomuk/core/resource.cpp:520
 msgid "Success"
 msgstr "ସଫଳ"
 
-#: nepomuk/core/resource.cpp:521
+#: nepomuk/core/resource.cpp:522
 msgid "Communication error"
 msgstr "ସଞ୍ଚାର ତ୍ରୁଟି"
 
-#: nepomuk/core/resource.cpp:523
+#: nepomuk/core/resource.cpp:524
 msgid "Invalid type in Database"
 msgstr "ତଥ୍ୟାବଳୀରେ ଅବୈଧ ଟାଇପ"
 
-#: nepomuk/core/resource.cpp:525 kdecore/network/klocalsocket_unix.cpp:213
+#: nepomuk/core/resource.cpp:526 kdecore/network/klocalsocket_unix.cpp:213
 #: kdecore/network/klocalsocket_unix.cpp:293
 msgid "Unknown error"
 msgstr "ଅଜଣା ତ୍ରୁଟି"
@@ -7184,7 +7184,7 @@ msgstr "ଆହରଣ କରନ୍ତୁ ନାହିଁ"
 msgid "This is a searchable index. Enter search keywords: "
 msgstr "ଏହା ଗୋଟିଏ ଖୋଜିବାଯୋଗ୍ୟ ଅନୁକ୍ରମଣିକା। ଖୋଜନ୍ତୁ ସୂଚକ ଶବ୍ଦ ଭରଣ କରନ୍ତୁ: "
 
-#: khtml/ecma/kjs_html.cpp:2115 khtml/ecma/kjs_window.cpp:1608
+#: khtml/ecma/kjs_html.cpp:2115 khtml/ecma/kjs_window.cpp:1611
 msgid "Confirmation: JavaScript Popup"
 msgstr "ନିଶ୍ଚତତା: JavaScript ପପ୍ ଅପ୍"
 
@@ -7203,73 +7203,73 @@ msgid ""
 "submitted?</qt>"
 msgstr ""
 
-#: khtml/ecma/kjs_html.cpp:2122 khtml/ecma/kjs_window.cpp:1616
+#: khtml/ecma/kjs_html.cpp:2122 khtml/ecma/kjs_window.cpp:1619
 msgid "Allow"
 msgstr "ସ୍ବୀକାର କରନ୍ତୁ"
 
-#: khtml/ecma/kjs_html.cpp:2122 khtml/ecma/kjs_window.cpp:1616
+#: khtml/ecma/kjs_html.cpp:2122 khtml/ecma/kjs_window.cpp:1619
 msgid "Do Not Allow"
 msgstr "ଅନୁମତି ଦିଅନ୍ତୁନାହିଁ"
 
-#: khtml/ecma/kjs_window.cpp:1611
+#: khtml/ecma/kjs_window.cpp:1614
 msgid ""
 "This site is requesting to open up a new browser window via JavaScript.\n"
 "Do you want to allow this?"
 msgstr ""
 
-#: khtml/ecma/kjs_window.cpp:1614
+#: khtml/ecma/kjs_window.cpp:1617
 #, kde-format
 msgid ""
 "<qt>This site is requesting to open<p>%1</p>in a new browser window via "
 "JavaScript.<br />Do you want to allow this?</qt>"
 msgstr ""
 
-#: khtml/ecma/kjs_window.cpp:1919
+#: khtml/ecma/kjs_window.cpp:1922
 msgid "Close window?"
 msgstr "ୱିଣ୍ଡୋ ବନ୍ଦ କରିବେ କି?"
 
-#: khtml/ecma/kjs_window.cpp:1919
+#: khtml/ecma/kjs_window.cpp:1922
 msgid "Confirmation Required"
 msgstr "ନିଶ୍ଚିତତା ଆବଶ୍ୟକ"
 
-#: khtml/ecma/kjs_window.cpp:2786
+#: khtml/ecma/kjs_window.cpp:2789
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" to be added to your "
 "collection?"
 msgstr ""
 
-#: khtml/ecma/kjs_window.cpp:2789
+#: khtml/ecma/kjs_window.cpp:2792
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
 "added to your collection?"
 msgstr ""
 
-#: khtml/ecma/kjs_window.cpp:2797
+#: khtml/ecma/kjs_window.cpp:2800
 msgid "JavaScript Attempted Bookmark Insert"
 msgstr ""
 
-#: khtml/ecma/kjs_window.cpp:2801
+#: khtml/ecma/kjs_window.cpp:2804
 msgid "Insert"
 msgstr "ଭର୍ତ୍ତୀ କରନ୍ତୁ"
 
-#: khtml/ecma/kjs_window.cpp:2801
+#: khtml/ecma/kjs_window.cpp:2804
 msgid "Disallow"
 msgstr "ଅସ୍ବୀକାର କରନ୍ତୁ"
 
-#: khtml/ecma/kjs_binding.cpp:184
+#: khtml/ecma/kjs_binding.cpp:185
 msgid ""
 "A script on this page is causing KHTML to freeze. If it continues to run, "
 "other applications may become less responsive.\n"
 "Do you want to stop the script?"
 msgstr ""
 
-#: khtml/ecma/kjs_binding.cpp:184
+#: khtml/ecma/kjs_binding.cpp:185
 msgid "JavaScript"
 msgstr "JavaScript"
 
-#: khtml/ecma/kjs_binding.cpp:184
+#: khtml/ecma/kjs_binding.cpp:185
 #, fuzzy
 #| msgid "Open Script"
 msgid "&Stop Script"
@@ -7519,7 +7519,7 @@ msgstr "ହଁ (&Y)"
 msgid "&Grant All"
 msgstr "ସମସ୍ତଙ୍କୁ ସ୍ୱୀକାର କରନ୍ତୁ (&G)"
 
-#: khtml/xml/dom_docimpl.cpp:2269
+#: khtml/xml/dom_docimpl.cpp:2258
 msgid "Basic Page Style"
 msgstr "ମୌଳିକ ପୃଷ୍ଠା ଶୈଳୀ"
 
@@ -8965,15 +8965,15 @@ msgstr "ଏହି KDE ଦଳରେ ମିଶନ୍ତୁ (&J)"
 msgid "&Support KDE"
 msgstr "KDE କୁ ସମର୍ଥନ କରନ୍ତୁ (&S)"
 
-#: kdeui/dialogs/klinkdialog.cpp:48
+#: kdeui/dialogs/klinkdialog.cpp:49
 msgid "Manage Link"
 msgstr "ସଂଯୋଗ ପରିଚାଳନ କରନ୍ତୁ"
 
-#: kdeui/dialogs/klinkdialog.cpp:58
+#: kdeui/dialogs/klinkdialog.cpp:59
 msgid "Link Text:"
 msgstr "ସଂଯୋଗ ପାଠ୍ୟ:"
 
-#: kdeui/dialogs/klinkdialog.cpp:61
+#: kdeui/dialogs/klinkdialog.cpp:62
 msgid "Link URL:"
 msgstr "ସଂଯୋଗ URL:"
 
