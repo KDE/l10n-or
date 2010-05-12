@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-05-10 04:41+0200\n"
+"POT-Creation-Date: 2010-05-12 04:54+0200\n"
 "PO-Revision-Date: 2009-01-02 11:49+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -585,71 +585,51 @@ msgid "Tiling"
 msgstr ""
 
 #: kwinbindings.cpp:224
-msgid "Toggle Tiling"
+msgid "Enable/Disable Tiling"
 msgstr ""
 
 #: kwinbindings.cpp:225
-msgid "Toggle Orientation"
-msgstr ""
-
-#: kwinbindings.cpp:226
-msgid "Increase Ratio"
-msgstr ""
-
-#: kwinbindings.cpp:227
-msgid "Decrease Ratio"
-msgstr ""
-
-#: kwinbindings.cpp:228
 msgid "Toggle Floating"
 msgstr ""
 
-#: kwinbindings.cpp:230
+#: kwinbindings.cpp:227
 msgid "Switch Focus Left"
 msgstr ""
 
-#: kwinbindings.cpp:231
+#: kwinbindings.cpp:228
 msgid "Switch Focus Right"
 msgstr ""
 
-#: kwinbindings.cpp:232
+#: kwinbindings.cpp:229
 msgid "Switch Focus Up"
 msgstr ""
 
-#: kwinbindings.cpp:233
+#: kwinbindings.cpp:230
 msgid "Switch Focus Down"
 msgstr ""
 
+#: kwinbindings.cpp:231
+msgid "Move Window Left"
+msgstr ""
+
+#: kwinbindings.cpp:232
+msgid "Move Window Right"
+msgstr ""
+
+#: kwinbindings.cpp:233
+msgid "Move Window Up"
+msgstr ""
+
 #: kwinbindings.cpp:234
-msgid "Move Left"
+msgid "Move Window Down"
 msgstr ""
 
 #: kwinbindings.cpp:235
-msgid "Move Right"
-msgstr ""
-
-#: kwinbindings.cpp:236
-msgid "Move Up"
-msgstr ""
-
-#: kwinbindings.cpp:237
-msgid "Move Down"
-msgstr ""
-
-#: kwinbindings.cpp:238
 msgid "Next Layout"
 msgstr ""
 
-#: kwinbindings.cpp:239
+#: kwinbindings.cpp:236
 msgid "Previous Layout"
-msgstr ""
-
-#: kwinbindings.cpp:241
-msgid "Test Dump tiles"
-msgstr ""
-
-#: kwinbindings.cpp:242
-msgid "Test Below Cursor"
 msgstr ""
 
 #: main.cpp:178
@@ -753,118 +733,126 @@ msgstr ""
 msgid "Layout changed to %1"
 msgstr ""
 
-#: useractions.cpp:75
+#: useractions.cpp:77
 msgid "Keep &Above Others"
 msgstr ""
 
-#: useractions.cpp:83
+#: useractions.cpp:85
 msgid "Keep &Below Others"
 msgstr ""
 
-#: useractions.cpp:91
+#: useractions.cpp:93
 msgid "&Fullscreen"
 msgstr ""
 
-#: useractions.cpp:99
+#: useractions.cpp:101
 msgid "&No Border"
 msgstr ""
 
-#: useractions.cpp:106
+#: useractions.cpp:108
 msgid "Window &Shortcut..."
 msgstr ""
 
-#: useractions.cpp:113
+#: useractions.cpp:115
 msgid "&Special Window Settings..."
 msgstr ""
 
-#: useractions.cpp:117
+#: useractions.cpp:119
 msgid "&Special Application Settings..."
 msgstr ""
 
-#: useractions.cpp:138
+#: useractions.cpp:140
 msgid "&Opacity"
 msgstr ""
 
-#: useractions.cpp:141
+#: useractions.cpp:143
 msgid "&Move"
 msgstr ""
 
-#: useractions.cpp:148
+#: useractions.cpp:150
 msgid "Re&size"
 msgstr ""
 
-#: useractions.cpp:154
+#: useractions.cpp:156
 msgid "Mi&nimize"
 msgstr ""
 
-#: useractions.cpp:160
+#: useractions.cpp:162
 msgid "Ma&ximize"
 msgstr ""
 
-#: useractions.cpp:167
+#: useractions.cpp:169
 msgid "Sh&ade"
 msgstr ""
 
-#: useractions.cpp:179
+#: useractions.cpp:181
 msgid "Remove &From Group"
 msgstr ""
 
-#: useractions.cpp:185
+#: useractions.cpp:187
 msgid "Close Entire &Group"
 msgstr ""
 
-#: useractions.cpp:196
+#: useractions.cpp:198
 msgctxt "When in tiling mode, toggle's the window's floating/tiled state"
 msgid "&Float Window"
 msgstr ""
 
-#: useractions.cpp:212
+#: useractions.cpp:214
 msgid "Ad&vanced"
 msgstr ""
 
-#: useractions.cpp:219
+#: useractions.cpp:221
 msgid "Configur&e Window Behavior..."
 msgstr ""
 
-#: useractions.cpp:225
+#: useractions.cpp:227
 msgid "&Close"
 msgstr ""
 
-#: useractions.cpp:340
+#: useractions.cpp:354
 msgid "Switch to Window Tab"
 msgstr ""
 
-#: useractions.cpp:381
+#: useractions.cpp:395
 msgid "To the Left"
 msgstr ""
 
-#: useractions.cpp:383
+#: useractions.cpp:397
 msgid "To the Right"
 msgstr ""
 
-#: useractions.cpp:412
+#: useractions.cpp:426
 msgid "Move Window to Group"
 msgstr ""
 
-#: useractions.cpp:455
+#: useractions.cpp:469
 msgid "To &Desktop"
 msgstr ""
 
-#: useractions.cpp:468
+#: useractions.cpp:492
+msgid "Ac&tivities"
+msgstr ""
+
+#: useractions.cpp:505
 msgid "&All Desktops"
 msgstr ""
 
-#: useractions.cpp:647
+#: useractions.cpp:539
+msgid "&All Activities"
+msgstr ""
+
+#: useractions.cpp:715
 #, kde-format
 msgid "Activate Window (%1)"
 msgstr ""
 
-#: workspace.cpp:1215 workspace.cpp:1235
+#: workspace.cpp:1218 workspace.cpp:1238
 #, kde-format
 msgid "Desktop %1"
 msgstr ""
 
-#: workspace.cpp:2644
+#: workspace.cpp:2816
 #, kde-format
 msgid ""
 "You have selected to show a window without its border.\n"
@@ -873,7 +861,7 @@ msgid ""
 "keyboard shortcut."
 msgstr ""
 
-#: workspace.cpp:2658
+#: workspace.cpp:2830
 #, kde-format
 msgid ""
 "You have selected to show a window in fullscreen mode.\n"

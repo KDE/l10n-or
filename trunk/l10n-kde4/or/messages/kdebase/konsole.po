@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-05-06 04:54+0200\n"
+"POT-Creation-Date: 2010-05-12 04:54+0200\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -560,7 +560,7 @@ msgstr ""
 msgid "You have multiple tabs in this window, are you sure you want to quit?"
 msgstr ""
 
-#: MainWindow.cpp:378 SessionController.cpp:597
+#: MainWindow.cpp:378 SessionController.cpp:601
 msgid "Confirm Close"
 msgstr ""
 
@@ -1457,15 +1457,15 @@ msgstr ""
 msgid "Copy Input To"
 msgstr ""
 
-#. i18n: file: ../desktop/sessionui.rc:37
+#. i18n: file: ../desktop/sessionui.rc:38
 #. i18n: ectx: Menu (debug)
 #: rc.cpp:852
 msgid "Debug"
 msgstr ""
 
-#. i18n: file: ../desktop/sessionui.rc:56
+#. i18n: file: ../desktop/sessionui.rc:57
 #. i18n: ectx: Menu (change-profile)
-#. i18n: file: ../desktop/partui.rc:25
+#. i18n: file: ../desktop/partui.rc:26
 #. i18n: ectx: Menu (change-profile)
 #: rc.cpp:855 rc.cpp:861
 msgid "&Change Profile"
@@ -1639,72 +1639,76 @@ msgstr ""
 msgid "Clear Scrollback"
 msgstr ""
 
-#: SessionController.cpp:502
+#: SessionController.cpp:500
+msgid "Clear Scrollback and Reset"
+msgstr ""
+
+#: SessionController.cpp:506
 msgid "Configure Current Profile..."
 msgstr ""
 
-#: SessionController.cpp:505
+#: SessionController.cpp:509
 msgid "Change Profile"
 msgstr ""
 
-#: SessionController.cpp:547
+#: SessionController.cpp:551
 msgid "Rename Tab"
 msgstr ""
 
-#: SessionController.cpp:548
+#: SessionController.cpp:552
 msgid "Enter new tab text:"
 msgstr ""
 
-#: SessionController.cpp:591
+#: SessionController.cpp:595
 msgid ""
 "A program is currently running in this session.  Are you sure you want to "
 "close it?"
 msgstr ""
 
-#: SessionController.cpp:594
+#: SessionController.cpp:598
 #, kde-format
 msgid ""
 "The program '%1' is currently running in this session.  Are you sure you "
 "want to close it?"
 msgstr ""
 
-#: SessionController.cpp:1139
+#: SessionController.cpp:1151
 msgid "Save ZModem Download to..."
 msgstr ""
 
-#: SessionController.cpp:1148
+#: SessionController.cpp:1160
 msgid ""
 "<p>A ZModem file transfer attempt has been detected, but no suitable ZModem "
 "software was found on this system.</p><p>You may wish to install the 'rzsz' "
 "or 'lrzsz' package.</p>"
 msgstr ""
 
-#: SessionController.cpp:1160
+#: SessionController.cpp:1172
 msgid ""
 "<p>The current session already has a ZModem file transfer in progress.</p>"
 msgstr ""
 
-#: SessionController.cpp:1169
+#: SessionController.cpp:1181
 msgid ""
 "<p>No suitable ZModem software was found on this system.</p><p>You may wish "
 "to install the 'rzsz' or 'lrzsz' package.</p>"
 msgstr ""
 
-#: SessionController.cpp:1175
+#: SessionController.cpp:1187
 msgid "Select Files for ZModem Upload"
 msgstr ""
 
-#: SessionController.cpp:1247
+#: SessionController.cpp:1259
 #, kde-format
 msgid "Save Output From %1"
 msgstr ""
 
-#: SessionController.cpp:1258
+#: SessionController.cpp:1270
 #, kde-format
 msgid "%1 is an invalid URL, the output could not be saved."
 msgstr ""
 
-#: SessionController.cpp:1347
+#: SessionController.cpp:1359
 #, kde-format
 msgid ""
 "A problem occurred when saving the output.\n"
