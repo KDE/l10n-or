@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-05-12 04:56+0200\n"
+"POT-Creation-Date: 2010-05-13 04:49+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -12350,39 +12350,39 @@ msgstr "ଏଡାଇ ଯାଆନ୍ତୁ (&S)"
 msgid "Replace '%1' with '%2'?"
 msgstr "'%1' କୁ '%2' ସହିତ ବଦଳାଇବେ କି?"
 
-#: kdeui/findreplace/kreplace.cpp:138 kdeui/findreplace/kreplace.cpp:332
+#: kdeui/findreplace/kreplace.cpp:138 kdeui/findreplace/kreplace.cpp:336
 msgid "No text was replaced."
 msgstr "କୌଣସି ପାଠ୍ୟ ବଦଳାଯାଇନାହିଁ।"
 
-#: kdeui/findreplace/kreplace.cpp:140 kdeui/findreplace/kreplace.cpp:334
+#: kdeui/findreplace/kreplace.cpp:140 kdeui/findreplace/kreplace.cpp:338
 #, kde-format
 msgid "1 replacement done."
 msgid_plural "%1 replacements done."
 msgstr[0] "1 ପ୍ରତିସ୍ଥାପନା ସମ୍ପୂର୍ଣ୍ଣ ହେଲା।"
 msgstr[1] "%1 ପ୍ରତିସ୍ଥାପନା ସମ୍ପୂର୍ଣ୍ଣ ହେଲା।"
 
-#: kdeui/findreplace/kreplace.cpp:339 kdeui/findreplace/kfind.cpp:612
+#: kdeui/findreplace/kreplace.cpp:343 kdeui/findreplace/kfind.cpp:578
 msgid "Beginning of document reached."
 msgstr "ତଥ୍ୟର ଆରମ୍ଭ ପହଞ୍ଚିଗଲା।"
 
-#: kdeui/findreplace/kreplace.cpp:341 kdeui/findreplace/kfind.cpp:614
+#: kdeui/findreplace/kreplace.cpp:345 kdeui/findreplace/kfind.cpp:580
 msgid "End of document reached."
 msgstr "ତଥ୍ୟର ଶେଷଭାଗ ପହଞ୍ଚିଗଲା।"
 
-#: kdeui/findreplace/kreplace.cpp:348
+#: kdeui/findreplace/kreplace.cpp:352
 msgid "Do you want to restart search from the end?"
 msgstr "ଆପଣ ଶେଷଭାଗରୁ ଖୋଜା ପୁନଃ ଚାଳନ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
 
-#: kdeui/findreplace/kreplace.cpp:349
+#: kdeui/findreplace/kreplace.cpp:353
 msgid "Do you want to restart search at the beginning?"
 msgstr "ଆପଣ ଆରମ୍ଭରୁ ଖୋଜା ପୁନଃ ଚାଳନ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
 
-#: kdeui/findreplace/kreplace.cpp:352
+#: kdeui/findreplace/kreplace.cpp:356
 msgctxt "@action:button Restart find & replace"
 msgid "Restart"
 msgstr "ପୁନଃପ୍ରାରମ୍ଭ କରନ୍ତୁ"
 
-#: kdeui/findreplace/kreplace.cpp:353
+#: kdeui/findreplace/kreplace.cpp:357
 msgctxt "@action:button Stop find & replace"
 msgid "Stop"
 msgstr "ବିରାମ କରନ୍ତୁ"
@@ -12411,37 +12411,37 @@ msgstr ""
 "\n"
 "ଦୟାକରି ଠିକ କରନ୍ତୁ।"
 
-#: kdeui/findreplace/kfind.cpp:51
+#: kdeui/findreplace/kfind.cpp:50
 msgid "Find Next"
 msgstr "ପରବର୍ତ୍ତୀ ଉପସ୍ଥିତିକୁ ଖୋଜନ୍ତୁ"
 
-#: kdeui/findreplace/kfind.cpp:57
+#: kdeui/findreplace/kfind.cpp:56
 #, kde-format
 msgid "<qt>Find next occurrence of '<b>%1</b>'?</qt>"
 msgstr "<qt>'<b>%1</b>' ର ପରବର୍ତ୍ତୀ ଘଟଣା ଖୋଜିବେ କି?</qt>"
 
-#: kdeui/findreplace/kfind.cpp:585 kdeui/findreplace/kfind.cpp:605
+#: kdeui/findreplace/kfind.cpp:551 kdeui/findreplace/kfind.cpp:571
 #, kde-format
 msgid "1 match found."
 msgid_plural "%1 matches found."
 msgstr[0] "1 ମେଳକ ମିଳିଗଲା।ିଁ"
 msgstr[1] "%1 ି ମେଗୁଡିଏଳକ ମିଗଲାିଁ।"
 
-#: kdeui/findreplace/kfind.cpp:587
+#: kdeui/findreplace/kfind.cpp:553
 #, kde-format
 msgid "<qt>No matches found for '<b>%1</b>'.</qt>"
 msgstr "<qt>'<b>%1</b>'ପାଇଁ କୌଣସି ମେଳକ ମିଳିଲା ନାହିଁ।</qt>"
 
-#: kdeui/findreplace/kfind.cpp:607
+#: kdeui/findreplace/kfind.cpp:573
 #, kde-format
 msgid "No matches found for '<b>%1</b>'."
 msgstr "'<b>%1</b>'ପାଇଁ କୌଣସି ମେଳକ ମିଳିଲା ନାହିଁ।"
 
-#: kdeui/findreplace/kfind.cpp:621
+#: kdeui/findreplace/kfind.cpp:587
 msgid "Continue from the end?"
 msgstr "ଶେଷଭାଗରୁ ଚାଲୁ କରିବେକି?"
 
-#: kdeui/findreplace/kfind.cpp:622
+#: kdeui/findreplace/kfind.cpp:588
 msgid "Continue from the beginning?"
 msgstr "ଆରମ୍ଭରୁ ଚାଲୁ କରିବେକି?"
 
