@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-05-13 04:47+0200\n"
+"POT-Creation-Date: 2010-05-27 04:51+0200\n"
 "PO-Revision-Date: 2008-12-26 16:53+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -731,8 +731,8 @@ msgstr ""
 msgid "Configure"
 msgstr "ବିନ୍ୟାସ କରନ୍ତୁ"
 
-#: src/konqextensionmanager.cpp:75 src/konqextensionmanager.cpp:78
-#: src/konqextensionmanager.cpp:79
+#: src/konqextensionmanager.cpp:74 src/konqextensionmanager.cpp:77
+#: src/konqextensionmanager.cpp:78
 msgid "Extensions"
 msgstr "ଅନୁଲଗ୍ନଗୁଡ଼ିକ"
 
@@ -740,27 +740,27 @@ msgstr "ଅନୁଲଗ୍ନଗୁଡ଼ିକ"
 msgid "Manage Sessions"
 msgstr "ଅଧିବେଶନଗୁଡ଼ିକୁ ପରିଚାଳନ କରନ୍ତୁ"
 
-#: src/konqsessiondlg.cpp:82
+#: src/konqsessiondlg.cpp:81
 msgid "&Open"
 msgstr "ଖୋଲନ୍ତୁ (&O)"
 
-#: src/konqsessiondlg.cpp:178
+#: src/konqsessiondlg.cpp:177
 #, fuzzy
 #| msgid "Rename session"
 msgid "Rename Session"
 msgstr "ଅଧିବେଶନକୁ ପୁନଃ ନାମକରଣ କରନ୍ତୁ"
 
-#: src/konqsessiondlg.cpp:226
+#: src/konqsessiondlg.cpp:225
 msgid "Save Session"
 msgstr "ଅଧିବେଶନକୁ ସଂରକ୍ଷଣ କରନ୍ତୁ"
 
-#: src/konqsessiondlg.cpp:251
+#: src/konqsessiondlg.cpp:249
 #, kde-format
 msgid ""
 "A session with the name '%1' already exists, do you want to overwrite it?"
 msgstr "'%1' ନାମକ ଅଧିବେଶନ ପୂର୍ବରୁ ଅବସ୍ଥିତ ଅଛି, ଆପଣ ଏହାକୁ ନବଲିଖନ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
 
-#: src/konqsessiondlg.cpp:252
+#: src/konqsessiondlg.cpp:250
 msgid "Session exists. Overwrite?"
 msgstr "ଅଧିବେଶନ ଅବସ୍ଥିତ ଅଛି। ନବଲିଖନ କରିବେ କି?"
 
@@ -1277,11 +1277,11 @@ msgstr "ଟ୍ୟାବକୁ ବନ୍ଦକରନ୍ତୁ (&C)"
 msgid "Profile Management"
 msgstr "ରୂପରେଖ ପରିଚାଳନା"
 
-#: src/konqprofiledlg.cpp:115
+#: src/konqprofiledlg.cpp:114
 msgid "&Rename Profile"
 msgstr "ରୂପରେଖ ପୁନଃ ନାମକରଣ କରନ୍ତୁ (&R)"
 
-#: src/konqprofiledlg.cpp:116
+#: src/konqprofiledlg.cpp:115
 msgid "&Delete Profile"
 msgstr "ରୂପରେଖ ଅପସାରଣ କରନ୍ତୁ (&D)"
 
@@ -1363,15 +1363,15 @@ msgstr "ଚିହ୍ନିତ ସ୍ଥାନ ଅପସାରଣ"
 msgid "Bookmark Properties"
 msgstr "ଚିହ୍ନିତ ସ୍ଥାନ ଗୁଣଧର୍ମ"
 
-#: sidebar/trees/bookmark_module/bookmark_module.cpp:565
+#: sidebar/trees/bookmark_module/bookmark_module.cpp:564
 msgid "&Update"
 msgstr "ଅଦ୍ୟତନ କରନ୍ତୁ (&U)"
 
-#: sidebar/trees/bookmark_module/bookmark_module.cpp:573
+#: sidebar/trees/bookmark_module/bookmark_module.cpp:572
 msgid "Name:"
 msgstr "ନାମ:"
 
-#: sidebar/trees/bookmark_module/bookmark_module.cpp:581
+#: sidebar/trees/bookmark_module/bookmark_module.cpp:580
 msgid "Location:"
 msgstr "ସ୍ଥାନ:"
 
