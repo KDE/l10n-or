@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-06-08 03:58+0000\n"
+"POT-Creation-Date: 2010-06-09 03:17+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -6573,6 +6573,7 @@ msgstr "ଅଧିକ ପ୍ରୟୋଗ"
 
 #: runtime/menu/desktop/kde-multimedia.directory:4
 #: workspace/plasma/netbook/containments/sal/services/plasma-sal-multimedia.desktop:2
+#: workspace/systemsettings/categories/settings-audio-and-video.desktop:9
 msgctxt "Name"
 msgid "Multimedia"
 msgstr "ବହୁମାଧ୍ଯମ"
@@ -6996,7 +6997,7 @@ msgctxt "Name"
 msgid "Save remote widgets' policies"
 msgstr ""
 
-#: runtime/plasma/remotewidgetshelper/kcm_remotewidgets.actions:4
+#: runtime/plasma/remotewidgetshelper/kcm_remotewidgets.actions:14
 msgctxt "Description"
 msgid "Prevents the system from saving remote plasma widgets' policies"
 msgstr ""
@@ -8782,16 +8783,6 @@ msgstr "IO-ସଂଯୋଗିକୀ"
 msgctxt "Comment"
 msgid "IO-port information"
 msgstr "IO-ସଂଯୋଗିକୀ ସୂଚନା"
-
-#: workspace/kinfocenter/Modules/info/processor.desktop:13
-msgctxt "Name"
-msgid "Processor"
-msgstr "ସଞ୍ଚାଳକ"
-
-#: workspace/kinfocenter/Modules/info/processor.desktop:104
-msgctxt "Comment"
-msgid "Processor information"
-msgstr "ସଂଚାଳକ ସୂଚନା"
 
 #: workspace/kinfocenter/Modules/info/scsi.desktop:12
 msgctxt "Name"
@@ -12839,14 +12830,6 @@ msgctxt "Name"
 msgid "Application Appearance"
 msgstr "ପ୍ରୟୋଗ ଆରମ୍ଭକର୍ତ୍ତା"
 
-#: workspace/systemsettings/categories/settings-audio-and-video.desktop:9
-#, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Audio and Video IDE"
-msgctxt "Name"
-msgid "Audio and Video"
-msgstr "ଧ୍ୱନି ଏବଂ ଭିଡ଼ିଓ IDE"
-
 #: workspace/systemsettings/categories/settings-bluetooth.desktop:8
 msgctxt "Name"
 msgid "Bluetooth"
@@ -13071,6 +13054,21 @@ msgstr ""
 msgctxt "Name"
 msgid "The Rings of Saturn"
 msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Processor"
+#~ msgstr "ସଞ୍ଚାଳକ"
+
+#~ msgctxt "Comment"
+#~ msgid "Processor information"
+#~ msgstr "ସଂଚାଳକ ସୂଚନା"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Audio and Video IDE"
+#~ msgctxt "Name"
+#~ msgid "Audio and Video"
+#~ msgstr "ଧ୍ୱନି ଏବଂ ଭିଡ଼ିଓ IDE"
 
 #, fuzzy
 #~| msgctxt "Name"
