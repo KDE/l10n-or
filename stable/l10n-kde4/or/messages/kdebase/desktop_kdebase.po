@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-07-02 23:31+0000\n"
+"POT-Creation-Date: 2010-07-03 23:32+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1325,7 +1325,7 @@ msgctxt "Name"
 msgid "Activity Manager"
 msgstr "ସର୍ଭିସ ପରିଚାଳକ"
 
-#: runtime/activitymanager/activitymanager.desktop:48
+#: runtime/activitymanager/activitymanager.desktop:49
 msgctxt "Comment"
 msgid "The activity management backend"
 msgstr ""
@@ -2002,17 +2002,17 @@ msgctxt "Name"
 msgid "Hardware notifications"
 msgstr "ବିଜ୍ଞପ୍ତି"
 
-#: runtime/knotify/hardwarenotifications.notifyrc:37
+#: runtime/knotify/hardwarenotifications.notifyrc:38
 msgctxt "Comment"
 msgid "Notifications triggered by solid"
 msgstr ""
 
-#: runtime/knotify/hardwarenotifications.notifyrc:72
+#: runtime/knotify/hardwarenotifications.notifyrc:74
 msgctxt "Name"
 msgid "Mount or unmount error"
 msgstr ""
 
-#: runtime/knotify/hardwarenotifications.notifyrc:106
+#: runtime/knotify/hardwarenotifications.notifyrc:109
 msgctxt "Comment"
 msgid "There has been a problem mounting or unmounting a device"
 msgstr ""
@@ -2087,7 +2087,7 @@ msgid "Something special happened in the program"
 msgstr ""
 
 #: runtime/knotify/kde.notifyrc:999
-#: workspace/freespacenotifier/freespacenotifier.notifyrc:68
+#: workspace/freespacenotifier/freespacenotifier.notifyrc:70
 #: workspace/powerdevil/powerdevil.notifyrc:112
 msgctxt "Name"
 msgid "Warning"
@@ -6997,7 +6997,7 @@ msgctxt "Name"
 msgid "Save remote widgets' policies"
 msgstr ""
 
-#: runtime/plasma/remotewidgetshelper/kcm_remotewidgets.actions:27
+#: runtime/plasma/remotewidgetshelper/kcm_remotewidgets.actions:28
 msgctxt "Description"
 msgid "Prevents the system from saving remote plasma widgets' policies"
 msgstr ""
@@ -7121,7 +7121,7 @@ msgctxt "Name"
 msgid "Free Space Notifier"
 msgstr "KDED ସୁଦୂର ଆଧାର URL ସୂଚନା ଦାତା"
 
-#: workspace/freespacenotifier/freespacenotifier.desktop:34
+#: workspace/freespacenotifier/freespacenotifier.desktop:35
 msgctxt "Comment"
 msgid "Warns when running out of space on your home folder"
 msgstr ""
@@ -7134,23 +7134,23 @@ msgctxt "Comment"
 msgid "KDE Free Space Notifier Daemon"
 msgstr "KDE ବିଜ୍ଞପ୍ତି ଡେମନ"
 
-#: workspace/freespacenotifier/freespacenotifier.notifyrc:34
+#: workspace/freespacenotifier/freespacenotifier.notifyrc:35
 msgctxt "Name"
 msgid "Low Disk Space"
 msgstr ""
 
-#: workspace/freespacenotifier/freespacenotifier.notifyrc:151
+#: workspace/freespacenotifier/freespacenotifier.notifyrc:153
 #: workspace/powerdevil/powerdevil.notifyrc:195
 msgctxt "Comment"
 msgid "Used for warning notifications"
 msgstr "ଚେତାବନୀ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ ପାଇଁ ବ୍ୟବହୃତ ହୋଇଥାଏ"
 
-#: workspace/freespacenotifier/freespacenotifier.notifyrc:221
+#: workspace/freespacenotifier/freespacenotifier.notifyrc:223
 msgctxt "Name"
 msgid "Running low on disk space"
 msgstr ""
 
-#: workspace/freespacenotifier/freespacenotifier.notifyrc:250
+#: workspace/freespacenotifier/freespacenotifier.notifyrc:253
 msgctxt "Comment"
 msgid "You are running low on disk space"
 msgstr ""
@@ -7353,7 +7353,7 @@ msgctxt "Name"
 msgid "Desktop Theme"
 msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବିବରଣୀ"
 
-#: workspace/kcontrol/desktoptheme/desktoptheme.desktop:46
+#: workspace/kcontrol/desktoptheme/desktoptheme.desktop:47
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Customize individual desktop theme items"
@@ -7461,7 +7461,7 @@ msgctxt "Name"
 msgid "Login Manager Control Module"
 msgstr "ତାରିଖ ଏବଂ ସମୟ"
 
-#: workspace/kcontrol/kdm/kcmkdm_actions.actions:35
+#: workspace/kcontrol/kdm/kcmkdm_actions.actions:36
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Date and time settings"
@@ -7469,30 +7469,30 @@ msgctxt "Name"
 msgid "Save the Login Manager settings"
 msgstr "ତାରିଖ ଏବଂ ସମୟ ସଂରଚନା"
 
-#: workspace/kcontrol/kdm/kcmkdm_actions.actions:66
+#: workspace/kcontrol/kdm/kcmkdm_actions.actions:68
 msgctxt "Description"
 msgid ""
 "Administrator authorization is required to change the Login Manager settings"
 msgstr ""
 
-#: workspace/kcontrol/kdm/kcmkdm_actions.actions:99
+#: workspace/kcontrol/kdm/kcmkdm_actions.actions:102
 msgctxt "Name"
 msgid "Manage user images shown in the Login Manager"
 msgstr ""
 
-#: workspace/kcontrol/kdm/kcmkdm_actions.actions:129
+#: workspace/kcontrol/kdm/kcmkdm_actions.actions:133
 msgctxt "Description"
 msgid ""
 "Administrator authorization is required to manage user images for the Login "
 "Manager"
 msgstr ""
 
-#: workspace/kcontrol/kdm/kcmkdm_actions.actions:164
+#: workspace/kcontrol/kdm/kcmkdm_actions.actions:169
 msgctxt "Name"
 msgid "Manage themes for the Login Manager"
 msgstr ""
 
-#: workspace/kcontrol/kdm/kcmkdm_actions.actions:193
+#: workspace/kcontrol/kdm/kcmkdm_actions.actions:199
 msgctxt "Description"
 msgid ""
 "Administrator authorization is required to manage themes for the Login "
@@ -9652,7 +9652,7 @@ msgctxt "Name"
 msgid "Glide"
 msgstr "ଗ୍ଲିନସ"
 
-#: workspace/kwin/effects/glide/glide.desktop:32
+#: workspace/kwin/effects/glide/glide.desktop:33
 msgctxt "Comment"
 msgid "Windows Glide Effect as they are open and closed"
 msgstr ""
@@ -10629,7 +10629,7 @@ msgctxt "Name"
 msgid "Tiling Enabled"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:6909
+#: workspace/kwin/kwin.notifyrc:6910
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "A modifier key has been locked"
@@ -10637,12 +10637,12 @@ msgctxt "Comment"
 msgid "Tiling mode has been enabled"
 msgstr "ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି ଅପରିବର୍ତ୍ତିତ ହୋଇଯାଇଛି"
 
-#: workspace/kwin/kwin.notifyrc:6938
+#: workspace/kwin/kwin.notifyrc:6940
 msgctxt "Name"
 msgid "Tiling Disabled"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:6965
+#: workspace/kwin/kwin.notifyrc:6968
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Slow keys has been enabled or disabled"
@@ -10650,12 +10650,12 @@ msgctxt "Comment"
 msgid "Tiling mode has been disabled"
 msgstr "Slow କିଗୁଡ଼ିକୁ ସକ୍ରିୟ ଅଥବା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
 
-#: workspace/kwin/kwin.notifyrc:6995
+#: workspace/kwin/kwin.notifyrc:6999
 msgctxt "Name"
 msgid "Tiling Layout Changed"
 msgstr ""
 
-#: workspace/kwin/kwin.notifyrc:7022
+#: workspace/kwin/kwin.notifyrc:7027
 msgctxt "Comment"
 msgid "Tiling Layout has been changed"
 msgstr ""
@@ -10870,7 +10870,7 @@ msgctxt "Name|plasma containment"
 msgid "Desktop Dashboard"
 msgstr "ଡ୍ୟାସବୋର୍ଡ"
 
-#: workspace/plasma/desktop/containments/desktop/plasma-containment-desktopdashboard.desktop:33
+#: workspace/plasma/desktop/containments/desktop/plasma-containment-desktopdashboard.desktop:34
 #: workspace/plasma/desktop/containments/desktop/plasma-containment-desktop.desktop:66
 msgctxt "Comment"
 msgid "Default desktop containment"
@@ -11305,7 +11305,7 @@ msgctxt "Name"
 msgid "Device Notifications"
 msgstr "ବିଜ୍ଞପ୍ତି"
 
-#: workspace/plasma/generic/dataengines/devicenotifications/plasma-dataengine-devicenotifications.desktop:34
+#: workspace/plasma/generic/dataengines/devicenotifications/plasma-dataengine-devicenotifications.desktop:35
 msgctxt "Comment"
 msgid "Passive device notifications for the user."
 msgstr ""
@@ -11739,7 +11739,7 @@ msgctxt "Name"
 msgid "Windowed widgets"
 msgstr "MS Windows 9x"
 
-#: workspace/plasma/generic/runners/windowedwidgets/plasma-runner-windowedwidgets.desktop:35
+#: workspace/plasma/generic/runners/windowedwidgets/plasma-runner-windowedwidgets.desktop:36
 msgctxt "Comment"
 msgid "Find Plasma widgets that can be run as standalone windows"
 msgstr ""
@@ -11956,7 +11956,7 @@ msgctxt "Name"
 msgid "Newspaper Activity"
 msgstr "ନେଟୱର୍କ ଏବଂ ସଂଯୋଜକତା"
 
-#: workspace/plasma/netbook/containments/newspaper/plasma-containment-newspaper.desktop:33
+#: workspace/plasma/netbook/containments/newspaper/plasma-containment-newspaper.desktop:34
 msgctxt "Comment"
 msgid "An activity that puts widgets on two columns"
 msgstr ""
@@ -12086,8 +12086,8 @@ msgctxt "Name"
 msgid "Page one"
 msgstr "ପେଜର"
 
-#: workspace/plasma/netbook/shell/data/layouts/org.kde.plasma-netbook.defaultPage/metadata.desktop:34
-#: workspace/plasma/netbook/shell/data/layouts/plasma-layout-org.kde.plasma-netbook.defaultPage.desktop:34
+#: workspace/plasma/netbook/shell/data/layouts/org.kde.plasma-netbook.defaultPage/metadata.desktop:35
+#: workspace/plasma/netbook/shell/data/layouts/plasma-layout-org.kde.plasma-netbook.defaultPage.desktop:35
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Default Blue"
