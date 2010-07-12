@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-07-03 04:51+0200\n"
+"POT-Creation-Date: 2010-07-12 04:50+0200\n"
 "PO-Revision-Date: 2008-12-26 16:53+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -744,23 +744,23 @@ msgstr "ଅଧିବେଶନଗୁଡ଼ିକୁ ପରିଚାଳନ କର�
 msgid "&Open"
 msgstr "ଖୋଲନ୍ତୁ (&O)"
 
-#: src/konqsessiondlg.cpp:177
+#: src/konqsessiondlg.cpp:175
 #, fuzzy
 #| msgid "Rename session"
 msgid "Rename Session"
 msgstr "ଅଧିବେଶନକୁ ପୁନଃ ନାମକରଣ କରନ୍ତୁ"
 
-#: src/konqsessiondlg.cpp:225
+#: src/konqsessiondlg.cpp:223
 msgid "Save Session"
 msgstr "ଅଧିବେଶନକୁ ସଂରକ୍ଷଣ କରନ୍ତୁ"
 
-#: src/konqsessiondlg.cpp:249
+#: src/konqsessiondlg.cpp:247
 #, kde-format
 msgid ""
 "A session with the name '%1' already exists, do you want to overwrite it?"
 msgstr "'%1' ନାମକ ଅଧିବେଶନ ପୂର୍ବରୁ ଅବସ୍ଥିତ ଅଛି, ଆପଣ ଏହାକୁ ନବଲିଖନ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
 
-#: src/konqsessiondlg.cpp:250
+#: src/konqsessiondlg.cpp:248
 msgid "Session exists. Overwrite?"
 msgstr "ଅଧିବେଶନ ଅବସ୍ଥିତ ଅଛି। ନବଲିଖନ କରିବେ କି?"
 
@@ -814,7 +814,7 @@ msgstr "ଚେତାବନି"
 msgid "Resend"
 msgstr "ପୁଣି ପଠାନ୍ତୁ"
 
-#: src/konqsessionmanager.cpp:337
+#: src/konqsessionmanager.cpp:330
 #, fuzzy
 #| msgid "Konqueror didn't close correctly. Would you like to restore session?"
 msgid ""
@@ -822,19 +822,19 @@ msgid ""
 "session?"
 msgstr "Konqueror ସଠିକ ଭାବରେ ବନ୍ଦ ହୋଇନଥିଲା। ଆପଣ ଅଧିବେଶନକୁ ପୁନଃ ସ୍ଥାପନ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
 
-#: src/konqsessionmanager.cpp:339
+#: src/konqsessionmanager.cpp:332
 msgid "Restore Session?"
 msgstr "ଅଧିବେଶନକୁ ପୁନଃ ସ୍ଥାପନ କରିବେ କି?"
 
-#: src/konqsessionmanager.cpp:340
+#: src/konqsessionmanager.cpp:333
 msgid "Restore Session"
 msgstr "ଅଧିବେଶନକୁ ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ"
 
-#: src/konqsessionmanager.cpp:341
+#: src/konqsessionmanager.cpp:334
 msgid "Do Not Restore"
 msgstr "ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ ନାହିଁ"
 
-#: src/konqsessionmanager.cpp:342
+#: src/konqsessionmanager.cpp:335
 msgid "Ask Me Later"
 msgstr "ପରେ ମତେ ପଚାରନ୍ତୁ"
 
