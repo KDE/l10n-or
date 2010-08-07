@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-08-05 23:36+0000\n"
+"POT-Creation-Date: 2010-08-06 23:35+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -321,7 +321,7 @@ msgctxt "Name"
 msgid "Bookmark Editor"
 msgstr "ସାଧନପଟିକୁ ଚିହ୍ନଟ କରନ୍ତୁ"
 
-#: apps/keditbookmarks/keditbookmarks.desktop:61
+#: apps/keditbookmarks/keditbookmarks.desktop:62
 msgctxt "Comment"
 msgid "Bookmark Organizer and Editor"
 msgstr ""
@@ -393,7 +393,7 @@ msgctxt "Name"
 msgid "Konqueror Browser Preloader"
 msgstr "KDED Konqueror ଧାରଣ ଏକକାଂଶ"
 
-#: apps/konqueror/preloader/konqy_preloader.desktop:58
+#: apps/konqueror/preloader/konqy_preloader.desktop:59
 msgctxt "Comment"
 msgid "Reduces Konqueror startup time"
 msgstr "Reduces Konqueror startup time"
@@ -1325,7 +1325,7 @@ msgctxt "Name"
 msgid "Activity Manager"
 msgstr "ସର୍ଭିସ ପରିଚାଳକ"
 
-#: runtime/activitymanager/activitymanager.desktop:64
+#: runtime/activitymanager/activitymanager.desktop:65
 msgctxt "Comment"
 msgid "The activity management backend"
 msgstr ""
@@ -1338,7 +1338,7 @@ msgctxt "Name"
 msgid "Social Desktop"
 msgstr "ଡ଼େସ୍କଟପ"
 
-#: runtime/attica/kcm/kcm_attica.desktop:65
+#: runtime/attica/kcm/kcm_attica.desktop:66
 msgctxt "Comment"
 msgid "Manage Social Desktop Providers"
 msgstr ""
@@ -1542,7 +1542,7 @@ msgctxt "Name"
 msgid "Manage Notifications"
 msgstr "ବିଜ୍ଞପ୍ତି"
 
-#: runtime/kcontrol/knotify/kcmnotify.desktop:65
+#: runtime/kcontrol/knotify/kcmnotify.desktop:66
 msgctxt "Comment"
 msgid "System Notification Configuration"
 msgstr "ତନ୍ତ୍ର ବିଜ୍ଞପ୍ତି ସଂରଚନା"
@@ -1606,7 +1606,7 @@ msgid "kglobalaccel"
 msgstr ""
 
 #: runtime/kglobalaccel/kglobalaccel.notifyrc:126
-#: runtime/phonon/platform_kde/phonon.notifyrc:55
+#: runtime/phonon/platform_kde/phonon.notifyrc:56
 msgctxt "Name"
 msgid "Application"
 msgstr "ପ୍ରୟୋଗ"
@@ -1806,7 +1806,7 @@ msgctxt "Name"
 msgid "Directory Watcher"
 msgstr "ନେଟୱର୍କ ବିଶ୍ଳେଷକ"
 
-#: runtime/kioslave/desktop/desktopnotifier.desktop:63
+#: runtime/kioslave/desktop/desktopnotifier.desktop:64
 msgctxt "Comment"
 msgid "Monitors directories for changes"
 msgstr ""
@@ -1869,7 +1869,7 @@ msgctxt "Name"
 msgid "Remote URL Change Notifier"
 msgstr "KDED ସୁଦୂର ଆଧାର URL ସୂଚନା ଦାତା"
 
-#: runtime/kioslave/remote/kdedmodule/remotedirnotify.desktop:50
+#: runtime/kioslave/remote/kdedmodule/remotedirnotify.desktop:51
 msgctxt "Comment"
 msgid "Provides change notification for network folders"
 msgstr ""
@@ -2002,17 +2002,17 @@ msgctxt "Name"
 msgid "Hardware notifications"
 msgstr "ବିଜ୍ଞପ୍ତି"
 
-#: runtime/knotify/hardwarenotifications.notifyrc:53
+#: runtime/knotify/hardwarenotifications.notifyrc:54
 msgctxt "Comment"
 msgid "Notifications triggered by solid"
 msgstr ""
 
-#: runtime/knotify/hardwarenotifications.notifyrc:102
+#: runtime/knotify/hardwarenotifications.notifyrc:104
 msgctxt "Name"
 msgid "Mount or unmount error"
 msgstr ""
 
-#: runtime/knotify/hardwarenotifications.notifyrc:151
+#: runtime/knotify/hardwarenotifications.notifyrc:154
 msgctxt "Comment"
 msgid "There has been a problem mounting or unmounting a device"
 msgstr ""
@@ -2025,177 +2025,177 @@ msgctxt "Comment"
 msgid "KDE Workspace"
 msgstr "KDE କାର୍ଯଦକ୍ଷତା"
 
-#: runtime/knotify/kde.notifyrc:59
+#: runtime/knotify/kde.notifyrc:60
 msgctxt "Name"
 msgid "Trash: Emptied"
 msgstr "ଆବର୍ଜନା ପାତ୍ର: ଖାଲି କରାଯାଇଛି"
 
-#: runtime/knotify/kde.notifyrc:136
+#: runtime/knotify/kde.notifyrc:137
 msgctxt "Comment"
 msgid "The trash has been emptied"
 msgstr "ଆବର୍ଜନାପାତ୍ରକୁ ଖାଲିକରାଯାଇଛି"
 
-#: runtime/knotify/kde.notifyrc:218
+#: runtime/knotify/kde.notifyrc:219
 msgctxt "Name"
 msgid "Textcompletion: Rotation"
 msgstr "ପାଠ୍ୟ ସମ୍ପୂର୍ଣ୍ଣତା: ପୁନରାବୃତ୍ତି"
 
-#: runtime/knotify/kde.notifyrc:293
+#: runtime/knotify/kde.notifyrc:294
 msgctxt "Comment"
 msgid "The end of the list of matches has been reached"
 msgstr "ମେଳକମାନଙ୍କ ତାଲିକାର ଶେଷ ପହଞ୍ଚିଯାଇଛି"
 
-#: runtime/knotify/kde.notifyrc:374
+#: runtime/knotify/kde.notifyrc:375
 msgctxt "Name"
 msgid "Textcompletion: No Match"
 msgstr "ପାଠ୍ୟ ସମ୍ପୂର୍ଣ୍ଣତା: କୌଣସି ମେଳକ ନାହିଁ"
 
-#: runtime/knotify/kde.notifyrc:450
+#: runtime/knotify/kde.notifyrc:451
 msgctxt "Comment"
 msgid "No matching completion was found"
 msgstr "କୌଣସି ମେଳକ ସମ୍ପୂର୍ଣ୍ଣତା ମିଳୁନାହିଁ"
 
-#: runtime/knotify/kde.notifyrc:531
+#: runtime/knotify/kde.notifyrc:532
 msgctxt "Name"
 msgid "Textcompletion: Partial Match"
 msgstr "ପାଠ୍ୟ ସମ୍ପୂର୍ଣ୍ଣତା: ଆଂଶିକ ମେଳକ"
 
-#: runtime/knotify/kde.notifyrc:607
+#: runtime/knotify/kde.notifyrc:608
 msgctxt "Comment"
 msgid "There is more than one possible match"
 msgstr "ସେଠାରେ ଗୋଟିଏରୁ ଅଧିକ ମେଳକ ଅଛି"
 
-#: runtime/knotify/kde.notifyrc:688
+#: runtime/knotify/kde.notifyrc:689
 msgctxt "Name"
 msgid "Fatal Error"
 msgstr "ମାରାତ୍ମକ ତ୍ରୁଟି"
 
-#: runtime/knotify/kde.notifyrc:768
+#: runtime/knotify/kde.notifyrc:769
 msgctxt "Comment"
 msgid "There was a serious error causing the program to exit"
 msgstr "ଗୋଟିଏ ଗମ୍ଭୀର ତ୍ରୁଟି ପ୍ରଗ୍ରାମକୁ ପ୍ରସ୍ଥାନ କରାଇଥାଏ"
 
-#: runtime/knotify/kde.notifyrc:850
-#: workspace/powerdevil/powerdevil.notifyrc:279
+#: runtime/knotify/kde.notifyrc:851
+#: workspace/powerdevil/powerdevil.notifyrc:280
 msgctxt "Name"
 msgid "Notification"
 msgstr "ବିଜ୍ଞପ୍ତି"
 
-#: runtime/knotify/kde.notifyrc:932
+#: runtime/knotify/kde.notifyrc:933
 msgctxt "Comment"
 msgid "Something special happened in the program"
 msgstr ""
 
-#: runtime/knotify/kde.notifyrc:1013
-#: workspace/freespacenotifier/freespacenotifier.notifyrc:96
-#: workspace/powerdevil/powerdevil.notifyrc:126
+#: runtime/knotify/kde.notifyrc:1014
+#: workspace/freespacenotifier/freespacenotifier.notifyrc:98
+#: workspace/powerdevil/powerdevil.notifyrc:127
 msgctxt "Name"
 msgid "Warning"
 msgstr "ଚେତାବନୀ"
 
-#: runtime/knotify/kde.notifyrc:1096
+#: runtime/knotify/kde.notifyrc:1097
 msgctxt "Comment"
 msgid "There was an error in the program which may cause problems"
 msgstr ""
 
-#: runtime/knotify/kde.notifyrc:1177
+#: runtime/knotify/kde.notifyrc:1178
 msgctxt "Name"
 msgid "Catastrophe"
 msgstr "Catastrophe"
 
-#: runtime/knotify/kde.notifyrc:1254
+#: runtime/knotify/kde.notifyrc:1255
 msgctxt "Comment"
 msgid "A very serious error occurred, at least causing the program to exit"
 msgstr "ଗୋଟିଏ ମାରାତ୍ମକ ତ୍ରୁଟି ଘଟିଛି, ଅତି କମରେ ପ୍ରଗ୍ରାମକୁ ପ୍ରସ୍ଥାନ କରିବାକୁ ପଡ଼ିପାରେ"
 
-#: runtime/knotify/kde.notifyrc:1334
+#: runtime/knotify/kde.notifyrc:1335
 #: workspace/kwin/effects/login/login.desktop:2
 msgctxt "Name"
 msgid "Login"
 msgstr "ଲଗଇନ"
 
-#: runtime/knotify/kde.notifyrc:1416
+#: runtime/knotify/kde.notifyrc:1417
 msgctxt "Comment"
 msgid "KDE is starting up"
 msgstr "KDE ଆରମ୍ଭ ହେଉଅଛି"
 
-#: runtime/knotify/kde.notifyrc:1501
+#: runtime/knotify/kde.notifyrc:1502
 #: workspace/kwin/effects/logout/logout.desktop:2
 msgctxt "Name"
 msgid "Logout"
 msgstr "ଲଗଆଉଟ"
 
-#: runtime/knotify/kde.notifyrc:1583
+#: runtime/knotify/kde.notifyrc:1584
 msgctxt "Comment"
 msgid "KDE is exiting"
 msgstr "KDE ପ୍ରସ୍ଥାନ କରୁଅଛି"
 
-#: runtime/knotify/kde.notifyrc:1668
+#: runtime/knotify/kde.notifyrc:1669
 msgctxt "Name"
 msgid "Logout Canceled"
 msgstr "ଲଗଆଉଟ ବାତିଲ ହୋଇଛି"
 
-#: runtime/knotify/kde.notifyrc:1748
+#: runtime/knotify/kde.notifyrc:1749
 msgctxt "Comment"
 msgid "KDE logout was canceled"
 msgstr "KDE ଲଗଆଉଟକୁ ବାତିଲ କରାଯାଇଛି"
 
-#: runtime/knotify/kde.notifyrc:1829
+#: runtime/knotify/kde.notifyrc:1830
 msgctxt "Name"
 msgid "Print Error"
 msgstr "ମୁଦ୍ରଣ ତ୍ରୁଟି"
 
-#: runtime/knotify/kde.notifyrc:1910
+#: runtime/knotify/kde.notifyrc:1911
 msgctxt "Comment"
 msgid "A print error has occurred"
 msgstr "ଗୋଟିଏ ମୁଦ୍ରଣ ତ୍ରୁଟି ଘଟିଅଛି"
 
-#: runtime/knotify/kde.notifyrc:1992
+#: runtime/knotify/kde.notifyrc:1993
 msgctxt "Name"
 msgid "Information Message"
 msgstr "ସୂଚନା ସନ୍ଦେଶ"
 
-#: runtime/knotify/kde.notifyrc:2073
+#: runtime/knotify/kde.notifyrc:2074
 msgctxt "Comment"
 msgid "An information message is being shown"
 msgstr "ଗୋଟିଏ ସୂଚନା ସନ୍ଦେଶକୁ ଦର୍ଶାଯାଇଛି"
 
-#: runtime/knotify/kde.notifyrc:2155
+#: runtime/knotify/kde.notifyrc:2156
 msgctxt "Name"
 msgid "Warning Message"
 msgstr "ଚେତାବନୀ ସନ୍ଦେଶ"
 
-#: runtime/knotify/kde.notifyrc:2236
+#: runtime/knotify/kde.notifyrc:2237
 msgctxt "Comment"
 msgid "A warning message is being shown"
 msgstr "ଗୋଟିଏ ଚେତାବନୀ ସନ୍ଦେଶକୁ ଦର୍ଶାଯାଇଛି"
 
-#: runtime/knotify/kde.notifyrc:2318
+#: runtime/knotify/kde.notifyrc:2319
 msgctxt "Name"
 msgid "Critical Message"
 msgstr "ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ସନ୍ଦେଶ"
 
-#: runtime/knotify/kde.notifyrc:2394
+#: runtime/knotify/kde.notifyrc:2395
 msgctxt "Comment"
 msgid "A critical message is being shown"
 msgstr "ଗୋଟିଏ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ସନ୍ଦେଶକୁ ଦର୍ଶାଯାଇଛି"
 
-#: runtime/knotify/kde.notifyrc:2475
+#: runtime/knotify/kde.notifyrc:2476
 msgctxt "Name"
 msgid "Question"
 msgstr "ପ୍ରଶ୍ନ"
 
-#: runtime/knotify/kde.notifyrc:2558
+#: runtime/knotify/kde.notifyrc:2559
 msgctxt "Comment"
 msgid "A question is being asked"
 msgstr "ଗୋଟିଏ ପ୍ରଶ୍ନ ପଚରାଯାଇଛି"
 
-#: runtime/knotify/kde.notifyrc:2641
+#: runtime/knotify/kde.notifyrc:2642
 msgctxt "Name"
 msgid "Beep"
 msgstr "ବିପ କରିବା"
 
-#: runtime/knotify/kde.notifyrc:2722
+#: runtime/knotify/kde.notifyrc:2723
 msgctxt "Comment"
 msgid "Sound bell"
 msgstr "ଧ୍ୱନି ଘଣ୍ଟି"
@@ -2234,7 +2234,7 @@ msgctxt "Name"
 msgid "Time Zone"
 msgstr "KDE ସମୟ ଅଞ୍ଚଳ ଡ଼େମନ"
 
-#: runtime/ktimezoned/ktimezoned.desktop:65
+#: runtime/ktimezoned/ktimezoned.desktop:66
 msgctxt "Comment"
 msgid "Provides the system's time zone to applications"
 msgstr ""
@@ -2277,7 +2277,7 @@ msgctxt "Name"
 msgid "7Digital"
 msgstr "ସାଂଖିକ ଘଡ଼ି"
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/7digital.desktop:57
+#: runtime/kurifilter-plugins/ikws/searchproviders/7digital.desktop:58
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.iblist.com/search/search.php?item=\\\\{@}&submit=Search"
@@ -2315,7 +2315,7 @@ msgctxt "Name"
 msgid "Amazon"
 msgstr "ଓମାନ"
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/amazon.desktop:57
+#: runtime/kurifilter-plugins/ikws/searchproviders/amazon.desktop:58
 msgctxt "Query"
 msgid ""
 "http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=aps&field-keywords=\\"
@@ -2327,7 +2327,7 @@ msgctxt "Name"
 msgid "Amazon MP3"
 msgstr ""
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/amazon_mp3.desktop:58
+#: runtime/kurifilter-plugins/ikws/searchproviders/amazon_mp3.desktop:59
 msgctxt "Query"
 msgid ""
 "http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=digital-music&field-"
@@ -2369,7 +2369,7 @@ msgctxt "Name"
 msgid "Beolingus Online Dictionary"
 msgstr ""
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/beolingus.desktop:57
+#: runtime/kurifilter-plugins/ikws/searchproviders/beolingus.desktop:58
 msgctxt "Query"
 msgid ""
 "http://dict.tu-chemnitz.de/dings.cgi?"
@@ -2382,7 +2382,7 @@ msgctxt "Name"
 msgid "Blip.tv"
 msgstr ""
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/blip.desktop:58
+#: runtime/kurifilter-plugins/ikws/searchproviders/blip.desktop:59
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -2580,7 +2580,7 @@ msgctxt "Name"
 msgid "Duck Duck Go"
 msgstr ""
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/duckduckgo.desktop:52
+#: runtime/kurifilter-plugins/ikws/searchproviders/duckduckgo.desktop:53
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://dx.doi.org/\\\\{@}"
@@ -2593,7 +2593,7 @@ msgctxt "Name"
 msgid "Duck Duck Go Info"
 msgstr ""
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/duckduckgo_info.desktop:51
+#: runtime/kurifilter-plugins/ikws/searchproviders/duckduckgo_info.desktop:52
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://dx.doi.org/\\\\{@}"
@@ -2606,7 +2606,7 @@ msgctxt "Name"
 msgid "Duck Duck Go Shopping"
 msgstr ""
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/duckduckgo_shopping.desktop:50
+#: runtime/kurifilter-plugins/ikws/searchproviders/duckduckgo_shopping.desktop:51
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://dx.doi.org/\\\\{@}"
@@ -2622,7 +2622,7 @@ msgctxt "Name"
 msgid "Ecosia search engine"
 msgstr "ସନ୍ଧାନ ଯନ୍ତ୍ର"
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/ecosia.desktop:58
+#: runtime/kurifilter-plugins/ikws/searchproviders/ecosia.desktop:59
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -2699,7 +2699,7 @@ msgctxt "Name"
 msgid "Facebook"
 msgstr "ମୁଖଗୁଡ଼ିକ"
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/facebook.desktop:58
+#: runtime/kurifilter-plugins/ikws/searchproviders/facebook.desktop:59
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -2722,7 +2722,7 @@ msgctxt "Name"
 msgid "Flickr Creative Commons"
 msgstr ""
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/flickrcc.desktop:53
+#: runtime/kurifilter-plugins/ikws/searchproviders/flickrcc.desktop:54
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -2735,7 +2735,7 @@ msgctxt "Name"
 msgid "Flickr"
 msgstr ""
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/flickr.desktop:57
+#: runtime/kurifilter-plugins/ikws/searchproviders/flickr.desktop:58
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -2813,7 +2813,7 @@ msgctxt "Name"
 msgid "GitHub"
 msgstr ""
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/github.desktop:58
+#: runtime/kurifilter-plugins/ikws/searchproviders/github.desktop:59
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -2829,7 +2829,7 @@ msgctxt "Name"
 msgid "Gitorious"
 msgstr "ସମ୍ପାଦକ"
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/gitorious.desktop:57
+#: runtime/kurifilter-plugins/ikws/searchproviders/gitorious.desktop:58
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -2867,7 +2867,7 @@ msgctxt "Name"
 msgid "Google Code"
 msgstr "Google ଚଳଚିତ୍ର"
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/google_code.desktop:56
+#: runtime/kurifilter-plugins/ikws/searchproviders/google_code.desktop:57
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://froogle.google.com/froogle?q=\\\\{@}"
@@ -2927,7 +2927,7 @@ msgctxt "Name"
 msgid "Google Maps"
 msgstr "Google Groups"
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/google_maps.desktop:59
+#: runtime/kurifilter-plugins/ikws/searchproviders/google_maps.desktop:60
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://news.google.com/news?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
@@ -3013,7 +3013,7 @@ msgctxt "Name"
 msgid "Identi.ca Groups"
 msgstr ""
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/identica_groups.desktop:57
+#: runtime/kurifilter-plugins/ikws/searchproviders/identica_groups.desktop:58
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -3026,7 +3026,7 @@ msgctxt "Name"
 msgid "Identi.ca Notices"
 msgstr ""
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/identica_notices.desktop:52
+#: runtime/kurifilter-plugins/ikws/searchproviders/identica_notices.desktop:53
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://freshmeat.net/search/?q=\\\\{@}"
@@ -3039,7 +3039,7 @@ msgctxt "Name"
 msgid "Identi.ca People"
 msgstr ""
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/identica_people.desktop:53
+#: runtime/kurifilter-plugins/ikws/searchproviders/identica_people.desktop:54
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -3078,7 +3078,7 @@ msgctxt "Name"
 msgid "Jamendo"
 msgstr "Jamin"
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/jamendo.desktop:56
+#: runtime/kurifilter-plugins/ikws/searchproviders/jamendo.desktop:57
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -3139,7 +3139,7 @@ msgctxt "Name"
 msgid "KDE Forums"
 msgstr "KDE କାର୍ଯଦକ୍ଷତା"
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/kde_forums.desktop:57
+#: runtime/kurifilter-plugins/ikws/searchproviders/kde_forums.desktop:58
 msgctxt "Query"
 msgid ""
 "http://forum.kde.org/search.php?keywords=\\\\{@}"
@@ -3151,7 +3151,7 @@ msgctxt "Name"
 msgid "KDE Look"
 msgstr ""
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/kde_look.desktop:56
+#: runtime/kurifilter-plugins/ikws/searchproviders/kde_look.desktop:57
 #, fuzzy
 #| msgctxt "Query"
 #| msgid ""
@@ -3168,7 +3168,7 @@ msgctxt "Name"
 msgid "KDE TechBase"
 msgstr "KDE ଖବରଗୁଡ଼ିକ"
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/kde_techbase.desktop:55
+#: runtime/kurifilter-plugins/ikws/searchproviders/kde_techbase.desktop:56
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://en.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
@@ -3184,7 +3184,7 @@ msgctxt "Name"
 msgid "KDE UserBase"
 msgstr "KDE ଚାଳକ ସହାୟକ ପୁସ୍ତକ"
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/kde_userbase.desktop:55
+#: runtime/kurifilter-plugins/ikws/searchproviders/kde_userbase.desktop:56
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://en.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
@@ -3220,7 +3220,7 @@ msgctxt "Name"
 msgid "Magnatune"
 msgstr "ଭାନୁତୁ"
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/magnatune.desktop:57
+#: runtime/kurifilter-plugins/ikws/searchproviders/magnatune.desktop:58
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -3362,7 +3362,7 @@ msgctxt "Name"
 msgid "openDesktop.org"
 msgstr "ଡ଼େସ୍କଟପ"
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/opendesktop.desktop:35
+#: runtime/kurifilter-plugins/ikws/searchproviders/opendesktop.desktop:36
 #, fuzzy
 #| msgctxt "Query"
 #| msgid ""
@@ -3542,7 +3542,7 @@ msgctxt "Name"
 msgid "Urban Dictionary"
 msgstr "ଅଭିଧାନ"
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/urbandictionary.desktop:55
+#: runtime/kurifilter-plugins/ikws/searchproviders/urbandictionary.desktop:56
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.hyperdictionary.com/search.aspx?define=\\\\{@}"
@@ -3572,7 +3572,7 @@ msgctxt "Name"
 msgid "Vimeo"
 msgstr "Vivisimo"
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/vimeo.desktop:56
+#: runtime/kurifilter-plugins/ikws/searchproviders/vimeo.desktop:57
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://dict.leo.org/?search=\\\\{@}"
@@ -3619,7 +3619,7 @@ msgctxt "Name"
 msgid "Wikia"
 msgstr ""
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/wikia.desktop:58
+#: runtime/kurifilter-plugins/ikws/searchproviders/wikia.desktop:59
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.iblist.com/search/search.php?item=\\\\{@}&submit=Search"
@@ -3676,7 +3676,7 @@ msgctxt "Name"
 msgid "Yahoo"
 msgstr ""
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/yahoo.desktop:57
+#: runtime/kurifilter-plugins/ikws/searchproviders/yahoo.desktop:58
 msgctxt "Query"
 msgid ""
 "http://search.yahoo.com/search?toggle=1&cop=mss&ei=UTF-8&fr=yfp-t-701&p=\\"
@@ -3691,7 +3691,7 @@ msgctxt "Name"
 msgid "Yahoo Images"
 msgstr "ପ୍ରତିଛବିଗୁଡ଼ିକ"
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/yahoo_image.desktop:56
+#: runtime/kurifilter-plugins/ikws/searchproviders/yahoo_image.desktop:57
 msgctxt "Query"
 msgid ""
 "http://images.search.yahoo.com/search/images;_ylt=A0geuy0K6JZLsVkB4m1XNyoA?"
@@ -3703,7 +3703,7 @@ msgctxt "Name"
 msgid "Yahoo Local"
 msgstr ""
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/yahoo_local.desktop:54
+#: runtime/kurifilter-plugins/ikws/searchproviders/yahoo_local.desktop:55
 msgctxt "Query"
 msgid ""
 "http://local.yahoo.com/results?stx=\\\\{@}&ei=UTF-8&fr=yfp-t-701&fr2=tab-img"
@@ -3714,7 +3714,7 @@ msgctxt "Name"
 msgid "Yahoo Shopping"
 msgstr ""
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/yahoo_shopping.desktop:56
+#: runtime/kurifilter-plugins/ikws/searchproviders/yahoo_shopping.desktop:57
 msgctxt "Query"
 msgid ""
 "http://shopping.yahoo.com/search;_ylt=A0SO8ZgG65ZLyX8AsLX7w8QF;"
@@ -3727,7 +3727,7 @@ msgctxt "Name"
 msgid "Yahoo Video"
 msgstr ""
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/yahoo_video.desktop:55
+#: runtime/kurifilter-plugins/ikws/searchproviders/yahoo_video.desktop:56
 msgctxt "Query"
 msgid ""
 "http://video.search.yahoo.com/search/video;_ylt=A0WTb_3a6JZLSHwAK7.JzbkF?"
@@ -3739,7 +3739,7 @@ msgctxt "Name"
 msgid "YouTube"
 msgstr ""
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/youtube.desktop:56
+#: runtime/kurifilter-plugins/ikws/searchproviders/youtube.desktop:57
 msgctxt "Query"
 msgid "http://www.youtube.com/results?search_query=\\\\{@}&search_type=&aq=f"
 msgstr ""
@@ -3772,12 +3772,12 @@ msgctxt "Comment"
 msgid "Wallet"
 msgstr "ୱାଲେଟ ସର୍ଭର"
 
-#: runtime/kwalletd/kwalletd.notifyrc:56
+#: runtime/kwalletd/kwalletd.notifyrc:57
 msgctxt "Name"
 msgid "kwalletd"
 msgstr ""
 
-#: runtime/kwalletd/kwalletd.notifyrc:124
+#: runtime/kwalletd/kwalletd.notifyrc:125
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Change Password"
@@ -3785,7 +3785,7 @@ msgctxt "Name"
 msgid "Needs password"
 msgstr "ପ୍ରବେଶ ସଂକେତ ପରିବର୍ତ୍ତନ କରନ୍ତୁ"
 
-#: runtime/kwalletd/kwalletd.notifyrc:190
+#: runtime/kwalletd/kwalletd.notifyrc:191
 msgctxt "Comment"
 msgid "The KDE Wallet Daemon requests a password"
 msgstr ""
@@ -6796,7 +6796,7 @@ msgctxt "Name"
 msgid "Semantic Data Storage"
 msgstr "Nepomuk ତଥ୍ୟ ଭଣ୍ଡାର"
 
-#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:52
+#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:53
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Desktop"
@@ -6804,42 +6804,42 @@ msgctxt "Comment"
 msgid "Semantic Desktop"
 msgstr "ଡ଼େସ୍କଟପ"
 
-#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:103
+#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:105
 msgctxt "Name"
 msgid "Failed to start Nepomuk"
 msgstr ""
 
-#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:163
+#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:165
 msgctxt "Comment"
 msgid "The Nepomuk Semantic Desktop system could not be started"
 msgstr ""
 
-#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:220
+#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:222
 msgctxt "Name"
 msgid "Converting Nepomuk data"
 msgstr "Nepomuk ତଥ୍ୟକୁ ପରିବର୍ତ୍ତନ କରାଯାଉଛି"
 
-#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:292
+#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:294
 msgctxt "Comment"
 msgid "All Nepomuk data is converted to a new storage backend"
 msgstr "ସମସ୍ତ Nepomuk ତଥ୍ୟକୁ ନୂତନ ଭଣ୍ଡାର ପୃଷ୍ଠଭୂମିକୁ ପରିବର୍ତ୍ତନ କରାଯାଇଛି"
 
-#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:365
+#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:367
 msgctxt "Name"
 msgid "Converting Nepomuk data failed"
 msgstr "ନେପୋମୁକ ତଥ୍ୟ ପରିବର୍ତ୍ତନ ବିଫଳ ହୋଇଛି"
 
-#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:437
+#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:439
 msgctxt "Comment"
 msgid "Converting Nepomuk data to a new backend failed"
 msgstr "Nepomuk ତଥ୍ୟକୁ ଗୋଟିଏ ନୂତନ ପୃଷ୍ଠଭୂମିରେ ପରିବର୍ତ୍ତନ କରିବାରେ ବିଫଳ"
 
-#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:510
+#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:512
 msgctxt "Name"
 msgid "Converting Nepomuk data done"
 msgstr "Nepomuk ତଥ୍ୟ ପରିବର୍ତ୍ତନ ସମାପ୍ତ ହେଲା"
 
-#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:582
+#: runtime/nepomuk/services/storage/nepomukstorage.notifyrc:584
 msgctxt "Comment"
 msgid "Successfully converted Nepomuk data to new backend"
 msgstr "Nepomuk ତଥ୍ୟକୁ ସଫଳତାର ସହିତ ନୂତନ ପୃଷ୍ଠଭୂମିକୁ ପରିବର୍ତ୍ତନ କରାଯାଇଛି"
@@ -6865,12 +6865,12 @@ msgctxt "Comment"
 msgid "Desktop Search"
 msgstr "ଡ଼େସ୍କଟପ ସନ୍ଧାନ"
 
-#: runtime/nepomuk/services/strigi/nepomukstrigiservice.notifyrc:55
+#: runtime/nepomuk/services/strigi/nepomukstrigiservice.notifyrc:56
 msgctxt "Name"
 msgid "Initial Indexing started"
 msgstr "ପ୍ରାରମ୍ଭିକ ଅନୁକ୍ରମିକ ଆରମ୍ଭ ହୋଇଛି"
 
-#: runtime/nepomuk/services/strigi/nepomukstrigiservice.notifyrc:129
+#: runtime/nepomuk/services/strigi/nepomukstrigiservice.notifyrc:130
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid ""
@@ -6880,12 +6880,12 @@ msgctxt "Comment"
 msgid "Indexing of local files for fast searches has started."
 msgstr "ତୀବ୍ର ଡ଼େସ୍କଟପ ସନ୍ଧାନ ପାଇଁ Strigi ସ୍ଥାନୀୟ ଫାଇଲଗୁଡ଼ିକର ପ୍ରାରମ୍ଭିକ ଅନୁକ୍ରମଣକୁ ଆରମ୍ଭ କରିଅଛି"
 
-#: runtime/nepomuk/services/strigi/nepomukstrigiservice.notifyrc:187
+#: runtime/nepomuk/services/strigi/nepomukstrigiservice.notifyrc:188
 msgctxt "Name"
 msgid "Initial Indexing finished"
 msgstr "ପ୍ରାରମ୍ଭିକ ଅନୁକ୍ରମଣ ସମାପ୍ତ ହୋଇଛି"
 
-#: runtime/nepomuk/services/strigi/nepomukstrigiservice.notifyrc:260
+#: runtime/nepomuk/services/strigi/nepomukstrigiservice.notifyrc:261
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid ""
@@ -6896,12 +6896,12 @@ msgid ""
 "The initial indexing of local files for fast desktop searches has completed."
 msgstr "ତୀବ୍ର ଡ଼େସ୍କଟପ ସନ୍ଧାନ ପାଇଁ Strigi ସ୍ଥାନୀୟ ଫାଇଲଗୁଡ଼ିକର ପ୍ରାରମ୍ଭିକ ଅନୁକ୍ରମଣକୁ ଆରମ୍ଭ କରିଅଛି"
 
-#: runtime/nepomuk/services/strigi/nepomukstrigiservice.notifyrc:318
+#: runtime/nepomuk/services/strigi/nepomukstrigiservice.notifyrc:319
 msgctxt "Name"
 msgid "Indexing suspended"
 msgstr "ଅନୁକ୍ରମଣ କ୍ରିୟାକୁ ନିଲମ୍ବିତ କରାଯାଇଛି"
 
-#: runtime/nepomuk/services/strigi/nepomukstrigiservice.notifyrc:391
+#: runtime/nepomuk/services/strigi/nepomukstrigiservice.notifyrc:392
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Strigi file indexing has been suspended"
@@ -6909,12 +6909,12 @@ msgctxt "Comment"
 msgid "File indexing has been suspended by the search service."
 msgstr "Strigi ଫାଇଲ ଅନୁକ୍ରମଣ କ୍ରିୟାକୁ ନିଲମ୍ବିତ କରାଯାଇଛି"
 
-#: runtime/nepomuk/services/strigi/nepomukstrigiservice.notifyrc:449
+#: runtime/nepomuk/services/strigi/nepomukstrigiservice.notifyrc:450
 msgctxt "Name"
 msgid "Indexing resumed"
 msgstr "ଅନୁକ୍ରମଣ କ୍ରିୟାକୁ ପୁନଃ ଚଳନ କରାଯାଇଛି"
 
-#: runtime/nepomuk/services/strigi/nepomukstrigiservice.notifyrc:522
+#: runtime/nepomuk/services/strigi/nepomukstrigiservice.notifyrc:523
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Strigi file indexing has been resumed"
@@ -6930,7 +6930,7 @@ msgctxt "Name"
 msgid "Phonon"
 msgstr "Phonon Xine"
 
-#: runtime/phonon/kcm/kcm_phonon.desktop:62
+#: runtime/phonon/kcm/kcm_phonon.desktop:63
 msgctxt "Comment"
 msgid "Sound and Video Configuration"
 msgstr "ଧ୍ୱନି ଏବଂ ଭିଡ଼ିଓ ସଂରଚନା"
@@ -6953,7 +6953,7 @@ msgctxt "Name"
 msgid "Sound Policy"
 msgstr "ଧ୍ୱନି ନୀତି ସର୍ଭର"
 
-#: runtime/phonon/kded-module/phononserver.desktop:57
+#: runtime/phonon/kded-module/phononserver.desktop:58
 msgctxt "Comment"
 msgid "Provides sound system policy to applications"
 msgstr ""
@@ -6971,12 +6971,12 @@ msgctxt "Comment"
 msgid "Multimedia System"
 msgstr "ବହୁମାଧ୍ଯମ ଚାଳକ"
 
-#: runtime/phonon/platform_kde/phonon.notifyrc:136
+#: runtime/phonon/platform_kde/phonon.notifyrc:137
 msgctxt "Name"
 msgid "Audio Device Fallback"
 msgstr "ଧ୍ୱନୀ ଉପକରଣ ନିବର୍ତ୍ତନ"
 
-#: runtime/phonon/platform_kde/phonon.notifyrc:208
+#: runtime/phonon/platform_kde/phonon.notifyrc:209
 msgctxt "Comment"
 msgid ""
 "Notification on automatic fallback if the preferred device is unavailable"
@@ -6997,7 +6997,7 @@ msgctxt "Name"
 msgid "Save remote widgets' policies"
 msgstr ""
 
-#: runtime/plasma/remotewidgetshelper/kcm_remotewidgets.actions:45
+#: runtime/plasma/remotewidgetshelper/kcm_remotewidgets.actions:46
 msgctxt "Description"
 msgid "Prevents the system from saving remote plasma widgets' policies"
 msgstr ""
@@ -7071,7 +7071,7 @@ msgctxt "Name"
 msgid "Drive Ejector"
 msgstr ""
 
-#: runtime/solidautoeject/solidautoeject.desktop:54
+#: runtime/solidautoeject/solidautoeject.desktop:55
 msgctxt "Comment"
 msgid "Automatically releases drives when their eject button is pushed"
 msgstr ""
@@ -7108,7 +7108,7 @@ msgctxt "Name"
 msgid "Hardware Detection"
 msgstr "ହାର୍ଡୱେର"
 
-#: runtime/soliduiserver/soliduiserver.desktop:57
+#: runtime/soliduiserver/soliduiserver.desktop:58
 msgctxt "Comment"
 msgid "Provides a user interface for hardware events"
 msgstr ""
@@ -7121,7 +7121,7 @@ msgctxt "Name"
 msgid "Free Space Notifier"
 msgstr "KDED ସୁଦୂର ଆଧାର URL ସୂଚନା ଦାତା"
 
-#: workspace/freespacenotifier/freespacenotifier.desktop:48
+#: workspace/freespacenotifier/freespacenotifier.desktop:49
 msgctxt "Comment"
 msgid "Warns when running out of space on your home folder"
 msgstr ""
@@ -7134,23 +7134,23 @@ msgctxt "Comment"
 msgid "KDE Free Space Notifier Daemon"
 msgstr "KDE ବିଜ୍ଞପ୍ତି ଡେମନ"
 
-#: workspace/freespacenotifier/freespacenotifier.notifyrc:48
+#: workspace/freespacenotifier/freespacenotifier.notifyrc:49
 msgctxt "Name"
 msgid "Low Disk Space"
 msgstr ""
 
-#: workspace/freespacenotifier/freespacenotifier.notifyrc:179
-#: workspace/powerdevil/powerdevil.notifyrc:209
+#: workspace/freespacenotifier/freespacenotifier.notifyrc:181
+#: workspace/powerdevil/powerdevil.notifyrc:210
 msgctxt "Comment"
 msgid "Used for warning notifications"
 msgstr "ଚେତାବନୀ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ ପାଇଁ ବ୍ୟବହୃତ ହୋଇଥାଏ"
 
-#: workspace/freespacenotifier/freespacenotifier.notifyrc:249
+#: workspace/freespacenotifier/freespacenotifier.notifyrc:251
 msgctxt "Name"
 msgid "Running low on disk space"
 msgstr ""
 
-#: workspace/freespacenotifier/freespacenotifier.notifyrc:291
+#: workspace/freespacenotifier/freespacenotifier.notifyrc:294
 msgctxt "Comment"
 msgid "You are running low on disk space"
 msgstr ""
@@ -7353,7 +7353,7 @@ msgctxt "Name"
 msgid "Desktop Theme"
 msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବିବରଣୀ"
 
-#: workspace/kcontrol/desktoptheme/desktoptheme.desktop:61
+#: workspace/kcontrol/desktoptheme/desktoptheme.desktop:62
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Customize individual desktop theme items"
@@ -8011,7 +8011,7 @@ msgctxt "Name"
 msgid "LXDE"
 msgstr ""
 
-#: workspace/kdm/kfrontend/sessions/lxde.desktop:54
+#: workspace/kdm/kfrontend/sessions/lxde.desktop:55
 msgctxt "Comment"
 msgid "Lightweight X11 desktop environment"
 msgstr ""
@@ -8744,7 +8744,7 @@ msgctxt "Name"
 msgid "Device Viewer"
 msgstr "ଛବି ପ୍ରଦର୍ଶକ"
 
-#: workspace/kinfocenter/Modules/devinfo/devinfo.desktop:60
+#: workspace/kinfocenter/Modules/devinfo/devinfo.desktop:61
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Picture Viewer"
@@ -8797,7 +8797,7 @@ msgctxt "Name"
 msgid "Summary"
 msgstr ""
 
-#: workspace/kinfocenter/Modules/infosummary/kcm_infosummary.desktop:62
+#: workspace/kinfocenter/Modules/infosummary/kcm_infosummary.desktop:63
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Hardware"
@@ -9017,7 +9017,7 @@ msgctxt "Comment"
 msgid "Screen Saver"
 msgstr "ପରଦା ସଂରକ୍ଷକ"
 
-#: workspace/krunner/lock/kscreenlocker.notifyrc:55
+#: workspace/krunner/lock/kscreenlocker.notifyrc:56
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Screen Saver"
@@ -9025,7 +9025,7 @@ msgctxt "Name"
 msgid "Screen saver started"
 msgstr "ପରଦା ସଂରକ୍ଷକ"
 
-#: workspace/krunner/lock/kscreenlocker.notifyrc:115
+#: workspace/krunner/lock/kscreenlocker.notifyrc:116
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "The trash has been emptied"
@@ -9033,7 +9033,7 @@ msgctxt "Comment"
 msgid "The screen saver has been started"
 msgstr "ଆବର୍ଜନାପାତ୍ରକୁ ଖାଲିକରାଯାଇଛି"
 
-#: workspace/krunner/lock/kscreenlocker.notifyrc:177
+#: workspace/krunner/lock/kscreenlocker.notifyrc:178
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Screen Saver"
@@ -9041,7 +9041,7 @@ msgctxt "Name"
 msgid "Screen locked"
 msgstr "ପରଦା ସଂରକ୍ଷକ"
 
-#: workspace/krunner/lock/kscreenlocker.notifyrc:238
+#: workspace/krunner/lock/kscreenlocker.notifyrc:239
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "A modifier key has been locked"
@@ -9049,7 +9049,7 @@ msgctxt "Comment"
 msgid "The screen has been locked"
 msgstr "ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି ଅପରିବର୍ତ୍ତିତ ହୋଇଯାଇଛି"
 
-#: workspace/krunner/lock/kscreenlocker.notifyrc:302
+#: workspace/krunner/lock/kscreenlocker.notifyrc:303
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Screen Saver"
@@ -9057,17 +9057,17 @@ msgctxt "Name"
 msgid "Screen saver exited"
 msgstr "ପରଦା ସଂରକ୍ଷକ"
 
-#: workspace/krunner/lock/kscreenlocker.notifyrc:361
+#: workspace/krunner/lock/kscreenlocker.notifyrc:362
 msgctxt "Comment"
 msgid "The screen saver has finished"
 msgstr ""
 
-#: workspace/krunner/lock/kscreenlocker.notifyrc:424
+#: workspace/krunner/lock/kscreenlocker.notifyrc:425
 msgctxt "Name"
 msgid "Screen unlocked"
 msgstr ""
 
-#: workspace/krunner/lock/kscreenlocker.notifyrc:486
+#: workspace/krunner/lock/kscreenlocker.notifyrc:487
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "A modifier key has been locked"
@@ -9075,12 +9075,12 @@ msgctxt "Comment"
 msgid "The screen has been unlocked"
 msgstr "ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି ଅପରିବର୍ତ୍ତିତ ହୋଇଯାଇଛି"
 
-#: workspace/krunner/lock/kscreenlocker.notifyrc:548
+#: workspace/krunner/lock/kscreenlocker.notifyrc:549
 msgctxt "Name"
 msgid "Screen unlock failed"
 msgstr ""
 
-#: workspace/krunner/lock/kscreenlocker.notifyrc:610
+#: workspace/krunner/lock/kscreenlocker.notifyrc:611
 msgctxt "Comment"
 msgid "Failed attempt to unlock the screen"
 msgstr ""
@@ -9126,7 +9126,7 @@ msgctxt "Name"
 msgid "Session Management"
 msgstr "ଫାଇଲ ପରିଚାଳନା"
 
-#: workspace/ksmserver/kcm/kcmsmserver.desktop:62
+#: workspace/ksmserver/kcm/kcmsmserver.desktop:63
 msgctxt "Comment"
 msgid "Configure the session manager and logout settings"
 msgstr ""
@@ -9373,22 +9373,22 @@ msgctxt "Comment"
 msgid "System Monitor"
 msgstr "ତନ୍ତ୍ର ପ୍ରଦର୍ଶିକା"
 
-#: workspace/ksysguard/example/ksysguard.notifyrc:54
+#: workspace/ksysguard/example/ksysguard.notifyrc:55
 msgctxt "Name"
 msgid "Pattern Matched"
 msgstr ""
 
-#: workspace/ksysguard/example/ksysguard.notifyrc:130
+#: workspace/ksysguard/example/ksysguard.notifyrc:131
 msgctxt "Comment"
 msgid "Search pattern matched"
 msgstr ""
 
-#: workspace/ksysguard/example/ksysguard.notifyrc:210
+#: workspace/ksysguard/example/ksysguard.notifyrc:211
 msgctxt "Name"
 msgid "Sensor Alarm"
 msgstr ""
 
-#: workspace/ksysguard/example/ksysguard.notifyrc:286
+#: workspace/ksysguard/example/ksysguard.notifyrc:287
 msgctxt "Comment"
 msgid "Sensor exceeded critical limit"
 msgstr ""
@@ -10084,7 +10084,7 @@ msgctxt "Name"
 msgid "Virtual Desktops"
 msgstr "ଡ଼େସ୍କଟପ"
 
-#: workspace/kwin/kcmkwin/kwindesktop/desktop.desktop:63
+#: workspace/kwin/kcmkwin/kwindesktop/desktop.desktop:64
 msgctxt "Comment"
 msgid "You can configure how many virtual desktops there are."
 msgstr ""
@@ -10661,7 +10661,7 @@ msgid "KDE Write Daemon"
 msgstr ""
 
 #: workspace/kwrited/kwrited-autostart.desktop:89
-#: workspace/kwrited/kwrited.desktop:50
+#: workspace/kwrited/kwrited.desktop:51
 msgctxt "Comment"
 msgid "Watch for messages from local users sent with write(1) or wall(1)"
 msgstr ""
@@ -11076,7 +11076,7 @@ msgctxt "Name"
 msgid "CPU Monitor"
 msgstr "ଗୋଟିଏ CPU ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
 
-#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_cpu.desktop:52
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_cpu.desktop:53
 msgctxt "Comment"
 msgid "A CPU usage monitor"
 msgstr "ଗୋଟିଏ CPU ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
@@ -11086,7 +11086,7 @@ msgctxt "Name"
 msgid "Hard Disk Status"
 msgstr ""
 
-#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_hdd.desktop:52
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_hdd.desktop:53
 msgctxt "Comment"
 msgid "A hard disk usage monitor"
 msgstr "ଗୋଟିଏ ହାର୍ଡ଼ଡ଼ିସ୍କ ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
@@ -11099,7 +11099,7 @@ msgctxt "Name"
 msgid "Hardware Info"
 msgstr "ହାର୍ଡୱେର"
 
-#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_hwinfo.desktop:52
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_hwinfo.desktop:53
 msgctxt "Comment"
 msgid "Show hardware info"
 msgstr "ହାର୍ଡ଼ୱେର ସୂଚନା ଦର୍ଶାନ୍ତୁ"
@@ -11112,7 +11112,7 @@ msgctxt "Name"
 msgid "Network Monitor"
 msgstr "ନେଟୱର୍କ ସାଧନ"
 
-#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_net.desktop:54
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_net.desktop:55
 msgctxt "Comment"
 msgid "A network usage monitor"
 msgstr "ଗୋଟିଏ ନେଟୱର୍କ ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
@@ -11125,7 +11125,7 @@ msgctxt "Name"
 msgid "Memory Status"
 msgstr "ସାମ୍ବା ସ୍ଥିତି"
 
-#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_ram.desktop:52
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_ram.desktop:53
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "A CPU usage monitor"
@@ -11138,7 +11138,7 @@ msgctxt "Name"
 msgid "Hardware Temperature"
 msgstr ""
 
-#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_temperature.desktop:53
+#: workspace/plasma/generic/applets/system-monitor/plasma-applet-sm_temperature.desktop:54
 msgctxt "Comment"
 msgid "A system temperature monitor"
 msgstr "ତନ୍ତ୍ର ଉତ୍ତାପ ନିରିକ୍ଷକ"
@@ -11300,7 +11300,7 @@ msgctxt "Name"
 msgid "Device Notifications"
 msgstr "ବିଜ୍ଞପ୍ତି"
 
-#: workspace/plasma/generic/dataengines/devicenotifications/plasma-dataengine-devicenotifications.desktop:48
+#: workspace/plasma/generic/dataengines/devicenotifications/plasma-dataengine-devicenotifications.desktop:49
 msgctxt "Comment"
 msgid "Passive device notifications for the user."
 msgstr ""
@@ -11502,7 +11502,7 @@ msgctxt "Name"
 msgid "Status Notifier Information"
 msgstr "ତନ୍ତ୍ର ପ୍ରଣାଳୀ ସୂଚନା"
 
-#: workspace/plasma/generic/dataengines/statusnotifieritem/plasma_engine_statusnotifieritem.desktop:43
+#: workspace/plasma/generic/dataengines/statusnotifieritem/plasma_engine_statusnotifieritem.desktop:44
 msgctxt "Comment"
 msgid ""
 "Engine for applications' status information, based on the Status Notifier "
@@ -11734,7 +11734,7 @@ msgctxt "Name"
 msgid "Windowed widgets"
 msgstr "MS Windows 9x"
 
-#: workspace/plasma/generic/runners/windowedwidgets/plasma-runner-windowedwidgets.desktop:50
+#: workspace/plasma/generic/runners/windowedwidgets/plasma-runner-windowedwidgets.desktop:51
 msgctxt "Comment"
 msgid "Find Plasma widgets that can be run as standalone windows"
 msgstr ""
@@ -11951,7 +11951,7 @@ msgctxt "Name"
 msgid "Newspaper Activity"
 msgstr "ନେଟୱର୍କ ଏବଂ ସଂଯୋଜକତା"
 
-#: workspace/plasma/netbook/containments/newspaper/plasma-containment-newspaper.desktop:49
+#: workspace/plasma/netbook/containments/newspaper/plasma-containment-newspaper.desktop:50
 msgctxt "Comment"
 msgid "An activity that puts widgets on two columns"
 msgstr ""
@@ -12081,8 +12081,8 @@ msgctxt "Name"
 msgid "Page one"
 msgstr "ପେଜର"
 
-#: workspace/plasma/netbook/shell/data/layouts/org.kde.plasma-netbook.defaultPage/metadata.desktop:50
-#: workspace/plasma/netbook/shell/data/layouts/plasma-layout-org.kde.plasma-netbook.defaultPage.desktop:50
+#: workspace/plasma/netbook/shell/data/layouts/org.kde.plasma-netbook.defaultPage/metadata.desktop:51
+#: workspace/plasma/netbook/shell/data/layouts/plasma-layout-org.kde.plasma-netbook.defaultPage.desktop:51
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Default Blue"
@@ -12147,47 +12147,47 @@ msgctxt "Comment"
 msgid "Power Management"
 msgstr "ଶକ୍ତି ପରିଚାଳନା"
 
-#: workspace/powerdevil/powerdevil.notifyrc:361
+#: workspace/powerdevil/powerdevil.notifyrc:362
 msgctxt "Comment"
 msgid "Used for standard notifications"
 msgstr "ମାନକ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ ପାଇଁ ବ୍ୟବହୃତ ହୋଇଥାଏ"
 
-#: workspace/powerdevil/powerdevil.notifyrc:433
+#: workspace/powerdevil/powerdevil.notifyrc:434
 msgctxt "Name"
 msgid "Critical notification"
 msgstr "ଗମ୍ଭୀର ବିଜ୍ଞପ୍ତି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:505
+#: workspace/powerdevil/powerdevil.notifyrc:506
 msgctxt "Comment"
 msgid "Notifies a critical event"
 msgstr "ଗୋଟିଏ ଗମ୍ଭୀର ସ୍ଥିତିକୁ ଜଣାଇଥାଏ"
 
-#: workspace/powerdevil/powerdevil.notifyrc:578
+#: workspace/powerdevil/powerdevil.notifyrc:579
 msgctxt "Name"
 msgid "Low Battery"
 msgstr "ବ୍ୟାଟେରୀ ଶକ୍ତି କମ ଅଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:648
+#: workspace/powerdevil/powerdevil.notifyrc:649
 msgctxt "Comment"
 msgid "Your battery has reached low level"
 msgstr "ଆପଣଙ୍କର ବ୍ୟାଟେରୀ ନିମ୍ନ ସ୍ତରରେ ପହଞ୍ଚିଯାଇଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:726
+#: workspace/powerdevil/powerdevil.notifyrc:727
 msgctxt "Name"
 msgid "Battery at warning level"
 msgstr "ବ୍ୟାଟେରୀ ଚେତାବନୀ ସ୍ତର ପହଞ୍ଚିଯାଇଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:798
+#: workspace/powerdevil/powerdevil.notifyrc:799
 msgctxt "Comment"
 msgid "Your battery has reached warning level"
 msgstr "ଆପଣଙ୍କର ବ୍ୟାଟେରୀ ଚେତାବନୀ ସ୍ତର ପହଞ୍ଚିଯାଇଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:876
+#: workspace/powerdevil/powerdevil.notifyrc:877
 msgctxt "Name"
 msgid "Battery at critical level"
 msgstr "ବ୍ୟାଟେରି ଗମ୍ଭୀର ସ୍ଥିତିରେ ଅଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:948
+#: workspace/powerdevil/powerdevil.notifyrc:949
 msgctxt "Comment"
 msgid ""
 "Your battery has reached critical level. This notification triggers a "
@@ -12195,74 +12195,74 @@ msgid ""
 "to leave that on."
 msgstr ""
 
-#: workspace/powerdevil/powerdevil.notifyrc:1018
+#: workspace/powerdevil/powerdevil.notifyrc:1019
 msgctxt "Name"
 msgid "AC adaptor plugged in"
 msgstr "AC ଏଡ଼ପଟର ପ୍ଲଗ ହୋଇଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1090
+#: workspace/powerdevil/powerdevil.notifyrc:1091
 msgctxt "Comment"
 msgid "The power adaptor has been plugged in"
 msgstr "ଶକ୍ତି ଏଡ଼ପଟରକୁ ପ୍ଲଗରେ ଲଗାହୋଇଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1168
+#: workspace/powerdevil/powerdevil.notifyrc:1169
 msgctxt "Name"
 msgid "AC adaptor unplugged"
 msgstr "AC ଏଡ଼ପଟର ପ୍ଲଗ ହୋଇନାହିଁ"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1240
+#: workspace/powerdevil/powerdevil.notifyrc:1241
 msgctxt "Comment"
 msgid "The power adaptor has been unplugged"
 msgstr "ଶକ୍ତି ଏଡ଼ପଟରଟି ପ୍ଲଗ ହୋଇନାହିଁ"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1318
+#: workspace/powerdevil/powerdevil.notifyrc:1319
 msgctxt "Name"
 msgid "Job error"
 msgstr "କାର୍ଯ୍ୟ ତ୍ରୁଟି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1390
+#: workspace/powerdevil/powerdevil.notifyrc:1391
 msgctxt "Comment"
 msgid "There was an error while performing a job"
 msgstr "କାର୍ଯ୍ୟ କରିବା ସମୟରେ ଗୋଟିଏ ତ୍ରୁଟି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1464
+#: workspace/powerdevil/powerdevil.notifyrc:1465
 msgctxt "Name"
 msgid "Profile Changed"
 msgstr "ରୂପରେଖଟି ପରିବର୍ତ୍ତିତ ହୋଇଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1536
+#: workspace/powerdevil/powerdevil.notifyrc:1537
 msgctxt "Comment"
 msgid "The profile was changed"
 msgstr "ରୂପରେଖଟି ପରିବର୍ତ୍ତିତ ହୋଇଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1613
+#: workspace/powerdevil/powerdevil.notifyrc:1614
 msgctxt "Name"
 msgid "Performing a suspension job"
 msgstr "ଗୋଟିଏ ନିଲମ୍ବିତ କାର୍ଯ୍ୟ କରୁଅଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1681
+#: workspace/powerdevil/powerdevil.notifyrc:1682
 msgctxt "Comment"
 msgid ""
 "This notification is displayed when a suspension job is about to be done, "
 "and it triggers a countdown. Hence, it is strongly advised to leave it on."
 msgstr ""
 
-#: workspace/powerdevil/powerdevil.notifyrc:1747
+#: workspace/powerdevil/powerdevil.notifyrc:1748
 msgctxt "Name"
 msgid "Internal PowerDevil Error"
 msgstr "ଆଭ୍ୟନ୍ତରୀଣ PowerDevil ତ୍ରୁଟି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1816
+#: workspace/powerdevil/powerdevil.notifyrc:1817
 msgctxt "Comment"
 msgid "PowerDevil has triggered an internal error"
 msgstr "PowerDevil ଗୋଟିଏ ଆଭ୍ୟନ୍ତରୀଣ ତ୍ରୁଟିକୁ ଆରମ୍ଭ କରିଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1888
+#: workspace/powerdevil/powerdevil.notifyrc:1889
 msgctxt "Name"
 msgid "Suspension inhibited"
 msgstr ""
 
-#: workspace/powerdevil/powerdevil.notifyrc:1953
+#: workspace/powerdevil/powerdevil.notifyrc:1954
 msgctxt "Comment"
 msgid "The suspension has been inhibited because an application requested it"
 msgstr ""
@@ -12295,7 +12295,7 @@ msgctxt "Name"
 msgid "Information Sources"
 msgstr "ସୂଚନା ସନ୍ଦେଶ"
 
-#: workspace/solid/kcm/kcm_solid.desktop:61
+#: workspace/solid/kcm/kcm_solid.desktop:62
 msgctxt "Comment"
 msgid "Hardware Integration Configuration with Solid"
 msgstr "କଠିନ ସହିତ ହାର୍ଡୱେର ସଂଯୋଗ ବିନ୍ୟାସ"
@@ -12321,7 +12321,7 @@ msgctxt "Name"
 msgid "Network Status"
 msgstr "ନେଟୱର୍କ ସ୍ଥିତି ଡ଼େମନ"
 
-#: workspace/solid/networking/kded/networkstatus.desktop:52
+#: workspace/solid/networking/kded/networkstatus.desktop:53
 msgctxt "Comment"
 msgid ""
 "Tracks status of network interfaces and provides notification to "
@@ -12781,7 +12781,7 @@ msgctxt "Name"
 msgid "Status Notifier Manager"
 msgstr "KDE ବିଜ୍ଞପ୍ତି ଡେମନ"
 
-#: workspace/statusnotifierwatcher/statusnotifierwatcher.desktop:48
+#: workspace/statusnotifierwatcher/statusnotifierwatcher.desktop:49
 msgctxt "Comment"
 msgid "Manages services that provide status notifier user interfaces"
 msgstr ""
