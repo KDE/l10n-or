@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-08-16 05:02+0200\n"
+"POT-Creation-Date: 2010-08-18 05:14+0200\n"
 "PO-Revision-Date: 2008-12-26 16:53+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -153,7 +153,7 @@ msgid "Close Other Tabs Confirmation"
 msgstr "ଅନ୍ୟାନ୍ୟ ଟ୍ୟାବଗୁଡ଼ିକୁ ବନ୍ଦକରିବାର ନିଶ୍ଚିତକରଣ"
 
 #: src/konqmainwindow.cpp:2512 src/konqmainwindow.cpp:3623
-#: src/konqtabs.cpp:351
+#: src/konqtabs.cpp:349
 msgid "Close &Other Tabs"
 msgstr "ଅନ୍ୟାନ୍ୟ ଟ୍ୟାବଗୁଡ଼ିକୁ ବନ୍ଦକରନ୍ତୁ (&O)"
 
@@ -297,7 +297,7 @@ msgstr "ବିଭାଜିତ ଦୃଶ୍ୟ ବାମ/ଡ଼ାହାଣ (&L)"
 msgid "Split View &Top/Bottom"
 msgstr "ବିଭାଜିତ ଦୃଶ୍ୟ ଉପର/ତଳ (&T)"
 
-#: src/konqmainwindow.cpp:3596 src/konqtabs.cpp:461
+#: src/konqmainwindow.cpp:3596 src/konqtabs.cpp:459
 msgid "&New Tab"
 msgstr "ନୂତନ ଟ୍ୟାବ (&N)"
 
@@ -354,7 +354,7 @@ msgstr "ଦୃଶ୍ୟ ରୂପରେଖକୁ ଧାରଣ କରନ୍ତୁ
 msgid "&Reload"
 msgstr "ପୁନର୍ଧାରଣ କରନ୍ତୁ (&R)"
 
-#: src/konqmainwindow.cpp:3685 src/konqtabs.cpp:328
+#: src/konqmainwindow.cpp:3685 src/konqtabs.cpp:326
 msgid "&Reload All Tabs"
 msgstr "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ (&R)"
 
@@ -1245,31 +1245,31 @@ msgid ""
 "tab width."
 msgstr ""
 
-#: src/konqtabs.cpp:102
+#: src/konqtabs.cpp:100
 msgid "Open a new tab"
 msgstr "ଗୋଟିଏ ନୂତନ ଟ୍ୟାବ ଖୋଲନ୍ତୁ"
 
-#: src/konqtabs.cpp:111
+#: src/konqtabs.cpp:109
 msgid "Close the current tab"
 msgstr "ବର୍ତ୍ତମାନ ଖୋଲାଯାଇଥିବା ଟ୍ୟାବକୁ ବନ୍ଦକରନ୍ତୁ"
 
-#: src/konqtabs.cpp:466
+#: src/konqtabs.cpp:464
 msgid "&Duplicate Tab"
 msgstr "ନକଲି ଟ୍ୟାବ (&D)"
 
-#: src/konqtabs.cpp:471
+#: src/konqtabs.cpp:469
 msgid "&Reload Tab"
 msgstr "ଟ୍ୟାବକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ (&R)"
 
-#: src/konqtabs.cpp:478
+#: src/konqtabs.cpp:476
 msgid "Other Tabs"
 msgstr "ଅନ୍ୟାନ୍ୟ ଟ୍ୟାବଗୁଡ଼ିକ"
 
-#: src/konqtabs.cpp:483
+#: src/konqtabs.cpp:481
 msgid "D&etach Tab"
 msgstr "ଟ୍ୟାବକୁ ପୃଥକ କରନ୍ତୁ (&e)"
 
-#: src/konqtabs.cpp:489
+#: src/konqtabs.cpp:487
 msgid "&Close Tab"
 msgstr "ଟ୍ୟାବକୁ ବନ୍ଦକରନ୍ତୁ (&C)"
 
