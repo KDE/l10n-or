@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-08-18 05:14+0200\n"
+"POT-Creation-Date: 2010-08-21 05:38+0200\n"
 "PO-Revision-Date: 2008-12-26 16:53+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1661,8 +1661,10 @@ msgid "Shared files and folders"
 msgstr "ସହଭାଗୀ ଫାଇଲ ଏବଂ ଫୋଲଡ଼ରଗୁଡ଼ିକ"
 
 #: about/konq_aboutpage.cc:103
-msgid "My Bookmarks"
-msgstr "ମୋର ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ"
+#, fuzzy
+#| msgid "&Bookmarks"
+msgid "Bookmarks"
+msgstr "ଚିହ୍ନିତ ସ୍ଥାନ (&B)"
 
 #: about/konq_aboutpage.cc:104
 msgid "Quick access to your bookmarks"
@@ -2417,6 +2419,9 @@ msgid ""
 "If true, when opening a session from within the sessions dialog the tabs "
 "will be opened inside current window."
 msgstr ""
+
+#~ msgid "My Bookmarks"
+#~ msgstr "ମୋର ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ"
 
 #~ msgid "Preload for later use"
 #~ msgstr "ପରବର୍ତ୍ତି ବ୍ୟବହାର ପାଇଁ ପୂର୍ବରୁ ଧାରଣ କରନ୍ତୁ"
