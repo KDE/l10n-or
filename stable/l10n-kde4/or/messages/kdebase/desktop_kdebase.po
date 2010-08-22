@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-08-18 23:36+0000\n"
+"POT-Creation-Date: 2010-08-21 23:36+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -8726,6 +8726,44 @@ msgctxt "Comment"
 msgid "Configure Input Actions settings"
 msgstr "ଆବର୍ଜନା ପାତ୍ର ସଂରଚନାକୁ ବିନ୍ୟାସ କରନ୍ତୁ "
 
+#: workspace/kinfocenter/Categories/deviceinfocategory.desktop:7
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Lost & Found"
+msgctxt "Name"
+msgid "Lost And Found"
+msgstr "ହଜିବା ଏବଂ ମିଳିବା"
+
+#: workspace/kinfocenter/Categories/graphicalinfocategory.desktop:7
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Processor Information"
+msgctxt "Name"
+msgid "Graphical Information"
+msgstr "ସଞ୍ଚାଳକ ସୂଚନା"
+
+#: workspace/kinfocenter/Categories/kinfocentercategory.desktop:4
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "KInfoCenter"
+msgctxt "Name"
+msgid "KInfoCenter Category"
+msgstr "KInfoCenter"
+
+#: workspace/kinfocenter/Categories/lostfoundcategory.desktop:7
+#: workspace/plasma/generic/dataengines/soliddevice/plasma-dataengine-soliddevice.desktop:2
+msgctxt "Name"
+msgid "Device Information"
+msgstr "ଯନ୍ତ୍ର ସୂଚନା"
+
+#: workspace/kinfocenter/Categories/networkinfocategory.desktop:7
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Memory information"
+msgctxt "Name"
+msgid "Network Information"
+msgstr "ସ୍ମୃତିସ୍ଥାନ ସୂଚନା"
+
 #: workspace/kinfocenter/kinfocenter.desktop:9
 msgctxt "Name"
 msgid "KInfoCenter"
@@ -11480,11 +11518,6 @@ msgstr "RSS"
 msgctxt "Comment"
 msgid "RSS News Data Engine"
 msgstr "RSS ଖବର ତଥ୍ୟ ଯନ୍ତ୍ର"
-
-#: workspace/plasma/generic/dataengines/soliddevice/plasma-dataengine-soliddevice.desktop:2
-msgctxt "Name"
-msgid "Device Information"
-msgstr "ଯନ୍ତ୍ର ସୂଚନା"
 
 #: workspace/plasma/generic/dataengines/soliddevice/plasma-dataengine-soliddevice.desktop:74
 #, fuzzy
