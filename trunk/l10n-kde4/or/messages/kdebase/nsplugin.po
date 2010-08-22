@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nsplugin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-05-03 04:52+0200\n"
+"POT-Creation-Date: 2010-08-22 05:43+0200\n"
 "PO-Revision-Date: 2009-01-02 11:49+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -67,24 +67,22 @@ msgstr ""
 msgid "Show progress output for GUI"
 msgstr ""
 
-#. i18n: file: nspluginpart.rc:4
-#. i18n: ectx: Menu (file)
-#. i18n: file: test/testnsplugin.rc:5
-#. i18n: ectx: Menu (file)
-#. i18n: file: nspluginpart.rc:4
-#. i18n: ectx: Menu (file)
-#: rc.cpp:3 rc.cpp:8 rc.cpp:11
-msgid "&File"
-msgstr ""
-
-#: rc.cpp:4
+#: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr ""
 
-#: rc.cpp:5
+#: rc.cpp:2
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
+msgstr ""
+
+#. i18n: file: test/testnsplugin.rc:5
+#. i18n: ectx: Menu (file)
+#. i18n: file: nspluginpart.rc:4
+#. i18n: ectx: Menu (file)
+#: rc.cpp:5 rc.cpp:8
+msgid "&File"
 msgstr ""
 
 #: viewer/nsplugin.cpp:956
