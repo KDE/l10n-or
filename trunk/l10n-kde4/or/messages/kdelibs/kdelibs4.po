@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-09-25 06:09+0200\n"
+"POT-Creation-Date: 2010-09-27 06:06+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -2405,7 +2405,7 @@ msgstr "ଯୋଗକରନ୍ତୁ..."
 msgid "Add a new script."
 msgstr "ନୂତନ ସ୍କ୍ରିପ୍ଟ ଯୋଗକରନ୍ତୁ।"
 
-#: kross/ui/view.cpp:329 kdeui/dialogs/kswitchlanguagedialog_p.cpp:329
+#: kross/ui/view.cpp:329 kdeui/dialogs/kswitchlanguagedialog_p.cpp:343
 #: kdeui/util/kstandardguiitem.cpp:291
 msgid "Remove"
 msgstr "କାଢ଼ନ୍ତୁ"
@@ -8636,21 +8636,21 @@ msgstr ""
 msgid "Application Language Changed"
 msgstr "ପ୍ରୟୋଗ ଭାଷା ପରିବର୍ତ୍ତନ ହୋଇଯାଇଛି"
 
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:309
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:323
 msgid "Primary language:"
 msgstr "ପ୍ରାଥମିକ ଭାଷା:"
 
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:309
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:323
 msgid "Fallback language:"
 msgstr "ଶେଷ ଅବଲମ୍ବନ ଭାଷା:"
 
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:340
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:354
 msgid ""
 "This is the main application language which will be used first, before any "
 "other languages."
 msgstr ""
 
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:341
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:355
 msgid ""
 "This is the language which will be used if any previous languages do not "
 "contain a proper translation."
