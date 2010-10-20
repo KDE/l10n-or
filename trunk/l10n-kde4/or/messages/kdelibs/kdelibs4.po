@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-10-17 06:21+0200\n"
+"POT-Creation-Date: 2010-10-20 06:08+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -2233,18 +2233,6 @@ msgstr "ମୁଖ୍ୟ:"
 #: rc.cpp:1172 kdeui/dialogs/kshortcutseditor.cpp:645
 msgid "Alternate:"
 msgstr "ବିକଳ୍ପ:"
-
-#. i18n: file: dnssd/kcm_kdnssd.kcfg:9
-#. i18n: ectx: label, entry, group (browsing)
-#: rc.cpp:1175
-msgid "Additional domains for browsing"
-msgstr "ଖୋଜିବା ପାଇଁ ଅତିରିକ୍ତ ପରିସର"
-
-#. i18n: file: dnssd/kcm_kdnssd.kcfg:10
-#. i18n: ectx: whatsthis, entry, group (browsing)
-#: rc.cpp:1178
-msgid "List of 'wide-area' (non link-local) domains that should be browsed."
-msgstr "'ବିସ୍ତୃତ-କ୍ଷେତ୍ର' (non link-local) ପରିସରଗୁଡିକର ତାଲିକା ଯାହାକି ବ୍ରାଉଜ କରିବା ଉଚିତ।"
 
 #: knotify/config/knotifyeventlist.cpp:92
 msgctxt "State of the notified event"
@@ -10511,7 +10499,7 @@ msgstr "ସ୍ୱୟଂ ଅନୁସନ୍ଧାନ"
 msgid "Desktop %1"
 msgstr "ଡେସ୍କଟପ %1"
 
-#: kdeui/xmlgui/ktoolbarhandler.cpp:97
+#: kdeui/xmlgui/ktoolbarhandler.cpp:98
 #, fuzzy
 #| msgid "Toolbars"
 msgid "Toolbars Shown"
@@ -13341,6 +13329,12 @@ msgstr ""
 msgctxt "After noon abbreviation"
 msgid "PM"
 msgstr ""
+
+#~ msgid "Additional domains for browsing"
+#~ msgstr "ଖୋଜିବା ପାଇଁ ଅତିରିକ୍ତ ପରିସର"
+
+#~ msgid "List of 'wide-area' (non link-local) domains that should be browsed."
+#~ msgstr "'ବିସ୍ତୃତ-କ୍ଷେତ୍ର' (non link-local) ପରିସରଗୁଡିକର ତାଲିକା ଯାହାକି ବ୍ରାଉଜ କରିବା ଉଚିତ।"
 
 #~ msgid "Sonnet Configuration"
 #~ msgstr "ସନେଟ ବିନ୍ୟାସ"
