@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-10-15 06:16+0200\n"
+"POT-Creation-Date: 2010-10-26 06:47+0200\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -89,7 +89,7 @@ msgctxt "@action:inmenu"
 msgid "Delete"
 msgstr "ଅପସାରଣ କରନ୍ତୁ"
 
-#: panels/folders/treeviewcontextmenu.cpp:112 dolphincontextmenu.cpp:355
+#: panels/folders/treeviewcontextmenu.cpp:112 dolphincontextmenu.cpp:369
 msgctxt "@action:inmenu"
 msgid "Properties"
 msgstr "ଗୁଣଧର୍ମ"
@@ -343,7 +343,7 @@ msgid ""
 "settings."
 msgstr ""
 
-#: settings/services/servicessettingspage.cpp:167
+#: settings/services/servicessettingspage.cpp:168
 #, fuzzy, kde-format
 #| msgctxt "@info:status files (size)"
 #| msgid "%1 (%2)"
@@ -1414,7 +1414,7 @@ msgctxt "@action:inmenu Edit"
 msgid "Unselect All"
 msgstr ""
 
-#: dolphinpart.cpp:183 dolphinmainwindow.cpp:1408
+#: dolphinpart.cpp:183 dolphinmainwindow.cpp:1410
 msgctxt "@action:inmenu Edit"
 msgid "Invert Selection"
 msgstr ""
@@ -1475,62 +1475,62 @@ msgstr ""
 msgid "Unselect all items matching this pattern:"
 msgstr ""
 
-#: dolphincontextmenu.cpp:164
+#: dolphincontextmenu.cpp:170
 msgctxt "@action:inmenu"
 msgid "Empty Trash"
 msgstr "ଖାଲି ଆବର୍ଜନା ପାତ୍ର"
 
-#: dolphincontextmenu.cpp:170 dolphincontextmenu.cpp:335
+#: dolphincontextmenu.cpp:176 dolphincontextmenu.cpp:348
 msgctxt "@action:inmenu Add current folder to places"
 msgid "Add to Places"
 msgstr "ସ୍ଥାନଗୁଡ଼ିକରେ ଯୋଗକରନ୍ତୁ"
 
-#: dolphincontextmenu.cpp:184
+#: dolphincontextmenu.cpp:190
 msgctxt "@info"
 msgid "Do you really want to empty the Trash? All items will be deleted."
 msgstr ""
 
-#: dolphincontextmenu.cpp:188
+#: dolphincontextmenu.cpp:194
 msgctxt "@action:button"
 msgid "Empty Trash"
 msgstr "ଖାଲି ଆବର୍ଜନା ପାତ୍ର"
 
-#: dolphincontextmenu.cpp:197
+#: dolphincontextmenu.cpp:203
 msgctxt "@label"
 msgid "Trash"
 msgstr "ଆବର୍ଜନା ପାତ୍ର"
 
-#: dolphincontextmenu.cpp:209
+#: dolphincontextmenu.cpp:215
 msgctxt "@action:inmenu"
 msgid "Restore"
 msgstr "ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ"
 
-#: dolphincontextmenu.cpp:241 dolphinmainwindow.cpp:1356
+#: dolphincontextmenu.cpp:252 dolphinmainwindow.cpp:1358
 msgctxt "@title:menu Create new folder, file, link, etc."
 msgid "Create New"
 msgstr "ନୂତନ ନିର୍ମାଣ କରନ୍ତୁ"
 
-#: dolphincontextmenu.cpp:254
+#: dolphincontextmenu.cpp:265
 msgctxt "@action:inmenu Add selected folder to places"
 msgid "Add to Places"
 msgstr "ସ୍ଥାନଗୁଡ଼ିକରେ ଯୋଗ କରନ୍ତୁ"
 
-#: dolphincontextmenu.cpp:261
+#: dolphincontextmenu.cpp:272
 msgctxt "@action:inmenu"
 msgid "Open Path in New Window"
 msgstr ""
 
-#: dolphincontextmenu.cpp:267
+#: dolphincontextmenu.cpp:278
 msgctxt "@action:inmenu"
 msgid "Open Path in New Tab"
 msgstr ""
 
-#: dolphincontextmenu.cpp:435
+#: dolphincontextmenu.cpp:449
 msgctxt "@action:inmenu"
 msgid "Paste Into Folder"
 msgstr "ଫୋଲଡ଼ର ମଧ୍ଯରେ ଲଗାନ୍ତୁ"
 
-#: dolphincontextmenu.cpp:496
+#: dolphincontextmenu.cpp:559
 #, fuzzy
 #| msgctxt "@action:inmenu"
 #| msgid "Move To Trash"
@@ -1538,7 +1538,7 @@ msgctxt "@action:inmenu"
 msgid "&Move to Trash"
 msgstr "ଆବର୍ଜନା ପାତ୍ର ମଧ୍ଯକୁ ପଠାନ୍ତୁ"
 
-#: dolphincontextmenu.cpp:499
+#: dolphincontextmenu.cpp:562
 #, fuzzy
 #| msgctxt "@action:inmenu"
 #| msgid "Delete"
@@ -1716,22 +1716,22 @@ msgctxt "@action:inmenu"
 msgid "Close Tab"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1363
+#: dolphinmainwindow.cpp:1365
 msgctxt "@action:inmenu File"
 msgid "New &Window"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1369
+#: dolphinmainwindow.cpp:1371
 msgctxt "@action:inmenu File"
 msgid "New Tab"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1375
+#: dolphinmainwindow.cpp:1377
 msgctxt "@action:inmenu File"
 msgid "Close Tab"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1398
+#: dolphinmainwindow.cpp:1400
 #, fuzzy
 #| msgctxt "@action:inmenu"
 #| msgid "Paste"
@@ -1739,22 +1739,22 @@ msgctxt "@action:inmenu Edit"
 msgid "Paste"
 msgstr "ଲଗାନ୍ତୁ"
 
-#: dolphinmainwindow.cpp:1403
+#: dolphinmainwindow.cpp:1405
 msgctxt "@action:inmenu Edit"
 msgid "Select All"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1421
+#: dolphinmainwindow.cpp:1423
 msgctxt "@action:inmenu View"
 msgid "Reload"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1427
+#: dolphinmainwindow.cpp:1429
 msgctxt "@action:inmenu View"
 msgid "Stop"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1428
+#: dolphinmainwindow.cpp:1430
 #, fuzzy
 #| msgctxt "@option:check"
 #| msgid "Show space information"
@@ -1762,106 +1762,106 @@ msgctxt "@info"
 msgid "Stop loading"
 msgstr "ସ୍ଥାନ ସୂଚନା ଦର୍ଶାନ୍ତୁ"
 
-#: dolphinmainwindow.cpp:1433
+#: dolphinmainwindow.cpp:1435
 msgctxt "@action:inmenu Navigation Bar"
 msgid "Editable Location"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1438
+#: dolphinmainwindow.cpp:1440
 msgctxt "@action:inmenu Navigation Bar"
 msgid "Replace Location"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1449
+#: dolphinmainwindow.cpp:1451
 msgid "Recently Closed Tabs"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1472
+#: dolphinmainwindow.cpp:1474
 msgctxt "@action:inmenu Tools"
 msgid "Show Filter Bar"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1478
+#: dolphinmainwindow.cpp:1480
 msgctxt "@action:inmenu Tools"
 msgid "Compare Files"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1484
+#: dolphinmainwindow.cpp:1486
 msgctxt "@action:inmenu Tools"
 msgid "Open Terminal"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1503
+#: dolphinmainwindow.cpp:1505
 msgctxt "@action:inmenu"
 msgid "Activate Next Tab"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1508
+#: dolphinmainwindow.cpp:1510
 msgctxt "@action:inmenu"
 msgid "Activate Previous Tab"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1514
+#: dolphinmainwindow.cpp:1516
 msgctxt "@action:inmenu"
 msgid "Open in New Tab"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1519
+#: dolphinmainwindow.cpp:1521
 msgctxt "@action:inmenu"
 msgid "Open in New Window"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1527
+#: dolphinmainwindow.cpp:1529
 msgctxt "@title:window"
 msgid "Information"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1547
+#: dolphinmainwindow.cpp:1549
 msgctxt "@title:window"
 msgid "Folders"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1565
+#: dolphinmainwindow.cpp:1567
 msgctxt "@title:window Shell terminal"
 msgid "Terminal"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1592
+#: dolphinmainwindow.cpp:1594
 msgctxt "@title:window"
 msgid "Places"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1611
+#: dolphinmainwindow.cpp:1613
 msgctxt "@action:inmenu View"
 msgid "Panels"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1752
+#: dolphinmainwindow.cpp:1754
 msgctxt "@action:intoolbar Close right view"
 msgid "Close"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1753
+#: dolphinmainwindow.cpp:1755
 msgctxt "@info"
 msgid "Close right view"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1756
+#: dolphinmainwindow.cpp:1758
 msgctxt "@action:intoolbar Close left view"
 msgid "Close"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1757
+#: dolphinmainwindow.cpp:1759
 msgctxt "@info"
 msgid "Close left view"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1761
+#: dolphinmainwindow.cpp:1763
 msgctxt "@action:intoolbar Split view"
 msgid "Split"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1762
+#: dolphinmainwindow.cpp:1764
 msgctxt "@info"
 msgid "Split view"
 msgstr ""
