@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmshell\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-07-27 06:12+0200\n"
+"POT-Creation-Date: 2010-10-29 06:05+0200\n"
 "PO-Revision-Date: 2009-01-02 11:46+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -19,68 +19,74 @@ msgstr ""
 "\n"
 "\n"
 
-#: main.cpp:166
+#: main.cpp:168
 msgid "KDE Control Module"
 msgstr ""
 
-#: main.cpp:168
+#: main.cpp:170
 msgid "A tool to start single KDE control modules"
 msgstr ""
 
-#: main.cpp:170
+#: main.cpp:172
 msgid "(c) 1999-2004, The KDE Developers"
 msgstr ""
 
-#: main.cpp:172
+#: main.cpp:174
 msgid "Frans Englich"
 msgstr ""
 
-#: main.cpp:172
+#: main.cpp:174
 msgid "Maintainer"
 msgstr ""
 
-#: main.cpp:173
+#: main.cpp:175
 msgid "Daniel Molkentin"
 msgstr ""
 
-#: main.cpp:174
+#: main.cpp:176
 msgid "Matthias Hoelzer-Kluepfel"
 msgstr ""
 
-#: main.cpp:175
+#: main.cpp:177
 msgid "Matthias Elter"
 msgstr ""
 
-#: main.cpp:176
+#: main.cpp:178
 msgid "Matthias Ettrich"
 msgstr ""
 
-#: main.cpp:177
+#: main.cpp:179
 msgid "Waldo Bastian"
 msgstr ""
 
-#: main.cpp:182
+#: main.cpp:184
 msgid "List all possible modules"
 msgstr ""
 
-#: main.cpp:183
+#: main.cpp:185
 msgid "Configuration module to open"
 msgstr ""
 
-#: main.cpp:184
+#: main.cpp:186
 msgid "Specify a particular language"
 msgstr ""
 
-#: main.cpp:185
+#: main.cpp:187
 msgid "Do not display main window"
 msgstr ""
 
-#: main.cpp:198
+#: main.cpp:200
 msgid "The following modules are available:"
 msgstr ""
 
-#: main.cpp:217
+#: main.cpp:219
 msgid "No description available"
+msgstr ""
+
+#: main.cpp:251
+#, kde-format
+msgid ""
+"Could not find module '%1'. See kcmshell --list for the full list of modules."
 msgstr ""
 
 #: rc.cpp:1
