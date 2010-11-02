@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-11-01 06:13+0100\n"
+"POT-Creation-Date: 2010-11-02 07:17+0100\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -2728,18 +2728,23 @@ msgstr "ଚିତ୍ର ସଂକେତ ପରିବର୍ତ୍ତନ କରନ
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Miscellaneous Symbols"
+msgctxt ""
+"@title KCategorizedSortFilterProxyModel grouping for all Nepomukj resources "
+"that are of type rdfs:Resource"
 msgid "Miscellaneous"
 msgstr "ବିବିଧ ପ୍ରତୀକ"
 
 #: nepomuk/utils/resourcemodel.cpp:175
 #, fuzzy
 #| msgid "&Restore"
+msgctxt "@title:column The Nepomuk resource label and icon"
 msgid "Resource"
 msgstr "ପୁନଃସ୍ଥାପନ କରନ୍ତୁ (&R)"
 
 #: nepomuk/utils/resourcemodel.cpp:177
 #, fuzzy
 #| msgid "Service types"
+msgctxt "@title:column The Nepomuk resource's RDF type"
 msgid "Resource Type"
 msgstr "ସେବା ପ୍ରକାରଗୁଡିକ"
 
@@ -2824,7 +2829,7 @@ msgctxt ""
 msgid "Custom..."
 msgstr "ଇଚ୍ଛାରୂପ..."
 
-#: nepomuk/utils/dynamicresourcefacet.cpp:281
+#: nepomuk/utils/dynamicresourcefacet.cpp:247
 #, fuzzy
 #| msgid "Choose..."
 msgctxt ""

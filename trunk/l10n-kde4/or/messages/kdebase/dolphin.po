@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-10-30 06:12+0200\n"
+"POT-Creation-Date: 2010-11-02 07:13+0100\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1345,67 +1345,67 @@ msgctxt "@title:menu"
 msgid "Dolphin Toolbar"
 msgstr ""
 
-#: dolphinpart.cpp:164
+#: dolphinpart.cpp:166
 msgctxt "@action:inmenu Edit"
 msgid "&Edit File Type..."
 msgstr ""
 
-#: dolphinpart.cpp:168
+#: dolphinpart.cpp:170
 msgctxt "@action:inmenu Edit"
 msgid "Select Items Matching..."
 msgstr ""
 
-#: dolphinpart.cpp:173
+#: dolphinpart.cpp:175
 msgctxt "@action:inmenu Edit"
 msgid "Unselect Items Matching..."
 msgstr ""
 
-#: dolphinpart.cpp:179
+#: dolphinpart.cpp:181
 msgctxt "@action:inmenu Edit"
 msgid "Unselect All"
 msgstr ""
 
-#: dolphinpart.cpp:183 dolphinmainwindow.cpp:1443
+#: dolphinpart.cpp:185 dolphinmainwindow.cpp:1443
 msgctxt "@action:inmenu Edit"
 msgid "Invert Selection"
 msgstr ""
 
-#: dolphinpart.cpp:196
+#: dolphinpart.cpp:198
 msgctxt "@action:inmenu Go"
 msgid "App&lications"
 msgstr ""
 
-#: dolphinpart.cpp:199
+#: dolphinpart.cpp:201
 msgctxt "@action:inmenu Go"
 msgid "&Network Folders"
 msgstr ""
 
-#: dolphinpart.cpp:202
+#: dolphinpart.cpp:204
 msgctxt "@action:inmenu Go"
 msgid "Sett&ings"
 msgstr ""
 
-#: dolphinpart.cpp:205
+#: dolphinpart.cpp:207
 msgctxt "@action:inmenu Go"
 msgid "Trash"
 msgstr ""
 
-#: dolphinpart.cpp:208
+#: dolphinpart.cpp:210
 msgctxt "@action:inmenu Go"
 msgid "Autostart"
 msgstr ""
 
-#: dolphinpart.cpp:215
+#: dolphinpart.cpp:217
 msgctxt "@action:inmenu Tools"
 msgid "Open &Terminal"
 msgstr ""
 
-#: dolphinpart.cpp:285
+#: dolphinpart.cpp:287
 msgctxt "@title"
 msgid "Dolphin Part"
 msgstr ""
 
-#: dolphinpart.cpp:519
+#: dolphinpart.cpp:481
 #, fuzzy
 #| msgctxt "@action:inmenu"
 #| msgid "Delete"
@@ -1413,16 +1413,16 @@ msgctxt "@title:window"
 msgid "Select"
 msgstr "ଅପସାରଣ କରନ୍ତୁ"
 
-#: dolphinpart.cpp:520
+#: dolphinpart.cpp:482
 msgid "Select all items matching this pattern:"
 msgstr ""
 
-#: dolphinpart.cpp:526
+#: dolphinpart.cpp:488
 msgctxt "@title:window"
 msgid "Unselect"
 msgstr ""
 
-#: dolphinpart.cpp:527
+#: dolphinpart.cpp:489
 msgid "Unselect all items matching this pattern:"
 msgstr ""
 
@@ -1825,32 +1825,32 @@ msgctxt "@info"
 msgid "Split view"
 msgstr ""
 
-#: dolphinviewcontainer.cpp:334
+#: dolphinviewcontainer.cpp:345
 msgctxt "@info"
 msgid "Searching..."
 msgstr ""
 
-#: dolphinviewcontainer.cpp:342
+#: dolphinviewcontainer.cpp:353
 msgctxt "@info:progress"
 msgid "Loading folder..."
 msgstr "ଫୋଲଡ଼ର ଧାରଣ କରୁଅଛି..."
 
-#: dolphinviewcontainer.cpp:357
+#: dolphinviewcontainer.cpp:368
 msgctxt "@info:status"
 msgid "No items found."
 msgstr ""
 
-#: dolphinviewcontainer.cpp:463
+#: dolphinviewcontainer.cpp:462
 msgctxt "@info:status"
 msgid "Dolphin does not support web pages, the web browser has been launched"
 msgstr "Dolphin ୱେବ ପୃଷ୍ଟାଗୁଡ଼ିକୁ ସମର୍ଥନ କରେନାହିଁ, ୱେବ ବ୍ରାଉଜର ଆରମ୍ଭ ହୋଇଛି"
 
-#: dolphinviewcontainer.cpp:475
+#: dolphinviewcontainer.cpp:474
 msgctxt "@info:status"
 msgid "Protocol not supported by Dolphin, Konqueror has been launched"
 msgstr ""
 
-#: dolphinviewcontainer.cpp:482
+#: dolphinviewcontainer.cpp:481
 msgctxt "@info:status"
 msgid "Invalid protocol"
 msgstr "ଅବୈଧ ପ୍ରୋଟୋକଲ"
