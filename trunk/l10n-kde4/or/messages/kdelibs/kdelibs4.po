@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-11-02 07:17+0100\n"
+"POT-Creation-Date: 2010-11-03 06:22+0100\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -10792,7 +10792,20 @@ msgstr "ସ୍ୱୟଂ ଅନୁସନ୍ଧାନ"
 msgid "Desktop %1"
 msgstr "ଡେସ୍କଟପ %1"
 
-#: kdeui/xmlgui/ktoolbarhandler.cpp:98
+#: kdeui/xmlgui/ktoolbarhandler.cpp:120
+#, fuzzy
+#| msgctxt "@action"
+#| msgid "Show Toolbar"
+msgid "Show Toolbar"
+msgstr "ସାଧନପଟି ଦର୍ଶାନ୍ତୁ"
+
+#: kdeui/xmlgui/ktoolbarhandler.cpp:120
+#, fuzzy
+#| msgid "HTML Toolbar"
+msgid "Hide Toolbar"
+msgstr "HTML ସାଧନପଟି"
+
+#: kdeui/xmlgui/ktoolbarhandler.cpp:135
 #, fuzzy
 #| msgid "Toolbars"
 msgid "Toolbars Shown"

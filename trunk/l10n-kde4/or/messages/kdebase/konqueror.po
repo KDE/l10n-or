@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-10-28 06:07+0200\n"
+"POT-Creation-Date: 2010-11-03 06:20+0100\n"
 "PO-Revision-Date: 2008-12-26 16:53+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1263,13 +1263,6 @@ msgstr "ରୂପରେଖ ପୁନଃ ନାମକରଣ କରନ୍ତୁ (&
 msgid "&Delete Profile"
 msgstr "ରୂପରେଖ ଅପସାରଣ କରନ୍ତୁ (&D)"
 
-#: sidebar/test/modulemanagertest.cpp:89
-#: sidebar/test/modulemanagertest.cpp:115
-#, fuzzy
-#| msgid "Web SideBar Plugin"
-msgid "SideBar Test Plugin"
-msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି ପ୍ଲଗଇନ"
-
 #: sidebar/trees/dirtree_module/dirtree_module.cpp:417
 #, kde-format
 msgid "Cannot find parent item %1 in the tree. Internal error."
@@ -2396,6 +2389,11 @@ msgid ""
 "If true, when opening a session from within the sessions dialog the tabs "
 "will be opened inside current window."
 msgstr ""
+
+#, fuzzy
+#~| msgid "Web SideBar Plugin"
+#~ msgid "SideBar Test Plugin"
+#~ msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି ପ୍ଲଗଇନ"
 
 #~ msgid "Bookmark This Location"
 #~ msgstr "ଏହି ଅବସ୍ଥାନକୁ ଚିହ୍ନିତ କରନ୍ତୁ"
