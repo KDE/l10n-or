@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-11-09 06:36+0000\n"
+"POT-Creation-Date: 2010-11-10 05:44+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1435,11 +1435,6 @@ msgctxt "Comment"
 msgid "System Notification Configuration"
 msgstr "ତନ୍ତ୍ର ବିଜ୍ଞପ୍ତି ସଂରଚନା"
 
-#: runtime/kcontrol/locale/default/entry.desktop:2
-msgctxt "Name"
-msgid "US English"
-msgstr "US ଇଂରାଜୀ"
-
 #: runtime/kcontrol/locale/language.desktop:14
 msgctxt "Name"
 msgid "Country/Region & Language"
@@ -1964,7 +1959,7 @@ msgid "There was a serious error causing the program to exit"
 msgstr "ଗୋଟିଏ ଗମ୍ଭୀର ତ୍ରୁଟି ପ୍ରଗ୍ରାମକୁ ପ୍ରସ୍ଥାନ କରାଇଥାଏ"
 
 #: runtime/knotify/kde.notifyrc:866
-#: workspace/powerdevil/powerdevil.notifyrc:163
+#: workspace/powerdevil/powerdevil.notifyrc:165
 msgctxt "Name"
 msgid "Notification"
 msgstr "ବିଜ୍ଞପ୍ତି"
@@ -1976,7 +1971,7 @@ msgstr ""
 
 #: runtime/knotify/kde.notifyrc:1031
 #: workspace/freespacenotifier/freespacenotifier.notifyrc:106
-#: workspace/powerdevil/powerdevil.notifyrc:8
+#: workspace/powerdevil/powerdevil.notifyrc:10
 msgctxt "Name"
 msgid "Warning"
 msgstr "ଚେତାବନୀ"
@@ -2257,7 +2252,7 @@ msgctxt "Name"
 msgid "Baidu"
 msgstr ""
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/baidu.desktop:38
+#: runtime/kurifilter-plugins/ikws/searchproviders/baidu.desktop:39
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.dict.cc/?s=\\\\{@}"
@@ -2286,7 +2281,7 @@ msgctxt "Name"
 msgid "Bing"
 msgstr "ବେନିନ"
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/bing.desktop:39
+#: runtime/kurifilter-plugins/ikws/searchproviders/bing.desktop:40
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -3279,7 +3274,7 @@ msgctxt "Name"
 msgid "openDesktop.org"
 msgstr "ଡ଼େସ୍କଟପ"
 
-#: runtime/kurifilter-plugins/ikws/searchproviders/opendesktop.desktop:48
+#: runtime/kurifilter-plugins/ikws/searchproviders/opendesktop.desktop:49
 #, fuzzy
 #| msgctxt "Query"
 #| msgid ""
@@ -6870,7 +6865,7 @@ msgctxt "Name"
 msgid "Audio Output Device Changed"
 msgstr ""
 
-#: runtime/phonon/platform_kde/phonon.notifyrc:164
+#: runtime/phonon/platform_kde/phonon.notifyrc:165
 msgctxt "Comment"
 msgid "Notification when audio output device has automatically changed"
 msgstr ""
@@ -6893,7 +6888,7 @@ msgctxt "Name"
 msgid "Newspaper Layout"
 msgstr "ନେଟୱର୍କ ଏବଂ ସଂଯୋଜକତା"
 
-#: runtime/plasma/containments/newspaper/plasma-containment-newspaper.desktop:28
+#: runtime/plasma/containments/newspaper/plasma-containment-newspaper.desktop:29
 msgctxt "Comment"
 msgid "A layout that puts widgets into columns"
 msgstr ""
@@ -6929,7 +6924,7 @@ msgctxt "Name"
 msgid "Javascript Addon"
 msgstr "Java & JavaScript"
 
-#: runtime/plasma/scriptengines/javascript/data/plasma-packagestructure-javascript-addon.desktop:28
+#: runtime/plasma/scriptengines/javascript/data/plasma-packagestructure-javascript-addon.desktop:29
 msgctxt "Comment"
 msgid "Addons for Javascript Plasma plugins"
 msgstr ""
@@ -6939,7 +6934,7 @@ msgctxt "Name"
 msgid "Declarative widget"
 msgstr ""
 
-#: runtime/plasma/scriptengines/javascript/data/plasma-scriptengine-applet-declarative.desktop:20
+#: runtime/plasma/scriptengines/javascript/data/plasma-scriptengine-applet-declarative.desktop:21
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Native Plasma widget written in JavaScript"
@@ -7100,7 +7095,7 @@ msgid "Low Disk Space"
 msgstr ""
 
 #: workspace/freespacenotifier/freespacenotifier.notifyrc:190
-#: workspace/powerdevil/powerdevil.notifyrc:92
+#: workspace/powerdevil/powerdevil.notifyrc:94
 msgctxt "Comment"
 msgid "Used for warning notifications"
 msgstr "ଚେତାବନୀ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ ପାଇଁ ବ୍ୟବହୃତ ହୋଇଥାଏ"
@@ -7364,7 +7359,7 @@ msgctxt "Name"
 msgid "Cursor Theme"
 msgstr "ସୂଚକ ଫାଇଲଗୁଡ଼ିକ"
 
-#: workspace/kcontrol/input/cursortheme.desktop:36
+#: workspace/kcontrol/input/cursortheme.desktop:38
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Customize individual desktop theme items"
@@ -9761,7 +9756,7 @@ msgctxt "Name"
 msgid "Screenshot"
 msgstr "ପରଦା ସଂରକ୍ଷକ"
 
-#: workspace/kwin/effects/screenshot/screenshot.desktop:32
+#: workspace/kwin/effects/screenshot/screenshot.desktop:33
 msgctxt "Comment"
 msgid "Saves screenshot of active window into the home directory"
 msgstr ""
@@ -9885,7 +9880,7 @@ msgctxt "Name"
 msgid "Startup Feedback"
 msgstr ""
 
-#: workspace/kwin/effects/startupfeedback/startupfeedback.desktop:20
+#: workspace/kwin/effects/startupfeedback/startupfeedback.desktop:22
 msgctxt "Comment"
 msgid "Helper effect for startup feedback"
 msgstr ""
@@ -10979,7 +10974,7 @@ msgctxt "Comment"
 msgid "Default desktop toolbox for the Plasma desktop shell"
 msgstr ""
 
-#: workspace/plasma/desktop/shell/toolbox/plasma-toolbox-desktoptoolbox.desktop:25
+#: workspace/plasma/desktop/shell/toolbox/plasma-toolbox-desktoptoolbox.desktop:26
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Network Tool"
@@ -10992,7 +10987,7 @@ msgctxt "Comment"
 msgid "Default panel toolbox for the Plasma desktop shell"
 msgstr ""
 
-#: workspace/plasma/desktop/shell/toolbox/plasma-toolbox-paneltoolbox.desktop:25
+#: workspace/plasma/desktop/shell/toolbox/plasma-toolbox-paneltoolbox.desktop:26
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Network Tool"
@@ -11310,7 +11305,7 @@ msgctxt "Name"
 msgid "Activities Engine"
 msgstr "ସର୍ଭିସ ପରିଚାଳକ"
 
-#: workspace/plasma/generic/dataengines/activities/plasma-engine-activities.desktop:13
+#: workspace/plasma/generic/dataengines/activities/plasma-engine-activities.desktop:16
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Files and Directories"
@@ -11556,7 +11551,7 @@ msgctxt "Name"
 msgid "imagebin.ca"
 msgstr ""
 
-#: workspace/plasma/generic/dataengines/share/backends/imagebinca/metadata.desktop:28
+#: workspace/plasma/generic/dataengines/share/backends/imagebinca/metadata.desktop:29
 msgctxt "Comment"
 msgid "Enables the share of images using the imagebin.ca service"
 msgstr ""
@@ -11566,7 +11561,7 @@ msgctxt "Name"
 msgid "imageshack.us"
 msgstr ""
 
-#: workspace/plasma/generic/dataengines/share/backends/imageshack/metadata.desktop:27
+#: workspace/plasma/generic/dataengines/share/backends/imageshack/metadata.desktop:28
 msgctxt "Comment"
 msgid "Enables the share of images using the imageshack.us service"
 msgstr ""
@@ -11579,7 +11574,7 @@ msgctxt "Name"
 msgid "Imgur"
 msgstr "ପ୍ରତିଛବି"
 
-#: workspace/plasma/generic/dataengines/share/backends/imgur/metadata.desktop:25
+#: workspace/plasma/generic/dataengines/share/backends/imgur/metadata.desktop:26
 msgctxt "Comment"
 msgid "Enables the share of images using the imgur service"
 msgstr ""
@@ -11592,7 +11587,7 @@ msgctxt "Name"
 msgid "pastebin.ca"
 msgstr "ପଜ"
 
-#: workspace/plasma/generic/dataengines/share/backends/pastebinca/metadata.desktop:21
+#: workspace/plasma/generic/dataengines/share/backends/pastebinca/metadata.desktop:23
 msgctxt "Comment"
 msgid "Enables the share of text using pastebin.ca service"
 msgstr ""
@@ -11602,7 +11597,7 @@ msgctxt "Name"
 msgid "pastebin.com"
 msgstr ""
 
-#: workspace/plasma/generic/dataengines/share/backends/pastebincom/metadata.desktop:27
+#: workspace/plasma/generic/dataengines/share/backends/pastebincom/metadata.desktop:28
 msgctxt "Comment"
 msgid "Enables the share of text using pastebin.com service"
 msgstr ""
@@ -11612,7 +11607,7 @@ msgctxt "Name"
 msgid "paste.opensuse.org"
 msgstr ""
 
-#: workspace/plasma/generic/dataengines/share/backends/pasteopensuseorg/metadata.desktop:27
+#: workspace/plasma/generic/dataengines/share/backends/pasteopensuseorg/metadata.desktop:28
 msgctxt "Comment"
 msgid "Paste text with openSUSE"
 msgstr ""
@@ -11627,7 +11622,7 @@ msgctxt "Name"
 msgid "privatepaste.com"
 msgstr ""
 
-#: workspace/plasma/generic/dataengines/share/backends/privatepaste/metadata.desktop:26
+#: workspace/plasma/generic/dataengines/share/backends/privatepaste/metadata.desktop:27
 msgctxt "Comment"
 msgid "Paste text with the PrivatePaste.com service"
 msgstr ""
@@ -11637,7 +11632,7 @@ msgctxt "Name"
 msgid "Simplest Image Hosting"
 msgstr ""
 
-#: workspace/plasma/generic/dataengines/share/backends/simplestimagehosting/metadata.desktop:23
+#: workspace/plasma/generic/dataengines/share/backends/simplestimagehosting/metadata.desktop:24
 msgctxt "Comment"
 msgid "Enables the share of images using the Simplest Image Hosting service"
 msgstr ""
@@ -11647,7 +11642,7 @@ msgctxt "Name"
 msgid "wklej.org"
 msgstr ""
 
-#: workspace/plasma/generic/dataengines/share/backends/wklej/metadata.desktop:26
+#: workspace/plasma/generic/dataengines/share/backends/wklej/metadata.desktop:27
 msgctxt "Comment"
 msgid "Enables the share of text using wklej.org service"
 msgstr ""
@@ -11657,7 +11652,7 @@ msgctxt "Name"
 msgid "wstaw.org"
 msgstr ""
 
-#: workspace/plasma/generic/dataengines/share/backends/wstaw/metadata.desktop:27
+#: workspace/plasma/generic/dataengines/share/backends/wstaw/metadata.desktop:28
 msgctxt "Comment"
 msgid "Enables the share of images using the wstaw.org service"
 msgstr ""
@@ -11670,7 +11665,7 @@ msgctxt "Name"
 msgid "Share Services"
 msgstr "ସର୍ଭିସଗୁଡ଼ିକ"
 
-#: workspace/plasma/generic/dataengines/share/data/plasma-dataengine-share.desktop:23
+#: workspace/plasma/generic/dataengines/share/data/plasma-dataengine-share.desktop:24
 msgctxt "Comment"
 msgid "Engine to share content using different services"
 msgstr ""
@@ -11683,7 +11678,7 @@ msgctxt "Name"
 msgid "ShareProvider"
 msgstr "ସର୍ଭିସଗୁଡ଼ିକ"
 
-#: workspace/plasma/generic/dataengines/share/data/plasma-packagestructure-share.desktop:18
+#: workspace/plasma/generic/dataengines/share/data/plasma-packagestructure-share.desktop:20
 msgctxt "Comment"
 msgid "Share Package Structure"
 msgstr ""
@@ -12137,7 +12132,7 @@ msgctxt "Name"
 msgid "Search and Launch"
 msgstr "ସନ୍ଧାନ ଯନ୍ତ୍ର"
 
-#: workspace/plasma/netbook/containments/sal/plasma-containment-sal.desktop:24
+#: workspace/plasma/netbook/containments/sal/plasma-containment-sal.desktop:25
 msgctxt "Comment"
 msgid "Full screen application launcher with search interface"
 msgstr ""
@@ -12286,7 +12281,7 @@ msgctxt "Comment"
 msgid "Default toolbox for the netbook shell"
 msgstr ""
 
-#: workspace/plasma/netbook/shell/nettoolbox/plasma-toolbox-nettoolbox.desktop:23
+#: workspace/plasma/netbook/shell/nettoolbox/plasma-toolbox-nettoolbox.desktop:24
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Network Tool"
@@ -12307,7 +12302,7 @@ msgctxt "Name"
 msgid "Display Brightness"
 msgstr "ପ୍ରଦର୍ଶକ ସଂରଚନା"
 
-#: workspace/powerdevil/daemon/actions/bundled/powerdevilbrightnesscontrolaction.desktop:27
+#: workspace/powerdevil/daemon/actions/bundled/powerdevilbrightnesscontrolaction.desktop:28
 msgctxt "Comment"
 msgid "Basic Controls for brightness"
 msgstr ""
@@ -12320,7 +12315,7 @@ msgctxt "Name"
 msgid "Dim Display"
 msgstr "ପ୍ରଦର୍ଶକ"
 
-#: workspace/powerdevil/daemon/actions/bundled/powerdevildimdisplayaction.desktop:26
+#: workspace/powerdevil/daemon/actions/bundled/powerdevildimdisplayaction.desktop:28
 msgctxt "Comment"
 msgid "Dims gradually the display on a time basis"
 msgstr ""
@@ -12333,7 +12328,7 @@ msgctxt "Name"
 msgid "Disable Desktop Effects"
 msgstr "Google ଡ଼େସ୍କଟପ ମେସିନଗୁଡ଼ିକ"
 
-#: workspace/powerdevil/daemon/actions/bundled/powerdevildisabledesktopeffectsaction.desktop:25
+#: workspace/powerdevil/daemon/actions/bundled/powerdevildisabledesktopeffectsaction.desktop:27
 msgctxt "Comment"
 msgid "Temporary disables KWin's desktop effects"
 msgstr ""
@@ -12343,7 +12338,7 @@ msgctxt "Name"
 msgid "Button events handling"
 msgstr ""
 
-#: workspace/powerdevil/daemon/actions/bundled/powerdevilhandlebuttoneventsaction.desktop:25
+#: workspace/powerdevil/daemon/actions/bundled/powerdevilhandlebuttoneventsaction.desktop:26
 msgctxt "Comment"
 msgid "Performs an action whenever a button is pressed"
 msgstr ""
@@ -12356,7 +12351,7 @@ msgctxt "Name"
 msgid "Run Script"
 msgstr "CGI ସ୍କ୍ରିପ୍ଟଗୁଡ଼ିକ"
 
-#: workspace/powerdevil/daemon/actions/bundled/powerdevilrunscriptaction.desktop:26
+#: workspace/powerdevil/daemon/actions/bundled/powerdevilrunscriptaction.desktop:28
 msgctxt "Comment"
 msgid "Runs a custom script"
 msgstr ""
@@ -12369,7 +12364,7 @@ msgctxt "Name"
 msgid "Suspend Session"
 msgstr "ଡ଼େସ୍କଟପ ଅଧିବେଶନଗୁଡ଼ିକ"
 
-#: workspace/powerdevil/daemon/actions/bundled/powerdevilsuspendsessionaction.desktop:26
+#: workspace/powerdevil/daemon/actions/bundled/powerdevilsuspendsessionaction.desktop:28
 msgctxt "Comment"
 msgid "Suspends the session"
 msgstr ""
@@ -12382,7 +12377,7 @@ msgctxt "Name"
 msgid "Screen Energy Saving"
 msgstr "ପରଦା ସଂରକ୍ଷକ ବିନ୍ୟାସ"
 
-#: workspace/powerdevil/daemon/actions/dpms/powerdevildpmsaction.desktop:26
+#: workspace/powerdevil/daemon/actions/dpms/powerdevildpmsaction.desktop:27
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Font settings"
@@ -12406,7 +12401,7 @@ msgctxt "Name"
 msgid "HAL PowerDevil Backend"
 msgstr "PowerDevil"
 
-#: workspace/powerdevil/daemon/backends/hal/powerdevilhalbackend.desktop:26
+#: workspace/powerdevil/daemon/backends/hal/powerdevilhalbackend.desktop:28
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Hardware power management using freedesktop.org HAL daemon"
@@ -12422,7 +12417,7 @@ msgctxt "Name"
 msgid "UPower PowerDevil Backend"
 msgstr "PowerDevil"
 
-#: workspace/powerdevil/daemon/backends/upower/powerdevilupowerbackend.desktop:26
+#: workspace/powerdevil/daemon/backends/upower/powerdevilupowerbackend.desktop:28
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Hardware power management using freedesktop.org HAL daemon"
@@ -12449,7 +12444,7 @@ msgctxt "Name"
 msgid "Global settings"
 msgstr "ରଙ୍ଗ ସଂରଚନା"
 
-#: workspace/powerdevil/kcmodule/global/powerdevilglobalconfig.desktop:34
+#: workspace/powerdevil/kcmodule/global/powerdevilglobalconfig.desktop:35
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -12465,7 +12460,7 @@ msgctxt "Name"
 msgid "Power Profiles"
 msgstr "ଶକ୍ତି ନିୟନ୍ତ୍ରଣ"
 
-#: workspace/powerdevil/kcmodule/profiles/powerdevilprofilesconfig.desktop:35
+#: workspace/powerdevil/kcmodule/profiles/powerdevilprofilesconfig.desktop:37
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -12481,7 +12476,7 @@ msgctxt "Name"
 msgid "KDE Power Management System"
 msgstr "ଶକ୍ତି ପରିଚାଳନା"
 
-#: workspace/powerdevil/powerdevil.notifyrc:4
+#: workspace/powerdevil/powerdevil.notifyrc:5
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Settings for display power management"
@@ -12489,47 +12484,47 @@ msgctxt "Comment"
 msgid "Notifications for KDE Power Management system"
 msgstr "ପ୍ରଦର୍ଶକ ଶକ୍ତି ପରିଚାଳନା ପାଇଁ ସଂରଚନା"
 
-#: workspace/powerdevil/powerdevil.notifyrc:246
+#: workspace/powerdevil/powerdevil.notifyrc:248
 msgctxt "Comment"
 msgid "Used for standard notifications"
 msgstr "ମାନକ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ ପାଇଁ ବ୍ୟବହୃତ ହୋଇଥାଏ"
 
-#: workspace/powerdevil/powerdevil.notifyrc:319
+#: workspace/powerdevil/powerdevil.notifyrc:321
 msgctxt "Name"
 msgid "Critical notification"
 msgstr "ଗମ୍ଭୀର ବିଜ୍ଞପ୍ତି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:392
+#: workspace/powerdevil/powerdevil.notifyrc:394
 msgctxt "Comment"
 msgid "Notifies a critical event"
 msgstr "ଗୋଟିଏ ଗମ୍ଭୀର ସ୍ଥିତିକୁ ଜଣାଇଥାଏ"
 
-#: workspace/powerdevil/powerdevil.notifyrc:466
+#: workspace/powerdevil/powerdevil.notifyrc:468
 msgctxt "Name"
 msgid "Low Battery"
 msgstr "ବ୍ୟାଟେରୀ ଶକ୍ତି କମ ଅଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:537
+#: workspace/powerdevil/powerdevil.notifyrc:539
 msgctxt "Comment"
 msgid "Your battery has reached low level"
 msgstr "ଆପଣଙ୍କର ବ୍ୟାଟେରୀ ନିମ୍ନ ସ୍ତରରେ ପହଞ୍ଚିଯାଇଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:616
+#: workspace/powerdevil/powerdevil.notifyrc:618
 msgctxt "Name"
 msgid "Battery at warning level"
 msgstr "ବ୍ୟାଟେରୀ ଚେତାବନୀ ସ୍ତର ପହଞ୍ଚିଯାଇଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:689
+#: workspace/powerdevil/powerdevil.notifyrc:691
 msgctxt "Comment"
 msgid "Your battery has reached warning level"
 msgstr "ଆପଣଙ୍କର ବ୍ୟାଟେରୀ ଚେତାବନୀ ସ୍ତର ପହଞ୍ଚିଯାଇଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:768
+#: workspace/powerdevil/powerdevil.notifyrc:770
 msgctxt "Name"
 msgid "Battery at critical level"
 msgstr "ବ୍ୟାଟେରି ଗମ୍ଭୀର ସ୍ଥିତିରେ ଅଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:841
+#: workspace/powerdevil/powerdevil.notifyrc:843
 msgctxt "Comment"
 msgid ""
 "Your battery has reached critical level. This notification triggers a "
@@ -12537,59 +12532,59 @@ msgid ""
 "to leave that on."
 msgstr ""
 
-#: workspace/powerdevil/powerdevil.notifyrc:912
+#: workspace/powerdevil/powerdevil.notifyrc:914
 msgctxt "Name"
 msgid "AC adaptor plugged in"
 msgstr "AC ଏଡ଼ପଟର ପ୍ଲଗ ହୋଇଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:985
+#: workspace/powerdevil/powerdevil.notifyrc:987
 msgctxt "Comment"
 msgid "The power adaptor has been plugged in"
 msgstr "ଶକ୍ତି ଏଡ଼ପଟରକୁ ପ୍ଲଗରେ ଲଗାହୋଇଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1064
+#: workspace/powerdevil/powerdevil.notifyrc:1066
 msgctxt "Name"
 msgid "AC adaptor unplugged"
 msgstr "AC ଏଡ଼ପଟର ପ୍ଲଗ ହୋଇନାହିଁ"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1137
+#: workspace/powerdevil/powerdevil.notifyrc:1139
 msgctxt "Comment"
 msgid "The power adaptor has been unplugged"
 msgstr "ଶକ୍ତି ଏଡ଼ପଟରଟି ପ୍ଲଗ ହୋଇନାହିଁ"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1216
+#: workspace/powerdevil/powerdevil.notifyrc:1218
 msgctxt "Name"
 msgid "Job error"
 msgstr "କାର୍ଯ୍ୟ ତ୍ରୁଟି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1289
+#: workspace/powerdevil/powerdevil.notifyrc:1291
 msgctxt "Comment"
 msgid "There was an error while performing a job"
 msgstr "କାର୍ଯ୍ୟ କରିବା ସମୟରେ ଗୋଟିଏ ତ୍ରୁଟି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1364
+#: workspace/powerdevil/powerdevil.notifyrc:1366
 msgctxt "Name"
 msgid "Profile Changed"
 msgstr "ରୂପରେଖଟି ପରିବର୍ତ୍ତିତ ହୋଇଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1437
+#: workspace/powerdevil/powerdevil.notifyrc:1439
 msgctxt "Comment"
 msgid "The profile was changed"
 msgstr "ରୂପରେଖଟି ପରିବର୍ତ୍ତିତ ହୋଇଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1515
+#: workspace/powerdevil/powerdevil.notifyrc:1517
 msgctxt "Name"
 msgid "Performing a suspension job"
 msgstr "ଗୋଟିଏ ନିଲମ୍ବିତ କାର୍ଯ୍ୟ କରୁଅଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1584
+#: workspace/powerdevil/powerdevil.notifyrc:1586
 msgctxt "Comment"
 msgid ""
 "This notification is displayed when a suspension job is about to be done, "
 "and it triggers a countdown. Hence, it is strongly advised to leave it on."
 msgstr ""
 
-#: workspace/powerdevil/powerdevil.notifyrc:1651
+#: workspace/powerdevil/powerdevil.notifyrc:1653
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Internal PowerDevil Error"
@@ -12597,7 +12592,7 @@ msgctxt "Name"
 msgid "Internal KDE Power Management System Error"
 msgstr "ଆଭ୍ୟନ୍ତରୀଣ PowerDevil ତ୍ରୁଟି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1652
+#: workspace/powerdevil/powerdevil.notifyrc:1655
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "PowerDevil has triggered an internal error"
@@ -12605,12 +12600,12 @@ msgctxt "Comment"
 msgid "The KDE Power Management System has triggered an internal error"
 msgstr "PowerDevil ଗୋଟିଏ ଆଭ୍ୟନ୍ତରୀଣ ତ୍ରୁଟିକୁ ଆରମ୍ଭ କରିଛି"
 
-#: workspace/powerdevil/powerdevil.notifyrc:1658
+#: workspace/powerdevil/powerdevil.notifyrc:1662
 msgctxt "Name"
 msgid "Suspension inhibited"
 msgstr ""
 
-#: workspace/powerdevil/powerdevil.notifyrc:1724
+#: workspace/powerdevil/powerdevil.notifyrc:1728
 msgctxt "Comment"
 msgid "The suspension has been inhibited because an application requested it"
 msgstr ""
@@ -12659,7 +12654,7 @@ msgctxt "Name"
 msgid "ModemManager 0.4"
 msgstr "ନେଟୱର୍କ ପରିଚାଳକ 0.7"
 
-#: workspace/solid/modemmanager-0.4/solid_modemmanager04.desktop:40
+#: workspace/solid/modemmanager-0.4/solid_modemmanager04.desktop:41
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Network management using the NetworkManager daemon, version 0.7"
@@ -13416,6 +13411,10 @@ msgstr ""
 msgctxt "Name"
 msgid "Red Leaf"
 msgstr "Red Leaf"
+
+#~ msgctxt "Name"
+#~ msgid "US English"
+#~ msgstr "US ଇଂରାଜୀ"
 
 #, fuzzy
 #~| msgctxt "Name"
