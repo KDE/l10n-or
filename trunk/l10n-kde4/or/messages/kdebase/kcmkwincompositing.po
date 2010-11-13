@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmkwincompositing\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-11-12 06:33+0100\n"
+"POT-Creation-Date: 2010-11-13 06:25+0100\n"
 "PO-Revision-Date: 2009-01-02 11:45+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -45,33 +45,37 @@ msgid ""
 "They will be automatically reverted in 10 seconds."
 msgstr ""
 
-#: main.cpp:165
+#: main.cpp:88
+msgid "Use GLSL shaders"
+msgstr ""
+
+#: main.cpp:168
 msgid ""
 "Desktop effects are not available on this system due to the following "
 "technical issues:"
 msgstr ""
 
-#: main.cpp:175
+#: main.cpp:178
 msgid "kcmkwincompositing"
 msgstr ""
 
-#: main.cpp:176
+#: main.cpp:179
 msgid "KWin Desktop Effects Configuration Module"
 msgstr ""
 
-#: main.cpp:177
+#: main.cpp:180
 msgid "(c) 2007 Rivo Laks"
 msgstr ""
 
-#: main.cpp:178
+#: main.cpp:181
 msgid "Rivo Laks"
 msgstr ""
 
-#: main.cpp:209 main.cpp:215
+#: main.cpp:212 main.cpp:218
 msgid "No Effect"
 msgstr ""
 
-#: main.cpp:247
+#: main.cpp:250
 msgid ""
 "Failed to activate desktop effects using the given configuration options. "
 "Settings will be reverted to their previous values.\n"
@@ -80,59 +84,59 @@ msgid ""
 "especially changing the compositing type."
 msgstr ""
 
-#: main.cpp:290
+#: main.cpp:293
 msgid "Appearance"
 msgstr ""
 
-#: main.cpp:291
+#: main.cpp:294
 msgid "Accessibility"
 msgstr ""
 
-#: main.cpp:292
+#: main.cpp:295
 msgid "Focus"
 msgstr ""
 
-#: main.cpp:293
+#: main.cpp:296
 msgid "Window Management"
 msgstr ""
 
-#: main.cpp:294
+#: main.cpp:297
 msgid "Candy"
 msgstr ""
 
-#: main.cpp:295
+#: main.cpp:298
 msgid "Demos"
 msgstr ""
 
-#: main.cpp:296
+#: main.cpp:299
 msgid "Tests"
 msgstr ""
 
-#: main.cpp:297
+#: main.cpp:300
 msgid "Tools"
 msgstr ""
 
-#: main.cpp:394
+#: main.cpp:397
 msgid "Desktop effects are active"
 msgstr ""
 
-#: main.cpp:395
+#: main.cpp:398
 msgid "Suspend Desktop Effects"
 msgstr ""
 
-#: main.cpp:400
+#: main.cpp:403
 msgid "Desktop effects are temporarily disabled"
 msgstr ""
 
-#: main.cpp:401 main.cpp:409
+#: main.cpp:404 main.cpp:412
 msgid "Resume Desktop Effects"
 msgstr ""
 
-#: main.cpp:408
+#: main.cpp:411
 msgid "Desktop effects are disabled"
 msgstr ""
 
-#: main.cpp:677
+#: main.cpp:680
 msgid ""
 "Your settings have been saved but as KDE is currently running in failsafe "
 "mode desktop effects cannot be enabled at this time.\n"
@@ -140,11 +144,11 @@ msgid ""
 "Please exit failsafe mode to enable desktop effects."
 msgstr ""
 
-#: main.cpp:718
+#: main.cpp:721
 msgid "The following desktop effects could not be activated:"
 msgstr ""
 
-#: main.cpp:781
+#: main.cpp:784
 msgid "<h1>Desktop Effects</h1>"
 msgstr ""
 
