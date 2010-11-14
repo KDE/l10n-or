@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-11-11 06:13+0100\n"
+"POT-Creation-Date: 2010-11-14 06:29+0100\n"
 "PO-Revision-Date: 2008-12-26 16:53+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -943,7 +943,7 @@ msgstr ""
 
 #: src/konqfactory.cpp:228 about/konq_aboutpage.cc:80
 #: about/konq_aboutpage.cc:136 about/konq_aboutpage.cc:190
-#: about/konq_aboutpage.cc:287
+#: about/konq_aboutpage.cc:288
 msgid "Konqueror"
 msgstr "Konqueror"
 
@@ -1577,18 +1577,18 @@ msgstr ""
 #: about/konq_aboutpage.cc:79 about/konq_aboutpage.cc:81
 #: about/konq_aboutpage.cc:135 about/konq_aboutpage.cc:137
 #: about/konq_aboutpage.cc:189 about/konq_aboutpage.cc:191
-#: about/konq_aboutpage.cc:286 about/konq_aboutpage.cc:288
+#: about/konq_aboutpage.cc:287 about/konq_aboutpage.cc:289
 msgctxt "KDE 4 tag line, see http://kde.org/img/kde40.png"
 msgid "Be free."
 msgstr "ମୁକ୍ତ ହୁଅନ୍ତୁ।"
 
 #: about/konq_aboutpage.cc:82 about/konq_aboutpage.cc:138
-#: about/konq_aboutpage.cc:192 about/konq_aboutpage.cc:289
+#: about/konq_aboutpage.cc:192 about/konq_aboutpage.cc:290
 msgid "Konqueror is a web browser, file manager and universal document viewer."
 msgstr "Konqueror ଗୋଟିଏ ୱେବ ବ୍ରାଉଜର, ପାଇଲ ପରିଚାଳକ ଏବଂ ଜାାଗତିକ ଦଲି ପ୍ରଦର୍ଶକ।."
 
 #: about/konq_aboutpage.cc:83 about/konq_aboutpage.cc:139
-#: about/konq_aboutpage.cc:193 about/konq_aboutpage.cc:290
+#: about/konq_aboutpage.cc:193 about/konq_aboutpage.cc:291
 msgctxt ""
 "Link that points to the first page of the Konqueror 'about page', Starting "
 "Points contains links to Home, Network Folders, Trash, etc."
@@ -1596,18 +1596,18 @@ msgid "Starting Points"
 msgstr "ଆରମ୍ଭ ସ୍ଥଳ"
 
 #: about/konq_aboutpage.cc:84 about/konq_aboutpage.cc:140
-#: about/konq_aboutpage.cc:194 about/konq_aboutpage.cc:291
+#: about/konq_aboutpage.cc:194 about/konq_aboutpage.cc:292
 msgid "Introduction"
 msgstr "ପରିଚୟ"
 
 #: about/konq_aboutpage.cc:85 about/konq_aboutpage.cc:141
-#: about/konq_aboutpage.cc:195 about/konq_aboutpage.cc:292
+#: about/konq_aboutpage.cc:195 about/konq_aboutpage.cc:293
 msgid "Tips"
 msgstr "ପ୍ରାକ ସୂଚନା"
 
 #: about/konq_aboutpage.cc:86 about/konq_aboutpage.cc:142
 #: about/konq_aboutpage.cc:196 about/konq_aboutpage.cc:197
-#: about/konq_aboutpage.cc:293
+#: about/konq_aboutpage.cc:294
 msgid "Specifications"
 msgstr "ନିର୍ଦ୍ଦିଷ୍ଟକ ସୂଚନା"
 
@@ -1731,8 +1731,8 @@ msgstr ""
 "ଆଧାରିତ"
 
 #: about/konq_aboutpage.cc:210 about/konq_aboutpage.cc:212
-#: about/konq_aboutpage.cc:224 about/konq_aboutpage.cc:229
-#: about/konq_aboutpage.cc:231
+#: about/konq_aboutpage.cc:225 about/konq_aboutpage.cc:230
+#: about/konq_aboutpage.cc:232
 msgid "built-in"
 msgstr "ସୁ-ନିର୍ମିତ"
 
@@ -1746,7 +1746,7 @@ msgstr "<A HREF=\"%1\">ଶୈଳୀ ପତ୍ରକୁ ଥାକ ଥାକ କ�
 msgid "<A HREF=\"%1\">ECMA-262</A> Edition 3 (roughly equals JavaScript 1.5)"
 msgstr "<A HREF=\"%1\">ECMA-262</A> ପ୍ରକାଶନ 3 (JavaScript 1.5 ସହିତ ପାଖାପାଖି ସମାନ)"
 
-#: about/konq_aboutpage.cc:214
+#: about/konq_aboutpage.cc:215
 #, kde-format
 msgid ""
 "JavaScript disabled (globally). Enable JavaScript <A HREF=\"%1\">here</A>."
@@ -1754,7 +1754,7 @@ msgstr ""
 "JavaScript ନିଷ୍କ୍ରିୟ ଅଛି (ସାମଗ୍ରିକ ଭାବେ)। JavaScript <A HREF=\"%1\">କୁ ଏଠାରେ ସକ୍ରିୟ "
 "କରନ୍ତୁ</A>।"
 
-#: about/konq_aboutpage.cc:215
+#: about/konq_aboutpage.cc:216
 #, kde-format
 msgid ""
 "JavaScript enabled (globally). Configure JavaScript <A HREF=\\\"%1\\\">here</"
@@ -1763,26 +1763,29 @@ msgstr ""
 "JavaScript ସକ୍ରିୟ ହୋଇଛି (ସାମଗ୍ରିକ ଭାବେ)। JavaScript <A HREF=\\\"%1\\\">କୁ ଏଠାରେ "
 "ବିନ୍ୟାସ କରନ୍ତୁ</A>।"
 
-#: about/konq_aboutpage.cc:216
+#: about/konq_aboutpage.cc:217
 #, kde-format
 msgid "Secure <A HREF=\"%1\">Java</A><SUP>&reg;</SUP> support"
 msgstr "ସୁରକ୍ଷିତ <A HREF=\"%1\">Java</A><SUP>&reg;</SUP> ସମର୍ଥନ"
 
-#: about/konq_aboutpage.cc:217
-#, kde-format
+#: about/konq_aboutpage.cc:218
+#, fuzzy, kde-format
+#| msgid ""
+#| "JDK 1.2.0 (Java 2) compatible VM (<A HREF=\"%1\">Blackdown</A>, <A HREF="
+#| "\"%2\">IBM</A> or <A HREF=\"%3\">Sun</A>)"
 msgid ""
-"JDK 1.2.0 (Java 2) compatible VM (<A HREF=\"%1\">Blackdown</A>, <A HREF=\"%2"
-"\">IBM</A> or <A HREF=\"%3\">Sun</A>)"
+"JDK 1.2.0 (Java 2) compatible VM (<A HREF=\"%1\">IBM</A> or <A HREF=\"%2"
+"\">Sun/Oracle</A>)"
 msgstr ""
 "JDK 1.2.0 (Java 2) ସୁସଂଗତ VM (<A HREF=\"%1\">Blackdown</A>, <A HREF=\"%2"
 "\">IBM</A> କିମ୍ବା <A HREF=\"%3\">Sun</A>)"
 
-#: about/konq_aboutpage.cc:219
+#: about/konq_aboutpage.cc:220
 #, kde-format
 msgid "Enable Java (globally) <A HREF=\"%1\">here</A>."
 msgstr "Javaକୁ (ସାମଗ୍ରିକ ଭାବେ) <A HREF=\"%1\">ଏଠାରେ ସକ୍ରିୟ କରନ୍ତୁ</A>।"
 
-#: about/konq_aboutpage.cc:220
+#: about/konq_aboutpage.cc:221
 #, kde-format
 msgid ""
 "Netscape Communicator<SUP>&reg;</SUP> <A HREF=\"%4\">plugins</A> (for "
@@ -1794,86 +1797,87 @@ msgstr ""
 "HREF=\"%1\">ଫ୍ଲାଶ<SUP>&reg;</SUP></A>, <A HREF=\"%2\">ପ୍ରକୃତ<SUP>&reg;</SUP></"
 "A>ଧ୍ୱନୀ, <A HREF=\"%3\">ପ୍ରକୃତ<SUP>&reg;</SUP></A>ଭିଡ଼ିଓ, ଇତ୍ୟାଦି।)"
 
-#: about/konq_aboutpage.cc:225
+#: about/konq_aboutpage.cc:226
 msgid "Secure Sockets Layer"
 msgstr "ସୁରକ୍ଷିତ ସକେଟ ସ୍ତର"
 
-#: about/konq_aboutpage.cc:226
+#: about/konq_aboutpage.cc:227
 msgid "(TLS/SSL v2/3) for secure communications up to 168bit"
 msgstr "(TLS/SSL v2/3) 168ବିଟ ପାଇଁ ସୁରକ୍ଷିତ ସଞ୍ଚାର ମାଧ୍ଯମ"
 
-#: about/konq_aboutpage.cc:227
+#: about/konq_aboutpage.cc:228
 msgid "OpenSSL"
 msgstr "OpenSSL"
 
-#: about/konq_aboutpage.cc:228
+#: about/konq_aboutpage.cc:229
 msgid "Bidirectional 16bit unicode support"
 msgstr "ଦ୍ୱିମୁଖି 16 ବିଟ ୟୁନିକୋର୍ଡ଼ ସମର୍ଥନ"
 
-#: about/konq_aboutpage.cc:230
+#: about/konq_aboutpage.cc:231
 msgid "AutoCompletion for forms"
 msgstr "ଫର୍ମଗୁଡ଼ିକର ସ୍ୱୟଂ ସମ୍ପୂର୍ଣ୍ଣତା"
 
-#: about/konq_aboutpage.cc:232
+#: about/konq_aboutpage.cc:233
 msgctxt "Title of an html 'group box' explaining konqueror features"
 msgid "General"
 msgstr "ସାଧାରଣ"
 
-#: about/konq_aboutpage.cc:233
+#: about/konq_aboutpage.cc:234
 msgid "Feature"
 msgstr "ବିଶେଷ ଗୁଣ"
 
 #. i18n: file: sidebar/history_module/history_dlg.ui:128
 #. i18n: ectx: property (title), widget (QGroupBox, gbDetails)
-#: about/konq_aboutpage.cc:234 rc.cpp:92
+#: about/konq_aboutpage.cc:235 rc.cpp:92
 msgid "Details"
 msgstr "ବିବରଣୀ"
 
-#: about/konq_aboutpage.cc:235
+#: about/konq_aboutpage.cc:236
 msgid "Image formats"
 msgstr "ପ୍ରତିଛବି ଶୈଳୀ"
 
-#: about/konq_aboutpage.cc:236
+#: about/konq_aboutpage.cc:237
 #, fuzzy
 #| msgid "PNG<br />MNG<br />JPG<br />GIF"
 msgid "PNG<br />JPG<br />GIF"
 msgstr "PNG<br />MNG<br />JPG<br />GIF"
 
-#: about/konq_aboutpage.cc:237
+#: about/konq_aboutpage.cc:238
 msgid "Transfer protocols"
 msgstr "ସ୍ଥାନାନ୍ତରଣ ପ୍ରୋଟୋକଲ"
 
-#: about/konq_aboutpage.cc:238
+#: about/konq_aboutpage.cc:239
 msgid "HTTP 1.1 (including gzip/bzip2 compression)"
 msgstr "HTTP 1.1 (gzip/bzip2 ସଙ୍କୋଚନକୁ ଅନ୍ତର୍ଭୁକ୍ତ କରି)"
 
-#: about/konq_aboutpage.cc:239
+#: about/konq_aboutpage.cc:240
 msgid "FTP"
 msgstr "FTP"
 
-#: about/konq_aboutpage.cc:240
-#, kde-format
-msgid "and <A HREF=\"%1\">many more...</A>"
+#: about/konq_aboutpage.cc:241
+#, fuzzy, kde-format
+#| msgid "and <A HREF=\"%1\">many more...</A>"
+msgid "and <A HREF=\"%1\">many more (see Kioslaves in KHelpcenter)...</A>"
 msgstr "ଏବଂ <A HREF=\"%1\">ଅନେକ...</A>"
 
-#: about/konq_aboutpage.cc:241
+#: about/konq_aboutpage.cc:242
 msgctxt "A feature of Konqueror"
 msgid "URL-Completion"
 msgstr "URL-ସମ୍ପୂର୍ଣ୍ଣତା"
 
-#: about/konq_aboutpage.cc:242
+#: about/konq_aboutpage.cc:243
 msgid "Manual"
 msgstr "ହାତରେ"
 
-#: about/konq_aboutpage.cc:243
+#: about/konq_aboutpage.cc:244
 msgid "Popup"
 msgstr "ପପଅପ"
 
-#: about/konq_aboutpage.cc:244
+#: about/konq_aboutpage.cc:245
 msgid "(Short-) Automatic"
 msgstr "(ସଂକ୍ଷିପ୍ତ-) ସ୍ୱୟଂଚାଳିତ"
 
-#: about/konq_aboutpage.cc:246
+#: about/konq_aboutpage.cc:247
 #, kde-format
 msgctxt ""
 "Link that points to the first page of the Konqueror 'about page', Starting "
@@ -1881,11 +1885,11 @@ msgctxt ""
 msgid "<a href=\"%1\">Return to Starting Points</a>"
 msgstr ""
 
-#: about/konq_aboutpage.cc:294
+#: about/konq_aboutpage.cc:295
 msgid "Tips &amp; Tricks"
 msgstr "ପ୍ରାକ ସୂଚନା &amp; ଚତୁରତା"
 
-#: about/konq_aboutpage.cc:295
+#: about/konq_aboutpage.cc:296
 #, kde-format
 msgid ""
 "Use Web-Shortcuts: by typing \"gg: KDE\" one can search the Internet, using "
@@ -1895,14 +1899,19 @@ msgid ""
 "Shortcuts."
 msgstr ""
 
-#: about/konq_aboutpage.cc:300
-#, kde-format
+#: about/konq_aboutpage.cc:301
+#, fuzzy, kde-format
+#| msgid ""
+#| "To return to the previous location, press the back button <img width='16' "
+#| "height='16' src=\"%1\"></img> in the toolbar. "
 msgid ""
 "Use the magnifier button <img width='16' height='16' src=\"%1\"></img> in "
-"the toolbar to increase the font size on your web page."
+"the HTML toolbar to increase the font size on your web page."
 msgstr ""
+"ପୂର୍ବ ସ୍ଥାନକୁ ଫେରିବା ପାଇଁ, ସାଧନପଟିରେ ପଛକୁ ବଟନଟି ଦବାନ୍ତୁ <img ଓସାର='16' ଉଚ୍ଚତା='16' src="
+"\"%1\"></img>। "
 
-#: about/konq_aboutpage.cc:302
+#: about/konq_aboutpage.cc:303
 #, kde-format
 msgid ""
 "When you want to paste a new address into the Location toolbar you might "
@@ -1910,14 +1919,14 @@ msgid ""
 "cross <img width='16' height='16' src=\"%1\"></img> in the toolbar."
 msgstr ""
 
-#: about/konq_aboutpage.cc:306
+#: about/konq_aboutpage.cc:307
 msgid ""
 "To create a link on your desktop pointing to the current page, simply drag "
-"the \"Location\" label that is to the left of the Location toolbar, drop it "
-"on to the desktop, and choose \"Link\"."
+"the icon (favicon) that is to the left of the Location toolbar, drop it on "
+"to the desktop, and choose \"Icon\"."
 msgstr ""
 
-#: about/konq_aboutpage.cc:309
+#: about/konq_aboutpage.cc:310
 #, kde-format
 msgid ""
 "You can also find <img width='16' height='16' src=\"%1\" /> \"Full-Screen "
@@ -1927,7 +1936,7 @@ msgstr ""
 "ଆପଣ ବିନ୍ୟାସ ତାଲିକାରେ <img ଓସାର='16' ଉଚ୍ଚତା='16' src=\"%1\" /> \"ସମ୍ପୂର୍ଣ୍ଣ-ପରଦା ଅବସ୍ଥା"
 "\" ମଧ୍ଯ ଖୋଜିପାରିବେ। ଏହି ବିଶେଷଗୁଣଟି \"ବାର୍ତ୍ତାଳାପ\" ଅଧିବେଶନ ପାଇଁ ଅତ୍ୟନ୍ତ ଉପଯୋଗି।"
 
-#: about/konq_aboutpage.cc:312
+#: about/konq_aboutpage.cc:313
 #, kde-format
 msgid ""
 "Divide et impera (lat. \"Divide and conquer\") - by splitting a window into "
@@ -1937,7 +1946,7 @@ msgid ""
 "your own ones."
 msgstr ""
 
-#: about/konq_aboutpage.cc:317
+#: about/konq_aboutpage.cc:318
 #, kde-format
 msgid ""
 "Use the <a href=\"%1\">user-agent</a> feature if the website you are "
@@ -1945,16 +1954,19 @@ msgid ""
 "complaint to the webmaster!)"
 msgstr ""
 
-#: about/konq_aboutpage.cc:320
-#, kde-format
+#: about/konq_aboutpage.cc:321
+#, fuzzy, kde-format
+#| msgid ""
+#| "The <img width='16' height='16' src=\"%1\"></img> History in your SideBar "
+#| "ensures that you can keep track of the pages you have visited recently."
 msgid ""
-"The <img width='16' height='16' src=\"%1\"></img> History in your SideBar "
+"The <img width='16' height='16' src=\"%1\"></img> History in your Sidebar "
 "ensures that you can keep track of the pages you have visited recently."
 msgstr ""
 "ଆପଣଙ୍କ ପାର୍ଶ୍ୱପଟିରେ <img ଓସାର='16' ଉଚ୍ଚତା='16' src=\"%1\"></img> ପୁରୁଣା ତଥ୍ୟ ନିଶ୍ଚିତ ଯେ "
 "ଆପଣ ନିକଟରେ ପରିଦର୍ଶନ କରିଥିବା ପୃଷ୍ଠାଗୁଡ଼ିକୁ ମନେରଖିପାରିବେ।"
 
-#: about/konq_aboutpage.cc:322
+#: about/konq_aboutpage.cc:323
 #, kde-format
 msgid ""
 "Use a caching <a href=\"%1\">proxy</a> to speed up your Internet connection."
@@ -1962,7 +1974,7 @@ msgstr ""
 "ଆପଣଙ୍କ ଇଣ୍ଟରନେଟ ସଂଯୋଗକୁ ତୀବ୍ର କରିବା ପାଇଁ ଗୋଟିଏ କ୍ୟାଶିଙ୍ଗ <a href=\"%1\">ପ୍ରକ୍ସି</a>କୁ "
 "ବ୍ୟବହାର କରନ୍ତୁ।"
 
-#: about/konq_aboutpage.cc:324
+#: about/konq_aboutpage.cc:325
 #, kde-format
 msgid ""
 "Advanced users will appreciate the Konsole which you can embed into "
@@ -1970,40 +1982,40 @@ msgid ""
 "Terminal Emulator)."
 msgstr ""
 
-#: about/konq_aboutpage.cc:328
+#: about/konq_aboutpage.cc:329
 msgid "Next: Specifications"
 msgstr "ପରବର୍ତ୍ତ: ନିର୍ଦ୍ଧିଷ୍ଟକ ସୂଚନାଗୁଡ଼ିକ"
 
-#: about/konq_aboutpage.cc:343
+#: about/konq_aboutpage.cc:344
 msgid "Installed Plugins"
 msgstr "ସ୍ଥାପିତ ପ୍ଲଗଇନଗୁଡ଼ିକ"
 
-#: about/konq_aboutpage.cc:344
+#: about/konq_aboutpage.cc:345
 msgid "<td>Plugin</td><td>Description</td><td>File</td><td>Types</td>"
 msgstr "<td>ପ୍ଲଗଇନ</td><td>ବର୍ଣ୍ଣନା</td><td>ପାଇଲ</td><td>ପ୍ରକାର</td>"
 
-#: about/konq_aboutpage.cc:345
+#: about/konq_aboutpage.cc:346
 msgid "Installed"
 msgstr "ସ୍ଥାପିତ"
 
-#: about/konq_aboutpage.cc:346
+#: about/konq_aboutpage.cc:347
 msgid "<td>Mime Type</td><td>Description</td><td>Suffixes</td><td>Plugin</td>"
 msgstr "<td>ମାଇମ ପ୍ରକାର</td><td>ବର୍ଣ୍ଣନା</td><td>ଉପସର୍ଗଗୁଡ଼ିକ</td><td>ପ୍ଲଗଇନ</td>"
 
-#: about/konq_aboutpage.cc:462
+#: about/konq_aboutpage.cc:463
 msgid ""
 "Do you want to disable showing the introduction in the webbrowsing profile?"
 msgstr ""
 
-#: about/konq_aboutpage.cc:464
+#: about/konq_aboutpage.cc:465
 msgid "Faster Startup?"
 msgstr "ତୀବ୍ର ଆରମ୍ଭ?"
 
-#: about/konq_aboutpage.cc:464
+#: about/konq_aboutpage.cc:465
 msgid "Disable"
 msgstr "ନିଷ୍କ୍ରିୟ"
 
-#: about/konq_aboutpage.cc:464
+#: about/konq_aboutpage.cc:465
 msgid "Keep"
 msgstr "ରଖନ୍ତୁ"
 
