@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-11-26 06:29+0100\n"
+"POT-Creation-Date: 2010-11-27 06:49+0100\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -4349,7 +4349,7 @@ msgstr "KDE ପ୍ରୟୋଗ"
 msgid "Qt"
 msgstr "Qt"
 
-#: kdecore/kernel/kcmdlineargs.cpp:496 khtml/khtml_part.cpp:4816
+#: kdecore/kernel/kcmdlineargs.cpp:496 khtml/khtml_part.cpp:4814
 msgid "KDE"
 msgstr "KDE"
 
@@ -6499,7 +6499,7 @@ msgstr "ପ୍ଲଗଇନ '%1' ଗୋଟିଏ ଅସଙ୍ଗତ KDE ଲାଇ
 msgid "Access Keys activated"
 msgstr ""
 
-#: khtml/khtmlview.cpp:2799 khtml/khtmlview.cpp:2841 khtml/khtml_part.cpp:4763
+#: khtml/khtmlview.cpp:2799 khtml/khtmlview.cpp:2841 khtml/khtml_part.cpp:4761
 #: khtml/html/html_formimpl.cpp:1632 khtml/html/html_formimpl.cpp:1844
 msgid "Submit"
 msgstr "ଦାଖଲ କରନ୍ତୁ"
@@ -7143,7 +7143,7 @@ msgstr "ଫ୍ରେମରେ ଖୋଜନ୍ତୁ (&F)..."
 msgid "&Find..."
 msgstr "ଖୋଜନ୍ତୁ (&F)..."
 
-#: khtml/khtml_part.cpp:4704
+#: khtml/khtml_part.cpp:4702
 msgid ""
 "Warning:  This is a secure form but it is attempting to send your data back "
 "unencrypted.\n"
@@ -7155,16 +7155,16 @@ msgstr ""
 "ଜଣେ ତୃତୀୟ ପକ୍ଷ ଏହାକୁ ବାଟରେ ଧରିବାକୁ ସମର୍ଥ ହେବ ଏବଂ ଏହି ସୂଚନାକୁ ଦେଖିପାରିବ।\n"
 "ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ଆଗକୁ ବଢିବାକୁ ଚାହୁଁଛନ୍ତି?"
 
-#: khtml/khtml_part.cpp:4707 khtml/khtml_part.cpp:4716
-#: khtml/khtml_part.cpp:4740
+#: khtml/khtml_part.cpp:4705 khtml/khtml_part.cpp:4714
+#: khtml/khtml_part.cpp:4738
 msgid "Network Transmission"
 msgstr "ନେଟୱର୍କ ସଞ୍ଚାର"
 
-#: khtml/khtml_part.cpp:4707 khtml/khtml_part.cpp:4717
+#: khtml/khtml_part.cpp:4705 khtml/khtml_part.cpp:4715
 msgid "&Send Unencrypted"
 msgstr "ଅସଂଗୁପ୍ତ ଭାବେ ପଠାନ୍ତୁ (&S)"
 
-#: khtml/khtml_part.cpp:4714
+#: khtml/khtml_part.cpp:4712
 msgid ""
 "Warning: Your data is about to be transmitted across the network "
 "unencrypted.\n"
@@ -7173,7 +7173,7 @@ msgstr ""
 "ଚେତାବନୀ: ଆପଣଙ୍କର ତଥ୍ୟ ନେଟୱର୍କରେ ଅସଂଗୁପ୍ତ ଭାବରେ ସଞ୍ଚାର ହେବାକୁ ଯାଉଛି।\n"
 "ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ଆଗକୁ ବଢିବାକୁ ଚାହୁଁଛନ୍ତି?"
 
-#: khtml/khtml_part.cpp:4738
+#: khtml/khtml_part.cpp:4736
 msgid ""
 "This site is attempting to submit form data via email.\n"
 "Do you want to continue?"
@@ -7181,11 +7181,11 @@ msgstr ""
 "ଏହି ସାଇଟଟି ଫର୍ମ ତଥ୍ୟକୁ ଇମେଲ ମାଧ୍ଯମରେ ଦାଖଲ କରିବାକୁ ଚେଷ୍ଟା କରୁଅଛି।\n"
 "ଆପଣ ଆଗକୁ ବଢିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
 
-#: khtml/khtml_part.cpp:4741
+#: khtml/khtml_part.cpp:4739
 msgid "&Send Email"
 msgstr "ଇମେଲ ପଠାନ୍ତୁ (&S)"
 
-#: khtml/khtml_part.cpp:4762
+#: khtml/khtml_part.cpp:4760
 #, kde-format
 msgid ""
 "<qt>The form will be submitted to <br /><b>%1</b><br />on your local "
@@ -7194,7 +7194,7 @@ msgstr ""
 "<qt>ଏହି ଫର୍ମଟି ଦାଖଲ ହେବ <br /><b>%1</b><br />ଆପଣଙ୍କର ସ୍ଥାନୀୟ ଫାଇଲତନ୍ତ୍ରରେ।<br />ଆପଣ "
 "ଏହି ଫର୍ମକୁ ଦାଖଲ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?</qt>"
 
-#: khtml/khtml_part.cpp:4816
+#: khtml/khtml_part.cpp:4814
 msgid ""
 "This site attempted to attach a file from your computer in the form "
 "submission. The attachment was removed for your protection."
