@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libplasmaclock\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-11-12 06:33+0100\n"
+"POT-Creation-Date: 2010-11-28 06:20+0100\n"
 "PO-Revision-Date: 2009-01-02 11:49+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -121,6 +121,11 @@ msgstr ""
 #: clockapplet.cpp:640
 msgctxt "Local time zone"
 msgid "Local"
+msgstr ""
+
+#: clockapplet.cpp:689
+msgctxt "@item:inmenu Submenu for alternative calendar dates"
+msgid "Other Calendars"
 msgstr ""
 
 #. i18n: file: calendarConfig.ui:33
