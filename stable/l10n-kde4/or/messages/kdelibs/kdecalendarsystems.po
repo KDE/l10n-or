@@ -1,0 +1,2536 @@
+# translation of kdelibs4.po to Oriya
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Manoj Kumar Giri <giri.manojkr@gmail.com>, 2008.
+# Manoj Kumar Giri <mgiri@redhat.com>, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdelibs4\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2010-12-26 02:59+0100\n"
+"PO-Revision-Date: 2009-01-02 17:37+0530\n"
+"Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
+"Language-Team: Oriya <oriya-it@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#: kcalendarsystemjapanese.cpp:63 kcalendarsystemgregorianproleptic.cpp:73
+#: kcalendarsystemgregorian.cpp:101
+msgctxt "Calendar Era: Gregorian Christian Era, years > 0, LongFormat"
+msgid "Anno Domini"
+msgstr ""
+
+#: kcalendarsystemjapanese.cpp:64 kcalendarsystemgregorianproleptic.cpp:74
+#: kcalendarsystemgregorian.cpp:102
+msgctxt "Calendar Era: Gregorian Christian Era, years > 0, ShortFormat"
+msgid "AD"
+msgstr ""
+
+#: kcalendarsystemjapanese.cpp:65 kcalendarsystemgregorianproleptic.cpp:76
+#: kcalendarsystemgregorian.cpp:104
+#, c-format
+msgctxt ""
+"(kdedt-format) Gregorian, AD, full era year format used for %EY, e.g. 2000 AD"
+msgid "%Ey %EC"
+msgstr ""
+
+#: kcalendarsystemjapanese.cpp:68
+msgctxt "Calendar Era: Japanese Nengō, Meiji Era, LongFormat"
+msgid "Meiji"
+msgstr ""
+
+#: kcalendarsystemjapanese.cpp:70
+#, c-format
+msgctxt ""
+"(kdedt-format) Japanese, Meiji, full era year format used for %EY, year = 1, "
+"e.g. Meiji 1"
+msgid "%EC Gannen"
+msgstr ""
+
+#: kcalendarsystemjapanese.cpp:72
+#, c-format
+msgctxt ""
+"(kdedt-format) Japanese, Meiji, full era year format used for %EY, year > 1, "
+"e.g. Meiji 22"
+msgid "%EC %Ey"
+msgstr ""
+
+#: kcalendarsystemjapanese.cpp:75
+msgctxt "Calendar Era: Japanese Nengō, Taishō Era, LongFormat"
+msgid "Taishō"
+msgstr ""
+
+#: kcalendarsystemjapanese.cpp:77
+#, c-format
+msgctxt ""
+"(kdedt-format) Japanese, Taishō, full era year format used for %EY, year = "
+"1, e.g. Taishō 1"
+msgid "%EC Gannen"
+msgstr ""
+
+#: kcalendarsystemjapanese.cpp:79
+#, c-format
+msgctxt ""
+"(kdedt-format) Japanese, Taishō, full era year format used for %EY, year > "
+"1, e.g. Taishō 22"
+msgid "%EC %Ey"
+msgstr ""
+
+#: kcalendarsystemjapanese.cpp:82
+#, fuzzy
+#| msgctxt "Shahrivar short"
+#| msgid "Sha"
+msgctxt "Calendar Era: Japanese Nengō, Shōwa Era, LongFormat"
+msgid "Shōwa"
+msgstr "ଶା"
+
+#: kcalendarsystemjapanese.cpp:84
+#, c-format
+msgctxt ""
+"(kdedt-format) Japanese, Shōwa, full era year format used for %EY, year = 1, "
+"e.g. Shōwa 1"
+msgid "%EC Gannen"
+msgstr ""
+
+#: kcalendarsystemjapanese.cpp:86
+#, c-format
+msgctxt ""
+"(kdedt-format) Japanese, Shōwa, full era year format used for %EY, year > 1, "
+"e.g. Shōwa 22"
+msgid "%EC %Ey"
+msgstr ""
+
+#: kcalendarsystemjapanese.cpp:89
+msgctxt "Calendar Era: Japanese Nengō, Heisei Era, LongFormat"
+msgid "Heisei"
+msgstr ""
+
+#: kcalendarsystemjapanese.cpp:91
+#, c-format
+msgctxt ""
+"(kdedt-format) Japanese, Heisei, full era year format used for %EY, year = "
+"1, e.g. Heisei 1"
+msgid "%EC Gannen"
+msgstr ""
+
+#: kcalendarsystemjapanese.cpp:93
+#, c-format
+msgctxt ""
+"(kdedt-format) Japanese, Heisei, full era year format used for %EY, year > "
+"1, e.g. Heisei 22"
+msgid "%EC %Ey"
+msgstr ""
+
+#: kcalendarsystemjapanese.cpp:293
+#, fuzzy
+msgctxt "Japanese year 1 of era"
+msgid "Gannen"
+msgstr "ସବୁଜ:"
+
+#: kcalendarsystemjalali.cpp:78
+msgctxt "Calendar Era: Jalali Islamic Era, years > 0, LongFormat"
+msgid "Anno Persico"
+msgstr ""
+
+#: kcalendarsystemjalali.cpp:79
+msgctxt "Calendar Era: Jalali Islamic Era, years > 0, ShortFormat"
+msgid "AP"
+msgstr ""
+
+#: kcalendarsystemjalali.cpp:80
+#, c-format
+msgctxt ""
+"(kdedt-format) Jalali, AP, full era year format used for %EY, e.g. 2000 AP"
+msgid "%Ey %EC"
+msgstr ""
+
+#: kcalendarsystemjalali.cpp:344
+msgctxt "of Farvardin short"
+msgid "of Far"
+msgstr "ଫାର ର"
+
+#: kcalendarsystemjalali.cpp:346
+msgctxt "of Ordibehesht short"
+msgid "of Ord"
+msgstr "ଅର୍ଡ ର"
+
+#: kcalendarsystemjalali.cpp:348
+msgctxt "of Khordad short"
+msgid "of Kho"
+msgstr "ଖୋ ର"
+
+#: kcalendarsystemjalali.cpp:350
+msgctxt "of Tir short"
+msgid "of Tir"
+msgstr "ତିର ର"
+
+#: kcalendarsystemjalali.cpp:352
+msgctxt "of Mordad short"
+msgid "of Mor"
+msgstr "ମୋର ର"
+
+#: kcalendarsystemjalali.cpp:354
+msgctxt "of Shahrivar short"
+msgid "of Sha"
+msgstr "ଶା ର"
+
+#: kcalendarsystemjalali.cpp:356
+msgctxt "of Mehr short"
+msgid "of Meh"
+msgstr "ମେହ୍ ର"
+
+#: kcalendarsystemjalali.cpp:358
+msgctxt "of Aban short"
+msgid "of Aba"
+msgstr "ଆବା ର"
+
+#: kcalendarsystemjalali.cpp:360
+msgctxt "of Azar short"
+msgid "of Aza"
+msgstr "ଆଜା ର"
+
+#: kcalendarsystemjalali.cpp:362
+msgctxt "of Dei short"
+msgid "of Dei"
+msgstr "ଦେଇ ର"
+
+#: kcalendarsystemjalali.cpp:364
+msgctxt "of Bahman short"
+msgid "of Bah"
+msgstr "ବାହ୍ ର"
+
+#: kcalendarsystemjalali.cpp:366
+msgctxt "of Esfand short"
+msgid "of Esf"
+msgstr "ଏସ୍ଫ୍ ର"
+
+#: kcalendarsystemjalali.cpp:375
+msgctxt "Farvardin short"
+msgid "Far"
+msgstr "ଫାର "
+
+#: kcalendarsystemjalali.cpp:377
+msgctxt "Ordibehesht short"
+msgid "Ord"
+msgstr "ଅର୍ଡ"
+
+#: kcalendarsystemjalali.cpp:379
+msgctxt "Khordad short"
+msgid "Kho"
+msgstr "ଖୋ"
+
+#: kcalendarsystemjalali.cpp:381
+msgctxt "Tir short"
+msgid "Tir"
+msgstr "ତିର"
+
+#: kcalendarsystemjalali.cpp:383
+msgctxt "Mordad short"
+msgid "Mor"
+msgstr "ମୋର"
+
+#: kcalendarsystemjalali.cpp:385
+msgctxt "Shahrivar short"
+msgid "Sha"
+msgstr "ଶା"
+
+#: kcalendarsystemjalali.cpp:387
+msgctxt "Mehr short"
+msgid "Meh"
+msgstr "ମେହ୍"
+
+#: kcalendarsystemjalali.cpp:389
+msgctxt "Aban short"
+msgid "Aba"
+msgstr "ଆବା"
+
+#: kcalendarsystemjalali.cpp:391
+msgctxt "Azar short"
+msgid "Aza"
+msgstr "ଆଜା"
+
+#: kcalendarsystemjalali.cpp:393
+msgctxt "Dei short"
+msgid "Dei"
+msgstr "ଦେଇ"
+
+#: kcalendarsystemjalali.cpp:395
+msgctxt "Bahman short"
+msgid "Bah"
+msgstr "ବାହ୍"
+
+#: kcalendarsystemjalali.cpp:397
+msgctxt "Esfand"
+msgid "Esf"
+msgstr "ଏସଫ"
+
+#: kcalendarsystemjalali.cpp:406
+msgid "of Farvardin"
+msgstr "ଫାରଭାଦିନ ର"
+
+#: kcalendarsystemjalali.cpp:408
+msgid "of Ordibehesht"
+msgstr "ଓର୍ଡିବେହେଷ୍ଟ ର"
+
+#: kcalendarsystemjalali.cpp:410
+msgid "of Khordad"
+msgstr "ଖର୍ଡାଡ ର"
+
+#: kcalendarsystemjalali.cpp:412
+msgctxt "of Tir long"
+msgid "of Tir"
+msgstr "ତିର ର"
+
+#: kcalendarsystemjalali.cpp:414
+msgid "of Mordad"
+msgstr "ମରଦାଦ ର"
+
+#: kcalendarsystemjalali.cpp:416
+msgid "of Shahrivar"
+msgstr "ଶାହରିଭାର ର"
+
+#: kcalendarsystemjalali.cpp:418
+msgid "of Mehr"
+msgstr "ମେହର ର"
+
+#: kcalendarsystemjalali.cpp:420
+msgid "of Aban"
+msgstr "ଆବାନ ର"
+
+#: kcalendarsystemjalali.cpp:422
+msgid "of Azar"
+msgstr "ଆଜାର ର"
+
+#: kcalendarsystemjalali.cpp:424
+msgctxt "of Dei long"
+msgid "of Dei"
+msgstr "ଦେଇ ର"
+
+#: kcalendarsystemjalali.cpp:426
+msgid "of Bahman"
+msgstr "ବାହମାନ ର"
+
+#: kcalendarsystemjalali.cpp:428
+msgid "of Esfand"
+msgstr "ଏସଫାଣ୍ଡ ର"
+
+#: kcalendarsystemjalali.cpp:437
+msgid "Farvardin"
+msgstr "ଫାରଭାଦିନ"
+
+#: kcalendarsystemjalali.cpp:439
+msgid "Ordibehesht"
+msgstr "ଓର୍ଡିବେହେଷ୍ଟ"
+
+#: kcalendarsystemjalali.cpp:441
+msgid "Khordad"
+msgstr "ଖୋରଦାଦ"
+
+#: kcalendarsystemjalali.cpp:443
+msgctxt "Tir long"
+msgid "Tir"
+msgstr "ତିର"
+
+#: kcalendarsystemjalali.cpp:445
+msgid "Mordad"
+msgstr "ମୋରଦାଦ"
+
+#: kcalendarsystemjalali.cpp:447
+msgid "Shahrivar"
+msgstr "ଶାହରିଭାର"
+
+#: kcalendarsystemjalali.cpp:449
+msgid "Mehr"
+msgstr "ମେହର"
+
+#: kcalendarsystemjalali.cpp:451
+msgid "Aban"
+msgstr "ଆବାନ"
+
+#: kcalendarsystemjalali.cpp:453
+msgid "Azar"
+msgstr "ଆଜାର"
+
+#: kcalendarsystemjalali.cpp:455
+msgctxt "Dei long"
+msgid "Dei"
+msgstr "ଦେଇ"
+
+#: kcalendarsystemjalali.cpp:457
+msgid "Bahman"
+msgstr "ବାହମାନ"
+
+#: kcalendarsystemjalali.cpp:459
+msgid "Esfand"
+msgstr "ଏସଫାଣ୍ଡ"
+
+#: kcalendarsystemjalali.cpp:475
+msgctxt "Do shanbe short"
+msgid "2sh"
+msgstr "2sh"
+
+#: kcalendarsystemjalali.cpp:477
+msgctxt "Se shanbe short"
+msgid "3sh"
+msgstr "3sh"
+
+#: kcalendarsystemjalali.cpp:479
+msgctxt "Chahar shanbe short"
+msgid "4sh"
+msgstr "4sh"
+
+#: kcalendarsystemjalali.cpp:481
+msgctxt "Panj shanbe short"
+msgid "5sh"
+msgstr "5sh"
+
+#: kcalendarsystemjalali.cpp:483
+msgctxt "Jumee short"
+msgid "Jom"
+msgstr "ଜମ"
+
+#: kcalendarsystemjalali.cpp:485
+msgctxt "Shanbe short"
+msgid "shn"
+msgstr "shn"
+
+#: kcalendarsystemjalali.cpp:487
+msgctxt "Yek-shanbe short"
+msgid "1sh"
+msgstr "1sh"
+
+#: kcalendarsystemjalali.cpp:496
+msgid "Do shanbe"
+msgstr "ଦୋ ଶାନୱେ"
+
+#: kcalendarsystemjalali.cpp:498
+msgid "Se shanbe"
+msgstr "ସେ ଶାନୱେ"
+
+#: kcalendarsystemjalali.cpp:500
+msgid "Chahar shanbe"
+msgstr "କହର ଶାନୱେ"
+
+#: kcalendarsystemjalali.cpp:502
+msgid "Panj shanbe"
+msgstr "ପଞ୍ଜ ଶାନୱେ"
+
+#: kcalendarsystemjalali.cpp:504
+msgid "Jumee"
+msgstr "ଜୁମୀ"
+
+#: kcalendarsystemjalali.cpp:506
+msgid "Shanbe"
+msgstr "ଶାନୱେ"
+
+#: kcalendarsystemjalali.cpp:508
+msgid "Yek-shanbe"
+msgstr "ଐକ-ଶାନୱେ"
+
+#: kcalendarsystemgregorianproleptic.cpp:60 kcalendarsystemgregorian.cpp:88
+msgctxt "Calendar Era: Gregorian Common Era, years < 0, LongFormat"
+msgid "Before Common Era"
+msgstr ""
+
+#: kcalendarsystemgregorianproleptic.cpp:61 kcalendarsystemgregorian.cpp:89
+msgctxt "Calendar Era: Gregorian Common Era, years < 0, ShortFormat"
+msgid "BCE"
+msgstr ""
+
+#: kcalendarsystemgregorianproleptic.cpp:63 kcalendarsystemgregorian.cpp:91
+msgctxt "Calendar Era: Gregorian Christian Era, years < 0, LongFormat"
+msgid "Before Christ"
+msgstr ""
+
+#: kcalendarsystemgregorianproleptic.cpp:64 kcalendarsystemgregorian.cpp:92
+msgctxt "Calendar Era: Gregorian Christian Era, years < 0, ShortFormat"
+msgid "BC"
+msgstr ""
+
+#: kcalendarsystemgregorianproleptic.cpp:66 kcalendarsystemgregorian.cpp:94
+#, c-format
+msgctxt ""
+"(kdedt-format) Gregorian, BC, full era year format used for %EY, e.g. 2000 BC"
+msgid "%Ey %EC"
+msgstr ""
+
+#: kcalendarsystemgregorianproleptic.cpp:70 kcalendarsystemgregorian.cpp:98
+msgctxt "Calendar Era: Gregorian Common Era, years > 0, LongFormat"
+msgid "Common Era"
+msgstr ""
+
+#: kcalendarsystemgregorianproleptic.cpp:71 kcalendarsystemgregorian.cpp:99
+msgctxt "Calendar Era: Gregorian Common Era, years > 0, ShortFormat"
+msgid "CE"
+msgstr ""
+
+#: kcalendarsystemgregorianproleptic.cpp:331 kcalendarsystemgregorian.cpp:337
+#: kcalendarsystemjulian.cpp:345
+msgctxt "of January"
+msgid "of Jan"
+msgstr "of Jan"
+
+#: kcalendarsystemgregorianproleptic.cpp:333 kcalendarsystemgregorian.cpp:339
+#: kcalendarsystemjulian.cpp:347
+msgctxt "of February"
+msgid "of Feb"
+msgstr "of Feb"
+
+#: kcalendarsystemgregorianproleptic.cpp:335 kcalendarsystemgregorian.cpp:341
+#: kcalendarsystemjulian.cpp:349
+msgctxt "of March"
+msgid "of Mar"
+msgstr "of Mar"
+
+#: kcalendarsystemgregorianproleptic.cpp:337 kcalendarsystemgregorian.cpp:343
+#: kcalendarsystemjulian.cpp:351
+msgctxt "of April"
+msgid "of Apr"
+msgstr "of Apr"
+
+#: kcalendarsystemgregorianproleptic.cpp:339 kcalendarsystemgregorian.cpp:345
+#: kcalendarsystemjulian.cpp:353
+msgctxt "of May short"
+msgid "of May"
+msgstr "of May"
+
+#: kcalendarsystemgregorianproleptic.cpp:341 kcalendarsystemgregorian.cpp:347
+#: kcalendarsystemjulian.cpp:355
+msgctxt "of June"
+msgid "of Jun"
+msgstr "of Jun"
+
+#: kcalendarsystemgregorianproleptic.cpp:343 kcalendarsystemgregorian.cpp:349
+#: kcalendarsystemjulian.cpp:357
+msgctxt "of July"
+msgid "of Jul"
+msgstr "of Jul"
+
+#: kcalendarsystemgregorianproleptic.cpp:345 kcalendarsystemgregorian.cpp:351
+#: kcalendarsystemjulian.cpp:359
+msgctxt "of August"
+msgid "of Aug"
+msgstr "of Aug"
+
+#: kcalendarsystemgregorianproleptic.cpp:347 kcalendarsystemgregorian.cpp:353
+#: kcalendarsystemjulian.cpp:361
+msgctxt "of September"
+msgid "of Sep"
+msgstr "of Sep"
+
+#: kcalendarsystemgregorianproleptic.cpp:349 kcalendarsystemgregorian.cpp:355
+#: kcalendarsystemjulian.cpp:363
+msgctxt "of October"
+msgid "of Oct"
+msgstr "of Oct"
+
+#: kcalendarsystemgregorianproleptic.cpp:351 kcalendarsystemgregorian.cpp:357
+#: kcalendarsystemjulian.cpp:365
+msgctxt "of November"
+msgid "of Nov"
+msgstr "of Nov"
+
+#: kcalendarsystemgregorianproleptic.cpp:353 kcalendarsystemgregorian.cpp:359
+#: kcalendarsystemjulian.cpp:367
+msgctxt "of December"
+msgid "of Dec"
+msgstr "of Dec"
+
+#: kcalendarsystemgregorianproleptic.cpp:362 kcalendarsystemgregorian.cpp:368
+#: kcalendarsystemjulian.cpp:376
+msgid "of January"
+msgstr "ଜାନୁଆରୀ ର"
+
+#: kcalendarsystemgregorianproleptic.cpp:364 kcalendarsystemgregorian.cpp:370
+#: kcalendarsystemjulian.cpp:378
+msgid "of February"
+msgstr "ଫେବ୍ରୁୟାରୀ ର"
+
+#: kcalendarsystemgregorianproleptic.cpp:366 kcalendarsystemgregorian.cpp:372
+#: kcalendarsystemjulian.cpp:380
+msgid "of March"
+msgstr "ମାର୍ଚ୍ଚ ର"
+
+#: kcalendarsystemgregorianproleptic.cpp:368 kcalendarsystemgregorian.cpp:374
+#: kcalendarsystemjulian.cpp:382
+msgid "of April"
+msgstr "ଅପ୍ରେଲ ର"
+
+#: kcalendarsystemgregorianproleptic.cpp:370 kcalendarsystemgregorian.cpp:376
+#: kcalendarsystemjulian.cpp:384
+msgctxt "of May long"
+msgid "of May"
+msgstr "ମଇ ର"
+
+#: kcalendarsystemgregorianproleptic.cpp:372 kcalendarsystemgregorian.cpp:378
+#: kcalendarsystemjulian.cpp:386
+msgid "of June"
+msgstr "ଜୁନ ର"
+
+#: kcalendarsystemgregorianproleptic.cpp:374 kcalendarsystemgregorian.cpp:380
+#: kcalendarsystemjulian.cpp:388
+msgid "of July"
+msgstr "ଜୁଲାଇ ର"
+
+#: kcalendarsystemgregorianproleptic.cpp:376 kcalendarsystemgregorian.cpp:382
+#: kcalendarsystemjulian.cpp:390
+msgid "of August"
+msgstr "ଅଗଷ୍ଟ ର"
+
+#: kcalendarsystemgregorianproleptic.cpp:378 kcalendarsystemgregorian.cpp:384
+#: kcalendarsystemjulian.cpp:392
+msgid "of September"
+msgstr "ସେପ୍ଟେମ୍ୱର ର"
+
+#: kcalendarsystemgregorianproleptic.cpp:380 kcalendarsystemgregorian.cpp:386
+#: kcalendarsystemjulian.cpp:394
+msgid "of October"
+msgstr "ଅକ୍ଟୋବର ର"
+
+#: kcalendarsystemgregorianproleptic.cpp:382 kcalendarsystemgregorian.cpp:388
+#: kcalendarsystemjulian.cpp:396
+msgid "of November"
+msgstr "ନଭେମ୍ୱର ର"
+
+#: kcalendarsystemgregorianproleptic.cpp:384 kcalendarsystemgregorian.cpp:390
+#: kcalendarsystemjulian.cpp:398
+msgid "of December"
+msgstr "ଡିସେମ୍ୱର ର"
+
+#: kcalendarsystemgregorianproleptic.cpp:393 kcalendarsystemgregorian.cpp:399
+#: kcalendarsystemjulian.cpp:407
+msgctxt "January"
+msgid "Jan"
+msgstr "Jan"
+
+#: kcalendarsystemgregorianproleptic.cpp:395 kcalendarsystemgregorian.cpp:401
+#: kcalendarsystemjulian.cpp:409
+msgctxt "February"
+msgid "Feb"
+msgstr "Feb"
+
+#: kcalendarsystemgregorianproleptic.cpp:397 kcalendarsystemgregorian.cpp:403
+#: kcalendarsystemjulian.cpp:411
+msgctxt "March"
+msgid "Mar"
+msgstr "Mar"
+
+#: kcalendarsystemgregorianproleptic.cpp:399 kcalendarsystemgregorian.cpp:405
+#: kcalendarsystemjulian.cpp:413
+msgctxt "April"
+msgid "Apr"
+msgstr "Apr"
+
+#: kcalendarsystemgregorianproleptic.cpp:401 kcalendarsystemgregorian.cpp:407
+#: kcalendarsystemjulian.cpp:415
+msgctxt "May short"
+msgid "May"
+msgstr "May"
+
+#: kcalendarsystemgregorianproleptic.cpp:403 kcalendarsystemgregorian.cpp:409
+#: kcalendarsystemjulian.cpp:417
+msgctxt "June"
+msgid "Jun"
+msgstr "Jun"
+
+#: kcalendarsystemgregorianproleptic.cpp:405 kcalendarsystemgregorian.cpp:411
+#: kcalendarsystemjulian.cpp:419
+msgctxt "July"
+msgid "Jul"
+msgstr "Jul"
+
+#: kcalendarsystemgregorianproleptic.cpp:407 kcalendarsystemgregorian.cpp:413
+#: kcalendarsystemjulian.cpp:421
+msgctxt "August"
+msgid "Aug"
+msgstr "Aug"
+
+#: kcalendarsystemgregorianproleptic.cpp:409 kcalendarsystemgregorian.cpp:415
+#: kcalendarsystemjulian.cpp:423
+msgctxt "September"
+msgid "Sep"
+msgstr "Sep"
+
+#: kcalendarsystemgregorianproleptic.cpp:411 kcalendarsystemgregorian.cpp:417
+#: kcalendarsystemjulian.cpp:425
+msgctxt "October"
+msgid "Oct"
+msgstr "Oct"
+
+#: kcalendarsystemgregorianproleptic.cpp:413 kcalendarsystemgregorian.cpp:419
+#: kcalendarsystemjulian.cpp:427
+msgctxt "November"
+msgid "Nov"
+msgstr "Nov"
+
+#: kcalendarsystemgregorianproleptic.cpp:415 kcalendarsystemgregorian.cpp:421
+#: kcalendarsystemjulian.cpp:429
+msgctxt "December"
+msgid "Dec"
+msgstr "Dec"
+
+#: kcalendarsystemgregorianproleptic.cpp:424 kcalendarsystemgregorian.cpp:430
+#: kcalendarsystemjulian.cpp:438
+msgid "January"
+msgstr "ଜାନୁଆରୀ"
+
+#: kcalendarsystemgregorianproleptic.cpp:426 kcalendarsystemgregorian.cpp:432
+#: kcalendarsystemjulian.cpp:440
+msgid "February"
+msgstr "ଫେବ୍ରୁଆରୀ"
+
+#: kcalendarsystemgregorianproleptic.cpp:428 kcalendarsystemgregorian.cpp:434
+#: kcalendarsystemjulian.cpp:442
+msgctxt "March long"
+msgid "March"
+msgstr "ମାର୍ଚ୍ଚ"
+
+#: kcalendarsystemgregorianproleptic.cpp:430 kcalendarsystemgregorian.cpp:436
+#: kcalendarsystemjulian.cpp:444
+msgid "April"
+msgstr "ଅପ୍ରେଲ"
+
+#: kcalendarsystemgregorianproleptic.cpp:432 kcalendarsystemgregorian.cpp:438
+#: kcalendarsystemjulian.cpp:446
+msgctxt "May long"
+msgid "May"
+msgstr "ମଇ"
+
+#: kcalendarsystemgregorianproleptic.cpp:434 kcalendarsystemgregorian.cpp:440
+#: kcalendarsystemjulian.cpp:448
+msgid "June"
+msgstr "ଜୁନ"
+
+#: kcalendarsystemgregorianproleptic.cpp:436 kcalendarsystemgregorian.cpp:442
+#: kcalendarsystemjulian.cpp:450
+msgid "July"
+msgstr "ଜୁଲାଇ"
+
+#: kcalendarsystemgregorianproleptic.cpp:438 kcalendarsystemgregorian.cpp:444
+#: kcalendarsystemjulian.cpp:452
+msgctxt "August long"
+msgid "August"
+msgstr "ଅଗଷ୍ଟ"
+
+#: kcalendarsystemgregorianproleptic.cpp:440 kcalendarsystemgregorian.cpp:446
+#: kcalendarsystemjulian.cpp:454
+msgid "September"
+msgstr "ସେପ୍ଟେମ୍ବର"
+
+#: kcalendarsystemgregorianproleptic.cpp:442 kcalendarsystemgregorian.cpp:448
+#: kcalendarsystemjulian.cpp:456
+msgid "October"
+msgstr "ଅକ୍ଟୋବର"
+
+#: kcalendarsystemgregorianproleptic.cpp:444 kcalendarsystemgregorian.cpp:450
+#: kcalendarsystemjulian.cpp:458
+msgid "November"
+msgstr "ନଭେମ୍ବର"
+
+#: kcalendarsystemgregorianproleptic.cpp:446 kcalendarsystemgregorian.cpp:452
+#: kcalendarsystemjulian.cpp:460
+msgid "December"
+msgstr "ଡିସେମ୍ବର"
+
+#: kcalendarsystemgregorianproleptic.cpp:462 kcalendarsystemgregorian.cpp:468
+#: kcalendarsystemhebrew.cpp:889 kcalendarsystemjulian.cpp:476
+msgctxt "Monday"
+msgid "Mon"
+msgstr "ସୋମ"
+
+#: kcalendarsystemgregorianproleptic.cpp:463 kcalendarsystemgregorian.cpp:469
+#: kcalendarsystemhebrew.cpp:890 kcalendarsystemjulian.cpp:477
+msgctxt "Tuesday"
+msgid "Tue"
+msgstr "ମଙ୍ଗଳ"
+
+#: kcalendarsystemgregorianproleptic.cpp:464 kcalendarsystemgregorian.cpp:470
+#: kcalendarsystemhebrew.cpp:891 kcalendarsystemjulian.cpp:478
+msgctxt "Wednesday"
+msgid "Wed"
+msgstr "ବୁଧ"
+
+#: kcalendarsystemgregorianproleptic.cpp:465 kcalendarsystemgregorian.cpp:471
+#: kcalendarsystemhebrew.cpp:892 kcalendarsystemjulian.cpp:479
+msgctxt "Thursday"
+msgid "Thu"
+msgstr "ଗୁରୁ"
+
+#: kcalendarsystemgregorianproleptic.cpp:466 kcalendarsystemgregorian.cpp:472
+#: kcalendarsystemhebrew.cpp:893 kcalendarsystemjulian.cpp:480
+msgctxt "Friday"
+msgid "Fri"
+msgstr "ଶୁକ୍ର"
+
+#: kcalendarsystemgregorianproleptic.cpp:467 kcalendarsystemgregorian.cpp:473
+#: kcalendarsystemhebrew.cpp:894 kcalendarsystemjulian.cpp:481
+msgctxt "Saturday"
+msgid "Sat"
+msgstr "ଶନି"
+
+#: kcalendarsystemgregorianproleptic.cpp:468 kcalendarsystemgregorian.cpp:474
+#: kcalendarsystemhebrew.cpp:895 kcalendarsystemjulian.cpp:482
+msgctxt "Sunday"
+msgid "Sun"
+msgstr "ରବି"
+
+#: kcalendarsystemgregorianproleptic.cpp:474 kcalendarsystemgregorian.cpp:480
+#: kcalendarsystemhebrew.cpp:901 kcalendarsystemjulian.cpp:488
+msgid "Monday"
+msgstr "ସୋମବାର"
+
+#: kcalendarsystemgregorianproleptic.cpp:475 kcalendarsystemgregorian.cpp:481
+#: kcalendarsystemhebrew.cpp:902 kcalendarsystemjulian.cpp:489
+msgid "Tuesday"
+msgstr "ମଙ୍ଗଳବାର"
+
+#: kcalendarsystemgregorianproleptic.cpp:476 kcalendarsystemgregorian.cpp:482
+#: kcalendarsystemhebrew.cpp:903 kcalendarsystemjulian.cpp:490
+msgid "Wednesday"
+msgstr "ବୁଧବାର"
+
+#: kcalendarsystemgregorianproleptic.cpp:477 kcalendarsystemgregorian.cpp:483
+#: kcalendarsystemhebrew.cpp:904 kcalendarsystemjulian.cpp:491
+msgid "Thursday"
+msgstr "ଗୁରୁବାର"
+
+#: kcalendarsystemgregorianproleptic.cpp:478 kcalendarsystemgregorian.cpp:484
+#: kcalendarsystemhebrew.cpp:905 kcalendarsystemjulian.cpp:492
+msgid "Friday"
+msgstr "ଶୁକ୍ରବାର"
+
+#: kcalendarsystemgregorianproleptic.cpp:479 kcalendarsystemgregorian.cpp:485
+#: kcalendarsystemhebrew.cpp:906 kcalendarsystemjulian.cpp:493
+msgid "Saturday"
+msgstr "ଶନିବାର"
+
+#: kcalendarsystemgregorianproleptic.cpp:480 kcalendarsystemgregorian.cpp:486
+#: kcalendarsystemhebrew.cpp:907 kcalendarsystemjulian.cpp:494
+msgid "Sunday"
+msgstr "ରବିବାର"
+
+#: kcalendarsystemhijri.cpp:70
+msgctxt "Calendar Era: Hijri Islamic Era, years > 0, LongFormat"
+msgid "Anno Hegirae"
+msgstr ""
+
+#: kcalendarsystemhijri.cpp:71
+msgctxt "Calendar Era: Hijri Islamic Era, years > 0, ShortFormat"
+msgid "AH"
+msgstr ""
+
+#: kcalendarsystemhijri.cpp:72
+#, c-format
+msgctxt ""
+"(kdedt-format) Hijri, AH, full era year format used for %EY, e.g. 2000 AH"
+msgid "%Ey %EC"
+msgstr ""
+
+#: kcalendarsystemhijri.cpp:335 kcalendarsystemhijri.cpp:366
+msgid "of Muharram"
+msgstr "ମୁହରମର"
+
+#: kcalendarsystemhijri.cpp:337 kcalendarsystemhijri.cpp:368
+msgid "of Safar"
+msgstr "ସଫରର"
+
+#: kcalendarsystemhijri.cpp:339
+msgid "of R. Awal"
+msgstr "ଆର. ଆୱାଲର"
+
+#: kcalendarsystemhijri.cpp:341
+msgid "of R. Thaani"
+msgstr "ଆର. ଥାନିର"
+
+#: kcalendarsystemhijri.cpp:343
+msgid "of J. Awal"
+msgstr "ଜେ. ଆୱାଲର"
+
+#: kcalendarsystemhijri.cpp:345
+msgid "of J. Thaani"
+msgstr "ଜେ. ଥାନିର"
+
+#: kcalendarsystemhijri.cpp:347 kcalendarsystemhijri.cpp:378
+msgid "of Rajab"
+msgstr "ରଜବର"
+
+#: kcalendarsystemhijri.cpp:349 kcalendarsystemhijri.cpp:380
+msgid "of Sha`ban"
+msgstr "ଶା`ବାନର"
+
+#: kcalendarsystemhijri.cpp:351 kcalendarsystemhijri.cpp:382
+msgid "of Ramadan"
+msgstr "ରାମାଦାନର"
+
+#: kcalendarsystemhijri.cpp:353 kcalendarsystemhijri.cpp:384
+msgid "of Shawwal"
+msgstr "ଶାୱାଲର"
+
+#: kcalendarsystemhijri.cpp:355
+msgid "of Qi`dah"
+msgstr "କ୍ୱି`ଦାହ୍ ର"
+
+#: kcalendarsystemhijri.cpp:357
+msgid "of Hijjah"
+msgstr "ହିଜ୍ଜାର"
+
+#: kcalendarsystemhijri.cpp:370
+msgid "of Rabi` al-Awal"
+msgstr "ରାବି` ଆଲ-ଆୱାଲର"
+
+#: kcalendarsystemhijri.cpp:372
+msgid "of Rabi` al-Thaani"
+msgstr "ରାବି` ଆଲ-ଥାନିର"
+
+#: kcalendarsystemhijri.cpp:374
+msgid "of Jumaada al-Awal"
+msgstr "ଜୁମ୍ମାଦା ଆଲ-ଆୱାଲର"
+
+#: kcalendarsystemhijri.cpp:376
+msgid "of Jumaada al-Thaani"
+msgstr "ଜୁମ୍ମାଦା ଆଲ-ଥାନିର"
+
+#: kcalendarsystemhijri.cpp:386
+msgid "of Thu al-Qi`dah"
+msgstr "ଥୁ ଆଲ-କାଇ`ଦାହ୍ ର"
+
+#: kcalendarsystemhijri.cpp:388
+msgid "of Thu al-Hijjah"
+msgstr "ଥୁ ଆଲ-ହିଜ୍ଜାହ୍ ର"
+
+#: kcalendarsystemhijri.cpp:397 kcalendarsystemhijri.cpp:428
+msgid "Muharram"
+msgstr "ମୁହରମ"
+
+#: kcalendarsystemhijri.cpp:399 kcalendarsystemhijri.cpp:430
+msgid "Safar"
+msgstr "ସଫର"
+
+#: kcalendarsystemhijri.cpp:401
+msgid "R. Awal"
+msgstr "ଆର. ଆୱାଲ"
+
+#: kcalendarsystemhijri.cpp:403
+msgid "R. Thaani"
+msgstr "ଆର. ଥାନି"
+
+#: kcalendarsystemhijri.cpp:405
+msgid "J. Awal"
+msgstr "ଜେ. ଆୱାଲ"
+
+#: kcalendarsystemhijri.cpp:407
+msgid "J. Thaani"
+msgstr "ଜେ. ଥାନି"
+
+#: kcalendarsystemhijri.cpp:409 kcalendarsystemhijri.cpp:440
+msgid "Rajab"
+msgstr "ରଜବ"
+
+#: kcalendarsystemhijri.cpp:411 kcalendarsystemhijri.cpp:442
+msgid "Sha`ban"
+msgstr "ଶା`ବାନ"
+
+#: kcalendarsystemhijri.cpp:413 kcalendarsystemhijri.cpp:444
+msgid "Ramadan"
+msgstr "ରାମାଦାନ"
+
+#: kcalendarsystemhijri.cpp:415 kcalendarsystemhijri.cpp:446
+msgid "Shawwal"
+msgstr "ଶାୱାଲ"
+
+#: kcalendarsystemhijri.cpp:417
+msgid "Qi`dah"
+msgstr "କାଇ`ଦାହ"
+
+#: kcalendarsystemhijri.cpp:419
+msgid "Hijjah"
+msgstr "ହିଜ୍ଜାହ୍"
+
+#: kcalendarsystemhijri.cpp:432
+msgid "Rabi` al-Awal"
+msgstr "ରାବି` ଆଲ-ଆୱାଲ"
+
+#: kcalendarsystemhijri.cpp:434
+msgid "Rabi` al-Thaani"
+msgstr "ରାବି` ଆଲ-ଥାନି"
+
+#: kcalendarsystemhijri.cpp:436
+msgid "Jumaada al-Awal"
+msgstr "ଜୁମାଦା ଆଲ-ଆୱାଲ"
+
+#: kcalendarsystemhijri.cpp:438
+msgid "Jumaada al-Thaani"
+msgstr "ଜୁମାଦା ଆଲ-ଥାନି"
+
+#: kcalendarsystemhijri.cpp:448
+msgid "Thu al-Qi`dah"
+msgstr "ଥୁ ଆଲ-କାଇ`ଦାହ"
+
+#: kcalendarsystemhijri.cpp:450
+msgid "Thu al-Hijjah"
+msgstr "ଥୁ ଆଲ-ହିଜ୍ଜାହ"
+
+#: kcalendarsystemhijri.cpp:466
+msgid "Ith"
+msgstr "ଇଥ"
+
+#: kcalendarsystemhijri.cpp:468
+msgid "Thl"
+msgstr "Thl"
+
+#: kcalendarsystemhijri.cpp:470
+msgid "Arb"
+msgstr "ଆରବ"
+
+#: kcalendarsystemhijri.cpp:472
+msgid "Kha"
+msgstr "ଖା"
+
+#: kcalendarsystemhijri.cpp:474
+msgid "Jum"
+msgstr "ଜୁମ"
+
+#: kcalendarsystemhijri.cpp:476
+msgid "Sab"
+msgstr "ସବ"
+
+#: kcalendarsystemhijri.cpp:478
+msgid "Ahd"
+msgstr "Ahd"
+
+#: kcalendarsystemhijri.cpp:487
+msgid "Yaum al-Ithnain"
+msgstr "Yaum al-Ithnain"
+
+#: kcalendarsystemhijri.cpp:489
+msgid "Yau al-Thulatha"
+msgstr "Yau al-Thulatha"
+
+#: kcalendarsystemhijri.cpp:491
+msgid "Yaum al-Arbi'a"
+msgstr "Yaum al-Arbi'a"
+
+#: kcalendarsystemhijri.cpp:493
+msgid "Yaum al-Khamees"
+msgstr "Yaum al-Khamees"
+
+#: kcalendarsystemhijri.cpp:495
+msgid "Yaum al-Jumma"
+msgstr "Yaum al-Jumma"
+
+#: kcalendarsystemhijri.cpp:497
+msgid "Yaum al-Sabt"
+msgstr "Yaum al-Sabt"
+
+#: kcalendarsystemhijri.cpp:499
+msgid "Yaum al-Ahad"
+msgstr "Yaum al-Ahad"
+
+#: kcalendarsystem.cpp:83 kcalendarsystem.cpp:174
+msgctxt "@item Calendar system"
+msgid "Invalid Calendar Type"
+msgstr "ଅବୈଧ କାଲେଣ୍ଡର ଟାଇପ"
+
+#: kcalendarsystem.cpp:149
+msgctxt "@item Calendar system"
+msgid "Gregorian"
+msgstr "ଗ୍ରେଗରିଆନ"
+
+#: kcalendarsystem.cpp:151
+#, fuzzy
+msgctxt "@item Calendar system"
+msgid "Coptic"
+msgstr "କୋପଟିକ"
+
+#: kcalendarsystem.cpp:153
+#, fuzzy
+msgctxt "@item Calendar system"
+msgid "Ethiopian"
+msgstr "ଇଥିଓପିକ"
+
+#: kcalendarsystem.cpp:155
+#, fuzzy
+msgctxt "@item Calendar system"
+msgid "Gregorian (Proleptic)"
+msgstr "ଗ୍ରେଗରିଆନ"
+
+#: kcalendarsystem.cpp:157
+msgctxt "@item Calendar system"
+msgid "Hebrew"
+msgstr "ହେବ୍ରିୟୁ"
+
+#: kcalendarsystem.cpp:159
+msgctxt "@item Calendar system"
+msgid "Islamic / Hijri (Civil)"
+msgstr ""
+
+#: kcalendarsystem.cpp:161
+msgctxt "@item Calendar system"
+msgid "Indian National"
+msgstr ""
+
+#: kcalendarsystem.cpp:163
+msgctxt "@item Calendar system"
+msgid "Jalali"
+msgstr "ଜଲାଲି"
+
+#: kcalendarsystem.cpp:165
+msgctxt "@item Calendar system"
+msgid "Japanese"
+msgstr ""
+
+#: kcalendarsystem.cpp:167
+#, fuzzy
+msgctxt "@item Calendar system"
+msgid "Julian"
+msgstr "Jan"
+
+#: kcalendarsystem.cpp:169
+msgctxt "@item Calendar system"
+msgid "Taiwanese"
+msgstr ""
+
+#: kcalendarsystem.cpp:171
+#, fuzzy
+#| msgid "R. Thaani"
+msgctxt "@item Calendar system"
+msgid "Thai"
+msgstr "ଆର. ଥାନି"
+
+#: kcalendarsystem.cpp:1787
+msgctxt "Negative symbol as used for year numbers, e.g. -5 = 5 BC"
+msgid "-"
+msgstr ""
+
+#: kcalendarsystem.cpp:1824
+msgid "Today"
+msgstr "ଆଜି"
+
+#: kcalendarsystem.cpp:1826
+msgid "Yesterday"
+msgstr "ଗତକାଲି"
+
+#: kcalendarsystemethiopian.cpp:54
+msgctxt "Calendar Era: Ethiopian Incarnation Era, years > 0, LongFormat"
+msgid "Amata Mehrat"
+msgstr ""
+
+#: kcalendarsystemethiopian.cpp:55
+msgctxt "Calendar Era: Ethiopian Incarnation Era, years > 0, ShortFormat"
+msgid "AM"
+msgstr ""
+
+#: kcalendarsystemethiopian.cpp:56
+#, c-format
+msgctxt ""
+"(kdedt-format) Ethiopian, AM, full era year format used for %EY, e.g. 2000 AM"
+msgid "%Ey %EC"
+msgstr ""
+
+#: kcalendarsystemethiopian.cpp:229
+#, fuzzy
+msgctxt "Ethiopian month 1 - ShortNamePossessive"
+msgid "of Mes"
+msgstr "ମେହ୍ ର"
+
+#: kcalendarsystemethiopian.cpp:231
+#, fuzzy
+msgctxt "Ethiopian month 2 - ShortNamePossessive"
+msgid "of Teq"
+msgstr "ତେଭେତ ର"
+
+#: kcalendarsystemethiopian.cpp:233
+#, fuzzy
+msgctxt "Ethiopian month 3 - ShortNamePossessive"
+msgid "of Hed"
+msgstr "of Feb"
+
+#: kcalendarsystemethiopian.cpp:235
+#, fuzzy
+msgctxt "Ethiopian month 4 - ShortNamePossessive"
+msgid "of Tah"
+msgstr "ବାହ୍ ର"
+
+#: kcalendarsystemethiopian.cpp:237
+#, fuzzy
+msgctxt "Ethiopian month 5 - ShortNamePossessive"
+msgid "of Ter"
+msgstr "ତିର ର"
+
+#: kcalendarsystemethiopian.cpp:239
+#, fuzzy
+msgctxt "Ethiopian month 6 - ShortNamePossessive"
+msgid "of Yak"
+msgstr "of Jan"
+
+#: kcalendarsystemethiopian.cpp:241
+#, fuzzy
+msgctxt "Ethiopian month 7 - ShortNamePossessive"
+msgid "of Mag"
+msgstr "of Mar"
+
+#: kcalendarsystemethiopian.cpp:243
+#, fuzzy
+msgctxt "Ethiopian month 8 - ShortNamePossessive"
+msgid "of Miy"
+msgstr "of May"
+
+#: kcalendarsystemethiopian.cpp:245
+#, fuzzy
+msgctxt "Ethiopian month 9 - ShortNamePossessive"
+msgid "of Gen"
+msgstr "of Jan"
+
+#: kcalendarsystemethiopian.cpp:247
+#, fuzzy
+msgctxt "Ethiopian month 10 - ShortNamePossessive"
+msgid "of Sen"
+msgstr "of Sep"
+
+#: kcalendarsystemethiopian.cpp:249
+#, fuzzy
+msgctxt "Ethiopian month 11 - ShortNamePossessive"
+msgid "of Ham"
+msgstr "ତାମୁଜ ର"
+
+#: kcalendarsystemethiopian.cpp:251
+#, fuzzy
+msgctxt "Ethiopian month 12 - ShortNamePossessive"
+msgid "of Neh"
+msgstr "ମେହ୍ ର"
+
+#: kcalendarsystemethiopian.cpp:253
+#, fuzzy
+msgctxt "Ethiopian month 13 - ShortNamePossessive"
+msgid "of Pag"
+msgstr "ତାମୁଜ ର"
+
+#: kcalendarsystemethiopian.cpp:262
+#, fuzzy
+msgctxt "Ethiopian month 1 - LongNamePossessive"
+msgid "of Meskerem"
+msgstr "ମେହର ର"
+
+#: kcalendarsystemethiopian.cpp:264
+#, fuzzy
+msgctxt "Ethiopian month 2 - LongNamePossessive"
+msgid "of Tequemt"
+msgstr "ତେଭେତ ର"
+
+#: kcalendarsystemethiopian.cpp:266
+#, fuzzy
+msgctxt "Ethiopian month 3 - LongNamePossessive"
+msgid "of Hedar"
+msgstr "ଆଦାର ର"
+
+#: kcalendarsystemethiopian.cpp:268
+#, fuzzy
+msgctxt "Ethiopian month 4 - LongNamePossessive"
+msgid "of Tahsas"
+msgstr "ବାହମାନ ର"
+
+#: kcalendarsystemethiopian.cpp:270
+#, fuzzy
+msgctxt "Ethiopian month 5 - LongNamePossessive"
+msgid "of Ter"
+msgstr "ତିର ର"
+
+#: kcalendarsystemethiopian.cpp:272
+#, fuzzy
+msgctxt "Ethiopian month 6 - LongNamePossessive"
+msgid "of Yakatit"
+msgstr "ଫାର ର"
+
+#: kcalendarsystemethiopian.cpp:274
+#, fuzzy
+msgctxt "Ethiopian month 7 - LongNamePossessive"
+msgid "of Magabit"
+msgstr "ରଜବର"
+
+#: kcalendarsystemethiopian.cpp:276
+#, fuzzy
+msgctxt "Ethiopian month 8 - LongNamePossessive"
+msgid "of Miyazya"
+msgstr "of May"
+
+#: kcalendarsystemethiopian.cpp:278
+#, fuzzy
+msgctxt "Ethiopian month 9 - LongNamePossessive"
+msgid "of Genbot"
+msgstr "of Feb"
+
+#: kcalendarsystemethiopian.cpp:280
+#, fuzzy
+msgctxt "Ethiopian month 10 - LongNamePossessive"
+msgid "of Sene"
+msgstr "of Sep"
+
+#: kcalendarsystemethiopian.cpp:282
+#, fuzzy
+msgctxt "Ethiopian month 11 - LongNamePossessive"
+msgid "of Hamle"
+msgstr "ତାମୁଜ ର"
+
+#: kcalendarsystemethiopian.cpp:284
+#, fuzzy
+msgctxt "Ethiopian month 12 - LongNamePossessive"
+msgid "of Nehase"
+msgstr "ଶା ର"
+
+#: kcalendarsystemethiopian.cpp:286
+#, fuzzy
+msgctxt "Ethiopian month 13 - LongNamePossessive"
+msgid "of Pagumen"
+msgstr "ତାମୁଜ ର"
+
+#: kcalendarsystemethiopian.cpp:295
+#, fuzzy
+msgctxt "Ethiopian month 1 - ShortName"
+msgid "Mes"
+msgstr "ହଁ"
+
+#: kcalendarsystemethiopian.cpp:297
+#, fuzzy
+msgctxt "Ethiopian month 2 - ShortName"
+msgid "Teq"
+msgstr "ମଙ୍ଗଳ"
+
+#: kcalendarsystemethiopian.cpp:299
+#, fuzzy
+msgctxt "Ethiopian month 3 - ShortName"
+msgid "Hed"
+msgstr "ବୁଧ"
+
+#: kcalendarsystemethiopian.cpp:301
+#, fuzzy
+msgctxt "Ethiopian month 4 - ShortName"
+msgid "Tah"
+msgstr "Thl"
+
+#: kcalendarsystemethiopian.cpp:303
+#, fuzzy
+msgctxt "Ethiopian month 5 - ShortName"
+msgid "Ter"
+msgstr "ମଙ୍ଗଳ"
+
+#: kcalendarsystemethiopian.cpp:305
+#, fuzzy
+msgctxt "Ethiopian month 6 - ShortName"
+msgid "Yak"
+msgstr "of Jan"
+
+#: kcalendarsystemethiopian.cpp:307
+#, fuzzy
+msgctxt "Ethiopian month 7 - ShortName"
+msgid "Mag"
+msgstr "Mar"
+
+#: kcalendarsystemethiopian.cpp:309
+#, fuzzy
+msgctxt "Ethiopian month 8 - ShortName"
+msgid "Miy"
+msgstr "May"
+
+#: kcalendarsystemethiopian.cpp:311
+#, fuzzy
+msgctxt "Ethiopian month 9 - ShortName"
+msgid "Gen"
+msgstr "ସବୁଜ:"
+
+#: kcalendarsystemethiopian.cpp:313
+#, fuzzy
+msgctxt "Ethiopian month 10 - ShortName"
+msgid "Sen"
+msgstr "ପଠାନ୍ତୁ (&S)"
+
+#: kcalendarsystemethiopian.cpp:315
+#, fuzzy
+msgctxt "Ethiopian month 11 - ShortName"
+msgid "Ham"
+msgstr "ପୂର୍ବାହ୍ନ"
+
+#: kcalendarsystemethiopian.cpp:317
+#, fuzzy
+msgctxt "Ethiopian month 12 - ShortName"
+msgid "Neh"
+msgstr "ମେହ୍"
+
+#: kcalendarsystemethiopian.cpp:319
+#, fuzzy
+msgctxt "Ethiopian month 13 - ShortName"
+msgid "Pag"
+msgstr "ପୃଷ୍ଠାଗୁଡିକ"
+
+#: kcalendarsystemethiopian.cpp:328
+#, fuzzy
+msgctxt "Ethiopian month 1 - LongName"
+msgid "Meskerem"
+msgstr "ମେହର ର"
+
+#: kcalendarsystemethiopian.cpp:330
+#, fuzzy
+msgctxt "Ethiopian month 2 - LongName"
+msgid "Tequemt"
+msgstr "ତେଭେତ"
+
+#: kcalendarsystemethiopian.cpp:332
+#, fuzzy
+msgctxt "Ethiopian month 3 - LongName"
+msgid "Hedar"
+msgstr "ଆଦାର"
+
+#: kcalendarsystemethiopian.cpp:334
+#, fuzzy
+msgctxt "Ethiopian month 4 - LongName"
+msgid "Tahsas"
+msgstr "କାର୍ଯ୍ୟ"
+
+#: kcalendarsystemethiopian.cpp:336
+#, fuzzy
+msgctxt "Ethiopian month 5 - LongName"
+msgid "Ter"
+msgstr "ମଙ୍ଗଳ"
+
+#: kcalendarsystemethiopian.cpp:338
+#, fuzzy
+msgctxt "Ethiopian month 6 - LongName"
+msgid "Yakatit"
+msgstr "ଫାର ର"
+
+#: kcalendarsystemethiopian.cpp:340
+#, fuzzy
+msgctxt "Ethiopian month 7 - LongName"
+msgid "Magabit"
+msgstr "ରଜବର"
+
+#: kcalendarsystemethiopian.cpp:342
+#, fuzzy
+msgctxt "Ethiopian month 8 - LongName"
+msgid "Miyazya"
+msgstr "of May"
+
+#: kcalendarsystemethiopian.cpp:344
+#, fuzzy
+msgctxt "Ethiopian month 9 - LongName"
+msgid "Genbot"
+msgstr "of Feb"
+
+#: kcalendarsystemethiopian.cpp:346
+#, fuzzy
+msgctxt "Ethiopian month 10 - LongName"
+msgid "Sene"
+msgstr "ପଠାନ୍ତୁ (&S)"
+
+#: kcalendarsystemethiopian.cpp:348
+#, fuzzy
+msgctxt "Ethiopian month 11 - LongName"
+msgid "Hamle"
+msgstr "ନାମ"
+
+#: kcalendarsystemethiopian.cpp:350
+#, fuzzy
+msgctxt "Ethiopian month 12 - LongName"
+msgid "Nehase"
+msgstr "ନାମ"
+
+#: kcalendarsystemethiopian.cpp:352
+#, fuzzy
+msgctxt "Ethiopian month 13 - LongName"
+msgid "Pagumen"
+msgstr "ପୃଷ୍ଠାଗୁଡିକ"
+
+#: kcalendarsystemethiopian.cpp:368
+#, fuzzy
+msgctxt "Ethiopian weekday 1 - ShortDayName"
+msgid "Seg"
+msgstr "Sep"
+
+#: kcalendarsystemethiopian.cpp:369
+#, fuzzy
+msgctxt "Ethiopian weekday 2 - ShortDayName"
+msgid "Mak"
+msgstr "Mar"
+
+#: kcalendarsystemethiopian.cpp:370
+#, fuzzy
+msgctxt "Ethiopian weekday 3 - ShortDayName"
+msgid "Rob"
+msgstr "କାର୍ଯ୍ୟ"
+
+#: kcalendarsystemethiopian.cpp:371
+#, fuzzy
+msgctxt "Ethiopian weekday 4 - ShortDayName"
+msgid "Ham"
+msgstr "ପୂର୍ବାହ୍ନ"
+
+#: kcalendarsystemethiopian.cpp:372
+#, fuzzy
+msgctxt "Ethiopian weekday 5 - ShortDayName"
+msgid "Arb"
+msgstr "ଆରବ"
+
+#: kcalendarsystemethiopian.cpp:373
+#, fuzzy
+msgctxt "Ethiopian weekday 6 - ShortDayName"
+msgid "Qed"
+msgstr "ବୁଧ"
+
+#: kcalendarsystemethiopian.cpp:374
+#, fuzzy
+msgctxt "Ethiopian weekday 7 - ShortDayName"
+msgid "Ehu"
+msgstr "ଗୁରୁ"
+
+#: kcalendarsystemethiopian.cpp:380
+#, fuzzy
+msgctxt "Ethiopian weekday 1 - LongDayName"
+msgid "Segno"
+msgstr "ପଠାନ୍ତୁ (&S)"
+
+#: kcalendarsystemethiopian.cpp:381
+#, fuzzy
+msgctxt "Ethiopian weekday 2 - LongDayName"
+msgid "Maksegno"
+msgstr "ପଠାନ୍ତୁ (&S)"
+
+#: kcalendarsystemethiopian.cpp:382
+#, fuzzy
+msgctxt "Ethiopian weekday 3 - LongDayName"
+msgid "Rob"
+msgstr "କାର୍ଯ୍ୟ"
+
+#: kcalendarsystemethiopian.cpp:383
+#, fuzzy
+msgctxt "Ethiopian weekday 4 - LongDayName"
+msgid "Hamus"
+msgstr "ବିରତି"
+
+#: kcalendarsystemethiopian.cpp:384
+#, fuzzy
+msgctxt "Ethiopian weekday 5 - LongDayName"
+msgid "Arb"
+msgstr "ଆରବ"
+
+#: kcalendarsystemethiopian.cpp:385
+#, fuzzy
+msgctxt "Ethiopian weekday 6 - LongDayName"
+msgid "Qedame"
+msgstr "ନାମ"
+
+#: kcalendarsystemethiopian.cpp:386
+#, fuzzy
+msgctxt "Ethiopian weekday 7 - LongDayName"
+msgid "Ehud"
+msgstr "ଗୁରୁ"
+
+#: kcalendarsystemcoptic.cpp:50
+msgctxt "Calendar Era: Coptic Era of Martyrs, years > 0, LongFormat"
+msgid "Anno Martyrum"
+msgstr ""
+
+#: kcalendarsystemcoptic.cpp:51
+msgctxt "Calendar Era: Coptic Era of Martyrs, years > 0, ShortFormat"
+msgid "AM"
+msgstr ""
+
+#: kcalendarsystemcoptic.cpp:52
+#, c-format
+msgctxt ""
+"(kdedt-format) Coptic, AM, full era year format used for %EY, e.g. 2000 AM"
+msgid "%Ey %EC"
+msgstr ""
+
+#: kcalendarsystemcoptic.cpp:326
+#, fuzzy
+msgctxt "Coptic month 1 - ShortNamePossessive"
+msgid "of Tho"
+msgstr "ଖୋ ର"
+
+#: kcalendarsystemcoptic.cpp:328
+#, fuzzy
+msgctxt "Coptic month 2 - ShortNamePossessive"
+msgid "of Pao"
+msgstr "ତାମୁଜ ର"
+
+#: kcalendarsystemcoptic.cpp:330
+#, fuzzy
+msgctxt "Coptic month 3 - ShortNamePossessive"
+msgid "of Hat"
+msgstr "ଶ୍ୱାତ ର"
+
+#: kcalendarsystemcoptic.cpp:332
+#, fuzzy
+msgctxt "Coptic month 4 - ShortNamePossessive"
+msgid "of Kia"
+msgstr "ନିସାନ ର"
+
+#: kcalendarsystemcoptic.cpp:334
+#, fuzzy
+msgctxt "Coptic month 5 - ShortNamePossessive"
+msgid "of Tob"
+msgstr "of Feb"
+
+#: kcalendarsystemcoptic.cpp:336
+#, fuzzy
+msgctxt "Coptic month 6 - ShortNamePossessive"
+msgid "of Mes"
+msgstr "ମେହ୍ ର"
+
+#: kcalendarsystemcoptic.cpp:338
+#, fuzzy
+msgctxt "Coptic month 7 - ShortNamePossessive"
+msgid "of Par"
+msgstr "of Mar"
+
+#: kcalendarsystemcoptic.cpp:340
+#, fuzzy
+msgctxt "Coptic month 8 - ShortNamePossessive"
+msgid "of Pam"
+msgstr "ତାମୁଜ ର"
+
+#: kcalendarsystemcoptic.cpp:342
+#, fuzzy
+msgctxt "Coptic month 9 - ShortNamePossessive"
+msgid "of Pas"
+msgstr "ବାହ୍ ର"
+
+#: kcalendarsystemcoptic.cpp:344
+#, fuzzy
+msgctxt "Coptic month 10 - ShortNamePossessive"
+msgid "of Pan"
+msgstr "of Jan"
+
+#: kcalendarsystemcoptic.cpp:346
+#, fuzzy
+msgctxt "Coptic month 11 - ShortNamePossessive"
+msgid "of Epe"
+msgstr "of Feb"
+
+#: kcalendarsystemcoptic.cpp:348
+#, fuzzy
+msgctxt "Coptic month 12 - ShortNamePossessive"
+msgid "of Meo"
+msgstr "ମୋର ର"
+
+#: kcalendarsystemcoptic.cpp:350
+#, fuzzy
+msgctxt "Coptic month 13 - ShortNamePossessive"
+msgid "of Kou"
+msgstr "ଖୋ ର"
+
+#: kcalendarsystemcoptic.cpp:359
+#, fuzzy
+msgctxt "Coptic month 1 - LongNamePossessive"
+msgid "of Thoout"
+msgstr "ଖୋ ର"
+
+#: kcalendarsystemcoptic.cpp:361
+#, fuzzy
+msgctxt "Coptic month 2 - LongNamePossessive"
+msgid "of Paope"
+msgstr "ତାମୁଜ ର"
+
+#: kcalendarsystemcoptic.cpp:363
+#, fuzzy
+msgctxt "Coptic month 3 - LongNamePossessive"
+msgid "of Hathor"
+msgstr "ହିଜ୍ଜାର"
+
+#: kcalendarsystemcoptic.cpp:365
+#, fuzzy
+msgctxt "Coptic month 4 - LongNamePossessive"
+msgid "of Kiahk"
+msgstr "ଖୋ ର"
+
+#: kcalendarsystemcoptic.cpp:367
+#, fuzzy
+msgctxt "Coptic month 5 - LongNamePossessive"
+msgid "of Tobe"
+msgstr "ଅକ୍ଟୋବର ର"
+
+#: kcalendarsystemcoptic.cpp:369
+#, fuzzy
+msgctxt "Coptic month 6 - LongNamePossessive"
+msgid "of Meshir"
+msgstr "ମେହର ର"
+
+#: kcalendarsystemcoptic.cpp:371
+#, fuzzy
+msgctxt "Coptic month 7 - LongNamePossessive"
+msgid "of Paremhotep"
+msgstr "ପ୍ରାଚଳ"
+
+#: kcalendarsystemcoptic.cpp:373
+#, fuzzy
+msgctxt "Coptic month 8 - LongNamePossessive"
+msgid "of Parmoute"
+msgstr "ତାମୁଜ ର"
+
+#: kcalendarsystemcoptic.cpp:375
+#, fuzzy
+msgctxt "Coptic month 9 - LongNamePossessive"
+msgid "of Pashons"
+msgstr "ବାହ୍ ର"
+
+#: kcalendarsystemcoptic.cpp:377
+#, fuzzy
+msgctxt "Coptic month 10 - LongNamePossessive"
+msgid "of Paone"
+msgstr "of Jan"
+
+#: kcalendarsystemcoptic.cpp:379
+#, fuzzy
+msgctxt "Coptic month 11 - LongNamePossessive"
+msgid "of Epep"
+msgstr "of Sep"
+
+#: kcalendarsystemcoptic.cpp:381
+#, fuzzy
+msgctxt "Coptic month 12 - LongNamePossessive"
+msgid "of Mesore"
+msgstr "ମୋର ର"
+
+#: kcalendarsystemcoptic.cpp:383
+#, fuzzy
+msgctxt "Coptic month 13 - LongNamePossessive"
+msgid "of Kouji nabot"
+msgstr "of Feb"
+
+#: kcalendarsystemcoptic.cpp:392
+#, fuzzy
+msgctxt "Coptic month 1 - ShortName"
+msgid "Tho"
+msgstr "Thl"
+
+#: kcalendarsystemcoptic.cpp:394
+#, fuzzy
+msgctxt "Coptic month 2 - ShortName"
+msgid "Pao"
+msgstr "ବିରତି"
+
+#: kcalendarsystemcoptic.cpp:396
+#, fuzzy
+msgctxt "Coptic month 3 - ShortName"
+msgid "Hat"
+msgstr "ଶନି"
+
+#: kcalendarsystemcoptic.cpp:398
+#, fuzzy
+msgctxt "Coptic month 4 - ShortName"
+msgid "Kia"
+msgstr "ଖା"
+
+#: kcalendarsystemcoptic.cpp:400
+#, fuzzy
+msgctxt "Coptic month 5 - ShortName"
+msgid "Tob"
+msgstr "କାର୍ଯ୍ୟ"
+
+#: kcalendarsystemcoptic.cpp:402
+#, fuzzy
+msgctxt "Coptic month 6 - ShortName"
+msgid "Mes"
+msgstr "ହଁ"
+
+#: kcalendarsystemcoptic.cpp:404
+#, fuzzy
+msgctxt "Coptic month 7 - ShortName"
+msgid "Par"
+msgstr "Mar"
+
+#: kcalendarsystemcoptic.cpp:406
+#, fuzzy
+msgctxt "Coptic month 8 - ShortName"
+msgid "Pam"
+msgstr "ପୂର୍ବାହ୍ନ"
+
+#: kcalendarsystemcoptic.cpp:408
+#, fuzzy
+msgctxt "Coptic month 9 - ShortName"
+msgid "Pas"
+msgstr "ପୃଷ୍ଠାଗୁଡିକ"
+
+#: kcalendarsystemcoptic.cpp:410
+#, fuzzy
+msgctxt "Coptic month 10 - ShortName"
+msgid "Pan"
+msgstr "Jan"
+
+#: kcalendarsystemcoptic.cpp:412
+#, fuzzy
+msgctxt "Coptic month 11 - ShortName"
+msgid "Epe"
+msgstr "ବାହାରକୁ ଯାଆନ୍ତୁ (Escape)"
+
+#: kcalendarsystemcoptic.cpp:414
+#, fuzzy
+msgctxt "Coptic month 12 - ShortName"
+msgid "Meo"
+msgstr "ସୋମ"
+
+#: kcalendarsystemcoptic.cpp:416
+#, fuzzy
+msgctxt "Coptic month 13 - ShortName"
+msgid "Kou"
+msgstr "ଖୋ"
+
+#: kcalendarsystemcoptic.cpp:425
+#, fuzzy
+msgctxt "Coptic month 1 - LongName"
+msgid "Thoout"
+msgstr "ଗୁରୁ"
+
+#: kcalendarsystemcoptic.cpp:427
+#, fuzzy
+msgctxt "Coptic month 2 - LongName"
+msgid "Paope"
+msgstr "ଗୁଣ"
+
+#: kcalendarsystemcoptic.cpp:429
+#, fuzzy
+msgctxt "Coptic month 3 - LongName"
+msgid "Hathor"
+msgstr "ଲେଖକ"
+
+#: kcalendarsystemcoptic.cpp:431
+#, fuzzy
+msgctxt "Coptic month 4 - LongName"
+msgid "Kiahk"
+msgstr "ଖୋ ର"
+
+#: kcalendarsystemcoptic.cpp:433
+#, fuzzy
+msgctxt "Coptic month 5 - LongName"
+msgid "Tobe"
+msgstr "କାର୍ଯ୍ୟ"
+
+#: kcalendarsystemcoptic.cpp:435
+#, fuzzy
+msgctxt "Coptic month 6 - LongName"
+msgid "Meshir"
+msgstr "ମେହର"
+
+#: kcalendarsystemcoptic.cpp:437
+#, fuzzy
+msgctxt "Coptic month 7 - LongName"
+msgid "Paremhotep"
+msgstr "ପ୍ରାଚଳ"
+
+#: kcalendarsystemcoptic.cpp:439
+#, fuzzy
+msgctxt "Coptic month 8 - LongName"
+msgid "Parmoute"
+msgstr "ପ୍ରାଚଳ"
+
+#: kcalendarsystemcoptic.cpp:441
+#, fuzzy
+msgctxt "Coptic month 9 - LongName"
+msgid "Pashons"
+msgstr "ବିରତି"
+
+#: kcalendarsystemcoptic.cpp:443
+#, fuzzy
+msgctxt "Coptic month 10 - LongName"
+msgid "Paone"
+msgstr "କେହିନୁହଁ"
+
+#: kcalendarsystemcoptic.cpp:445
+#, fuzzy
+msgctxt "Coptic month 11 - LongName"
+msgid "Epep"
+msgstr "ବାହାରକୁ ଯାଆନ୍ତୁ (Escape)"
+
+#: kcalendarsystemcoptic.cpp:447
+#, fuzzy
+msgctxt "Coptic month 12 - LongName"
+msgid "Mesore"
+msgstr "ପୁନଃସ୍ଥାପନ କରନ୍ତୁ (&R)"
+
+#: kcalendarsystemcoptic.cpp:449
+msgctxt "Coptic month 13 - LongName"
+msgid "Kouji nabot"
+msgstr ""
+
+#: kcalendarsystemcoptic.cpp:466
+#, fuzzy
+msgctxt "Coptic weekday 1 - ShortDayName"
+msgid "Pes"
+msgstr "ପୃଷ୍ଠାଗୁଡିକ"
+
+#: kcalendarsystemcoptic.cpp:467
+#, fuzzy
+msgctxt "Coptic weekday 2 - ShortDayName"
+msgid "Psh"
+msgstr "ବିରତି"
+
+#: kcalendarsystemcoptic.cpp:468
+#, fuzzy
+msgctxt "Coptic weekday 3 - ShortDayName"
+msgid "Pef"
+msgstr "ପୃଷ୍ଠାଗୁଡିକ"
+
+#: kcalendarsystemcoptic.cpp:469
+msgctxt "Coptic weekday 4 - ShortDayName"
+msgid "Pti"
+msgstr ""
+
+#: kcalendarsystemcoptic.cpp:470
+#, fuzzy
+msgctxt "Coptic weekday 5 - ShortDayName"
+msgid "Pso"
+msgstr "ବିରତି"
+
+#: kcalendarsystemcoptic.cpp:471
+#, fuzzy
+msgctxt "Coptic weekday 6 - ShortDayName"
+msgid "Psa"
+msgstr "ବିରତି"
+
+#: kcalendarsystemcoptic.cpp:472
+msgctxt "Coptic weekday 7 - ShortDayName"
+msgid "Tky"
+msgstr ""
+
+#: kcalendarsystemcoptic.cpp:478
+#, fuzzy
+msgctxt "Coptic weekday 1 - LongDayName"
+msgid "Pesnau"
+msgstr "ବିରତି"
+
+#: kcalendarsystemcoptic.cpp:479
+#, fuzzy
+msgctxt "Coptic weekday 2 - LongDayName"
+msgid "Pshoment"
+msgstr "ଟିପ୍ପଣୀ"
+
+#: kcalendarsystemcoptic.cpp:480
+msgctxt "Coptic weekday 3 - LongDayName"
+msgid "Peftoou"
+msgstr ""
+
+#: kcalendarsystemcoptic.cpp:481
+msgctxt "Coptic weekday 4 - LongDayName"
+msgid "Ptiou"
+msgstr ""
+
+#: kcalendarsystemcoptic.cpp:482
+msgctxt "Coptic weekday 5 - LongDayName"
+msgid "Psoou"
+msgstr ""
+
+#: kcalendarsystemcoptic.cpp:483
+msgctxt "Coptic weekday 6 - LongDayName"
+msgid "Psabbaton"
+msgstr ""
+
+#: kcalendarsystemcoptic.cpp:484
+msgctxt "Coptic weekday 7 - LongDayName"
+msgid "Tkyriakē"
+msgstr ""
+
+#: kcalendarsystemthai.cpp:62
+msgctxt "Calendar Era: Thai Buddhist Era, years > 0, LongFormat"
+msgid "Buddhist Era"
+msgstr ""
+
+#: kcalendarsystemthai.cpp:63
+msgctxt "Calendar Era: Thai Buddhist Era, years > 0, ShortFormat"
+msgid "BE"
+msgstr ""
+
+#: kcalendarsystemthai.cpp:64
+#, c-format
+msgctxt ""
+"(kdedt-format) Thai, BE, full era year format used for %EY, e.g. 2000 BE"
+msgid "%Ey %EC"
+msgstr ""
+
+#: kcalendarsystemindiannational.cpp:72
+#, fuzzy
+#| msgid "Safar"
+msgctxt "Calendar Era: Indian National Saka Era, years > 0, LongFormat"
+msgid "Saka Era"
+msgstr "ସଫର"
+
+#: kcalendarsystemindiannational.cpp:73
+msgctxt "Calendar Era: Indian National Saka Era, years > 0, ShortFormat"
+msgid "SE"
+msgstr ""
+
+#: kcalendarsystemindiannational.cpp:74
+#, c-format
+msgctxt ""
+"(kdedt-format) Indian National, SE, full era year format used for %EY, e.g. "
+"2000 SE"
+msgid "%Ey %EC"
+msgstr ""
+
+#: kcalendarsystemindiannational.cpp:335
+#, fuzzy
+msgctxt "Indian National month 1 - ShortNamePossessive"
+msgid "of Cha"
+msgstr "ଶା ର"
+
+#: kcalendarsystemindiannational.cpp:337
+#, fuzzy
+msgctxt "Indian National month 2 - ShortNamePossessive"
+msgid "of Vai"
+msgstr "ଫାର ର"
+
+#: kcalendarsystemindiannational.cpp:339
+#, fuzzy
+msgctxt "Indian National month 3 - ShortNamePossessive"
+msgid "of Jya"
+msgstr "of Jan"
+
+#: kcalendarsystemindiannational.cpp:341
+#, fuzzy
+msgctxt "Indian National month 4 - ShortNamePossessive"
+msgid "of Āsh"
+msgstr "ଖୋ ର"
+
+#: kcalendarsystemindiannational.cpp:343
+#, fuzzy
+msgctxt "Indian National month 5 - ShortNamePossessive"
+msgid "of Shr"
+msgstr "ଶା ର"
+
+#: kcalendarsystemindiannational.cpp:345
+#, fuzzy
+msgctxt "Indian National month 6 - ShortNamePossessive"
+msgid "of Bhā"
+msgstr "ବାହ୍ ର"
+
+#: kcalendarsystemindiannational.cpp:347
+#, fuzzy
+msgctxt "Indian National month 7 - ShortNamePossessive"
+msgid "of Āsw"
+msgstr "ଏସ୍ଫ୍ ର"
+
+#: kcalendarsystemindiannational.cpp:349
+#, fuzzy
+msgctxt "Indian National month 8 - ShortNamePossessive"
+msgid "of Kār"
+msgstr "ଫାର ର"
+
+#: kcalendarsystemindiannational.cpp:351
+#, fuzzy
+msgctxt "Indian National month 9 - ShortNamePossessive"
+msgid "of Agr"
+msgstr "of Apr"
+
+#: kcalendarsystemindiannational.cpp:353
+#, fuzzy
+msgctxt "Indian National month 10 - ShortNamePossessive"
+msgid "of Pau"
+msgstr "ତାମୁଜ ର"
+
+#: kcalendarsystemindiannational.cpp:355
+#, fuzzy
+msgctxt "Indian National month 11 - ShortNamePossessive"
+msgid "of Māg"
+msgstr "ମୋର ର"
+
+#: kcalendarsystemindiannational.cpp:357
+#, fuzzy
+msgctxt "Indian National month 12 - ShortNamePossessive"
+msgid "of Phā"
+msgstr "ଖୋ ର"
+
+#: kcalendarsystemindiannational.cpp:366
+#, fuzzy
+msgctxt "Indian National month 1 - LongNamePossessive"
+msgid "of Chaitra"
+msgstr "ମୁହରମର"
+
+#: kcalendarsystemindiannational.cpp:368
+#, fuzzy
+msgctxt "Indian National month 2 - LongNamePossessive"
+msgid "of Vaishākh"
+msgstr "ଫାର ର"
+
+#: kcalendarsystemindiannational.cpp:370
+#, fuzzy
+msgctxt "Indian National month 3 - LongNamePossessive"
+msgid "of Jyaishtha"
+msgstr "ନିସାନ ର"
+
+#: kcalendarsystemindiannational.cpp:372
+#, fuzzy
+msgctxt "Indian National month 4 - LongNamePossessive"
+msgid "of Āshādha"
+msgstr "ଖୋ ର"
+
+#: kcalendarsystemindiannational.cpp:374
+#, fuzzy
+msgctxt "Indian National month 5 - LongNamePossessive"
+msgid "of Shrāvana"
+msgstr "ଶ୍ୱାତ ର"
+
+#: kcalendarsystemindiannational.cpp:376
+#, fuzzy
+msgctxt "Indian National month 6 - LongNamePossessive"
+msgid "of Bhādrapad"
+msgstr "ଖର୍ଡାଡ ର"
+
+#: kcalendarsystemindiannational.cpp:378
+#, fuzzy
+msgctxt "Indian National month 7 - LongNamePossessive"
+msgid "of Āshwin"
+msgstr "ହେଶୱାନ ର"
+
+#: kcalendarsystemindiannational.cpp:380
+#, fuzzy
+msgctxt "Indian National month 8 - LongNamePossessive"
+msgid "of Kārtik"
+msgstr "ଫାର ର"
+
+#: kcalendarsystemindiannational.cpp:382
+#, fuzzy
+msgctxt "Indian National month 9 - LongNamePossessive"
+msgid "of Agrahayana"
+msgstr "ବାହମାନ ର"
+
+#: kcalendarsystemindiannational.cpp:384
+#, fuzzy
+msgctxt "Indian National month 10 - LongNamePossessive"
+msgid "of Paush"
+msgstr "ବାହ୍ ର"
+
+#: kcalendarsystemindiannational.cpp:386
+#, fuzzy
+msgctxt "Indian National month 11 - LongNamePossessive"
+msgid "of Māgh"
+msgstr "ମେହ୍ ର"
+
+#: kcalendarsystemindiannational.cpp:388
+#, fuzzy
+msgctxt "Indian National month 12 - LongNamePossessive"
+msgid "of Phālgun"
+msgstr "ଖୋ ର"
+
+#: kcalendarsystemindiannational.cpp:397
+#, fuzzy
+msgctxt "Indian National month 1 - ShortName"
+msgid "Cha"
+msgstr "ଖା"
+
+#: kcalendarsystemindiannational.cpp:399
+#, fuzzy
+msgctxt "Indian National month 2 - ShortName"
+msgid "Vai"
+msgstr "ଫାର ର"
+
+#: kcalendarsystemindiannational.cpp:401
+#, fuzzy
+msgctxt "Indian National month 3 - ShortName"
+msgid "Jya"
+msgstr "Jan"
+
+#: kcalendarsystemindiannational.cpp:403
+#, fuzzy
+msgctxt "Indian National month 4 - ShortName"
+msgid "Āsh"
+msgstr "ଖୋ ର"
+
+#: kcalendarsystemindiannational.cpp:405
+#, fuzzy
+msgctxt "Indian National month 5 - ShortName"
+msgid "Shr"
+msgstr "ଶା"
+
+#: kcalendarsystemindiannational.cpp:407
+#, fuzzy
+msgctxt "Indian National month 6 - ShortName"
+msgid "Bhā"
+msgstr "ବାହ୍ ର"
+
+#: kcalendarsystemindiannational.cpp:409
+#, fuzzy
+msgctxt "Indian National month 7 - ShortName"
+msgid "Āsw"
+msgstr "ଏସ୍ଫ୍ ର"
+
+#: kcalendarsystemindiannational.cpp:411
+#, fuzzy
+msgctxt "Indian National month 8 - ShortName"
+msgid "Kār"
+msgstr "ଫାର ର"
+
+#: kcalendarsystemindiannational.cpp:413
+#, fuzzy
+msgctxt "Indian National month 9 - ShortName"
+msgid "Agr"
+msgstr "ଆରବ"
+
+#: kcalendarsystemindiannational.cpp:415
+#, fuzzy
+msgctxt "Indian National month 10 - ShortName"
+msgid "Pau"
+msgstr "ବିରତି"
+
+#: kcalendarsystemindiannational.cpp:417
+#, fuzzy
+msgctxt "Indian National month 11 - ShortName"
+msgid "Māg"
+msgstr "ମୋର ର"
+
+#: kcalendarsystemindiannational.cpp:419
+#, fuzzy
+msgctxt "Indian National month 12 - ShortName"
+msgid "Phā"
+msgstr "ଖୋ ର"
+
+#: kcalendarsystemindiannational.cpp:428
+#, fuzzy
+msgctxt "Indian National month 1 - LongName"
+msgid "Chaitra"
+msgstr "ମୁହରମର"
+
+#: kcalendarsystemindiannational.cpp:430
+msgctxt "Indian National month 2 - LongName"
+msgid "Vaishākh"
+msgstr ""
+
+#: kcalendarsystemindiannational.cpp:432
+#, fuzzy
+msgctxt "Indian National month 3 - LongName"
+msgid "Jyaishtha"
+msgstr "ନିସାନ ର"
+
+#: kcalendarsystemindiannational.cpp:434
+msgctxt "Indian National month 4 - LongName"
+msgid "Āshādha"
+msgstr ""
+
+#: kcalendarsystemindiannational.cpp:436
+#, fuzzy
+msgctxt "Indian National month 5 - LongName"
+msgid "Shrāvana"
+msgstr "ଶ୍ୱାତ ର"
+
+#: kcalendarsystemindiannational.cpp:438
+#, fuzzy
+msgctxt "Indian National month 6 - LongName"
+msgid "Bhādrapad"
+msgstr "ଖର୍ଡାଡ ର"
+
+#: kcalendarsystemindiannational.cpp:440
+#, fuzzy
+msgctxt "Indian National month 7 - LongName"
+msgid "Āshwin"
+msgstr "ହେଶୱାନ ର"
+
+#: kcalendarsystemindiannational.cpp:442
+msgctxt "Indian National month 8 - LongName"
+msgid "Kārtik"
+msgstr ""
+
+#: kcalendarsystemindiannational.cpp:444
+#, fuzzy
+msgctxt "Indian National month 9 - LongName"
+msgid "Agrahayana"
+msgstr "ଥାନା"
+
+#: kcalendarsystemindiannational.cpp:446
+#, fuzzy
+msgctxt "Indian National month 10 - LongName"
+msgid "Paush"
+msgstr "ବିରତି"
+
+#: kcalendarsystemindiannational.cpp:448
+#, fuzzy
+msgctxt "Indian National month 11 - LongName"
+msgid "Māgh"
+msgstr "ମେହ୍ ର"
+
+#: kcalendarsystemindiannational.cpp:450
+msgctxt "Indian National month 12 - LongName"
+msgid "Phālgun"
+msgstr ""
+
+#: kcalendarsystemindiannational.cpp:465
+#, fuzzy
+msgctxt "Indian National weekday 1 - ShortDayName"
+msgid "Som"
+msgstr "ଜମ"
+
+#: kcalendarsystemindiannational.cpp:466
+msgctxt "Indian National weekday 2 - ShortDayName"
+msgid "Mañ"
+msgstr ""
+
+#: kcalendarsystemindiannational.cpp:467
+#, fuzzy
+msgctxt "Indian National weekday 3 - ShortDayName"
+msgid "Bud"
+msgstr "ବୁହିଦ"
+
+#: kcalendarsystemindiannational.cpp:468
+msgctxt "Indian National weekday 4 - ShortDayName"
+msgid "Gur"
+msgstr ""
+
+#: kcalendarsystemindiannational.cpp:469
+#, fuzzy
+msgctxt "Indian National weekday 5 - ShortDayName"
+msgid "Suk"
+msgstr "ରବି"
+
+#: kcalendarsystemindiannational.cpp:470
+#, fuzzy
+msgctxt "Indian National weekday 6 - ShortDayName"
+msgid "San"
+msgstr "ସିୱାନ"
+
+#: kcalendarsystemindiannational.cpp:471
+msgctxt "Indian National weekday 7 - ShortDayName"
+msgid "Rav"
+msgstr ""
+
+#: kcalendarsystemindiannational.cpp:477
+msgctxt "Indian National weekday 1 - LongDayName"
+msgid "Somavãra"
+msgstr ""
+
+#: kcalendarsystemindiannational.cpp:478
+msgctxt "Indian National weekday 2 - LongDayName"
+msgid "Mañgalvã"
+msgstr ""
+
+#: kcalendarsystemindiannational.cpp:479
+msgctxt "Indian National weekday 3 - LongDayName"
+msgid "Budhavãra"
+msgstr ""
+
+#: kcalendarsystemindiannational.cpp:480
+msgctxt "Indian National weekday 4 - LongDayName"
+msgid "Guruvãra"
+msgstr ""
+
+#: kcalendarsystemindiannational.cpp:481
+msgctxt "Indian National weekday 5 - LongDayName"
+msgid "Sukravãra"
+msgstr ""
+
+#: kcalendarsystemindiannational.cpp:482
+msgctxt "Indian National weekday 6 - LongDayName"
+msgid "Sanivãra"
+msgstr ""
+
+#: kcalendarsystemindiannational.cpp:483
+msgctxt "Indian National weekday 7 - LongDayName"
+msgid "Raviãra"
+msgstr ""
+
+#: kcalendarsystemminguo.cpp:61
+msgctxt "Calendar Era: Taiwan Republic of China Era, years > 0, LongFormat"
+msgid "Republic of China Era"
+msgstr ""
+
+#: kcalendarsystemminguo.cpp:62
+msgctxt "Calendar Era: Taiwan Republic of China Era, years > 0, ShortFormat"
+msgid "ROC"
+msgstr ""
+
+#: kcalendarsystemminguo.cpp:63
+#, c-format
+msgctxt ""
+"(kdedt-format) Taiwan, ROC, full era year format used for %EY, e.g. ROC 99"
+msgid "%EC %Ey"
+msgstr ""
+
+#: kcalendarsystemhebrew.cpp:287
+msgctxt "Calendar Era: Hebrew Era, years > 0, LongFormat"
+msgid "Anno Mundi"
+msgstr ""
+
+#: kcalendarsystemhebrew.cpp:288
+msgctxt "Calendar Era: Hebrew Era, years > 0, ShortFormat"
+msgid "AM"
+msgstr ""
+
+#: kcalendarsystemhebrew.cpp:289
+#, c-format
+msgctxt ""
+"(kdedt-format) Hebrew, AM, full era year format used for %EY, e.g. 2000 AM"
+msgid "%Ey %EC"
+msgstr ""
+
+#: kcalendarsystemhebrew.cpp:811
+msgid "of Tishrey"
+msgstr "ତିସ୍ରେ ର"
+
+#: kcalendarsystemhebrew.cpp:813
+msgid "of Heshvan"
+msgstr "ହେଶୱାନ ର"
+
+#: kcalendarsystemhebrew.cpp:815
+msgid "of Kislev"
+msgstr "କିସଲେଭ ର"
+
+#: kcalendarsystemhebrew.cpp:817
+msgid "of Tevet"
+msgstr "ତେଭେତ ର"
+
+#: kcalendarsystemhebrew.cpp:819
+msgid "of Shvat"
+msgstr "ଶ୍ୱାତ ର"
+
+#: kcalendarsystemhebrew.cpp:821
+msgid "of Adar"
+msgstr "ଆଦାର ର"
+
+#: kcalendarsystemhebrew.cpp:823
+msgid "of Nisan"
+msgstr "ନିସାନ ର"
+
+#: kcalendarsystemhebrew.cpp:825
+msgid "of Iyar"
+msgstr "ଆୟାର ର"
+
+#: kcalendarsystemhebrew.cpp:827
+msgid "of Sivan"
+msgstr "ସିୱାନ ର"
+
+#: kcalendarsystemhebrew.cpp:829
+msgid "of Tamuz"
+msgstr "ତାମୁଜ ର"
+
+#: kcalendarsystemhebrew.cpp:831
+msgid "of Av"
+msgstr "ଏଭ ର"
+
+#: kcalendarsystemhebrew.cpp:833
+msgid "of Elul"
+msgstr "ଏଲୁଲ ର"
+
+#: kcalendarsystemhebrew.cpp:835
+msgid "of Adar I"
+msgstr "ଆଦାର I ର"
+
+#: kcalendarsystemhebrew.cpp:837
+msgid "of Adar II"
+msgstr "ଆଦାର II ର"
+
+#: kcalendarsystemhebrew.cpp:845
+msgid "Tishrey"
+msgstr "ତିସ୍ରେ"
+
+#: kcalendarsystemhebrew.cpp:847
+msgid "Heshvan"
+msgstr "ହେଶୱାନ"
+
+#: kcalendarsystemhebrew.cpp:849
+msgid "Kislev"
+msgstr "କିସଲେଭ"
+
+#: kcalendarsystemhebrew.cpp:851
+msgid "Tevet"
+msgstr "ତେଭେତ"
+
+#: kcalendarsystemhebrew.cpp:853
+msgid "Shvat"
+msgstr "ଶ୍ୱାତ"
+
+#: kcalendarsystemhebrew.cpp:855
+msgid "Adar"
+msgstr "ଆଦାର"
+
+#: kcalendarsystemhebrew.cpp:857
+msgid "Nisan"
+msgstr "ନିସାନ"
+
+#: kcalendarsystemhebrew.cpp:859
+msgid "Iyar"
+msgstr "ଆୟାର"
+
+#: kcalendarsystemhebrew.cpp:861
+msgid "Sivan"
+msgstr "ସିୱାନ"
+
+#: kcalendarsystemhebrew.cpp:863
+msgid "Tamuz"
+msgstr "ତାମୁଜ"
+
+#: kcalendarsystemhebrew.cpp:865
+msgid "Av"
+msgstr "ଏଭ"
+
+#: kcalendarsystemhebrew.cpp:867
+msgid "Elul"
+msgstr "ଏଲୁଲ"
+
+#: kcalendarsystemhebrew.cpp:869
+msgid "Adar I"
+msgstr "ଆଦାର I"
+
+#: kcalendarsystemhebrew.cpp:871
+msgid "Adar II"
+msgstr "ଆଦାର II"
+
+#: kcalendarsystemjulian.cpp:80
+msgctxt "Calendar Era: Julian Common Era, years < 0, LongFormat"
+msgid "Before Common Era"
+msgstr ""
+
+#: kcalendarsystemjulian.cpp:81
+msgctxt "Calendar Era: Julian Common Era, years < 0, ShortFormat"
+msgid "BCE"
+msgstr ""
+
+#: kcalendarsystemjulian.cpp:83
+msgctxt "Calendar Era: Julian Christian Era, years < 0, LongFormat"
+msgid "Before Christ"
+msgstr ""
+
+#: kcalendarsystemjulian.cpp:84
+msgctxt "Calendar Era: Julian Christian Era, years < 0, ShortFormat"
+msgid "BC"
+msgstr ""
+
+#: kcalendarsystemjulian.cpp:86
+#, c-format
+msgctxt ""
+"(kdedt-format) Julian, BC, full era year format used for %EY, e.g. 2000 BC"
+msgid "%Ey %EC"
+msgstr ""
+
+#: kcalendarsystemjulian.cpp:90
+msgctxt "Calendar Era: Julian Common Era, years > 0, LongFormat"
+msgid "Common Era"
+msgstr ""
+
+#: kcalendarsystemjulian.cpp:91
+msgctxt "Calendar Era: Julian Common Era, years > 0, ShortFormat"
+msgid "CE"
+msgstr ""
+
+#: kcalendarsystemjulian.cpp:93
+msgctxt "Calendar Era: Julian Christian Era, years > 0, LongFormat"
+msgid "Anno Domini"
+msgstr ""
+
+#: kcalendarsystemjulian.cpp:94
+msgctxt "Calendar Era: Julian Christian Era, years > 0, ShortFormat"
+msgid "AD"
+msgstr ""
+
+#: kcalendarsystemjulian.cpp:96
+#, c-format
+msgctxt ""
+"(kdedt-format) Julian, AD, full era year format used for %EY, e.g. 2000 AD"
+msgid "%Ey %EC"
+msgstr ""
+
+#~ msgctxt "@item Calendar system"
+#~ msgid "Hijri"
+#~ msgstr "ହିଜରି"
