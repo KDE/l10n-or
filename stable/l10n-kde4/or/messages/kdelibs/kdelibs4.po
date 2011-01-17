@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-01-08 02:25+0100\n"
+"POT-Creation-Date: 2011-01-17 10:25+0100\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -5849,7 +5849,7 @@ msgid "Download New Stuff..."
 msgstr "ନୁତନ ଉପାଦାନ ଆହରଣ କରନ୍ତୁ"
 
 #: knewstuff/knewstuff3/downloadwidget.cpp:113
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:312
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:314
 #, fuzzy
 #| msgid "Timeout. Check Internet connection!"
 msgid "Timeout. Check Internet connection."
@@ -5857,19 +5857,19 @@ msgstr "ସମୟ ସମାପ୍ତ. ଇଣ୍ଟରନେଟ ସଂଯୋଗ�
 
 #: knewstuff/knewstuff3/downloadwidget.cpp:171
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:252
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:503
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:505
 #, kde-format
 msgid "Server: %1"
 msgstr "ସର୍ଭର: %1"
 
 #: knewstuff/knewstuff3/downloadwidget.cpp:172
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:504
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:506
 #, kde-format
 msgid "<br />Provider: %1"
 msgstr "<br />ପ୍ରଦାତା: %1"
 
 #: knewstuff/knewstuff3/downloadwidget.cpp:173
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:505
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:507
 #, kde-format
 msgid "<br />Version: %1"
 msgstr "<br />ସଂସ୍କରଣ: %1"
@@ -5877,25 +5877,25 @@ msgstr "<br />ସଂସ୍କରଣ: %1"
 #: knewstuff/knewstuff3/downloadwidget.cpp:177
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:82
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:258
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:509
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:511
 msgid "Provider information"
 msgstr "ସୂଚନା ପ୍ରଦାତା"
 
 #: knewstuff/knewstuff3/downloadwidget.cpp:188
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:535
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:538
 #, kde-format
 msgid "Could not install %1"
 msgstr "%1କୁ ସ୍ଥାପନ କରିପାରିଲା ନାହିଁ"
 
 #: knewstuff/knewstuff3/downloadwidget.cpp:189
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:536
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:539
 msgid "Get Hot New Stuff!"
 msgstr "ନୂତନ ଉପାଦାନ ଗ୍ରହଣକରନ୍ତୁ!"
 
 #: knewstuff/knewstuff3/downloadwidget.cpp:199
 #: knewstuff/knewstuff3/downloaddialog.cpp:81
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:127
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:555
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:558
 msgid "Get Hot New Stuff"
 msgstr "ନୂତନ ଉପାଦାନ ଗ୍ରହଣକରନ୍ତୁ"
 
@@ -6065,26 +6065,26 @@ msgstr ""
 "<qt>କି ପାଇଁ ପ୍ରବେଶ ସଂକେତ ଭରଣ କରନ୍ତୁ <b>0x%1</b>, <br /><i>%2&lt;%3&gt;</i><br />:"
 "</qt> ର ଅଂଶଭୁକ୍ତ ଅଟେ"
 
-#: knewstuff/knewstuff3/core/security.cpp:276
-#: knewstuff/knewstuff2/core/security.cpp:276
+#: knewstuff/knewstuff3/core/security.cpp:278
+#: knewstuff/knewstuff2/core/security.cpp:278
 msgid ""
 "<qt>Cannot start <i>gpg</i> and check the validity of the file. Make sure "
 "that <i>gpg</i> is installed, otherwise verification of downloaded resources "
 "will not be possible.</qt>"
 msgstr ""
 
-#: knewstuff/knewstuff3/core/security.cpp:331
-#: knewstuff/knewstuff2/core/security.cpp:331
+#: knewstuff/knewstuff3/core/security.cpp:333
+#: knewstuff/knewstuff2/core/security.cpp:333
 msgid "Select Signing Key"
 msgstr "ହସ୍ତାକ୍ଷର କି ଚୟନ କରନ୍ତୁ"
 
-#: knewstuff/knewstuff3/core/security.cpp:331
-#: knewstuff/knewstuff2/core/security.cpp:331
+#: knewstuff/knewstuff3/core/security.cpp:333
+#: knewstuff/knewstuff2/core/security.cpp:333
 msgid "Key used for signing:"
 msgstr "ହସ୍ତାକ୍ଷର ପାଇଁ ବ୍ୟବହାର ହେଉଥିବା କି:"
 
-#: knewstuff/knewstuff3/core/security.cpp:363
-#: knewstuff/knewstuff2/core/security.cpp:363
+#: knewstuff/knewstuff3/core/security.cpp:365
+#: knewstuff/knewstuff2/core/security.cpp:365
 msgid ""
 "<qt>Cannot start <i>gpg</i> and sign the file. Make sure that <i>gpg</i> is "
 "installed, otherwise signing of the resources will not be possible.</qt>"
@@ -6371,19 +6371,19 @@ msgid "The comment could not be submitted."
 msgstr "ଏହି ଟିପ୍ପଣୀଟି ଦାଖଲ ହୋଇପାରିଲା ନାହିଁ। "
 
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:379
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:585
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:588
 msgid "A protocol fault has occurred. The request has failed."
 msgstr "ଗୋଟିଏ ପ୍ରୋଟୋକଲ ତ୍ରୁଟି ଘଟିଯାଇଛି। ଅନୁରୋଧଟି ବିଫଳ ହୋଇଛି।"
 
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:380
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:387
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:586
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:593
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:589
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:596
 msgid "Desktop Exchange Service"
 msgstr "ଡେସ୍କଟପ ପରିବର୍ତ୍ତନ ସେବା"
 
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:386
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:592
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:595
 msgid "A network error has occurred. The request has failed."
 msgstr "ଗୋଟିଏ ନେଟୱର୍କ ତ୍ରୁଟି ଘଟିଯାଇଛି। ଅନୁରୋଧଟି ବିଫଳ ହୋଇଛି।"
 
@@ -6483,11 +6483,11 @@ msgstr "କୌଣସି ପ୍ରଦାତା ଚୟନ କରାଯାଇ ନ�
 msgid "View Comments"
 msgstr "ଟୀପ୍ପଣୀଗୁଡିକୁ ଦେଖନ୍ତୁ"
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:405
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:407
 msgid "Entries failed to load"
 msgstr "ଭରଣଗୁଡିକ ଧାରଣକରିବାରେ ବିଫଳ ହେଲେ"
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:554
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:557
 msgid "There was an error loading data providers."
 msgstr "ତଥ୍ୟ ପ୍ରଦାତାମାନଙ୍କୁ ଧାରଣ କରିବା ସମୟରେ ତ୍ରୁଟି।"
 
