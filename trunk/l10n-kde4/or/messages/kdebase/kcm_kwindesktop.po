@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcm_kwindesktop\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-08-22 05:43+0200\n"
+"POT-Creation-Date: 2011-02-02 03:07+0100\n"
 "PO-Revision-Date: 2009-01-02 11:45+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -19,17 +19,17 @@ msgstr ""
 "\n"
 "\n"
 
-#: desktopnameswidget.cpp:72
+#: desktopnameswidget.cpp:66
 #, kde-format
 msgid "Desktop %1:"
 msgstr ""
 
-#: desktopnameswidget.cpp:74 desktopnameswidget.cpp:75
+#: desktopnameswidget.cpp:68 desktopnameswidget.cpp:69
 #, kde-format
 msgid "Here you can enter the name for desktop %1"
 msgstr ""
 
-#: desktopnameswidget.cpp:114 main.cpp:241
+#: desktopnameswidget.cpp:107 main.cpp:235
 #, kde-format
 msgid "Desktop %1"
 msgstr ""
@@ -64,30 +64,30 @@ msgstr ""
 msgid "Switch One Desktop Down"
 msgstr ""
 
-#: main.cpp:129 main.cpp:149 main.cpp:509 main.cpp:510
+#: main.cpp:129 main.cpp:148 main.cpp:482 main.cpp:483
 msgid "Desktop Switching"
 msgstr ""
 
-#: main.cpp:140 main.cpp:483
+#: main.cpp:139 main.cpp:462
 #, kde-format
 msgid "Switch to Desktop %1"
 msgstr ""
 
-#: main.cpp:169
+#: main.cpp:168
 msgid "No Animation"
 msgstr ""
 
-#: main.cpp:488
+#: main.cpp:466
 #, kde-format
 msgid "No suitable Shortcut for Desktop %1 found"
 msgstr ""
 
-#: main.cpp:497
+#: main.cpp:472
 #, kde-format
 msgid "Assigned global Shortcut \"%1\" to Desktop %2"
 msgstr ""
 
-#: main.cpp:502
+#: main.cpp:475
 #, kde-format
 msgid "Shortcut conflict: Could not set Shortcut %1 for Desktop %2"
 msgstr ""

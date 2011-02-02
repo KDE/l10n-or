@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs.or\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-01-27 02:38+0000\n"
+"POT-Creation-Date: 2011-02-02 02:49+0000\n"
 "PO-Revision-Date: 2008-06-20 13:20+0530\n"
 "Last-Translator: Manoj Kumar Giri <giri.manojkr@gmail.com>\n"
 "Language-Team: Oriya\n"
@@ -73,132 +73,6 @@ msgstr ""
 msgctxt "Comment"
 msgid "KTextEditor Plugin"
 msgstr "KTextEditor Plugin"
-
-#: kate/data/katepart.desktop:2
-msgctxt "Name"
-msgid "Embedded Advanced Text Editor"
-msgstr "Embedded Advanced Text Editor"
-
-#: kate/plugins/autobookmarker/ktexteditor_autobookmarker.desktop:16
-msgctxt "Name"
-msgid "Autobookmarker"
-msgstr "Autobookmarker"
-
-#: kate/plugins/autobookmarker/ktexteditor_autobookmarker.desktop:100
-msgctxt "Comment"
-msgid "Set bookmarks on lines matching a pattern when documents are loaded"
-msgstr "Set bookmarks on lines matching a pattern when documents are loaded"
-
-#: kate/plugins/autobrace/ktexteditor_autobrace_config.desktop:7
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Automatic Proxy Configuration"
-msgctxt "Name"
-msgid "AutoBrace Configuration"
-msgstr "ସ୍ୱୟଂଚାଳିତ ଛାୟା ବିନ୍ୟାସ"
-
-#: kate/plugins/autobrace/ktexteditor_autobrace.desktop:18
-msgctxt "Name"
-msgid "AutoBrace"
-msgstr ""
-
-#: kate/plugins/autobrace/ktexteditor_autobrace.desktop:78
-msgctxt "Comment"
-msgid "Insert closing braces on pressing Enter"
-msgstr ""
-
-#: kate/plugins/exporter/ktexteditor_exporter.desktop:18
-msgctxt "Name"
-msgid "Exporter"
-msgstr ""
-
-#: kate/plugins/exporter/ktexteditor_exporter.desktop:78
-msgctxt "Comment"
-msgid "Export highlighted document to HTML"
-msgstr ""
-
-#: kate/plugins/hlselection/ktexteditor_hlselection.desktop:17
-msgctxt "Name"
-msgid "Highlight Selection"
-msgstr ""
-
-#: kate/plugins/hlselection/ktexteditor_hlselection.desktop:57
-msgctxt "Comment"
-msgid "Highlight all words based on the text selection"
-msgstr ""
-
-#: kate/plugins/insertfile/ktexteditor_insertfile.desktop:17
-msgctxt "Name"
-msgid "Insert File"
-msgstr "Insert File"
-
-#: kate/plugins/insertfile/ktexteditor_insertfile.desktop:105
-msgctxt "Comment"
-msgid "Insert any readable file at cursor position"
-msgstr "Insert any readable file at cursor position"
-
-#: kate/plugins/kdatatool/ktexteditor_kdatatool.desktop:17
-msgctxt "Name"
-msgid "Data Tools"
-msgstr "Data Tools"
-
-#: kate/plugins/kdatatool/ktexteditor_kdatatool.desktop:97
-msgctxt "Comment"
-msgid "Enable data tools like thesaurus and spell check (if installed)"
-msgstr "Enable data tools like thesaurus and spell check (if installed)"
-
-#: kate/plugins/kte_iconinserter/ktexteditor_iconinserter.desktop:3
-msgctxt "Comment"
-msgid "Select an icon and use it as a KIcon in your source-code"
-msgstr ""
-
-#: kate/plugins/kte_iconinserter/ktexteditor_iconinserter.desktop:56
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Insert File"
-msgctxt "Name"
-msgid "IconInserter"
-msgstr "Insert File"
-
-#: kate/plugins/kte_iconinserter/ktexteditor_iconinserter.desktop:112
-msgctxt "GenericName"
-msgid "Insert Code for KIcon-Creation"
-msgstr ""
-
-#: kate/plugins/kte_insanehtml_le/data/ktexteditor_insanehtml_le.desktop:15
-msgctxt "Name"
-msgid "Insane (not ZEN) HTML coding (light edition)"
-msgstr ""
-
-#: kate/plugins/kte_insanehtml_le/data/ktexteditor_insanehtml_le.desktop:63
-msgctxt "Comment"
-msgid "A plugin, which does zen-coding like selector completion"
-msgstr ""
-
-#: kate/plugins/pythonencoding/ktexteditor_python-encoding.desktop:5
-msgctxt "Name"
-msgid "Python encoding checker/adder"
-msgstr ""
-
-#: kate/plugins/pythonencoding/ktexteditor_python-encoding.desktop:75
-msgctxt "Comment"
-msgid "While saving check encoding of python files and add an encoding line"
-msgstr ""
-
-#: kate/plugins/timedate/ktexteditor_timedate_config.desktop:7
-msgctxt "Name"
-msgid "Format of Time & Date insertion"
-msgstr "Format of Time & Date insertion"
-
-#: kate/plugins/timedate/ktexteditor_timedate.desktop:18
-msgctxt "Name"
-msgid "Time & Date"
-msgstr "Time & Date"
-
-#: kate/plugins/timedate/ktexteditor_timedate.desktop:104
-msgctxt "Comment"
-msgid "Insert current Time & Date"
-msgstr "Insert current Time & Date"
 
 #: kdecore/config/kconfigbackend.desktop:5
 msgctxt "Comment"
@@ -1793,6 +1667,60 @@ msgstr "HSpell"
 msgctxt "Name"
 msgid "Hunspell"
 msgstr "HSpell"
+
+#~ msgctxt "Name"
+#~ msgid "Embedded Advanced Text Editor"
+#~ msgstr "Embedded Advanced Text Editor"
+
+#~ msgctxt "Name"
+#~ msgid "Autobookmarker"
+#~ msgstr "Autobookmarker"
+
+#~ msgctxt "Comment"
+#~ msgid "Set bookmarks on lines matching a pattern when documents are loaded"
+#~ msgstr "Set bookmarks on lines matching a pattern when documents are loaded"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Automatic Proxy Configuration"
+#~ msgctxt "Name"
+#~ msgid "AutoBrace Configuration"
+#~ msgstr "ସ୍ୱୟଂଚାଳିତ ଛାୟା ବିନ୍ୟାସ"
+
+#~ msgctxt "Name"
+#~ msgid "Insert File"
+#~ msgstr "Insert File"
+
+#~ msgctxt "Comment"
+#~ msgid "Insert any readable file at cursor position"
+#~ msgstr "Insert any readable file at cursor position"
+
+#~ msgctxt "Name"
+#~ msgid "Data Tools"
+#~ msgstr "Data Tools"
+
+#~ msgctxt "Comment"
+#~ msgid "Enable data tools like thesaurus and spell check (if installed)"
+#~ msgstr "Enable data tools like thesaurus and spell check (if installed)"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Insert File"
+#~ msgctxt "Name"
+#~ msgid "IconInserter"
+#~ msgstr "Insert File"
+
+#~ msgctxt "Name"
+#~ msgid "Format of Time & Date insertion"
+#~ msgstr "Format of Time & Date insertion"
+
+#~ msgctxt "Name"
+#~ msgid "Time & Date"
+#~ msgstr "Time & Date"
+
+#~ msgctxt "Comment"
+#~ msgid "Insert current Time & Date"
+#~ msgstr "Insert current Time & Date"
 
 #~ msgctxt "Name"
 #~ msgid "KSSL Daemon Module"
