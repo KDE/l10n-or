@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_launcher\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-12-26 02:55+0100\n"
+"POT-Creation-Date: 2011-02-02 12:18+0100\n"
 "PO-Revision-Date: 2009-01-02 11:50+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -19,87 +19,203 @@ msgstr ""
 "\n"
 "\n"
 
-#: simpleapplet/simpleapplet.cpp:193 core/favoritesmodel.cpp:49
-#: core/favoritesmodel.cpp:322 ui/launcher.cpp:116 ui/launcher.cpp:175
+#: applet/applet.cpp:84
+msgid "Kickoff Application Launcher"
+msgstr ""
+
+#: applet/applet.cpp:85
+msgid ""
+"Favorites, applications, computer places, recently used items and desktop "
+"sessions"
+msgstr ""
+
+#: applet/applet.cpp:108 simpleapplet/simpleapplet.cpp:345
+msgid "Edit Applications..."
+msgstr ""
+
+#: applet/applet.cpp:114
+msgid "Switch to Classic Menu Style"
+msgstr ""
+
+#: applet/applet.cpp:159
+msgctxt "General configuration page"
+msgid "General"
+msgstr ""
+
+#: core/applicationmodel.cpp:335
+msgid "Games"
+msgstr ""
+
+#: core/applicationmodel.cpp:425 ui/flipscrollview.cpp:138
+msgid "All Applications"
+msgstr ""
+
+#: core/favoritesmodel.cpp:49 core/favoritesmodel.cpp:322
+#: simpleapplet/simpleapplet.cpp:193 ui/launcher.cpp:116 ui/launcher.cpp:175
 msgid "Favorites"
+msgstr ""
+
+#: core/leavemodel.cpp:48 simpleapplet/simpleapplet.cpp:210
+msgid "Log out"
+msgstr ""
+
+#: core/leavemodel.cpp:50
+msgid "End session"
+msgstr ""
+
+#: core/leavemodel.cpp:52
+msgid "Lock"
+msgstr ""
+
+#: core/leavemodel.cpp:54 simpleapplet/simpleapplet.cpp:204
+msgid "Lock Screen"
+msgstr ""
+
+#: core/leavemodel.cpp:56 simpleapplet/simpleapplet.cpp:202
+msgid "Switch User"
+msgstr ""
+
+#: core/leavemodel.cpp:58
+msgid "Start a parallel session as a different user"
+msgstr ""
+
+#: core/leavemodel.cpp:60 simpleapplet/simpleapplet.cpp:209
+msgid "Shut down"
+msgstr ""
+
+#: core/leavemodel.cpp:62
+msgid "Turn off computer"
+msgstr ""
+
+#: core/leavemodel.cpp:64
+msgctxt "Restart computer"
+msgid "Restart"
+msgstr ""
+
+#: core/leavemodel.cpp:66
+msgid "Restart Computer"
+msgstr ""
+
+#: core/leavemodel.cpp:68 simpleapplet/simpleapplet.cpp:203
+msgid "Save Session"
+msgstr ""
+
+#: core/leavemodel.cpp:70
+msgid "Save current session for next login"
+msgstr ""
+
+#: core/leavemodel.cpp:72 simpleapplet/simpleapplet.cpp:205
+msgctxt "Puts the system on standby"
+msgid "Standby"
+msgstr ""
+
+#: core/leavemodel.cpp:74
+msgid "Pause without logging out"
+msgstr ""
+
+#: core/leavemodel.cpp:76 simpleapplet/simpleapplet.cpp:206
+msgid "Hibernate"
+msgstr ""
+
+#: core/leavemodel.cpp:78
+msgid "Suspend to disk"
+msgstr ""
+
+#: core/leavemodel.cpp:80 simpleapplet/simpleapplet.cpp:207
+msgid "Sleep"
+msgstr ""
+
+#: core/leavemodel.cpp:82
+msgid "Suspend to RAM"
+msgstr ""
+
+#: core/leavemodel.cpp:105 simpleapplet/simpleapplet.cpp:211
+#: ui/launcher.cpp:163
+msgid "Leave"
+msgstr ""
+
+#: core/leavemodel.cpp:117
+msgid "Session"
+msgstr ""
+
+#: core/leavemodel.cpp:139
+msgid "System"
+msgstr ""
+
+#: core/models.cpp:121
+msgid "Home Folder"
+msgstr ""
+
+#: core/models.cpp:124
+msgid "Network Folders"
+msgstr ""
+
+#: core/recentlyusedmodel.cpp:109
+msgid "Documents"
+msgstr ""
+
+#: core/recentlyusedmodel.cpp:120 core/systemmodel.cpp:84
+#: simpleapplet/simpleapplet.cpp:195 ui/launcher.cpp:118 ui/launcher.cpp:205
+msgid "Applications"
+msgstr ""
+
+#: core/recentlyusedmodel.cpp:186 simpleapplet/simpleapplet.cpp:197
+#: ui/launcher.cpp:119 ui/launcher.cpp:218
+msgid "Recently Used"
+msgstr ""
+
+#: core/recentlyusedmodel.cpp:188 simpleapplet/simpleapplet.cpp:199
+msgid "Recently Used Documents"
+msgstr ""
+
+#: core/recentlyusedmodel.cpp:190 simpleapplet/simpleapplet.cpp:198
+msgid "Recently Used Applications"
+msgstr ""
+
+#: core/systemmodel.cpp:85
+msgid "Places"
+msgstr ""
+
+#: core/systemmodel.cpp:86
+msgid "Removable Storage"
+msgstr ""
+
+#: core/systemmodel.cpp:87
+msgid "Storage"
+msgstr ""
+
+#: core/systemmodel.cpp:215 simpleapplet/simpleapplet.cpp:201
+msgid "Run Command..."
+msgstr ""
+
+#: core/systemmodel.cpp:219
+msgid "Run a command or a search query"
+msgstr ""
+
+#: core/systemmodel.cpp:327 simpleapplet/simpleapplet.cpp:196
+#: ui/launcher.cpp:118 ui/launcher.cpp:239
+msgid "Computer"
+msgstr ""
+
+#: main.cpp:32
+msgid "Kickoff"
+msgstr ""
+
+#: main.cpp:33
+msgid "Application Launcher"
 msgstr ""
 
 #: simpleapplet/simpleapplet.cpp:194
 msgid "Bookmarks"
 msgstr ""
 
-#: simpleapplet/simpleapplet.cpp:195 core/systemmodel.cpp:84
-#: core/recentlyusedmodel.cpp:120 ui/launcher.cpp:118 ui/launcher.cpp:205
-msgid "Applications"
-msgstr ""
-
-#: simpleapplet/simpleapplet.cpp:196 core/systemmodel.cpp:327
-#: ui/launcher.cpp:118 ui/launcher.cpp:239
-msgid "Computer"
-msgstr ""
-
-#: simpleapplet/simpleapplet.cpp:197 core/recentlyusedmodel.cpp:186
-#: ui/launcher.cpp:119 ui/launcher.cpp:218
-msgid "Recently Used"
-msgstr ""
-
-#: simpleapplet/simpleapplet.cpp:198 core/recentlyusedmodel.cpp:190
-msgid "Recently Used Applications"
-msgstr ""
-
-#: simpleapplet/simpleapplet.cpp:199 core/recentlyusedmodel.cpp:188
-msgid "Recently Used Documents"
-msgstr ""
-
 #: simpleapplet/simpleapplet.cpp:200
 msgid "System Settings"
-msgstr ""
-
-#: simpleapplet/simpleapplet.cpp:201 core/systemmodel.cpp:215
-msgid "Run Command..."
-msgstr ""
-
-#: simpleapplet/simpleapplet.cpp:202 core/leavemodel.cpp:56
-msgid "Switch User"
-msgstr ""
-
-#: simpleapplet/simpleapplet.cpp:203 core/leavemodel.cpp:68
-msgid "Save Session"
-msgstr ""
-
-#: simpleapplet/simpleapplet.cpp:204 core/leavemodel.cpp:54
-msgid "Lock Screen"
-msgstr ""
-
-#: simpleapplet/simpleapplet.cpp:205 core/leavemodel.cpp:72
-msgctxt "Puts the system on standby"
-msgid "Standby"
-msgstr ""
-
-#: simpleapplet/simpleapplet.cpp:206 core/leavemodel.cpp:76
-msgid "Hibernate"
-msgstr ""
-
-#: simpleapplet/simpleapplet.cpp:207 core/leavemodel.cpp:80
-msgid "Sleep"
 msgstr ""
 
 #: simpleapplet/simpleapplet.cpp:208
 msgctxt "Restart Computer"
 msgid "Restart"
-msgstr ""
-
-#: simpleapplet/simpleapplet.cpp:209 core/leavemodel.cpp:60
-msgid "Shut down"
-msgstr ""
-
-#: simpleapplet/simpleapplet.cpp:210 core/leavemodel.cpp:48
-msgid "Log out"
-msgstr ""
-
-#: simpleapplet/simpleapplet.cpp:211 core/leavemodel.cpp:105
-#: ui/launcher.cpp:163
-msgid "Leave"
 msgstr ""
 
 #: simpleapplet/simpleapplet.cpp:267
@@ -108,10 +224,6 @@ msgstr ""
 
 #: simpleapplet/simpleapplet.cpp:335
 msgid "Switch to Application Launcher Style"
-msgstr ""
-
-#: simpleapplet/simpleapplet.cpp:345 applet/applet.cpp:108
-msgid "Edit Applications..."
 msgstr ""
 
 #: simpleapplet/simpleapplet.cpp:445
@@ -166,110 +278,6 @@ msgstr ""
 
 #: simpleapplet/simpleapplet.cpp:621
 msgid "Actions"
-msgstr ""
-
-#: applet/applet.cpp:84
-msgid "Kickoff Application Launcher"
-msgstr ""
-
-#: applet/applet.cpp:85
-msgid ""
-"Favorites, applications, computer places, recently used items and desktop "
-"sessions"
-msgstr ""
-
-#: applet/applet.cpp:114
-msgid "Switch to Classic Menu Style"
-msgstr ""
-
-#: applet/applet.cpp:159
-msgctxt "General configuration page"
-msgid "General"
-msgstr ""
-
-#: core/systemmodel.cpp:85
-msgid "Places"
-msgstr ""
-
-#: core/systemmodel.cpp:86
-msgid "Removable Storage"
-msgstr ""
-
-#: core/systemmodel.cpp:87
-msgid "Storage"
-msgstr ""
-
-#: core/systemmodel.cpp:219
-msgid "Run a command or a search query"
-msgstr ""
-
-#: core/leavemodel.cpp:50
-msgid "End session"
-msgstr ""
-
-#: core/leavemodel.cpp:52
-msgid "Lock"
-msgstr ""
-
-#: core/leavemodel.cpp:58
-msgid "Start a parallel session as a different user"
-msgstr ""
-
-#: core/leavemodel.cpp:62
-msgid "Turn off computer"
-msgstr ""
-
-#: core/leavemodel.cpp:64
-msgctxt "Restart computer"
-msgid "Restart"
-msgstr ""
-
-#: core/leavemodel.cpp:66
-msgid "Restart Computer"
-msgstr ""
-
-#: core/leavemodel.cpp:70
-msgid "Save current session for next login"
-msgstr ""
-
-#: core/leavemodel.cpp:74
-msgid "Pause without logging out"
-msgstr ""
-
-#: core/leavemodel.cpp:78
-msgid "Suspend to disk"
-msgstr ""
-
-#: core/leavemodel.cpp:82
-msgid "Suspend to RAM"
-msgstr ""
-
-#: core/leavemodel.cpp:117
-msgid "Session"
-msgstr ""
-
-#: core/leavemodel.cpp:139
-msgid "System"
-msgstr ""
-
-#: core/models.cpp:121
-msgid "Home Folder"
-msgstr ""
-
-#: core/models.cpp:124
-msgid "Network Folders"
-msgstr ""
-
-#: core/applicationmodel.cpp:335
-msgid "Games"
-msgstr ""
-
-#: core/applicationmodel.cpp:425 ui/flipscrollview.cpp:138
-msgid "All Applications"
-msgstr ""
-
-#: core/recentlyusedmodel.cpp:109
-msgid "Documents"
 msgstr ""
 
 #: ui/contextmenufactory.cpp:83
@@ -331,14 +339,6 @@ msgstr ""
 #: ui/searchbar.cpp:70
 msgctxt "Label of the search bar textedit"
 msgid "Search:"
-msgstr ""
-
-#: main.cpp:32
-msgid "Kickoff"
-msgstr ""
-
-#: main.cpp:33
-msgid "Application Launcher"
 msgstr ""
 
 #: rc.cpp:1
