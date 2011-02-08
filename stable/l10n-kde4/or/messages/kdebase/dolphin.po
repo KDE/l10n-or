@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-02-05 10:58+0100\n"
+"POT-Creation-Date: 2011-02-08 12:31+0100\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -18,82 +18,6 @@ msgstr ""
 "\n"
 "\n"
 "X-Generator: KBabel 1.11.4\n"
-
-#: dolphincontextmenu.cpp:168
-msgctxt "@action:inmenu"
-msgid "Empty Trash"
-msgstr "ଖାଲି ଆବର୍ଜନା ପାତ୍ର"
-
-#: dolphincontextmenu.cpp:174 dolphincontextmenu.cpp:343
-msgctxt "@action:inmenu Add current folder to places"
-msgid "Add to Places"
-msgstr "ସ୍ଥାନଗୁଡ଼ିକରେ ଯୋଗକରନ୍ତୁ"
-
-#: dolphincontextmenu.cpp:190
-msgctxt "@info"
-msgid "Do you really want to empty the Trash? All items will be deleted."
-msgstr ""
-
-#: dolphincontextmenu.cpp:194
-msgctxt "@action:button"
-msgid "Empty Trash"
-msgstr "ଖାଲି ଆବର୍ଜନା ପାତ୍ର"
-
-#: dolphincontextmenu.cpp:203
-msgctxt "@label"
-msgid "Trash"
-msgstr "ଆବର୍ଜନା ପାତ୍ର"
-
-#: dolphincontextmenu.cpp:213
-msgctxt "@action:inmenu"
-msgid "Restore"
-msgstr "ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ"
-
-#: dolphincontextmenu.cpp:250 dolphinmainwindow.cpp:1417
-msgctxt "@title:menu Create new folder, file, link, etc."
-msgid "Create New"
-msgstr "ନୂତନ ନିର୍ମାଣ କରନ୍ତୁ"
-
-#: dolphincontextmenu.cpp:263
-msgctxt "@action:inmenu Add selected folder to places"
-msgid "Add to Places"
-msgstr "ସ୍ଥାନଗୁଡ଼ିକରେ ଯୋଗ କରନ୍ତୁ"
-
-#: dolphincontextmenu.cpp:270
-msgctxt "@action:inmenu"
-msgid "Open Path in New Window"
-msgstr ""
-
-#: dolphincontextmenu.cpp:276
-msgctxt "@action:inmenu"
-msgid "Open Path in New Tab"
-msgstr ""
-
-#: dolphincontextmenu.cpp:364 panels/folders/treeviewcontextmenu.cpp:111
-msgctxt "@action:inmenu"
-msgid "Properties"
-msgstr "ଗୁଣଧର୍ମ"
-
-#: dolphincontextmenu.cpp:447
-msgctxt "@action:inmenu"
-msgid "Paste Into Folder"
-msgstr "ଫୋଲଡ଼ର ମଧ୍ଯରେ ଲଗାନ୍ତୁ"
-
-#: dolphincontextmenu.cpp:557
-#, fuzzy
-#| msgctxt "@action:inmenu"
-#| msgid "Move To Trash"
-msgctxt "@action:inmenu"
-msgid "&Move to Trash"
-msgstr "ଆବର୍ଜନା ପାତ୍ର ମଧ୍ଯକୁ ପଠାନ୍ତୁ"
-
-#: dolphincontextmenu.cpp:560
-#, fuzzy
-#| msgctxt "@action:inmenu"
-#| msgid "Delete"
-msgctxt "@action:inmenu"
-msgid "&Delete"
-msgstr "ଅପସାରଣ କରନ୍ତୁ"
 
 #: filterbar/filterbar.cpp:39
 msgctxt "@info:tooltip"
@@ -161,6 +85,11 @@ msgstr "ଆବର୍ଜନା ପାତ୍ର ମଧ୍ଯକୁ ପଠାନ୍
 msgctxt "@action:inmenu"
 msgid "Delete"
 msgstr "ଅପସାରଣ କରନ୍ତୁ"
+
+#: panels/folders/treeviewcontextmenu.cpp:111 dolphincontextmenu.cpp:365
+msgctxt "@action:inmenu"
+msgid "Properties"
+msgstr "ଗୁଣଧର୍ମ"
 
 #: panels/folders/treeviewcontextmenu.cpp:119
 msgctxt "@action:inmenu"
@@ -1544,6 +1473,11 @@ msgctxt "@action:inmenu"
 msgid "Close Tab"
 msgstr ""
 
+#: dolphinmainwindow.cpp:1417 dolphincontextmenu.cpp:251
+msgctxt "@title:menu Create new folder, file, link, etc."
+msgid "Create New"
+msgstr "ନୂତନ ନିର୍ମାଣ କରନ୍ତୁ"
+
 #: dolphinmainwindow.cpp:1424
 msgctxt "@action:inmenu File"
 msgid "New &Window"
@@ -1898,6 +1832,72 @@ msgstr ""
 msgctxt "@info:status"
 msgid "Invalid protocol"
 msgstr "ଅବୈଧ ପ୍ରୋଟୋକଲ"
+
+#: dolphincontextmenu.cpp:169
+msgctxt "@action:inmenu"
+msgid "Empty Trash"
+msgstr "ଖାଲି ଆବର୍ଜନା ପାତ୍ର"
+
+#: dolphincontextmenu.cpp:175 dolphincontextmenu.cpp:344
+msgctxt "@action:inmenu Add current folder to places"
+msgid "Add to Places"
+msgstr "ସ୍ଥାନଗୁଡ଼ିକରେ ଯୋଗକରନ୍ତୁ"
+
+#: dolphincontextmenu.cpp:191
+msgctxt "@info"
+msgid "Do you really want to empty the Trash? All items will be deleted."
+msgstr ""
+
+#: dolphincontextmenu.cpp:195
+msgctxt "@action:button"
+msgid "Empty Trash"
+msgstr "ଖାଲି ଆବର୍ଜନା ପାତ୍ର"
+
+#: dolphincontextmenu.cpp:204
+msgctxt "@label"
+msgid "Trash"
+msgstr "ଆବର୍ଜନା ପାତ୍ର"
+
+#: dolphincontextmenu.cpp:214
+msgctxt "@action:inmenu"
+msgid "Restore"
+msgstr "ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ"
+
+#: dolphincontextmenu.cpp:264
+msgctxt "@action:inmenu Add selected folder to places"
+msgid "Add to Places"
+msgstr "ସ୍ଥାନଗୁଡ଼ିକରେ ଯୋଗ କରନ୍ତୁ"
+
+#: dolphincontextmenu.cpp:271
+msgctxt "@action:inmenu"
+msgid "Open Path in New Window"
+msgstr ""
+
+#: dolphincontextmenu.cpp:277
+msgctxt "@action:inmenu"
+msgid "Open Path in New Tab"
+msgstr ""
+
+#: dolphincontextmenu.cpp:448
+msgctxt "@action:inmenu"
+msgid "Paste Into Folder"
+msgstr "ଫୋଲଡ଼ର ମଧ୍ଯରେ ଲଗାନ୍ତୁ"
+
+#: dolphincontextmenu.cpp:560
+#, fuzzy
+#| msgctxt "@action:inmenu"
+#| msgid "Move To Trash"
+msgctxt "@action:inmenu"
+msgid "&Move to Trash"
+msgstr "ଆବର୍ଜନା ପାତ୍ର ମଧ୍ଯକୁ ପଠାନ୍ତୁ"
+
+#: dolphincontextmenu.cpp:563
+#, fuzzy
+#| msgctxt "@action:inmenu"
+#| msgid "Delete"
+msgctxt "@action:inmenu"
+msgid "&Delete"
+msgstr "ଅପସାରଣ କରନ୍ତୁ"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
