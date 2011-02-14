@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-02-04 10:24+0100\n"
+"POT-Creation-Date: 2011-02-14 20:29+0100\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -12804,19 +12804,6 @@ msgstr "ସଞ୍ଚାର ତ୍ରୁଟି"
 msgid "Invalid type in Database"
 msgstr "ତଥ୍ୟାବଳୀରେ ଅବୈଧ ଟାଇପ"
 
-#: nepomuk/query/query.cpp:710
-#, kde-format
-msgctxt ""
-"@title UDS_DISPLAY_NAME for a KIO directory listing. %1 is the query the "
-"user entered."
-msgid "Query Results from '%1'"
-msgstr ""
-
-#: nepomuk/query/query.cpp:716
-msgctxt "@title UDS_DISPLAY_NAME for a KIO directory listing."
-msgid "Query Results"
-msgstr ""
-
 #: nepomuk/query/queryparser.cpp:421
 #, fuzzy
 #| msgid "Esfand"
@@ -12839,6 +12826,19 @@ msgctxt ""
 "keyword."
 msgid "or"
 msgstr "ମୋର"
+
+#: nepomuk/query/query.cpp:685
+#, kde-format
+msgctxt ""
+"@title UDS_DISPLAY_NAME for a KIO directory listing. %1 is the query the "
+"user entered."
+msgid "Query Results from '%1'"
+msgstr ""
+
+#: nepomuk/query/query.cpp:691
+msgctxt "@title UDS_DISPLAY_NAME for a KIO directory listing."
+msgid "Query Results"
+msgstr ""
 
 #: nepomuk/rcgen/rcgen.cpp:49 nepomuk/rcgen/rcgen.cpp:51
 msgid "Nepomuk Resource Class Generator"
