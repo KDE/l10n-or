@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-02-13 15:14+0000\n"
+"POT-Creation-Date: 2011-02-14 11:33+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -49,13 +49,13 @@ msgid "Low Disk Space"
 msgstr ""
 
 #: freespacenotifier/freespacenotifier.notifyrc:119
-#: powerdevil/powerdevil.notifyrc:84
+#: powerdevil/powerdevil.notifyrc:86
 msgctxt "Name"
 msgid "Warning"
 msgstr "ଚେତାବନୀ"
 
 #: freespacenotifier/freespacenotifier.notifyrc:203
-#: powerdevil/powerdevil.notifyrc:168
+#: powerdevil/powerdevil.notifyrc:170
 msgctxt "Comment"
 msgid "Used for warning notifications"
 msgstr "ଚେତାବନୀ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ ପାଇଁ ବ୍ୟବହୃତ ହୋଇଥାଏ"
@@ -329,7 +329,7 @@ msgctxt "Name"
 msgid "Cursor Theme"
 msgstr "ସୂଚକ ଫାଇଲଗୁଡ଼ିକ"
 
-#: kcontrol/input/cursortheme.desktop:59
+#: kcontrol/input/cursortheme.desktop:60
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Customize individual desktop theme items"
@@ -1229,8 +1229,8 @@ msgstr "PHP ସନ୍ଧାନ"
 
 #: khotkeys/data/defaults.khotkeys:294 khotkeys/data/kde32b1.khotkeys:512
 #: khotkeys/data/kde32b1.khotkeys:743 khotkeys/data/kde32b1.khotkeys:997
-#: khotkeys/data/kde32b1.khotkeys:1405 khotkeys/data/kde32b1.khotkeys:1811
-#: khotkeys/data/kde32b1.khotkeys:3204 khotkeys/data/printscreen.khotkeys:339
+#: khotkeys/data/kde32b1.khotkeys:1407 khotkeys/data/kde32b1.khotkeys:1813
+#: khotkeys/data/kde32b1.khotkeys:3206 khotkeys/data/printscreen.khotkeys:339
 msgctxt "Comment"
 msgid "Simple_action"
 msgstr ""
@@ -1317,12 +1317,12 @@ msgid ""
 "title."
 msgstr ""
 
-#: khotkeys/data/kde32b1.khotkeys:1097
+#: khotkeys/data/kde32b1.khotkeys:1098
 msgctxt "Name"
 msgid "Remap Ctrl+W to Ctrl+F4 in Qt Designer"
 msgstr ""
 
-#: khotkeys/data/kde32b1.khotkeys:1188
+#: khotkeys/data/kde32b1.khotkeys:1189
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Qt Designer"
@@ -1330,7 +1330,7 @@ msgctxt "Comment"
 msgid "Qt Designer"
 msgstr "Qt ଅଭିକଳ୍ପକ"
 
-#: khotkeys/data/kde32b1.khotkeys:1291
+#: khotkeys/data/kde32b1.khotkeys:1292
 msgctxt "Comment"
 msgid ""
 "By pressing Alt+Ctrl+W a D-Bus call will be performed that will show the "
@@ -1338,12 +1338,12 @@ msgid ""
 "line 'qdbus' tool."
 msgstr ""
 
-#: khotkeys/data/kde32b1.khotkeys:1353
+#: khotkeys/data/kde32b1.khotkeys:1354
 msgctxt "Name"
 msgid "Perform D-Bus call 'qdbus org.kde.krunner /App display'"
 msgstr ""
 
-#: khotkeys/data/kde32b1.khotkeys:1488
+#: khotkeys/data/kde32b1.khotkeys:1490
 msgctxt "Comment"
 msgid ""
 "Read the comment on the \"Type 'Hello'\" action first.\\n\\nJust like the "
@@ -1356,22 +1356,22 @@ msgid ""
 "on the XMMS window and search for WM_CLASS to see 'XMMS_Player')."
 msgstr ""
 
-#: khotkeys/data/kde32b1.khotkeys:1542
+#: khotkeys/data/kde32b1.khotkeys:1544
 msgctxt "Name"
 msgid "Next in XMMS"
 msgstr ""
 
-#: khotkeys/data/kde32b1.khotkeys:1633
+#: khotkeys/data/kde32b1.khotkeys:1635
 msgctxt "Comment"
 msgid "XMMS window"
 msgstr ""
 
-#: khotkeys/data/kde32b1.khotkeys:1721
+#: khotkeys/data/kde32b1.khotkeys:1723
 msgctxt "Comment"
 msgid "XMMS Player window"
 msgstr ""
 
-#: khotkeys/data/kde32b1.khotkeys:1894
+#: khotkeys/data/kde32b1.khotkeys:1896
 msgctxt "Comment"
 msgid ""
 "Konqueror in KDE3.1 has tabs, and now you can also have gestures.\\n\\nJust "
@@ -1394,32 +1394,32 @@ msgid ""
 "window is Konqueror (class contains 'konqueror')."
 msgstr ""
 
-#: khotkeys/data/kde32b1.khotkeys:1949
+#: khotkeys/data/kde32b1.khotkeys:1951
 msgctxt "Name"
 msgid "Konqi Gestures"
 msgstr ""
 
-#: khotkeys/data/kde32b1.khotkeys:2029
+#: khotkeys/data/kde32b1.khotkeys:2031
 #: khotkeys/data/konqueror_gestures_kde321.khotkeys:167
 msgctxt "Comment"
 msgid "Konqueror window"
 msgstr ""
 
-#: khotkeys/data/kde32b1.khotkeys:2118 khotkeys/data/kde32b1.khotkeys:2206
+#: khotkeys/data/kde32b1.khotkeys:2120 khotkeys/data/kde32b1.khotkeys:2208
 #: khotkeys/data/konqueror_gestures_kde321.khotkeys:256
 #: khotkeys/data/konqueror_gestures_kde321.khotkeys:344
 msgctxt "Comment"
 msgid "Konqueror"
 msgstr ""
 
-#: khotkeys/data/kde32b1.khotkeys:2299
+#: khotkeys/data/kde32b1.khotkeys:2301
 #: khotkeys/data/konqueror_gestures_kde321.khotkeys:513
 msgctxt "Name"
 msgid "Back"
 msgstr ""
 
-#: khotkeys/data/kde32b1.khotkeys:2399 khotkeys/data/kde32b1.khotkeys:2587
-#: khotkeys/data/kde32b1.khotkeys:2775 khotkeys/data/kde32b1.khotkeys:2963
+#: khotkeys/data/kde32b1.khotkeys:2401 khotkeys/data/kde32b1.khotkeys:2589
+#: khotkeys/data/kde32b1.khotkeys:2777 khotkeys/data/kde32b1.khotkeys:2965
 #: khotkeys/data/konqueror_gestures_kde321.khotkeys:767
 #: khotkeys/data/konqueror_gestures_kde321.khotkeys:1012
 #: khotkeys/data/konqueror_gestures_kde321.khotkeys:1244
@@ -1438,25 +1438,25 @@ msgctxt "Comment"
 msgid "Gesture_triggers"
 msgstr ""
 
-#: khotkeys/data/kde32b1.khotkeys:2487
+#: khotkeys/data/kde32b1.khotkeys:2489
 #: khotkeys/data/konqueror_gestures_kde321.khotkeys:2491
 msgctxt "Name"
 msgid "Forward"
 msgstr ""
 
-#: khotkeys/data/kde32b1.khotkeys:2675
+#: khotkeys/data/kde32b1.khotkeys:2677
 #: khotkeys/data/konqueror_gestures_kde321.khotkeys:912
 msgctxt "Name"
 msgid "Up"
 msgstr ""
 
-#: khotkeys/data/kde32b1.khotkeys:2863
+#: khotkeys/data/kde32b1.khotkeys:2865
 #: khotkeys/data/konqueror_gestures_kde321.khotkeys:3752
 msgctxt "Name"
 msgid "Reload"
 msgstr ""
 
-#: khotkeys/data/kde32b1.khotkeys:3049
+#: khotkeys/data/kde32b1.khotkeys:3051
 msgctxt "Comment"
 msgid ""
 "After pressing Win+E (Tux+E) a WWW browser will be launched, and it will "
@@ -1464,7 +1464,7 @@ msgid ""
 "minicli (Alt+F2)."
 msgstr ""
 
-#: khotkeys/data/kde32b1.khotkeys:3110
+#: khotkeys/data/kde32b1.khotkeys:3112
 msgctxt "Name"
 msgid "Go to KDE Website"
 msgstr ""
@@ -2713,7 +2713,7 @@ msgctxt "Name"
 msgid "Screenshot"
 msgstr "ପରଦା ସଂରକ୍ଷକ"
 
-#: kwin/effects/screenshot/screenshot.desktop:53
+#: kwin/effects/screenshot/screenshot.desktop:54
 msgctxt "Comment"
 msgid "Saves screenshot of active window into the home directory"
 msgstr ""
@@ -4225,7 +4225,7 @@ msgctxt "Name"
 msgid "Activities Engine"
 msgstr "ସର୍ଭିସ ପରିଚାଳକ"
 
-#: plasma/generic/dataengines/activities/plasma-engine-activities.desktop:41
+#: plasma/generic/dataengines/activities/plasma-engine-activities.desktop:42
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Files and Directories"
@@ -4485,7 +4485,7 @@ msgctxt "Name"
 msgid "Imgur"
 msgstr "ପ୍ରତିଛବି"
 
-#: plasma/generic/dataengines/share/backends/imgur/metadata.desktop:48
+#: plasma/generic/dataengines/share/backends/imgur/metadata.desktop:49
 msgctxt "Comment"
 msgid "Allows images to be shared using the imgur service"
 msgstr ""
@@ -4505,7 +4505,7 @@ msgctxt "Name"
 msgid "pastebin.com"
 msgstr ""
 
-#: plasma/generic/dataengines/share/backends/pastebincom/metadata.desktop:50
+#: plasma/generic/dataengines/share/backends/pastebincom/metadata.desktop:51
 msgctxt "Comment"
 msgid "Allows text to be shared using the pastebin.com service"
 msgstr ""
@@ -4515,7 +4515,7 @@ msgctxt "Name"
 msgid "paste.opensuse.org"
 msgstr ""
 
-#: plasma/generic/dataengines/share/backends/pasteopensuseorg/metadata.desktop:50
+#: plasma/generic/dataengines/share/backends/pasteopensuseorg/metadata.desktop:51
 msgctxt "Comment"
 msgid "Paste text with openSUSE"
 msgstr ""
@@ -4530,7 +4530,7 @@ msgctxt "Name"
 msgid "privatepaste.com"
 msgstr ""
 
-#: plasma/generic/dataengines/share/backends/privatepaste/metadata.desktop:49
+#: plasma/generic/dataengines/share/backends/privatepaste/metadata.desktop:50
 msgctxt "Comment"
 msgid "Paste text with the PrivatePaste.com service"
 msgstr ""
@@ -4550,7 +4550,7 @@ msgctxt "Name"
 msgid "wklej.org"
 msgstr ""
 
-#: plasma/generic/dataengines/share/backends/wklej/metadata.desktop:50
+#: plasma/generic/dataengines/share/backends/wklej/metadata.desktop:51
 msgctxt "Comment"
 msgid "Allows text to be shared using the wklej.org service"
 msgstr ""
@@ -4560,7 +4560,7 @@ msgctxt "Name"
 msgid "wstaw.org"
 msgstr ""
 
-#: plasma/generic/dataengines/share/backends/wstaw/metadata.desktop:51
+#: plasma/generic/dataengines/share/backends/wstaw/metadata.desktop:52
 msgctxt "Comment"
 msgid "Allows images to be shared using the wstaw.org service"
 msgstr ""
@@ -5045,7 +5045,7 @@ msgctxt "Name"
 msgid "Search and Launch"
 msgstr "ସନ୍ଧାନ ଯନ୍ତ୍ର"
 
-#: plasma/netbook/containments/sal/plasma-containment-sal.desktop:48
+#: plasma/netbook/containments/sal/plasma-containment-sal.desktop:49
 msgctxt "Comment"
 msgid "Full screen application launcher with search interface"
 msgstr ""
@@ -5271,7 +5271,7 @@ msgctxt "Name"
 msgid "Display Brightness"
 msgstr "ପ୍ରଦର୍ଶକ ସଂରଚନା"
 
-#: powerdevil/daemon/actions/bundled/powerdevilbrightnesscontrolaction.desktop:49
+#: powerdevil/daemon/actions/bundled/powerdevilbrightnesscontrolaction.desktop:50
 msgctxt "Comment"
 msgid "Basic Controls for brightness"
 msgstr ""
@@ -5284,7 +5284,7 @@ msgctxt "Name"
 msgid "Dim Display"
 msgstr "ପ୍ରଦର୍ଶକ"
 
-#: powerdevil/daemon/actions/bundled/powerdevildimdisplayaction.desktop:48
+#: powerdevil/daemon/actions/bundled/powerdevildimdisplayaction.desktop:49
 msgctxt "Comment"
 msgid "Dims gradually the display on a time basis"
 msgstr ""
@@ -5297,7 +5297,7 @@ msgctxt "Name"
 msgid "Disable Desktop Effects"
 msgstr "Google ଡ଼େସ୍କଟପ ମେସିନଗୁଡ଼ିକ"
 
-#: powerdevil/daemon/actions/bundled/powerdevildisabledesktopeffectsaction.desktop:48
+#: powerdevil/daemon/actions/bundled/powerdevildisabledesktopeffectsaction.desktop:49
 msgctxt "Comment"
 msgid "Temporary disables KWin's desktop effects"
 msgstr ""
@@ -5307,7 +5307,7 @@ msgctxt "Name"
 msgid "Button events handling"
 msgstr ""
 
-#: powerdevil/daemon/actions/bundled/powerdevilhandlebuttoneventsaction.desktop:44
+#: powerdevil/daemon/actions/bundled/powerdevilhandlebuttoneventsaction.desktop:45
 msgctxt "Comment"
 msgid "Performs an action whenever a button is pressed"
 msgstr ""
@@ -5320,7 +5320,7 @@ msgctxt "Name"
 msgid "Run Script"
 msgstr "CGI ସ୍କ୍ରିପ୍ଟଗୁଡ଼ିକ"
 
-#: powerdevil/daemon/actions/bundled/powerdevilrunscriptaction.desktop:49
+#: powerdevil/daemon/actions/bundled/powerdevilrunscriptaction.desktop:50
 msgctxt "Comment"
 msgid "Runs a custom script"
 msgstr ""
@@ -5333,7 +5333,7 @@ msgctxt "Name"
 msgid "Suspend Session"
 msgstr "ଡ଼େସ୍କଟପ ଅଧିବେଶନଗୁଡ଼ିକ"
 
-#: powerdevil/daemon/actions/bundled/powerdevilsuspendsessionaction.desktop:49
+#: powerdevil/daemon/actions/bundled/powerdevilsuspendsessionaction.desktop:50
 msgctxt "Comment"
 msgid "Suspends the session"
 msgstr ""
@@ -5346,7 +5346,7 @@ msgctxt "Name"
 msgid "Screen Energy Saving"
 msgstr "ପରଦା ସଂରକ୍ଷକ ବିନ୍ୟାସ"
 
-#: powerdevil/daemon/actions/dpms/powerdevildpmsaction.desktop:44
+#: powerdevil/daemon/actions/dpms/powerdevildpmsaction.desktop:45
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Font settings"
@@ -5370,7 +5370,7 @@ msgctxt "Name"
 msgid "HAL PowerDevil Backend"
 msgstr "PowerDevil"
 
-#: powerdevil/daemon/backends/hal/powerdevilhalbackend.desktop:47
+#: powerdevil/daemon/backends/hal/powerdevilhalbackend.desktop:48
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Hardware power management using freedesktop.org HAL daemon"
@@ -5386,7 +5386,7 @@ msgctxt "Name"
 msgid "KDE"
 msgstr "CDE"
 
-#: powerdevil/daemon/backends/upower/backlight_helper_actions.actions:47
+#: powerdevil/daemon/backends/upower/backlight_helper_actions.actions:48
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Display Settings"
@@ -5394,12 +5394,12 @@ msgctxt "Name"
 msgid "Get brightness"
 msgstr "ପ୍ରଦର୍ଶକ ସଂରଚନା"
 
-#: powerdevil/daemon/backends/upower/backlight_helper_actions.actions:85
+#: powerdevil/daemon/backends/upower/backlight_helper_actions.actions:87
 msgctxt "Description"
 msgid "System policies prevent you from getting the brightness level."
 msgstr ""
 
-#: powerdevil/daemon/backends/upower/backlight_helper_actions.actions:126
+#: powerdevil/daemon/backends/upower/backlight_helper_actions.actions:129
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Display Settings"
@@ -5407,7 +5407,7 @@ msgctxt "Name"
 msgid "Set brightness"
 msgstr "ପ୍ରଦର୍ଶକ ସଂରଚନା"
 
-#: powerdevil/daemon/backends/upower/backlight_helper_actions.actions:167
+#: powerdevil/daemon/backends/upower/backlight_helper_actions.actions:171
 msgctxt "Description"
 msgid "System policies prevent you from setting the brightness level."
 msgstr ""
@@ -5420,7 +5420,7 @@ msgctxt "Name"
 msgid "UPower PowerDevil Backend"
 msgstr "PowerDevil"
 
-#: powerdevil/daemon/backends/upower/powerdevilupowerbackend.desktop:48
+#: powerdevil/daemon/backends/upower/powerdevilupowerbackend.desktop:49
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Hardware power management using freedesktop.org HAL daemon"
@@ -5447,7 +5447,7 @@ msgctxt "Name"
 msgid "Global settings"
 msgstr "ରଙ୍ଗ ସଂରଚନା"
 
-#: powerdevil/kcmodule/global/powerdevilglobalconfig.desktop:56
+#: powerdevil/kcmodule/global/powerdevilglobalconfig.desktop:57
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -5463,7 +5463,7 @@ msgctxt "Name"
 msgid "Power Profiles"
 msgstr "ଶକ୍ତି ନିୟନ୍ତ୍ରଣ"
 
-#: powerdevil/kcmodule/profiles/powerdevilprofilesconfig.desktop:56
+#: powerdevil/kcmodule/profiles/powerdevilprofilesconfig.desktop:57
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -5479,7 +5479,7 @@ msgctxt "Name"
 msgid "KDE Power Management System"
 msgstr "ଶକ୍ତି ପରିଚାଳନା"
 
-#: powerdevil/powerdevil.notifyrc:43
+#: powerdevil/powerdevil.notifyrc:44
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Settings for display power management"
@@ -5487,52 +5487,52 @@ msgctxt "Comment"
 msgid "Notifications for KDE Power Management system"
 msgstr "ପ୍ରଦର୍ଶକ ଶକ୍ତି ପରିଚାଳନା ପାଇଁ ସଂରଚନା"
 
-#: powerdevil/powerdevil.notifyrc:239
+#: powerdevil/powerdevil.notifyrc:241
 msgctxt "Name"
 msgid "Notification"
 msgstr "ବିଜ୍ଞପ୍ତି"
 
-#: powerdevil/powerdevil.notifyrc:322
+#: powerdevil/powerdevil.notifyrc:324
 msgctxt "Comment"
 msgid "Used for standard notifications"
 msgstr "ମାନକ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ ପାଇଁ ବ୍ୟବହୃତ ହୋଇଥାଏ"
 
-#: powerdevil/powerdevil.notifyrc:395
+#: powerdevil/powerdevil.notifyrc:397
 msgctxt "Name"
 msgid "Critical notification"
 msgstr "ଗମ୍ଭୀର ବିଜ୍ଞପ୍ତି"
 
-#: powerdevil/powerdevil.notifyrc:468
+#: powerdevil/powerdevil.notifyrc:470
 msgctxt "Comment"
 msgid "Notifies a critical event"
 msgstr "ଗୋଟିଏ ଗମ୍ଭୀର ସ୍ଥିତିକୁ ଜଣାଇଥାଏ"
 
-#: powerdevil/powerdevil.notifyrc:542
+#: powerdevil/powerdevil.notifyrc:544
 msgctxt "Name"
 msgid "Low Battery"
 msgstr "ବ୍ୟାଟେରୀ ଶକ୍ତି କମ ଅଛି"
 
-#: powerdevil/powerdevil.notifyrc:613
+#: powerdevil/powerdevil.notifyrc:615
 msgctxt "Comment"
 msgid "Your battery has reached low level"
 msgstr "ଆପଣଙ୍କର ବ୍ୟାଟେରୀ ନିମ୍ନ ସ୍ତରରେ ପହଞ୍ଚିଯାଇଛି"
 
-#: powerdevil/powerdevil.notifyrc:692
+#: powerdevil/powerdevil.notifyrc:694
 msgctxt "Name"
 msgid "Battery at warning level"
 msgstr "ବ୍ୟାଟେରୀ ଚେତାବନୀ ସ୍ତର ପହଞ୍ଚିଯାଇଛି"
 
-#: powerdevil/powerdevil.notifyrc:765
+#: powerdevil/powerdevil.notifyrc:767
 msgctxt "Comment"
 msgid "Your battery has reached warning level"
 msgstr "ଆପଣଙ୍କର ବ୍ୟାଟେରୀ ଚେତାବନୀ ସ୍ତର ପହଞ୍ଚିଯାଇଛି"
 
-#: powerdevil/powerdevil.notifyrc:844
+#: powerdevil/powerdevil.notifyrc:846
 msgctxt "Name"
 msgid "Battery at critical level"
 msgstr "ବ୍ୟାଟେରି ଗମ୍ଭୀର ସ୍ଥିତିରେ ଅଛି"
 
-#: powerdevil/powerdevil.notifyrc:917
+#: powerdevil/powerdevil.notifyrc:919
 msgctxt "Comment"
 msgid ""
 "Your battery has reached critical level. This notification triggers a "
@@ -5540,59 +5540,59 @@ msgid ""
 "to leave that on."
 msgstr ""
 
-#: powerdevil/powerdevil.notifyrc:988
+#: powerdevil/powerdevil.notifyrc:990
 msgctxt "Name"
 msgid "AC adaptor plugged in"
 msgstr "AC ଏଡ଼ପଟର ପ୍ଲଗ ହୋଇଛି"
 
-#: powerdevil/powerdevil.notifyrc:1061
+#: powerdevil/powerdevil.notifyrc:1063
 msgctxt "Comment"
 msgid "The power adaptor has been plugged in"
 msgstr "ଶକ୍ତି ଏଡ଼ପଟରକୁ ପ୍ଲଗରେ ଲଗାହୋଇଛି"
 
-#: powerdevil/powerdevil.notifyrc:1140
+#: powerdevil/powerdevil.notifyrc:1142
 msgctxt "Name"
 msgid "AC adaptor unplugged"
 msgstr "AC ଏଡ଼ପଟର ପ୍ଲଗ ହୋଇନାହିଁ"
 
-#: powerdevil/powerdevil.notifyrc:1213
+#: powerdevil/powerdevil.notifyrc:1215
 msgctxt "Comment"
 msgid "The power adaptor has been unplugged"
 msgstr "ଶକ୍ତି ଏଡ଼ପଟରଟି ପ୍ଲଗ ହୋଇନାହିଁ"
 
-#: powerdevil/powerdevil.notifyrc:1292
+#: powerdevil/powerdevil.notifyrc:1294
 msgctxt "Name"
 msgid "Job error"
 msgstr "କାର୍ଯ୍ୟ ତ୍ରୁଟି"
 
-#: powerdevil/powerdevil.notifyrc:1365
+#: powerdevil/powerdevil.notifyrc:1367
 msgctxt "Comment"
 msgid "There was an error while performing a job"
 msgstr "କାର୍ଯ୍ୟ କରିବା ସମୟରେ ଗୋଟିଏ ତ୍ରୁଟି"
 
-#: powerdevil/powerdevil.notifyrc:1440
+#: powerdevil/powerdevil.notifyrc:1442
 msgctxt "Name"
 msgid "Profile Changed"
 msgstr "ରୂପରେଖଟି ପରିବର୍ତ୍ତିତ ହୋଇଛି"
 
-#: powerdevil/powerdevil.notifyrc:1513
+#: powerdevil/powerdevil.notifyrc:1515
 msgctxt "Comment"
 msgid "The profile was changed"
 msgstr "ରୂପରେଖଟି ପରିବର୍ତ୍ତିତ ହୋଇଛି"
 
-#: powerdevil/powerdevil.notifyrc:1591
+#: powerdevil/powerdevil.notifyrc:1593
 msgctxt "Name"
 msgid "Performing a suspension job"
 msgstr "ଗୋଟିଏ ନିଲମ୍ବିତ କାର୍ଯ୍ୟ କରୁଅଛି"
 
-#: powerdevil/powerdevil.notifyrc:1660
+#: powerdevil/powerdevil.notifyrc:1662
 msgctxt "Comment"
 msgid ""
 "This notification is displayed when a suspension job is about to be done, "
 "and it triggers a countdown. Hence, it is strongly advised to leave it on."
 msgstr ""
 
-#: powerdevil/powerdevil.notifyrc:1727
+#: powerdevil/powerdevil.notifyrc:1729
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Internal PowerDevil Error"
@@ -5600,7 +5600,7 @@ msgctxt "Name"
 msgid "Internal KDE Power Management System Error"
 msgstr "ଆଭ୍ୟନ୍ତରୀଣ PowerDevil ତ୍ରୁଟି"
 
-#: powerdevil/powerdevil.notifyrc:1765
+#: powerdevil/powerdevil.notifyrc:1768
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "PowerDevil has triggered an internal error"
@@ -5608,17 +5608,17 @@ msgctxt "Comment"
 msgid "The KDE Power Management System has triggered an internal error"
 msgstr "PowerDevil ଗୋଟିଏ ଆଭ୍ୟନ୍ତରୀଣ ତ୍ରୁଟିକୁ ଆରମ୍ଭ କରିଛି"
 
-#: powerdevil/powerdevil.notifyrc:1807
+#: powerdevil/powerdevil.notifyrc:1811
 msgctxt "Name"
 msgid "Suspension inhibited"
 msgstr ""
 
-#: powerdevil/powerdevil.notifyrc:1873
+#: powerdevil/powerdevil.notifyrc:1877
 msgctxt "Comment"
 msgid "The suspension has been inhibited because an application requested it"
 msgstr ""
 
-#: powerdevil/powerdevil.notifyrc:1942
+#: powerdevil/powerdevil.notifyrc:1946
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Browser Identification"
@@ -5626,7 +5626,7 @@ msgctxt "Name"
 msgid "Broken battery notification"
 msgstr "ବ୍ରାଉଜର ପରିଚୟ"
 
-#: powerdevil/powerdevil.notifyrc:1979
+#: powerdevil/powerdevil.notifyrc:1984
 msgctxt "Comment"
 msgid ""
 "This notification will pop up if KDE Power Management System detects some "
@@ -5667,7 +5667,7 @@ msgctxt "Name"
 msgid "ModemManager 0.4"
 msgstr "ନେଟୱର୍କ ପରିଚାଳକ 0.7"
 
-#: solid/modemmanager-0.4/solid_modemmanager04.desktop:57
+#: solid/modemmanager-0.4/solid_modemmanager04.desktop:58
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Network management using the NetworkManager daemon, version 0.7"
