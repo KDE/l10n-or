@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcm_phonon\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-01-11 02:35+0100\n"
+"POT-Creation-Date: 2011-03-06 03:30+0100\n"
 "PO-Revision-Date: 2009-01-02 11:46+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -18,52 +18,6 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 "\n"
 "\n"
-
-#: devicepreference.cpp:75
-msgid "Audio Output"
-msgstr ""
-
-#: devicepreference.cpp:75
-msgid "Audio Capture"
-msgstr ""
-
-#: devicepreference.cpp:111
-msgid "Play a test sound on the selected device"
-msgstr ""
-
-#: devicepreference.cpp:132 devicepreference.cpp:139
-msgid ""
-"Defines the default ordering of devices which can be overridden by "
-"individual categories."
-msgstr ""
-
-#: devicepreference.cpp:213
-msgid "Default Output Device Preference"
-msgstr ""
-
-#: devicepreference.cpp:215
-msgid "Default Capture Device Preference"
-msgstr ""
-
-#: devicepreference.cpp:219
-#, kde-format
-msgid "Output Device Preference for the '%1' Category"
-msgstr ""
-
-#: devicepreference.cpp:221
-#, kde-format
-msgid "Capture Device Preference for the '%1' Category"
-msgstr ""
-
-#: devicepreference.cpp:507
-msgid ""
-"Apply the currently shown device preference list to the following other "
-"audio output categories:"
-msgstr ""
-
-#: devicepreference.cpp:514
-msgid "Default/Unspecified Category"
-msgstr ""
 
 #: main.cpp:43
 msgid "Phonon Configuration Module"
@@ -143,6 +97,69 @@ msgstr ""
 
 #: testspeakerwidget.cpp:154
 msgid "Unknown Channel"
+msgstr ""
+
+#: devicepreference.cpp:103
+msgid "Audio Output"
+msgstr ""
+
+#: devicepreference.cpp:106
+msgid "Audio Capture"
+msgstr ""
+
+#: devicepreference.cpp:109
+msgid "Video Capture"
+msgstr ""
+
+#: devicepreference.cpp:112
+msgid "Invalid"
+msgstr ""
+
+#: devicepreference.cpp:150
+msgid "Play a test sound on the selected device"
+msgstr ""
+
+#: devicepreference.cpp:171 devicepreference.cpp:178 devicepreference.cpp:185
+msgid ""
+"Defines the default ordering of devices which can be overridden by "
+"individual categories."
+msgstr ""
+
+#: devicepreference.cpp:284
+msgid "Default Audio Output Device Preference"
+msgstr ""
+
+#: devicepreference.cpp:287
+msgid "Default Audio Capture Device Preference"
+msgstr ""
+
+#: devicepreference.cpp:290
+msgid "Default Video Capture Device Preference"
+msgstr ""
+
+#: devicepreference.cpp:297
+#, kde-format
+msgid "Audio Output Device Preference for the '%1' Category"
+msgstr ""
+
+#: devicepreference.cpp:301
+#, kde-format
+msgid "Audio Capture Device Preference for the '%1' Category"
+msgstr ""
+
+#: devicepreference.cpp:305
+#, kde-format
+msgid "Video Capture Device Preference for the '%1' Category "
+msgstr ""
+
+#: devicepreference.cpp:726
+msgid ""
+"Apply the currently shown device preference list to the following other "
+"audio output categories:"
+msgstr ""
+
+#: devicepreference.cpp:736
+msgid "Default/Unspecified Category"
 msgstr ""
 
 #: rc.cpp:1
