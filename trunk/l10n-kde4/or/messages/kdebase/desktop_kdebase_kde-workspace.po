@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-03-03 03:19+0000\n"
+"POT-Creation-Date: 2011-03-07 03:19+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -3715,11 +3715,6 @@ msgctxt "Comment"
 msgid "Network Management Backend"
 msgstr ""
 
-#: libs/solid/control/solidremotecontrolmanager.desktop:4
-msgctxt "Comment"
-msgid "Remote Control Management Backend"
-msgstr ""
-
 #: plasma/desktop/applets/kickoff/applet/plasma-applet-launcher.desktop:2
 #: plasma/generic/containmentactions/applauncher/plasma-containmentactions-applauncher.desktop:2
 msgctxt "Name"
@@ -5662,19 +5657,6 @@ msgctxt "Comment"
 msgid "Hardware Integration Configuration with Solid"
 msgstr "କଠିନ ସହିତ ହାର୍ଡୱେର ସଂଯୋଗ ବିନ୍ୟାସ"
 
-#: solid/lirc/solid_lirc.desktop:7
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Licq"
-msgctxt "Name"
-msgid "Lirc"
-msgstr "Licq"
-
-#: solid/lirc/solid_lirc.desktop:75
-msgctxt "Comment"
-msgid "Linux Infrared Remote Control"
-msgstr ""
-
 #: solid/modemmanager-0.4/solid_modemmanager04.desktop:6
 #, fuzzy
 #| msgctxt "Name"
@@ -6371,6 +6353,13 @@ msgstr "ଅକ୍ଷରରୂପ ପ୍ରଦର୍ଶକ"
 msgctxt "Comment"
 msgid "The KDE 4 icon view style"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Licq"
+#~ msgctxt "Name"
+#~ msgid "Lirc"
+#~ msgstr "Licq"
 
 #~ msgctxt "Name"
 #~ msgid "Dolphin"
