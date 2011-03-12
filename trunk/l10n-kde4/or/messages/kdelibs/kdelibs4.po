@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-03-09 03:41+0100\n"
+"POT-Creation-Date: 2011-03-12 03:43+0100\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -7255,11 +7255,6 @@ msgstr[1] "%1 ଫାଇଲଗୁଡିକ"
 msgid "Click this to collapse the dialog, to hide details"
 msgstr ""
 
-#: kdeui/kernel/kapplication.cpp:828
-#, kde-format
-msgid "The style '%1' was not found"
-msgstr "ଶୈଳୀ %1 ମିଳୁନାହିଁ"
-
 #: kdeui/kernel/kuniqueapplication.cpp:88
 msgid "Do not run in the background."
 msgstr "ପୃଷ୍ଠଭୂମିରେ ଚଲାନ୍ତୁ ନାହିଁ।"
@@ -7267,6 +7262,11 @@ msgstr "ପୃଷ୍ଠଭୂମିରେ ଚଲାନ୍ତୁ ନାହିଁ�
 #: kdeui/kernel/kuniqueapplication.cpp:90
 msgid "Internally added if launched from Finder"
 msgstr ""
+
+#: kdeui/kernel/kapplication.cpp:830
+#, kde-format
+msgid "The style '%1' was not found"
+msgstr "ଶୈଳୀ %1 ମିଳୁନାହିଁ"
 
 #: kdeui/notifications/knotificationrestrictions.cpp:181
 msgid "Unknown Application"
