@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-03-12 03:43+0100\n"
+"POT-Creation-Date: 2011-03-18 03:37+0100\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -5031,6 +5031,34 @@ msgstr "ପ୍ରଚାଳନଟି ସମର୍ଥିତ ନୁହଁ"
 msgid "Timed out trying to connect to remote host"
 msgstr "ସୁଦୁର ହୋଷ୍ଟ ସହିତ ସଂଯୋଗ ସ୍ଥାପନ କରିବାକୁ ପ୍ରଚେଷ୍ଟା କରିବା ସମୟରେ ସମୟ ସମାପ୍ତ ହୋଇଗଲା"
 
+#: kdecore/network/netsupp.cpp:892
+msgid "address family for nodename not supported"
+msgstr "ନୋଡ ନାମ ପାଇଁ ଠିକଣା ପରିବାର ସମର୍ଥିତ ନୁହଁ"
+
+#: kdecore/network/netsupp.cpp:894
+msgid "invalid value for 'ai_flags'"
+msgstr "'ai_flags' ପାଇଁ ଅବୈଧ ମୂଲ୍ୟ"
+
+#: kdecore/network/netsupp.cpp:896
+msgid "'ai_family' not supported"
+msgstr "'ai_family' ସମର୍ଥିତ ନୁହଁ"
+
+#: kdecore/network/netsupp.cpp:898
+msgid "no address associated with nodename"
+msgstr "କୌଣସି ଠିକଣା ନୋଡ ନାମ ସହିତ ସଂଶ୍ଳିଷ୍ଟ ନାହିଁ"
+
+#: kdecore/network/netsupp.cpp:900
+msgid "servname not supported for ai_socktype"
+msgstr "ai_socktype ପାଇଁ servname ସମର୍ଥିତ ନୁହଁ"
+
+#: kdecore/network/netsupp.cpp:901
+msgid "'ai_socktype' not supported"
+msgstr "'ai_socktype' ସମର୍ଥିତ ନୁହଁ"
+
+#: kdecore/network/netsupp.cpp:902
+msgid "system error"
+msgstr "ତନ୍ତ୍ର ତ୍ରୁଟି"
+
 #: kdecore/network/ktcpsocket.cpp:152
 #, fuzzy
 #| msgid "no error"
@@ -5109,34 +5137,6 @@ msgstr "ସାଥି SSL ପ୍ରମାଣପତ୍ର ଶୃଙ୍ଖଳଟି
 msgctxt "SSL error"
 msgid "Unknown error"
 msgstr "ଅଜଣା ତ୍ରୁଟି"
-
-#: kdecore/network/netsupp.cpp:892
-msgid "address family for nodename not supported"
-msgstr "ନୋଡ ନାମ ପାଇଁ ଠିକଣା ପରିବାର ସମର୍ଥିତ ନୁହଁ"
-
-#: kdecore/network/netsupp.cpp:894
-msgid "invalid value for 'ai_flags'"
-msgstr "'ai_flags' ପାଇଁ ଅବୈଧ ମୂଲ୍ୟ"
-
-#: kdecore/network/netsupp.cpp:896
-msgid "'ai_family' not supported"
-msgstr "'ai_family' ସମର୍ଥିତ ନୁହଁ"
-
-#: kdecore/network/netsupp.cpp:898
-msgid "no address associated with nodename"
-msgstr "କୌଣସି ଠିକଣା ନୋଡ ନାମ ସହିତ ସଂଶ୍ଳିଷ୍ଟ ନାହିଁ"
-
-#: kdecore/network/netsupp.cpp:900
-msgid "servname not supported for ai_socktype"
-msgstr "ai_socktype ପାଇଁ servname ସମର୍ଥିତ ନୁହଁ"
-
-#: kdecore/network/netsupp.cpp:901
-msgid "'ai_socktype' not supported"
-msgstr "'ai_socktype' ସମର୍ଥିତ ନୁହଁ"
-
-#: kdecore/network/netsupp.cpp:902
-msgid "system error"
-msgstr "ତନ୍ତ୍ର ତ୍ରୁଟି"
 
 #: kdecore/services/kmimetyperepository.cpp:603
 #, kde-format
