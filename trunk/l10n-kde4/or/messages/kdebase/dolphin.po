@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-03-28 03:37+0200\n"
+"POT-Creation-Date: 2011-03-30 03:35+0200\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1415,7 +1415,7 @@ msgctxt "@action:inmenu Edit"
 msgid "Unselect All"
 msgstr ""
 
-#: dolphinpart.cpp:167 dolphinmainwindow.cpp:1645
+#: dolphinpart.cpp:167 dolphinmainwindow.cpp:1647
 msgctxt "@action:inmenu Edit"
 msgid "Invert Selection"
 msgstr ""
@@ -1622,7 +1622,7 @@ msgctxt "@action:inmenu"
 msgid "Restore"
 msgstr "ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ"
 
-#: dolphincontextmenu.cpp:254 dolphinmainwindow.cpp:1593
+#: dolphincontextmenu.cpp:254 dolphinmainwindow.cpp:1595
 msgctxt "@title:menu Create new folder, file, link, etc."
 msgid "Create New"
 msgstr "ନୂତନ ନିର୍ମାଣ କରନ୍ତୁ"
@@ -1727,27 +1727,27 @@ msgstr ""
 msgid "Do not ask again"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1125
+#: dolphinmainwindow.cpp:1126
 msgctxt "@action:inmenu"
 msgid "New Tab"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1128
+#: dolphinmainwindow.cpp:1129
 msgctxt "@action:inmenu"
 msgid "Detach Tab"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1130
+#: dolphinmainwindow.cpp:1131
 msgctxt "@action:inmenu"
 msgid "Close Other Tabs"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1132
+#: dolphinmainwindow.cpp:1133
 msgctxt "@action:inmenu"
 msgid "Close Tab"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1373
+#: dolphinmainwindow.cpp:1374
 #, fuzzy
 #| msgctxt "@label:textbox"
 #| msgid "Location:"
@@ -1755,37 +1755,37 @@ msgctxt "@action:inmenu"
 msgid "Location Bar"
 msgstr "ସ୍ଥାନ:"
 
-#: dolphinmainwindow.cpp:1381
+#: dolphinmainwindow.cpp:1382
 msgctxt "@action:inmenu"
 msgid "Go"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1389
+#: dolphinmainwindow.cpp:1391
 msgctxt "@action:inmenu"
 msgid "Tools"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1402
+#: dolphinmainwindow.cpp:1404
 msgctxt "@action:inmenu"
 msgid "Help"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1600
+#: dolphinmainwindow.cpp:1602
 msgctxt "@action:inmenu File"
 msgid "New &Window"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1606
+#: dolphinmainwindow.cpp:1608
 msgctxt "@action:inmenu File"
 msgid "New Tab"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1612
+#: dolphinmainwindow.cpp:1614
 msgctxt "@action:inmenu File"
 msgid "Close Tab"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1635
+#: dolphinmainwindow.cpp:1637
 #, fuzzy
 #| msgctxt "@action:inmenu"
 #| msgid "Paste"
@@ -1793,22 +1793,22 @@ msgctxt "@action:inmenu Edit"
 msgid "Paste"
 msgstr "ଲଗାନ୍ତୁ"
 
-#: dolphinmainwindow.cpp:1640
+#: dolphinmainwindow.cpp:1642
 msgctxt "@action:inmenu Edit"
 msgid "Select All"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1658
+#: dolphinmainwindow.cpp:1660
 msgctxt "@action:inmenu View"
 msgid "Reload"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1664
+#: dolphinmainwindow.cpp:1666
 msgctxt "@action:inmenu View"
 msgid "Stop"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1665
+#: dolphinmainwindow.cpp:1667
 #, fuzzy
 #| msgctxt "@option:check"
 #| msgid "Show space information"
@@ -1816,121 +1816,121 @@ msgctxt "@info"
 msgid "Stop loading"
 msgstr "ସ୍ଥାନ ସୂଚନା ଦର୍ଶାନ୍ତୁ"
 
-#: dolphinmainwindow.cpp:1670
+#: dolphinmainwindow.cpp:1672
 msgctxt "@action:inmenu Navigation Bar"
 msgid "Editable Location"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1675
+#: dolphinmainwindow.cpp:1677
 msgctxt "@action:inmenu Navigation Bar"
 msgid "Replace Location"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1686
+#: dolphinmainwindow.cpp:1688
 msgid "Recently Closed Tabs"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1707
+#: dolphinmainwindow.cpp:1711
 msgctxt "@action:inmenu Tools"
 msgid "Show Filter Bar"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1713
+#: dolphinmainwindow.cpp:1717
 msgctxt "@action:inmenu Tools"
 msgid "Compare Files"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1719
+#: dolphinmainwindow.cpp:1723
 msgctxt "@action:inmenu Tools"
 msgid "Open Terminal"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1738
+#: dolphinmainwindow.cpp:1742
 msgctxt "@action:inmenu"
 msgid "Activate Next Tab"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1743
+#: dolphinmainwindow.cpp:1747
 msgctxt "@action:inmenu"
 msgid "Activate Previous Tab"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1749
+#: dolphinmainwindow.cpp:1753
 msgctxt "@action:inmenu"
 msgid "Open in New Tab"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1754
+#: dolphinmainwindow.cpp:1758
 msgctxt "@action:inmenu"
 msgid "Open in New Window"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1764
+#: dolphinmainwindow.cpp:1768
 msgctxt "@action:inmenu Panels"
 msgid "Unlock Panels"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1766
+#: dolphinmainwindow.cpp:1770
 msgctxt "@action:inmenu Panels"
 msgid "Lock Panels"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1772
+#: dolphinmainwindow.cpp:1776
 msgctxt "@title:window"
 msgid "Information"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1795
+#: dolphinmainwindow.cpp:1799
 msgctxt "@title:window"
 msgid "Folders"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1816
+#: dolphinmainwindow.cpp:1820
 msgctxt "@title:window Shell terminal"
 msgid "Terminal"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1838
+#: dolphinmainwindow.cpp:1842
 msgctxt "@title:window"
 msgid "Search"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1869
+#: dolphinmainwindow.cpp:1873
 msgctxt "@title:window"
 msgid "Places"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1899
+#: dolphinmainwindow.cpp:1903
 msgctxt "@action:inmenu View"
 msgid "Panels"
 msgstr ""
 
-#: dolphinmainwindow.cpp:2107
-msgctxt "@action:intoolbar Close right view"
-msgid "Close"
-msgstr ""
-
-#: dolphinmainwindow.cpp:2108
-msgctxt "@info"
-msgid "Close right view"
-msgstr ""
-
 #: dolphinmainwindow.cpp:2111
-msgctxt "@action:intoolbar Close left view"
+msgctxt "@action:intoolbar Close right view"
 msgid "Close"
 msgstr ""
 
 #: dolphinmainwindow.cpp:2112
 msgctxt "@info"
-msgid "Close left view"
+msgid "Close right view"
+msgstr ""
+
+#: dolphinmainwindow.cpp:2115
+msgctxt "@action:intoolbar Close left view"
+msgid "Close"
 msgstr ""
 
 #: dolphinmainwindow.cpp:2116
+msgctxt "@info"
+msgid "Close left view"
+msgstr ""
+
+#: dolphinmainwindow.cpp:2120
 msgctxt "@action:intoolbar Split view"
 msgid "Split"
 msgstr ""
 
-#: dolphinmainwindow.cpp:2117
+#: dolphinmainwindow.cpp:2121
 msgctxt "@info"
 msgid "Split view"
 msgstr ""

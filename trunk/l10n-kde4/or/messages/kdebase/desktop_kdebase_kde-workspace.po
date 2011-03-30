@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-03-28 02:28+0000\n"
+"POT-Creation-Date: 2011-03-30 02:31+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -49,13 +49,13 @@ msgid "Low Disk Space"
 msgstr ""
 
 #: freespacenotifier/freespacenotifier.notifyrc:119
-#: powerdevil/powerdevil.notifyrc:92
+#: powerdevil/powerdevil.notifyrc:94
 msgctxt "Name"
 msgid "Warning"
 msgstr "ଚେତାବନୀ"
 
 #: freespacenotifier/freespacenotifier.notifyrc:203
-#: powerdevil/powerdevil.notifyrc:176
+#: powerdevil/powerdevil.notifyrc:178
 msgctxt "Comment"
 msgid "Used for warning notifications"
 msgstr "ଚେତାବନୀ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ ପାଇଁ ବ୍ୟବହୃତ ହୋଇଥାଏ"
@@ -306,7 +306,7 @@ msgid "Display"
 msgstr "ପ୍ରଦର୍ଶକ"
 
 #: kcontrol/hardware/display/display.desktop:99
-#: systemsettings/categories/settings-display.desktop:62
+#: systemsettings/categories/settings-display.desktop:63
 msgctxt "Comment"
 msgid "Display Settings"
 msgstr "ପ୍ରଦର୍ଶକ ସଂରଚନା"
@@ -329,7 +329,7 @@ msgctxt "Name"
 msgid "Cursor Theme"
 msgstr "ସୂଚକ ଫାଇଲଗୁଡ଼ିକ"
 
-#: kcontrol/input/cursortheme.desktop:60
+#: kcontrol/input/cursortheme.desktop:61
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Customize individual desktop theme items"
@@ -2804,7 +2804,7 @@ msgctxt "Name"
 msgid "Startup Feedback"
 msgstr ""
 
-#: kwin/effects/startupfeedback/startupfeedback.desktop:46
+#: kwin/effects/startupfeedback/startupfeedback.desktop:47
 msgctxt "Comment"
 msgid "Helper effect for startup feedback"
 msgstr ""
@@ -2967,7 +2967,7 @@ msgctxt "Name"
 msgid "WindowGeometry"
 msgstr "MS Windows 9x"
 
-#: kwin/effects/windowgeometry/windowgeometry.desktop:43
+#: kwin/effects/windowgeometry/windowgeometry.desktop:44
 msgctxt "Comment"
 msgid "Display window geometries on move/resize"
 msgstr ""
@@ -4220,7 +4220,7 @@ msgctxt "Name"
 msgid "Activities Engine"
 msgstr "ସର୍ଭିସ ପରିଚାଳକ"
 
-#: plasma/generic/dataengines/activities/plasma-engine-activities.desktop:43
+#: plasma/generic/dataengines/activities/plasma-engine-activities.desktop:44
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Files and Directories"
@@ -4490,7 +4490,7 @@ msgctxt "Name"
 msgid "kde.org"
 msgstr ""
 
-#: plasma/generic/dataengines/share/backends/kde/metadata.desktop:23
+#: plasma/generic/dataengines/share/backends/kde/metadata.desktop:24
 msgctxt "Comment"
 msgid "Allows text to be shared using the kde.org service"
 msgstr ""
@@ -4581,7 +4581,7 @@ msgctxt "Name"
 msgid "ShareProvider"
 msgstr "ସର୍ଭିସଗୁଡ଼ିକ"
 
-#: plasma/generic/dataengines/share/data/plasma-packagestructure-share.desktop:39
+#: plasma/generic/dataengines/share/data/plasma-packagestructure-share.desktop:40
 msgctxt "Comment"
 msgid "Share Package Structure"
 msgstr ""
@@ -4703,7 +4703,7 @@ msgctxt "Name"
 msgid "Activities"
 msgstr "ସର୍ଭିସ ପରିଚାଳକ"
 
-#: plasma/generic/runners/activities/plasma-runner-activityrunner.desktop:18
+#: plasma/generic/runners/activities/plasma-runner-activityrunner.desktop:19
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Switch between virtual desktops"
@@ -5261,7 +5261,7 @@ msgctxt "Comment"
 msgid "Default toolbox for the netbook shell"
 msgstr ""
 
-#: plasma/netbook/shell/nettoolbox/plasma-toolbox-nettoolbox.desktop:42
+#: plasma/netbook/shell/nettoolbox/plasma-toolbox-nettoolbox.desktop:43
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Network Tool"
@@ -5282,7 +5282,7 @@ msgctxt "Name"
 msgid "Display Brightness"
 msgstr "ପ୍ରଦର୍ଶକ ସଂରଚନା"
 
-#: powerdevil/daemon/actions/bundled/powerdevilbrightnesscontrolaction.desktop:50
+#: powerdevil/daemon/actions/bundled/powerdevilbrightnesscontrolaction.desktop:51
 msgctxt "Comment"
 msgid "Basic Controls for brightness"
 msgstr ""
@@ -5295,7 +5295,7 @@ msgctxt "Name"
 msgid "Dim Display"
 msgstr "ପ୍ରଦର୍ଶକ"
 
-#: powerdevil/daemon/actions/bundled/powerdevildimdisplayaction.desktop:51
+#: powerdevil/daemon/actions/bundled/powerdevildimdisplayaction.desktop:52
 msgctxt "Comment"
 msgid "Dims gradually the display on a time basis"
 msgstr ""
@@ -5308,7 +5308,7 @@ msgctxt "Name"
 msgid "Disable Desktop Effects"
 msgstr "Google ଡ଼େସ୍କଟପ ମେସିନଗୁଡ଼ିକ"
 
-#: powerdevil/daemon/actions/bundled/powerdevildisabledesktopeffectsaction.desktop:51
+#: powerdevil/daemon/actions/bundled/powerdevildisabledesktopeffectsaction.desktop:52
 msgctxt "Comment"
 msgid "Temporary disables KWin's desktop effects"
 msgstr ""
@@ -5318,7 +5318,7 @@ msgctxt "Name"
 msgid "Button events handling"
 msgstr ""
 
-#: powerdevil/daemon/actions/bundled/powerdevilhandlebuttoneventsaction.desktop:48
+#: powerdevil/daemon/actions/bundled/powerdevilhandlebuttoneventsaction.desktop:49
 msgctxt "Comment"
 msgid "Performs an action whenever a button is pressed"
 msgstr ""
@@ -5331,7 +5331,7 @@ msgctxt "Name"
 msgid "Run Script"
 msgstr "CGI ସ୍କ୍ରିପ୍ଟଗୁଡ଼ିକ"
 
-#: powerdevil/daemon/actions/bundled/powerdevilrunscriptaction.desktop:51
+#: powerdevil/daemon/actions/bundled/powerdevilrunscriptaction.desktop:52
 msgctxt "Comment"
 msgid "Runs a custom script"
 msgstr ""
@@ -5344,7 +5344,7 @@ msgctxt "Name"
 msgid "Suspend Session"
 msgstr "ଡ଼େସ୍କଟପ ଅଧିବେଶନଗୁଡ଼ିକ"
 
-#: powerdevil/daemon/actions/bundled/powerdevilsuspendsessionaction.desktop:51
+#: powerdevil/daemon/actions/bundled/powerdevilsuspendsessionaction.desktop:52
 msgctxt "Comment"
 msgid "Suspends the session"
 msgstr ""
@@ -5357,7 +5357,7 @@ msgctxt "Name"
 msgid "Screen Energy Saving"
 msgstr "ପରଦା ସଂରକ୍ଷକ ବିନ୍ୟାସ"
 
-#: powerdevil/daemon/actions/dpms/powerdevildpmsaction.desktop:46
+#: powerdevil/daemon/actions/dpms/powerdevildpmsaction.desktop:47
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Font settings"
@@ -5381,7 +5381,7 @@ msgctxt "Name"
 msgid "HAL PowerDevil Backend"
 msgstr "PowerDevil"
 
-#: powerdevil/daemon/backends/hal/powerdevilhalbackend.desktop:50
+#: powerdevil/daemon/backends/hal/powerdevilhalbackend.desktop:51
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Hardware power management using freedesktop.org HAL daemon"
@@ -5397,7 +5397,7 @@ msgctxt "Name"
 msgid "KDE"
 msgstr "CDE"
 
-#: powerdevil/daemon/backends/upower/backlight_helper_actions.actions:50
+#: powerdevil/daemon/backends/upower/backlight_helper_actions.actions:51
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Display Settings"
@@ -5405,12 +5405,12 @@ msgctxt "Name"
 msgid "Get brightness"
 msgstr "ପ୍ରଦର୍ଶକ ସଂରଚନା"
 
-#: powerdevil/daemon/backends/upower/backlight_helper_actions.actions:90
+#: powerdevil/daemon/backends/upower/backlight_helper_actions.actions:92
 msgctxt "Description"
 msgid "System policies prevent you from getting the brightness level."
 msgstr ""
 
-#: powerdevil/daemon/backends/upower/backlight_helper_actions.actions:133
+#: powerdevil/daemon/backends/upower/backlight_helper_actions.actions:136
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Display Settings"
@@ -5418,7 +5418,7 @@ msgctxt "Name"
 msgid "Set brightness"
 msgstr "ପ୍ରଦର୍ଶକ ସଂରଚନା"
 
-#: powerdevil/daemon/backends/upower/backlight_helper_actions.actions:176
+#: powerdevil/daemon/backends/upower/backlight_helper_actions.actions:180
 msgctxt "Description"
 msgid "System policies prevent you from setting the brightness level."
 msgstr ""
@@ -5431,7 +5431,7 @@ msgctxt "Name"
 msgid "UPower PowerDevil Backend"
 msgstr "PowerDevil"
 
-#: powerdevil/daemon/backends/upower/powerdevilupowerbackend.desktop:51
+#: powerdevil/daemon/backends/upower/powerdevilupowerbackend.desktop:52
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Hardware power management using freedesktop.org HAL daemon"
@@ -5458,7 +5458,7 @@ msgctxt "Name"
 msgid "Global settings"
 msgstr "ରଙ୍ଗ ସଂରଚନା"
 
-#: powerdevil/kcmodule/global/powerdevilglobalconfig.desktop:59
+#: powerdevil/kcmodule/global/powerdevilglobalconfig.desktop:60
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -5474,7 +5474,7 @@ msgctxt "Name"
 msgid "Power Profiles"
 msgstr "ଶକ୍ତି ନିୟନ୍ତ୍ରଣ"
 
-#: powerdevil/kcmodule/profiles/powerdevilprofilesconfig.desktop:58
+#: powerdevil/kcmodule/profiles/powerdevilprofilesconfig.desktop:59
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -5490,7 +5490,7 @@ msgctxt "Name"
 msgid "KDE Power Management System"
 msgstr "ଶକ୍ତି ପରିଚାଳନା"
 
-#: powerdevil/powerdevil.notifyrc:47
+#: powerdevil/powerdevil.notifyrc:48
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Settings for display power management"
@@ -5498,52 +5498,52 @@ msgctxt "Comment"
 msgid "Notifications for KDE Power Management system"
 msgstr "ପ୍ରଦର୍ଶକ ଶକ୍ତି ପରିଚାଳନା ପାଇଁ ସଂରଚନା"
 
-#: powerdevil/powerdevil.notifyrc:247
+#: powerdevil/powerdevil.notifyrc:249
 msgctxt "Name"
 msgid "Notification"
 msgstr "ବିଜ୍ଞପ୍ତି"
 
-#: powerdevil/powerdevil.notifyrc:330
+#: powerdevil/powerdevil.notifyrc:332
 msgctxt "Comment"
 msgid "Used for standard notifications"
 msgstr "ମାନକ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ ପାଇଁ ବ୍ୟବହୃତ ହୋଇଥାଏ"
 
-#: powerdevil/powerdevil.notifyrc:403
+#: powerdevil/powerdevil.notifyrc:405
 msgctxt "Name"
 msgid "Critical notification"
 msgstr "ଗମ୍ଭୀର ବିଜ୍ଞପ୍ତି"
 
-#: powerdevil/powerdevil.notifyrc:476
+#: powerdevil/powerdevil.notifyrc:478
 msgctxt "Comment"
 msgid "Notifies a critical event"
 msgstr "ଗୋଟିଏ ଗମ୍ଭୀର ସ୍ଥିତିକୁ ଜଣାଇଥାଏ"
 
-#: powerdevil/powerdevil.notifyrc:550
+#: powerdevil/powerdevil.notifyrc:552
 msgctxt "Name"
 msgid "Low Battery"
 msgstr "ବ୍ୟାଟେରୀ ଶକ୍ତି କମ ଅଛି"
 
-#: powerdevil/powerdevil.notifyrc:621
+#: powerdevil/powerdevil.notifyrc:623
 msgctxt "Comment"
 msgid "Your battery has reached low level"
 msgstr "ଆପଣଙ୍କର ବ୍ୟାଟେରୀ ନିମ୍ନ ସ୍ତରରେ ପହଞ୍ଚିଯାଇଛି"
 
-#: powerdevil/powerdevil.notifyrc:700
+#: powerdevil/powerdevil.notifyrc:702
 msgctxt "Name"
 msgid "Battery at warning level"
 msgstr "ବ୍ୟାଟେରୀ ଚେତାବନୀ ସ୍ତର ପହଞ୍ଚିଯାଇଛି"
 
-#: powerdevil/powerdevil.notifyrc:773
+#: powerdevil/powerdevil.notifyrc:775
 msgctxt "Comment"
 msgid "Your battery has reached warning level"
 msgstr "ଆପଣଙ୍କର ବ୍ୟାଟେରୀ ଚେତାବନୀ ସ୍ତର ପହଞ୍ଚିଯାଇଛି"
 
-#: powerdevil/powerdevil.notifyrc:852
+#: powerdevil/powerdevil.notifyrc:854
 msgctxt "Name"
 msgid "Battery at critical level"
 msgstr "ବ୍ୟାଟେରି ଗମ୍ଭୀର ସ୍ଥିତିରେ ଅଛି"
 
-#: powerdevil/powerdevil.notifyrc:925
+#: powerdevil/powerdevil.notifyrc:927
 msgctxt "Comment"
 msgid ""
 "Your battery has reached critical level. This notification triggers a "
@@ -5551,59 +5551,59 @@ msgid ""
 "to leave that on."
 msgstr ""
 
-#: powerdevil/powerdevil.notifyrc:996
+#: powerdevil/powerdevil.notifyrc:998
 msgctxt "Name"
 msgid "AC adaptor plugged in"
 msgstr "AC ଏଡ଼ପଟର ପ୍ଲଗ ହୋଇଛି"
 
-#: powerdevil/powerdevil.notifyrc:1069
+#: powerdevil/powerdevil.notifyrc:1071
 msgctxt "Comment"
 msgid "The power adaptor has been plugged in"
 msgstr "ଶକ୍ତି ଏଡ଼ପଟରକୁ ପ୍ଲଗରେ ଲଗାହୋଇଛି"
 
-#: powerdevil/powerdevil.notifyrc:1148
+#: powerdevil/powerdevil.notifyrc:1150
 msgctxt "Name"
 msgid "AC adaptor unplugged"
 msgstr "AC ଏଡ଼ପଟର ପ୍ଲଗ ହୋଇନାହିଁ"
 
-#: powerdevil/powerdevil.notifyrc:1221
+#: powerdevil/powerdevil.notifyrc:1223
 msgctxt "Comment"
 msgid "The power adaptor has been unplugged"
 msgstr "ଶକ୍ତି ଏଡ଼ପଟରଟି ପ୍ଲଗ ହୋଇନାହିଁ"
 
-#: powerdevil/powerdevil.notifyrc:1300
+#: powerdevil/powerdevil.notifyrc:1302
 msgctxt "Name"
 msgid "Job error"
 msgstr "କାର୍ଯ୍ୟ ତ୍ରୁଟି"
 
-#: powerdevil/powerdevil.notifyrc:1373
+#: powerdevil/powerdevil.notifyrc:1375
 msgctxt "Comment"
 msgid "There was an error while performing a job"
 msgstr "କାର୍ଯ୍ୟ କରିବା ସମୟରେ ଗୋଟିଏ ତ୍ରୁଟି"
 
-#: powerdevil/powerdevil.notifyrc:1448
+#: powerdevil/powerdevil.notifyrc:1450
 msgctxt "Name"
 msgid "Profile Changed"
 msgstr "ରୂପରେଖଟି ପରିବର୍ତ୍ତିତ ହୋଇଛି"
 
-#: powerdevil/powerdevil.notifyrc:1521
+#: powerdevil/powerdevil.notifyrc:1523
 msgctxt "Comment"
 msgid "The profile was changed"
 msgstr "ରୂପରେଖଟି ପରିବର୍ତ୍ତିତ ହୋଇଛି"
 
-#: powerdevil/powerdevil.notifyrc:1599
+#: powerdevil/powerdevil.notifyrc:1601
 msgctxt "Name"
 msgid "Performing a suspension job"
 msgstr "ଗୋଟିଏ ନିଲମ୍ବିତ କାର୍ଯ୍ୟ କରୁଅଛି"
 
-#: powerdevil/powerdevil.notifyrc:1668
+#: powerdevil/powerdevil.notifyrc:1670
 msgctxt "Comment"
 msgid ""
 "This notification is displayed when a suspension job is about to be done, "
 "and it triggers a countdown. Hence, it is strongly advised to leave it on."
 msgstr ""
 
-#: powerdevil/powerdevil.notifyrc:1735
+#: powerdevil/powerdevil.notifyrc:1737
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Internal PowerDevil Error"
@@ -5611,7 +5611,7 @@ msgctxt "Name"
 msgid "Internal KDE Power Management System Error"
 msgstr "ଆଭ୍ୟନ୍ତରୀଣ PowerDevil ତ୍ରୁଟି"
 
-#: powerdevil/powerdevil.notifyrc:1777
+#: powerdevil/powerdevil.notifyrc:1780
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "PowerDevil has triggered an internal error"
@@ -5619,17 +5619,17 @@ msgctxt "Comment"
 msgid "The KDE Power Management System has triggered an internal error"
 msgstr "PowerDevil ଗୋଟିଏ ଆଭ୍ୟନ୍ତରୀଣ ତ୍ରୁଟିକୁ ଆରମ୍ଭ କରିଛି"
 
-#: powerdevil/powerdevil.notifyrc:1824
+#: powerdevil/powerdevil.notifyrc:1828
 msgctxt "Name"
 msgid "Suspension inhibited"
 msgstr ""
 
-#: powerdevil/powerdevil.notifyrc:1890
+#: powerdevil/powerdevil.notifyrc:1894
 msgctxt "Comment"
 msgid "The suspension has been inhibited because an application requested it"
 msgstr ""
 
-#: powerdevil/powerdevil.notifyrc:1959
+#: powerdevil/powerdevil.notifyrc:1963
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Browser Identification"
@@ -5637,7 +5637,7 @@ msgctxt "Name"
 msgid "Broken battery notification"
 msgstr "ବ୍ରାଉଜର ପରିଚୟ"
 
-#: powerdevil/powerdevil.notifyrc:2000
+#: powerdevil/powerdevil.notifyrc:2005
 msgctxt "Comment"
 msgid ""
 "This notification will pop up if KDE Power Management System detects some "
@@ -5652,7 +5652,7 @@ msgctxt "Name"
 msgid "Information Sources"
 msgstr "ସୂଚନା ସନ୍ଦେଶ"
 
-#: solid/kcm/kcm_solid.desktop:69
+#: solid/kcm/kcm_solid.desktop:70
 msgctxt "Comment"
 msgid "Hardware Integration Configuration with Solid"
 msgstr "କଠିନ ସହିତ ହାର୍ଡୱେର ସଂଯୋଗ ବିନ୍ୟାସ"
@@ -5665,7 +5665,7 @@ msgctxt "Name"
 msgid "ModemManager 0.4"
 msgstr "ନେଟୱର୍କ ପରିଚାଳକ 0.7"
 
-#: solid/modemmanager-0.4/solid_modemmanager04.desktop:58
+#: solid/modemmanager-0.4/solid_modemmanager04.desktop:59
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Network management using the NetworkManager daemon, version 0.7"
@@ -6126,7 +6126,7 @@ msgctxt "Name"
 msgid "Status Notifier Manager"
 msgstr "KDE ବିଜ୍ଞପ୍ତି ଡେମନ"
 
-#: statusnotifierwatcher/statusnotifierwatcher.desktop:56
+#: statusnotifierwatcher/statusnotifierwatcher.desktop:57
 msgctxt "Comment"
 msgid "Manages services that provide status notifier user interfaces"
 msgstr ""
@@ -6186,7 +6186,7 @@ msgctxt "Name"
 msgid "Workspace Appearance"
 msgstr "ପ୍ରୟୋଗ ଆରମ୍ଭକର୍ତ୍ତା"
 
-#: systemsettings/categories/settings-desktop-appearance.desktop:65
+#: systemsettings/categories/settings-desktop-appearance.desktop:66
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Customize individual desktop theme items"
