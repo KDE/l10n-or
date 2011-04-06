@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-04-05 03:54+0200\n"
+"POT-Creation-Date: 2011-04-06 03:40+0200\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1762,14 +1762,19 @@ msgid ""
 "\">suspended</a> by pressing Ctrl+S.  Press <b>Ctrl+Q</b> to resume.</qt>"
 msgstr ""
 
-#: ViewContainer.cpp:492
+#: ViewContainer.cpp:490
 msgctxt "@action:inmenu"
 msgid "&Detach Tab"
 msgstr ""
 
-#: ViewContainer.cpp:496
+#: ViewContainer.cpp:494
 msgctxt "@action:inmenu"
 msgid "&Rename Tab..."
+msgstr ""
+
+#: ViewContainer.cpp:498
+msgctxt "@action:inmenu"
+msgid "&Close Tab"
 msgstr ""
 
 #: ViewManager.cpp:138
