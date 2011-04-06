@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-03-01 13:43+0100\n"
+"POT-Creation-Date: 2011-04-06 12:16+0200\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1627,6 +1627,36 @@ msgctxt "@action:inmenu"
 msgid "&Delete"
 msgstr "ଅପସାରଣ କରନ୍ତୁ"
 
+#: dolphinviewcontainer.cpp:351
+msgctxt "@info:progress"
+msgid "Loading folder..."
+msgstr "ଫୋଲଡ଼ର ଧାରଣ କରୁଅଛି..."
+
+#: dolphinviewcontainer.cpp:362
+msgctxt "@info"
+msgid "Searching..."
+msgstr ""
+
+#: dolphinviewcontainer.cpp:382
+msgctxt "@info:status"
+msgid "No items found."
+msgstr ""
+
+#: dolphinviewcontainer.cpp:461
+msgctxt "@info:status"
+msgid "Dolphin does not support web pages, the web browser has been launched"
+msgstr "Dolphin ୱେବ ପୃଷ୍ଟାଗୁଡ଼ିକୁ ସମର୍ଥନ କରେନାହିଁ, ୱେବ ବ୍ରାଉଜର ଆରମ୍ଭ ହୋଇଛି"
+
+#: dolphinviewcontainer.cpp:473
+msgctxt "@info:status"
+msgid "Protocol not supported by Dolphin, Konqueror has been launched"
+msgstr ""
+
+#: dolphinviewcontainer.cpp:480
+msgctxt "@info:status"
+msgid "Invalid protocol"
+msgstr "ଅବୈଧ ପ୍ରୋଟୋକଲ"
+
 #: dolphinmainwindow.cpp:241
 msgctxt "@info:status"
 msgid "Successfully copied."
@@ -1771,6 +1801,10 @@ msgstr ""
 msgid "Recently Closed Tabs"
 msgstr ""
 
+#: dolphinmainwindow.cpp:1516
+msgid "Empty Recently Closed Tabs"
+msgstr ""
+
 #: dolphinmainwindow.cpp:1533
 msgctxt "@action:inmenu Tools"
 msgid "Show Filter Bar"
@@ -1868,36 +1902,6 @@ msgstr ""
 msgctxt "@info"
 msgid "Split view"
 msgstr ""
-
-#: dolphinviewcontainer.cpp:351
-msgctxt "@info:progress"
-msgid "Loading folder..."
-msgstr "ଫୋଲଡ଼ର ଧାରଣ କରୁଅଛି..."
-
-#: dolphinviewcontainer.cpp:362
-msgctxt "@info"
-msgid "Searching..."
-msgstr ""
-
-#: dolphinviewcontainer.cpp:382
-msgctxt "@info:status"
-msgid "No items found."
-msgstr ""
-
-#: dolphinviewcontainer.cpp:461
-msgctxt "@info:status"
-msgid "Dolphin does not support web pages, the web browser has been launched"
-msgstr "Dolphin ୱେବ ପୃଷ୍ଟାଗୁଡ଼ିକୁ ସମର୍ଥନ କରେନାହିଁ, ୱେବ ବ୍ରାଉଜର ଆରମ୍ଭ ହୋଇଛି"
-
-#: dolphinviewcontainer.cpp:473
-msgctxt "@info:status"
-msgid "Protocol not supported by Dolphin, Konqueror has been launched"
-msgstr ""
-
-#: dolphinviewcontainer.cpp:480
-msgctxt "@info:status"
-msgid "Invalid protocol"
-msgstr "ଅବୈଧ ପ୍ରୋଟୋକଲ"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
