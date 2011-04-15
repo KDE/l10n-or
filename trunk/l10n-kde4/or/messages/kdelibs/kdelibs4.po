@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-04-10 03:59+0200\n"
+"POT-Creation-Date: 2011-04-15 04:00+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -12414,19 +12414,6 @@ msgctxt "Description of the notified event"
 msgid "Description"
 msgstr "ବର୍ଣ୍ଣନା"
 
-#: kparts/browserextension.cpp:645
-#, kde-format
-msgid "<qt>Do you want to search the Internet for <b>%1</b>?</qt>"
-msgstr "<qt>ଆପଣ <b>%1</b> ପାଇଁ ଜାଲକକୁ ଖୋଜିବାକୁ ଚାହୁଁଛନ୍ତି?</qt>"
-
-#: kparts/browserextension.cpp:646
-msgid "Internet Search"
-msgstr "ଜାଲକ ଖୋଜା"
-
-#: kparts/browserextension.cpp:646
-msgid "&Search"
-msgstr "ଖୋଜନ୍ତୁ (&S)"
-
 #: kparts/browseropenorsavequestion.cpp:100
 #, fuzzy, kde-format
 #| msgid "Re: %1"
@@ -12522,6 +12509,19 @@ msgstr "କଣ ଆପଣ ପ୍ରକୃତରେ '%1'କୁ ନିଷ୍ପା�
 #: kparts/browserrun.cpp:336
 msgid "Execute File?"
 msgstr "ଫାଇଲ ନିଷ୍ପାଦନ କରନ୍ତୁ?"
+
+#: kparts/browserextension.cpp:645
+#, kde-format
+msgid "<qt>Do you want to search the Internet for <b>%1</b>?</qt>"
+msgstr "<qt>ଆପଣ <b>%1</b> ପାଇଁ ଜାଲକକୁ ଖୋଜିବାକୁ ଚାହୁଁଛନ୍ତି?</qt>"
+
+#: kparts/browserextension.cpp:646
+msgid "Internet Search"
+msgstr "ଜାଲକ ଖୋଜା"
+
+#: kparts/browserextension.cpp:646
+msgid "&Search"
+msgstr "ଖୋଜନ୍ତୁ (&S)"
 
 #: kpty/kptydevice.cpp:322
 msgid "Error reading from PTY"
