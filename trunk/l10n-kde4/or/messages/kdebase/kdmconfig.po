@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdmconfig\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-10-26 06:47+0200\n"
+"POT-Creation-Date: 2011-04-22 03:49+0200\n"
 "PO-Revision-Date: 2009-01-02 11:47+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -390,15 +390,19 @@ msgstr ""
 msgid "Grub"
 msgstr ""
 
-#: kdm-shut.cpp:101
+#: kdm-shut.cpp:100
+msgid "Grub2"
+msgstr ""
+
+#: kdm-shut.cpp:102
 msgid "Lilo"
 msgstr ""
 
-#: kdm-shut.cpp:103
+#: kdm-shut.cpp:104
 msgid "Boot manager:"
 msgstr ""
 
-#: kdm-shut.cpp:106
+#: kdm-shut.cpp:107
 msgid "Enable boot options in the \"Shutdown...\" dialog."
 msgstr ""
 
