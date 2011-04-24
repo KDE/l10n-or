@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcm_desktopthemedetails\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-11-05 06:05+0100\n"
+"POT-Creation-Date: 2011-04-24 03:53+0200\n"
 "PO-Revision-Date: 2009-01-05 18:10+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -85,37 +85,42 @@ msgctxt "plasma name"
 msgid "Shutdown Dialog"
 msgstr "ସଂଳାପ ବନ୍ଦ କରନ୍ତୁ"
 
-#: desktopthemedetails.cpp:207
+#: desktopthemedetails.cpp:50
+msgctxt "plasma name"
+msgid "Icons"
+msgstr ""
+
+#: desktopthemedetails.cpp:208
 msgid "(Customized)"
 msgstr "(ଇଚ୍ଛାମୁତାବକ)"
 
-#: desktopthemedetails.cpp:208
+#: desktopthemedetails.cpp:209
 msgid "User customized theme"
 msgstr "ଚାଳକ ଇଚ୍ଛାମୁତାବକ ପ୍ରସଙ୍ଗ"
 
-#: desktopthemedetails.cpp:240
+#: desktopthemedetails.cpp:241
 #, kde-format
 msgid ""
 "Theme items have been changed.  Do you still wish remove the \"%1\" theme?"
 msgstr "ପ୍ରସଙ୍ଗ ବସ୍ତୁଗୁଡ଼ିକ ପରିବର୍ତ୍ତିତ ହୋଇଛି।  ଆପଣ ଏପର୍ଯ୍ୟନ୍ତ \"%1\" ପ୍ରସଙ୍ଗକୁ କାଢ଼ିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
 
-#: desktopthemedetails.cpp:240 desktopthemedetails.cpp:245
-#: desktopthemedetails.cpp:248
+#: desktopthemedetails.cpp:241 desktopthemedetails.cpp:246
+#: desktopthemedetails.cpp:249
 msgid "Remove Desktop Theme"
 msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗକୁ କାଢ଼ିଦିଅନ୍ତୁ"
 
-#: desktopthemedetails.cpp:245
+#: desktopthemedetails.cpp:246
 #, fuzzy
 #| msgid "Removal of the default KDE theme is not allowed."
 msgid "Removal of the default desktop theme is not allowed."
 msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ KDE ପ୍ରସଙ୍ଗକୁ କାଢ଼ିବା ଅନୁମୋଦିତ ନୁହଁ।"
 
-#: desktopthemedetails.cpp:248
+#: desktopthemedetails.cpp:249
 #, kde-format
 msgid "Are you sure you wish remove the \"%1\" theme?"
 msgstr "ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ \"%1\" ପ୍ରସଙ୍ଗକୁ କାଢ଼ିବାକୁ ଚାହୁଁଛନ୍ତି?"
 
-#: desktopthemedetails.cpp:276
+#: desktopthemedetails.cpp:277
 msgid ""
 "Please apply theme item changes (with a new theme name) before attempting to "
 "export theme."
@@ -123,42 +128,42 @@ msgstr ""
 "ଦୟାକରି ପ୍ରସଙ୍ଗ ବସ୍ତୁ ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ପ୍ରୟୋଗ କରନ୍ତୁ (ଗୋଟିଏ ନୂତନ ପ୍ରସଙ୍ଗ ନାମ ସହିତ) ପ୍ରସଙ୍ଗ ପଠାଇବା "
 "ପୂର୍ବରୁ।"
 
-#: desktopthemedetails.cpp:276
+#: desktopthemedetails.cpp:277
 msgid "Export Desktop Theme"
 msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗକୁ ପଠାନ୍ତୁ "
 
-#: desktopthemedetails.cpp:283
+#: desktopthemedetails.cpp:284
 msgid "Export theme to file"
 msgstr "ପ୍ରସଙ୍ଗକୁ ଫାଇଲ ମଧ୍ୟକୁ ପଠାନ୍ତୁ"
 
-#: desktopthemedetails.cpp:378
+#: desktopthemedetails.cpp:379
 msgid "Theme Item"
 msgstr "ପ୍ରସଙ୍ଗ ବସ୍ତୁ"
 
-#: desktopthemedetails.cpp:378
+#: desktopthemedetails.cpp:379
 msgid "Source"
 msgstr "ଉତ୍ସ"
 
-#: desktopthemedetails.cpp:409
+#: desktopthemedetails.cpp:410
 #, kde-format
 msgid "%1 %2"
 msgstr "%1 %2"
 
-#: desktopthemedetails.cpp:412 desktopthemedetails.cpp:438
+#: desktopthemedetails.cpp:413 desktopthemedetails.cpp:439
 msgid "File..."
 msgstr "ଫାଇଲ..."
 
-#: desktopthemedetails.cpp:441
+#: desktopthemedetails.cpp:442
 #, kde-format
 msgid "Select File to Use for %1"
 msgstr "%1 ପାଇଁ ବ୍ୟବହାର କରିବାକୁ ଫାଇଲ ବାଛନ୍ତୁ "
 
-#: desktopthemedetails.cpp:484
+#: desktopthemedetails.cpp:485
 #, kde-format
 msgid " Author: %1"
 msgstr " ଲେଖକ: %1"
 
-#: desktopthemedetails.cpp:490
+#: desktopthemedetails.cpp:491
 #, kde-format
 msgid "Version: %1"
 msgstr "ସଂସ୍କରଣ: %1"
