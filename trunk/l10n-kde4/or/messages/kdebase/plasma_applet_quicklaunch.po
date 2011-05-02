@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_quicklaunch\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-02-14 11:45+0100\n"
+"POT-Creation-Date: 2011-05-02 03:49+0200\n"
 "PO-Revision-Date: 2009-01-02 11:50+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -19,15 +19,15 @@ msgstr ""
 "\n"
 "\n"
 
-#: launcherlist.cpp:396
+#: launchergrid.cpp:401 popuplauncherlist.cpp:345
 msgid "Multiple items"
 msgstr ""
 
-#: launcherlist.cpp:506
+#: launchergrid.cpp:497 popuplauncherlist.cpp:441
 msgid "Quicklaunch"
 msgstr ""
 
-#: launcherlist.cpp:507
+#: launchergrid.cpp:498 popuplauncherlist.cpp:442
 msgid "Add launchers by Drag and Drop or by using the context menu."
 msgstr ""
 
@@ -55,23 +55,23 @@ msgstr ""
 msgid "General"
 msgstr ""
 
-#: quicklaunch.cpp:703
+#: quicklaunch.cpp:732
 msgid "Add Launcher..."
 msgstr ""
 
-#: quicklaunch.cpp:706
+#: quicklaunch.cpp:735
 msgid "Edit Launcher..."
 msgstr ""
 
-#: quicklaunch.cpp:709
+#: quicklaunch.cpp:738
 msgid "Remove Launcher"
 msgstr ""
 
-#: quicklaunch.cpp:770
+#: quicklaunch.cpp:799
 msgid "Show hidden icons"
 msgstr ""
 
-#: quicklaunch.cpp:770
+#: quicklaunch.cpp:799
 msgid "Hide icons"
 msgstr ""
 
