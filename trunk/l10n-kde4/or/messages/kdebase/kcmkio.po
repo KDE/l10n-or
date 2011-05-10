@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmkio\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-11-19 06:22+0100\n"
+"POT-Creation-Date: 2011-05-10 04:07+0200\n"
 "PO-Revision-Date: 2009-01-02 11:45+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -101,10 +101,12 @@ msgid "Yes"
 msgstr ""
 
 #: kcookiespolicies.cpp:178
+msgctxt "@title:window"
 msgid "New Cookie Policy"
 msgstr ""
 
 #: kcookiespolicies.cpp:217
+msgctxt "@title:window"
 msgid "Change Cookie Policy"
 msgstr ""
 
@@ -116,6 +118,7 @@ msgid ""
 msgstr ""
 
 #: kcookiespolicies.cpp:246
+msgctxt "@title:window"
 msgid "Duplicate Policy"
 msgstr ""
 
@@ -153,6 +156,7 @@ msgid ""
 msgstr ""
 
 #: kenvvarproxydlg.cpp:49
+msgctxt "@title:window"
 msgid "Variable Proxy Configuration"
 msgstr ""
 
@@ -170,6 +174,7 @@ msgid ""
 msgstr ""
 
 #: kenvvarproxydlg.cpp:141 kenvvarproxydlg.cpp:303 kproxydlg.cpp:311
+msgctxt "@title:window"
 msgid "Invalid Proxy Setup"
 msgstr ""
 
@@ -178,6 +183,7 @@ msgid "Successfully verified."
 msgstr ""
 
 #: kenvvarproxydlg.cpp:146
+msgctxt "@title:window"
 msgid "Proxy Setup"
 msgstr ""
 
@@ -196,14 +202,17 @@ msgid ""
 msgstr ""
 
 #: kenvvarproxydlg.cpp:234
+msgctxt "@title:window"
 msgid "Automatic Proxy Variable Detection"
 msgstr ""
 
 #: kmanualproxydlg.cpp:48
+msgctxt "@title:window"
 msgid "Manual Proxy Configuration"
 msgstr ""
 
 #: kmanualproxydlg.cpp:273
+msgctxt "@title:window"
 msgid "Invalid Proxy Setting"
 msgstr ""
 
@@ -223,18 +232,22 @@ msgid "<qt><center><b>%1</b></center> is already in the list.</qt>"
 msgstr ""
 
 #: kmanualproxydlg.cpp:346
+msgctxt "@title:window"
 msgid "Duplicate Entry"
 msgstr ""
 
 #: kmanualproxydlg.cpp:356
+msgctxt "@title:window"
 msgid "New Exception"
 msgstr ""
 
 #: kmanualproxydlg.cpp:363
+msgctxt "@title:window"
 msgid "Change Exception"
 msgstr ""
 
 #: kmanualproxydlg.cpp:440
+msgctxt "@title:window"
 msgid "Invalid Entry"
 msgstr ""
 
@@ -296,6 +309,7 @@ msgid ""
 msgstr ""
 
 #: ksaveioconfig.cpp:224 ksaveioconfig.cpp:240
+msgctxt "@title:window"
 msgid "Update Failed"
 msgstr ""
 
@@ -1660,10 +1674,12 @@ msgid ""
 msgstr ""
 
 #: useragentdlg.cpp:80
+msgctxt "@title:window"
 msgid "Add Identification"
 msgstr ""
 
 #: useragentdlg.cpp:154
+msgctxt "@title:window"
 msgid "Modify Identification"
 msgstr ""
 
@@ -1675,6 +1691,7 @@ msgid ""
 msgstr ""
 
 #: useragentdlg.cpp:214
+msgctxt "@title:window"
 msgid "Duplicate Identification"
 msgstr ""
 

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-02-07 02:24+0100\n"
+"POT-Creation-Date: 2011-05-10 04:06+0200\n"
 "PO-Revision-Date: 2008-12-26 16:53+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -38,6 +38,9 @@ msgid "Executing shell commands works only on local directories."
 msgstr ""
 
 #: kshellcmdplugin.cpp:76
+#, fuzzy
+#| msgid "Execute Shell Command"
+msgctxt "@title:window"
 msgid "Execute Shell Command"
 msgstr "ସେଲ ନିର୍ଦ୍ଦେଶକୁ ନିଷ୍ପାଦନ କରନ୍ତୁ"
 

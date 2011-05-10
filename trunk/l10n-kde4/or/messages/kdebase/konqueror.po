@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-02-06 02:23+0100\n"
+"POT-Creation-Date: 2011-05-10 04:06+0200\n"
 "PO-Revision-Date: 2008-12-26 16:53+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -24,15 +24,6 @@ msgstr ""
 #: src/konqmainwindow.cpp:5067
 msgid "no name"
 msgstr "କୌଣସି ନାମ ନାହିଁ"
-
-#: src/konqextensionmanager.cpp:54
-msgid "Configure"
-msgstr "ବିନ୍ୟାସ କରନ୍ତୁ"
-
-#: src/konqextensionmanager.cpp:74 src/konqextensionmanager.cpp:77
-#: src/konqextensionmanager.cpp:78
-msgid "Extensions"
-msgstr "ଅନୁଲଗ୍ନଗୁଡ଼ିକ"
 
 #: src/konqfactory.cpp:90
 #, kde-format
@@ -372,6 +363,126 @@ msgstr ""
 msgid "Miscellaneous"
 msgstr "ମିଶ୍ରିତ"
 
+#: src/konqmain.cpp:96
+#, fuzzy
+#| msgid "Start without a default window"
+msgid "Start without a default window, when called without URLs"
+msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ ୱିଣ୍ଡୋ ବିନା ଆରମ୍ଭ କରନ୍ତୁ"
+
+#: src/konqmain.cpp:98
+msgid ""
+"Preload for later use. This mode does not support URLs on the command line"
+msgstr ""
+
+#: src/konqmain.cpp:100
+msgid "Profile to open"
+msgstr "ଖୋଲିବା ପାଇଁ ରୂପରେଖ"
+
+#: src/konqmain.cpp:102
+msgid "List available profiles"
+msgstr "ସ୍ୱଳ୍ପ ଉପଲବ୍ଧ ରୂପରେଖଗୁଡ଼ିକ"
+
+#: src/konqmain.cpp:104
+msgid "List available sessions"
+msgstr "ସ୍ୱଳ୍ପ ଉପଲବ୍ଧ ଅଧିବେଶନଗୁଡ଼ିକ"
+
+#: src/konqmain.cpp:106
+msgid "Session to open"
+msgstr "ଖୋଲିବା ପାଇଁ ଅଧିବେଶନ"
+
+#: src/konqmain.cpp:108
+msgid "Mimetype to use for this URL (e.g. text/html or inode/directory)"
+msgstr "ଏହି URL ପାଇଁ ବ୍ୟବହୃତ ମାଇମଟାଇପ (ଯେପରିକି text/html କିମ୍ବା inode/directory)"
+
+#: src/konqmain.cpp:109
+msgid "Part to use (e.g. khtml or kwebkitpart)"
+msgstr ""
+
+#: src/konqmain.cpp:111
+msgid ""
+"For URLs that point to files, opens the directory and selects the file, "
+"instead of opening the actual file"
+msgstr ""
+
+#: src/konqmain.cpp:113
+msgid "Location to open"
+msgstr "ଖୋଲିବା ପାଇଁ ସ୍ଥାନ"
+
+#: src/konqtabs.cpp:66
+msgid ""
+"This bar contains the list of currently open tabs. Click on a tab to make it "
+"active. You can also use keyboard shortcuts to navigate through tabs. The "
+"text on the tab shows the content currently open in it; place your mouse "
+"over the tab to see the full title, in case it has been shortened to fit the "
+"tab width."
+msgstr ""
+
+#: src/konqtabs.cpp:100
+msgid "Open a new tab"
+msgstr "ଗୋଟିଏ ନୂତନ ଟ୍ୟାବ ଖୋଲନ୍ତୁ"
+
+#: src/konqtabs.cpp:109
+msgid "Close the current tab"
+msgstr "ବର୍ତ୍ତମାନ ଖୋଲାଯାଇଥିବା ଟ୍ୟାବକୁ ବନ୍ଦକରନ୍ତୁ"
+
+#: src/konqtabs.cpp:326 src/konqmainwindow.cpp:3645
+msgid "&Reload All Tabs"
+msgstr "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ (&R)"
+
+#: src/konqtabs.cpp:349 src/konqmainwindow.cpp:2470
+#: src/konqmainwindow.cpp:3583
+msgid "Close &Other Tabs"
+msgstr "ଅନ୍ୟାନ୍ୟ ଟ୍ୟାବଗୁଡ଼ିକୁ ବନ୍ଦକରନ୍ତୁ (&O)"
+
+#: src/konqtabs.cpp:460 src/konqmainwindow.cpp:3556
+msgid "&New Tab"
+msgstr "ନୂତନ ଟ୍ୟାବ (&N)"
+
+#: src/konqtabs.cpp:465
+msgid "&Duplicate Tab"
+msgstr "ନକଲି ଟ୍ୟାବ (&D)"
+
+#: src/konqtabs.cpp:470
+msgid "&Reload Tab"
+msgstr "ଟ୍ୟାବକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ (&R)"
+
+#: src/konqtabs.cpp:477
+msgid "Other Tabs"
+msgstr "ଅନ୍ୟାନ୍ୟ ଟ୍ୟାବଗୁଡ଼ିକ"
+
+#: src/konqtabs.cpp:482
+msgid "D&etach Tab"
+msgstr "ଟ୍ୟାବକୁ ପୃଥକ କରନ୍ତୁ (&e)"
+
+#: src/konqtabs.cpp:488
+msgid "&Close Tab"
+msgstr "ଟ୍ୟାବକୁ ବନ୍ଦକରନ୍ତୁ (&C)"
+
+#: src/konqundomanager.cpp:110 src/konqundomanager.cpp:266
+msgid "Und&o: Closed Tab"
+msgstr "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ (&o): ବନ୍ଦଥିବା ଟ୍ୟାବ"
+
+#: src/konqundomanager.cpp:112 src/konqundomanager.cpp:120
+#: src/konqundomanager.cpp:162
+msgid "Und&o: Closed Window"
+msgstr "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ (&o): ବନ୍ଦଥିବା ୱିଣ୍ଡୋ"
+
+#: src/konqundomanager.cpp:122
+msgid "Und&o"
+msgstr ""
+
+#: src/konqextensionmanager.cpp:54
+#, fuzzy
+#| msgid "Configure"
+msgctxt "@title:window"
+msgid "Configure"
+msgstr "ବିନ୍ୟାସ କରନ୍ତୁ"
+
+#: src/konqextensionmanager.cpp:74 src/konqextensionmanager.cpp:77
+#: src/konqextensionmanager.cpp:78
+msgid "Extensions"
+msgstr "ଅନୁଲଗ୍ନଗୁଡ଼ିକ"
+
 #: src/konqhistoryview.cpp:62 src/konqmainwindow.cpp:4534
 #: sidebar/web_module/web_module.cpp:61
 msgid "Open in New &Window"
@@ -420,53 +531,11 @@ msgid "Do you really want to clear the entire history?"
 msgstr "ଆପଣ ସମ୍ପୂର୍ଣ୍ଣ ପୁରୁଣା ତଥ୍ଯକୁ ଅପସାରଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
 
 #: src/konqhistoryview.cpp:172 sidebar/history_module/kcmhistory.cpp:256
+#, fuzzy
+#| msgid "Clear History?"
+msgctxt "@title:window"
 msgid "Clear History?"
 msgstr "ପୁରୁଣା ତଥ୍ଯକୁ ଅପସାରଣ କରିବେ କି?"
-
-#: src/konqmain.cpp:96
-#, fuzzy
-#| msgid "Start without a default window"
-msgid "Start without a default window, when called without URLs"
-msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ ୱିଣ୍ଡୋ ବିନା ଆରମ୍ଭ କରନ୍ତୁ"
-
-#: src/konqmain.cpp:98
-msgid ""
-"Preload for later use. This mode does not support URLs on the command line"
-msgstr ""
-
-#: src/konqmain.cpp:100
-msgid "Profile to open"
-msgstr "ଖୋଲିବା ପାଇଁ ରୂପରେଖ"
-
-#: src/konqmain.cpp:102
-msgid "List available profiles"
-msgstr "ସ୍ୱଳ୍ପ ଉପଲବ୍ଧ ରୂପରେଖଗୁଡ଼ିକ"
-
-#: src/konqmain.cpp:104
-msgid "List available sessions"
-msgstr "ସ୍ୱଳ୍ପ ଉପଲବ୍ଧ ଅଧିବେଶନଗୁଡ଼ିକ"
-
-#: src/konqmain.cpp:106
-msgid "Session to open"
-msgstr "ଖୋଲିବା ପାଇଁ ଅଧିବେଶନ"
-
-#: src/konqmain.cpp:108
-msgid "Mimetype to use for this URL (e.g. text/html or inode/directory)"
-msgstr "ଏହି URL ପାଇଁ ବ୍ୟବହୃତ ମାଇମଟାଇପ (ଯେପରିକି text/html କିମ୍ବା inode/directory)"
-
-#: src/konqmain.cpp:109
-msgid "Part to use (e.g. khtml or kwebkitpart)"
-msgstr ""
-
-#: src/konqmain.cpp:111
-msgid ""
-"For URLs that point to files, opens the directory and selects the file, "
-"instead of opening the actual file"
-msgstr ""
-
-#: src/konqmain.cpp:113
-msgid "Location to open"
-msgstr "ଖୋଲିବା ପାଇଁ ସ୍ଥାନ"
 
 #: src/konqmainwindow.cpp:571
 msgctxt "@title:tab"
@@ -489,6 +558,9 @@ msgstr ""
 #: src/konqmainwindow.cpp:2414 src/konqmainwindow.cpp:2444
 #: src/konqmainwindow.cpp:2486 src/konqmainwindow.cpp:2508
 #: src/konqmainwindow.cpp:4969 src/konqviewmanager.cpp:1427
+#, fuzzy
+#| msgid "Discard Changes?"
+msgctxt "@title:window"
 msgid "Discard Changes?"
 msgstr "ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ପ୍ରତ୍ୟାଖ୍ଯାନ କରିବେ କି?"
 
@@ -575,13 +647,11 @@ msgid "Do you really want to close all other tabs?"
 msgstr "କଣ ଆପଣ ପ୍ରକୃତରେ ଅନ୍ୟ ସମସ୍ତ ଟ୍ଯାବଗୁଡ଼ିକୁ ବନ୍ଦ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
 
 #: src/konqmainwindow.cpp:2470
+#, fuzzy
+#| msgid "Close Other Tabs Confirmation"
+msgctxt "@title:window"
 msgid "Close Other Tabs Confirmation"
 msgstr "ଅନ୍ୟାନ୍ୟ ଟ୍ୟାବଗୁଡ଼ିକୁ ବନ୍ଦକରିବାର ନିଶ୍ଚିତକରଣ"
-
-#: src/konqmainwindow.cpp:2470 src/konqmainwindow.cpp:3583
-#: src/konqtabs.cpp:349
-msgid "Close &Other Tabs"
-msgstr "ଅନ୍ୟାନ୍ୟ ଟ୍ୟାବଗୁଡ଼ିକୁ ବନ୍ଦକରନ୍ତୁ (&O)"
 
 #: src/konqmainwindow.cpp:2485
 msgid ""
@@ -600,6 +670,9 @@ msgstr ""
 "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ପୁନର୍ଧାରଣ କରାଗଲେ ତାହା ଏହି ପରିବର୍ତ୍ତନଗୁଡ଼ିକ ପରିତ୍ୟାଗ କରିଦେବ।"
 
 #: src/konqmainwindow.cpp:2550
+#, fuzzy
+#| msgid "Enter Target"
+msgctxt "@title:window"
 msgid "Enter Target"
 msgstr "ଲକ୍ଷ୍ଯସ୍ଥଳ ଭରଣକରନ୍ତୁ"
 
@@ -723,10 +796,6 @@ msgstr "ବିଭାଜିତ ଦୃଶ୍ୟ ବାମ/ଡ଼ାହାଣ (&L)"
 msgid "Split View &Top/Bottom"
 msgstr "ବିଭାଜିତ ଦୃଶ୍ୟ ଉପର/ତଳ (&T)"
 
-#: src/konqmainwindow.cpp:3556 src/konqtabs.cpp:460
-msgid "&New Tab"
-msgstr "ନୂତନ ଟ୍ୟାବ (&N)"
-
 #: src/konqmainwindow.cpp:3562
 msgid "&Duplicate Current Tab"
 msgstr "ନକଲି ପ୍ରଚଳିତ ଟ୍ୟାବ (&D)"
@@ -779,10 +848,6 @@ msgstr "ଦୃଶ୍ୟ ରୂପରେଖକୁ ଧାରଣ କରନ୍ତୁ
 #: src/konqmainwindow.cpp:3640 sidebar/web_module/web_module.cpp:68
 msgid "&Reload"
 msgstr "ପୁନର୍ଧାରଣ କରନ୍ତୁ (&R)"
-
-#: src/konqmainwindow.cpp:3645 src/konqtabs.cpp:326
-msgid "&Reload All Tabs"
-msgstr "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ (&R)"
 
 #: src/konqmainwindow.cpp:3653
 msgid "&Force Reload"
@@ -1016,6 +1081,9 @@ msgstr ""
 "ଆଗକୁ ବଢ଼ିବେ କି?"
 
 #: src/konqmainwindow.cpp:4360
+#, fuzzy
+#| msgid "Open bookmarks folder in new tabs"
+msgctxt "@title:window"
 msgid "Open bookmarks folder in new tabs"
 msgstr "ନୂତନ ଟ୍ୟାବଗୁଡ଼ିକରେ ଚିହ୍ନିତ ସ୍ଥାନ ଫୋଲଡ଼ର ଖୋଲନ୍ତୁ "
 
@@ -1059,6 +1127,9 @@ msgid ""
 msgstr "ଏହି ୱିଣ୍ଡୋରେ ଏକାଧିକ ଟ୍ୟାବ ଖୋଲାଅଛି, ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ବିଦାୟ ନେବାକୁ ଚାହୁଁଛନ୍ତି?"
 
 #: src/konqmainwindow.cpp:4934 src/konqviewmanager.cpp:1413
+#, fuzzy
+#| msgid "Confirmation"
+msgctxt "@title:window"
 msgid "Confirmation"
 msgstr "ନିଶ୍ଚିତକରଣ"
 
@@ -1088,6 +1159,9 @@ msgid ""
 msgstr "ଆପଣଙ୍କର ପାର୍ଶ୍ୱପଟି କାମ କରୁନାହିଁ କିମ୍ୱା ଉପଲବ୍ଧ ନାହିଁ। ନୂତନ ଭରଣ ଯୋଗକରାଯାଇ ପାରିବ ନାହିଁ।"
 
 #: src/konqmainwindow.cpp:5134 src/konqmainwindow.cpp:5141
+#, fuzzy
+#| msgid "Web Sidebar"
+msgctxt "@title:window"
 msgid "Web Sidebar"
 msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି"
 
@@ -1114,6 +1188,9 @@ msgstr ""
 "ଏହି ଫାଇଲ ପ୍ରକାରକୁ ନିୟନ୍ତ୍ରଣ କରିପାରିବ ନାହିଁ।"
 
 #: src/konqprofiledlg.cpp:111
+#, fuzzy
+#| msgid "Profile Management"
+msgctxt "@title:window"
 msgid "Profile Management"
 msgstr "ରୂପରେଖ ପରିଚାଳନା"
 
@@ -1126,6 +1203,9 @@ msgid "&Delete Profile"
 msgstr "ରୂପରେଖ ଅପସାରଣ କରନ୍ତୁ (&D)"
 
 #: src/konqsessiondlg.cpp:77
+#, fuzzy
+#| msgid "Manage Sessions"
+msgctxt "@title:window"
 msgid "Manage Sessions"
 msgstr "ଅଧିବେଶନଗୁଡ଼ିକୁ ପରିଚାଳନ କରନ୍ତୁ"
 
@@ -1136,10 +1216,14 @@ msgstr "ଖୋଲନ୍ତୁ (&O)"
 #: src/konqsessiondlg.cpp:175
 #, fuzzy
 #| msgid "Rename session"
+msgctxt "@title:window"
 msgid "Rename Session"
 msgstr "ଅଧିବେଶନକୁ ପୁନଃ ନାମକରଣ କରନ୍ତୁ"
 
 #: src/konqsessiondlg.cpp:223
+#, fuzzy
+#| msgid "Save Session"
+msgctxt "@title:window"
 msgid "Save Session"
 msgstr "ଅଧିବେଶନକୁ ସଂରକ୍ଷଣ କରନ୍ତୁ"
 
@@ -1150,6 +1234,9 @@ msgid ""
 msgstr "'%1' ନାମକ ଅଧିବେଶନ ପୂର୍ବରୁ ଅବସ୍ଥିତ ଅଛି, ଆପଣ ଏହାକୁ ନବଲିଖନ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
 
 #: src/konqsessiondlg.cpp:248
+#, fuzzy
+#| msgid "Session exists. Overwrite?"
+msgctxt "@title:window"
 msgid "Session exists. Overwrite?"
 msgstr "ଅଧିବେଶନ ଅବସ୍ଥିତ ଅଛି। ନବଲିଖନ କରିବେ କି?"
 
@@ -1162,6 +1249,9 @@ msgid ""
 msgstr "Konqueror ସଠିକ ଭାବରେ ବନ୍ଦ ହୋଇନଥିଲା। ଆପଣ ଅଧିବେଶନକୁ ପୁନଃ ସ୍ଥାପନ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
 
 #: src/konqsessionmanager.cpp:332
+#, fuzzy
+#| msgid "Restore Session?"
+msgctxt "@title:window"
 msgid "Restore Session?"
 msgstr "ଅଧିବେଶନକୁ ପୁନଃ ସ୍ଥାପନ କରିବେ କି?"
 
@@ -1177,56 +1267,6 @@ msgstr "ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ ନାହିଁ"
 msgid "Ask Me Later"
 msgstr "ପରେ ମତେ ପଚାରନ୍ତୁ"
 
-#: src/konqtabs.cpp:66
-msgid ""
-"This bar contains the list of currently open tabs. Click on a tab to make it "
-"active. You can also use keyboard shortcuts to navigate through tabs. The "
-"text on the tab shows the content currently open in it; place your mouse "
-"over the tab to see the full title, in case it has been shortened to fit the "
-"tab width."
-msgstr ""
-
-#: src/konqtabs.cpp:100
-msgid "Open a new tab"
-msgstr "ଗୋଟିଏ ନୂତନ ଟ୍ୟାବ ଖୋଲନ୍ତୁ"
-
-#: src/konqtabs.cpp:109
-msgid "Close the current tab"
-msgstr "ବର୍ତ୍ତମାନ ଖୋଲାଯାଇଥିବା ଟ୍ୟାବକୁ ବନ୍ଦକରନ୍ତୁ"
-
-#: src/konqtabs.cpp:465
-msgid "&Duplicate Tab"
-msgstr "ନକଲି ଟ୍ୟାବ (&D)"
-
-#: src/konqtabs.cpp:470
-msgid "&Reload Tab"
-msgstr "ଟ୍ୟାବକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ (&R)"
-
-#: src/konqtabs.cpp:477
-msgid "Other Tabs"
-msgstr "ଅନ୍ୟାନ୍ୟ ଟ୍ୟାବଗୁଡ଼ିକ"
-
-#: src/konqtabs.cpp:482
-msgid "D&etach Tab"
-msgstr "ଟ୍ୟାବକୁ ପୃଥକ କରନ୍ତୁ (&e)"
-
-#: src/konqtabs.cpp:488
-msgid "&Close Tab"
-msgstr "ଟ୍ୟାବକୁ ବନ୍ଦକରନ୍ତୁ (&C)"
-
-#: src/konqundomanager.cpp:110 src/konqundomanager.cpp:266
-msgid "Und&o: Closed Tab"
-msgstr "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ (&o): ବନ୍ଦଥିବା ଟ୍ୟାବ"
-
-#: src/konqundomanager.cpp:112 src/konqundomanager.cpp:120
-#: src/konqundomanager.cpp:162
-msgid "Und&o: Closed Window"
-msgstr "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ (&o): ବନ୍ଦଥିବା ୱିଣ୍ଡୋ"
-
-#: src/konqundomanager.cpp:122
-msgid "Und&o"
-msgstr ""
-
 #: src/konqview.cpp:1199
 msgid ""
 "The page you are trying to view is the result of posted form data. If you "
@@ -1235,6 +1275,9 @@ msgid ""
 msgstr ""
 
 #: src/konqview.cpp:1201
+#, fuzzy
+#| msgid "Warning"
+msgctxt "@title:window"
 msgid "Warning"
 msgstr "ଚେତାବନି"
 
@@ -1320,97 +1363,6 @@ msgstr ""
 msgid "Extended Sidebar"
 msgstr "ଅନୁଲମ୍ବିତ ପାର୍ଶ୍ୱପଟି"
 
-#: sidebar/sidebar_widget.cpp:94
-msgid "Rollback to System Default"
-msgstr "ତନ୍ତ୍ର ପୂର୍ବନିର୍ଦ୍ଧାରିତକୁ ପ୍ରତ୍ୟାବର୍ତ୍ତନ କରନ୍ତୁ"
-
-#: sidebar/sidebar_widget.cpp:154 sidebar/sidebar_widget.cpp:431
-msgid "Configure Sidebar"
-msgstr "ପାର୍ଶ୍ୱପଟି ବିନ୍ୟାସ କରନ୍ତୁ"
-
-#: sidebar/sidebar_widget.cpp:156
-msgid "Add New"
-msgstr "ନୂତନ ଯୋଗ କରନ୍ତୁ"
-
-#: sidebar/sidebar_widget.cpp:160
-msgid "Multiple Views"
-msgstr "ଏକାଧିକ ଦୃଶ୍ୟଗୁଡ଼ିକ"
-
-#: sidebar/sidebar_widget.cpp:162 sidebar/sidebar_widget.cpp:277
-msgid "Show Tabs Left"
-msgstr "ବଳକା ଥିବା ଟ୍ୟାବ ଦର୍ଶାନ୍ତୁ"
-
-#: sidebar/sidebar_widget.cpp:163
-msgid "Show Configuration Button"
-msgstr "ସଂରଚନା ବଟନ ଦର୍ଶାନ୍ତୁ"
-
-#: sidebar/sidebar_widget.cpp:166
-#, fuzzy
-#| msgid "Web Sidebar"
-msgid "Close Sidebar"
-msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି"
-
-#: sidebar/sidebar_widget.cpp:224
-msgid "This entry already exists."
-msgstr "ଏହି ଭରଣଟି ପୂର୍ବରୁ ଅବସ୍ଥିତ ଅଛି।"
-
-#: sidebar/sidebar_widget.cpp:235
-msgid ""
-"<qt>This removes all your entries from the sidebar and adds the system "
-"default ones.<br /><b>This procedure is irreversible</b><br />Do you want to "
-"proceed?</qt>"
-msgstr ""
-
-#: sidebar/sidebar_widget.cpp:277
-msgid "Show Tabs Right"
-msgstr "ଡ଼ାହାଣରେ ଟ୍ୟାବ ଦର୍ଶାନ୍ତୁ"
-
-#: sidebar/sidebar_widget.cpp:287
-msgid "Set Name"
-msgstr "ନାମ ସେଟ କରନ୍ତୁ"
-
-#: sidebar/sidebar_widget.cpp:287
-msgid "Enter the name:"
-msgstr "ନାମ ଭରଣ କରନ୍ତୁ:"
-
-#: sidebar/sidebar_widget.cpp:304
-msgid "Enter a URL:"
-msgstr "URL ଭରଣ କରନ୍ତୁ:"
-
-#: sidebar/sidebar_widget.cpp:327
-#, kde-format
-msgid "<qt>Do you really want to remove the <b>%1</b> tab?</qt>"
-msgstr "<qt>କଣ ଆପଣ ନିଶ୍ଚିତ ଭାବରେ<b>%1</b> ଟ୍ୟାବକୁ କାଢ଼ିବାକୁ ଚାହୁଁଛନ୍ତି?</qt>"
-
-#: sidebar/sidebar_widget.cpp:372
-msgid ""
-"You have hidden the sidebar configuration button. To make it visible again, "
-"click the right mouse button on any of the sidebar buttons and select \"Show "
-"Configuration Button\"."
-msgstr ""
-
-#: sidebar/sidebar_widget.cpp:549
-msgid "Set Name..."
-msgstr "ନାମ ସେଟ କରନ୍ତୁ..."
-
-#: sidebar/sidebar_widget.cpp:550
-msgid "Set URL..."
-msgstr "URL ସେଟକରନ୍ତୁ..."
-
-#: sidebar/sidebar_widget.cpp:551
-msgid "Set Icon..."
-msgstr "ଚିତ୍ର ସଂକେତ ସେଟକରନ୍ତୁ..."
-
-#: sidebar/sidebar_widget.cpp:553
-msgid "Remove"
-msgstr "କାଢ଼ି ଦିଅନ୍ତୁ"
-
-#: sidebar/sidebar_widget.cpp:846
-#, fuzzy
-#| msgid "Web Sidebar"
-msgid "Web module"
-msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି"
-
 #: sidebar/trees/bookmark_module/bookmark_module.cpp:74
 msgid "&Create New Folder"
 msgstr "ନୂତନ ଫୋଲଡ଼ର ନିର୍ମାଣ କରନ୍ତୁ (&C)"
@@ -1462,14 +1414,23 @@ msgstr ""
 "\"%1\"?"
 
 #: sidebar/trees/bookmark_module/bookmark_module.cpp:337
+#, fuzzy
+#| msgid "Bookmark Folder Deletion"
+msgctxt "@title:window"
 msgid "Bookmark Folder Deletion"
 msgstr "ଚିହ୍ନିତ ସ୍ଥାନ ଫୋଲଡ଼ର ଅପସାରଣ"
 
 #: sidebar/trees/bookmark_module/bookmark_module.cpp:338
+#, fuzzy
+#| msgid "Bookmark Deletion"
+msgctxt "@title:window"
 msgid "Bookmark Deletion"
 msgstr "ଚିହ୍ନିତ ସ୍ଥାନ ଅପସାରଣ"
 
 #: sidebar/trees/bookmark_module/bookmark_module.cpp:380
+#, fuzzy
+#| msgid "Bookmark Properties"
+msgctxt "@title:window"
 msgid "Bookmark Properties"
 msgstr "ଚିହ୍ନିତ ସ୍ଥାନ ଗୁଣଧର୍ମ"
 
@@ -1486,12 +1447,34 @@ msgid "Location:"
 msgstr "ସ୍ଥାନ:"
 
 #: sidebar/trees/bookmark_module/bookmark_module.h:88
+#, fuzzy
+#| msgid "Add Bookmark"
+msgctxt "@title:window"
 msgid "Add Bookmark"
 msgstr "ଚିହ୍ନିତ ସ୍ଥାନ ଯୋଗକରନ୍ତୁ"
 
 #: sidebar/trees/dirtree_module/dirtree_module.cpp:417
 #, kde-format
 msgid "Cannot find parent item %1 in the tree. Internal error."
+msgstr ""
+
+#: sidebar/trees/konqsidebar_oldtreemodule.cpp:179
+#: sidebar/web_module/web_module.cpp:300
+#, fuzzy
+#| msgid "Name:"
+msgctxt "@label"
+msgid "Name:"
+msgstr "ନାମ:"
+
+#: sidebar/trees/konqsidebar_oldtreemodule.cpp:179
+#: sidebar/web_module/web_module.cpp:300
+msgctxt "@label"
+msgid "Path or URL:"
+msgstr ""
+
+#: sidebar/trees/konqsidebar_oldtreemodule.cpp:180
+msgctxt "@title:window"
+msgid "Add folder sidebar module"
 msgstr ""
 
 #: sidebar/trees/konq_sidebartree.cpp:203
@@ -1515,31 +1498,15 @@ msgid "New Folder"
 msgstr "ନୂତନ ଫୋଲଡ଼ର"
 
 #: sidebar/trees/konq_sidebartree.cpp:955
+#, fuzzy
+#| msgid "Create New Folder"
+msgctxt "@title:window"
 msgid "Create New Folder"
 msgstr "ନୂତନ ଫୋଲଡ଼ର ନିର୍ମାଣ କରନ୍ତୁ"
 
 #: sidebar/trees/konq_sidebartree.cpp:956
 msgid "Enter folder name:"
 msgstr "ଫୋଲଡ଼ର ନାମ ଭରଣ କରନ୍ତୁ:"
-
-#: sidebar/trees/konqsidebar_oldtreemodule.cpp:179
-#: sidebar/web_module/web_module.cpp:300
-#, fuzzy
-#| msgid "Name:"
-msgctxt "@label"
-msgid "Name:"
-msgstr "ନାମ:"
-
-#: sidebar/trees/konqsidebar_oldtreemodule.cpp:179
-#: sidebar/web_module/web_module.cpp:300
-msgctxt "@label"
-msgid "Path or URL:"
-msgstr ""
-
-#: sidebar/trees/konqsidebar_oldtreemodule.cpp:180
-msgctxt "@title:window"
-msgid "Add folder sidebar module"
-msgstr ""
 
 #: sidebar/web_module/web_module.cpp:57
 msgid "&Open Link"
@@ -1550,6 +1517,9 @@ msgid "Set &Automatic Reload"
 msgstr "ସ୍ୱୟଂଚାଳିତ ପୁନର୍ଧାରଣ ସେଟକରନ୍ତୁ (&A)"
 
 #: sidebar/web_module/web_module.cpp:137
+#, fuzzy
+#| msgid "Set Refresh Timeout (0 disables)"
+msgctxt "@title:window"
 msgid "Set Refresh Timeout (0 disables)"
 msgstr "ସତେଜନ ସମୟ ସମାପ୍ତ ସେଟକରନ୍ତୁ (0 ନିଷ୍କ୍ରିୟ ହୋଇଛି)"
 
@@ -1572,6 +1542,100 @@ msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି"
 msgctxt "@title:window"
 msgid "Add web sidebar module"
 msgstr ""
+
+#: sidebar/sidebar_widget.cpp:94
+msgid "Rollback to System Default"
+msgstr "ତନ୍ତ୍ର ପୂର୍ବନିର୍ଦ୍ଧାରିତକୁ ପ୍ରତ୍ୟାବର୍ତ୍ତନ କରନ୍ତୁ"
+
+#: sidebar/sidebar_widget.cpp:154 sidebar/sidebar_widget.cpp:431
+msgid "Configure Sidebar"
+msgstr "ପାର୍ଶ୍ୱପଟି ବିନ୍ୟାସ କରନ୍ତୁ"
+
+#: sidebar/sidebar_widget.cpp:156
+msgid "Add New"
+msgstr "ନୂତନ ଯୋଗ କରନ୍ତୁ"
+
+#: sidebar/sidebar_widget.cpp:160
+msgid "Multiple Views"
+msgstr "ଏକାଧିକ ଦୃଶ୍ୟଗୁଡ଼ିକ"
+
+#: sidebar/sidebar_widget.cpp:162 sidebar/sidebar_widget.cpp:277
+msgid "Show Tabs Left"
+msgstr "ବଳକା ଥିବା ଟ୍ୟାବ ଦର୍ଶାନ୍ତୁ"
+
+#: sidebar/sidebar_widget.cpp:163
+msgid "Show Configuration Button"
+msgstr "ସଂରଚନା ବଟନ ଦର୍ଶାନ୍ତୁ"
+
+#: sidebar/sidebar_widget.cpp:166
+#, fuzzy
+#| msgid "Web Sidebar"
+msgid "Close Sidebar"
+msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି"
+
+#: sidebar/sidebar_widget.cpp:224
+msgid "This entry already exists."
+msgstr "ଏହି ଭରଣଟି ପୂର୍ବରୁ ଅବସ୍ଥିତ ଅଛି।"
+
+#: sidebar/sidebar_widget.cpp:235
+msgid ""
+"<qt>This removes all your entries from the sidebar and adds the system "
+"default ones.<br /><b>This procedure is irreversible</b><br />Do you want to "
+"proceed?</qt>"
+msgstr ""
+
+#: sidebar/sidebar_widget.cpp:277
+msgid "Show Tabs Right"
+msgstr "ଡ଼ାହାଣରେ ଟ୍ୟାବ ଦର୍ଶାନ୍ତୁ"
+
+#: sidebar/sidebar_widget.cpp:287
+#, fuzzy
+#| msgid "Set Name"
+msgctxt "@title:window"
+msgid "Set Name"
+msgstr "ନାମ ସେଟ କରନ୍ତୁ"
+
+#: sidebar/sidebar_widget.cpp:287
+msgid "Enter the name:"
+msgstr "ନାମ ଭରଣ କରନ୍ତୁ:"
+
+#: sidebar/sidebar_widget.cpp:304
+msgid "Enter a URL:"
+msgstr "URL ଭରଣ କରନ୍ତୁ:"
+
+#: sidebar/sidebar_widget.cpp:327
+#, kde-format
+msgid "<qt>Do you really want to remove the <b>%1</b> tab?</qt>"
+msgstr "<qt>କଣ ଆପଣ ନିଶ୍ଚିତ ଭାବରେ<b>%1</b> ଟ୍ୟାବକୁ କାଢ଼ିବାକୁ ଚାହୁଁଛନ୍ତି?</qt>"
+
+#: sidebar/sidebar_widget.cpp:372
+msgid ""
+"You have hidden the sidebar configuration button. To make it visible again, "
+"click the right mouse button on any of the sidebar buttons and select \"Show "
+"Configuration Button\"."
+msgstr ""
+
+#: sidebar/sidebar_widget.cpp:549
+msgid "Set Name..."
+msgstr "ନାମ ସେଟ କରନ୍ତୁ..."
+
+#: sidebar/sidebar_widget.cpp:550
+msgid "Set URL..."
+msgstr "URL ସେଟକରନ୍ତୁ..."
+
+#: sidebar/sidebar_widget.cpp:551
+msgid "Set Icon..."
+msgstr "ଚିତ୍ର ସଂକେତ ସେଟକରନ୍ତୁ..."
+
+#: sidebar/sidebar_widget.cpp:553
+msgid "Remove"
+msgstr "କାଢ଼ି ଦିଅନ୍ତୁ"
+
+#: sidebar/sidebar_widget.cpp:846
+#, fuzzy
+#| msgid "Web Sidebar"
+msgid "Web module"
+msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି"
 
 #: about/konq_aboutpage.cc:79 about/konq_aboutpage.cc:81
 #: about/konq_aboutpage.cc:135 about/konq_aboutpage.cc:137
@@ -2007,6 +2071,9 @@ msgid ""
 msgstr ""
 
 #: about/konq_aboutpage.cc:465
+#, fuzzy
+#| msgid "Faster Startup?"
+msgctxt "@title:window"
 msgid "Faster Startup?"
 msgstr "ତୀବ୍ର ଆରମ୍ଭ?"
 
