@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-05-12 03:14+0000\n"
+"POT-Creation-Date: 2011-05-13 02:57+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -5566,6 +5566,27 @@ msgstr "Nepomukଫାଇଲ ଦର୍ଶନ"
 msgctxt "Comment"
 msgid "The Nepomuk file watch service for monitoring file changes"
 msgstr "ପାଇଲ ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ନିରିକ୍ଷଣ କରିବା ପାଇଁ Nepomuk ଫାଇଲ ଦର୍ଶନ ସର୍ଭିସ"
+
+#: nepomuk/services/filewatch/nepomukfilewatch.notifyrc:3
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Nepomuk Service"
+msgctxt "Comment"
+msgid "Nepomuk file watch service"
+msgstr "Nepomuk ସର୍ଭିସ"
+
+#: nepomuk/services/filewatch/nepomukfilewatch.notifyrc:6
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "USB Devices"
+msgctxt "Name"
+msgid "New Removable Device"
+msgstr "USB ଉପକରଣ"
+
+#: nepomuk/services/filewatch/nepomukfilewatch.notifyrc:7
+msgctxt "Comment"
+msgid "A new unknown removable device has been mounted"
+msgstr ""
 
 #: nepomuk/services/queryservice/nepomukqueryservice.desktop:7
 msgctxt "Name"

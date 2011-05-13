@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-05-12 04:09+0200\n"
+"POT-Creation-Date: 2011-05-13 03:56+0200\n"
 "PO-Revision-Date: 2008-12-26 16:53+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1524,12 +1524,21 @@ msgid "Set Refresh Timeout (0 disables)"
 msgstr "ସତେଜନ ସମୟ ସମାପ୍ତ ସେଟକରନ୍ତୁ (0 ନିଷ୍କ୍ରିୟ ହୋଇଛି)"
 
 #: sidebar/web_module/web_module.cpp:145
-msgid " min"
-msgstr " ମିନଟ"
+#, fuzzy
+#| msgid "Minute"
+#| msgid_plural "Minutes"
+msgid " minute"
+msgid_plural " minutes"
+msgstr[0] "ମିନଟ"
+msgstr[1] "ମିନଟ"
 
 #: sidebar/web_module/web_module.cpp:148
-msgid " sec"
-msgstr " ସେକଣ୍ଡ"
+#, fuzzy
+#| msgid " sec"
+msgid " second"
+msgid_plural " seconds"
+msgstr[0] " ସେକଣ୍ଡ"
+msgstr[1] " ସେକଣ୍ଡ"
 
 #: sidebar/web_module/web_module.cpp:280
 #, fuzzy
@@ -2431,6 +2440,9 @@ msgid ""
 "If true, when opening a session from within the sessions dialog the tabs "
 "will be opened inside current window."
 msgstr ""
+
+#~ msgid " min"
+#~ msgstr " ମିନଟ"
 
 #~ msgid "Input Required:"
 #~ msgstr "ନିବେଶ ଆବଶ୍ୟକ:"
