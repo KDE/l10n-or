@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-05-13 13:32+0200\n"
+"POT-Creation-Date: 2011-05-17 15:34+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -6135,7 +6135,7 @@ msgid "Reset Toolbars"
 msgstr "ସାଧନପଟିଗୁଡିକୁ ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ"
 
 #: kdeui/dialogs/kedittoolbar.cpp:602 khtml/khtmlview.cpp:2813
-#: khtml/khtmlview.cpp:2846 khtml/html/html_formimpl.cpp:1836
+#: khtml/khtmlview.cpp:2846 khtml/html/html_formimpl.cpp:1839
 msgid "Reset"
 msgstr "ପୁନଃସ୍ଥାପନ କରନ୍ତୁ"
 
@@ -10392,7 +10392,7 @@ msgid "Access Keys activated"
 msgstr ""
 
 #: khtml/khtmlview.cpp:2799 khtml/khtmlview.cpp:2841 khtml/khtml_part.cpp:4764
-#: khtml/html/html_formimpl.cpp:1632 khtml/html/html_formimpl.cpp:1844
+#: khtml/html/html_formimpl.cpp:1635 khtml/html/html_formimpl.cpp:1847
 msgid "Submit"
 msgstr "ଦାଖଲ କରନ୍ତୁ"
 
@@ -11049,6 +11049,31 @@ msgstr "ସଂଦର୍ଭ"
 msgid "Loaded Scripts"
 msgstr "ଧାରଣ ହୋଇଥିବା ସ୍କ୍ରିପ୍ଟଗୁଡିକ"
 
+#: khtml/html/html_objectimpl.cpp:610
+#, kde-format
+msgid ""
+"No plugin found for '%1'.\n"
+"Do you want to download one from %2?"
+msgstr ""
+"'%1' ପାଇଁ କୌଣସି ପ୍ଲଗଇନ ମିଳିଲା ନାହିଁ।\n"
+"ଆପଣ %2ରୁ ଗୋଟିଏ ଆହରଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
+
+#: khtml/html/html_objectimpl.cpp:611
+msgid "Missing Plugin"
+msgstr "ଅନୁପସ୍ଥିତ ପ୍ଲଗଇନ"
+
+#: khtml/html/html_objectimpl.cpp:611
+msgid "Download"
+msgstr "ଆହରଣ"
+
+#: khtml/html/html_objectimpl.cpp:611
+msgid "Do Not Download"
+msgstr "ଆହରଣ କରନ୍ତୁ ନାହିଁ"
+
+#: khtml/html/htmlparser.cpp:1938
+msgid "This is a searchable index. Enter search keywords: "
+msgstr "ଏହା ଗୋଟିଏ ଖୋଜିବାଯୋଗ୍ୟ ଅନୁକ୍ରମଣିକା। ଖୋଜନ୍ତୁ ସୂଚକ ଶବ୍ଦ ଭରଣ କରନ୍ତୁ: "
+
 #: khtml/html/html_formimpl.cpp:422
 msgid ""
 "The following files will not be uploaded because they could not be found.\n"
@@ -11086,34 +11111,9 @@ msgid_plural "&Send Files"
 msgstr[0] "ଫାଇଲ ପଠାନ୍ତୁ (&S)"
 msgstr[1] "ଫାଇଲ ପଠାନ୍ତୁ (&S)"
 
-#: khtml/html/html_formimpl.cpp:2688
+#: khtml/html/html_formimpl.cpp:2691
 msgid "Key Generator"
 msgstr "କି ନିର୍ମାଣକାରୀ"
-
-#: khtml/html/html_objectimpl.cpp:610
-#, kde-format
-msgid ""
-"No plugin found for '%1'.\n"
-"Do you want to download one from %2?"
-msgstr ""
-"'%1' ପାଇଁ କୌଣସି ପ୍ଲଗଇନ ମିଳିଲା ନାହିଁ।\n"
-"ଆପଣ %2ରୁ ଗୋଟିଏ ଆହରଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
-
-#: khtml/html/html_objectimpl.cpp:611
-msgid "Missing Plugin"
-msgstr "ଅନୁପସ୍ଥିତ ପ୍ଲଗଇନ"
-
-#: khtml/html/html_objectimpl.cpp:611
-msgid "Download"
-msgstr "ଆହରଣ"
-
-#: khtml/html/html_objectimpl.cpp:611
-msgid "Do Not Download"
-msgstr "ଆହରଣ କରନ୍ତୁ ନାହିଁ"
-
-#: khtml/html/htmlparser.cpp:1938
-msgid "This is a searchable index. Enter search keywords: "
-msgstr "ଏହା ଗୋଟିଏ ଖୋଜିବାଯୋଗ୍ୟ ଅନୁକ୍ରମଣିକା। ଖୋଜନ୍ତୁ ସୂଚକ ଶବ୍ଦ ଭରଣ କରନ୍ତୁ: "
 
 #: khtml/java/kjavaapplet.cpp:224
 #, kde-format
