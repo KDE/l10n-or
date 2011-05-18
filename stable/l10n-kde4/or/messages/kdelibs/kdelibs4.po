@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-05-17 15:34+0200\n"
+"POT-Creation-Date: 2011-05-18 14:18+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -7775,12 +7775,6 @@ msgctxt "@action"
 msgid "About KDE"
 msgstr "KDE ବିଷୟରେ"
 
-#: kdeui/sonnet/configdialog.cpp:51
-#, fuzzy
-#| msgid "Send Confirmation"
-msgid "Spell Checking Configuration"
-msgstr "ନିଶ୍ଚିତତା ପଠାନ୍ତୁ"
-
 #: kdeui/sonnet/dialog.cpp:103 kdeui/sonnet/dialog.cpp:224
 #: kdeui/sonnet/dialog.cpp:443
 msgctxt "@title:window"
@@ -7810,6 +7804,12 @@ msgstr "ବନାନଯାଞ୍ଚ ବାତିଲ ହୋଇଯାଇଛି।"
 #: kdeui/sonnet/dialog.cpp:439 kdeui/sonnet/dialog.cpp:443
 msgid "Spell check complete."
 msgstr "ବନାନଯାଞ୍ଚ ସମ୍ପୂର୍ଣ୍ଣ ହୋଇଯାଇଛି।"
+
+#: kdeui/sonnet/configdialog.cpp:51
+#, fuzzy
+#| msgid "Send Confirmation"
+msgid "Spell Checking Configuration"
+msgstr "ନିଶ୍ଚିତତା ପଠାନ୍ତୁ"
 
 #: kdeui/util/kcompletion.cpp:693
 msgid ""
