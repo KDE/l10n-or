@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-05-20 13:30+0200\n"
+"POT-Creation-Date: 2011-05-28 13:45+0200\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1251,48 +1251,6 @@ msgctxt "@info"
 msgid "Columns view mode"
 msgstr "ସ୍ତମ୍ଭ"
 
-#: views/renamedialog.cpp:54
-msgctxt "@title:window"
-msgid "Rename Item"
-msgstr "ବସ୍ତୁର ପୁନଃ ନାମକରଣ କରନ୍ତୁ"
-
-#: views/renamedialog.cpp:55
-msgctxt "@title:window"
-msgid "Rename Items"
-msgstr "ବସ୍ତୁଗୁଡ଼ିକର ପୁନଃ ନାମକରଣ କରନ୍ତୁ"
-
-#: views/renamedialog.cpp:59
-#, fuzzy
-#| msgctxt "@action:button"
-#| msgid "Rename"
-msgctxt "@action:button"
-msgid "&Rename"
-msgstr "ପୁନଃ ନାମକରଣ କରନ୍ତୁ"
-
-#: views/renamedialog.cpp:69
-#, kde-format
-msgctxt "@label:textbox"
-msgid "Rename the item <filename>%1</filename> to:"
-msgstr "<filename>%1</filename> ବସ୍ତୁକୁ ପୁନଃ ନାମକରଣ କରନ୍ତୁ:"
-
-#: views/renamedialog.cpp:72
-msgctxt "@info:status"
-msgid "New name #"
-msgstr "ନୂତନ ନାମ #"
-
-#: views/renamedialog.cpp:74
-#, kde-format
-msgctxt "@label:textbox"
-msgid "Rename the %1 selected item to:"
-msgid_plural "Rename the %1 selected items to:"
-msgstr[0] ""
-msgstr[1] ""
-
-#: views/renamedialog.cpp:121
-msgctxt "@info"
-msgid "(# will be replaced by ascending numbers)"
-msgstr ""
-
 #: views/selectiontoggle.cpp:132
 msgctxt "@info:tooltip"
 msgid "Deselect Item"
@@ -1322,11 +1280,6 @@ msgstr ""
 msgctxt "@title:menu"
 msgid "Columns"
 msgstr "ସ୍ତମ୍ଭଗୁଡ଼ିକ"
-
-#: views/dolphincolumnview.cpp:88
-msgctxt "@info:tooltip"
-msgid "Resize column"
-msgstr ""
 
 #: views/draganddrophelper.cpp:108
 msgctxt "@info:status"
@@ -1388,6 +1341,53 @@ msgstr "ସ୍ଥାନଟି ଖାଲିଅଛି।"
 msgctxt "@info:status"
 msgid "The location '%1' is invalid."
 msgstr "ସ୍ଥାନ '%1' ଟି ଅବୈଧ ଏଟେ।"
+
+#: views/dolphincolumnview.cpp:88
+msgctxt "@info:tooltip"
+msgid "Resize column"
+msgstr ""
+
+#: views/renamedialog.cpp:54
+msgctxt "@title:window"
+msgid "Rename Item"
+msgstr "ବସ୍ତୁର ପୁନଃ ନାମକରଣ କରନ୍ତୁ"
+
+#: views/renamedialog.cpp:55
+msgctxt "@title:window"
+msgid "Rename Items"
+msgstr "ବସ୍ତୁଗୁଡ଼ିକର ପୁନଃ ନାମକରଣ କରନ୍ତୁ"
+
+#: views/renamedialog.cpp:59
+#, fuzzy
+#| msgctxt "@action:button"
+#| msgid "Rename"
+msgctxt "@action:button"
+msgid "&Rename"
+msgstr "ପୁନଃ ନାମକରଣ କରନ୍ତୁ"
+
+#: views/renamedialog.cpp:69
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Rename the item <filename>%1</filename> to:"
+msgstr "<filename>%1</filename> ବସ୍ତୁକୁ ପୁନଃ ନାମକରଣ କରନ୍ତୁ:"
+
+#: views/renamedialog.cpp:72
+msgctxt "@info:status"
+msgid "New name #"
+msgstr "ନୂତନ ନାମ #"
+
+#: views/renamedialog.cpp:74
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Rename the %1 selected item to:"
+msgid_plural "Rename the %1 selected items to:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: views/renamedialog.cpp:121
+msgctxt "@info"
+msgid "(# will be replaced by ascending numbers)"
+msgstr ""
 
 #: dolphinpart.cpp:166
 msgctxt "@action:inmenu Edit"
