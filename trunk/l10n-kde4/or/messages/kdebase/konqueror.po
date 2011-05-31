@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-05-25 03:50+0200\n"
+"POT-Creation-Date: 2011-05-31 04:12+0200\n"
 "PO-Revision-Date: 2008-12-26 16:53+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -20,8 +20,8 @@ msgstr ""
 "\n"
 "X-Generator: KBabel 1.11.4\n"
 
-#: src/konqclosedwindowsmanager.cpp:418 src/konqmainwindow.cpp:5007
-#: src/konqmainwindow.cpp:5067
+#: src/konqclosedwindowsmanager.cpp:418 src/konqmainwindow.cpp:5008
+#: src/konqmainwindow.cpp:5068
 msgid "no name"
 msgstr "କୌଣସି ନାମ ନାହିଁ"
 
@@ -483,7 +483,7 @@ msgstr "ବିନ୍ୟାସ କରନ୍ତୁ"
 msgid "Extensions"
 msgstr "ଅନୁଲଗ୍ନଗୁଡ଼ିକ"
 
-#: src/konqhistoryview.cpp:62 src/konqmainwindow.cpp:4534
+#: src/konqhistoryview.cpp:62 src/konqmainwindow.cpp:4535
 #: sidebar/web_module/web_module.cpp:61
 msgid "Open in New &Window"
 msgstr "ନୂତନ ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ (&W)"
@@ -537,6 +537,148 @@ msgctxt "@title:window"
 msgid "Clear History?"
 msgstr "ପୁରୁଣା ତଥ୍ଯକୁ ଅପସାରଣ କରିବେ କି?"
 
+#: src/konqprofiledlg.cpp:111
+#, fuzzy
+#| msgid "Profile Management"
+msgctxt "@title:window"
+msgid "Profile Management"
+msgstr "ରୂପରେଖ ପରିଚାଳନା"
+
+#: src/konqprofiledlg.cpp:114
+msgid "&Rename Profile"
+msgstr "ରୂପରେଖ ପୁନଃ ନାମକରଣ କରନ୍ତୁ (&R)"
+
+#: src/konqprofiledlg.cpp:115
+msgid "&Delete Profile"
+msgstr "ରୂପରେଖ ଅପସାରଣ କରନ୍ତୁ (&D)"
+
+#: src/konqsessiondlg.cpp:77
+#, fuzzy
+#| msgid "Manage Sessions"
+msgctxt "@title:window"
+msgid "Manage Sessions"
+msgstr "ଅଧିବେଶନଗୁଡ଼ିକୁ ପରିଚାଳନ କରନ୍ତୁ"
+
+#: src/konqsessiondlg.cpp:81
+msgid "&Open"
+msgstr "ଖୋଲନ୍ତୁ (&O)"
+
+#: src/konqsessiondlg.cpp:175
+#, fuzzy
+#| msgid "Rename session"
+msgctxt "@title:window"
+msgid "Rename Session"
+msgstr "ଅଧିବେଶନକୁ ପୁନଃ ନାମକରଣ କରନ୍ତୁ"
+
+#: src/konqsessiondlg.cpp:223
+#, fuzzy
+#| msgid "Save Session"
+msgctxt "@title:window"
+msgid "Save Session"
+msgstr "ଅଧିବେଶନକୁ ସଂରକ୍ଷଣ କରନ୍ତୁ"
+
+#: src/konqsessiondlg.cpp:247
+#, kde-format
+msgid ""
+"A session with the name '%1' already exists, do you want to overwrite it?"
+msgstr "'%1' ନାମକ ଅଧିବେଶନ ପୂର୍ବରୁ ଅବସ୍ଥିତ ଅଛି, ଆପଣ ଏହାକୁ ନବଲିଖନ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
+
+#: src/konqsessiondlg.cpp:248
+#, fuzzy
+#| msgid "Session exists. Overwrite?"
+msgctxt "@title:window"
+msgid "Session exists. Overwrite?"
+msgstr "ଅଧିବେଶନ ଅବସ୍ଥିତ ଅଛି। ନବଲିଖନ କରିବେ କି?"
+
+#: src/konqsessionmanager.cpp:330
+#, fuzzy
+#| msgid "Konqueror didn't close correctly. Would you like to restore session?"
+msgid ""
+"Konqueror did not close correctly. Would you like to restore the previous "
+"session?"
+msgstr "Konqueror ସଠିକ ଭାବରେ ବନ୍ଦ ହୋଇନଥିଲା। ଆପଣ ଅଧିବେଶନକୁ ପୁନଃ ସ୍ଥାପନ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
+
+#: src/konqsessionmanager.cpp:332
+#, fuzzy
+#| msgid "Restore Session?"
+msgctxt "@title:window"
+msgid "Restore Session?"
+msgstr "ଅଧିବେଶନକୁ ପୁନଃ ସ୍ଥାପନ କରିବେ କି?"
+
+#: src/konqsessionmanager.cpp:333
+msgid "Restore Session"
+msgstr "ଅଧିବେଶନକୁ ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ"
+
+#: src/konqsessionmanager.cpp:334
+msgid "Do Not Restore"
+msgstr "ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ ନାହିଁ"
+
+#: src/konqsessionmanager.cpp:335
+msgid "Ask Me Later"
+msgstr "ପରେ ମତେ ପଚାରନ୍ତୁ"
+
+#: src/konqviewmanager.cpp:1411
+msgid ""
+"You have multiple tabs open in this window.\n"
+"Loading a view profile will close them."
+msgstr ""
+"ଏହି ୱିଣ୍ଡୋରେ ଆପଣ ଏକାଧିକ ଟ୍ୟାବ ଖୋଲିଛନ୍ତି।\n"
+"ରୂପରେଖ ଦୃଶ୍ୟକୁ ଧାରଣ କରାଗଲେ ଏହା ବନ୍ଦ ହୋଇଯିବ।"
+
+#: src/konqviewmanager.cpp:1413 src/konqmainwindow.cpp:4935
+#, fuzzy
+#| msgid "Confirmation"
+msgctxt "@title:window"
+msgid "Confirmation"
+msgstr "ନିଶ୍ଚିତକରଣ"
+
+#: src/konqviewmanager.cpp:1414
+msgid "Load View Profile"
+msgstr "ରୂପରେଖ ଦୃଶ୍ୟକୁ ଧାରଣ କରନ୍ତୁ"
+
+#: src/konqviewmanager.cpp:1426
+msgid ""
+"This tab contains changes that have not been submitted.\n"
+"Loading a profile will discard these changes."
+msgstr ""
+"ଏହି ଟ୍ୟାବ ଦାଖଲ ହୋଇନଥିବା ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ଧାରଣ କରିଥାଏ।\n"
+"ରୂପରେଖ ଧାରଣ କରାଗଲେ ଏହି ପରିବର୍ତ୍ତନଗୁଡ଼ିକ ବାତିଲ ହୋଇଯିବ।"
+
+#: src/konqviewmanager.cpp:1427 src/konqmainwindow.cpp:1614
+#: src/konqmainwindow.cpp:2336 src/konqmainwindow.cpp:2414
+#: src/konqmainwindow.cpp:2444 src/konqmainwindow.cpp:2486
+#: src/konqmainwindow.cpp:2508 src/konqmainwindow.cpp:4970
+#, fuzzy
+#| msgid "Discard Changes?"
+msgctxt "@title:window"
+msgid "Discard Changes?"
+msgstr "ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ପ୍ରତ୍ୟାଖ୍ଯାନ କରିବେ କି?"
+
+#: src/konqviewmanager.cpp:1427 src/konqmainwindow.cpp:1614
+#: src/konqmainwindow.cpp:2336 src/konqmainwindow.cpp:2414
+#: src/konqmainwindow.cpp:2444 src/konqmainwindow.cpp:2486
+#: src/konqmainwindow.cpp:2509 src/konqmainwindow.cpp:4970
+msgid "&Discard Changes"
+msgstr "ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ପ୍ରତ୍ୟାଖ୍ଯାନ କରନ୍ତୁ (&D)"
+
+#: src/konqview.cpp:1203
+msgid ""
+"The page you are trying to view is the result of posted form data. If you "
+"resend the data, any action the form carried out (such as search or online "
+"purchase) will be repeated. "
+msgstr ""
+
+#: src/konqview.cpp:1205
+#, fuzzy
+#| msgid "Warning"
+msgctxt "@title:window"
+msgid "Warning"
+msgstr "ଚେତାବନି"
+
+#: src/konqview.cpp:1205
+msgid "Resend"
+msgstr "ପୁଣି ପଠାନ୍ତୁ"
+
 #: src/konqmainwindow.cpp:571
 msgctxt "@title:tab"
 msgid "Loading..."
@@ -553,23 +695,6 @@ msgid ""
 msgstr ""
 "ଏହି ପୃଷ୍ଠାରେ ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ଧାରଣ କରାଯାଇଛି ଯାହାକୁ ଦାଖଲ କରାଯାଇନାହିଁ।\n"
 "ଏହି ପୃଷ୍ଠାକୁ ପୁନର୍ଧାରଣ କରିବା ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ପ୍ରତ୍ୟାଖ୍ଯାନ କରିଦେବ।"
-
-#: src/konqmainwindow.cpp:1614 src/konqmainwindow.cpp:2336
-#: src/konqmainwindow.cpp:2414 src/konqmainwindow.cpp:2444
-#: src/konqmainwindow.cpp:2486 src/konqmainwindow.cpp:2508
-#: src/konqmainwindow.cpp:4969 src/konqviewmanager.cpp:1427
-#, fuzzy
-#| msgid "Discard Changes?"
-msgctxt "@title:window"
-msgid "Discard Changes?"
-msgstr "ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ପ୍ରତ୍ୟାଖ୍ଯାନ କରିବେ କି?"
-
-#: src/konqmainwindow.cpp:1614 src/konqmainwindow.cpp:2336
-#: src/konqmainwindow.cpp:2414 src/konqmainwindow.cpp:2444
-#: src/konqmainwindow.cpp:2486 src/konqmainwindow.cpp:2509
-#: src/konqmainwindow.cpp:4969 src/konqviewmanager.cpp:1427
-msgid "&Discard Changes"
-msgstr "ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ପ୍ରତ୍ୟାଖ୍ଯାନ କରନ୍ତୁ (&D)"
 
 #: src/konqmainwindow.cpp:1724
 msgid "File Management"
@@ -1072,7 +1197,7 @@ msgstr "ଫାଇଲଗୁଡ଼ିକୁ ନକଲ କରନ୍ତୁ (&F)..."
 msgid "M&ove Files..."
 msgstr "ଫାଇଲଗୁଡ଼ିକୁ ଗତିକରାନ୍ତୁ (&)..."
 
-#: src/konqmainwindow.cpp:4358
+#: src/konqmainwindow.cpp:4359
 msgid ""
 "You have requested to open more than 20 bookmarks in tabs. This might take a "
 "while. Continue?"
@@ -1080,64 +1205,57 @@ msgstr ""
 "ଆପଣ ଟ୍ୟାବରେ 20ରୁ ଅଧିକ ଚିହ୍ନିତ ସ୍ଥାନ ଖୋଲିବା ପାଇଁ ଅନୁରୋଧ କରିଥିଲେ। ଏଥିପାଇଁହୁଏତ କିଛି ସମୟ ଲାଗିପାରେ। "
 "ଆଗକୁ ବଢ଼ିବେ କି?"
 
-#: src/konqmainwindow.cpp:4360
+#: src/konqmainwindow.cpp:4361
 #, fuzzy
 #| msgid "Open bookmarks folder in new tabs"
 msgctxt "@title:window"
 msgid "Open bookmarks folder in new tabs"
 msgstr "ନୂତନ ଟ୍ୟାବଗୁଡ଼ିକରେ ଚିହ୍ନିତ ସ୍ଥାନ ଫୋଲଡ଼ର ଖୋଲନ୍ତୁ "
 
-#: src/konqmainwindow.cpp:4527
+#: src/konqmainwindow.cpp:4528
 msgid "Open in T&his Window"
 msgstr "ଏହି ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ (&h)"
 
-#: src/konqmainwindow.cpp:4528
+#: src/konqmainwindow.cpp:4529
 msgid "Open the document in current window"
 msgstr "ଦଲିଲକୁ ପ୍ରଚଳିତ ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:4535
+#: src/konqmainwindow.cpp:4536
 msgid "Open the document in a new window"
 msgstr "ଦଲିଲକୁ ଗୋଟିଏ ନୂତନ ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:4541
+#: src/konqmainwindow.cpp:4542
 msgid "Open in &New Tab"
 msgstr "ନୂତନ ଟ୍ୟାବରେ ଖୋଲନ୍ତୁ (&N)"
 
-#: src/konqmainwindow.cpp:4543
+#: src/konqmainwindow.cpp:4544
 msgid "Open the document in a new tab"
 msgstr "ଦଲିଲକୁ ଗୋଟିଏ ନୂତନ ଟ୍ୟାବରେ ଖୋଲନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:4753
+#: src/konqmainwindow.cpp:4754
 msgid "&Open With"
 msgstr "ଏହା ସହିତ ଖୋଲନ୍ତୁ (&O)"
 
-#: src/konqmainwindow.cpp:4767
+#: src/konqmainwindow.cpp:4768
 #, kde-format
 msgid "Open with %1"
 msgstr "%1 ସହିତ ଖୋଲନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:4813
+#: src/konqmainwindow.cpp:4814
 msgctxt "@action:inmenu View"
 msgid "&View Mode"
 msgstr "ଦୃଶ୍ୟ ଅବସ୍ଥା (&V)"
 
-#: src/konqmainwindow.cpp:4932
+#: src/konqmainwindow.cpp:4933
 msgid ""
 "You have multiple tabs open in this window, are you sure you want to quit?"
 msgstr "ଏହି ୱିଣ୍ଡୋରେ ଏକାଧିକ ଟ୍ୟାବ ଖୋଲାଅଛି, ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ବିଦାୟ ନେବାକୁ ଚାହୁଁଛନ୍ତି?"
 
-#: src/konqmainwindow.cpp:4934 src/konqviewmanager.cpp:1413
-#, fuzzy
-#| msgid "Confirmation"
-msgctxt "@title:window"
-msgid "Confirmation"
-msgstr "ନିଶ୍ଚିତକରଣ"
-
-#: src/konqmainwindow.cpp:4936
+#: src/konqmainwindow.cpp:4937
 msgid "C&lose Current Tab"
 msgstr "ପ୍ରଚଳିତ ଟ୍ୟାବକୁ ଖୋଲନ୍ତୁ (&l)"
 
-#: src/konqmainwindow.cpp:4965
+#: src/konqmainwindow.cpp:4966
 msgid ""
 "This tab contains changes that have not been submitted.\n"
 "Closing the window will discard these changes."
@@ -1145,7 +1263,7 @@ msgstr ""
 "ଏହି ଟ୍ୟାବରେ ଦାଖଲ ହୋଇନଥିବା ପରିବର୍ତ୍ତନଗୁଡ଼ିକ ସଂରକ୍ଷିତ ଅଛି।\n"
 "ବନ୍ଦ କରିବା ଦ୍ୱାରା ଏହି ପରିବର୍ତ୍ତନଗୁଡ଼ିକ ବାତିଲ ହୋଇଯିବ।"
 
-#: src/konqmainwindow.cpp:4966
+#: src/konqmainwindow.cpp:4967
 msgid ""
 "This page contains changes that have not been submitted.\n"
 "Closing the window will discard these changes."
@@ -1153,32 +1271,32 @@ msgstr ""
 "ଏହି ପୃଷ୍ଠା ଦାଖଲ ହୋଇନଥିବା ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ଧାରଣ କରିଥାଏ\n"
 "ୱିଣ୍ଡୋକୁ ବନ୍ଦ କରିବା ଦ୍ୱାରା ଏହି ପରିବର୍ତ୍ତନଗୁଡ଼ିକ ବାତିଲ ହୋଇଯିବ।"
 
-#: src/konqmainwindow.cpp:5134
+#: src/konqmainwindow.cpp:5135
 msgid ""
 "Your sidebar is not functional or unavailable. A new entry cannot be added."
 msgstr "ଆପଣଙ୍କର ପାର୍ଶ୍ୱପଟି କାମ କରୁନାହିଁ କିମ୍ୱା ଉପଲବ୍ଧ ନାହିଁ। ନୂତନ ଭରଣ ଯୋଗକରାଯାଇ ପାରିବ ନାହିଁ।"
 
-#: src/konqmainwindow.cpp:5134 src/konqmainwindow.cpp:5141
+#: src/konqmainwindow.cpp:5135 src/konqmainwindow.cpp:5142
 #, fuzzy
 #| msgid "Web Sidebar"
 msgctxt "@title:window"
 msgid "Web Sidebar"
 msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି"
 
-#: src/konqmainwindow.cpp:5139
+#: src/konqmainwindow.cpp:5140
 #, kde-format
 msgid "Add new web extension \"%1\" to your sidebar?"
 msgstr "ଆପଣଙ୍କ ପାର୍ଶ୍ୱପଟିରେ ନୂତନ ୱେବ ଅନୁଲଗ୍ନ ଯୋଗକରିବେ କି \"%1\"?"
 
-#: src/konqmainwindow.cpp:5141
+#: src/konqmainwindow.cpp:5142
 msgid "Add"
 msgstr "ଯୋଗ କରନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:5141
+#: src/konqmainwindow.cpp:5142
 msgid "Do Not Add"
 msgstr "ଯୋଗ କରନ୍ତୁ ନାହିଁ"
 
-#: src/konqmainwindow.cpp:5443
+#: src/konqmainwindow.cpp:5444
 #, kde-format
 msgid ""
 "There appears to be a configuration error. You have associated Konqueror "
@@ -1186,124 +1304,6 @@ msgid ""
 msgstr ""
 "ସେଠାରେ ଗୋଟିଏ ସଂରଚନା ତ୍ରୁଟି ଦେଖାଯାଉଛି। ଆପଣଙ୍କ ପାଖରେ %1 ସହିତ ସମ୍ବନ୍ଧିତ Konqueror ଅଛି, କିନ୍ତୁ "
 "ଏହି ଫାଇଲ ପ୍ରକାରକୁ ନିୟନ୍ତ୍ରଣ କରିପାରିବ ନାହିଁ।"
-
-#: src/konqprofiledlg.cpp:111
-#, fuzzy
-#| msgid "Profile Management"
-msgctxt "@title:window"
-msgid "Profile Management"
-msgstr "ରୂପରେଖ ପରିଚାଳନା"
-
-#: src/konqprofiledlg.cpp:114
-msgid "&Rename Profile"
-msgstr "ରୂପରେଖ ପୁନଃ ନାମକରଣ କରନ୍ତୁ (&R)"
-
-#: src/konqprofiledlg.cpp:115
-msgid "&Delete Profile"
-msgstr "ରୂପରେଖ ଅପସାରଣ କରନ୍ତୁ (&D)"
-
-#: src/konqsessiondlg.cpp:77
-#, fuzzy
-#| msgid "Manage Sessions"
-msgctxt "@title:window"
-msgid "Manage Sessions"
-msgstr "ଅଧିବେଶନଗୁଡ଼ିକୁ ପରିଚାଳନ କରନ୍ତୁ"
-
-#: src/konqsessiondlg.cpp:81
-msgid "&Open"
-msgstr "ଖୋଲନ୍ତୁ (&O)"
-
-#: src/konqsessiondlg.cpp:175
-#, fuzzy
-#| msgid "Rename session"
-msgctxt "@title:window"
-msgid "Rename Session"
-msgstr "ଅଧିବେଶନକୁ ପୁନଃ ନାମକରଣ କରନ୍ତୁ"
-
-#: src/konqsessiondlg.cpp:223
-#, fuzzy
-#| msgid "Save Session"
-msgctxt "@title:window"
-msgid "Save Session"
-msgstr "ଅଧିବେଶନକୁ ସଂରକ୍ଷଣ କରନ୍ତୁ"
-
-#: src/konqsessiondlg.cpp:247
-#, kde-format
-msgid ""
-"A session with the name '%1' already exists, do you want to overwrite it?"
-msgstr "'%1' ନାମକ ଅଧିବେଶନ ପୂର୍ବରୁ ଅବସ୍ଥିତ ଅଛି, ଆପଣ ଏହାକୁ ନବଲିଖନ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
-
-#: src/konqsessiondlg.cpp:248
-#, fuzzy
-#| msgid "Session exists. Overwrite?"
-msgctxt "@title:window"
-msgid "Session exists. Overwrite?"
-msgstr "ଅଧିବେଶନ ଅବସ୍ଥିତ ଅଛି। ନବଲିଖନ କରିବେ କି?"
-
-#: src/konqsessionmanager.cpp:330
-#, fuzzy
-#| msgid "Konqueror didn't close correctly. Would you like to restore session?"
-msgid ""
-"Konqueror did not close correctly. Would you like to restore the previous "
-"session?"
-msgstr "Konqueror ସଠିକ ଭାବରେ ବନ୍ଦ ହୋଇନଥିଲା। ଆପଣ ଅଧିବେଶନକୁ ପୁନଃ ସ୍ଥାପନ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
-
-#: src/konqsessionmanager.cpp:332
-#, fuzzy
-#| msgid "Restore Session?"
-msgctxt "@title:window"
-msgid "Restore Session?"
-msgstr "ଅଧିବେଶନକୁ ପୁନଃ ସ୍ଥାପନ କରିବେ କି?"
-
-#: src/konqsessionmanager.cpp:333
-msgid "Restore Session"
-msgstr "ଅଧିବେଶନକୁ ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ"
-
-#: src/konqsessionmanager.cpp:334
-msgid "Do Not Restore"
-msgstr "ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ ନାହିଁ"
-
-#: src/konqsessionmanager.cpp:335
-msgid "Ask Me Later"
-msgstr "ପରେ ମତେ ପଚାରନ୍ତୁ"
-
-#: src/konqviewmanager.cpp:1411
-msgid ""
-"You have multiple tabs open in this window.\n"
-"Loading a view profile will close them."
-msgstr ""
-"ଏହି ୱିଣ୍ଡୋରେ ଆପଣ ଏକାଧିକ ଟ୍ୟାବ ଖୋଲିଛନ୍ତି।\n"
-"ରୂପରେଖ ଦୃଶ୍ୟକୁ ଧାରଣ କରାଗଲେ ଏହା ବନ୍ଦ ହୋଇଯିବ।"
-
-#: src/konqviewmanager.cpp:1414
-msgid "Load View Profile"
-msgstr "ରୂପରେଖ ଦୃଶ୍ୟକୁ ଧାରଣ କରନ୍ତୁ"
-
-#: src/konqviewmanager.cpp:1426
-msgid ""
-"This tab contains changes that have not been submitted.\n"
-"Loading a profile will discard these changes."
-msgstr ""
-"ଏହି ଟ୍ୟାବ ଦାଖଲ ହୋଇନଥିବା ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ଧାରଣ କରିଥାଏ।\n"
-"ରୂପରେଖ ଧାରଣ କରାଗଲେ ଏହି ପରିବର୍ତ୍ତନଗୁଡ଼ିକ ବାତିଲ ହୋଇଯିବ।"
-
-#: src/konqview.cpp:1203
-msgid ""
-"The page you are trying to view is the result of posted form data. If you "
-"resend the data, any action the form carried out (such as search or online "
-"purchase) will be repeated. "
-msgstr ""
-
-#: src/konqview.cpp:1205
-#, fuzzy
-#| msgid "Warning"
-msgctxt "@title:window"
-msgid "Warning"
-msgstr "ଚେତାବନି"
-
-#: src/konqview.cpp:1205
-msgid "Resend"
-msgstr "ପୁଣି ପଠାନ୍ତୁ"
 
 #: sidebar/history_module/history_module.cpp:126
 #, fuzzy
