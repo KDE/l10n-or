@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_launcher\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-05-31 04:15+0200\n"
+"POT-Creation-Date: 2011-07-05 04:23+0200\n"
 "PO-Revision-Date: 2009-01-02 11:50+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -102,6 +102,14 @@ msgstr ""
 msgid "Computer"
 msgstr ""
 
+#: core/applicationmodel.cpp:335
+msgid "Games"
+msgstr ""
+
+#: core/applicationmodel.cpp:429 ui/launcher.cpp:975
+msgid "All Applications"
+msgstr ""
+
 #: core/leavemodel.cpp:49 simpleapplet/simpleapplet.cpp:210
 msgid "Log out"
 msgstr ""
@@ -187,14 +195,6 @@ msgstr ""
 
 #: core/leavemodel.cpp:146
 msgid "System"
-msgstr ""
-
-#: core/applicationmodel.cpp:335
-msgid "Games"
-msgstr ""
-
-#: core/applicationmodel.cpp:429 ui/launcher.cpp:975
-msgid "All Applications"
 msgstr ""
 
 #: main.cpp:32
