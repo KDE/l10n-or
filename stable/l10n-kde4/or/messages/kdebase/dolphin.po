@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-07-11 17:27+0200\n"
+"POT-Creation-Date: 2011-07-12 15:17+0200\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -874,62 +874,6 @@ msgstr "ପଢ଼ନ୍ତୁ, "
 msgid "Default"
 msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ:"
 
-#: views/dolphinview.cpp:500
-#, kde-format
-msgctxt "@info:status"
-msgid "<filename>%1</filename> selected"
-msgstr "<filename>%1</filename> ବଚ୍ଛିତ"
-
-#: views/dolphinview.cpp:501
-#, kde-format
-msgctxt "@info:status"
-msgid "<filename>%1</filename> selected (%2)"
-msgstr "<filename>%1</filename> ବଚ୍ଛିତ (%2)"
-
-#: views/dolphinview.cpp:505
-#, kde-format
-msgctxt "@info:status"
-msgid "1 Folder selected"
-msgid_plural "%1 Folders selected"
-msgstr[0] ""
-msgstr[1] "%1 ଫୋଲଡ଼ର ବଛାହୋଇଛି"
-
-#: views/dolphinview.cpp:506
-#, kde-format
-msgctxt "@info:status"
-msgid "1 File selected"
-msgid_plural "%1 Files selected"
-msgstr[0] "1 ଫାଇଲ ବଛାହୋଇଛି"
-msgstr[1] "%1 ଫାଇଲ ବଛାହୋଇଛି"
-
-#: views/dolphinview.cpp:508
-#, kde-format
-msgctxt "@info:status folders, files (size)"
-msgid "%1, %2 (%3)"
-msgstr "%1, %2 (%3)"
-
-#: views/dolphinview.cpp:511
-#, kde-format
-msgctxt "@info:status files (size)"
-msgid "%1 (%2)"
-msgstr "%1 (%2)"
-
-#: views/dolphinview.cpp:1053
-msgctxt "@info:status"
-msgid "Delete operation completed."
-msgstr "ଅପସାରଣ କ୍ରିୟା ସମାପ୍ତହୋଇଛି।"
-
-#: views/dolphinview.cpp:1155
-msgctxt "@info:status"
-msgid "The location is empty."
-msgstr "ସ୍ଥାନଟି ଖାଲିଅଛି।"
-
-#: views/dolphinview.cpp:1157
-#, kde-format
-msgctxt "@info:status"
-msgid "The location '%1' is invalid."
-msgstr "ସ୍ଥାନ '%1' ଟି ଅବୈଧ ଏଟେ।"
-
 #: views/draganddrophelper.cpp:108
 msgctxt "@info:status"
 msgid "A folder cannot be dropped into itself"
@@ -944,6 +888,24 @@ msgstr ""
 msgctxt "@info:tooltip"
 msgid "Select Item"
 msgstr ""
+
+#: views/dolphindetailsview.cpp:144
+msgctxt "@option:check"
+msgid "Expandable Folders"
+msgstr ""
+
+#: views/dolphindetailsview.cpp:372
+msgctxt "@title:menu"
+msgid "Columns"
+msgstr "ସ୍ତମ୍ଭଗୁଡ଼ିକ"
+
+#: views/dolphindetailsview.cpp:704
+#, kde-format
+msgctxt "Items in a folder"
+msgid "1 item"
+msgid_plural "%1 items"
+msgstr[0] ""
+msgstr[1] ""
 
 #: views/versioncontrol/versioncontrolobserver.cpp:190
 msgctxt "@info:status"
@@ -1161,6 +1123,62 @@ msgctxt "@info"
 msgid "(# will be replaced by ascending numbers)"
 msgstr ""
 
+#: views/dolphinview.cpp:500
+#, kde-format
+msgctxt "@info:status"
+msgid "<filename>%1</filename> selected"
+msgstr "<filename>%1</filename> ବଚ୍ଛିତ"
+
+#: views/dolphinview.cpp:501
+#, kde-format
+msgctxt "@info:status"
+msgid "<filename>%1</filename> selected (%2)"
+msgstr "<filename>%1</filename> ବଚ୍ଛିତ (%2)"
+
+#: views/dolphinview.cpp:505
+#, kde-format
+msgctxt "@info:status"
+msgid "1 Folder selected"
+msgid_plural "%1 Folders selected"
+msgstr[0] ""
+msgstr[1] "%1 ଫୋଲଡ଼ର ବଛାହୋଇଛି"
+
+#: views/dolphinview.cpp:506
+#, kde-format
+msgctxt "@info:status"
+msgid "1 File selected"
+msgid_plural "%1 Files selected"
+msgstr[0] "1 ଫାଇଲ ବଛାହୋଇଛି"
+msgstr[1] "%1 ଫାଇଲ ବଛାହୋଇଛି"
+
+#: views/dolphinview.cpp:508
+#, kde-format
+msgctxt "@info:status folders, files (size)"
+msgid "%1, %2 (%3)"
+msgstr "%1, %2 (%3)"
+
+#: views/dolphinview.cpp:511
+#, kde-format
+msgctxt "@info:status files (size)"
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: views/dolphinview.cpp:1045
+msgctxt "@info:status"
+msgid "Delete operation completed."
+msgstr "ଅପସାରଣ କ୍ରିୟା ସମାପ୍ତହୋଇଛି।"
+
+#: views/dolphinview.cpp:1147
+msgctxt "@info:status"
+msgid "The location is empty."
+msgstr "ସ୍ଥାନଟି ଖାଲିଅଛି।"
+
+#: views/dolphinview.cpp:1149
+#, kde-format
+msgctxt "@info:status"
+msgid "The location '%1' is invalid."
+msgstr "ସ୍ଥାନ '%1' ଟି ଅବୈଧ ଏଟେ।"
+
 #: views/additionalinfoaccessor.cpp:105
 #, fuzzy
 #| msgctxt "@label"
@@ -1220,24 +1238,6 @@ msgstr "ଲଗାନ୍ତୁ"
 msgctxt "@info:tooltip"
 msgid "Resize column"
 msgstr ""
-
-#: views/dolphindetailsview.cpp:143
-msgctxt "@option:check"
-msgid "Expandable Folders"
-msgstr ""
-
-#: views/dolphindetailsview.cpp:371
-msgctxt "@title:menu"
-msgid "Columns"
-msgstr "ସ୍ତମ୍ଭଗୁଡ଼ିକ"
-
-#: views/dolphindetailsview.cpp:703
-#, kde-format
-msgctxt "Items in a folder"
-msgid "1 item"
-msgid_plural "%1 items"
-msgstr[0] ""
-msgstr[1] ""
 
 #: views/dolphindirlister.cpp:41
 #, fuzzy
