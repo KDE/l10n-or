@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-07-12 04:32+0200\n"
+"POT-Creation-Date: 2011-07-13 04:16+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -2400,34 +2400,6 @@ msgstr "(ଲଗ ଉପଲବ୍ଧ ନାହିଁ)"
 msgid "About %1"
 msgstr "%1 ବିଷୟରେ"
 
-#: kde3support/kdeui/k3command.cpp:388
-#, kde-format
-msgid "Undo: %1"
-msgstr "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ: %1"
-
-#: kde3support/kdeui/k3command.cpp:394
-#, kde-format
-msgid "Redo: %1"
-msgstr "ପୁଣି କରନ୍ତୁ: %1"
-
-#: kde3support/kdeui/k3command.cpp:421 kdeui/actions/kstandardaction_p.h:55
-msgid "&Undo"
-msgstr "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ (&U)"
-
-#: kde3support/kdeui/k3command.cpp:421
-msgid "&Redo"
-msgstr "ପୁଣି କରନ୍ତୁ (&R)"
-
-#: kde3support/kdeui/k3command.cpp:426
-#, kde-format
-msgid "&Undo: %1"
-msgstr "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ (&U): %1"
-
-#: kde3support/kdeui/k3command.cpp:429
-#, kde-format
-msgid "&Redo: %1"
-msgstr "ପୁଣି କରନ୍ତୁ (&R): %1"
-
 #: kde3support/kdeui/k3dockwidget.cpp:272
 msgid "Close"
 msgstr "ବନ୍ଦ କରନ୍ତୁ"
@@ -2824,6 +2796,34 @@ msgstr[1] "ପ୍ରବେଶ ସଂକେତଟି ଅତିକମରେ %1 ଅ
 #: kdeui/dialogs/knewpassworddialog.cpp:175
 msgid "Passwords match"
 msgstr "ପ୍ରବେଶ ସଂକେତ ମେଳକ"
+
+#: kde3support/kdeui/k3command.cpp:389
+#, kde-format
+msgid "Undo: %1"
+msgstr "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ: %1"
+
+#: kde3support/kdeui/k3command.cpp:395
+#, kde-format
+msgid "Redo: %1"
+msgstr "ପୁଣି କରନ୍ତୁ: %1"
+
+#: kde3support/kdeui/k3command.cpp:422 kdeui/actions/kstandardaction_p.h:55
+msgid "&Undo"
+msgstr "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ (&U)"
+
+#: kde3support/kdeui/k3command.cpp:422
+msgid "&Redo"
+msgstr "ପୁଣି କରନ୍ତୁ (&R)"
+
+#: kde3support/kdeui/k3command.cpp:427
+#, kde-format
+msgid "&Undo: %1"
+msgstr "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ (&U): %1"
+
+#: kde3support/kdeui/k3command.cpp:430
+#, kde-format
+msgid "&Redo: %1"
+msgstr "ପୁଣି କରନ୍ତୁ (&R): %1"
 
 #: kde3support/kio/kfile/k3fileview.cpp:123
 msgid "Unknown View"
