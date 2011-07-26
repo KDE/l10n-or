@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcminput\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-07-23 04:00+0200\n"
+"POT-Creation-Date: 2011-07-26 04:19+0200\n"
 "PO-Revision-Date: 2009-01-02 11:44+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -521,11 +521,11 @@ msgstr ""
 msgid "Description"
 msgstr ""
 
-#: core/themepage.cpp:100 xcursor/themepage.cpp:201
+#: core/themepage.cpp:100 xcursor/themepage.cpp:203
 msgid "You have to restart KDE for these changes to take effect."
 msgstr ""
 
-#: core/themepage.cpp:101 xcursor/themepage.cpp:202
+#: core/themepage.cpp:101 xcursor/themepage.cpp:204
 msgid "Cursor Settings Changed"
 msgstr ""
 
@@ -569,51 +569,51 @@ msgstr ""
 msgid "The default cursor theme in KDE 2 and 3"
 msgstr ""
 
-#: xcursor/themepage.cpp:307
+#: xcursor/themepage.cpp:309
 msgid "Drag or Type Theme URL"
 msgstr ""
 
-#: xcursor/themepage.cpp:318
+#: xcursor/themepage.cpp:320
 #, kde-format
 msgid "Unable to find the cursor theme archive %1."
 msgstr ""
 
-#: xcursor/themepage.cpp:321
+#: xcursor/themepage.cpp:323
 #, kde-format
 msgid ""
 "Unable to download the cursor theme archive; please check that the address %"
 "1 is correct."
 msgstr ""
 
-#: xcursor/themepage.cpp:330
+#: xcursor/themepage.cpp:332
 #, kde-format
 msgid "The file %1 does not appear to be a valid cursor theme archive."
 msgstr ""
 
-#: xcursor/themepage.cpp:345
+#: xcursor/themepage.cpp:347
 msgid ""
 "<qt>You cannot delete the theme you are currently using.<br />You have to "
 "switch to another theme first.</qt>"
 msgstr ""
 
-#: xcursor/themepage.cpp:351
+#: xcursor/themepage.cpp:353
 #, kde-format
 msgid ""
 "<qt>Are you sure you want to remove the <i>%1</i> cursor theme?<br />This "
 "will delete all the files installed by this theme.</qt>"
 msgstr ""
 
-#: xcursor/themepage.cpp:357
+#: xcursor/themepage.cpp:359
 msgid "Confirmation"
 msgstr ""
 
-#: xcursor/themepage.cpp:414
+#: xcursor/themepage.cpp:416
 #, kde-format
 msgid ""
 "A theme named %1 already exists in your icon theme folder. Do you want "
 "replace it with this one?"
 msgstr ""
 
-#: xcursor/themepage.cpp:418
+#: xcursor/themepage.cpp:420
 msgid "Overwrite Theme?"
 msgstr ""
