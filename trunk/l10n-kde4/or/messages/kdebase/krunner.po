@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: krunner\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-07-13 04:02+0200\n"
+"POT-Creation-Date: 2011-07-27 04:01+0200\n"
 "PO-Revision-Date: 2009-01-02 11:57+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -184,6 +184,22 @@ msgstr ""
 msgid "Start &New Session"
 msgstr ""
 
+#: lock/lockprocess.cc:834
+msgid "Will not lock the session, as unlocking would be impossible:\n"
+msgstr ""
+
+#: lock/lockprocess.cc:838
+msgid "Cannot start <i>kcheckpass</i>."
+msgstr ""
+
+#: lock/lockprocess.cc:839
+msgid "<i>kcheckpass</i> is unable to operate. Possibly it is not setuid root."
+msgstr ""
+
+#: lock/lockprocess.cc:902
+msgid "No appropriate greeter plugin configured."
+msgstr ""
+
 #: lock/main.cc:61
 msgid "KDE Screen Locker"
 msgstr ""
@@ -216,22 +232,6 @@ msgstr ""
 msgid "Fork into the background after starting up"
 msgstr ""
 
-#: lock/lockprocess.cc:834
-msgid "Will not lock the session, as unlocking would be impossible:\n"
-msgstr ""
-
-#: lock/lockprocess.cc:838
-msgid "Cannot start <i>kcheckpass</i>."
-msgstr ""
-
-#: lock/lockprocess.cc:839
-msgid "<i>kcheckpass</i> is unable to operate. Possibly it is not setuid root."
-msgstr ""
-
-#: lock/lockprocess.cc:902
-msgid "No appropriate greeter plugin configured."
-msgstr ""
-
 #: main.cpp:38
 msgid "KDE run command interface"
 msgstr ""
@@ -252,34 +252,34 @@ msgstr ""
 msgid "Author and maintainer"
 msgstr ""
 
-#: krunnerdialog.cpp:70 krunnerapp.cpp:131
+#: krunnerdialog.cpp:70 krunnerapp.cpp:130
 msgid "Run Command"
-msgstr ""
-
-#: krunnerapp.cpp:136
-msgid "Run Command on clipboard contents"
-msgstr ""
-
-#: krunnerapp.cpp:142
-msgid "Show System Activity"
-msgstr ""
-
-#: krunnerapp.cpp:148
-msgid "Switch User"
-msgstr ""
-
-#: krunnerapp.cpp:158
-msgid "Lock Session"
-msgstr ""
-
-#: krunnerapp.cpp:200
-#, kde-format
-msgctxt "Run krunner restricting the search only to runner %1"
-msgid "Run Command (runner \"%1\" only)"
 msgstr ""
 
 #: ksystemactivitydialog.cpp:40
 msgid "System Activity"
+msgstr ""
+
+#: krunnerapp.cpp:135
+msgid "Run Command on clipboard contents"
+msgstr ""
+
+#: krunnerapp.cpp:141
+msgid "Show System Activity"
+msgstr ""
+
+#: krunnerapp.cpp:147
+msgid "Switch User"
+msgstr ""
+
+#: krunnerapp.cpp:157
+msgid "Lock Session"
+msgstr ""
+
+#: krunnerapp.cpp:199
+#, kde-format
+msgctxt "Run krunner restricting the search only to runner %1"
+msgid "Run Command (runner \"%1\" only)"
 msgstr ""
 
 #: rc.cpp:1
