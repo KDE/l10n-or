@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-07-29 04:15+0200\n"
+"POT-Creation-Date: 2011-07-30 04:14+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -13100,6 +13100,31 @@ msgstr ""
 msgid "The ontology files containing the ontologies to be generated."
 msgstr ""
 
+#: nepomuk/ui/nepomukmassupdatejob.cpp:76
+msgid "Changing annotations"
+msgstr "ଟୀକାଗୁଡିକୁ ପରିବର୍ତ୍ତନକରାଯାଉଛି"
+
+#: nepomuk/ui/tagwidget.cpp:61
+#, fuzzy
+#| msgid "Show all options"
+msgctxt "@label"
+msgid "Show all tags..."
+msgstr "ସମସ୍ତ ବିକଳ୍ପଗୁଡିକୁ ଦର୍ଶାନ୍ତୁ"
+
+#: nepomuk/ui/tagwidget.cpp:112
+#, fuzzy
+#| msgid "Add..."
+msgctxt "@label"
+msgid "Add Tags..."
+msgstr "ଯୋଗକରନ୍ତୁ..."
+
+#: nepomuk/ui/tagwidget.cpp:112
+#, fuzzy
+#| msgid "Change &Icon..."
+msgctxt "@label"
+msgid "Change..."
+msgstr "ଚିତ୍ର ସଂକେତ ପରିବର୍ତ୍ତନ କରନ୍ତୁ (&I)..."
+
 #: nepomuk/ui/kedittagsdialog.cpp:49
 #, fuzzy
 #| msgid "Change Icon"
@@ -13159,31 +13184,6 @@ msgstr "ଲିଭାନ୍ତୁ"
 msgctxt "@action:button"
 msgid "Cancel"
 msgstr "ବାତିଲ କରନ୍ତୁ"
-
-#: nepomuk/ui/nepomukmassupdatejob.cpp:76
-msgid "Changing annotations"
-msgstr "ଟୀକାଗୁଡିକୁ ପରିବର୍ତ୍ତନକରାଯାଉଛି"
-
-#: nepomuk/ui/tagwidget.cpp:61
-#, fuzzy
-#| msgid "Show all options"
-msgctxt "@label"
-msgid "Show all tags..."
-msgstr "ସମସ୍ତ ବିକଳ୍ପଗୁଡିକୁ ଦର୍ଶାନ୍ତୁ"
-
-#: nepomuk/ui/tagwidget.cpp:112
-#, fuzzy
-#| msgid "Add..."
-msgctxt "@label"
-msgid "Add Tags..."
-msgstr "ଯୋଗକରନ୍ତୁ..."
-
-#: nepomuk/ui/tagwidget.cpp:112
-#, fuzzy
-#| msgid "Change &Icon..."
-msgctxt "@label"
-msgid "Change..."
-msgstr "ଚିତ୍ର ସଂକେତ ପରିବର୍ତ୍ତନ କରନ୍ତୁ (&I)..."
 
 #: nepomuk/utils/daterangeselectionwidget.cpp:201
 msgid "This Week"
