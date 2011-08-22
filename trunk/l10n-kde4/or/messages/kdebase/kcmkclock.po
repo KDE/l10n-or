@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmkclock\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-08-02 05:37+0200\n"
+"POT-Creation-Date: 2011-08-22 04:02+0200\n"
 "PO-Revision-Date: 2009-01-02 11:44+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -171,4 +171,10 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, m_local)
 #: rc.cpp:23
 msgid "Current local time zone:"
+msgstr ""
+
+#. i18n: file: dateandtime.ui:155
+#. i18n: ectx: property (clickMessage), widget (KTreeWidgetSearchLine, tzonesearch)
+#: rc.cpp:26
+msgid "Search"
 msgstr ""
