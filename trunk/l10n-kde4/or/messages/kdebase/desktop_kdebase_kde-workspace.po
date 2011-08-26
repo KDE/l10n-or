@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-08-25 02:36+0000\n"
+"POT-Creation-Date: 2011-08-26 02:13+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -424,7 +424,7 @@ msgctxt "Name"
 msgid "Font Management"
 msgstr "ଫାଇଲ ପରିଚାଳନା"
 
-#: kcontrol/kfontinst/kcmfontinst/fontinst.desktop:35
+#: kcontrol/kfontinst/kcmfontinst/fontinst.desktop:36
 msgctxt "Comment"
 msgid "Install, manage, and preview fonts"
 msgstr "ଅକ୍ଷରରୂପଗୁଡ଼ିକୁ ସ୍ଥାପନ କରନ୍ତୁ, ପରିଚାଳନ କରନ୍ତୁ, ଏବଂ ପ୍ରାକଦର୍ଶନ କରନ୍ତୁ"
@@ -2862,7 +2862,7 @@ msgctxt "Name"
 msgid "Cube Gears"
 msgstr ""
 
-#: kwin/effects/_test/gears.desktop:67
+#: kwin/effects/_test/gears.desktop:68
 msgctxt "Comment"
 msgid "Display gears inside the cube"
 msgstr ""
@@ -5715,6 +5715,20 @@ msgstr "ନେଟୱର୍କ ପରିଚାଳକ 0.7"
 msgctxt "Comment"
 msgid "Network management using the NetworkManager daemon, version 0.7"
 msgstr "ନେଟୱର୍କ ପରିଚାଳକ ଡ଼େମନ ବ୍ୟବହାର କରି ନେଟୱର୍କ ପରିଚାଳନା, ସଂସ୍କରଣ 0.7"
+
+#: solid/networkmanager_fake-0.9/solid_networkmanager09_fake.desktop:6
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "NetworkManager 0.7"
+msgctxt "Name"
+msgid "Fake NetworkManager 0.9"
+msgstr "ନେଟୱର୍କ ପରିଚାଳକ 0.7"
+
+#: solid/networkmanager_fake-0.9/solid_networkmanager09_fake.desktop:8
+msgctxt "Comment"
+msgid ""
+"Fake backend to allow kdelibs to read NetworkManager daemon 0.9's status"
+msgstr ""
 
 #: solid/solid-actions-kcm/device-actions/solid-device-AcAdapter.desktop:2
 #: solid/solid-actions-kcm/device-actions/solid-device-Battery.desktop:142
