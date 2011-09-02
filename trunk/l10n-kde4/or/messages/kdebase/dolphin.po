@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-08-31 03:07+0200\n"
+"POT-Creation-Date: 2011-09-02 03:31+0200\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -918,21 +918,63 @@ msgctxt "@info:status files (size)"
 msgid "%1 (%2)"
 msgstr "%1 (%2)"
 
-#: views/dolphinview.cpp:992
+#: views/dolphinview.cpp:995
 msgctxt "@info:status"
 msgid "Delete operation completed."
 msgstr "ଅପସାରଣ କ୍ରିୟା ସମାପ୍ତହୋଇଛି।"
 
-#: views/dolphinview.cpp:1044
+#: views/dolphinview.cpp:1047
 msgctxt "@info:status"
 msgid "The location is empty."
 msgstr "ସ୍ଥାନଟି ଖାଲିଅଛି।"
 
-#: views/dolphinview.cpp:1046
+#: views/dolphinview.cpp:1049
 #, kde-format
 msgctxt "@info:status"
 msgid "The location '%1' is invalid."
 msgstr "ସ୍ଥାନ '%1' ଟି ଅବୈଧ ଏଟେ।"
+
+#: views/renamedialog.cpp:57
+msgctxt "@title:window"
+msgid "Rename Item"
+msgstr "ବସ୍ତୁର ପୁନଃ ନାମକରଣ କରନ୍ତୁ"
+
+#: views/renamedialog.cpp:58
+msgctxt "@title:window"
+msgid "Rename Items"
+msgstr "ବସ୍ତୁଗୁଡ଼ିକର ପୁନଃ ନାମକରଣ କରନ୍ତୁ"
+
+#: views/renamedialog.cpp:62
+#, fuzzy
+#| msgctxt "@action:button"
+#| msgid "Rename"
+msgctxt "@action:button"
+msgid "&Rename"
+msgstr "ପୁନଃ ନାମକରଣ କରନ୍ତୁ"
+
+#: views/renamedialog.cpp:72
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Rename the item <filename>%1</filename> to:"
+msgstr "<filename>%1</filename> ବସ୍ତୁକୁ ପୁନଃ ନାମକରଣ କରନ୍ତୁ:"
+
+#: views/renamedialog.cpp:75
+msgctxt "@info:status"
+msgid "New name #"
+msgstr "ନୂତନ ନାମ #"
+
+#: views/renamedialog.cpp:77
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Rename the %1 selected item to:"
+msgid_plural "Rename the %1 selected items to:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: views/renamedialog.cpp:106
+msgctxt "@info"
+msgid "# will be replaced by ascending numbers starting with:"
+msgstr ""
 
 #: views/dolphinviewactionhandler.cpp:92
 #, fuzzy
@@ -1113,49 +1155,7 @@ msgctxt "@info:status"
 msgid "Unknown error."
 msgstr "ଅଜଣା ଆକାର"
 
-#: views/renamedialog.cpp:57
-msgctxt "@title:window"
-msgid "Rename Item"
-msgstr "ବସ୍ତୁର ପୁନଃ ନାମକରଣ କରନ୍ତୁ"
-
-#: views/renamedialog.cpp:58
-msgctxt "@title:window"
-msgid "Rename Items"
-msgstr "ବସ୍ତୁଗୁଡ଼ିକର ପୁନଃ ନାମକରଣ କରନ୍ତୁ"
-
-#: views/renamedialog.cpp:62
-#, fuzzy
-#| msgctxt "@action:button"
-#| msgid "Rename"
-msgctxt "@action:button"
-msgid "&Rename"
-msgstr "ପୁନଃ ନାମକରଣ କରନ୍ତୁ"
-
-#: views/renamedialog.cpp:72
-#, kde-format
-msgctxt "@label:textbox"
-msgid "Rename the item <filename>%1</filename> to:"
-msgstr "<filename>%1</filename> ବସ୍ତୁକୁ ପୁନଃ ନାମକରଣ କରନ୍ତୁ:"
-
-#: views/renamedialog.cpp:75
-msgctxt "@info:status"
-msgid "New name #"
-msgstr "ନୂତନ ନାମ #"
-
-#: views/renamedialog.cpp:77
-#, kde-format
-msgctxt "@label:textbox"
-msgid "Rename the %1 selected item to:"
-msgid_plural "Rename the %1 selected items to:"
-msgstr[0] ""
-msgstr[1] ""
-
-#: views/renamedialog.cpp:124
-msgctxt "@info"
-msgid "# will be replaced by ascending numbers starting with:"
-msgstr ""
-
-#: kitemviews/kfileitemmodel.cpp:680
+#: kitemviews/kfileitemmodel.cpp:669
 #, fuzzy
 #| msgctxt "@info:credit"
 #| msgid "Documentation"
