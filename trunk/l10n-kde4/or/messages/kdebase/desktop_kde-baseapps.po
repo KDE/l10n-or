@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-08-24 02:21+0000\n"
+"POT-Creation-Date: 2011-09-09 02:45+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -28,7 +28,7 @@ msgctxt "Name"
 msgid "Dolphin"
 msgstr "ଡଲଫିନ"
 
-#: dolphin/src/dolphin.desktop:96
+#: dolphin/src/dolphin.desktop:8
 msgctxt "GenericName"
 msgid "File Manager"
 msgstr "ଫାଇଲ ପରିଚାଳକ"
@@ -38,17 +38,17 @@ msgctxt "Name"
 msgid "Dolphin View"
 msgstr "ଡଲଫିନ ଦୃଶ୍ୟ"
 
-#: dolphin/src/dolphinpart.desktop:99
+#: dolphin/src/dolphinpart.desktop:18
 msgctxt "Name"
 msgid "Icons"
 msgstr "ଚିତ୍ର ସଂକେତଗୁଡ଼ିକ"
 
-#: dolphin/src/dolphinpart.desktop:197
+#: dolphin/src/dolphinpart.desktop:24
 msgctxt "Name"
 msgid "Details"
 msgstr "ବିସ୍ତୃତ ବିବରଣୀ"
 
-#: dolphin/src/dolphinpart.desktop:287
+#: dolphin/src/dolphinpart.desktop:30
 msgctxt "Name"
 msgid "Columns"
 msgstr "ସ୍ତମ୍ଭ"
@@ -61,7 +61,7 @@ msgctxt "Name"
 msgid "Dolphin General"
 msgstr "ଡଲଫିନ ଦୃଶ୍ୟ"
 
-#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:72
+#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:2
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "This service allows configuration of the Dolphin views."
@@ -69,7 +69,7 @@ msgctxt "Comment"
 msgid "This service allows configuration of general Dolphin settings."
 msgstr "ଏହି ସର୍ଭିସ ଡଲଫିନ ଦୃଶ୍ୟଗୁଡ଼ିକର ସଂରଚନାକୁ ଅନୁମତି ଦେଇଥାଏ।"
 
-#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:152
+#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:15
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "General"
@@ -77,7 +77,7 @@ msgctxt "Name|Random file browsing settings."
 msgid "General"
 msgstr "ସାଧାରଣ"
 
-#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:224
+#: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:16
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -93,7 +93,7 @@ msgctxt "Name"
 msgid "Dolphin Navigation"
 msgstr "ଡଲଫିନ ଦୃଶ୍ୟ"
 
-#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:73
+#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:2
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "This service allows configuration of the Dolphin views."
@@ -101,7 +101,7 @@ msgctxt "Comment"
 msgid "This service allows configuration of the Dolphin navigation."
 msgstr "ଏହି ସର୍ଭିସ ଡଲଫିନ ଦୃଶ୍ୟଗୁଡ଼ିକର ସଂରଚନାକୁ ଅନୁମତି ଦେଇଥାଏ।"
 
-#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:152
+#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:14
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Navigation Panel"
@@ -109,7 +109,7 @@ msgctxt "Name"
 msgid "Navigation"
 msgstr "ପଥପ୍ରଦର୍ଶନ ପାନେଲ"
 
-#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:224
+#: dolphin/src/settings/kcm/kcmdolphinnavigation.desktop:15
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -125,14 +125,14 @@ msgctxt "Name"
 msgid "Dolphin Services"
 msgstr "ଡଲଫିନ ଦୃଶ୍ୟ"
 
-#: dolphin/src/settings/kcm/kcmdolphinservices.desktop:82
+#: dolphin/src/settings/kcm/kcmdolphinservices.desktop:13
 #: konqueror/sidebar/default_entries/services.desktop:4
 #: konqueror/sidebar/trees/init/services/.directory:3
 msgctxt "Name"
 msgid "Services"
 msgstr "ସର୍ଭିସଗୁଡ଼ିକ"
 
-#: dolphin/src/settings/kcm/kcmdolphinservices.desktop:175
+#: dolphin/src/settings/kcm/kcmdolphinservices.desktop:14
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -148,7 +148,7 @@ msgctxt "Name"
 msgid "Dolphin View Modes"
 msgstr "ଡଲଫିନ ଦୃଶ୍ୟ"
 
-#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:72
+#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:2
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "This service allows configuration of the Dolphin views."
@@ -156,7 +156,7 @@ msgctxt "Comment"
 msgid "This service allows configuration of the Dolphin view modes."
 msgstr "ଏହି ସର୍ଭିସ ଡଲଫିନ ଦୃଶ୍ୟଗୁଡ଼ିକର ସଂରଚନାକୁ ଅନୁମତି ଦେଇଥାଏ।"
 
-#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:150
+#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:14
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Views"
@@ -164,7 +164,7 @@ msgctxt "Name"
 msgid "View Modes"
 msgstr "ଦୃଶ୍ୟଗୁଡ଼ିକ"
 
-#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:221
+#: dolphin/src/settings/kcm/kcmdolphinviewmodes.desktop:15
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
@@ -182,7 +182,7 @@ msgctxt "Name"
 msgid "Password & User Account"
 msgstr "ପ୍ରବେଶ ସଂକେତ & ଚାଳକ ଖାତା"
 
-#: kdepasswd/kcm/kcm_useraccount.desktop:141
+#: kdepasswd/kcm/kcm_useraccount.desktop:51
 msgctxt "Comment"
 msgid "User information such as password, name and email"
 msgstr "ଚାଳକ ସୂଚନା ଯେପରି କି ପ୍ରବେଶ ସଂକେତ, ନାମ ଏବଂ ଇମେଲ"
@@ -200,7 +200,7 @@ msgctxt "Name"
 msgid "Bookmark Editor"
 msgstr "ସାଧନପଟିକୁ ଚିହ୍ନଟ କରନ୍ତୁ"
 
-#: keditbookmarks/keditbookmarks.desktop:69
+#: keditbookmarks/keditbookmarks.desktop:6
 msgctxt "Comment"
 msgid "Bookmark Organizer and Editor"
 msgstr ""
@@ -218,7 +218,7 @@ msgctxt "Name"
 msgid "Adblock"
 msgstr "Clock"
 
-#: konq-plugins/adblock/plugin_adblock.desktop:57
+#: konq-plugins/adblock/plugin_adblock.desktop:4
 msgctxt "Comment"
 msgid "Show all blockable html elements"
 msgstr ""
@@ -231,7 +231,7 @@ msgctxt "Name"
 msgid "Konqueror Feed Icon"
 msgstr "Konqueror"
 
-#: konq-plugins/akregator/akregator_konqfeedicon.desktop:62
+#: konq-plugins/akregator/akregator_konqfeedicon.desktop:4
 msgctxt "Comment"
 msgid "Displays an icon in the status bar if the page contains a feed"
 msgstr ""
@@ -241,7 +241,7 @@ msgctxt "Name"
 msgid "Add Feed to Akregator"
 msgstr ""
 
-#: konq-plugins/akregator/akregator_konqplugin.desktop:66
+#: konq-plugins/akregator/akregator_konqplugin.desktop:6
 msgctxt "Comment"
 msgid "Adds selected feed to Akregator"
 msgstr ""
@@ -254,7 +254,7 @@ msgctxt "Name"
 msgid "Auto Refresh"
 msgstr "X ସତେଜନ"
 
-#: konq-plugins/autorefresh/autorefresh.desktop:66
+#: konq-plugins/autorefresh/autorefresh.desktop:14
 msgctxt "Comment"
 msgid "Auto Refresh plugin"
 msgstr ""
@@ -267,7 +267,7 @@ msgctxt "Name"
 msgid "Translate"
 msgstr "LEO-ଅନୁବାଦ"
 
-#: konq-plugins/babelfish/plugin_babelfish.desktop:75
+#: konq-plugins/babelfish/plugin_babelfish.desktop:14
 msgctxt "Comment"
 msgid "Language translation for the current page using Babelfish"
 msgstr ""
@@ -280,7 +280,7 @@ msgctxt "Name"
 msgid "Directory Filter"
 msgstr "ନେଟୱର୍କ ବିଶ୍ଳେଷକ"
 
-#: konq-plugins/dirfilter/dirfilterplugin.desktop:71
+#: konq-plugins/dirfilter/dirfilterplugin.desktop:14
 msgctxt "Comment"
 msgid "Filter directory view using an attribute filter"
 msgstr ""
@@ -293,7 +293,7 @@ msgctxt "Name"
 msgid "DOM Tree Viewer"
 msgstr "ଛବି ପ୍ରଦର୍ଶକ"
 
-#: konq-plugins/domtreeviewer/plugin_domtreeviewer.desktop:72
+#: konq-plugins/domtreeviewer/plugin_domtreeviewer.desktop:14
 msgctxt "Comment"
 msgid "View the DOM tree of the current page"
 msgstr ""
@@ -306,7 +306,7 @@ msgctxt "Name"
 msgid "File Size Viewer"
 msgstr "ଛବି ପ୍ରଦର୍ଶକ"
 
-#: konq-plugins/fsview/fsview.desktop:68
+#: konq-plugins/fsview/fsview.desktop:11
 msgctxt "Comment"
 msgid "View your filesystem as a TreeMap"
 msgstr ""
@@ -319,7 +319,7 @@ msgctxt "Name"
 msgid "File Size View"
 msgstr "ତନ୍ତ୍ର"
 
-#: konq-plugins/fsview/fsview_part.desktop:61
+#: konq-plugins/fsview/fsview_part.desktop:4
 msgctxt "Comment"
 msgid "Enables a proportional view of directories and files based on file size"
 msgstr ""
@@ -329,22 +329,22 @@ msgctxt "X-KDE-Submenu"
 msgid "Convert To"
 msgstr ""
 
-#: konq-plugins/imagerotation/imageconverter.desktop:72
+#: konq-plugins/imagerotation/imageconverter.desktop:11
 msgctxt "Name"
 msgid "JPEG"
 msgstr ""
 
-#: konq-plugins/imagerotation/imageconverter.desktop:141
+#: konq-plugins/imagerotation/imageconverter.desktop:16
 msgctxt "Name"
 msgid "PNG"
 msgstr ""
 
-#: konq-plugins/imagerotation/imageconverter.desktop:210
+#: konq-plugins/imagerotation/imageconverter.desktop:21
 msgctxt "Name"
 msgid "TIFF"
 msgstr ""
 
-#: konq-plugins/imagerotation/imageconverter.desktop:271
+#: konq-plugins/imagerotation/imageconverter.desktop:26
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "SGI"
@@ -357,22 +357,22 @@ msgctxt "X-KDE-Submenu"
 msgid "Transform Image"
 msgstr ""
 
-#: konq-plugins/imagerotation/jpegorient.desktop:73
+#: konq-plugins/imagerotation/jpegorient.desktop:11
 msgctxt "Name"
 msgid "Rotate Clockwise"
 msgstr ""
 
-#: konq-plugins/imagerotation/jpegorient.desktop:139
+#: konq-plugins/imagerotation/jpegorient.desktop:16
 msgctxt "Name"
 msgid "Rotate Counter-Clockwise"
 msgstr ""
 
-#: konq-plugins/imagerotation/jpegorient.desktop:210
+#: konq-plugins/imagerotation/jpegorient.desktop:26
 msgctxt "Name"
 msgid "Flip Vertically"
 msgstr ""
 
-#: konq-plugins/imagerotation/jpegorient.desktop:279
+#: konq-plugins/imagerotation/jpegorient.desktop:31
 msgctxt "Name"
 msgid "Flip Horizontally"
 msgstr ""
@@ -385,7 +385,7 @@ msgctxt "Name"
 msgid "KHTML Settings"
 msgstr "ସେଟିଙ୍ଗଗୁଡ଼ିକ"
 
-#: konq-plugins/khtmlsettingsplugin/khtmlsettingsplugin.desktop:72
+#: konq-plugins/khtmlsettingsplugin/khtmlsettingsplugin.desktop:14
 msgctxt "Comment"
 msgid "A fast way to change the KHTML settings"
 msgstr ""
@@ -398,7 +398,7 @@ msgctxt "Name"
 msgid "Image Gallery"
 msgstr "ପ୍ରତିଛବି ପ୍ରଦର୍ଶକ"
 
-#: konq-plugins/kimgalleryplugin/kimgalleryplugin.desktop:70
+#: konq-plugins/kimgalleryplugin/kimgalleryplugin.desktop:13
 msgctxt "Comment"
 msgid "An easy way to generate an HTML image gallery"
 msgstr ""
@@ -408,7 +408,7 @@ msgctxt "Name"
 msgid "Text-to-Speech"
 msgstr "Text-to-Speech"
 
-#: konq-plugins/kttsplugin/khtmlkttsd.desktop:100
+#: konq-plugins/kttsplugin/khtmlkttsd.desktop:15
 msgctxt "Comment"
 msgid "Produces audio output for text in the current page"
 msgstr "ଏହି ପୃଷ୍ଠାରେ ପାଠ୍ଯ ପାଇଁ ଧ୍ୱନି ନିର୍ଗମ ହୋଇଥାଏ"
@@ -421,7 +421,7 @@ msgctxt "Name"
 msgid "Microformat Icon"
 msgstr "DMA ସୂଚନା"
 
-#: konq-plugins/microformat/mf_konqmficon.desktop:61
+#: konq-plugins/microformat/mf_konqmficon.desktop:4
 msgctxt "Comment"
 msgid "Displays an icon in the status bar if the page contains a microformat"
 msgstr ""
@@ -434,7 +434,7 @@ msgctxt "Name"
 msgid "Bookmarklets"
 msgstr "ଚିହ୍ନିତ ସ୍ଥାନ"
 
-#: konq-plugins/minitools/minitoolsplugin.desktop:70
+#: konq-plugins/minitools/minitoolsplugin.desktop:15
 msgctxt "Comment"
 msgid "Enables the use of bookmarklets"
 msgstr ""
@@ -470,7 +470,7 @@ msgctxt "Name"
 msgid "Document Relations"
 msgstr "KDE API ଦଲିଲିକରଣ"
 
-#: konq-plugins/rellinks/plugin_rellinks.desktop:72
+#: konq-plugins/rellinks/plugin_rellinks.desktop:15
 msgctxt "Comment"
 msgid "Displays the document relations of a document"
 msgstr ""
@@ -483,7 +483,7 @@ msgctxt "Name"
 msgid "Search Bar"
 msgstr "PHP ସନ୍ଧାନ"
 
-#: konq-plugins/searchbar/searchbar.desktop:75
+#: konq-plugins/searchbar/searchbar.desktop:16
 msgctxt "Comment"
 msgid "Provides a text box for easier access to search engines like Google."
 msgstr ""
@@ -493,7 +493,7 @@ msgctxt "Name"
 msgid "Shell Command Plugin"
 msgstr "Shell ନିର୍ଦ୍ଦେଶ ପ୍ଲଗଇନ"
 
-#: konq-plugins/shellcmdplugin/kshellcmdplugin.desktop:101
+#: konq-plugins/shellcmdplugin/kshellcmdplugin.desktop:15
 msgctxt "Comment"
 msgid "Shell Command Plugin for Konqueror"
 msgstr "Konqueror ପାଇଁ Shell ନିର୍ଦ୍ଦେଶ ପ୍ଲଗଇନ"
@@ -506,7 +506,7 @@ msgctxt "Name"
 msgid "UserAgent Changer"
 msgstr "ଚାଳକ ବାକ୍ୟଖଣ୍ଡଗୁଡ଼ିକ"
 
-#: konq-plugins/uachanger/uachangerplugin.desktop:71
+#: konq-plugins/uachanger/uachangerplugin.desktop:14
 msgctxt "Comment"
 msgid "Allows the detected UserAgent to be modified"
 msgstr ""
@@ -516,7 +516,7 @@ msgctxt "Name"
 msgid "Website Validators"
 msgstr ""
 
-#: konq-plugins/validators/plugin_validators.desktop:71
+#: konq-plugins/validators/plugin_validators.desktop:14
 msgctxt "Comment"
 msgid "CSS and HTML validation tools"
 msgstr ""
@@ -529,7 +529,7 @@ msgctxt "Name"
 msgid "Web Archiver"
 msgstr "FTP ଅଭିଲେଖନଗୁଡ଼ିକ"
 
-#: konq-plugins/webarchiver/plugin_webarchiver.desktop:72
+#: konq-plugins/webarchiver/plugin_webarchiver.desktop:14
 msgctxt "Comment"
 msgid "Creates archives of websites"
 msgstr ""
@@ -552,7 +552,7 @@ msgctxt "Name"
 msgid "Home"
 msgstr "ଘର"
 
-#: konqueror/Home.desktop:101
+#: konqueror/Home.desktop:9
 msgctxt "GenericName"
 msgid "Personal Files"
 msgstr "ବ୍ୟକ୍ତିଗତ ଫାଇଲଗୁଡ଼ିକ"
@@ -564,12 +564,12 @@ msgctxt "Name"
 msgid "Konqueror"
 msgstr "Konqueror"
 
-#: konqueror/konqbrowser.desktop:99
+#: konqueror/konqbrowser.desktop:8
 msgctxt "GenericName"
 msgid "Web Browser"
 msgstr "ୱେବ ବ୍ରାଉଜର"
 
-#: konqueror/konqueror.desktop:97
+#: konqueror/konqueror.desktop:6
 msgctxt "Comment"
 msgid "KDE File Manager & Web Browser"
 msgstr "KDE ଫାଇଲ ପରିଚାଳକ ଏବଂ ୱେବ ବ୍ରାଉଜର"
@@ -592,7 +592,7 @@ msgctxt "Name"
 msgid "Konqueror Browser Preloader"
 msgstr "KDED Konqueror ଧାରଣ ଏକକାଂଶ"
 
-#: konqueror/preloader/konqy_preloader.desktop:67
+#: konqueror/preloader/konqy_preloader.desktop:4
 msgctxt "Comment"
 msgid "Reduces Konqueror startup time"
 msgstr "Reduces Konqueror startup time"
@@ -633,7 +633,7 @@ msgctxt "Name"
 msgid "Web Shortcuts"
 msgstr "ୱେବ ସଂକ୍ଷିପ୍ତ ପଥଗୁଡ଼ିକ"
 
-#: konqueror/settings/ebrowsing/ebrowsing.desktop:106
+#: konqueror/settings/ebrowsing/ebrowsing.desktop:15
 msgctxt "Comment"
 msgid "Configure enhanced browsing"
 msgstr "ଉନ୍ନତ ବ୍ରାଉଜିଙ୍ଗ ବିନ୍ୟାସ କରନ୍ତୁ"
@@ -645,7 +645,7 @@ msgctxt "Name"
 msgid "Bookmarks"
 msgstr "ଚିହ୍ନିତ ସ୍ଥାନ"
 
-#: konqueror/settings/kio/bookmarks.desktop:105
+#: konqueror/settings/kio/bookmarks.desktop:13
 msgctxt "Comment"
 msgid "Configure the bookmarks home page"
 msgstr "ଚିହ୍ନିତ ସ୍ଥାନ ମୂଖ୍ୟ ପୃଷ୍ଠା ବିନ୍ୟାସ କରନ୍ତୁ"
@@ -655,7 +655,7 @@ msgctxt "Name"
 msgid "Cache"
 msgstr "କ୍ୟାଶେ"
 
-#: konqueror/settings/kio/cache.desktop:106
+#: konqueror/settings/kio/cache.desktop:14
 msgctxt "Comment"
 msgid "Configure web cache settings"
 msgstr "ୱେବ କ୍ୟାଶେ ସଂରଚନାକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
@@ -665,7 +665,7 @@ msgctxt "Name"
 msgid "Cookies"
 msgstr "କୁକିଗୁଡ଼ିକ"
 
-#: konqueror/settings/kio/cookies.desktop:104
+#: konqueror/settings/kio/cookies.desktop:14
 msgctxt "Comment"
 msgid "Configure the way cookies work"
 msgstr "କୁକିଗୁଡ଼ିକ ଯେଉଁ ଉପାୟରେ କାର୍ଯ୍ୟକରନ୍ତି ତାହା ବିନ୍ୟାସ କରନ୍ତୁ"
@@ -675,7 +675,7 @@ msgctxt "Name"
 msgid "Connection Preferences"
 msgstr "ସଂଯୋଗ ପସନ୍ଦ"
 
-#: konqueror/settings/kio/netpref.desktop:106
+#: konqueror/settings/kio/netpref.desktop:17
 msgctxt "Comment"
 msgid "Configure generic network preferences, like timeout values"
 msgstr "ବର୍ଗୀୟ ନେଟୱର୍କ ପସନ୍ଦଗୁଡ଼ିକୁ ବିନ୍ୟାସ କରନ୍ତୁ, ସମୟ ସମାପ୍ତ ମୂଲ୍ୟଗୁଡ଼ିକ ପରି"
@@ -685,7 +685,7 @@ msgctxt "Name"
 msgid "Proxy"
 msgstr "ପ୍ରକ୍ସି"
 
-#: konqueror/settings/kio/proxy.desktop:109
+#: konqueror/settings/kio/proxy.desktop:17
 msgctxt "Comment"
 msgid "Configure the proxy servers used"
 msgstr "ବ୍ୟବହୃତ ପ୍ରକ୍ସି ସର୍ଭରକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
@@ -695,7 +695,7 @@ msgctxt "Name"
 msgid "Windows Shares"
 msgstr "ୱିଣ୍ଡୋର ସହଭାଗ"
 
-#: konqueror/settings/kio/smb.desktop:104
+#: konqueror/settings/kio/smb.desktop:15
 msgctxt "Comment"
 msgid "Use to configure which windows (SMB) filesystems you can browse"
 msgstr ""
@@ -889,7 +889,7 @@ msgctxt "Name"
 msgid "Browser Identification"
 msgstr "ବ୍ରାଉଜର ପରିଚୟ"
 
-#: konqueror/settings/kio/useragent.desktop:103
+#: konqueror/settings/kio/useragent.desktop:14
 msgctxt "Comment"
 msgid "Configure the way Konqueror reports itself"
 msgstr "Konqueror ନିଜକୁ ଖବର କରୁଥିବା ପଥକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
@@ -901,8 +901,8 @@ msgctxt "Name"
 msgid "Appearance"
 msgstr "ଦୃଶ୍ୟ"
 
-#: konqueror/settings/konq/fileappearance.desktop:105
-#: konqueror/settings/konq/webappearance.desktop:106
+#: konqueror/settings/konq/fileappearance.desktop:13
+#: konqueror/settings/konq/webappearance.desktop:14
 msgctxt "Comment"
 msgid "You can configure how Konqueror looks as a file manager here"
 msgstr "Konqueror ଏଠାରେ ଫାଇଲ ପରିଚାଳକ ପରି କେମିତି ଦେଖାଯାଉଛି ତାହାକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
@@ -913,8 +913,8 @@ msgctxt "Name"
 msgid "Behavior"
 msgstr "ଆଚରଣ"
 
-#: konqueror/settings/konq/filebehavior.desktop:105
-#: konqueror/settings/konq/webbehavior.desktop:106
+#: konqueror/settings/konq/filebehavior.desktop:13
+#: konqueror/settings/konq/webbehavior.desktop:14
 msgctxt "Comment"
 msgid "You can configure how Konqueror behaves as a file manager here"
 msgstr "Konqueror ଏଠାରେ ଫାଇଲ ପରିଚାଳକ ପରି କେମିତି ଆଚରଣ କରୁଛି ତାହାକୁ ବିନ୍ୟାସ କରିପାରିବେ"
@@ -924,12 +924,12 @@ msgctxt "Name"
 msgid "Stylesheets"
 msgstr "Stylesheets"
 
-#: konqueror/settings/konqhtml/css/kcmcss.desktop:104
+#: konqueror/settings/konqhtml/css/kcmcss.desktop:13
 msgctxt "Comment"
 msgid "Configure the stylesheets used to render web pages"
 msgstr "ୱେବ ପୃଷ୍ଠାଗୁଡ଼ିକୁ ଚିତ୍ରଣ କରିବା ପାଇଁ ବ୍ୟବହୃତ ହେଉଥିବା stylesheet ଗୁଡ଼ିକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
 
-#: konqueror/settings/konqhtml/khtml_appearance.desktop:108
+#: konqueror/settings/konqhtml/khtml_appearance.desktop:16
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure the fonts used on web pages"
@@ -942,7 +942,7 @@ msgctxt "Name"
 msgid "Web Behavior"
 msgstr "ୱେବ ଆଚରଣ"
 
-#: konqueror/settings/konqhtml/khtml_behavior.desktop:103
+#: konqueror/settings/konqhtml/khtml_behavior.desktop:13
 msgctxt "Comment"
 msgid "Configure the browser behavior"
 msgstr "ବ୍ରାଉଜର ଆଚରଣକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
@@ -952,7 +952,7 @@ msgctxt "Name"
 msgid "AdBlocK Filters"
 msgstr "AdBlocK ଛାଣକଗୁଡ଼ିକ"
 
-#: konqueror/settings/konqhtml/khtml_filter.desktop:105
+#: konqueror/settings/konqhtml/khtml_filter.desktop:15
 msgctxt "Comment"
 msgid "Configure Konqueror AdBlocK filters"
 msgstr "Konqueror AdBlocK ଛାଣକଗୁଡ଼ିକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
@@ -966,7 +966,7 @@ msgctxt ""
 msgid "General"
 msgstr "ସାଧାରଣ"
 
-#: konqueror/settings/konqhtml/khtml_general.desktop:82
+#: konqueror/settings/konqhtml/khtml_general.desktop:14
 msgctxt "Comment"
 msgid "Configure general Konqueror behavior"
 msgstr "ସାଧାରଣ Konqueror ଆଚରଣକୁ ବିନ୍ୟାସକରନ୍ତ"
@@ -976,7 +976,7 @@ msgctxt "Name"
 msgid "Java & JavaScript"
 msgstr "Java & JavaScript"
 
-#: konqueror/settings/konqhtml/khtml_java_js.desktop:105
+#: konqueror/settings/konqhtml/khtml_java_js.desktop:13
 msgctxt "Comment"
 msgid "Configure the behavior of Java and JavaScript"
 msgstr "Java ଏବଂ JavaScriptର ଆଚରଣକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
@@ -986,7 +986,7 @@ msgctxt "Name"
 msgid "Performance"
 msgstr "କାର୍ଯ୍ୟଦକ୍ଷତା"
 
-#: konqueror/settings/performance/kcmkonqyperformance.desktop:103
+#: konqueror/settings/performance/kcmkonqyperformance.desktop:14
 msgctxt "Comment"
 msgid "Configure settings that can improve Konqueror performance"
 msgstr "Konqueror କାର୍ଯ୍ୟଦକ୍ଷତା ବୃଦ୍ଧି କରିପାରୁଥିବା ସେଟିଙ୍ଗଗୁଡ଼ିକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
@@ -996,13 +996,13 @@ msgctxt "Name"
 msgid "KDE Performance"
 msgstr "KDE କାର୍ଯଦକ୍ଷତା"
 
-#: konqueror/settings/performance/kcmperformance.desktop:102
+#: konqueror/settings/performance/kcmperformance.desktop:13
 msgctxt "Comment"
 msgid "Configure settings that can improve KDE performance"
 msgstr "KDE କାର୍ଯ୍ୟଦକ୍ଷତା ବୃଦ୍ଧିକରିପାରୁଥିବା ସେଟିଙ୍ଗଗୁଡ଼ିକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
 
-#: konqueror/sidebar/default_entries/bookmarks.desktop:98
-#: konqueror/sidebar/trees/init/bookmarks_module.desktop:98
+#: konqueror/sidebar/default_entries/bookmarks.desktop:6
+#: konqueror/sidebar/trees/init/bookmarks_module.desktop:6
 msgctxt "Comment"
 msgid "This is the list of your bookmarks, for a faster access"
 msgstr "ତୁରନ୍ତ ବ୍ୟବହାର ପାଇଁ, ଏହା ଆପଣଙ୍କର ଚିହ୍ନିତ ସ୍ଥାନର ତାଲିକା"
@@ -1013,7 +1013,7 @@ msgctxt "Name"
 msgid "History"
 msgstr "ପୁରୁଣା ତଥ୍ୟ"
 
-#: konqueror/sidebar/default_entries/history.desktop:98
+#: konqueror/sidebar/default_entries/history.desktop:6
 msgctxt "Comment"
 msgid ""
 "This is the history of the URLs you have recently visited. You can sort them "
@@ -1027,7 +1027,7 @@ msgctxt "Name"
 msgid "Home Folder"
 msgstr "ମୂଳ ସ୍ଥାନ ଫୋଲଡ଼ର"
 
-#: konqueror/sidebar/default_entries/home.desktop:97
+#: konqueror/sidebar/default_entries/home.desktop:6
 msgctxt "Comment"
 msgid "This folder contains your personal files"
 msgstr "ଏହା ଆପଣଙ୍କର ବ୍ୟକ୍ତିଗତ ଫାଇଲଗୁଡ଼ିକୁ ଧାରଣ କରିଥିବା ଫୋଲଡ଼ର"
@@ -1037,7 +1037,7 @@ msgctxt "Name"
 msgid "Places"
 msgstr "ସ୍ଥାନଗୁଡ଼ିକ"
 
-#: konqueror/sidebar/default_entries/places.desktop:80
+#: konqueror/sidebar/default_entries/places.desktop:5
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "This is the root of the filesystem"
@@ -1056,12 +1056,12 @@ msgctxt "Name"
 msgid "Root Folder"
 msgstr "ପ୍ରମୂଖ ଚାଳକ ଫୋଲଡ଼ର"
 
-#: konqueror/sidebar/default_entries/root.desktop:96
+#: konqueror/sidebar/default_entries/root.desktop:6
 msgctxt "Comment"
 msgid "This is the root of the filesystem"
 msgstr "ଏହା ଫାଇଲ ତନ୍ତ୍ରର ମୂଖ୍ୟଚାଳକ"
 
-#: konqueror/sidebar/history_module/kcmhistory.desktop:104
+#: konqueror/sidebar/history_module/kcmhistory.desktop:12
 msgctxt "Comment"
 msgid "Configure the history sidebar"
 msgstr "ପୁରୁଣା ତଥ୍ୟ ପାର୍ଶ୍ୱପଟିକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
@@ -1166,7 +1166,7 @@ msgctxt "Name"
 msgid "Favicons"
 msgstr "Favicons"
 
-#: lib/konq/favicons/favicons.desktop:79
+#: lib/konq/favicons/favicons.desktop:4
 msgctxt "Comment"
 msgid "Stores website icons"
 msgstr ""
@@ -1197,7 +1197,7 @@ msgctxt "Name"
 msgid "Folder..."
 msgstr "ଫୋଲଡ଼ର..."
 
-#: lib/konq/Templates/Directory.desktop:92
+#: lib/konq/Templates/Directory.desktop:3
 msgctxt "Comment"
 msgid "Enter folder name:"
 msgstr "ଫୋଲଡ଼ର ନାମ ଭରଣ କରନ୍ତୁ:"
@@ -1215,7 +1215,7 @@ msgctxt "Name"
 msgid "HTML File..."
 msgstr "HTML ଫାଇଲ..."
 
-#: lib/konq/Templates/HTMLFile.desktop:92
+#: lib/konq/Templates/HTMLFile.desktop:3
 msgctxt "Comment"
 msgid "Enter HTML filename:"
 msgstr "HTML ପାଇଲ ନାମ ଭରଣ କରନ୍ତୁ:"
@@ -1225,7 +1225,7 @@ msgctxt "Name"
 msgid "Camera Device..."
 msgstr "କ୍ୟାମେରା ଉପକରଣ..."
 
-#: lib/konq/Templates/linkCAMERA.desktop:91
+#: lib/konq/Templates/linkCAMERA.desktop:3
 msgctxt "Comment"
 msgid "New camera"
 msgstr "ନୂତନ କ୍ୟାମେରା"
@@ -1235,7 +1235,7 @@ msgctxt "Name"
 msgid "CD-ROM Device..."
 msgstr "CD-ROM ଉପକରଣ..."
 
-#: lib/konq/Templates/linkCDROM.desktop:91
+#: lib/konq/Templates/linkCDROM.desktop:3
 msgctxt "Comment"
 msgid "New CD-ROM Device"
 msgstr "ନୂତନ CD-ROM ଉପକରଣ"
@@ -1245,7 +1245,7 @@ msgctxt "Name"
 msgid "CDWRITER Device..."
 msgstr "CDWRITER ଉପକରଣ..."
 
-#: lib/konq/Templates/linkCDWRITER.desktop:91
+#: lib/konq/Templates/linkCDWRITER.desktop:3
 msgctxt "Comment"
 msgid "New CDWRITER Device"
 msgstr "CDWRITER ଉପକରଣ"
@@ -1255,7 +1255,7 @@ msgctxt "Name"
 msgid "DVD-ROM Device..."
 msgstr "DVD-ROM ଉପକରଣ..."
 
-#: lib/konq/Templates/linkDVDROM.desktop:92
+#: lib/konq/Templates/linkDVDROM.desktop:3
 msgctxt "Comment"
 msgid "New DVD-ROM Device"
 msgstr "ନୂତନ DVD-ROM ଉପକରଣ"
@@ -1265,7 +1265,7 @@ msgctxt "Name"
 msgid "Floppy Device..."
 msgstr "ଫ୍ଲୋପି ଉପକରଣ..."
 
-#: lib/konq/Templates/linkFloppy.desktop:91
+#: lib/konq/Templates/linkFloppy.desktop:3
 msgctxt "Comment"
 msgid "New Floppy Device"
 msgstr "ନୂତନ ଫ୍ଲୋପି ଉପକରଣ..."
@@ -1275,7 +1275,7 @@ msgctxt "Name"
 msgid "Hard Disc Device..."
 msgstr "ହାର୍ଡ଼ ଡ଼ିସ୍କ ଉପକରଣ..."
 
-#: lib/konq/Templates/linkHD.desktop:91
+#: lib/konq/Templates/linkHD.desktop:3
 msgctxt "Comment"
 msgid "New Hard Disc"
 msgstr "ନୂତନ ହାର୍ଡ଼ଡ଼ିସ୍କ"
@@ -1285,7 +1285,7 @@ msgctxt "Name"
 msgid "MO Device..."
 msgstr "MO ଉପକରଣ..."
 
-#: lib/konq/Templates/linkMO.desktop:91
+#: lib/konq/Templates/linkMO.desktop:3
 msgctxt "Comment"
 msgid "New MO Device"
 msgstr "ନୂତନ MO ଉପକରଣ"
@@ -1295,7 +1295,7 @@ msgctxt "Name"
 msgid "NFS..."
 msgstr "NFS..."
 
-#: lib/konq/Templates/linkNFS.desktop:92
+#: lib/konq/Templates/linkNFS.desktop:3
 msgctxt "Comment"
 msgid "New NFS Link"
 msgstr "ନୂତନ NFS ସଂଯୋଗ"
@@ -1305,7 +1305,7 @@ msgctxt "Name"
 msgid "Basic link to file or directory..."
 msgstr ""
 
-#: lib/konq/Templates/linkPath.desktop:69
+#: lib/konq/Templates/linkPath.desktop:3
 msgctxt "Comment"
 msgid "Enter path of file or directory:"
 msgstr ""
@@ -1315,7 +1315,7 @@ msgctxt "Name"
 msgid "Link to Application..."
 msgstr "ପ୍ରୟୋଗକୁ ସଂଯୋଗ..."
 
-#: lib/konq/Templates/linkProgram.desktop:87
+#: lib/konq/Templates/linkProgram.desktop:3
 msgctxt "Comment"
 msgid "New Link to Application"
 msgstr "ପ୍ରୟୋଗ ପାଇଁ ନୂତନ ସଂଯୋଗ"
@@ -1325,7 +1325,7 @@ msgctxt "Name"
 msgid "Link to Location (URL)..."
 msgstr "ସ୍ଥାନକୁ (URL) ସଂଯୋଗ..."
 
-#: lib/konq/Templates/linkURL.desktop:91
+#: lib/konq/Templates/linkURL.desktop:3
 msgctxt "Comment"
 msgid "Enter link to location (URL):"
 msgstr "ସ୍ଥାନକୁ (URL) ସଂଯୋଗ ଭରଣ କରନ୍ତୁ:"
@@ -1335,7 +1335,7 @@ msgctxt "Name"
 msgid "ZIP Device..."
 msgstr "ZIP ଉପକରଣ..."
 
-#: lib/konq/Templates/linkZIP.desktop:91
+#: lib/konq/Templates/linkZIP.desktop:3
 msgctxt "Comment"
 msgid "New ZIP Device"
 msgstr "ନୂତନ ZIP ଉପକରଣ"
@@ -1345,7 +1345,7 @@ msgctxt "Name"
 msgid "Text File..."
 msgstr "ପାଠ୍ୟ ଫାଇଲ..."
 
-#: lib/konq/Templates/TextFile.desktop:92
+#: lib/konq/Templates/TextFile.desktop:3
 msgctxt "Comment"
 msgid "Enter text filename:"
 msgstr "ପାଠ୍ୟ ଫାଇଲ ନାମ ଭରଣ କରନ୍ତୁ:"
@@ -1355,7 +1355,7 @@ msgctxt "Name"
 msgid "Plugins"
 msgstr "ପ୍ଲଗଇନଗୁଡ଼ିକ"
 
-#: nsplugins/khtml_plugins.desktop:107
+#: nsplugins/khtml_plugins.desktop:15
 msgctxt "Comment"
 msgid "Configure the browser plugins"
 msgstr "ବ୍ରାଉଜର ପ୍ଲଗଇନଗୁଡ଼ିକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
@@ -1365,7 +1365,7 @@ msgctxt "Name"
 msgid "Folder View"
 msgstr "ଫୋଲଡ଼ର ଦୃଶ୍ୟ"
 
-#: plasma/applets/folderview/plasma-applet-folderview.desktop:84
+#: plasma/applets/folderview/plasma-applet-folderview.desktop:3
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Display the content of folders (Desktop as default)"
