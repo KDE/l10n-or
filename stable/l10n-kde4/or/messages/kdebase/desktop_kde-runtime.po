@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-09-09 09:45+0000\n"
+"POT-Creation-Date: 2011-09-10 09:26+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -81,6 +81,27 @@ msgstr "ଅକ୍ସିଜେନ"
 msgctxt "Comment"
 msgid "Theme done in the Oxygen style"
 msgstr "ଅକ୍ସିଜେନ ଶୈଳୀରେ କରାଯାଇଥିବା ପ୍ରସଙ୍ଗ"
+
+#: drkonqi/data/debuggers/external/gdbrc:2
+#: drkonqi/data/debuggers/internal/gdbrc:2
+msgctxt "Name"
+msgid "gdb"
+msgstr ""
+
+#: drkonqi/data/debuggers/external/kdbgrc:2
+msgctxt "Name"
+msgid "kdbg"
+msgstr ""
+
+#: drkonqi/data/debuggers/internal/dbxrc:2
+msgctxt "Name"
+msgid "dbx"
+msgstr ""
+
+#: drkonqi/data/debuggers/internal/kdbgwinrc:2
+msgctxt "Name"
+msgid "kdbgwin"
+msgstr ""
 
 #: kcontrol/componentchooser/componentchooser.desktop:13
 msgctxt "Name"
@@ -513,6 +534,17 @@ msgctxt "Comment"
 msgid "Monitors directories for changes"
 msgstr ""
 
+#: kioslave/desktop/directory.trash:3 kioslave/trash/kcmtrash.desktop:1
+#: kioslave/trash/kcmtrash.desktop:168
+msgctxt "Name"
+msgid "Trash"
+msgstr "ଆବର୍ଜନା ପାତ୍ର"
+
+#: kioslave/desktop/directory.trash:83
+msgctxt "Comment"
+msgid "Contains removed files"
+msgstr "ଅପସାରିତ ଫାଇଲଗୁଡ଼ିକୁ ଧାରଣ କରିଥାଏ"
+
 #: kioslave/desktop/Home.desktop:3
 msgctxt "Name"
 msgid "Home"
@@ -674,11 +706,6 @@ msgstr ""
 msgctxt "Name"
 msgid "Microsoft Windows Images"
 msgstr ""
-
-#: kioslave/trash/kcmtrash.desktop:1 kioslave/trash/kcmtrash.desktop:168
-msgctxt "Name"
-msgid "Trash"
-msgstr "ଆବର୍ଜନା ପାତ୍ର"
 
 #: kioslave/trash/kcmtrash.desktop:81
 msgctxt "Comment"
@@ -5983,10 +6010,6 @@ msgstr "ହାର୍ଡୱେର"
 msgctxt "Comment"
 msgid "Provides a user interface for hardware events"
 msgstr ""
-
-#~ msgctxt "Comment"
-#~ msgid "Contains removed files"
-#~ msgstr "ଅପସାରିତ ଫାଇଲଗୁଡ଼ିକୁ ଧାରଣ କରିଥାଏ"
 
 #, fuzzy
 #~| msgctxt "Comment"
