@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-09-19 02:21+0000\n"
+"POT-Creation-Date: 2011-09-21 02:16+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -22,63 +22,6 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-
-#: activitymanager/activitymanager-plugin.desktop:5
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Service Manager"
-msgctxt "Comment"
-msgid "Activity manager plugin"
-msgstr "ସର୍ଭିସ ପରିଚାଳକ"
-
-#: activitymanager/kactivitymanagerd.desktop:9
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Service Manager"
-msgctxt "Name"
-msgid "Activity Manager"
-msgstr "ସର୍ଭିସ ପରିଚାଳକ"
-
-#: activitymanager/kactivitymanagerd.desktop:74
-msgctxt "Comment"
-msgid "The activity management backend"
-msgstr ""
-
-#: activitymanager/plugins/dummy/activitymanager-plugin-dummy.desktop:2
-msgctxt "Name"
-msgid "Dummy plugin"
-msgstr ""
-
-#: activitymanager/plugins/dummy/activitymanager-plugin-dummy.desktop:23
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Joystick settings"
-msgctxt "Comment"
-msgid "Just testing"
-msgstr "Joystick ସଂରଚନା"
-
-#: activitymanager/plugins/nepomuk/activitymanager-plugin-nepomuk.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Nepomuk Server"
-msgctxt "Name"
-msgid "Nepomuk Feeder Plugin"
-msgstr "Nepomuk ସର୍ଭର"
-
-#: activitymanager/plugins/nepomuk/activitymanager-plugin-nepomuk.desktop:18
-msgctxt "Comment"
-msgid "Plugin to store and score events in Nepomuk"
-msgstr ""
-
-#: activitymanager/plugins/slc/activitymanager-plugin-slc.desktop:2
-msgctxt "Name"
-msgid "Share-Like-Connect Plugin"
-msgstr ""
-
-#: activitymanager/plugins/slc/activitymanager-plugin-slc.desktop:19
-msgctxt "Comment"
-msgid "Plugin to provide data to the SLC system"
-msgstr ""
 
 #: attica/kcm/kcm_attica.desktop:12
 #, fuzzy
@@ -6076,6 +6019,34 @@ msgstr "ହାର୍ଡୱେର"
 msgctxt "Comment"
 msgid "Provides a user interface for hardware events"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Service Manager"
+#~ msgctxt "Comment"
+#~ msgid "Activity manager plugin"
+#~ msgstr "ସର୍ଭିସ ପରିଚାଳକ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Service Manager"
+#~ msgctxt "Name"
+#~ msgid "Activity Manager"
+#~ msgstr "ସର୍ଭିସ ପରିଚାଳକ"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Joystick settings"
+#~ msgctxt "Comment"
+#~ msgid "Just testing"
+#~ msgstr "Joystick ସଂରଚନା"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Nepomuk Server"
+#~ msgctxt "Name"
+#~ msgid "Nepomuk Feeder Plugin"
+#~ msgstr "Nepomuk ସର୍ଭର"
 
 #~ msgctxt "Name"
 #~ msgid "Nepomuk Strigi Service"
