@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-09-22 03:38+0200\n"
+"POT-Creation-Date: 2011-09-25 03:56+0200\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -573,35 +573,35 @@ msgstr ""
 msgid "Thanks to many others.\n"
 msgstr ""
 
-#: MainWindow.cpp:252
+#: MainWindow.cpp:254
 msgid "&New Tab"
 msgstr ""
 
-#: MainWindow.cpp:261
+#: MainWindow.cpp:263
 msgid "New &Window"
 msgstr ""
 
-#: MainWindow.cpp:272
+#: MainWindow.cpp:274
 msgid "&Bookmarks"
 msgstr ""
 
-#: MainWindow.cpp:299 Part.cpp:101
+#: MainWindow.cpp:297 Part.cpp:101
 msgid "Configure Profiles..."
 msgstr ""
 
-#: MainWindow.cpp:305
+#: MainWindow.cpp:303
 msgid "Activate Menu"
 msgstr ""
 
-#: MainWindow.cpp:402
+#: MainWindow.cpp:420
 msgid "You have multiple tabs in this window, are you sure you want to quit?"
 msgstr ""
 
-#: MainWindow.cpp:404 SessionController.cpp:642
+#: MainWindow.cpp:422 SessionController.cpp:642
 msgid "Confirm Close"
 msgstr ""
 
-#: MainWindow.cpp:406
+#: MainWindow.cpp:424
 msgid "Close Current Tab"
 msgstr ""
 
@@ -1519,11 +1519,11 @@ msgid "S&crollback"
 msgstr ""
 
 #. i18n: file: ../desktop/partui.rc:26
-#. i18n: ectx: Menu (change-profile)
-#. i18n: file: ../desktop/sessionui.rc:62
-#. i18n: ectx: Menu (change-profile)
+#. i18n: ectx: Menu (switch-profile)
+#. i18n: file: ../desktop/sessionui.rc:63
+#. i18n: ectx: Menu (switch-profile)
 #: rc.cpp:461 rc.cpp:470
-msgid "&Change Profile"
+msgid "&Switch Profile"
 msgstr ""
 
 #. i18n: file: ../desktop/sessionui.rc:17
@@ -1532,7 +1532,7 @@ msgstr ""
 msgid "Copy Input To"
 msgstr ""
 
-#. i18n: file: ../desktop/sessionui.rc:43
+#. i18n: file: ../desktop/sessionui.rc:44
 #. i18n: ectx: Menu (debug)
 #: rc.cpp:467
 msgid "Debug"
@@ -1672,7 +1672,7 @@ msgid "Configure Current Profile..."
 msgstr ""
 
 #: SessionController.cpp:547
-msgid "Change Profile"
+msgid "Switch Profile"
 msgstr ""
 
 #: SessionController.cpp:636
@@ -1854,17 +1854,17 @@ msgid ""
 "\">suspended</a> by pressing Ctrl+S.  Press <b>Ctrl+Q</b> to resume.</qt>"
 msgstr ""
 
-#: ViewContainer.cpp:494
+#: ViewContainer.cpp:499
 msgctxt "@action:inmenu"
 msgid "&Detach Tab"
 msgstr ""
 
-#: ViewContainer.cpp:498
+#: ViewContainer.cpp:503
 msgctxt "@action:inmenu"
 msgid "&Rename Tab..."
 msgstr ""
 
-#: ViewContainer.cpp:502
+#: ViewContainer.cpp:507
 msgctxt "@action:inmenu"
 msgid "&Close Tab"
 msgstr ""
@@ -1878,52 +1878,56 @@ msgid "Previous Tab"
 msgstr ""
 
 #: ViewManager.cpp:140
+msgid "Switch to Last Tab"
+msgstr ""
+
+#: ViewManager.cpp:141
 msgid "Next View Container"
 msgstr ""
 
-#: ViewManager.cpp:142
+#: ViewManager.cpp:143
 msgid "Move Tab Left"
 msgstr ""
 
-#: ViewManager.cpp:143
+#: ViewManager.cpp:144
 msgid "Move Tab Right"
 msgstr ""
 
-#: ViewManager.cpp:153
+#: ViewManager.cpp:154
 msgctxt "@action:inmenu"
 msgid "Split View Left/Right"
 msgstr ""
 
-#: ViewManager.cpp:160
+#: ViewManager.cpp:161
 msgctxt "@action:inmenu"
 msgid "Split View Top/Bottom"
 msgstr ""
 
-#: ViewManager.cpp:165
+#: ViewManager.cpp:166
 msgctxt "@action:inmenu Close Active View"
 msgid "Close Active"
 msgstr ""
 
-#: ViewManager.cpp:174
+#: ViewManager.cpp:175
 msgctxt "@action:inmenu Close Other Views"
 msgid "Close Others"
 msgstr ""
 
-#: ViewManager.cpp:184
+#: ViewManager.cpp:185
 msgid "D&etach Current Tab"
 msgstr ""
 
-#: ViewManager.cpp:193
+#: ViewManager.cpp:194
 msgctxt "@action:inmenu"
 msgid "Expand View"
 msgstr ""
 
-#: ViewManager.cpp:200
+#: ViewManager.cpp:201
 msgctxt "@action:inmenu"
 msgid "Shrink View"
 msgstr ""
 
-#: ViewManager.cpp:220
+#: ViewManager.cpp:222
 #, kde-format
 msgid "Switch to Tab %1"
 msgstr ""
