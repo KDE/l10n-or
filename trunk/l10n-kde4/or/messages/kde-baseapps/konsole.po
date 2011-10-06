@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-10-05 03:48+0200\n"
+"POT-Creation-Date: 2011-10-06 03:42+0200\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -33,90 +33,112 @@ msgid "%1"
 msgstr ""
 
 #: ColorScheme.cpp:94
+msgctxt "@item:intable palette"
 msgid "Foreground"
 msgstr ""
 
 #: ColorScheme.cpp:95
+msgctxt "@item:intable palette"
 msgid "Background"
 msgstr ""
 
 #: ColorScheme.cpp:96
+msgctxt "@item:intable palette"
 msgid "Color 1"
 msgstr ""
 
 #: ColorScheme.cpp:97
+msgctxt "@item:intable palette"
 msgid "Color 2"
 msgstr ""
 
 #: ColorScheme.cpp:98
+msgctxt "@item:intable palette"
 msgid "Color 3"
 msgstr ""
 
 #: ColorScheme.cpp:99
+msgctxt "@item:intable palette"
 msgid "Color 4"
 msgstr ""
 
 #: ColorScheme.cpp:100
+msgctxt "@item:intable palette"
 msgid "Color 5"
 msgstr ""
 
 #: ColorScheme.cpp:101
+msgctxt "@item:intable palette"
 msgid "Color 6"
 msgstr ""
 
 #: ColorScheme.cpp:102
+msgctxt "@item:intable palette"
 msgid "Color 7"
 msgstr ""
 
 #: ColorScheme.cpp:103
+msgctxt "@item:intable palette"
 msgid "Color 8"
 msgstr ""
 
 #: ColorScheme.cpp:104
+msgctxt "@item:intable palette"
 msgid "Foreground (Intense)"
 msgstr ""
 
 #: ColorScheme.cpp:105
+msgctxt "@item:intable palette"
 msgid "Background (Intense)"
 msgstr ""
 
 #: ColorScheme.cpp:106
+msgctxt "@item:intable palette"
 msgid "Color 1 (Intense)"
 msgstr ""
 
 #: ColorScheme.cpp:107
+msgctxt "@item:intable palette"
 msgid "Color 2 (Intense)"
 msgstr ""
 
 #: ColorScheme.cpp:108
+msgctxt "@item:intable palette"
 msgid "Color 3 (Intense)"
 msgstr ""
 
 #: ColorScheme.cpp:109
+msgctxt "@item:intable palette"
 msgid "Color 4 (Intense)"
 msgstr ""
 
 #: ColorScheme.cpp:110
+msgctxt "@item:intable palette"
 msgid "Color 5 (Intense)"
 msgstr ""
 
 #: ColorScheme.cpp:111
+msgctxt "@item:intable palette"
 msgid "Color 6 (Intense)"
 msgstr ""
 
 #: ColorScheme.cpp:112
+msgctxt "@item:intable palette"
 msgid "Color 7 (Intense)"
 msgstr ""
 
 #: ColorScheme.cpp:113
+msgctxt "@item:intable palette"
 msgid "Color 8 (Intense)"
 msgstr ""
 
 #: ColorScheme.cpp:273
+msgctxt "@item:intable Palette name"
 msgid "Un-named Color Scheme"
 msgstr ""
 
 #: ColorScheme.cpp:446
+msgctxt "@item:intable Palette name"
 msgid "Accessible Color Scheme"
 msgstr ""
 
@@ -619,22 +641,22 @@ msgctxt "@title:window"
 msgid "Manage Profiles"
 msgstr ""
 
-#: ManageProfilesDialog.cpp:237
+#: ManageProfilesDialog.cpp:234
 msgctxt "@title:column Profile label"
 msgid "Name"
 msgstr ""
 
-#: ManageProfilesDialog.cpp:238
+#: ManageProfilesDialog.cpp:235
 msgctxt "@title:column Display profile in file menu"
 msgid "Show in Menu"
 msgstr ""
 
-#: ManageProfilesDialog.cpp:239
+#: ManageProfilesDialog.cpp:236
 msgctxt "@title:column Profile shortcut text"
 msgid "Shortcut"
 msgstr ""
 
-#: ManageProfilesDialog.cpp:367
+#: ManageProfilesDialog.cpp:364
 msgctxt "@item This will be used as part of the file name"
 msgid "New Profile"
 msgstr ""
@@ -1829,12 +1851,12 @@ msgstr ""
 msgid "ZModem Progress"
 msgstr ""
 
-#: SessionManager.cpp:934
+#: SessionManager.cpp:935
 msgctxt "@item:intable The session index"
 msgid "Number"
 msgstr ""
 
-#: SessionManager.cpp:936
+#: SessionManager.cpp:937
 msgctxt "@item:intable The session title"
 msgid "Title"
 msgstr ""
