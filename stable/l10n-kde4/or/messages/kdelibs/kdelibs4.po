@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-09-26 11:12+0200\n"
+"POT-Creation-Date: 2011-10-08 11:49+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -6538,7 +6538,7 @@ msgid "Warning"
 msgstr "ଚେତାବନୀ"
 
 #: kdeui/dialogs/kmessagebox.cpp:841 kdeui/dialogs/kmessagebox.cpp:871
-#: khtml/rendering/render_form.cpp:814 kjs/object.cpp:553
+#: khtml/rendering/render_form.cpp:813 kjs/object.cpp:553
 #: knewstuff/knewstuff3/uploaddialog.cpp:528
 msgid "Error"
 msgstr "ତ୍ରୁଟି"
@@ -9506,7 +9506,7 @@ msgstr "%1 ବିଷୟରେ (&A)"
 msgid "About &KDE"
 msgstr "KDE ବିଷୟରେ (&K)"
 
-#: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:937
+#: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:936
 msgid "Clear &History"
 msgstr "ଇତିହାସ ସଫାକରନ୍ତୁ (&H)"
 
@@ -11079,29 +11079,29 @@ msgstr "ୱିଣ୍ଡୋ ବନ୍ଦ କରିବେ କି?"
 msgid "Confirmation Required"
 msgstr "ନିଶ୍ଚିତତା ଆବଶ୍ୟକ"
 
-#: khtml/ecma/kjs_window.cpp:2875
+#: khtml/ecma/kjs_window.cpp:2874
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" to be added to your "
 "collection?"
 msgstr ""
 
-#: khtml/ecma/kjs_window.cpp:2878
+#: khtml/ecma/kjs_window.cpp:2877
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
 "added to your collection?"
 msgstr ""
 
-#: khtml/ecma/kjs_window.cpp:2886
+#: khtml/ecma/kjs_window.cpp:2885
 msgid "JavaScript Attempted Bookmark Insert"
 msgstr ""
 
-#: khtml/ecma/kjs_window.cpp:2890
+#: khtml/ecma/kjs_window.cpp:2889
 msgid "Insert"
 msgstr "ଭର୍ତ୍ତୀ କରନ୍ତୁ"
 
-#: khtml/ecma/kjs_window.cpp:2890
+#: khtml/ecma/kjs_window.cpp:2889
 msgid "Disallow"
 msgstr "ଅସ୍ବୀକାର କରନ୍ତୁ"
 
@@ -11316,6 +11316,30 @@ msgstr "ଆପଲେଟ \"%1\" ଆରମ୍ଭ ହୋଇଯାଇଛି"
 msgid "Applet \"%1\" stopped"
 msgstr "ଆପଲେଟ \"%1\" ବନ୍ଦହୋଇଯାଇଛି"
 
+#: khtml/java/kjavaappletviewer.cpp:129
+msgid "Applet Parameters"
+msgstr "ଆପଲେଟ ପ୍ରାଚଳଗୁଡିକ"
+
+#: khtml/java/kjavaappletviewer.cpp:139
+msgid "Parameter"
+msgstr "ପ୍ରାଚଳ"
+
+#: khtml/java/kjavaappletviewer.cpp:143
+msgid "Class"
+msgstr "ଶ୍ରେଣୀ"
+
+#: khtml/java/kjavaappletviewer.cpp:149
+msgid "Base URL"
+msgstr "ଆଧାର URL"
+
+#: khtml/java/kjavaappletviewer.cpp:155
+msgid "Archives"
+msgstr "ଅଭିଲେଖନଗୁଡିକ"
+
+#: khtml/java/kjavaappletviewer.cpp:475
+msgid "KDE Java Applet Plugin"
+msgstr "KDE java ଆପଲେଟ ପ୍ଲଗଇନ"
+
 #: khtml/java/kjavaappletserver.cpp:146
 msgid "Loading Applet"
 msgstr "ଆପଲେଟ ଧାରଣ କରାଯାଉଛି"
@@ -11350,30 +11374,6 @@ msgstr "ସମସ୍ତଙ୍କୁ ଅସ୍ୱୀକାର କରନ୍ତୁ 
 msgid "&Grant All"
 msgstr "ସମସ୍ତଙ୍କୁ ସ୍ୱୀକାର କରନ୍ତୁ (&G)"
 
-#: khtml/java/kjavaappletviewer.cpp:129
-msgid "Applet Parameters"
-msgstr "ଆପଲେଟ ପ୍ରାଚଳଗୁଡିକ"
-
-#: khtml/java/kjavaappletviewer.cpp:139
-msgid "Parameter"
-msgstr "ପ୍ରାଚଳ"
-
-#: khtml/java/kjavaappletviewer.cpp:143
-msgid "Class"
-msgstr "ଶ୍ରେଣୀ"
-
-#: khtml/java/kjavaappletviewer.cpp:149
-msgid "Base URL"
-msgstr "ଆଧାର URL"
-
-#: khtml/java/kjavaappletviewer.cpp:155
-msgid "Archives"
-msgstr "ଅଭିଲେଖନଗୁଡିକ"
-
-#: khtml/java/kjavaappletviewer.cpp:475
-msgid "KDE Java Applet Plugin"
-msgstr "KDE java ଆପଲେଟ ପ୍ଲଗଇନ"
-
 #: khtml/kmultipart/kmultipart.cpp:41
 msgid "KMultiPart"
 msgstr "KMultiPart"
@@ -11397,28 +11397,28 @@ msgstr "%1 ପାଇଁ ଚାଳକ ମିଳିଲେ ନାହିଁ।"
 msgid "Play"
 msgstr ""
 
-#: khtml/rendering/render_form.cpp:793
+#: khtml/rendering/render_form.cpp:792
 msgid "New Web Shortcut"
 msgstr "ନୂତନ ୱେବ ସଂକ୍ଷିପ୍ତ ପଥ"
 
-#: khtml/rendering/render_form.cpp:814
+#: khtml/rendering/render_form.cpp:813
 #, kde-format
 msgid "%1 is already assigned to %2"
 msgstr "%1 କୁ ପୂର୍ବରୁ %2 କୁ ନିର୍ଦ୍ଧିଷ୍ଟ କରାଯାଇଛି"
 
-#: khtml/rendering/render_form.cpp:859
+#: khtml/rendering/render_form.cpp:858
 msgid "Search &provider name:"
 msgstr ""
 
-#: khtml/rendering/render_form.cpp:861
+#: khtml/rendering/render_form.cpp:860
 msgid "New search provider"
 msgstr "ନୂତନ ଅନ୍ୱେଷଣ ପ୍ରଦାତା"
 
-#: khtml/rendering/render_form.cpp:866
+#: khtml/rendering/render_form.cpp:865
 msgid "UR&I shortcuts:"
 msgstr "URI ସଂକ୍ଷିପ୍ତ ପଥ (&I):"
 
-#: khtml/rendering/render_form.cpp:952
+#: khtml/rendering/render_form.cpp:951
 msgid "Create Web Shortcut"
 msgstr "ୱେବ ସଂକ୍ଷିପ୍ତ ପଥ ବିନ୍ୟାସ କରନ୍ତୁ"
 
