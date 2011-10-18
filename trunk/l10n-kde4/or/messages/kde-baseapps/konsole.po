@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-10-17 03:33+0200\n"
+"POT-Creation-Date: 2011-10-18 04:50+0200\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -641,22 +641,22 @@ msgctxt "@title:window"
 msgid "Manage Profiles"
 msgstr ""
 
-#: ManageProfilesDialog.cpp:237
+#: ManageProfilesDialog.cpp:235
 msgctxt "@title:column Profile label"
 msgid "Name"
 msgstr ""
 
-#: ManageProfilesDialog.cpp:238
+#: ManageProfilesDialog.cpp:236
 msgctxt "@title:column Display profile in file menu"
 msgid "Show in Menu"
 msgstr ""
 
-#: ManageProfilesDialog.cpp:239
+#: ManageProfilesDialog.cpp:237
 msgctxt "@title:column Profile shortcut text"
 msgid "Shortcut"
 msgstr ""
 
-#: ManageProfilesDialog.cpp:367
+#: ManageProfilesDialog.cpp:370
 msgctxt "@item This will be used as part of the file name"
 msgid "New Profile"
 msgstr ""
@@ -1497,37 +1497,37 @@ msgid "Output:"
 msgstr ""
 
 #. i18n: file: ManageProfilesDialog.ui:20
-#. i18n: ectx: property (toolTip), widget (QPushButton, newSessionButton)
+#. i18n: ectx: property (toolTip), widget (QPushButton, newProfileButton)
 #: rc.cpp:410
 msgid "Create a new profile based upon the selected profile"
 msgstr ""
 
 #. i18n: file: ManageProfilesDialog.ui:23
-#. i18n: ectx: property (text), widget (QPushButton, newSessionButton)
+#. i18n: ectx: property (text), widget (QPushButton, newProfileButton)
 #: rc.cpp:413
 msgid "&New Profile..."
 msgstr ""
 
 #. i18n: file: ManageProfilesDialog.ui:33
-#. i18n: ectx: property (toolTip), widget (QPushButton, editSessionButton)
+#. i18n: ectx: property (toolTip), widget (QPushButton, editProfileButton)
 #: rc.cpp:416
 msgid "Edit the selected profile(s)"
 msgstr ""
 
 #. i18n: file: ManageProfilesDialog.ui:36
-#. i18n: ectx: property (text), widget (QPushButton, editSessionButton)
+#. i18n: ectx: property (text), widget (QPushButton, editProfileButton)
 #: rc.cpp:419
 msgid "&Edit Profile..."
 msgstr ""
 
 #. i18n: file: ManageProfilesDialog.ui:46
-#. i18n: ectx: property (toolTip), widget (QPushButton, deleteSessionButton)
+#. i18n: ectx: property (toolTip), widget (QPushButton, deleteProfileButton)
 #: rc.cpp:422
 msgid "Delete the selected profile(s)"
 msgstr ""
 
 #. i18n: file: ManageProfilesDialog.ui:49
-#. i18n: ectx: property (text), widget (QPushButton, deleteSessionButton)
+#. i18n: ectx: property (text), widget (QPushButton, deleteProfileButton)
 #: rc.cpp:425
 msgid "&Delete Profile"
 msgstr ""
@@ -1916,20 +1916,20 @@ msgstr ""
 msgid "Remote Host (Long): %H"
 msgstr ""
 
-#: TerminalDisplay.cpp:1110 TerminalDisplay.cpp:1111
+#: TerminalDisplay.cpp:1116 TerminalDisplay.cpp:1117
 msgid "Size: XXX x XXX"
 msgstr ""
 
-#: TerminalDisplay.cpp:1121
+#: TerminalDisplay.cpp:1127
 #, kde-format
 msgid "Size: %1 x %2"
 msgstr ""
 
-#: TerminalDisplay.cpp:2887
+#: TerminalDisplay.cpp:2893
 msgid "&Paste as text"
 msgstr ""
 
-#: TerminalDisplay.cpp:2947
+#: TerminalDisplay.cpp:2953
 msgid ""
 "<qt>Output has been <a href=\"http://en.wikipedia.org/wiki/Flow_control"
 "\">suspended</a> by pressing Ctrl+S.  Press <b>Ctrl+Q</b> to resume.</qt>"

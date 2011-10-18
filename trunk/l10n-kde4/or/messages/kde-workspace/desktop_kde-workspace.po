@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-10-02 02:57+0000\n"
+"POT-Creation-Date: 2011-10-18 06:22+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -5470,37 +5470,53 @@ msgctxt "Comment"
 msgid "Battery, Display and CPU power management and notification"
 msgstr ""
 
-#: powerdevil/kcmodule/global/powerdevilglobalconfig.desktop:13
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Color settings"
-msgctxt "Name"
-msgid "Global settings"
-msgstr "ରଙ୍ଗ ସଂରଚନା"
-
-#: powerdevil/kcmodule/global/powerdevilglobalconfig.desktop:67
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Configure file manager settings"
-msgctxt "Comment"
-msgid "Configure global Power Management settings"
-msgstr "ଫାଇଲ ପରିଚାଳକ ବିନ୍ୟାସକୁ ସଂରଚନା କରନ୍ତୁ"
-
-#: powerdevil/kcmodule/profiles/powerdevilprofilesconfig.desktop:13
+#: powerdevil/kcmodule/activities/powerdevilactivitiesconfig.desktop:14
 #, fuzzy
 #| msgctxt "Name"
-#| msgid "Power Control"
+#| msgid "Service Manager"
 msgctxt "Name"
-msgid "Power Profiles"
-msgstr "ଶକ୍ତି ନିୟନ୍ତ୍ରଣ"
+msgid "Activity settings"
+msgstr "ସର୍ଭିସ ପରିଚାଳକ"
 
-#: powerdevil/kcmodule/profiles/powerdevilprofilesconfig.desktop:66
+#: powerdevil/kcmodule/activities/powerdevilactivitiesconfig.desktop:16
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure file manager settings"
 msgctxt "Comment"
-msgid "Configure Power Management Profiles"
+msgid "Configure per-activity Power Management settings"
 msgstr "ଫାଇଲ ପରିଚାଳକ ବିନ୍ୟାସକୁ ସଂରଚନା କରନ୍ତୁ"
+
+#: powerdevil/kcmodule/global/powerdevilglobalconfig.desktop:14
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Advanced User Settings"
+msgctxt "Name"
+msgid "Advanced settings"
+msgstr "ଉନ୍ନତ ଚାଳକ ବିନ୍ୟାସ"
+
+#: powerdevil/kcmodule/global/powerdevilglobalconfig.desktop:16
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure file manager settings"
+msgctxt "Comment"
+msgid "Configure advanced Power Management settings"
+msgstr "ଫାଇଲ ପରିଚାଳକ ବିନ୍ୟାସକୁ ସଂରଚନା କରନ୍ତୁ"
+
+#: powerdevil/kcmodule/profiles/powerdevilprofilesconfig.desktop:14
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Screen Saver Settings"
+msgctxt "Name"
+msgid "Energy Saving Settings"
+msgstr "ପରଦା ସଂରକ୍ଷକ ବିନ୍ୟାସ"
+
+#: powerdevil/kcmodule/profiles/powerdevilprofilesconfig.desktop:16
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure trash settings"
+msgctxt "Comment"
+msgid "Configure Energy Saving Settings"
+msgstr "ଆବର୍ଜନା ପାତ୍ର ସଂରଚନାକୁ ବିନ୍ୟାସ କରନ୍ତୁ "
 
 #: powerdevil/powerdevil.notifyrc:2
 #, fuzzy
@@ -6377,6 +6393,27 @@ msgstr "ଅକ୍ଷରରୂପ ପ୍ରଦର୍ଶକ"
 msgctxt "Comment"
 msgid "The KDE 4 icon view style"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Color settings"
+#~ msgctxt "Name"
+#~ msgid "Global settings"
+#~ msgstr "ରଙ୍ଗ ସଂରଚନା"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Power Control"
+#~ msgctxt "Name"
+#~ msgid "Power Profiles"
+#~ msgstr "ଶକ୍ତି ନିୟନ୍ତ୍ରଣ"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure file manager settings"
+#~ msgctxt "Comment"
+#~ msgid "Configure Power Management Profiles"
+#~ msgstr "ଫାଇଲ ପରିଚାଳକ ବିନ୍ୟାସକୁ ସଂରଚନା କରନ୍ତୁ"
 
 #, fuzzy
 #~| msgctxt "Comment"
@@ -7877,10 +7914,6 @@ msgstr ""
 #~ msgctxt "Comment"
 #~ msgid "This service allows configuration of the trash."
 #~ msgstr "ଏହି ସର୍ଭିସ ଆବର୍ଜନା ପାତ୍ରର ବିନ୍ୟାସ ପାଇଁ ଅନୁମତି ଦେଇଥାଏ।"
-
-#~ msgctxt "Comment"
-#~ msgid "Configure trash settings"
-#~ msgstr "ଆବର୍ଜନା ପାତ୍ର ସଂରଚନାକୁ ବିନ୍ୟାସ କରନ୍ତୁ "
 
 #~ msgctxt "ExtraNames"
 #~ msgid "Original Path,Deletion Date"
@@ -11962,10 +11995,6 @@ msgstr ""
 #~ msgctxt "Name"
 #~ msgid "About Me"
 #~ msgstr "ମୋ ବିଷୟରେ"
-
-#~ msgctxt "Name"
-#~ msgid "Advanced User Settings"
-#~ msgstr "ଉନ୍ନତ ଚାଳକ ବିନ୍ୟାସ"
 
 #~ msgctxt "Name"
 #~ msgid "Computer Administration"
