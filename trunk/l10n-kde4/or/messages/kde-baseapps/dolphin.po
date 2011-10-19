@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-10-17 03:28+0200\n"
+"POT-Creation-Date: 2011-10-19 03:46+0200\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -29,6 +29,17 @@ msgstr "ଛାଣକ ପଟିକୁ ଲୁଚାନ୍ତୁ"
 msgctxt "@label:textbox"
 msgid "Filter:"
 msgstr "ଛାଣକ:"
+
+#: kitemviews/kfileitemlistwidget.cpp:197
+#, fuzzy, kde-format
+#| msgctxt "@info"
+#| msgid "%1 item selected"
+#| msgid_plural "%1 items selected"
+msgctxt "@item:intable"
+msgid "%1 item"
+msgid_plural "%1 items"
+msgstr[0] "%1 ବସ୍ତୁ ବଛାହୋଇଛି"
+msgstr[1] "%1 ବସ୍ତୁ ବଛାହୋଇଛି"
 
 #: kitemviews/kfileitemmodel.cpp:207
 #, fuzzy
@@ -93,7 +104,7 @@ msgctxt "@item:intable"
 msgid "Path"
 msgstr "ଲଗାନ୍ତୁ"
 
-#: kitemviews/kfileitemmodel.cpp:867
+#: kitemviews/kfileitemmodel.cpp:871
 #, fuzzy
 #| msgctxt "@info:credit"
 #| msgid "Documentation"
@@ -101,21 +112,10 @@ msgctxt "@item:intable"
 msgid "No destination"
 msgstr "ଦଲିଲିକରଣ"
 
-#: kitemviews/kfileitemlistview.cpp:477
+#: kitemviews/kfileitemlistview.cpp:480
 msgctxt "@item:intable"
 msgid "items"
 msgstr ""
-
-#: kitemviews/kfileitemlistwidget.cpp:197
-#, fuzzy, kde-format
-#| msgctxt "@info"
-#| msgid "%1 item selected"
-#| msgid_plural "%1 items selected"
-msgctxt "@item:intable"
-msgid "%1 item"
-msgid_plural "%1 items"
-msgstr[0] "%1 ବସ୍ତୁ ବଛାହୋଇଛି"
-msgstr[1] "%1 ବସ୍ତୁ ବଛାହୋଇଛି"
 
 #: main.cpp:35
 msgctxt "@title"
