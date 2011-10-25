@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-10-23 04:03+0200\n"
+"POT-Creation-Date: 2011-10-25 04:01+0200\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -628,7 +628,7 @@ msgstr ""
 msgid "You have multiple tabs in this window, are you sure you want to quit?"
 msgstr ""
 
-#: MainWindow.cpp:422 SessionController.cpp:644 SessionController.cpp:670
+#: MainWindow.cpp:422 SessionController.cpp:638 SessionController.cpp:664
 msgid "Confirm Close"
 msgstr ""
 
@@ -1671,11 +1671,11 @@ msgid "Open File Manager"
 msgstr ""
 
 #: SessionController.cpp:448
-msgid "&Select All"
+msgid "Paste Selection"
 msgstr ""
 
-#: SessionController.cpp:454
-msgid "Paste Selection"
+#: SessionController.cpp:452
+msgid "&Select All"
 msgstr ""
 
 #: SessionController.cpp:459
@@ -1743,69 +1743,69 @@ msgstr ""
 msgid "Switch Profile"
 msgstr ""
 
-#: SessionController.cpp:638
+#: SessionController.cpp:632
 msgid ""
 "A program is currently running in this session.  Are you sure you want to "
 "close it?"
 msgstr ""
 
-#: SessionController.cpp:641
+#: SessionController.cpp:635
 #, kde-format
 msgid ""
 "The program '%1' is currently running in this session.  Are you sure you "
 "want to close it?"
 msgstr ""
 
-#: SessionController.cpp:664
+#: SessionController.cpp:658
 msgid ""
 "A program in this session would not die.  Are you sure you want to kill it "
 "by force?"
 msgstr ""
 
-#: SessionController.cpp:667
+#: SessionController.cpp:661
 #, kde-format
 msgid ""
 "The program '%1' is in this session would not die.  Are you sure you want to "
 "kill it by force?"
 msgstr ""
 
-#: SessionController.cpp:1264
+#: SessionController.cpp:1258
 msgid "Save ZModem Download to..."
 msgstr ""
 
-#: SessionController.cpp:1273
+#: SessionController.cpp:1267
 msgid ""
 "<p>A ZModem file transfer attempt has been detected, but no suitable ZModem "
 "software was found on this system.</p><p>You may wish to install the 'rzsz' "
 "or 'lrzsz' package.</p>"
 msgstr ""
 
-#: SessionController.cpp:1285
+#: SessionController.cpp:1279
 msgid ""
 "<p>The current session already has a ZModem file transfer in progress.</p>"
 msgstr ""
 
-#: SessionController.cpp:1294
+#: SessionController.cpp:1288
 msgid ""
 "<p>No suitable ZModem software was found on this system.</p><p>You may wish "
 "to install the 'rzsz' or 'lrzsz' package.</p>"
 msgstr ""
 
-#: SessionController.cpp:1300
+#: SessionController.cpp:1294
 msgid "Select Files for ZModem Upload"
 msgstr ""
 
-#: SessionController.cpp:1372
+#: SessionController.cpp:1366
 #, kde-format
 msgid "Save Output From %1"
 msgstr ""
 
-#: SessionController.cpp:1383
+#: SessionController.cpp:1377
 #, kde-format
 msgid "%1 is an invalid URL, the output could not be saved."
 msgstr ""
 
-#: SessionController.cpp:1461
+#: SessionController.cpp:1455
 #, kde-format
 msgid ""
 "A problem occurred when saving the output.\n"
