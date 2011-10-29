@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-10-28 03:49+0200\n"
+"POT-Creation-Date: 2011-10-29 03:38+0200\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -304,9 +304,7 @@ msgid "lines"
 msgstr ""
 
 #: HistorySizeDialog.cpp:89
-msgid ""
-"<span style=\"color:gray;\"><center><bold>The adjustment is only temporary.</"
-"bold></center></span>"
+msgid "<center>The adjustment is only temporary</center>"
 msgstr ""
 
 #: IncrementalSearchBar.cpp:52
@@ -667,7 +665,7 @@ msgstr ""
 msgid "Shell"
 msgstr ""
 
-#: ProfileList.cpp:49
+#: ProfileList.cpp:47
 msgid "Default profile"
 msgstr ""
 
@@ -1918,20 +1916,20 @@ msgstr ""
 msgid "Remote Host (Long): %H"
 msgstr ""
 
-#: TerminalDisplay.cpp:1114 TerminalDisplay.cpp:1115
+#: TerminalDisplay.cpp:1111 TerminalDisplay.cpp:1112
 msgid "Size: XXX x XXX"
 msgstr ""
 
-#: TerminalDisplay.cpp:1125
+#: TerminalDisplay.cpp:1122
 #, kde-format
 msgid "Size: %1 x %2"
 msgstr ""
 
-#: TerminalDisplay.cpp:2910
+#: TerminalDisplay.cpp:2907
 msgid "&Paste as text"
 msgstr ""
 
-#: TerminalDisplay.cpp:2970
+#: TerminalDisplay.cpp:2967
 msgid ""
 "<qt>Output has been <a href=\"http://en.wikipedia.org/wiki/Flow_control"
 "\">suspended</a> by pressing Ctrl+S.  Press <b>Ctrl+Q</b> to resume.</qt>"
