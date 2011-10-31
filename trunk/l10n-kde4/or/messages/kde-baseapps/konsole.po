@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-10-29 03:38+0200\n"
+"POT-Creation-Date: 2011-10-31 04:08+0100\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -172,96 +172,96 @@ msgstr ""
 msgid "Edit Profile"
 msgstr ""
 
-#: EditProfileDialog.cpp:139
+#: EditProfileDialog.cpp:141
 msgid "<p>Each profile must have a name before it can be saved into disk.</p>"
 msgstr ""
 
-#: EditProfileDialog.cpp:174
+#: EditProfileDialog.cpp:176
 #, kde-format
 msgid "Editing profile: %2"
 msgid_plural "Editing %1 profiles: %2"
 msgstr[0] ""
 msgstr[1] ""
 
-#: EditProfileDialog.cpp:181
+#: EditProfileDialog.cpp:183
 #, kde-format
 msgid "Edit Profile \"%1\""
 msgstr ""
 
-#: EditProfileDialog.cpp:258
+#: EditProfileDialog.cpp:260
 msgid "Profile name is empty."
 msgstr ""
 
-#: EditProfileDialog.cpp:324
+#: EditProfileDialog.cpp:326
 msgid "One environment variable per line"
 msgstr ""
 
-#: EditProfileDialog.cpp:326
+#: EditProfileDialog.cpp:328
 msgid "Edit Environment"
 msgstr ""
 
-#: EditProfileDialog.cpp:357
+#: EditProfileDialog.cpp:355
 msgid "Always Hide Tab Bar"
 msgstr ""
 
-#: EditProfileDialog.cpp:358
+#: EditProfileDialog.cpp:356
 msgid "Show Tab Bar When Needed"
 msgstr ""
 
-#: EditProfileDialog.cpp:359
+#: EditProfileDialog.cpp:357
 msgid "Always Show Tab Bar"
 msgstr ""
 
-#: EditProfileDialog.cpp:364
+#: EditProfileDialog.cpp:362
 msgid "Below Terminal Displays"
 msgstr ""
 
-#: EditProfileDialog.cpp:365
+#: EditProfileDialog.cpp:363
 msgid "Above Terminal Displays"
 msgstr ""
 
-#: EditProfileDialog.cpp:370
+#: EditProfileDialog.cpp:368
 msgid "Put New Tab At The End"
 msgstr ""
 
-#: EditProfileDialog.cpp:371
+#: EditProfileDialog.cpp:369
 msgid "Put New Tab After Current Tab"
 msgstr ""
 
-#: EditProfileDialog.cpp:493
+#: EditProfileDialog.cpp:495
 msgid "Select Initial Directory"
 msgstr ""
 
-#: EditProfileDialog.cpp:686
+#: EditProfileDialog.cpp:688
 #, kde-format
 msgid "%1, size %2"
 msgstr ""
 
-#: EditProfileDialog.cpp:799 EditProfileDialog.cpp:808
+#: EditProfileDialog.cpp:801 EditProfileDialog.cpp:810
 msgid "New Color Scheme"
 msgstr ""
 
-#: EditProfileDialog.cpp:801
+#: EditProfileDialog.cpp:803
 msgid "Edit Color Scheme"
 msgstr ""
 
-#: EditProfileDialog.cpp:879
+#: EditProfileDialog.cpp:881
 msgid ""
 "This color scheme uses a transparent background which does not appear to be "
 "supported on your desktop"
 msgstr ""
 
-#: EditProfileDialog.cpp:886
+#: EditProfileDialog.cpp:888
 msgid ""
 "Konsole was started before desktop effects were enabled. You need to restart "
 "Konsole to see transparent background."
 msgstr ""
 
-#: EditProfileDialog.cpp:997 EditProfileDialog.cpp:1008
+#: EditProfileDialog.cpp:999 EditProfileDialog.cpp:1010
 msgid "New Key Binding List"
 msgstr ""
 
-#: EditProfileDialog.cpp:999
+#: EditProfileDialog.cpp:1001
 msgid "Edit Key Binding List"
 msgstr ""
 
@@ -616,7 +616,7 @@ msgstr ""
 msgid "&Bookmarks"
 msgstr ""
 
-#: MainWindow.cpp:294 Part.cpp:101
+#: MainWindow.cpp:294 Part.cpp:100
 msgid "Manage Profiles..."
 msgstr ""
 
@@ -628,7 +628,7 @@ msgstr ""
 msgid "You have multiple tabs in this window, are you sure you want to quit?"
 msgstr ""
 
-#: MainWindow.cpp:419 SessionController.cpp:639 SessionController.cpp:665
+#: MainWindow.cpp:419 SessionController.cpp:628 SessionController.cpp:654
 msgid "Confirm Close"
 msgstr ""
 
@@ -1658,154 +1658,154 @@ msgstr ""
 msgid "DEC VT420 Terminal"
 msgstr ""
 
-#: SessionController.cpp:286
+#: SessionController.cpp:275
 msgid "Konsole does not know how to open the bookmark: "
 msgstr ""
 
-#: SessionController.cpp:427
+#: SessionController.cpp:415
 msgid "&Close Tab"
 msgstr ""
 
-#: SessionController.cpp:432
+#: SessionController.cpp:421
 msgid "Open File Manager"
 msgstr ""
 
-#: SessionController.cpp:448
+#: SessionController.cpp:437
 msgid "Paste Selection"
 msgstr ""
 
-#: SessionController.cpp:452
+#: SessionController.cpp:441
 msgid "&Select All"
 msgstr ""
 
-#: SessionController.cpp:459
+#: SessionController.cpp:448
 msgid "&Rename Tab..."
 msgstr ""
 
-#: SessionController.cpp:465
+#: SessionController.cpp:454
 msgid "&All Tabs in Current Window"
 msgstr ""
 
-#: SessionController.cpp:471
+#: SessionController.cpp:459
 msgid "&Select Tabs..."
 msgstr ""
 
-#: SessionController.cpp:476
+#: SessionController.cpp:465
 msgctxt "@action:inmenu Do not select any tabs"
 msgid "&None"
 msgstr ""
 
-#: SessionController.cpp:482
+#: SessionController.cpp:471
 msgid "&ZModem Upload..."
 msgstr ""
 
-#: SessionController.cpp:487
+#: SessionController.cpp:476
 msgid "Monitor for &Activity"
 msgstr ""
 
-#: SessionController.cpp:492
+#: SessionController.cpp:481
 msgid "Monitor for &Silence"
 msgstr ""
 
-#: SessionController.cpp:498
+#: SessionController.cpp:487
 msgid "Set &Encoding"
 msgstr ""
 
-#: SessionController.cpp:506
+#: SessionController.cpp:495
 msgid "Enlarge Font"
 msgstr ""
 
-#: SessionController.cpp:511
+#: SessionController.cpp:500
 msgid "Shrink Font"
 msgstr ""
 
-#: SessionController.cpp:529
+#: SessionController.cpp:518
 msgid "Save Output &As..."
 msgstr ""
 
-#: SessionController.cpp:532
+#: SessionController.cpp:521
 msgid "Adjust Scrollback..."
 msgstr ""
 
-#: SessionController.cpp:537
+#: SessionController.cpp:526
 msgid "Clear Scrollback"
 msgstr ""
 
-#: SessionController.cpp:541
+#: SessionController.cpp:530
 msgid "Clear Scrollback and Reset"
 msgstr ""
 
-#: SessionController.cpp:547
+#: SessionController.cpp:536
 msgid "Configure Current Profile..."
 msgstr ""
 
-#: SessionController.cpp:550
+#: SessionController.cpp:539
 msgid "Switch Profile"
 msgstr ""
 
-#: SessionController.cpp:633
+#: SessionController.cpp:622
 msgid ""
 "A program is currently running in this session.  Are you sure you want to "
 "close it?"
 msgstr ""
 
-#: SessionController.cpp:636
+#: SessionController.cpp:625
 #, kde-format
 msgid ""
 "The program '%1' is currently running in this session.  Are you sure you "
 "want to close it?"
 msgstr ""
 
-#: SessionController.cpp:659
+#: SessionController.cpp:648
 msgid ""
 "A program in this session would not die.  Are you sure you want to kill it "
 "by force?"
 msgstr ""
 
-#: SessionController.cpp:662
+#: SessionController.cpp:651
 #, kde-format
 msgid ""
 "The program '%1' is in this session would not die.  Are you sure you want to "
 "kill it by force?"
 msgstr ""
 
-#: SessionController.cpp:1241
+#: SessionController.cpp:1233
 msgid "Save ZModem Download to..."
 msgstr ""
 
-#: SessionController.cpp:1250
+#: SessionController.cpp:1242
 msgid ""
 "<p>A ZModem file transfer attempt has been detected, but no suitable ZModem "
 "software was found on this system.</p><p>You may wish to install the 'rzsz' "
 "or 'lrzsz' package.</p>"
 msgstr ""
 
-#: SessionController.cpp:1262
+#: SessionController.cpp:1254
 msgid ""
 "<p>The current session already has a ZModem file transfer in progress.</p>"
 msgstr ""
 
-#: SessionController.cpp:1271
+#: SessionController.cpp:1263
 msgid ""
 "<p>No suitable ZModem software was found on this system.</p><p>You may wish "
 "to install the 'rzsz' or 'lrzsz' package.</p>"
 msgstr ""
 
-#: SessionController.cpp:1277
+#: SessionController.cpp:1269
 msgid "Select Files for ZModem Upload"
 msgstr ""
 
-#: SessionController.cpp:1349
+#: SessionController.cpp:1341
 #, kde-format
 msgid "Save Output From %1"
 msgstr ""
 
-#: SessionController.cpp:1360
+#: SessionController.cpp:1352
 #, kde-format
 msgid "%1 is an invalid URL, the output could not be saved."
 msgstr ""
 
-#: SessionController.cpp:1438
+#: SessionController.cpp:1430
 #, kde-format
 msgid ""
 "A problem occurred when saving the output.\n"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_launcher\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-09-17 03:50+0200\n"
+"POT-Creation-Date: 2011-10-31 04:19+0100\n"
 "PO-Revision-Date: 2009-01-02 11:50+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -49,11 +49,6 @@ msgstr ""
 
 #: core/applicationmodel.cpp:429 ui/launcher.cpp:975
 msgid "All Applications"
-msgstr ""
-
-#: core/favoritesmodel.cpp:49 core/favoritesmodel.cpp:322
-#: simpleapplet/simpleapplet.cpp:193 ui/launcher.cpp:121 ui/launcher.cpp:191
-msgid "Favorites"
 msgstr ""
 
 #: core/models.cpp:121
@@ -196,6 +191,11 @@ msgstr ""
 
 #: core/leavemodel.cpp:149
 msgid "System"
+msgstr ""
+
+#: core/favoritesmodel.cpp:49 core/favoritesmodel.cpp:322
+#: simpleapplet/simpleapplet.cpp:193 ui/launcher.cpp:121 ui/launcher.cpp:191
+msgid "Favorites"
 msgstr ""
 
 #: main.cpp:32
