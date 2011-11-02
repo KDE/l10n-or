@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-10-31 04:08+0100\n"
+"POT-Creation-Date: 2011-11-02 04:02+0100\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -628,7 +628,7 @@ msgstr ""
 msgid "You have multiple tabs in this window, are you sure you want to quit?"
 msgstr ""
 
-#: MainWindow.cpp:419 SessionController.cpp:628 SessionController.cpp:654
+#: MainWindow.cpp:419 SessionController.cpp:632 SessionController.cpp:658
 msgid "Confirm Close"
 msgstr ""
 
@@ -636,27 +636,27 @@ msgstr ""
 msgid "Close Current Tab"
 msgstr ""
 
-#: ManageProfilesDialog.cpp:49
+#: ManageProfilesDialog.cpp:48
 msgctxt "@title:window"
 msgid "Manage Profiles"
 msgstr ""
 
-#: ManageProfilesDialog.cpp:236
+#: ManageProfilesDialog.cpp:235
 msgctxt "@title:column Profile label"
 msgid "Name"
 msgstr ""
 
-#: ManageProfilesDialog.cpp:237
+#: ManageProfilesDialog.cpp:236
 msgctxt "@title:column Display profile in file menu"
 msgid "Show in Menu"
 msgstr ""
 
-#: ManageProfilesDialog.cpp:238
+#: ManageProfilesDialog.cpp:237
 msgctxt "@title:column Profile shortcut text"
 msgid "Shortcut"
 msgstr ""
 
-#: ManageProfilesDialog.cpp:371
+#: ManageProfilesDialog.cpp:370
 msgctxt "@item This will be used as part of the file name"
 msgid "New Profile"
 msgstr ""
@@ -1658,154 +1658,154 @@ msgstr ""
 msgid "DEC VT420 Terminal"
 msgstr ""
 
-#: SessionController.cpp:275
+#: SessionController.cpp:279
 msgid "Konsole does not know how to open the bookmark: "
 msgstr ""
 
-#: SessionController.cpp:415
+#: SessionController.cpp:419
 msgid "&Close Tab"
 msgstr ""
 
-#: SessionController.cpp:421
+#: SessionController.cpp:425
 msgid "Open File Manager"
 msgstr ""
 
-#: SessionController.cpp:437
+#: SessionController.cpp:441
 msgid "Paste Selection"
 msgstr ""
 
-#: SessionController.cpp:441
+#: SessionController.cpp:445
 msgid "&Select All"
 msgstr ""
 
-#: SessionController.cpp:448
+#: SessionController.cpp:452
 msgid "&Rename Tab..."
 msgstr ""
 
-#: SessionController.cpp:454
+#: SessionController.cpp:458
 msgid "&All Tabs in Current Window"
 msgstr ""
 
-#: SessionController.cpp:459
+#: SessionController.cpp:463
 msgid "&Select Tabs..."
 msgstr ""
 
-#: SessionController.cpp:465
+#: SessionController.cpp:469
 msgctxt "@action:inmenu Do not select any tabs"
 msgid "&None"
 msgstr ""
 
-#: SessionController.cpp:471
+#: SessionController.cpp:475
 msgid "&ZModem Upload..."
 msgstr ""
 
-#: SessionController.cpp:476
+#: SessionController.cpp:480
 msgid "Monitor for &Activity"
 msgstr ""
 
-#: SessionController.cpp:481
+#: SessionController.cpp:485
 msgid "Monitor for &Silence"
 msgstr ""
 
-#: SessionController.cpp:487
+#: SessionController.cpp:491
 msgid "Set &Encoding"
 msgstr ""
 
-#: SessionController.cpp:495
+#: SessionController.cpp:499
 msgid "Enlarge Font"
 msgstr ""
 
-#: SessionController.cpp:500
+#: SessionController.cpp:504
 msgid "Shrink Font"
 msgstr ""
 
-#: SessionController.cpp:518
+#: SessionController.cpp:522
 msgid "Save Output &As..."
 msgstr ""
 
-#: SessionController.cpp:521
+#: SessionController.cpp:525
 msgid "Adjust Scrollback..."
 msgstr ""
 
-#: SessionController.cpp:526
+#: SessionController.cpp:530
 msgid "Clear Scrollback"
 msgstr ""
 
-#: SessionController.cpp:530
+#: SessionController.cpp:534
 msgid "Clear Scrollback and Reset"
 msgstr ""
 
-#: SessionController.cpp:536
+#: SessionController.cpp:540
 msgid "Configure Current Profile..."
 msgstr ""
 
-#: SessionController.cpp:539
+#: SessionController.cpp:543
 msgid "Switch Profile"
 msgstr ""
 
-#: SessionController.cpp:622
+#: SessionController.cpp:626
 msgid ""
 "A program is currently running in this session.  Are you sure you want to "
 "close it?"
 msgstr ""
 
-#: SessionController.cpp:625
+#: SessionController.cpp:629
 #, kde-format
 msgid ""
 "The program '%1' is currently running in this session.  Are you sure you "
 "want to close it?"
 msgstr ""
 
-#: SessionController.cpp:648
+#: SessionController.cpp:652
 msgid ""
 "A program in this session would not die.  Are you sure you want to kill it "
 "by force?"
 msgstr ""
 
-#: SessionController.cpp:651
+#: SessionController.cpp:655
 #, kde-format
 msgid ""
 "The program '%1' is in this session would not die.  Are you sure you want to "
 "kill it by force?"
 msgstr ""
 
-#: SessionController.cpp:1233
+#: SessionController.cpp:1237
 msgid "Save ZModem Download to..."
 msgstr ""
 
-#: SessionController.cpp:1242
+#: SessionController.cpp:1246
 msgid ""
 "<p>A ZModem file transfer attempt has been detected, but no suitable ZModem "
 "software was found on this system.</p><p>You may wish to install the 'rzsz' "
 "or 'lrzsz' package.</p>"
 msgstr ""
 
-#: SessionController.cpp:1254
+#: SessionController.cpp:1258
 msgid ""
 "<p>The current session already has a ZModem file transfer in progress.</p>"
 msgstr ""
 
-#: SessionController.cpp:1263
+#: SessionController.cpp:1267
 msgid ""
 "<p>No suitable ZModem software was found on this system.</p><p>You may wish "
 "to install the 'rzsz' or 'lrzsz' package.</p>"
 msgstr ""
 
-#: SessionController.cpp:1269
+#: SessionController.cpp:1273
 msgid "Select Files for ZModem Upload"
 msgstr ""
 
-#: SessionController.cpp:1341
+#: SessionController.cpp:1345
 #, kde-format
 msgid "Save Output From %1"
 msgstr ""
 
-#: SessionController.cpp:1352
+#: SessionController.cpp:1356
 #, kde-format
 msgid "%1 is an invalid URL, the output could not be saved."
 msgstr ""
 
-#: SessionController.cpp:1430
+#: SessionController.cpp:1434
 #, kde-format
 msgid ""
 "A problem occurred when saving the output.\n"
@@ -1871,12 +1871,12 @@ msgstr ""
 msgid "ZModem Progress"
 msgstr ""
 
-#: SessionManager.cpp:947
+#: SessionManager.cpp:946
 msgctxt "@item:intable The session index"
 msgid "Number"
 msgstr ""
 
-#: SessionManager.cpp:949
+#: SessionManager.cpp:948
 msgctxt "@item:intable The session title"
 msgid "Title"
 msgstr ""
@@ -1916,20 +1916,20 @@ msgstr ""
 msgid "Remote Host (Long): %H"
 msgstr ""
 
-#: TerminalDisplay.cpp:1111 TerminalDisplay.cpp:1112
+#: TerminalDisplay.cpp:1112 TerminalDisplay.cpp:1113
 msgid "Size: XXX x XXX"
 msgstr ""
 
-#: TerminalDisplay.cpp:1122
+#: TerminalDisplay.cpp:1123
 #, kde-format
 msgid "Size: %1 x %2"
 msgstr ""
 
-#: TerminalDisplay.cpp:2907
+#: TerminalDisplay.cpp:2908
 msgid "&Paste as text"
 msgstr ""
 
-#: TerminalDisplay.cpp:2967
+#: TerminalDisplay.cpp:2968
 msgid ""
 "<qt>Output has been <a href=\"http://en.wikipedia.org/wiki/Flow_control"
 "\">suspended</a> by pressing Ctrl+S.  Press <b>Ctrl+Q</b> to resume.</qt>"
@@ -1950,72 +1950,72 @@ msgctxt "@action:inmenu"
 msgid "&Close Tab"
 msgstr ""
 
-#: ViewManager.cpp:137
+#: ViewManager.cpp:138
 msgctxt "@action Shortcut entry"
 msgid "Next Tab"
 msgstr ""
 
-#: ViewManager.cpp:138
+#: ViewManager.cpp:139
 msgctxt "@action Shortcut entry"
 msgid "Previous Tab"
 msgstr ""
 
-#: ViewManager.cpp:139
+#: ViewManager.cpp:140
 msgctxt "@action Shortcut entry"
 msgid "Switch to Last Tab"
 msgstr ""
 
-#: ViewManager.cpp:140
+#: ViewManager.cpp:141
 msgctxt "@action Shortcut entry"
 msgid "Next View Container"
 msgstr ""
 
-#: ViewManager.cpp:142
+#: ViewManager.cpp:143
 msgctxt "@action Shortcut entry"
 msgid "Move Tab Left"
 msgstr ""
 
-#: ViewManager.cpp:143
+#: ViewManager.cpp:144
 msgctxt "@action Shortcut entry"
 msgid "Move Tab Right"
 msgstr ""
 
-#: ViewManager.cpp:153
+#: ViewManager.cpp:154
 msgctxt "@action:inmenu"
 msgid "Split View Left/Right"
 msgstr ""
 
-#: ViewManager.cpp:160
+#: ViewManager.cpp:161
 msgctxt "@action:inmenu"
 msgid "Split View Top/Bottom"
 msgstr ""
 
-#: ViewManager.cpp:165
+#: ViewManager.cpp:166
 msgctxt "@action:inmenu Close Active View"
 msgid "Close Active"
 msgstr ""
 
-#: ViewManager.cpp:174
+#: ViewManager.cpp:175
 msgctxt "@action:inmenu Close Other Views"
 msgid "Close Others"
 msgstr ""
 
-#: ViewManager.cpp:184
+#: ViewManager.cpp:185
 msgctxt "@action:inmenu"
 msgid "D&etach Current Tab"
 msgstr ""
 
-#: ViewManager.cpp:193
+#: ViewManager.cpp:194
 msgctxt "@action:inmenu"
 msgid "Expand View"
 msgstr ""
 
-#: ViewManager.cpp:201
+#: ViewManager.cpp:202
 msgctxt "@action:inmenu"
 msgid "Shrink View"
 msgstr ""
 
-#: ViewManager.cpp:223
+#: ViewManager.cpp:224
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Switch to Tab %1"
