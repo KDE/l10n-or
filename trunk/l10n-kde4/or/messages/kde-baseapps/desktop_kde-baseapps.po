@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-09-10 02:13+0000\n"
+"POT-Creation-Date: 2011-11-07 03:30+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -44,14 +44,17 @@ msgid "Icons"
 msgstr "ଚିତ୍ର ସଂକେତଗୁଡ଼ିକ"
 
 #: dolphin/src/dolphinpart.desktop:197
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Compiz"
+msgctxt "Name"
+msgid "Compact"
+msgstr "Compiz"
+
+#: dolphin/src/dolphinpart.desktop:203
 msgctxt "Name"
 msgid "Details"
 msgstr "ବିସ୍ତୃତ ବିବରଣୀ"
-
-#: dolphin/src/dolphinpart.desktop:287
-msgctxt "Name"
-msgid "Columns"
-msgstr "ସ୍ତମ୍ଭ"
 
 #: dolphin/src/settings/kcm/kcmdolphingeneral.desktop:1
 #, fuzzy
@@ -1374,6 +1377,10 @@ msgid "Display the contents of folders"
 msgstr "ଫୋଲଡ଼ରଗୁଡ଼ିକର ବିଷୟବସ୍ତୁକୁ ପ୍ରଦର୍ଶନ କରନ୍ତୁ (ପୂର୍ବନିର୍ଦ୍ଧାରିତ ପରି ଡ଼େସ୍କଟପ)"
 
 #~ msgctxt "Name"
+#~ msgid "Columns"
+#~ msgstr "ସ୍ତମ୍ଭ"
+
+#~ msgctxt "Name"
 #~ msgid "Shell"
 #~ msgstr "Shell"
 
@@ -1542,10 +1549,6 @@ msgstr "ଫୋଲଡ଼ରଗୁଡ଼ିକର ବିଷୟବସ୍ତୁକ�
 #~ msgctxt "Comment"
 #~ msgid "A helpful description of the interface for the top right info box"
 #~ msgstr "ଡ଼ାହାଣ ପାଖ ଉପର ଅଂଶ ସୂଚନା ବାକ୍ସ ପାଇଁ ଅନ୍ତରାପୃଷ୍ଠର ଗୋଟିଏ ସହାୟକ ବର୍ଣ୍ଣନା"
-
-#~ msgctxt "Name"
-#~ msgid "Compiz"
-#~ msgstr "Compiz"
 
 #~ msgctxt "Name"
 #~ msgid "Metacity (GNOME)"
