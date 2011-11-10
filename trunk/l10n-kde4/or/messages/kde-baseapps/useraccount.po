@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: useraccount\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-08-02 05:23+0200\n"
+"POT-Creation-Date: 2011-11-10 03:41+0100\n"
 "PO-Revision-Date: 2009-01-02 11:51+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -33,7 +33,7 @@ msgstr ""
 msgid "(Custom)"
 msgstr ""
 
-#: chfacedlg.cpp:114 main.cpp:274
+#: chfacedlg.cpp:114 main.cpp:228
 msgid "There was an error loading the image."
 msgstr ""
 
@@ -130,19 +130,19 @@ msgid ""
 "found. You will not be able to change your password."
 msgstr ""
 
-#: main.cpp:218
+#: main.cpp:175
 msgid "Please enter your password in order to save your settings:"
 msgstr ""
 
-#: main.cpp:221
+#: main.cpp:178
 msgid "You must enter your password in order to change your information."
 msgstr ""
 
-#: main.cpp:231
+#: main.cpp:188
 msgid "You must enter a correct password."
 msgstr ""
 
-#: main.cpp:235
+#: main.cpp:192
 #, kde-format
 msgid ""
 "An error occurred and your name has probably not been changed. The error "
@@ -150,16 +150,12 @@ msgid ""
 "%1"
 msgstr ""
 
-#: main.cpp:255
+#: main.cpp:212
 #, kde-format
 msgid "There was an error saving the image: %1"
 msgstr ""
 
-#: main.cpp:288 main.cpp:322
-msgid "Your administrator has disallowed changing your image."
-msgstr ""
-
-#: main.cpp:355
+#: main.cpp:296
 #, kde-format
 msgid ""
 "%1 does not appear to be an image file.\n"
