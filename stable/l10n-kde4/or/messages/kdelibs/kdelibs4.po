@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-11-13 10:49+0100\n"
+"POT-Creation-Date: 2011-11-14 11:03+0100\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -10127,6 +10127,26 @@ msgstr "ସାଧନ ପଟି"
 msgid "No text"
 msgstr "ପାଠ୍ୟ ନାହିଁ"
 
+#: kdeui/ksecretsservice/promptjob.cpp:53
+#, kde-format
+msgid "ERROR instantiating prompt with path '%1'"
+msgstr ""
+
+#: kdeui/ksecretsservice/dbusbackend.cpp:135
+msgid "Cannot create DL Group for dbus session open"
+msgstr ""
+
+#: kdeui/ksecretsservice/dbusbackend.cpp:157
+#, kde-format
+msgid "ERROR when trying to bind to %1 daemon. Check dbus configuration."
+msgstr ""
+
+#: kdeui/ksecretsservice/dbusbackend.cpp:189
+#, fuzzy
+#| msgid "&OK"
+msgid "OK"
+msgstr "ଠିକ ଅଛି (&O)"
+
 #: kdeui/ksecretsservice/ksecretsservicecollectionjobs.cpp:127
 msgid "Cannot start collection unlocking"
 msgstr ""
@@ -10199,26 +10219,6 @@ msgstr "ସଞ୍ଚାର ତ୍ରୁଟି"
 #: kdeui/ksecretsservice/ksecretsservicecollectionjobs.cpp:1151
 msgid "Unlock operation returned unexpected result"
 msgstr ""
-
-#: kdeui/ksecretsservice/promptjob.cpp:53
-#, kde-format
-msgid "ERROR instantiating prompt with path '%1'"
-msgstr ""
-
-#: kdeui/ksecretsservice/dbusbackend.cpp:135
-msgid "Cannot create DL Group for dbus session open"
-msgstr ""
-
-#: kdeui/ksecretsservice/dbusbackend.cpp:157
-#, kde-format
-msgid "ERROR when trying to bind to %1 daemon. Check dbus configuration."
-msgstr ""
-
-#: kdeui/ksecretsservice/dbusbackend.cpp:189
-#, fuzzy
-#| msgid "&OK"
-msgid "OK"
-msgstr "ଠିକ ଅଛି (&O)"
 
 #: kdewebkit/kwebpage.cpp:126 khtml/khtml_ext.cpp:879
 msgid "Overwrite File?"
