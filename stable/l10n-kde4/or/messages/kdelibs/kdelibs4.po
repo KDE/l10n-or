@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-11-14 11:03+0100\n"
+"POT-Creation-Date: 2011-11-15 17:43+0100\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -2697,15 +2697,15 @@ msgstr "କ୍ରମବର୍ଦ୍ଦୀ ବନାନଯାଞ୍ଚ"
 msgid "Too many misspelled words. As-you-type spell checking disabled."
 msgstr "ଅତ୍ୟଧିକ ବନାନଭୁଲ ଶବ୍ଦଗୁଡିଏ। ଆପଣ ଟାଇପ କଲାମାତ୍ରେ ବନାନ ଯାଞ୍ଚ ନିଷ୍କ୍ରିୟ ହୋଇଯିବ।"
 
-#: kde3support/kdeui/k3textedit.cpp:232 kdeui/widgets/ktextedit.cpp:495
+#: kde3support/kdeui/k3textedit.cpp:232 kdeui/widgets/ktextedit.cpp:493
 msgid "Check Spelling..."
 msgstr "ବନାନ ଯାଞ୍ଚକରନ୍ତୁ..."
 
-#: kde3support/kdeui/k3textedit.cpp:238 kdeui/widgets/ktextedit.cpp:498
+#: kde3support/kdeui/k3textedit.cpp:238 kdeui/widgets/ktextedit.cpp:496
 msgid "Auto Spell Check"
 msgstr "ସ୍ୱୟଂ ବନାନ ଯାଞ୍ଚ"
 
-#: kde3support/kdeui/k3textedit.cpp:242 kdeui/widgets/ktextedit.cpp:502
+#: kde3support/kdeui/k3textedit.cpp:242 kdeui/widgets/ktextedit.cpp:500
 msgid "Allow Tabulations"
 msgstr "ସାରଣୀକରଣକୁ ଅନୁମତି ଦିଅନ୍ତୁ"
 
@@ -9629,6 +9629,34 @@ msgstr "ଅସମର୍ଥିତ କି"
 msgid "without name"
 msgstr "ନାମ ବିନା"
 
+#: kdeui/widgets/ktextedit.cpp:527
+#, fuzzy
+#| msgid "Speak custom text"
+msgid "Speak Text"
+msgstr "ଇଚ୍ଛାରୂପୀ ପାଠ୍ୟ କୁହନ୍ତୁ"
+
+#: kdeui/widgets/ktextedit.cpp:542
+msgid "Starting Jovie Text-to-Speech Service Failed"
+msgstr ""
+
+#: kdeui/widgets/ktextedit.cpp:631
+#, fuzzy, kde-format
+#| msgid "Suggestions"
+msgid "No suggestions for %1"
+msgstr "ପ୍ରସ୍ତାବଗୁଡ଼ିକ"
+
+#: kdeui/widgets/ktextedit.cpp:642
+msgid "Ignore"
+msgstr "ଅଗ୍ରାହ୍ଯ କରନ୍ତୁ"
+
+#: kdeui/widgets/ktextedit.cpp:643
+msgid "Add to Dictionary"
+msgstr "ଅଭିଧାନରେ ଯୋଗ କରନ୍ତୁ"
+
+#: kdeui/widgets/ktextedit.cpp:788
+msgid "Nothing to spell check."
+msgstr "ବନାନ ଯାଞ୍ଚ କରିବାକୁ କିଛିନାହିଁ।"
+
 #: kdeui/widgets/kpixmapregionselectorwidget.cpp:195
 msgid "Image Operations"
 msgstr "ପ୍ରତିଛବି ପ୍ରଚାଳନଗୁଡିକ"
@@ -9846,34 +9874,6 @@ msgstr ""
 msgctxt "@info"
 msgid "Time cannot be later than %1"
 msgstr ""
-
-#: kdeui/widgets/ktextedit.cpp:526
-#, fuzzy
-#| msgid "Speak custom text"
-msgid "Speak Text"
-msgstr "ଇଚ୍ଛାରୂପୀ ପାଠ୍ୟ କୁହନ୍ତୁ"
-
-#: kdeui/widgets/ktextedit.cpp:541
-msgid "Starting Jovie Text-to-Speech Service Failed"
-msgstr ""
-
-#: kdeui/widgets/ktextedit.cpp:630
-#, fuzzy, kde-format
-#| msgid "Suggestions"
-msgid "No suggestions for %1"
-msgstr "ପ୍ରସ୍ତାବଗୁଡ଼ିକ"
-
-#: kdeui/widgets/ktextedit.cpp:641
-msgid "Ignore"
-msgstr "ଅଗ୍ରାହ୍ଯ କରନ୍ତୁ"
-
-#: kdeui/widgets/ktextedit.cpp:642
-msgid "Add to Dictionary"
-msgstr "ଅଭିଧାନରେ ଯୋଗ କରନ୍ତୁ"
-
-#: kdeui/widgets/ktextedit.cpp:787
-msgid "Nothing to spell check."
-msgstr "ବନାନ ଯାଞ୍ଚ କରିବାକୁ କିଛିନାହିଁ।"
 
 #: kdeui/widgets/ktimezonewidget.cpp:66
 msgctxt "Define an area in the time zone, like a town area"
@@ -10220,10 +10220,6 @@ msgstr "ସଞ୍ଚାର ତ୍ରୁଟି"
 msgid "Unlock operation returned unexpected result"
 msgstr ""
 
-#: kdewebkit/kwebpage.cpp:126 khtml/khtml_ext.cpp:879
-msgid "Overwrite File?"
-msgstr "ଫାଇଲ ନବଲିଖନ କରିବେକି? "
-
 #: kdewidgets/makekdewidgets.cpp:84
 msgid "Builds Qt widget plugins from an ini style description file."
 msgstr ""
@@ -10388,6 +10384,10 @@ msgid ""
 "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr ""
 "\"%1\" ନାମକ ଗୋଟିଏ ଫାଇଲ ପୂର୍ବରୁ ଅବସ୍ଥିତ ଅଛି। ଆପଣ ନିଶ୍ଚିତକି ଆପଣ ଏଥିରେ ନବଲିଖନ କରିବାକୁ ଚାହୁଁଛନ୍ତି?"
+
+#: khtml/khtml_ext.cpp:879
+msgid "Overwrite File?"
+msgstr "ଫାଇଲ ନବଲିଖନ କରିବେକି? "
 
 #: khtml/khtml_ext.cpp:879
 msgid "Overwrite"
