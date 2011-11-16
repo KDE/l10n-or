@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-11-15 07:43+0000\n"
+"POT-Creation-Date: 2011-11-16 03:41+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -965,22 +965,6 @@ msgstr "ପ୍ରବେଶ ସଂକେତ ଧରିବା ସମର୍ଥନ"
 msgctxt "Comment"
 msgid "Temporary password caching"
 msgstr "ପ୍ରବେଶ ସଂକେତ ଧରିବା ସମର୍ଥନ"
-
-#: ksecretsserviced/ksecretsserviced.desktop:9
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Services"
-msgctxt "Name"
-msgid "Secret Service Server"
-msgstr "ସର୍ଭିସଗୁଡ଼ିକ"
-
-#: ksecretsserviced/ksecretsserviced.desktop:23
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Services"
-msgctxt "Comment"
-msgid "Secret Service Server"
-msgstr "ସର୍ଭିସଗୁଡ଼ିକ"
 
 #: ktimezoned/ktimezoned.desktop:10
 #, fuzzy
@@ -6038,6 +6022,20 @@ msgstr "ହାର୍ଡୱେର"
 msgctxt "Comment"
 msgid "Provides a user interface for hardware events"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Services"
+#~ msgctxt "Name"
+#~ msgid "Secret Service Server"
+#~ msgstr "ସର୍ଭିସଗୁଡ଼ିକ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Services"
+#~ msgctxt "Comment"
+#~ msgid "Secret Service Server"
+#~ msgstr "ସର୍ଭିସଗୁଡ଼ିକ"
 
 #~ msgctxt "Query"
 #~ msgid "http://www.qrz.com/database?callsign=\\\\{@}"
