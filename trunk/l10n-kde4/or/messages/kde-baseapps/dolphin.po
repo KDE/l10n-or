@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-11-14 03:52+0100\n"
+"POT-Creation-Date: 2011-11-19 03:37+0100\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -275,7 +275,12 @@ msgctxt "@title:group Files and folders by permissions"
 msgid "User: %1 | Group: %2 | Others: %3"
 msgstr "(ଚାଳକ: %1) (ଶ୍ରେଣୀ: %2) (ଅନ୍ୟମାନେ: %3)"
 
-#: kitemviews/kfileitemlistwidget.cpp:232
+#: kitemviews/kfileitemlistview.cpp:472
+msgctxt "@item:intable"
+msgid "items"
+msgstr ""
+
+#: kitemviews/kfileitemlistwidget.cpp:231
 #, fuzzy
 #| msgctxt "@info:status"
 #| msgid "Unknown size"
@@ -283,7 +288,7 @@ msgctxt "@item:intable"
 msgid "Unknown"
 msgstr "ଅଜଣା ଆକାର"
 
-#: kitemviews/kfileitemlistwidget.cpp:235
+#: kitemviews/kfileitemlistwidget.cpp:234
 #, fuzzy, kde-format
 #| msgctxt "@info"
 #| msgid "%1 item selected"
@@ -293,11 +298,6 @@ msgid "%1 item"
 msgid_plural "%1 items"
 msgstr[0] "%1 ବସ୍ତୁ ବଛାହୋଇଛି"
 msgstr[1] "%1 ବସ୍ତୁ ବଛାହୋଇଛି"
-
-#: kitemviews/kfileitemlistview.cpp:472
-msgctxt "@item:intable"
-msgid "items"
-msgstr ""
 
 #: panels/folders/treeviewcontextmenu.cpp:58
 msgctxt "@action:inmenu"
