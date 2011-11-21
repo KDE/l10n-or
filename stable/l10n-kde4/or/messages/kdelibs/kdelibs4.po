@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-11-16 11:07+0100\n"
+"POT-Creation-Date: 2011-11-21 11:41+0100\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -7931,7 +7931,7 @@ msgstr "ଠିକ ଅଛି (&O)"
 msgid "&Cancel"
 msgstr "ବାତିଲ କରନ୍ତୁ (&C)"
 
-#: kdeui/util/kstandardguiitem.cpp:120 khtml/java/kjavaappletserver.cpp:815
+#: kdeui/util/kstandardguiitem.cpp:120 khtml/java/kjavaappletserver.cpp:817
 msgid "&Yes"
 msgstr "ହଁ (&Y)"
 
@@ -7939,7 +7939,7 @@ msgstr "ହଁ (&Y)"
 msgid "Yes"
 msgstr "ହଁ"
 
-#: kdeui/util/kstandardguiitem.cpp:125 khtml/java/kjavaappletserver.cpp:808
+#: kdeui/util/kstandardguiitem.cpp:125 khtml/java/kjavaappletserver.cpp:810
 msgid "&No"
 msgstr "ନାଁ(&N)"
 
@@ -10848,7 +10848,7 @@ msgstr "ସୁରକ୍ଷା ଚେତାବନୀ"
 msgid "<qt>Access by untrusted page to<br /><b>%1</b><br /> denied.</qt>"
 msgstr "<qt>ଅବିଶ୍ୱସ୍ତ ପୃଷ୍ଠାକୁ ପ୍ରବେଶାନୁମତୀ<br /><b>%1</b><br /> ବାରଣ କରାଯାଇଛି।</qt>"
 
-#: khtml/khtml_part.cpp:6808 khtml/java/kjavaappletserver.cpp:792
+#: khtml/khtml_part.cpp:6808 khtml/java/kjavaappletserver.cpp:794
 msgid "Security Alert"
 msgstr "ସୁରକ୍ଷା ସଚେତନତା"
 
@@ -11348,29 +11348,29 @@ msgstr "ଆପଲେଟ ଧାରଣ କରାଯାଉଛି"
 msgid "Error: java executable not found"
 msgstr "ତ୍ରୁଟି: java ନିଷ୍ପାଦ୍ୟ ମିଳୁ ନାହିଁ"
 
-#: khtml/java/kjavaappletserver.cpp:664
+#: khtml/java/kjavaappletserver.cpp:666
 #, kde-format
 msgid "Signed by (validation: %1)"
 msgstr "ଦ୍ୱାରା ଦସ୍ତଖତ କୃତ (ବିଧିସଙ୍ଗତ: %1)"
 
-#: khtml/java/kjavaappletserver.cpp:666
+#: khtml/java/kjavaappletserver.cpp:668
 #, kde-format
 msgid "Certificate (validation: %1)"
 msgstr "ପ୍ରମାଣପତ୍ର (ବିଧିସଙ୍ଗତ: %1)"
 
-#: khtml/java/kjavaappletserver.cpp:797
+#: khtml/java/kjavaappletserver.cpp:799
 msgid "Do you grant Java applet with certificate(s):"
 msgstr "ଆପଣ ପ୍ରମାଣପତ୍ର(ଗୁଡିକ) ସହିତ java applet କୁ ସ୍ୱୀକାର କରିବେକି:"
 
-#: khtml/java/kjavaappletserver.cpp:799
+#: khtml/java/kjavaappletserver.cpp:801
 msgid "the following permission"
 msgstr "ଏହି ନିମ୍ନଲିଖିତ ଅନୁମତି"
 
-#: khtml/java/kjavaappletserver.cpp:812
+#: khtml/java/kjavaappletserver.cpp:814
 msgid "&Reject All"
 msgstr "ସମସ୍ତଙ୍କୁ ଅସ୍ୱୀକାର କରନ୍ତୁ (&R)"
 
-#: khtml/java/kjavaappletserver.cpp:818
+#: khtml/java/kjavaappletserver.cpp:820
 msgid "&Grant All"
 msgstr "ସମସ୍ତଙ୍କୁ ସ୍ୱୀକାର କରନ୍ତୁ (&G)"
 
