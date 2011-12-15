@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-12-14 03:23+0000\n"
+"POT-Creation-Date: 2011-12-15 03:14+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -369,7 +369,7 @@ msgid "kglobalaccel"
 msgstr ""
 
 #: kglobalaccel/kglobalaccel.notifyrc:141
-#: phonon/platform_kde/phonon.notifyrc:68
+#: phonon/platform_kde/phonon.notifyrc:69
 msgctxt "Name"
 msgid "Application"
 msgstr "ପ୍ରୟୋଗ"
@@ -986,32 +986,32 @@ msgctxt "Comment"
 msgid "A warning message is being shown"
 msgstr "ଗୋଟିଏ ଚେତାବନୀ ସନ୍ଦେଶକୁ ଦର୍ଶାଯାଇଛି"
 
-#: knotify/kde.notifyrc:2433
+#: knotify/kde.notifyrc:2434
 msgctxt "Name"
 msgid "Critical Message"
 msgstr "ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ସନ୍ଦେଶ"
 
-#: knotify/kde.notifyrc:2514
+#: knotify/kde.notifyrc:2515
 msgctxt "Comment"
 msgid "A critical message is being shown"
 msgstr "ଗୋଟିଏ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ସନ୍ଦେଶକୁ ଦର୍ଶାଯାଇଛି"
 
-#: knotify/kde.notifyrc:2599
+#: knotify/kde.notifyrc:2600
 msgctxt "Name"
 msgid "Question"
 msgstr "ପ୍ରଶ୍ନ"
 
-#: knotify/kde.notifyrc:2687
+#: knotify/kde.notifyrc:2688
 msgctxt "Comment"
 msgid "A question is being asked"
 msgstr "ଗୋଟିଏ ପ୍ରଶ୍ନ ପଚରାଯାଇଛି"
 
-#: knotify/kde.notifyrc:2774
+#: knotify/kde.notifyrc:2775
 msgctxt "Name"
 msgid "Beep"
 msgstr "ବିପ କରିବା"
 
-#: knotify/kde.notifyrc:2859
+#: knotify/kde.notifyrc:2860
 msgctxt "Comment"
 msgid "Sound bell"
 msgstr "ଧ୍ୱନି ଘଣ୍ଟି"
@@ -5593,7 +5593,7 @@ msgctxt "Comment"
 msgid "Nepomuk/Strigi Server Configuration"
 msgstr "Nepomuk/Strigi ସର୍ଭର ବିନ୍ୟାସ"
 
-#: nepomuk/kcm/kcm_nepomuk.desktop:174
+#: nepomuk/kcm/kcm_nepomuk.desktop:175
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Nepomuk Strigi Service"
@@ -5609,7 +5609,7 @@ msgctxt "Name"
 msgid "Nepomuk Search Module"
 msgstr "Nepomuk ସର୍ଭିସ"
 
-#: nepomuk/kioslaves/search/kdedmodule/nepomuksearchmodule.desktop:72
+#: nepomuk/kioslaves/search/kdedmodule/nepomuksearchmodule.desktop:73
 msgctxt "Comment"
 msgid ""
 "Helper module for KIO to ensure automatic updates of nepomuksearch listings."
@@ -5656,7 +5656,7 @@ msgctxt "Name"
 msgid "File Indexer Service"
 msgstr "ଆଭ୍ୟନ୍ତରୀଣ ସର୍ଭିସଗୁଡ଼ିକ"
 
-#: nepomuk/services/fileindexer/nepomukfileindexer.desktop:37
+#: nepomuk/services/fileindexer/nepomukfileindexer.desktop:38
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid ""
@@ -5675,12 +5675,12 @@ msgctxt "Comment"
 msgid "Desktop Search"
 msgstr "ଡ଼େସ୍କଟପ ସନ୍ଧାନ"
 
-#: nepomuk/services/fileindexer/nepomukfileindexer.notifyrc:68
+#: nepomuk/services/fileindexer/nepomukfileindexer.notifyrc:69
 msgctxt "Name"
 msgid "Initial Indexing started"
 msgstr "ପ୍ରାରମ୍ଭିକ ଅନୁକ୍ରମିକ ଆରମ୍ଭ ହୋଇଛି"
 
-#: nepomuk/services/fileindexer/nepomukfileindexer.notifyrc:145
+#: nepomuk/services/fileindexer/nepomukfileindexer.notifyrc:146
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid ""
@@ -5690,12 +5690,12 @@ msgctxt "Comment"
 msgid "Indexing of local files for fast searches has started."
 msgstr "ତୀବ୍ର ଡ଼େସ୍କଟପ ସନ୍ଧାନ ପାଇଁ Strigi ସ୍ଥାନୀୟ ଫାଇଲଗୁଡ଼ିକର ପ୍ରାରମ୍ଭିକ ଅନୁକ୍ରମଣକୁ ଆରମ୍ଭ କରିଅଛି"
 
-#: nepomuk/services/fileindexer/nepomukfileindexer.notifyrc:212
+#: nepomuk/services/fileindexer/nepomukfileindexer.notifyrc:213
 msgctxt "Name"
 msgid "Initial Indexing finished"
 msgstr "ପ୍ରାରମ୍ଭିକ ଅନୁକ୍ରମଣ ସମାପ୍ତ ହୋଇଛି"
 
-#: nepomuk/services/fileindexer/nepomukfileindexer.notifyrc:288
+#: nepomuk/services/fileindexer/nepomukfileindexer.notifyrc:289
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid ""
@@ -5706,12 +5706,12 @@ msgid ""
 "The initial indexing of local files for fast desktop searches has completed."
 msgstr "ତୀବ୍ର ଡ଼େସ୍କଟପ ସନ୍ଧାନ ପାଇଁ Strigi ସ୍ଥାନୀୟ ଫାଇଲଗୁଡ଼ିକର ପ୍ରାରମ୍ଭିକ ଅନୁକ୍ରମଣକୁ ଆରମ୍ଭ କରିଅଛି"
 
-#: nepomuk/services/fileindexer/nepomukfileindexer.notifyrc:355
+#: nepomuk/services/fileindexer/nepomukfileindexer.notifyrc:356
 msgctxt "Name"
 msgid "Indexing suspended"
 msgstr "ଅନୁକ୍ରମଣ କ୍ରିୟାକୁ ନିଲମ୍ବିତ କରାଯାଇଛି"
 
-#: nepomuk/services/fileindexer/nepomukfileindexer.notifyrc:432
+#: nepomuk/services/fileindexer/nepomukfileindexer.notifyrc:433
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Strigi file indexing has been suspended"
@@ -5719,12 +5719,12 @@ msgctxt "Comment"
 msgid "File indexing has been suspended by the search service."
 msgstr "Strigi ଫାଇଲ ଅନୁକ୍ରମଣ କ୍ରିୟାକୁ ନିଲମ୍ବିତ କରାଯାଇଛି"
 
-#: nepomuk/services/fileindexer/nepomukfileindexer.notifyrc:499
+#: nepomuk/services/fileindexer/nepomukfileindexer.notifyrc:500
 msgctxt "Name"
 msgid "Indexing resumed"
 msgstr "ଅନୁକ୍ରମଣ କ୍ରିୟାକୁ ପୁନଃ ଚଳନ କରାଯାଇଛି"
 
-#: nepomuk/services/fileindexer/nepomukfileindexer.notifyrc:575
+#: nepomuk/services/fileindexer/nepomukfileindexer.notifyrc:576
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Strigi file indexing has been resumed"
@@ -5750,7 +5750,7 @@ msgctxt "Comment"
 msgid "Nepomuk file watch service"
 msgstr "Nepomuk ସର୍ଭିସ"
 
-#: nepomuk/services/filewatch/nepomukfilewatch.notifyrc:55
+#: nepomuk/services/filewatch/nepomukfilewatch.notifyrc:56
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "USB Devices"
@@ -5758,7 +5758,7 @@ msgctxt "Name"
 msgid "New Removable Device"
 msgstr "USB ଉପକରଣ"
 
-#: nepomuk/services/filewatch/nepomukfilewatch.notifyrc:105
+#: nepomuk/services/filewatch/nepomukfilewatch.notifyrc:107
 msgctxt "Comment"
 msgid "A new unknown removable device has been mounted"
 msgstr ""
@@ -5768,7 +5768,7 @@ msgctxt "Name"
 msgid "NepomukQueryService"
 msgstr "Nepomukଅନୁସନ୍ଧାନ ସର୍ଭିସ"
 
-#: nepomuk/services/queryservice/nepomukqueryservice.desktop:84
+#: nepomuk/services/queryservice/nepomukqueryservice.desktop:85
 msgctxt "Comment"
 msgid ""
 "The Nepomuk Query Service provides an interface for persistent query folders"
@@ -5780,7 +5780,7 @@ msgctxt "Name"
 msgid "Nepomuk Data Storage"
 msgstr "Nepomuk ତଥ୍ୟ ଭଣ୍ଡାର"
 
-#: nepomuk/services/storage/nepomukstorage.desktop:84
+#: nepomuk/services/storage/nepomukstorage.desktop:85
 msgctxt "Comment"
 msgid "The Core Nepomuk data storage service"
 msgstr "ମଧ୍ଯବର୍ତ୍ତି Nepomuk ତଥ୍ୟ ଭଣ୍ଡାର ସର୍ଭିସ"
@@ -5793,7 +5793,7 @@ msgctxt "Name"
 msgid "Semantic Data Storage"
 msgstr "Nepomuk ତଥ୍ୟ ଭଣ୍ଡାର"
 
-#: nepomuk/services/storage/nepomukstorage.notifyrc:64
+#: nepomuk/services/storage/nepomukstorage.notifyrc:65
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Desktop"
@@ -5801,42 +5801,42 @@ msgctxt "Comment"
 msgid "Semantic Desktop"
 msgstr "ଡ଼େସ୍କଟପ"
 
-#: nepomuk/services/storage/nepomukstorage.notifyrc:127
+#: nepomuk/services/storage/nepomukstorage.notifyrc:129
 msgctxt "Name"
 msgid "Failed to start Nepomuk"
 msgstr ""
 
-#: nepomuk/services/storage/nepomukstorage.notifyrc:192
+#: nepomuk/services/storage/nepomukstorage.notifyrc:194
 msgctxt "Comment"
 msgid "The Nepomuk Semantic Desktop system could not be started"
 msgstr ""
 
-#: nepomuk/services/storage/nepomukstorage.notifyrc:257
+#: nepomuk/services/storage/nepomukstorage.notifyrc:259
 msgctxt "Name"
 msgid "Converting Nepomuk data"
 msgstr "Nepomuk ତଥ୍ୟକୁ ପରିବର୍ତ୍ତନ କରାଯାଉଛି"
 
-#: nepomuk/services/storage/nepomukstorage.notifyrc:332
+#: nepomuk/services/storage/nepomukstorage.notifyrc:334
 msgctxt "Comment"
 msgid "All Nepomuk data is converted to a new storage backend"
 msgstr "ସମସ୍ତ Nepomuk ତଥ୍ୟକୁ ନୂତନ ଭଣ୍ଡାର ପୃଷ୍ଠଭୂମିକୁ ପରିବର୍ତ୍ତନ କରାଯାଇଛି"
 
-#: nepomuk/services/storage/nepomukstorage.notifyrc:410
+#: nepomuk/services/storage/nepomukstorage.notifyrc:412
 msgctxt "Name"
 msgid "Converting Nepomuk data failed"
 msgstr "ନେପୋମୁକ ତଥ୍ୟ ପରିବର୍ତ୍ତନ ବିଫଳ ହୋଇଛି"
 
-#: nepomuk/services/storage/nepomukstorage.notifyrc:485
+#: nepomuk/services/storage/nepomukstorage.notifyrc:487
 msgctxt "Comment"
 msgid "Converting Nepomuk data to a new backend failed"
 msgstr "Nepomuk ତଥ୍ୟକୁ ଗୋଟିଏ ନୂତନ ପୃଷ୍ଠଭୂମିରେ ପରିବର୍ତ୍ତନ କରିବାରେ ବିଫଳ"
 
-#: nepomuk/services/storage/nepomukstorage.notifyrc:563
+#: nepomuk/services/storage/nepomukstorage.notifyrc:565
 msgctxt "Name"
 msgid "Converting Nepomuk data done"
 msgstr "Nepomuk ତଥ୍ୟ ପରିବର୍ତ୍ତନ ସମାପ୍ତ ହେଲା"
 
-#: nepomuk/services/storage/nepomukstorage.notifyrc:638
+#: nepomuk/services/storage/nepomukstorage.notifyrc:640
 msgctxt "Comment"
 msgid "Successfully converted Nepomuk data to new backend"
 msgstr "Nepomuk ତଥ୍ୟକୁ ସଫଳତାର ସହିତ ନୂତନ ପୃଷ୍ଠଭୂମିକୁ ପରିବର୍ତ୍ତନ କରାଯାଇଛି"
@@ -5849,12 +5849,12 @@ msgctxt "Name"
 msgid "Phonon"
 msgstr "Phonon Xine"
 
-#: phonon/kcm/kcm_phonon.desktop:76
+#: phonon/kcm/kcm_phonon.desktop:77
 msgctxt "Comment"
 msgid "Sound and Video Configuration"
 msgstr "ଧ୍ୱନି ଏବଂ ଭିଡ଼ିଓ ସଂରଚନା"
 
-#: phonon/kcm/kcm_phonon.desktop:152
+#: phonon/kcm/kcm_phonon.desktop:154
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Sound,Phonon,Audio,Video,Output,Device,Notification,Music,Communication,"
@@ -5887,7 +5887,7 @@ msgctxt "Name"
 msgid "Sound Policy"
 msgstr "ଧ୍ୱନି ନୀତି ସର୍ଭର"
 
-#: phonon/kded-module/phononserver.desktop:71
+#: phonon/kded-module/phononserver.desktop:72
 msgctxt "Comment"
 msgid "Provides sound system policy to applications"
 msgstr ""
@@ -5905,12 +5905,12 @@ msgctxt "Comment"
 msgid "Multimedia System"
 msgstr "ବହୁମାଧ୍ଯମ ଚାଳକ"
 
-#: phonon/platform_kde/phonon.notifyrc:153
+#: phonon/platform_kde/phonon.notifyrc:154
 msgctxt "Name"
 msgid "Audio Output Device Changed"
 msgstr ""
 
-#: phonon/platform_kde/phonon.notifyrc:207
+#: phonon/platform_kde/phonon.notifyrc:208
 msgctxt "Comment"
 msgid "Notification when audio output device has automatically changed"
 msgstr ""
@@ -5933,7 +5933,7 @@ msgctxt "Name"
 msgid "Newspaper Layout"
 msgstr "ନେଟୱର୍କ ଏବଂ ସଂଯୋଜକତା"
 
-#: plasma/containments/newspaper/plasma-containment-newspaper.desktop:59
+#: plasma/containments/newspaper/plasma-containment-newspaper.desktop:60
 msgctxt "Comment"
 msgid "A layout that puts widgets into columns"
 msgstr ""
@@ -5969,7 +5969,7 @@ msgctxt "Name"
 msgid "Javascript Addon"
 msgstr "Java & JavaScript"
 
-#: plasma/scriptengines/javascript/data/plasma-packagestructure-javascript-addon.desktop:59
+#: plasma/scriptengines/javascript/data/plasma-packagestructure-javascript-addon.desktop:60
 msgctxt "Comment"
 msgid "Addons for Javascript Plasma plugins"
 msgstr ""
@@ -5992,7 +5992,7 @@ msgctxt "Name"
 msgid "JavaScript Widget"
 msgstr "JavaScript ୱିଜେଟ"
 
-#: plasma/scriptengines/javascript/data/plasma-scriptengine-applet-simple-javascript.desktop:76
+#: plasma/scriptengines/javascript/data/plasma-scriptengine-applet-simple-javascript.desktop:77
 msgctxt "Comment"
 msgid "Native Plasma widget written in JavaScript"
 msgstr "JavaScriptରେ ଲିଖିତ ସ୍ଥାନୀୟ ପ୍ଲାଜମା ୱିଜେଟ"
@@ -6031,7 +6031,7 @@ msgctxt "Comment"
 msgid "Windows Platform Manager"
 msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ"
 
-#: platforms/win/config/platform.desktop:150
+#: platforms/win/config/platform.desktop:151
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Platinum"
@@ -6054,7 +6054,7 @@ msgctxt "Name"
 msgid "KDED Windows Start Menu Module"
 msgstr "KDED Windows ଆରମ୍ଭ ତାଲିକା ଏକକାଂଶ"
 
-#: platforms/win/kwinstartmenu/winstartmenu.desktop:79
+#: platforms/win/kwinstartmenu/winstartmenu.desktop:80
 msgctxt "Comment"
 msgid "Shortcut icon support"
 msgstr "ସଂକ୍ଷିପ୍ତ ପଥ ଚିତ୍ରସଂକେତ ସମର୍ଥନ"
@@ -6087,7 +6087,7 @@ msgctxt "X-KDE-Keywords"
 msgid "Mount,Removable,Devices,Automatic"
 msgstr "USB ଉପକରଣ"
 
-#: solid-device-automounter/kcm/device_automounter_kcm.desktop:26
+#: solid-device-automounter/kcm/device_automounter_kcm.desktop:27
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "USB Devices"
@@ -6095,7 +6095,7 @@ msgctxt "Name"
 msgid "Removable Devices"
 msgstr "USB ଉପକରଣ"
 
-#: solid-device-automounter/kcm/device_automounter_kcm.desktop:93
+#: solid-device-automounter/kcm/device_automounter_kcm.desktop:94
 msgctxt "Comment"
 msgid "Configure automatic handling of removable storage media"
 msgstr ""
