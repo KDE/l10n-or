@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs.or\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-12-19 16:23+0000\n"
+"POT-Creation-Date: 2011-12-20 17:17+0000\n"
 "PO-Revision-Date: 2008-06-20 13:20+0530\n"
 "Last-Translator: Manoj Kumar Giri <giri.manojkr@gmail.com>\n"
 "Language-Team: Oriya\n"
@@ -1100,6 +1100,11 @@ msgctxt "Name"
 msgid "Embedded Java Applet Viewer"
 msgstr "ସନ୍ନିବେଶିତ ଜାଭା ଏପଲେଟ ପ୍ରଦର୍ଶକ"
 
+#: khtml/khtmladaptorpart.desktop:2
+msgctxt "Name"
+msgid "KHTML Extension Adaptor"
+msgstr "KHTML ଅନୁଲଗ୍ନ ଉପଯୋଜକ"
+
 #: khtml/khtml.desktop:3
 msgctxt "Comment"
 msgid "Embeddable HTML viewing component"
@@ -1109,11 +1114,6 @@ msgstr "ସନ୍ନିବେଶଯୋଗ୍ୟ HTML ପ୍ରଦର୍ଶନୀ
 msgctxt "Name"
 msgid "KHTML"
 msgstr "KHTML"
-
-#: khtml/khtmladaptorpart.desktop:2
-msgctxt "Name"
-msgid "KHTML Extension Adaptor"
-msgstr "KHTML ଅନୁଲଗ୍ନ ଉପଯୋଜକ"
 
 #: khtml/khtmlimage.desktop:3
 msgctxt "Comment"
@@ -1284,11 +1284,6 @@ msgctxt "Comment"
 msgid "Plugin for the Rename Dialog"
 msgstr "ପୁନଃ ନାମକରଣ ସଂଳାପ ପାଇଁ ପ୍ଲଗଇନ"
 
-#: kio/tests/dummymeta.desktop:3
-msgctxt "Name"
-msgid "Dummy Meta"
-msgstr "ନକଲି ମେଟା"
-
 #: kioslave/http/http_cache_cleaner.desktop:3
 msgctxt "Name"
 msgid "HTTP Cache Cleaner"
@@ -1311,6 +1306,11 @@ msgstr "KDED କୁକି ବିରୋଧି ଏକକାଂଶ"
 msgctxt "Comment"
 msgid "Stores network cookies"
 msgstr ""
+
+#: kio/tests/dummymeta.desktop:3
+msgctxt "Name"
+msgid "Dummy Meta"
+msgstr "ନକଲି ମେଟା"
 
 #: knotify/tests/knotifytest.notifyrc:3
 msgctxt "Comment"
@@ -1423,24 +1423,24 @@ msgctxt "Comment"
 msgid "Plasma Animation Engine"
 msgstr ""
 
-#: plasma/data/servicetypes/plasma-applet-popupapplet.desktop:5
-msgctxt "Comment"
-msgid "Plasma scripting popup applet"
-msgstr ""
-
 #: plasma/data/servicetypes/plasma-applet.desktop:5
 msgctxt "Comment"
 msgid "Plasma applet"
 msgstr ""
 
-#: plasma/data/servicetypes/plasma-containment.desktop:5
+#: plasma/data/servicetypes/plasma-applet-popupapplet.desktop:5
 msgctxt "Comment"
-msgid "Plasma applet container and background painter"
+msgid "Plasma scripting popup applet"
 msgstr ""
 
 #: plasma/data/servicetypes/plasma-containmentactions.desktop:5
 msgctxt "Comment"
 msgid "Plasma ContainmentActions"
+msgstr ""
+
+#: plasma/data/servicetypes/plasma-containment.desktop:5
+msgctxt "Comment"
+msgid "Plasma applet container and background painter"
 msgstr ""
 
 #: plasma/data/servicetypes/plasma-dataengine.desktop:5
