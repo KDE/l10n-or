@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libtaskmanager\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-12-21 04:36+0100\n"
+"POT-Creation-Date: 2011-12-22 04:51+0100\n"
 "PO-Revision-Date: 2009-01-02 11:49+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -121,11 +121,6 @@ msgstr ""
 msgid "Launcher:"
 msgstr ""
 
-#: task.cpp:237
-msgctxt "marks that a task has been modified"
-msgid "modified"
-msgstr ""
-
 #: taskactions.cpp:168
 msgid "Mi&nimize"
 msgstr ""
@@ -202,6 +197,11 @@ msgstr ""
 
 #: taskactions.cpp:504
 msgid "&Edit Group"
+msgstr ""
+
+#: task.cpp:237
+msgctxt "marks that a task has been modified"
+msgid "modified"
 msgstr ""
 
 #: strategies/manualgroupingstrategy.cpp:77
