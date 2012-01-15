@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-01-11 04:03+0100\n"
+"POT-Creation-Date: 2012-01-15 03:43+0100\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1187,6 +1187,74 @@ msgctxt "@info:status"
 msgid "A folder cannot be dropped into itself"
 msgstr ""
 
+#: views/dolphinview.cpp:504
+#, kde-format
+msgctxt "@info:status"
+msgid "<filename>%1</filename> selected"
+msgstr "<filename>%1</filename> ବଚ୍ଛିତ"
+
+#: views/dolphinview.cpp:507
+#, kde-format
+msgctxt "@info:status"
+msgid "1 Folder selected"
+msgid_plural "%1 Folders selected"
+msgstr[0] ""
+msgstr[1] "%1 ଫୋଲଡ଼ର ବଛାହୋଇଛି"
+
+#: views/dolphinview.cpp:508
+#, kde-format
+msgctxt "@info:status"
+msgid "1 File selected"
+msgid_plural "%1 Files selected"
+msgstr[0] "1 ଫାଇଲ ବଛାହୋଇଛି"
+msgstr[1] "%1 ଫାଇଲ ବଛାହୋଇଛି"
+
+#: views/dolphinview.cpp:512
+#, fuzzy, kde-format
+#| msgctxt "@label"
+#| msgid "Folder"
+msgctxt "@info:status"
+msgid "1 Folder"
+msgid_plural "%1 Folders"
+msgstr[0] "ଫୋଲଡ଼ର"
+msgstr[1] "ଫୋଲଡ଼ର"
+
+#: views/dolphinview.cpp:513
+#, kde-format
+msgctxt "@info:status"
+msgid "1 File"
+msgid_plural "%1 Files"
+msgstr[0] ""
+msgstr[1] ""
+
+#: views/dolphinview.cpp:517
+#, kde-format
+msgctxt "@info:status folders, files (size)"
+msgid "%1, %2 (%3)"
+msgstr "%1, %2 (%3)"
+
+#: views/dolphinview.cpp:520
+#, kde-format
+msgctxt "@info:status files (size)"
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: views/dolphinview.cpp:1065
+msgctxt "@info:status"
+msgid "Delete operation completed."
+msgstr "ଅପସାରଣ କ୍ରିୟା ସମାପ୍ତହୋଇଛି।"
+
+#: views/dolphinview.cpp:1140
+msgctxt "@info:status"
+msgid "The location is empty."
+msgstr "ସ୍ଥାନଟି ଖାଲିଅଛି।"
+
+#: views/dolphinview.cpp:1142
+#, kde-format
+msgctxt "@info:status"
+msgid "The location '%1' is invalid."
+msgstr "ସ୍ଥାନ '%1' ଟି ଅବୈଧ ଏଟେ।"
+
 #: views/dolphinviewactionhandler.cpp:92
 #, fuzzy
 #| msgctxt "@action:inmenu"
@@ -1390,135 +1458,6 @@ msgctxt "@info"
 msgid "# will be replaced by ascending numbers starting with:"
 msgstr ""
 
-#: views/dolphinview.cpp:507
-#, kde-format
-msgctxt "@info:status"
-msgid "<filename>%1</filename> selected"
-msgstr "<filename>%1</filename> ବଚ୍ଛିତ"
-
-#: views/dolphinview.cpp:510
-#, kde-format
-msgctxt "@info:status"
-msgid "1 Folder selected"
-msgid_plural "%1 Folders selected"
-msgstr[0] ""
-msgstr[1] "%1 ଫୋଲଡ଼ର ବଛାହୋଇଛି"
-
-#: views/dolphinview.cpp:511
-#, kde-format
-msgctxt "@info:status"
-msgid "1 File selected"
-msgid_plural "%1 Files selected"
-msgstr[0] "1 ଫାଇଲ ବଛାହୋଇଛି"
-msgstr[1] "%1 ଫାଇଲ ବଛାହୋଇଛି"
-
-#: views/dolphinview.cpp:515
-#, fuzzy, kde-format
-#| msgctxt "@label"
-#| msgid "Folder"
-msgctxt "@info:status"
-msgid "1 Folder"
-msgid_plural "%1 Folders"
-msgstr[0] "ଫୋଲଡ଼ର"
-msgstr[1] "ଫୋଲଡ଼ର"
-
-#: views/dolphinview.cpp:516
-#, kde-format
-msgctxt "@info:status"
-msgid "1 File"
-msgid_plural "%1 Files"
-msgstr[0] ""
-msgstr[1] ""
-
-#: views/dolphinview.cpp:520
-#, kde-format
-msgctxt "@info:status folders, files (size)"
-msgid "%1, %2 (%3)"
-msgstr "%1, %2 (%3)"
-
-#: views/dolphinview.cpp:523
-#, kde-format
-msgctxt "@info:status files (size)"
-msgid "%1 (%2)"
-msgstr "%1 (%2)"
-
-#: views/dolphinview.cpp:1068
-msgctxt "@info:status"
-msgid "Delete operation completed."
-msgstr "ଅପସାରଣ କ୍ରିୟା ସମାପ୍ତହୋଇଛି।"
-
-#: views/dolphinview.cpp:1143
-msgctxt "@info:status"
-msgid "The location is empty."
-msgstr "ସ୍ଥାନଟି ଖାଲିଅଛି।"
-
-#: views/dolphinview.cpp:1145
-#, kde-format
-msgctxt "@info:status"
-msgid "The location '%1' is invalid."
-msgstr "ସ୍ଥାନ '%1' ଟି ଅବୈଧ ଏଟେ।"
-
-#: dolphincontextmenu.cpp:173
-msgctxt "@action:inmenu"
-msgid "Empty Trash"
-msgstr "ଖାଲି ଆବର୍ଜନା ପାତ୍ର"
-
-#: dolphincontextmenu.cpp:179 dolphincontextmenu.cpp:341
-msgctxt "@action:inmenu Add current folder to places"
-msgid "Add to Places"
-msgstr "ସ୍ଥାନଗୁଡ଼ିକରେ ଯୋଗକରନ୍ତୁ"
-
-#: dolphincontextmenu.cpp:199
-msgctxt "@label"
-msgid "Trash"
-msgstr "ଆବର୍ଜନା ପାତ୍ର"
-
-#: dolphincontextmenu.cpp:209
-msgctxt "@action:inmenu"
-msgid "Restore"
-msgstr "ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ"
-
-#: dolphincontextmenu.cpp:248 dolphinmainwindow.cpp:1589
-msgctxt "@title:menu Create new folder, file, link, etc."
-msgid "Create New"
-msgstr "ନୂତନ ନିର୍ମାଣ କରନ୍ତୁ"
-
-#: dolphincontextmenu.cpp:261
-msgctxt "@action:inmenu Add selected folder to places"
-msgid "Add to Places"
-msgstr "ସ୍ଥାନଗୁଡ଼ିକରେ ଯୋଗ କରନ୍ତୁ"
-
-#: dolphincontextmenu.cpp:268
-msgctxt "@action:inmenu"
-msgid "Open Path in New Window"
-msgstr ""
-
-#: dolphincontextmenu.cpp:274
-msgctxt "@action:inmenu"
-msgid "Open Path in New Tab"
-msgstr ""
-
-#: dolphincontextmenu.cpp:440
-msgctxt "@action:inmenu"
-msgid "Paste Into Folder"
-msgstr "ଫୋଲଡ଼ର ମଧ୍ଯରେ ଲଗାନ୍ତୁ"
-
-#: dolphincontextmenu.cpp:552
-#, fuzzy
-#| msgctxt "@action:inmenu"
-#| msgid "Move To Trash"
-msgctxt "@action:inmenu"
-msgid "&Move to Trash"
-msgstr "ଆବର୍ଜନା ପାତ୍ର ମଧ୍ଯକୁ ପଠାନ୍ତୁ"
-
-#: dolphincontextmenu.cpp:555
-#, fuzzy
-#| msgctxt "@action:inmenu"
-#| msgid "Delete"
-msgctxt "@action:inmenu"
-msgid "&Delete"
-msgstr "ଅପସାରଣ କରନ୍ତୁ"
-
 #: dolphinpart.cpp:145
 msgctxt "@action:inmenu Edit"
 msgid "&Edit File Type..."
@@ -1604,44 +1543,6 @@ msgstr ""
 #: dolphinpart.cpp:469
 msgid "Unselect all items matching this pattern:"
 msgstr ""
-
-#: dolphinviewcontainer.cpp:337
-msgctxt "@info:progress"
-msgid "Loading folder..."
-msgstr "ଫୋଲଡ଼ର ଧାରଣ କରୁଅଛି..."
-
-#: dolphinviewcontainer.cpp:348
-msgctxt "@info"
-msgid "Searching..."
-msgstr ""
-
-#: dolphinviewcontainer.cpp:368
-msgctxt "@info:status"
-msgid "No items found."
-msgstr ""
-
-#: dolphinviewcontainer.cpp:431
-#, fuzzy, kde-format
-#| msgctxt "@info:status files (size)"
-#| msgid "%1 (%2)"
-msgctxt "@info:status filename (type)"
-msgid "%1 (%2)"
-msgstr "%1 (%2)"
-
-#: dolphinviewcontainer.cpp:511
-msgctxt "@info:status"
-msgid "Dolphin does not support web pages, the web browser has been launched"
-msgstr "Dolphin ୱେବ ପୃଷ୍ଟାଗୁଡ଼ିକୁ ସମର୍ଥନ କରେନାହିଁ, ୱେବ ବ୍ରାଉଜର ଆରମ୍ଭ ହୋଇଛି"
-
-#: dolphinviewcontainer.cpp:523
-msgctxt "@info:status"
-msgid "Protocol not supported by Dolphin, Konqueror has been launched"
-msgstr ""
-
-#: dolphinviewcontainer.cpp:530
-msgctxt "@info:status"
-msgid "Invalid protocol"
-msgstr "ଅବୈଧ ପ୍ରୋଟୋକଲ"
 
 #: main.cpp:35
 msgctxt "@title"
@@ -1852,6 +1753,11 @@ msgctxt "@action:inmenu"
 msgid "Help"
 msgstr ""
 
+#: dolphinmainwindow.cpp:1589 dolphincontextmenu.cpp:248
+msgctxt "@title:menu Create new folder, file, link, etc."
+msgid "Create New"
+msgstr "ନୂତନ ନିର୍ମାଣ କରନ୍ତୁ"
+
 #: dolphinmainwindow.cpp:1596
 msgctxt "@action:inmenu File"
 msgid "New &Window"
@@ -2025,6 +1931,100 @@ msgstr ""
 msgctxt "@info"
 msgid "Split view"
 msgstr ""
+
+#: dolphincontextmenu.cpp:173
+msgctxt "@action:inmenu"
+msgid "Empty Trash"
+msgstr "ଖାଲି ଆବର୍ଜନା ପାତ୍ର"
+
+#: dolphincontextmenu.cpp:179 dolphincontextmenu.cpp:341
+msgctxt "@action:inmenu Add current folder to places"
+msgid "Add to Places"
+msgstr "ସ୍ଥାନଗୁଡ଼ିକରେ ଯୋଗକରନ୍ତୁ"
+
+#: dolphincontextmenu.cpp:199
+msgctxt "@label"
+msgid "Trash"
+msgstr "ଆବର୍ଜନା ପାତ୍ର"
+
+#: dolphincontextmenu.cpp:209
+msgctxt "@action:inmenu"
+msgid "Restore"
+msgstr "ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ"
+
+#: dolphincontextmenu.cpp:261
+msgctxt "@action:inmenu Add selected folder to places"
+msgid "Add to Places"
+msgstr "ସ୍ଥାନଗୁଡ଼ିକରେ ଯୋଗ କରନ୍ତୁ"
+
+#: dolphincontextmenu.cpp:268
+msgctxt "@action:inmenu"
+msgid "Open Path in New Window"
+msgstr ""
+
+#: dolphincontextmenu.cpp:274
+msgctxt "@action:inmenu"
+msgid "Open Path in New Tab"
+msgstr ""
+
+#: dolphincontextmenu.cpp:440
+msgctxt "@action:inmenu"
+msgid "Paste Into Folder"
+msgstr "ଫୋଲଡ଼ର ମଧ୍ଯରେ ଲଗାନ୍ତୁ"
+
+#: dolphincontextmenu.cpp:551
+#, fuzzy
+#| msgctxt "@action:inmenu"
+#| msgid "Move To Trash"
+msgctxt "@action:inmenu"
+msgid "&Move to Trash"
+msgstr "ଆବର୍ଜନା ପାତ୍ର ମଧ୍ଯକୁ ପଠାନ୍ତୁ"
+
+#: dolphincontextmenu.cpp:554
+#, fuzzy
+#| msgctxt "@action:inmenu"
+#| msgid "Delete"
+msgctxt "@action:inmenu"
+msgid "&Delete"
+msgstr "ଅପସାରଣ କରନ୍ତୁ"
+
+#: dolphinviewcontainer.cpp:337
+msgctxt "@info:progress"
+msgid "Loading folder..."
+msgstr "ଫୋଲଡ଼ର ଧାରଣ କରୁଅଛି..."
+
+#: dolphinviewcontainer.cpp:348
+msgctxt "@info"
+msgid "Searching..."
+msgstr ""
+
+#: dolphinviewcontainer.cpp:368
+msgctxt "@info:status"
+msgid "No items found."
+msgstr ""
+
+#: dolphinviewcontainer.cpp:436
+#, fuzzy, kde-format
+#| msgctxt "@info:status files (size)"
+#| msgid "%1 (%2)"
+msgctxt "@info:status filename (type)"
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: dolphinviewcontainer.cpp:516
+msgctxt "@info:status"
+msgid "Dolphin does not support web pages, the web browser has been launched"
+msgstr "Dolphin ୱେବ ପୃଷ୍ଟାଗୁଡ଼ିକୁ ସମର୍ଥନ କରେନାହିଁ, ୱେବ ବ୍ରାଉଜର ଆରମ୍ଭ ହୋଇଛି"
+
+#: dolphinviewcontainer.cpp:528
+msgctxt "@info:status"
+msgid "Protocol not supported by Dolphin, Konqueror has been launched"
+msgstr ""
+
+#: dolphinviewcontainer.cpp:535
+msgctxt "@info:status"
+msgid "Invalid protocol"
+msgstr "ଅବୈଧ ପ୍ରୋଟୋକଲ"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
