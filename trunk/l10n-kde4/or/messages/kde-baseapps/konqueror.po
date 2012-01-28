@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-01-10 04:05+0100\n"
+"POT-Creation-Date: 2012-01-28 04:12+0100\n"
 "PO-Revision-Date: 2008-12-26 16:53+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -612,56 +612,6 @@ msgstr "ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ପ୍ରତ୍ୟ�
 msgid "&Discard Changes"
 msgstr "ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ପ୍ରତ୍ୟାଖ୍ଯାନ କରନ୍ତୁ (&D)"
 
-#: src/konqtabs.cpp:66
-msgid ""
-"This bar contains the list of currently open tabs. Click on a tab to make it "
-"active. You can also use keyboard shortcuts to navigate through tabs. The "
-"text on the tab shows the content currently open in it; place your mouse "
-"over the tab to see the full title, in case it has been shortened to fit the "
-"tab width."
-msgstr ""
-
-#: src/konqtabs.cpp:100
-msgid "Open a new tab"
-msgstr "ଗୋଟିଏ ନୂତନ ଟ୍ୟାବ ଖୋଲନ୍ତୁ"
-
-#: src/konqtabs.cpp:109
-msgid "Close the current tab"
-msgstr "ବର୍ତ୍ତମାନ ଖୋଲାଯାଇଥିବା ଟ୍ୟାବକୁ ବନ୍ଦକରନ୍ତୁ"
-
-#: src/konqtabs.cpp:326 src/konqmainwindow.cpp:3683
-msgid "&Reload All Tabs"
-msgstr "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ (&R)"
-
-#: src/konqtabs.cpp:349 src/konqmainwindow.cpp:2496
-#: src/konqmainwindow.cpp:3621
-msgid "Close &Other Tabs"
-msgstr "ଅନ୍ୟାନ୍ୟ ଟ୍ୟାବଗୁଡ଼ିକୁ ବନ୍ଦକରନ୍ତୁ (&O)"
-
-#: src/konqtabs.cpp:460 src/konqmainwindow.cpp:3594
-msgid "&New Tab"
-msgstr "ନୂତନ ଟ୍ୟାବ (&N)"
-
-#: src/konqtabs.cpp:465
-msgid "&Duplicate Tab"
-msgstr "ନକଲି ଟ୍ୟାବ (&D)"
-
-#: src/konqtabs.cpp:470
-msgid "&Reload Tab"
-msgstr "ଟ୍ୟାବକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ (&R)"
-
-#: src/konqtabs.cpp:477
-msgid "Other Tabs"
-msgstr "ଅନ୍ୟାନ୍ୟ ଟ୍ୟାବଗୁଡ଼ିକ"
-
-#: src/konqtabs.cpp:482
-msgid "D&etach Tab"
-msgstr "ଟ୍ୟାବକୁ ପୃଥକ କରନ୍ତୁ (&e)"
-
-#: src/konqtabs.cpp:488
-msgid "&Close Tab"
-msgstr "ଟ୍ୟାବକୁ ବନ୍ଦକରନ୍ତୁ (&C)"
-
 #: src/konqview.cpp:1203
 msgid ""
 "The page you are trying to view is the result of posted form data. If you "
@@ -778,6 +728,11 @@ msgstr "କଣ ଆପଣ ପ୍ରକୃତରେ ଅନ୍ୟ ସମସ୍ତ �
 msgctxt "@title:window"
 msgid "Close Other Tabs Confirmation"
 msgstr "ଅନ୍ୟାନ୍ୟ ଟ୍ୟାବଗୁଡ଼ିକୁ ବନ୍ଦକରିବାର ନିଶ୍ଚିତକରଣ"
+
+#: src/konqmainwindow.cpp:2496 src/konqmainwindow.cpp:3621
+#: src/konqtabs.cpp:352
+msgid "Close &Other Tabs"
+msgstr "ଅନ୍ୟାନ୍ୟ ଟ୍ୟାବଗୁଡ଼ିକୁ ବନ୍ଦକରନ୍ତୁ (&O)"
 
 #: src/konqmainwindow.cpp:2511
 msgid ""
@@ -922,6 +877,10 @@ msgstr "ବିଭାଜିତ ଦୃଶ୍ୟ ବାମ/ଡ଼ାହାଣ (&L)"
 msgid "Split View &Top/Bottom"
 msgstr "ବିଭାଜିତ ଦୃଶ୍ୟ ଉପର/ତଳ (&T)"
 
+#: src/konqmainwindow.cpp:3594 src/konqtabs.cpp:463
+msgid "&New Tab"
+msgstr "ନୂତନ ଟ୍ୟାବ (&N)"
+
 #: src/konqmainwindow.cpp:3600
 msgid "&Duplicate Current Tab"
 msgstr "ନକଲି ପ୍ରଚଳିତ ଟ୍ୟାବ (&D)"
@@ -974,6 +933,10 @@ msgstr "ଦୃଶ୍ୟ ରୂପରେଖକୁ ଧାରଣ କରନ୍ତୁ
 #: src/konqmainwindow.cpp:3678 sidebar/web_module/web_module.cpp:68
 msgid "&Reload"
 msgstr "ପୁନର୍ଧାରଣ କରନ୍ତୁ (&R)"
+
+#: src/konqmainwindow.cpp:3683 src/konqtabs.cpp:329
+msgid "&Reload All Tabs"
+msgstr "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ (&R)"
 
 #: src/konqmainwindow.cpp:3691
 msgid "&Force Reload"
@@ -1305,6 +1268,43 @@ msgid ""
 msgstr ""
 "ସେଠାରେ ଗୋଟିଏ ସଂରଚନା ତ୍ରୁଟି ଦେଖାଯାଉଛି। ଆପଣଙ୍କ ପାଖରେ %1 ସହିତ ସମ୍ବନ୍ଧିତ Konqueror ଅଛି, କିନ୍ତୁ "
 "ଏହି ଫାଇଲ ପ୍ରକାରକୁ ନିୟନ୍ତ୍ରଣ କରିପାରିବ ନାହିଁ।"
+
+#: src/konqtabs.cpp:66
+msgid ""
+"This bar contains the list of currently open tabs. Click on a tab to make it "
+"active. You can also use keyboard shortcuts to navigate through tabs. The "
+"text on the tab shows the content currently open in it; place your mouse "
+"over the tab to see the full title, in case it has been shortened to fit the "
+"tab width."
+msgstr ""
+
+#: src/konqtabs.cpp:100
+msgid "Open a new tab"
+msgstr "ଗୋଟିଏ ନୂତନ ଟ୍ୟାବ ଖୋଲନ୍ତୁ"
+
+#: src/konqtabs.cpp:109
+msgid "Close the current tab"
+msgstr "ବର୍ତ୍ତମାନ ଖୋଲାଯାଇଥିବା ଟ୍ୟାବକୁ ବନ୍ଦକରନ୍ତୁ"
+
+#: src/konqtabs.cpp:468
+msgid "&Duplicate Tab"
+msgstr "ନକଲି ଟ୍ୟାବ (&D)"
+
+#: src/konqtabs.cpp:473
+msgid "&Reload Tab"
+msgstr "ଟ୍ୟାବକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ (&R)"
+
+#: src/konqtabs.cpp:480
+msgid "Other Tabs"
+msgstr "ଅନ୍ୟାନ୍ୟ ଟ୍ୟାବଗୁଡ଼ିକ"
+
+#: src/konqtabs.cpp:485
+msgid "D&etach Tab"
+msgstr "ଟ୍ୟାବକୁ ପୃଥକ କରନ୍ତୁ (&e)"
+
+#: src/konqtabs.cpp:491
+msgid "&Close Tab"
+msgstr "ଟ୍ୟାବକୁ ବନ୍ଦକରନ୍ତୁ (&C)"
 
 #: sidebar/history_module/history_module.cpp:126
 #, fuzzy
