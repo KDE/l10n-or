@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-01-28 04:18+0100\n"
+"POT-Creation-Date: 2012-01-29 03:03+0100\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -4984,7 +4984,7 @@ msgid "Connection timed out"
 msgstr "ସଂଯୋଗ ସ୍ଥାପନ ସମୟ ସମାପ୍ତ"
 
 #: kdecore/network/klocalsocket_unix.cpp:213
-#: kdecore/network/klocalsocket_unix.cpp:293 nepomuk/core/resource.cpp:538
+#: kdecore/network/klocalsocket_unix.cpp:293 nepomuk/core/resource.cpp:539
 msgid "Unknown error"
 msgstr "ଅଜଣା ତ୍ରୁଟି"
 
@@ -5524,8 +5524,8 @@ msgstr "ଅବସ୍ଥିତି ପଟି ଦର୍ଶାନ୍ତୁ (&a)"
 #| "Show Statusbar<br /><br />Shows the statusbar, which is the bar at the "
 #| "bottom of the window used for status information."
 msgid ""
-"Show Statusbar<br /><br />Shows the statusbar, which is the bar at the "
-"bottom of the window used for status information."
+"Show Statusbar<p>Shows the statusbar, which is the bar at the bottom of the "
+"window used for status information.</p>"
 msgstr ""
 "ଅବସ୍ଥିତି ପଟି ଦର୍ଶାନ୍ତୁ<br /><br />ଅବସ୍ଥିତି ପଟିକୁ ଦର୍ଶାନ୍ତୁ, ଯେଉଁ ପଟିଟି ୱିଣ୍ଡୋ ତଳଭାଗରେ ଅବସ୍ଥିତି ସୂଚନା "
 "ପାଇଁ ବ୍ୟବହୃତ ହୁଏ।"
@@ -7066,18 +7066,12 @@ msgctxt "@info:whatsthis"
 msgid "Here you can choose the font style to be used."
 msgstr "ଏଠାରେ ଆପଣ ବ୍ୟବହାର କରିବାକୁ ଚାହୁଁଥିବା ଅକ୍ଷରରୂପ ଶୈଳୀକୁ ବାଛିପାରିବେ।"
 
-#: kdeui/fonts/kfontchooser.cpp:295 kdeui/fonts/kfontchooser.cpp:623
-#: kdeui/fonts/kfontchooser.cpp:640
-msgctxt "@item font"
-msgid "Regular"
-msgstr "ନିୟମିତ"
-
-#: kdeui/fonts/kfontchooser.cpp:296 kdeui/fonts/kfontchooser.cpp:644
+#: kdeui/fonts/kfontchooser.cpp:296 kdeui/fonts/kfontchooser.cpp:639
 msgctxt "@item font"
 msgid "Italic"
 msgstr "ଇଟାଲୀୟ"
 
-#: kdeui/fonts/kfontchooser.cpp:297 kdeui/fonts/kfontchooser.cpp:645
+#: kdeui/fonts/kfontchooser.cpp:297 kdeui/fonts/kfontchooser.cpp:640
 msgctxt "@item font"
 msgid "Oblique"
 msgstr "ତିର୍ଯ୍ୟକ"
@@ -7135,7 +7129,7 @@ msgstr "ବାସ୍ତବିକ ଅକ୍ଷରରୂପ"
 #. noun-adjective congruence wrt. gender of the family name).
 #. The message provides the dynamic context 'family', which is
 #. the family name to which the style string corresponds.
-#: kdeui/fonts/kfontchooser.cpp:630
+#: kdeui/fonts/kfontchooser.cpp:625
 #, kde-format
 msgctxt "@item Font style"
 msgid "%1"
@@ -9424,66 +9418,6 @@ msgstr "ଉପରକୁ ଗତିକରନ୍ତୁ (&G)"
 msgid "Move &Down"
 msgstr "ତଳକୁ ଗତିକରନ୍ତୁ (&D)"
 
-#. i18n: Placeholder text in line edit widgets is the text appearing
-#. before any user input, briefly explaining to the user what to type
-#. (e.g. "Enter search pattern").
-#. By default the text is set in italic, which may not be appropriate
-#. for some languages and scripts (e.g. for CJK ideographs).
-#. i18n: Placeholder text in text edit widgets is the text appearing
-#. before any user input, briefly explaining to the user what to type
-#. (e.g. "Enter message").
-#. By default the text is set in italic, which may not be appropriate
-#. for some languages and scripts (e.g. for CJK ideographs).
-#: kdeui/widgets/klineedit.cpp:87 kdeui/widgets/ktextedit.cpp:79
-msgctxt "Italic placeholder text in line edits: 0 no, 1 yes"
-msgid "1"
-msgstr "1"
-
-#: kdeui/widgets/klineedit.cpp:296
-msgctxt "@action:button Clear current text in the line edit"
-msgid "Clear text"
-msgstr "ପାଠ୍ୟ ସଫାକରନ୍ତୁ"
-
-#: kdeui/widgets/klineedit.cpp:1216
-msgctxt "@title:menu"
-msgid "Text Completion"
-msgstr "ପାଠ୍ୟ ସମାପ୍ତି"
-
-#: kdeui/widgets/klineedit.cpp:1223
-msgctxt "@item:inmenu Text Completion"
-msgid "None"
-msgstr "କେହିନୁହଁ"
-
-#: kdeui/widgets/klineedit.cpp:1224
-msgctxt "@item:inmenu Text Completion"
-msgid "Manual"
-msgstr "ହସ୍ତକୃତ"
-
-#: kdeui/widgets/klineedit.cpp:1225
-msgctxt "@item:inmenu Text Completion"
-msgid "Automatic"
-msgstr "ସ୍ବୟଂଚାଳିତ"
-
-#: kdeui/widgets/klineedit.cpp:1226
-msgctxt "@item:inmenu Text Completion"
-msgid "Dropdown List"
-msgstr ""
-
-#: kdeui/widgets/klineedit.cpp:1227
-msgctxt "@item:inmenu Text Completion"
-msgid "Short Automatic"
-msgstr "ସଂକ୍ଷିପ୍ତ ସ୍ୱୟଂଚାଳିତ"
-
-#: kdeui/widgets/klineedit.cpp:1228
-msgctxt "@item:inmenu Text Completion"
-msgid "Dropdown List && Automatic"
-msgstr ""
-
-#: kdeui/widgets/klineedit.cpp:1259
-msgctxt "@item:inmenu Text Completion"
-msgid "Default"
-msgstr "ପୂର୍ବ ନିର୍ଦ୍ଧାରିତ"
-
 #: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:936
 msgid "Clear &History"
 msgstr "ଇତିହାସ ସଫାକରନ୍ତୁ (&H)"
@@ -9606,6 +9540,21 @@ msgstr "ଅସମର୍ଥିତ କି"
 #: kdeui/widgets/klanguagebutton.cpp:177
 msgid "without name"
 msgstr "ନାମ ବିନା"
+
+#. i18n: Placeholder text in text edit widgets is the text appearing
+#. before any user input, briefly explaining to the user what to type
+#. (e.g. "Enter message").
+#. By default the text is set in italic, which may not be appropriate
+#. for some languages and scripts (e.g. for CJK ideographs).
+#. i18n: Placeholder text in line edit widgets is the text appearing
+#. before any user input, briefly explaining to the user what to type
+#. (e.g. "Enter search pattern").
+#. By default the text is set in italic, which may not be appropriate
+#. for some languages and scripts (e.g. for CJK ideographs).
+#: kdeui/widgets/ktextedit.cpp:79 kdeui/widgets/klineedit.cpp:87
+msgctxt "Italic placeholder text in line edits: 0 no, 1 yes"
+msgid "1"
+msgstr "1"
 
 #: kdeui/widgets/ktextedit.cpp:527
 #, fuzzy
@@ -9835,6 +9784,51 @@ msgstr "ଉର୍ଦ୍ଧଲିପି"
 #: kdeui/widgets/ksqueezedtextlabel.cpp:165
 msgid "&Copy Full Text"
 msgstr "ସମ୍ପୂର୍ଣ୍ଣ ପାଠ୍ୟ ନକଲ କରନ୍ତୁ (&C)"
+
+#: kdeui/widgets/klineedit.cpp:296
+msgctxt "@action:button Clear current text in the line edit"
+msgid "Clear text"
+msgstr "ପାଠ୍ୟ ସଫାକରନ୍ତୁ"
+
+#: kdeui/widgets/klineedit.cpp:1213
+msgctxt "@title:menu"
+msgid "Text Completion"
+msgstr "ପାଠ୍ୟ ସମାପ୍ତି"
+
+#: kdeui/widgets/klineedit.cpp:1220
+msgctxt "@item:inmenu Text Completion"
+msgid "None"
+msgstr "କେହିନୁହଁ"
+
+#: kdeui/widgets/klineedit.cpp:1221
+msgctxt "@item:inmenu Text Completion"
+msgid "Manual"
+msgstr "ହସ୍ତକୃତ"
+
+#: kdeui/widgets/klineedit.cpp:1222
+msgctxt "@item:inmenu Text Completion"
+msgid "Automatic"
+msgstr "ସ୍ବୟଂଚାଳିତ"
+
+#: kdeui/widgets/klineedit.cpp:1223
+msgctxt "@item:inmenu Text Completion"
+msgid "Dropdown List"
+msgstr ""
+
+#: kdeui/widgets/klineedit.cpp:1224
+msgctxt "@item:inmenu Text Completion"
+msgid "Short Automatic"
+msgstr "ସଂକ୍ଷିପ୍ତ ସ୍ୱୟଂଚାଳିତ"
+
+#: kdeui/widgets/klineedit.cpp:1225
+msgctxt "@item:inmenu Text Completion"
+msgid "Dropdown List && Automatic"
+msgstr ""
+
+#: kdeui/widgets/klineedit.cpp:1256
+msgctxt "@item:inmenu Text Completion"
+msgid "Default"
+msgstr "ପୂର୍ବ ନିର୍ଦ୍ଧାରିତ"
 
 #: kdeui/widgets/ktimezonewidget.cpp:66
 msgctxt "Define an area in the time zone, like a town area"
@@ -12954,15 +12948,15 @@ msgstr "ଯନ୍ତ୍ରାଂଶଗୁଡିକୁ ଚୟନ କରନ୍ତ�
 msgid "Enable component"
 msgstr "ଉପାଦାନକୁ ସକ୍ରିୟ କରନ୍ତୁ"
 
-#: nepomuk/core/resource.cpp:532
+#: nepomuk/core/resource.cpp:533
 msgid "Success"
 msgstr "ସଫଳ"
 
-#: nepomuk/core/resource.cpp:534
+#: nepomuk/core/resource.cpp:535
 msgid "Communication error"
 msgstr "ସଞ୍ଚାର ତ୍ରୁଟି"
 
-#: nepomuk/core/resource.cpp:536
+#: nepomuk/core/resource.cpp:537
 msgid "Invalid type in Database"
 msgstr "ତଥ୍ୟାବଳୀରେ ଅବୈଧ ଟାଇପ"
 
@@ -13789,6 +13783,10 @@ msgstr "ପୂର୍ବାହ୍ନ"
 #: kdecore/date/kdatetime.cpp:2991
 msgid "pm"
 msgstr "ଅପରାହ୍ନ"
+
+#~ msgctxt "@item font"
+#~ msgid "Regular"
+#~ msgstr "ନିୟମିତ"
 
 #~ msgid "What's &This"
 #~ msgstr "ଏହା କଣ ଅଟେ (&T)"
