@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-01-29 13:30+0100\n"
+"POT-Creation-Date: 2012-02-14 18:12+0100\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -2429,27 +2429,6 @@ msgstr "ଲୁଚାନ୍ତୁ %1"
 msgid "Show %1"
 msgstr "ଦର୍ଶାନ୍ତୁ %1"
 
-#: kde3support/kdeui/k3listviewsearchline.cpp:287
-#: kdeui/itemviews/ktreewidgetsearchline.cpp:420
-msgid "Search Columns"
-msgstr "ସ୍ତମ୍ଭଗୁଡିକୁ ଖୋଜନ୍ତୁ"
-
-#: kde3support/kdeui/k3listviewsearchline.cpp:290
-#: kdeui/itemviews/ktreewidgetsearchline.cpp:422
-msgid "All Visible Columns"
-msgstr "ସମସ୍ତ ଦୃଶ୍ୟମାନ ସ୍ତମ୍ଭଗୁଡିକ"
-
-#: kde3support/kdeui/k3listviewsearchline.cpp:307
-#, kde-format
-msgctxt "Column number %1"
-msgid "Column No. %1"
-msgstr "ସ୍ତମ୍ଭ ସଂଖ୍ୟା. %1"
-
-#: kde3support/kdeui/k3listviewsearchline.cpp:557
-#: kdeui/itemviews/ktreewidgetsearchline.cpp:601
-msgid "S&earch:"
-msgstr "ଖୋଜନ୍ତୁ (&e):"
-
 #: kde3support/kdeui/k3sconfig.cpp:110
 msgctxt "@option:check"
 msgid "Do Spellchecking"
@@ -2661,58 +2640,6 @@ msgctxt "@item Spelling dictionary"
 msgid "<application>Hunspell</application> Default"
 msgstr "<application>ISpell</application> ପୂର୍ବ ନିର୍ଦ୍ଧାରିତ"
 
-#: kde3support/kdeui/k3spell.cpp:1290
-msgid "You have to restart the dialog for changes to take effect"
-msgstr "ଆପଣଙ୍କୁ ପରିବର୍ତ୍ତନ ଘଟାଇବାକୁ ହେଲେ ଏହି ସଂଳାପକୁ ପୁନଃଆରମ୍ଭ କରିବାକୁ ପଡିବ"
-
-#: kde3support/kdeui/k3spell.cpp:1526
-msgid "Spell Checker"
-msgstr "ବନାନ ଯାଞ୍ଚକାରି"
-
-#: kde3support/kdeui/k3spelldlg.cpp:49
-msgid "Check Spelling"
-msgstr "ବନାନ ଯାଞ୍ଚ କରନ୍ତୁ"
-
-#: kde3support/kdeui/k3spelldlg.cpp:53
-msgid "&Finished"
-msgstr "ସମାପ୍ତ ହେଲା (&F)"
-
-#: kde3support/kdeui/k3syntaxhighlighter.cpp:470
-#: kde3support/kdeui/k3syntaxhighlighter.cpp:576
-#: kdeui/sonnet/highlighter.cpp:242 kdeui/sonnet/highlighter.cpp:265
-msgid "As-you-type spell checking enabled."
-msgstr "ଆପଣ ଟାଇପ କଲାମାତ୍ରେ ବନାନ ଯାଞ୍ଚ ସକ୍ରିୟ ହୋଇଯିବ।"
-
-#: kde3support/kdeui/k3syntaxhighlighter.cpp:472
-#: kdeui/sonnet/highlighter.cpp:267
-msgid "As-you-type spell checking disabled."
-msgstr "ଆପଣ ଟାଇପ କଲାମାତ୍ରେ ବନାନ ଯାଞ୍ଚ ନିଷ୍କ୍ରିୟ ହୋଇଯିବ।"
-
-#: kde3support/kdeui/k3syntaxhighlighter.cpp:519
-msgid "Incremental Spellcheck"
-msgstr "କ୍ରମବର୍ଦ୍ଦୀ ବନାନଯାଞ୍ଚ"
-
-#: kde3support/kdeui/k3syntaxhighlighter.cpp:578
-#: kdeui/sonnet/highlighter.cpp:244
-msgid "Too many misspelled words. As-you-type spell checking disabled."
-msgstr "ଅତ୍ୟଧିକ ବନାନଭୁଲ ଶବ୍ଦଗୁଡିଏ। ଆପଣ ଟାଇପ କଲାମାତ୍ରେ ବନାନ ଯାଞ୍ଚ ନିଷ୍କ୍ରିୟ ହୋଇଯିବ।"
-
-#: kde3support/kdeui/k3textedit.cpp:232 kdeui/widgets/ktextedit.cpp:493
-msgid "Check Spelling..."
-msgstr "ବନାନ ଯାଞ୍ଚକରନ୍ତୁ..."
-
-#: kde3support/kdeui/k3textedit.cpp:238 kdeui/widgets/ktextedit.cpp:496
-msgid "Auto Spell Check"
-msgstr "ସ୍ୱୟଂ ବନାନ ଯାଞ୍ଚ"
-
-#: kde3support/kdeui/k3textedit.cpp:242 kdeui/widgets/ktextedit.cpp:500
-msgid "Allow Tabulations"
-msgstr "ସାରଣୀକରଣକୁ ଅନୁମତି ଦିଅନ୍ତୁ"
-
-#: kde3support/kdeui/k3textedit.cpp:348
-msgid "Spell Checking"
-msgstr "ବନାନ ଯାଞ୍ଚ କରାଯାଉଛି"
-
 #: kde3support/kdeui/k3wizard.cpp:48
 msgid "&Back"
 msgstr "କଳା (&B)"
@@ -2721,6 +2648,55 @@ msgstr "କଳା (&B)"
 msgctxt "Opposite to Back"
 msgid "&Next"
 msgstr "ପରବର୍ତ୍ତୀ (&N)"
+
+#: kde3support/kdeui/k3command.cpp:389
+#, kde-format
+msgid "Undo: %1"
+msgstr "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ: %1"
+
+#: kde3support/kdeui/k3command.cpp:395
+#, kde-format
+msgid "Redo: %1"
+msgstr "ପୁଣି କରନ୍ତୁ: %1"
+
+#: kde3support/kdeui/k3command.cpp:422 kdeui/actions/kstandardaction_p.h:55
+msgid "&Undo"
+msgstr "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ (&U)"
+
+#: kde3support/kdeui/k3command.cpp:422
+msgid "&Redo"
+msgstr "ପୁଣି କରନ୍ତୁ (&R)"
+
+#: kde3support/kdeui/k3command.cpp:427
+#, kde-format
+msgid "&Undo: %1"
+msgstr "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ (&U): %1"
+
+#: kde3support/kdeui/k3command.cpp:430
+#, kde-format
+msgid "&Redo: %1"
+msgstr "ପୁଣି କରନ୍ତୁ (&R): %1"
+
+#: kde3support/kdeui/k3listviewsearchline.cpp:287
+#: kdeui/itemviews/ktreewidgetsearchline.cpp:420
+msgid "Search Columns"
+msgstr "ସ୍ତମ୍ଭଗୁଡିକୁ ଖୋଜନ୍ତୁ"
+
+#: kde3support/kdeui/k3listviewsearchline.cpp:290
+#: kdeui/itemviews/ktreewidgetsearchline.cpp:422
+msgid "All Visible Columns"
+msgstr "ସମସ୍ତ ଦୃଶ୍ୟମାନ ସ୍ତମ୍ଭଗୁଡିକ"
+
+#: kde3support/kdeui/k3listviewsearchline.cpp:307
+#, kde-format
+msgctxt "Column number %1"
+msgid "Column No. %1"
+msgstr "ସ୍ତମ୍ଭ ସଂଖ୍ୟା. %1"
+
+#: kde3support/kdeui/k3listviewsearchline.cpp:557
+#: kdeui/itemviews/ktreewidgetsearchline.cpp:601
+msgid "S&earch:"
+msgstr "ଖୋଜନ୍ତୁ (&e):"
 
 #: kde3support/kdeui/k3passworddialog.cpp:358
 msgid "&Password:"
@@ -2798,33 +2774,57 @@ msgstr[1] "ପ୍ରବେଶ ସଂକେତଟି ଅତିକମରେ %1 ଅ
 msgid "Passwords match"
 msgstr "ପ୍ରବେଶ ସଂକେତ ମେଳକ"
 
-#: kde3support/kdeui/k3command.cpp:389
-#, kde-format
-msgid "Undo: %1"
-msgstr "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ: %1"
+#: kde3support/kdeui/k3spell.cpp:1290
+msgid "You have to restart the dialog for changes to take effect"
+msgstr "ଆପଣଙ୍କୁ ପରିବର୍ତ୍ତନ ଘଟାଇବାକୁ ହେଲେ ଏହି ସଂଳାପକୁ ପୁନଃଆରମ୍ଭ କରିବାକୁ ପଡିବ"
 
-#: kde3support/kdeui/k3command.cpp:395
-#, kde-format
-msgid "Redo: %1"
-msgstr "ପୁଣି କରନ୍ତୁ: %1"
+#: kde3support/kdeui/k3spell.cpp:1526
+msgid "Spell Checker"
+msgstr "ବନାନ ଯାଞ୍ଚକାରି"
 
-#: kde3support/kdeui/k3command.cpp:422 kdeui/actions/kstandardaction_p.h:55
-msgid "&Undo"
-msgstr "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ (&U)"
+#: kde3support/kdeui/k3spelldlg.cpp:49
+msgid "Check Spelling"
+msgstr "ବନାନ ଯାଞ୍ଚ କରନ୍ତୁ"
 
-#: kde3support/kdeui/k3command.cpp:422
-msgid "&Redo"
-msgstr "ପୁଣି କରନ୍ତୁ (&R)"
+#: kde3support/kdeui/k3spelldlg.cpp:53
+msgid "&Finished"
+msgstr "ସମାପ୍ତ ହେଲା (&F)"
 
-#: kde3support/kdeui/k3command.cpp:427
-#, kde-format
-msgid "&Undo: %1"
-msgstr "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ (&U): %1"
+#: kde3support/kdeui/k3syntaxhighlighter.cpp:470
+#: kde3support/kdeui/k3syntaxhighlighter.cpp:576
+#: kdeui/sonnet/highlighter.cpp:242 kdeui/sonnet/highlighter.cpp:265
+msgid "As-you-type spell checking enabled."
+msgstr "ଆପଣ ଟାଇପ କଲାମାତ୍ରେ ବନାନ ଯାଞ୍ଚ ସକ୍ରିୟ ହୋଇଯିବ।"
 
-#: kde3support/kdeui/k3command.cpp:430
-#, kde-format
-msgid "&Redo: %1"
-msgstr "ପୁଣି କରନ୍ତୁ (&R): %1"
+#: kde3support/kdeui/k3syntaxhighlighter.cpp:472
+#: kdeui/sonnet/highlighter.cpp:267
+msgid "As-you-type spell checking disabled."
+msgstr "ଆପଣ ଟାଇପ କଲାମାତ୍ରେ ବନାନ ଯାଞ୍ଚ ନିଷ୍କ୍ରିୟ ହୋଇଯିବ।"
+
+#: kde3support/kdeui/k3syntaxhighlighter.cpp:519
+msgid "Incremental Spellcheck"
+msgstr "କ୍ରମବର୍ଦ୍ଦୀ ବନାନଯାଞ୍ଚ"
+
+#: kde3support/kdeui/k3syntaxhighlighter.cpp:578
+#: kdeui/sonnet/highlighter.cpp:244
+msgid "Too many misspelled words. As-you-type spell checking disabled."
+msgstr "ଅତ୍ୟଧିକ ବନାନଭୁଲ ଶବ୍ଦଗୁଡିଏ। ଆପଣ ଟାଇପ କଲାମାତ୍ରେ ବନାନ ଯାଞ୍ଚ ନିଷ୍କ୍ରିୟ ହୋଇଯିବ।"
+
+#: kde3support/kdeui/k3textedit.cpp:232 kdeui/widgets/ktextedit.cpp:493
+msgid "Check Spelling..."
+msgstr "ବନାନ ଯାଞ୍ଚକରନ୍ତୁ..."
+
+#: kde3support/kdeui/k3textedit.cpp:238 kdeui/widgets/ktextedit.cpp:496
+msgid "Auto Spell Check"
+msgstr "ସ୍ୱୟଂ ବନାନ ଯାଞ୍ଚ"
+
+#: kde3support/kdeui/k3textedit.cpp:242 kdeui/widgets/ktextedit.cpp:500
+msgid "Allow Tabulations"
+msgstr "ସାରଣୀକରଣକୁ ଅନୁମତି ଦିଅନ୍ତୁ"
+
+#: kde3support/kdeui/k3textedit.cpp:348
+msgid "Spell Checking"
+msgstr "ବନାନ ଯାଞ୍ଚ କରାଯାଉଛି"
 
 #: kde3support/kio/kfile/k3fileview.cpp:123
 msgid "Unknown View"
@@ -4810,60 +4810,6 @@ msgctxt "concatenation of date/time and time zone"
 msgid "%1 %2"
 msgstr "%1 %2"
 
-#: kdecore/network/k3resolver.cpp:545 kdecore/network/netsupp.cpp:891
-msgid "no error"
-msgstr "ତ୍ରୁଟି ନାହିଁ"
-
-#: kdecore/network/k3resolver.cpp:546
-msgid "requested family not supported for this host name"
-msgstr "ଅନୁରୋଧିତ ପରିବାର ଏହି ହୋଷ୍ଟ ନାମ ପାଇଁ ସମର୍ଥିତ ନୁହଁ"
-
-#: kdecore/network/k3resolver.cpp:547 kdecore/network/netsupp.cpp:893
-msgid "temporary failure in name resolution"
-msgstr "ନାମ ବିଭେଦନ କରିବାରେ ଅସ୍ଥାୟୀ ବିଫଳତା"
-
-#: kdecore/network/k3resolver.cpp:548 kdecore/network/netsupp.cpp:895
-msgid "non-recoverable failure in name resolution"
-msgstr "ନାମ ବିଭେଦନରେ ପୁନଃ ପ୍ରାପ୍ତି ଅଯୋଗ୍ୟ ବିଫଳତା"
-
-#: kdecore/network/k3resolver.cpp:549
-msgid "invalid flags"
-msgstr "ଅବୈଧ ଚିହ୍ନକଗୁଡିକ"
-
-#: kdecore/network/k3resolver.cpp:550 kdecore/network/netsupp.cpp:897
-msgid "memory allocation failure"
-msgstr "ସ୍ମୃତି ବଣ୍ଟନ ବିଫଳ"
-
-#: kdecore/network/k3resolver.cpp:551 kdecore/network/netsupp.cpp:899
-msgid "name or service not known"
-msgstr "ନାମ କିମ୍ବା ସର୍ଭିସ ଜଣା ନାହିଁ"
-
-#: kdecore/network/k3resolver.cpp:552
-msgid "requested family not supported"
-msgstr "ଅନୁରୋଧିତ ପରିବାର ସମର୍ଥିତ ନୁହଁ"
-
-#: kdecore/network/k3resolver.cpp:553
-msgid "requested service not supported for this socket type"
-msgstr "ଅନୁରୋଧିତ ସେବା ଏହି ସକେଟ ପ୍ରକାର ପାଇଁ ସମର୍ଥିତ ନୁହଁ"
-
-#: kdecore/network/k3resolver.cpp:554
-msgid "requested socket type not supported"
-msgstr "ଅନୁରୋଧିତ ସକେଟ ପ୍ରକାର ସମର୍ଥିତ ନୁହଁ"
-
-#: kdecore/network/k3resolver.cpp:555
-msgid "unknown error"
-msgstr "ଅଜଣା ତୃଟି"
-
-#: kdecore/network/k3resolver.cpp:557
-#, kde-format
-msgctxt "1: the i18n'ed system error code, from errno"
-msgid "system error: %1"
-msgstr "ତନ୍ତ୍ର ତ୍ରୁଟି: %1"
-
-#: kdecore/network/k3resolver.cpp:568
-msgid "request was canceled"
-msgstr "ଅନୁରୋଧଟି ବାତିଲ ହୋଇଗଲା"
-
 #: kdecore/network/k3socketaddress.cpp:623
 #, kde-format
 msgctxt "1: the unknown socket address family number"
@@ -5035,21 +4981,41 @@ msgstr "ଅଜଣା ତ୍ରୁଟି"
 msgid "Operation not supported"
 msgstr "ପ୍ରଚାଳନଟି ସମର୍ଥିତ ନୁହଁ"
 
+#: kdecore/network/netsupp.cpp:891 kdecore/network/k3resolver.cpp:545
+msgid "no error"
+msgstr "ତ୍ରୁଟି ନାହିଁ"
+
 #: kdecore/network/netsupp.cpp:892
 msgid "address family for nodename not supported"
 msgstr "ନୋଡ ନାମ ପାଇଁ ଠିକଣା ପରିବାର ସମର୍ଥିତ ନୁହଁ"
+
+#: kdecore/network/netsupp.cpp:893 kdecore/network/k3resolver.cpp:547
+msgid "temporary failure in name resolution"
+msgstr "ନାମ ବିଭେଦନ କରିବାରେ ଅସ୍ଥାୟୀ ବିଫଳତା"
 
 #: kdecore/network/netsupp.cpp:894
 msgid "invalid value for 'ai_flags'"
 msgstr "'ai_flags' ପାଇଁ ଅବୈଧ ମୂଲ୍ୟ"
 
+#: kdecore/network/netsupp.cpp:895 kdecore/network/k3resolver.cpp:548
+msgid "non-recoverable failure in name resolution"
+msgstr "ନାମ ବିଭେଦନରେ ପୁନଃ ପ୍ରାପ୍ତି ଅଯୋଗ୍ୟ ବିଫଳତା"
+
 #: kdecore/network/netsupp.cpp:896
 msgid "'ai_family' not supported"
 msgstr "'ai_family' ସମର୍ଥିତ ନୁହଁ"
 
+#: kdecore/network/netsupp.cpp:897 kdecore/network/k3resolver.cpp:550
+msgid "memory allocation failure"
+msgstr "ସ୍ମୃତି ବଣ୍ଟନ ବିଫଳ"
+
 #: kdecore/network/netsupp.cpp:898
 msgid "no address associated with nodename"
 msgstr "କୌଣସି ଠିକଣା ନୋଡ ନାମ ସହିତ ସଂଶ୍ଳିଷ୍ଟ ନାହିଁ"
+
+#: kdecore/network/netsupp.cpp:899 kdecore/network/k3resolver.cpp:551
+msgid "name or service not known"
+msgstr "ନାମ କିମ୍ବା ସର୍ଭିସ ଜଣା ନାହିଁ"
 
 #: kdecore/network/netsupp.cpp:900
 msgid "servname not supported for ai_socktype"
@@ -5075,6 +5041,40 @@ msgstr "Dante SOCKS ଗ୍ରାହକ"
 #: kdecore/network/ksocketfactory.cpp:106
 msgid "Timed out trying to connect to remote host"
 msgstr "ସୁଦୁର ହୋଷ୍ଟ ସହିତ ସଂଯୋଗ ସ୍ଥାପନ କରିବାକୁ ପ୍ରଚେଷ୍ଟା କରିବା ସମୟରେ ସମୟ ସମାପ୍ତ ହୋଇଗଲା"
+
+#: kdecore/network/k3resolver.cpp:546
+msgid "requested family not supported for this host name"
+msgstr "ଅନୁରୋଧିତ ପରିବାର ଏହି ହୋଷ୍ଟ ନାମ ପାଇଁ ସମର୍ଥିତ ନୁହଁ"
+
+#: kdecore/network/k3resolver.cpp:549
+msgid "invalid flags"
+msgstr "ଅବୈଧ ଚିହ୍ନକଗୁଡିକ"
+
+#: kdecore/network/k3resolver.cpp:552
+msgid "requested family not supported"
+msgstr "ଅନୁରୋଧିତ ପରିବାର ସମର୍ଥିତ ନୁହଁ"
+
+#: kdecore/network/k3resolver.cpp:553
+msgid "requested service not supported for this socket type"
+msgstr "ଅନୁରୋଧିତ ସେବା ଏହି ସକେଟ ପ୍ରକାର ପାଇଁ ସମର୍ଥିତ ନୁହଁ"
+
+#: kdecore/network/k3resolver.cpp:554
+msgid "requested socket type not supported"
+msgstr "ଅନୁରୋଧିତ ସକେଟ ପ୍ରକାର ସମର୍ଥିତ ନୁହଁ"
+
+#: kdecore/network/k3resolver.cpp:555
+msgid "unknown error"
+msgstr "ଅଜଣା ତୃଟି"
+
+#: kdecore/network/k3resolver.cpp:557
+#, kde-format
+msgctxt "1: the i18n'ed system error code, from errno"
+msgid "system error: %1"
+msgstr "ତନ୍ତ୍ର ତ୍ରୁଟି: %1"
+
+#: kdecore/network/k3resolver.cpp:568
+msgid "request was canceled"
+msgstr "ଅନୁରୋଧଟି ବାତିଲ ହୋଇଗଲା"
 
 #: kdecore/network/ktcpsocket.cpp:152
 #, fuzzy
@@ -5441,50 +5441,6 @@ msgctxt "Encodings menu"
 msgid "Autodetect"
 msgstr "ସ୍ୱୟଂ ଅନୁସନ୍ଧାନ"
 
-#: kdeui/actions/kstandardaction.cpp:93 kdeui/util/kstandardguiitem.cpp:210
-msgctxt "go back"
-msgid "&Back"
-msgstr "କଳା (&B)"
-
-#: kdeui/actions/kstandardaction.cpp:99 kdeui/util/kstandardguiitem.cpp:218
-msgctxt "go forward"
-msgid "&Forward"
-msgstr "ଆଗକୁ (&F)"
-
-#: kdeui/actions/kstandardaction.cpp:105
-msgctxt "home page"
-msgid "&Home"
-msgstr "ମୂଳ ସ୍ଥାନ (&H)"
-
-#: kdeui/actions/kstandardaction.cpp:108 kdeui/util/kstandardguiitem.cpp:178
-msgctxt "show help"
-msgid "&Help"
-msgstr "ସହାୟତା (&H)"
-
-#: kdeui/actions/kstandardaction.cpp:516 kdeui/actions/kstandardaction_p.h:98
-msgid "Show &Menubar"
-msgstr "ତାଲିକା ପଟି ଦର୍ଶାନ୍ତୁ (&M)"
-
-#: kdeui/actions/kstandardaction.cpp:522
-msgid "Show Menubar<p>Shows the menubar again after it has been hidden</p>"
-msgstr "ତାଲିକା ପଟି ଦର୍ଶାନ୍ତୁ<p>ଏହା ଲୁଚିଗଲାପରେ ତାଲିକା ପଟିକୁ ପୁଣିଥରେ ଦର୍ଶାନ୍ତୁ</p>"
-
-#: kdeui/actions/kstandardaction.cpp:539 kdeui/actions/kstandardaction_p.h:100
-msgid "Show St&atusbar"
-msgstr "ଅବସ୍ଥିତି ପଟି ଦର୍ଶାନ୍ତୁ (&a)"
-
-#: kdeui/actions/kstandardaction.cpp:542
-#, fuzzy
-#| msgid ""
-#| "Show Statusbar<br /><br />Shows the statusbar, which is the bar at the "
-#| "bottom of the window used for status information."
-msgid ""
-"Show Statusbar<br /><br />Shows the statusbar, which is the bar at the "
-"bottom of the window used for status information."
-msgstr ""
-"ଅବସ୍ଥିତି ପଟି ଦର୍ଶାନ୍ତୁ<br /><br />ଅବସ୍ଥିତି ପଟିକୁ ଦର୍ଶାନ୍ତୁ, ଯେଉଁ ପଟିଟି ୱିଣ୍ଡୋ ତଳଭାଗରେ ଅବସ୍ଥିତି ସୂଚନା "
-"ପାଇଁ ବ୍ୟବହୃତ ହୁଏ।"
-
 #: kdeui/actions/ktogglefullscreenaction.cpp:48
 #: kdeui/actions/ktogglefullscreenaction.cpp:55
 #: kdeui/actions/ktogglefullscreenaction.cpp:85
@@ -5530,6 +5486,50 @@ msgstr "କୌଣସି ଭରଣ ନାହିଁ"
 msgid "Clear List"
 msgstr "ନିବେଶ ସଫାକରନ୍ତୁ"
 
+#: kdeui/actions/kstandardaction.cpp:93 kdeui/util/kstandardguiitem.cpp:210
+msgctxt "go back"
+msgid "&Back"
+msgstr "କଳା (&B)"
+
+#: kdeui/actions/kstandardaction.cpp:99 kdeui/util/kstandardguiitem.cpp:218
+msgctxt "go forward"
+msgid "&Forward"
+msgstr "ଆଗକୁ (&F)"
+
+#: kdeui/actions/kstandardaction.cpp:105
+msgctxt "home page"
+msgid "&Home"
+msgstr "ମୂଳ ସ୍ଥାନ (&H)"
+
+#: kdeui/actions/kstandardaction.cpp:108 kdeui/util/kstandardguiitem.cpp:178
+msgctxt "show help"
+msgid "&Help"
+msgstr "ସହାୟତା (&H)"
+
+#: kdeui/actions/kstandardaction.cpp:516 kdeui/actions/kstandardaction_p.h:98
+msgid "Show &Menubar"
+msgstr "ତାଲିକା ପଟି ଦର୍ଶାନ୍ତୁ (&M)"
+
+#: kdeui/actions/kstandardaction.cpp:522
+msgid "Show Menubar<p>Shows the menubar again after it has been hidden</p>"
+msgstr "ତାଲିକା ପଟି ଦର୍ଶାନ୍ତୁ<p>ଏହା ଲୁଚିଗଲାପରେ ତାଲିକା ପଟିକୁ ପୁଣିଥରେ ଦର୍ଶାନ୍ତୁ</p>"
+
+#: kdeui/actions/kstandardaction.cpp:539 kdeui/actions/kstandardaction_p.h:100
+msgid "Show St&atusbar"
+msgstr "ଅବସ୍ଥିତି ପଟି ଦର୍ଶାନ୍ତୁ (&a)"
+
+#: kdeui/actions/kstandardaction.cpp:542
+#, fuzzy
+#| msgid ""
+#| "Show Statusbar<br /><br />Shows the statusbar, which is the bar at the "
+#| "bottom of the window used for status information."
+msgid ""
+"Show Statusbar<br /><br />Shows the statusbar, which is the bar at the "
+"bottom of the window used for status information."
+msgstr ""
+"ଅବସ୍ଥିତି ପଟି ଦର୍ଶାନ୍ତୁ<br /><br />ଅବସ୍ଥିତି ପଟିକୁ ଦର୍ଶାନ୍ତୁ, ଯେଉଁ ପଟିଟି ୱିଣ୍ଡୋ ତଳଭାଗରେ ଅବସ୍ଥିତି ସୂଚନା "
+"ପାଇଁ ବ୍ୟବହୃତ ହୁଏ।"
+
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:84
 msgid ""
 "<qt>No information available.<br />The supplied KAboutData object does not "
@@ -5570,6 +5570,66 @@ msgstr "ଅନୁମତି ପତ୍ର: %1"
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:312
 msgid "License Agreement"
 msgstr "ଲାଇସେନ୍ସ ରାଜିନାମା"
+
+#: kdeui/dialogs/kpassworddialog.cpp:70
+msgid "Password"
+msgstr "ପ୍ରବେଶ ସଙ୍କେତ"
+
+#: kdeui/dialogs/kshortcutseditor.cpp:127
+#: kdeui/widgets/kcharselectdata.cpp:685
+msgid "Unknown"
+msgstr "ଅଜଣା"
+
+#: kdeui/dialogs/kshortcutseditor.cpp:570
+#: kdeui/dialogs/kshortcutseditor.cpp:586
+msgid "Key Conflict"
+msgstr "କି ଦ୍ୱନ୍ଦ"
+
+#: kdeui/dialogs/kshortcutseditor.cpp:571
+#, kde-format
+msgid ""
+"The '%1' shape gesture has already been allocated to the \"%2\" action.\n"
+"Do you want to reassign it from that action to the current one?"
+msgstr ""
+
+#: kdeui/dialogs/kshortcutseditor.cpp:575
+#: kdeui/dialogs/kshortcutseditor.cpp:591 kdeui/shortcuts/kglobalaccel.cpp:547
+#: kdeui/shortcuts/kglobalaccel.cpp:587
+#: kdeui/widgets/kkeysequencewidget.cpp:146
+#: kdeui/widgets/kkeysequencewidget.cpp:235
+#: kdeui/widgets/kkeysequencewidget.cpp:632
+msgid "Reassign"
+msgstr "ପୁନଃ ନିରୂପଣ କରିବା"
+
+#: kdeui/dialogs/kshortcutseditor.cpp:587
+#, kde-format
+msgid ""
+"The '%1' rocker gesture has already been allocated to the \"%2\" action.\n"
+"Do you want to reassign it from that action to the current one?"
+msgstr ""
+
+#: kdeui/dialogs/kshortcutseditor.cpp:630
+#, kde-format
+msgctxt "header for an applications shortcut list"
+msgid "Shortcuts for %1"
+msgstr "%1 ପାଇଁ ସଂକ୍ଷିପ୍ତ ପଥ"
+
+#: kdeui/dialogs/kshortcutseditor.cpp:650
+msgid "Global:"
+msgstr "ଜାଗତିକ:"
+
+#: kdeui/dialogs/kshortcutseditor.cpp:665
+msgid "Action Name"
+msgstr "କାର୍ଯ୍ୟ ନାମ"
+
+#: kdeui/dialogs/kshortcutseditor.cpp:669
+msgid "Shortcuts"
+msgstr "ସଂକ୍ଷିପ୍ତ ପଥ"
+
+#: kdeui/dialogs/kshortcutseditor.cpp:673
+#: knewstuff/knewstuff2/ui/kdxstranslation.cpp:47
+msgid "Description"
+msgstr "ବର୍ଣ୍ଣନା"
 
 #: kdeui/dialogs/kaboutkdedialog_p.cpp:42
 msgid "About KDE"
@@ -5772,37 +5832,60 @@ msgstr "%1"
 msgid "Change Icon"
 msgstr "ଚିତ୍ର ସଂକେତ ପରିବର୍ତ୍ତନ କରନ୍ତୁ"
 
-#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:90
-msgid "Print Immediately"
-msgstr "ଅତିଶିଘ୍ର ମୁଦ୍ରଣ କରନ୍ତୁ"
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:98
+msgid "Switch Application Language"
+msgstr "ପ୍ରୟୋଗ ଭାଷା ପରିବର୍ତ୍ତନ କରନ୍ତୁ"
 
-#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:91
-msgid "Hold Indefinitely"
-msgstr "ଅନିଶ୍ଚିତ ସମୟ ପାଇଁ ଧରି ରଖନ୍ତୁ"
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:108
+msgid "Please choose the language which should be used for this application:"
+msgstr "ଦୟାକରି ସେହି ଭାଷାକୁ ବାଛନ୍ତୁ ଯେଉଁଟାକି ଏହି ପ୍ରୟୋଗ ପାଇଁ ବ୍ୟବହାର ହେବା ଉଚିତ:"
 
-#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:92
-msgid "Day (06:00 to 17:59)"
-msgstr "ଦିନ (06:00 ରୁ 17:59)"
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:136
+msgid "Add Fallback Language"
+msgstr "ଶେଷ ଅବଲମ୍ବନ ଭାଷା ଯୋଗକରନ୍ତୁ"
 
-#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:93
-msgid "Night (18:00 to 05:59)"
-msgstr "ରାତ୍ରି (18:00 ରୁ 05:59)"
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:137
+msgid ""
+"Adds one more language which will be used if other translations do not "
+"contain a proper translation."
+msgstr ""
 
-#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:94
-msgid "Second Shift (16:00 to 23:59)"
-msgstr "ଦ୍ୱିତୀୟ ଶିଫ୍ଟ (16:00 ରୁ 23:59)"
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:227
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:255
+msgid ""
+"The language for this application has been changed. The change will take "
+"effect the next time the application is started."
+msgstr ""
 
-#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:95
-msgid "Third Shift (00:00 to 07:59)"
-msgstr "ତୃତୀୟ ଶିଫ୍ଟ (00:00 ରୁ 07:59)"
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:228
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:256
+msgid "Application Language Changed"
+msgstr "ପ୍ରୟୋଗ ଭାଷା ପରିବର୍ତ୍ତନ ହୋଇଯାଇଛି"
 
-#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:96
-msgid "Weekend (Saturday to Sunday)"
-msgstr "ସପ୍ତାହାନ୍ତ (ଶନିବାର ରୁ ରବିବାର)"
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:323
+msgid "Primary language:"
+msgstr "ପ୍ରାଥମିକ ଭାଷା:"
 
-#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:97
-msgid "Specific Time"
-msgstr "ନିର୍ଦ୍ଦିଷ୍ଟ ସମୟ"
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:323
+msgid "Fallback language:"
+msgstr "ଶେଷ ଅବଲମ୍ବନ ଭାଷା:"
+
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:343
+#: kdeui/util/kstandardguiitem.cpp:291 kross/ui/view.cpp:329
+msgid "Remove"
+msgstr "କାଢ଼ନ୍ତୁ"
+
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:354
+msgid ""
+"This is the main application language which will be used first, before any "
+"other languages."
+msgstr ""
+
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:355
+msgid ""
+"This is the language which will be used if any previous languages do not "
+"contain a proper translation."
+msgstr ""
 
 #: kdeui/dialogs/kcupsoptionspageswidget_p.cpp:167
 msgid "Left to Right, Top to Bottom"
@@ -5928,30 +6011,6 @@ msgctxt "@title:window"
 msgid "Print"
 msgstr "ମୂଦ୍ରଣ କରନ୍ତୁ"
 
-#: kdeui/dialogs/klinkdialog.cpp:49
-msgid "Manage Link"
-msgstr "ସଂଯୋଗ ପରିଚାଳନ କରନ୍ତୁ"
-
-#: kdeui/dialogs/klinkdialog.cpp:58
-msgid "Link Text:"
-msgstr "ସଂଯୋଗ ପାଠ୍ୟ:"
-
-#: kdeui/dialogs/klinkdialog.cpp:61
-msgid "Link URL:"
-msgstr "ସଂଯୋଗ URL:"
-
-#: kdeui/dialogs/kpassworddialog.cpp:70
-msgid "Password"
-msgstr "ପ୍ରବେଶ ସଙ୍କେତ"
-
-#: kdeui/dialogs/kpixmapregionselectordialog.cpp:64
-msgid "Select Region of Image"
-msgstr "ପ୍ରତିଛବିର ଅଞ୍ଚଳ ଚୟନ କରନ୍ତୁ"
-
-#: kdeui/dialogs/kpixmapregionselectordialog.cpp:68
-msgid "Please click and drag on the image to select the region of interest:"
-msgstr "ପସନ୍ଦଯୋଗ୍ୟ ସ୍ଥାନ ଚୟନ କରିବା ପାଇଁ ପ୍ରତିଛବି ଉପରେ ଦବାଇକରି ଟାଣନ୍ତୁ:"
-
 #: kdeui/dialogs/kshortcuteditwidget.cpp:59
 msgid "Default:"
 msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ:"
@@ -5966,6 +6025,14 @@ msgstr "କେହିନୁହଁ"
 #: kdeui/dialogs/kshortcuteditwidget.cpp:66
 msgid "Custom:"
 msgstr "ଇଚ୍ଛାରୂପଣ:"
+
+#: kdeui/dialogs/kpixmapregionselectordialog.cpp:64
+msgid "Select Region of Image"
+msgstr "ପ୍ରତିଛବିର ଅଞ୍ଚଳ ଚୟନ କରନ୍ତୁ"
+
+#: kdeui/dialogs/kpixmapregionselectordialog.cpp:68
+msgid "Please click and drag on the image to select the region of interest:"
+msgstr "ପସନ୍ଦଯୋଗ୍ୟ ସ୍ଥାନ ଚୟନ କରିବା ପାଇଁ ପ୍ରତିଛବି ଉପରେ ଦବାଇକରି ଟାଣନ୍ତୁ:"
 
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:41
 msgid "Shortcut Schemes"
@@ -6046,123 +6113,6 @@ msgstr "ମୂଦ୍ରଣ କରନ୍ତୁ"
 msgid "Reset to Defaults"
 msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ ଭାବରେ ପୁନର୍ବିନ୍ୟାସ କରନ୍ତୁ"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:127
-#: kdeui/widgets/kcharselectdata.cpp:685
-msgid "Unknown"
-msgstr "ଅଜଣା"
-
-#: kdeui/dialogs/kshortcutseditor.cpp:570
-#: kdeui/dialogs/kshortcutseditor.cpp:586
-msgid "Key Conflict"
-msgstr "କି ଦ୍ୱନ୍ଦ"
-
-#: kdeui/dialogs/kshortcutseditor.cpp:571
-#, kde-format
-msgid ""
-"The '%1' shape gesture has already been allocated to the \"%2\" action.\n"
-"Do you want to reassign it from that action to the current one?"
-msgstr ""
-
-#: kdeui/dialogs/kshortcutseditor.cpp:575
-#: kdeui/dialogs/kshortcutseditor.cpp:591 kdeui/shortcuts/kglobalaccel.cpp:547
-#: kdeui/shortcuts/kglobalaccel.cpp:587
-#: kdeui/widgets/kkeysequencewidget.cpp:146
-#: kdeui/widgets/kkeysequencewidget.cpp:235
-#: kdeui/widgets/kkeysequencewidget.cpp:632
-msgid "Reassign"
-msgstr "ପୁନଃ ନିରୂପଣ କରିବା"
-
-#: kdeui/dialogs/kshortcutseditor.cpp:587
-#, kde-format
-msgid ""
-"The '%1' rocker gesture has already been allocated to the \"%2\" action.\n"
-"Do you want to reassign it from that action to the current one?"
-msgstr ""
-
-#: kdeui/dialogs/kshortcutseditor.cpp:630
-#, kde-format
-msgctxt "header for an applications shortcut list"
-msgid "Shortcuts for %1"
-msgstr "%1 ପାଇଁ ସଂକ୍ଷିପ୍ତ ପଥ"
-
-#: kdeui/dialogs/kshortcutseditor.cpp:650
-msgid "Global:"
-msgstr "ଜାଗତିକ:"
-
-#: kdeui/dialogs/kshortcutseditor.cpp:665
-msgid "Action Name"
-msgstr "କାର୍ଯ୍ୟ ନାମ"
-
-#: kdeui/dialogs/kshortcutseditor.cpp:669
-msgid "Shortcuts"
-msgstr "ସଂକ୍ଷିପ୍ତ ପଥ"
-
-#: kdeui/dialogs/kshortcutseditor.cpp:673
-#: knewstuff/knewstuff2/ui/kdxstranslation.cpp:47
-msgid "Description"
-msgstr "ବର୍ଣ୍ଣନା"
-
-#: kdeui/dialogs/kshortcutseditoritem.cpp:45
-#, kde-format
-msgctxt "@item:intable Action name in shortcuts configuration"
-msgid "%1"
-msgstr "%1"
-
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:98
-msgid "Switch Application Language"
-msgstr "ପ୍ରୟୋଗ ଭାଷା ପରିବର୍ତ୍ତନ କରନ୍ତୁ"
-
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:108
-msgid "Please choose the language which should be used for this application:"
-msgstr "ଦୟାକରି ସେହି ଭାଷାକୁ ବାଛନ୍ତୁ ଯେଉଁଟାକି ଏହି ପ୍ରୟୋଗ ପାଇଁ ବ୍ୟବହାର ହେବା ଉଚିତ:"
-
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:136
-msgid "Add Fallback Language"
-msgstr "ଶେଷ ଅବଲମ୍ବନ ଭାଷା ଯୋଗକରନ୍ତୁ"
-
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:137
-msgid ""
-"Adds one more language which will be used if other translations do not "
-"contain a proper translation."
-msgstr ""
-
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:227
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:255
-msgid ""
-"The language for this application has been changed. The change will take "
-"effect the next time the application is started."
-msgstr ""
-
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:228
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:256
-msgid "Application Language Changed"
-msgstr "ପ୍ରୟୋଗ ଭାଷା ପରିବର୍ତ୍ତନ ହୋଇଯାଇଛି"
-
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:323
-msgid "Primary language:"
-msgstr "ପ୍ରାଥମିକ ଭାଷା:"
-
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:323
-msgid "Fallback language:"
-msgstr "ଶେଷ ଅବଲମ୍ବନ ଭାଷା:"
-
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:343
-#: kdeui/util/kstandardguiitem.cpp:291 kross/ui/view.cpp:329
-msgid "Remove"
-msgstr "କାଢ଼ନ୍ତୁ"
-
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:354
-msgid ""
-"This is the main application language which will be used first, before any "
-"other languages."
-msgstr ""
-
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:355
-msgid ""
-"This is the language which will be used if any previous languages do not "
-"contain a proper translation."
-msgstr ""
-
 #: kdeui/dialogs/ktip.cpp:230
 msgid "Tip of the Day"
 msgstr "ଆଜିର ସୂଚନା"
@@ -6179,6 +6129,12 @@ msgstr "ପ୍ରାରମ୍ଭିକ ସମୟରେ ସୂଚନା ଦର୍
 msgctxt "Opposite to Previous"
 msgid "&Next"
 msgstr "ପରବର୍ତ୍ତୀ (&N)"
+
+#: kdeui/dialogs/kshortcutseditoritem.cpp:45
+#, kde-format
+msgctxt "@item:intable Action name in shortcuts configuration"
+msgid "%1"
+msgstr "%1"
 
 #: kdeui/dialogs/kaboutapplicationpersonmodel_p.cpp:205
 #, fuzzy, kde-format
@@ -6397,6 +6353,38 @@ msgstr ""
 msgid "Close Message"
 msgstr "ସନ୍ଦେଶ ବନ୍ଦ କରନ୍ତୁ"
 
+#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:90
+msgid "Print Immediately"
+msgstr "ଅତିଶିଘ୍ର ମୁଦ୍ରଣ କରନ୍ତୁ"
+
+#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:91
+msgid "Hold Indefinitely"
+msgstr "ଅନିଶ୍ଚିତ ସମୟ ପାଇଁ ଧରି ରଖନ୍ତୁ"
+
+#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:92
+msgid "Day (06:00 to 17:59)"
+msgstr "ଦିନ (06:00 ରୁ 17:59)"
+
+#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:93
+msgid "Night (18:00 to 05:59)"
+msgstr "ରାତ୍ରି (18:00 ରୁ 05:59)"
+
+#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:94
+msgid "Second Shift (16:00 to 23:59)"
+msgstr "ଦ୍ୱିତୀୟ ଶିଫ୍ଟ (16:00 ରୁ 23:59)"
+
+#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:95
+msgid "Third Shift (00:00 to 07:59)"
+msgstr "ତୃତୀୟ ଶିଫ୍ଟ (00:00 ରୁ 07:59)"
+
+#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:96
+msgid "Weekend (Saturday to Sunday)"
+msgstr "ସପ୍ତାହାନ୍ତ (ଶନିବାର ରୁ ରବିବାର)"
+
+#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:97
+msgid "Specific Time"
+msgstr "ନିର୍ଦ୍ଦିଷ୍ଟ ସମୟ"
+
 #: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:60
 #, fuzzy
 #| msgid "Other Contributors:"
@@ -6569,6 +6557,42 @@ msgstr "ପରବର୍ତ୍ତୀ"
 #: knewstuff/knewstuff3/uploaddialog.cpp:370
 msgid "Finish"
 msgstr "ସମାପ୍ତ"
+
+#: kdeui/dialogs/klinkdialog.cpp:49
+msgid "Manage Link"
+msgstr "ସଂଯୋଗ ପରିଚାଳନ କରନ୍ତୁ"
+
+#: kdeui/dialogs/klinkdialog.cpp:58
+msgid "Link Text:"
+msgstr "ସଂଯୋଗ ପାଠ୍ୟ:"
+
+#: kdeui/dialogs/klinkdialog.cpp:61
+msgid "Link URL:"
+msgstr "ସଂଯୋଗ URL:"
+
+#: kdeui/findreplace/kreplacedialog.cpp:154
+#, kde-format
+msgid "Your replacement string is referencing a capture greater than '\\%1', "
+msgstr ""
+
+#: kdeui/findreplace/kreplacedialog.cpp:156
+#, kde-format
+msgid "but your pattern only defines 1 capture."
+msgid_plural "but your pattern only defines %1 captures."
+msgstr[0] ""
+msgstr[1] ""
+
+#: kdeui/findreplace/kreplacedialog.cpp:158
+msgid "but your pattern defines no captures."
+msgstr ""
+
+#: kdeui/findreplace/kreplacedialog.cpp:159
+msgid ""
+"\n"
+"Please correct."
+msgstr ""
+"\n"
+"ଦୟାକରି ଠିକ କରନ୍ତୁ।"
 
 #: kdeui/findreplace/kfind.cpp:50
 msgid "Find Next"
@@ -6870,30 +6894,6 @@ msgctxt "@action:button Stop find & replace"
 msgid "Stop"
 msgstr "ବିରାମ କରନ୍ତୁ"
 
-#: kdeui/findreplace/kreplacedialog.cpp:154
-#, kde-format
-msgid "Your replacement string is referencing a capture greater than '\\%1', "
-msgstr ""
-
-#: kdeui/findreplace/kreplacedialog.cpp:156
-#, kde-format
-msgid "but your pattern only defines 1 capture."
-msgid_plural "but your pattern only defines %1 captures."
-msgstr[0] ""
-msgstr[1] ""
-
-#: kdeui/findreplace/kreplacedialog.cpp:158
-msgid "but your pattern defines no captures."
-msgstr ""
-
-#: kdeui/findreplace/kreplacedialog.cpp:159
-msgid ""
-"\n"
-"Please correct."
-msgstr ""
-"\n"
-"ଦୟାକରି ଠିକ କରନ୍ତୁ।"
-
 #. i18n: Generic sans serif font presented in font choosers. When selected,
 #. the system will choose a real font, mandated by distro settings.
 #: kdeui/fonts/fonthelpers.cpp:32
@@ -6949,44 +6949,6 @@ msgstr ""
 msgctxt "Numeric IDs of scripts for font previews"
 msgid "1"
 msgstr "1"
-
-#: kdeui/fonts/kfontdialog.cpp:75
-msgid "Select Font"
-msgstr "ଅକ୍ଷରରୂପ ଚୟନ କରନ୍ତୁ"
-
-#: kdeui/fonts/kfontrequester.cpp:110
-msgid "Choose..."
-msgstr "ପସନ୍ଦ କରନ୍ତୁ..."
-
-#: kdeui/fonts/kfontrequester.cpp:215
-msgid "Click to select a font"
-msgstr "ଗୋଟିଏ ଅକ୍ଷରରୂପ ଚୟନ କରିବା ପାଇଁ ଦବାନ୍ତୁ"
-
-#: kdeui/fonts/kfontrequester.cpp:222
-msgid "Preview of the selected font"
-msgstr "ବଚ୍ଛିତ ଅକ୍ଷରରୂପର ପ୍ରାକଦର୍ଶନ"
-
-#: kdeui/fonts/kfontrequester.cpp:223
-msgid ""
-"This is a preview of the selected font. You can change it by clicking the "
-"\"Choose...\" button."
-msgstr ""
-"ବଚ୍ଛିତ ଅକ୍ଷରରୂପର ଏହା ଗୋଟିଏ ପ୍ରାକଦର୍ଶନ। \"ଚୟନ କରନ୍ତୁ...\" ବଟନ ଦବାଇ ଆପଣ ଏହାକୁ ବଦଳାଇ "
-"ପାରିବେ।"
-
-#: kdeui/fonts/kfontrequester.cpp:228
-#, kde-format
-msgid "Preview of the \"%1\" font"
-msgstr "\"%1\" ଅକ୍ଷରରୂପର ପ୍ରାକଦର୍ଶନ"
-
-#: kdeui/fonts/kfontrequester.cpp:229
-#, kde-format
-msgid ""
-"This is a preview of the \"%1\" font. You can change it by clicking the "
-"\"Choose...\" button."
-msgstr ""
-"\"%1\" ଅକ୍ଷରରୂପର ଏହା ଗୋଟିଏ ପ୍ରାକଦର୍ଶନ। \"ଚୟନ କରନ୍ତୁ...\" ବଟନ ଦବାଇ ଆପଣ ଏହାକୁ ବଦଳାଇ "
-"ପାରିବେ।"
 
 #: kdeui/fonts/kfontchooser.cpp:162
 msgctxt "@info:whatsthis"
@@ -7140,6 +7102,44 @@ msgstr "ବାସ୍ତବିକ ଅକ୍ଷରରୂପ"
 msgctxt "@item Font style"
 msgid "%1"
 msgstr "%1"
+
+#: kdeui/fonts/kfontdialog.cpp:75
+msgid "Select Font"
+msgstr "ଅକ୍ଷରରୂପ ଚୟନ କରନ୍ତୁ"
+
+#: kdeui/fonts/kfontrequester.cpp:110
+msgid "Choose..."
+msgstr "ପସନ୍ଦ କରନ୍ତୁ..."
+
+#: kdeui/fonts/kfontrequester.cpp:215
+msgid "Click to select a font"
+msgstr "ଗୋଟିଏ ଅକ୍ଷରରୂପ ଚୟନ କରିବା ପାଇଁ ଦବାନ୍ତୁ"
+
+#: kdeui/fonts/kfontrequester.cpp:222
+msgid "Preview of the selected font"
+msgstr "ବଚ୍ଛିତ ଅକ୍ଷରରୂପର ପ୍ରାକଦର୍ଶନ"
+
+#: kdeui/fonts/kfontrequester.cpp:223
+msgid ""
+"This is a preview of the selected font. You can change it by clicking the "
+"\"Choose...\" button."
+msgstr ""
+"ବଚ୍ଛିତ ଅକ୍ଷରରୂପର ଏହା ଗୋଟିଏ ପ୍ରାକଦର୍ଶନ। \"ଚୟନ କରନ୍ତୁ...\" ବଟନ ଦବାଇ ଆପଣ ଏହାକୁ ବଦଳାଇ "
+"ପାରିବେ।"
+
+#: kdeui/fonts/kfontrequester.cpp:228
+#, kde-format
+msgid "Preview of the \"%1\" font"
+msgstr "\"%1\" ଅକ୍ଷରରୂପର ପ୍ରାକଦର୍ଶନ"
+
+#: kdeui/fonts/kfontrequester.cpp:229
+#, kde-format
+msgid ""
+"This is a preview of the \"%1\" font. You can change it by clicking the "
+"\"Choose...\" button."
+msgstr ""
+"\"%1\" ଅକ୍ଷରରୂପର ଏହା ଗୋଟିଏ ପ୍ରାକଦର୍ଶନ। \"ଚୟନ କରନ୍ତୁ...\" ବଟନ ଦବାଇ ଆପଣ ଏହାକୁ ବଦଳାଇ "
+"ପାରିବେ।"
 
 #: kdeui/itemviews/kfilterproxysearchline.cpp:73
 #: nepomuk/utils/searchwidget.cpp:142
@@ -7302,31 +7302,31 @@ msgstr "ଶୈଳୀ %1 ମିଳୁନାହିଁ"
 msgid "Unknown Application"
 msgstr "ଅଜଣା ପ୍ରୟୋଗ"
 
-#: kdeui/notifications/ksystemtrayicon.cpp:156
-msgid "Minimize"
-msgstr "କ୍ଷୁଦ୍ରତମ କରନ୍ତୁ"
-
-#: kdeui/notifications/ksystemtrayicon.cpp:215
 #: kdeui/notifications/kstatusnotifieritem.cpp:488
 #: kdeui/notifications/kstatusnotifieritem.cpp:926
+#: kdeui/notifications/ksystemtrayicon.cpp:215
 msgid "&Minimize"
 msgstr "କ୍ଷୁଦ୍ରତମ କରନ୍ତୁ (&M)"
 
-#: kdeui/notifications/ksystemtrayicon.cpp:219
 #: kdeui/notifications/kstatusnotifieritem.cpp:924
+#: kdeui/notifications/ksystemtrayicon.cpp:219
 msgid "&Restore"
 msgstr "ପୁନଃସ୍ଥାପନ କରନ୍ତୁ (&R)"
 
-#: kdeui/notifications/ksystemtrayicon.cpp:239
 #: kdeui/notifications/kstatusnotifieritem.cpp:934
+#: kdeui/notifications/ksystemtrayicon.cpp:239
 #, kde-format
 msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
 msgstr "<qt>ଆପଣ ନିଶ୍ଚିତକି ଆପଣ ବିଦାୟ ନେବାକୁ ଚାହୁଁଛନ୍ତି <b>%1</b>?</qt>"
 
-#: kdeui/notifications/ksystemtrayicon.cpp:242
 #: kdeui/notifications/kstatusnotifieritem.cpp:937
+#: kdeui/notifications/ksystemtrayicon.cpp:242
 msgid "Confirm Quit From System Tray"
 msgstr "ତନ୍ତ୍ର ଧାରକରୁ ବିଦାୟନେବାକୁ ନିଶ୍ଚିତ କରନ୍ତୁ"
+
+#: kdeui/notifications/ksystemtrayicon.cpp:156
+msgid "Minimize"
+msgstr "କ୍ଷୁଦ୍ରତମ କରନ୍ତୁ"
 
 #: kdeui/shortcuts/kcheckaccelerators.cpp:209
 msgctxt "@title:window"
@@ -7383,39 +7383,6 @@ msgctxt ""
 "button"
 msgid "Hold %1, then push %2"
 msgstr "%1 କୁ ଧରନ୍ତୁ, ତାପରେ %2 କୁ ଠେଲନ୍ତୁ"
-
-#: kdeui/shortcuts/kglobalaccel.cpp:540
-msgid "Conflict with Global Shortcut"
-msgstr "ଜାଗତିକ ସଂକ୍ଷିପ୍ତ ପଥ ସହିତ ଦ୍ୱନ୍ଦ"
-
-#: kdeui/shortcuts/kglobalaccel.cpp:541
-#, kde-format
-msgid ""
-"The '%1' key combination has already been allocated to the global action "
-"\"%2\" in %3.\n"
-"Do you want to reassign it from that action to the current one?"
-msgstr ""
-
-#: kdeui/shortcuts/kglobalaccel.cpp:568
-#, kde-format
-msgid "The '%1' key combination is registered by application %2 for action %3:"
-msgstr ""
-
-#: kdeui/shortcuts/kglobalaccel.cpp:575
-#, kde-format
-msgid "In context '%1' for action '%2'\n"
-msgstr "ପ୍ରସଙ୍ଗ '%1'ରେ କାର୍ଯ୍ୟ '%2' ପାଇଁ\n"
-
-#: kdeui/shortcuts/kglobalaccel.cpp:579
-#, kde-format
-msgid ""
-"The '%1' key combination is registered by application %2.\n"
-"%3"
-msgstr ""
-
-#: kdeui/shortcuts/kglobalaccel.cpp:585
-msgid "Conflict With Registered Global Shortcut"
-msgstr "ଜାଗତିକ ସଂକ୍ଷିପ୍ତ ପଥ ସହିତ ଦ୍ୱନ୍ଦ"
 
 #: kdeui/shortcuts/kstandardshortcut.cpp:86
 msgctxt "@action"
@@ -7806,6 +7773,39 @@ msgstr "ପ୍ରୟୋଗ ବିଷୟରେ"
 msgctxt "@action"
 msgid "About KDE"
 msgstr "KDE ବିଷୟରେ"
+
+#: kdeui/shortcuts/kglobalaccel.cpp:540
+msgid "Conflict with Global Shortcut"
+msgstr "ଜାଗତିକ ସଂକ୍ଷିପ୍ତ ପଥ ସହିତ ଦ୍ୱନ୍ଦ"
+
+#: kdeui/shortcuts/kglobalaccel.cpp:541
+#, kde-format
+msgid ""
+"The '%1' key combination has already been allocated to the global action "
+"\"%2\" in %3.\n"
+"Do you want to reassign it from that action to the current one?"
+msgstr ""
+
+#: kdeui/shortcuts/kglobalaccel.cpp:568
+#, kde-format
+msgid "The '%1' key combination is registered by application %2 for action %3:"
+msgstr ""
+
+#: kdeui/shortcuts/kglobalaccel.cpp:575
+#, kde-format
+msgid "In context '%1' for action '%2'\n"
+msgstr "ପ୍ରସଙ୍ଗ '%1'ରେ କାର୍ଯ୍ୟ '%2' ପାଇଁ\n"
+
+#: kdeui/shortcuts/kglobalaccel.cpp:579
+#, kde-format
+msgid ""
+"The '%1' key combination is registered by application %2.\n"
+"%3"
+msgstr ""
+
+#: kdeui/shortcuts/kglobalaccel.cpp:585
+msgid "Conflict With Registered Global Shortcut"
+msgstr "ଜାଗତିକ ସଂକ୍ଷିପ୍ତ ପଥ ସହିତ ଦ୍ୱନ୍ଦ"
 
 #: kdeui/sonnet/configdialog.cpp:51
 #, fuzzy
@@ -9361,16 +9361,6 @@ msgstr "ବିଭାଜକ, ପରିଚ୍ଛେଦ"
 msgid "Separator, Space"
 msgstr "ବିଭାଜକ, ଖାଲି ସ୍ଥାନ"
 
-#: kdeui/widgets/kcmodule.cpp:182
-msgid "You will be asked to authenticate before saving"
-msgstr ""
-
-#: kdeui/widgets/kcmodule.cpp:186
-#, fuzzy
-#| msgid "Do you want to reload KDE configuration?"
-msgid "You are not allowed to save the configuration"
-msgstr "ଆପଣ KDE ବିନ୍ୟାସ ପୁନର୍ଧାରଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
-
 #: kdeui/widgets/kdatepicker.cpp:174
 #, kde-format
 msgid "Week %1"
@@ -9407,6 +9397,22 @@ msgstr "ବର୍ଷ ଚୟନ କରନ୍ତୁ"
 #: kdeui/widgets/kdatepicker.cpp:285
 msgid "Select the current day"
 msgstr "ଆଜିର ତାରିଖ ଚୟନ କରନ୍ତୁ"
+
+#: kdeui/widgets/keditlistbox.cpp:326 kdeui/widgets/keditlistwidget.cpp:305
+msgid "&Add"
+msgstr "ଯୋଗ କରନ୍ତୁ (&A)"
+
+#: kdeui/widgets/keditlistbox.cpp:338 kdeui/widgets/keditlistwidget.cpp:317
+msgid "&Remove"
+msgstr "କାଢନ୍ତୁ (&R)"
+
+#: kdeui/widgets/keditlistbox.cpp:350 kdeui/widgets/keditlistwidget.cpp:329
+msgid "Move &Up"
+msgstr "ଉପରକୁ ଗତିକରନ୍ତୁ (&G)"
+
+#: kdeui/widgets/keditlistbox.cpp:355 kdeui/widgets/keditlistwidget.cpp:334
+msgid "Move &Down"
+msgstr "ତଳକୁ ଗତିକରନ୍ତୁ (&D)"
 
 #. i18n: Placeholder text in line edit widgets is the text appearing
 #. before any user input, briefly explaining to the user what to type
@@ -9467,22 +9473,6 @@ msgstr ""
 msgctxt "@item:inmenu Text Completion"
 msgid "Default"
 msgstr "ପୂର୍ବ ନିର୍ଦ୍ଧାରିତ"
-
-#: kdeui/widgets/keditlistbox.cpp:326 kdeui/widgets/keditlistwidget.cpp:305
-msgid "&Add"
-msgstr "ଯୋଗ କରନ୍ତୁ (&A)"
-
-#: kdeui/widgets/keditlistbox.cpp:338 kdeui/widgets/keditlistwidget.cpp:317
-msgid "&Remove"
-msgstr "କାଢନ୍ତୁ (&R)"
-
-#: kdeui/widgets/keditlistbox.cpp:350 kdeui/widgets/keditlistwidget.cpp:329
-msgid "Move &Up"
-msgstr "ଉପରକୁ ଗତିକରନ୍ତୁ (&G)"
-
-#: kdeui/widgets/keditlistbox.cpp:355 kdeui/widgets/keditlistwidget.cpp:334
-msgid "Move &Down"
-msgstr "ତଳକୁ ଗତିକରନ୍ତୁ (&D)"
 
 #: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:936
 msgid "Clear &History"
@@ -9606,34 +9596,6 @@ msgstr "ଅସମର୍ଥିତ କି"
 #: kdeui/widgets/klanguagebutton.cpp:177
 msgid "without name"
 msgstr "ନାମ ବିନା"
-
-#: kdeui/widgets/ktextedit.cpp:527
-#, fuzzy
-#| msgid "Speak custom text"
-msgid "Speak Text"
-msgstr "ଇଚ୍ଛାରୂପୀ ପାଠ୍ୟ କୁହନ୍ତୁ"
-
-#: kdeui/widgets/ktextedit.cpp:542
-msgid "Starting Jovie Text-to-Speech Service Failed"
-msgstr ""
-
-#: kdeui/widgets/ktextedit.cpp:631
-#, fuzzy, kde-format
-#| msgid "Suggestions"
-msgid "No suggestions for %1"
-msgstr "ପ୍ରସ୍ତାବଗୁଡ଼ିକ"
-
-#: kdeui/widgets/ktextedit.cpp:642
-msgid "Ignore"
-msgstr "ଅଗ୍ରାହ୍ଯ କରନ୍ତୁ"
-
-#: kdeui/widgets/ktextedit.cpp:643
-msgid "Add to Dictionary"
-msgstr "ଅଭିଧାନରେ ଯୋଗ କରନ୍ତୁ"
-
-#: kdeui/widgets/ktextedit.cpp:788
-msgid "Nothing to spell check."
-msgstr "ବନାନ ଯାଞ୍ଚ କରିବାକୁ କିଛିନାହିଁ।"
 
 #: kdeui/widgets/kpixmapregionselectorwidget.cpp:195
 msgid "Image Operations"
@@ -9836,6 +9798,34 @@ msgstr "ଉର୍ଦ୍ଧଲିପି"
 msgid "&Copy Full Text"
 msgstr "ସମ୍ପୂର୍ଣ୍ଣ ପାଠ୍ୟ ନକଲ କରନ୍ତୁ (&C)"
 
+#: kdeui/widgets/ktextedit.cpp:527
+#, fuzzy
+#| msgid "Speak custom text"
+msgid "Speak Text"
+msgstr "ଇଚ୍ଛାରୂପୀ ପାଠ୍ୟ କୁହନ୍ତୁ"
+
+#: kdeui/widgets/ktextedit.cpp:542
+msgid "Starting Jovie Text-to-Speech Service Failed"
+msgstr ""
+
+#: kdeui/widgets/ktextedit.cpp:631
+#, fuzzy, kde-format
+#| msgid "Suggestions"
+msgid "No suggestions for %1"
+msgstr "ପ୍ରସ୍ତାବଗୁଡ଼ିକ"
+
+#: kdeui/widgets/ktextedit.cpp:642
+msgid "Ignore"
+msgstr "ଅଗ୍ରାହ୍ଯ କରନ୍ତୁ"
+
+#: kdeui/widgets/ktextedit.cpp:643
+msgid "Add to Dictionary"
+msgstr "ଅଭିଧାନରେ ଯୋଗ କରନ୍ତୁ"
+
+#: kdeui/widgets/ktextedit.cpp:788
+msgid "Nothing to spell check."
+msgstr "ବନାନ ଯାଞ୍ଚ କରିବାକୁ କିଛିନାହିଁ।"
+
 #: kdeui/widgets/ktimecombobox.cpp:259
 msgctxt "@info"
 msgid "The time you entered is invalid"
@@ -9852,6 +9842,16 @@ msgstr ""
 msgctxt "@info"
 msgid "Time cannot be later than %1"
 msgstr ""
+
+#: kdeui/widgets/kcmodule.cpp:182
+msgid "You will be asked to authenticate before saving"
+msgstr ""
+
+#: kdeui/widgets/kcmodule.cpp:186
+#, fuzzy
+#| msgid "Do you want to reload KDE configuration?"
+msgid "You are not allowed to save the configuration"
+msgstr "ଆପଣ KDE ବିନ୍ୟାସ ପୁନର୍ଧାରଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
 
 #: kdeui/widgets/ktimezonewidget.cpp:66
 msgctxt "Define an area in the time zone, like a town area"
@@ -10081,11 +10081,15 @@ msgstr ""
 
 #: kdeui/windowmanagement/kwindowsystem_mac.cpp:563
 #: kdeui/windowmanagement/kwindowsystem_qws.cpp:176
-#: kdeui/windowmanagement/kwindowsystem_x11.cpp:896
 #: kdeui/windowmanagement/kwindowsystem_win.cpp:598
+#: kdeui/windowmanagement/kwindowsystem_x11.cpp:896
 #, kde-format
 msgid "Desktop %1"
 msgstr "ଡେସ୍କଟପ %1"
+
+#: kdeui/xmlgui/kxmlguibuilder.cpp:182 kdeui/xmlgui/kxmlguibuilder.cpp:349
+msgid "No text"
+msgstr "ପାଠ୍ୟ ନାହିଁ"
 
 #: kdeui/xmlgui/kmenumenuhandler_p.cpp:48
 msgid "Add to Toolbar"
@@ -10100,10 +10104,6 @@ msgstr "ସଂକ୍ଷିପ୍ତ ପଥ ବିନ୍ୟାସ କରନ୍ତ
 #| msgid "Toolbars"
 msgid "Toolbars Shown"
 msgstr "ସାଧନ ପଟି"
-
-#: kdeui/xmlgui/kxmlguibuilder.cpp:182 kdeui/xmlgui/kxmlguibuilder.cpp:349
-msgid "No text"
-msgstr "ପାଠ୍ୟ ନାହିଁ"
 
 #: kdewidgets/makekdewidgets.cpp:84
 msgid "Builds Qt widget plugins from an ini style description file."
@@ -10140,163 +10140,6 @@ msgstr "Ian Reinhart Geiser"
 #: kdewidgets/makekdewidgets.cpp:96
 msgid "Daniel Molkentin"
 msgstr "Daniel Molkentin"
-
-#: khtml/khtml_ext.cpp:418
-msgid "&Copy Text"
-msgstr "ପାଠ୍ୟ ନକଲ କରନ୍ତୁ (&C)"
-
-#: khtml/khtml_ext.cpp:432
-#, kde-format
-msgid "Open '%1'"
-msgstr "'%1' ଖୋଲନ୍ତୁ"
-
-#: khtml/khtml_ext.cpp:449
-msgid "&Copy Email Address"
-msgstr "ଇମେଲ ଠିକଣା ନକଲ କରନ୍ତୁ (&C)"
-
-#: khtml/khtml_ext.cpp:454
-msgid "&Save Link As..."
-msgstr "ସଂଯୋଗକୁ ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ (&S)..."
-
-#: khtml/khtml_ext.cpp:459
-msgid "&Copy Link Address"
-msgstr "ସଂଯୋଗ ଠିକଣା ନକଲ କରନ୍ତୁ (&C)"
-
-#: khtml/khtml_ext.cpp:471
-msgctxt "@title:menu HTML frame/iframe"
-msgid "Frame"
-msgstr "ବନ୍ଧେଇ"
-
-#: khtml/khtml_ext.cpp:472
-msgid "Open in New &Window"
-msgstr "ନୂତନ ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ (&W)"
-
-#: khtml/khtml_ext.cpp:478
-msgid "Open in &This Window"
-msgstr "ଏହି ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ (&T)"
-
-#: khtml/khtml_ext.cpp:483
-msgid "Open in &New Tab"
-msgstr "ନୂତନ ଟ୍ୟାବରେ ଖୋଲନ୍ତୁ (&N)"
-
-#: khtml/khtml_ext.cpp:493
-msgid "Reload Frame"
-msgstr "ଫ୍ରେମକୁ ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ"
-
-#: khtml/khtml_ext.cpp:498 khtml/khtml_part.cpp:421
-msgid "Print Frame..."
-msgstr "ଫ୍ରେମକୁ ମୁଦ୍ରଣ କରନ୍ତୁ..."
-
-#: khtml/khtml_ext.cpp:504 khtml/khtml_part.cpp:281
-msgid "Save &Frame As..."
-msgstr "ଫ୍ରେମକୁ ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ (&F)..."
-
-#: khtml/khtml_ext.cpp:509 khtml/khtml_part.cpp:258
-msgid "View Frame Source"
-msgstr "ଫ୍ରେମ ଉତ୍ସ ଦେଖନ୍ତୁ"
-
-#: khtml/khtml_ext.cpp:514
-msgid "View Frame Information"
-msgstr "ଫ୍ରେମ ସୂଚନା ଦେଖନ୍ତୁ"
-
-#: khtml/khtml_ext.cpp:524
-msgid "Block IFrame..."
-msgstr "IFrameକୁ ଅବରୋଧ କରନ୍ତୁ..."
-
-#: khtml/khtml_ext.cpp:549
-msgid "Save Image As..."
-msgstr "ପ୍ରତିଛବିକୁ ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ..."
-
-#: khtml/khtml_ext.cpp:554
-msgid "Send Image..."
-msgstr "ପ୍ରତିଛବିକୁ ପଠାନ୍ତୁ..."
-
-#: khtml/khtml_ext.cpp:560
-msgid "Copy Image"
-msgstr "ପ୍ରତିଛବିକୁ ନକଲ କରନ୍ତୁ"
-
-#: khtml/khtml_ext.cpp:568
-msgid "Copy Image Location"
-msgstr "ପ୍ରତିଛବି ସ୍ଥାନକୁ ନକଲ କରନ୍ତୁ"
-
-#: khtml/khtml_ext.cpp:577
-#, kde-format
-msgid "View Image (%1)"
-msgstr "ପ୍ରତିଛବିକୁ ଦେଖନ୍ତୁ (%1)"
-
-#: khtml/khtml_ext.cpp:583
-msgid "Block Image..."
-msgstr "ପ୍ରତିଛବିକୁ ଅବରୋଧ କରନ୍ତୁ..."
-
-#: khtml/khtml_ext.cpp:591
-#, kde-format
-msgid "Block Images From %1"
-msgstr "%1ରୁ ପ୍ରତିଛବିଗୁଡିକୁ ଅବରୋଧ କରନ୍ତୁ"
-
-#: khtml/khtml_ext.cpp:603
-msgid "Stop Animations"
-msgstr "ଜୀବନାୟନକୁ ଅଟକାନ୍ତୁ"
-
-#: khtml/khtml_ext.cpp:640
-#, kde-format
-msgid "Search for '%1' with %2"
-msgstr "%2 ସହିତ '%1'କୁ ଖୋଜନ୍ତୁ"
-
-#: khtml/khtml_ext.cpp:650
-#, kde-format
-msgid "Search for '%1' with"
-msgstr "ସହିତ '%1'କୁ ଖୋଜନ୍ତୁ"
-
-#: khtml/khtml_ext.cpp:694
-msgid "Save Link As"
-msgstr "ସଂଯୋଗକୁ ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ"
-
-#: khtml/khtml_ext.cpp:714
-msgid "Save Image As"
-msgstr "ପ୍ରତିଛବି ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ"
-
-#: khtml/khtml_ext.cpp:728 khtml/khtml_ext.cpp:741
-msgid "Add URL to Filter"
-msgstr "ଛାଣକରେ URL ଯୋଗ କରନ୍ତୁ"
-
-#: khtml/khtml_ext.cpp:729 khtml/khtml_ext.cpp:742
-msgid "Enter the URL:"
-msgstr "URL ଭରଣ କରନ୍ତୁ:"
-
-#: khtml/khtml_ext.cpp:879
-#, kde-format
-msgid ""
-"A file named \"%1\" already exists. Are you sure you want to overwrite it?"
-msgstr ""
-"\"%1\" ନାମକ ଗୋଟିଏ ଫାଇଲ ପୂର୍ବରୁ ଅବସ୍ଥିତ ଅଛି। ଆପଣ ନିଶ୍ଚିତକି ଆପଣ ଏଥିରେ ନବଲିଖନ କରିବାକୁ ଚାହୁଁଛନ୍ତି?"
-
-#: khtml/khtml_ext.cpp:879
-msgid "Overwrite File?"
-msgstr "ଫାଇଲ ନବଲିଖନ କରିବେକି? "
-
-#: khtml/khtml_ext.cpp:879
-msgid "Overwrite"
-msgstr "ନବଲିଖନ କରନ୍ତୁ"
-
-#: khtml/khtml_ext.cpp:940 kparts/browserrun.cpp:397
-#, kde-format
-msgid "The Download Manager (%1) could not be found in your $PATH "
-msgstr ""
-
-#: khtml/khtml_ext.cpp:941 kparts/browserrun.cpp:398
-msgid ""
-"Try to reinstall it  \n"
-"\n"
-"The integration with Konqueror will be disabled."
-msgstr ""
-"ଏହାକୁ ପୁନଃ ସ୍ଥାପନ କରିବାକୁ ଚେଷ୍ଟାକରନ୍ତୁ  \n"
-"\n"
-"Konqueror ସହିତ ସମୀକୃତ ନିଷ୍କ୍ରିୟ ହୋଇଯିବ।"
-
-#: khtml/khtml_ext.cpp:1023
-#, no-c-format
-msgid "Default Font Size (100%)"
-msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ ଅକ୍ଷରରୂପ ଆକାର (100%)"
 
 #: khtml/khtml_global.cpp:208
 msgid "KHTML"
@@ -10428,21 +10271,13 @@ msgstr "TestRegressionGui"
 msgid "GUI for the khtml regression tester"
 msgstr ""
 
-#: khtml/testkhtml.cpp:39
-msgid "URL to open"
-msgstr "ଖୋଲିବାକୁ ଥିବା URL"
-
-#: khtml/testkhtml.cpp:41
-msgid "Testkhtml"
-msgstr "Testkhtml"
-
-#: khtml/testkhtml.cpp:42
-msgid "a basic web browser using the KHTML library"
-msgstr "KHTML ଲାଇବ୍ରେରୀ ବ୍ୟବହାର କରୁଥିବା ଗୋଟିଏ ମୌଳିକ ୱେବ ବ୍ରାଉଜର"
-
 #: khtml/khtml_part.cpp:251
 msgid "View Do&cument Source"
 msgstr "ଦଲିଲ ଉତ୍ସ ଦେଖନ୍ତୁ (&c)"
+
+#: khtml/khtml_part.cpp:258 khtml/khtml_ext.cpp:509
+msgid "View Frame Source"
+msgstr "ଫ୍ରେମ ଉତ୍ସ ଦେଖନ୍ତୁ"
 
 #: khtml/khtml_part.cpp:265
 msgid "View Document Information"
@@ -10451,6 +10286,10 @@ msgstr "ଦଲିଲ ସୂଚନା ଦେଖନ୍ତୁ"
 #: khtml/khtml_part.cpp:272
 msgid "Save &Background Image As..."
 msgstr "ପୃଷ୍ଠଭୂମୀ ପ୍ରତିଛବିକୁ ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ (&B)..."
+
+#: khtml/khtml_part.cpp:281 khtml/khtml_ext.cpp:504
+msgid "Save &Frame As..."
+msgstr "ଫ୍ରେମକୁ ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ (&F)..."
 
 #: khtml/khtml_part.cpp:293 khtml/khtml_part.cpp:4027
 msgid "SSL"
@@ -10539,6 +10378,10 @@ msgstr "ଆପଣ ଟାଇପ କରିବା ସମୟରେ ସଂଯୋଗ �
 msgid ""
 "This shortcut shows the find bar, and sets the option \"Find links only\"."
 msgstr ""
+
+#: khtml/khtml_part.cpp:421 khtml/khtml_ext.cpp:498
+msgid "Print Frame..."
+msgstr "ଫ୍ରେମକୁ ମୁଦ୍ରଣ କରନ୍ତୁ..."
 
 #: khtml/khtml_part.cpp:425
 msgid ""
@@ -10894,6 +10737,151 @@ msgstr "ତ୍ୟାଗ କରନ୍ତୁ"
 msgid "Filter error"
 msgstr "ତ୍ରୁଟି ଛାଣନ୍ତୁ"
 
+#: khtml/khtml_ext.cpp:418
+msgid "&Copy Text"
+msgstr "ପାଠ୍ୟ ନକଲ କରନ୍ତୁ (&C)"
+
+#: khtml/khtml_ext.cpp:432
+#, kde-format
+msgid "Open '%1'"
+msgstr "'%1' ଖୋଲନ୍ତୁ"
+
+#: khtml/khtml_ext.cpp:449
+msgid "&Copy Email Address"
+msgstr "ଇମେଲ ଠିକଣା ନକଲ କରନ୍ତୁ (&C)"
+
+#: khtml/khtml_ext.cpp:454
+msgid "&Save Link As..."
+msgstr "ସଂଯୋଗକୁ ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ (&S)..."
+
+#: khtml/khtml_ext.cpp:459
+msgid "&Copy Link Address"
+msgstr "ସଂଯୋଗ ଠିକଣା ନକଲ କରନ୍ତୁ (&C)"
+
+#: khtml/khtml_ext.cpp:471
+msgctxt "@title:menu HTML frame/iframe"
+msgid "Frame"
+msgstr "ବନ୍ଧେଇ"
+
+#: khtml/khtml_ext.cpp:472
+msgid "Open in New &Window"
+msgstr "ନୂତନ ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ (&W)"
+
+#: khtml/khtml_ext.cpp:478
+msgid "Open in &This Window"
+msgstr "ଏହି ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ (&T)"
+
+#: khtml/khtml_ext.cpp:483
+msgid "Open in &New Tab"
+msgstr "ନୂତନ ଟ୍ୟାବରେ ଖୋଲନ୍ତୁ (&N)"
+
+#: khtml/khtml_ext.cpp:493
+msgid "Reload Frame"
+msgstr "ଫ୍ରେମକୁ ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ"
+
+#: khtml/khtml_ext.cpp:514
+msgid "View Frame Information"
+msgstr "ଫ୍ରେମ ସୂଚନା ଦେଖନ୍ତୁ"
+
+#: khtml/khtml_ext.cpp:524
+msgid "Block IFrame..."
+msgstr "IFrameକୁ ଅବରୋଧ କରନ୍ତୁ..."
+
+#: khtml/khtml_ext.cpp:549
+msgid "Save Image As..."
+msgstr "ପ୍ରତିଛବିକୁ ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ..."
+
+#: khtml/khtml_ext.cpp:554
+msgid "Send Image..."
+msgstr "ପ୍ରତିଛବିକୁ ପଠାନ୍ତୁ..."
+
+#: khtml/khtml_ext.cpp:560
+msgid "Copy Image"
+msgstr "ପ୍ରତିଛବିକୁ ନକଲ କରନ୍ତୁ"
+
+#: khtml/khtml_ext.cpp:568
+msgid "Copy Image Location"
+msgstr "ପ୍ରତିଛବି ସ୍ଥାନକୁ ନକଲ କରନ୍ତୁ"
+
+#: khtml/khtml_ext.cpp:577
+#, kde-format
+msgid "View Image (%1)"
+msgstr "ପ୍ରତିଛବିକୁ ଦେଖନ୍ତୁ (%1)"
+
+#: khtml/khtml_ext.cpp:583
+msgid "Block Image..."
+msgstr "ପ୍ରତିଛବିକୁ ଅବରୋଧ କରନ୍ତୁ..."
+
+#: khtml/khtml_ext.cpp:591
+#, kde-format
+msgid "Block Images From %1"
+msgstr "%1ରୁ ପ୍ରତିଛବିଗୁଡିକୁ ଅବରୋଧ କରନ୍ତୁ"
+
+#: khtml/khtml_ext.cpp:603
+msgid "Stop Animations"
+msgstr "ଜୀବନାୟନକୁ ଅଟକାନ୍ତୁ"
+
+#: khtml/khtml_ext.cpp:640
+#, kde-format
+msgid "Search for '%1' with %2"
+msgstr "%2 ସହିତ '%1'କୁ ଖୋଜନ୍ତୁ"
+
+#: khtml/khtml_ext.cpp:650
+#, kde-format
+msgid "Search for '%1' with"
+msgstr "ସହିତ '%1'କୁ ଖୋଜନ୍ତୁ"
+
+#: khtml/khtml_ext.cpp:694
+msgid "Save Link As"
+msgstr "ସଂଯୋଗକୁ ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ"
+
+#: khtml/khtml_ext.cpp:714
+msgid "Save Image As"
+msgstr "ପ୍ରତିଛବି ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ"
+
+#: khtml/khtml_ext.cpp:728 khtml/khtml_ext.cpp:741
+msgid "Add URL to Filter"
+msgstr "ଛାଣକରେ URL ଯୋଗ କରନ୍ତୁ"
+
+#: khtml/khtml_ext.cpp:729 khtml/khtml_ext.cpp:742
+msgid "Enter the URL:"
+msgstr "URL ଭରଣ କରନ୍ତୁ:"
+
+#: khtml/khtml_ext.cpp:879
+#, kde-format
+msgid ""
+"A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+msgstr ""
+"\"%1\" ନାମକ ଗୋଟିଏ ଫାଇଲ ପୂର୍ବରୁ ଅବସ୍ଥିତ ଅଛି। ଆପଣ ନିଶ୍ଚିତକି ଆପଣ ଏଥିରେ ନବଲିଖନ କରିବାକୁ ଚାହୁଁଛନ୍ତି?"
+
+#: khtml/khtml_ext.cpp:879
+msgid "Overwrite File?"
+msgstr "ଫାଇଲ ନବଲିଖନ କରିବେକି? "
+
+#: khtml/khtml_ext.cpp:879
+msgid "Overwrite"
+msgstr "ନବଲିଖନ କରନ୍ତୁ"
+
+#: khtml/khtml_ext.cpp:940 kparts/browserrun.cpp:397
+#, kde-format
+msgid "The Download Manager (%1) could not be found in your $PATH "
+msgstr ""
+
+#: khtml/khtml_ext.cpp:941 kparts/browserrun.cpp:398
+msgid ""
+"Try to reinstall it  \n"
+"\n"
+"The integration with Konqueror will be disabled."
+msgstr ""
+"ଏହାକୁ ପୁନଃ ସ୍ଥାପନ କରିବାକୁ ଚେଷ୍ଟାକରନ୍ତୁ  \n"
+"\n"
+"Konqueror ସହିତ ସମୀକୃତ ନିଷ୍କ୍ରିୟ ହୋଇଯିବ।"
+
+#: khtml/khtml_ext.cpp:1023
+#, no-c-format
+msgid "Default Font Size (100%)"
+msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ ଅକ୍ଷରରୂପ ଆକାର (100%)"
+
 #: khtml/test_regression.cpp:619
 msgid "Directory containing tests, basedir and output directories."
 msgstr "ପରୀକ୍ଷାଗୁଡିକୁ, basedir ଏବଂ ନିର୍ଗମ ଡିରେକ୍ଟୋରୀଗୁଡିକୁ ଧାରଣ କରିଥିବା ଡିରେକ୍ଟୋରୀ।"
@@ -10991,6 +10979,18 @@ msgstr ""
 #: khtml/khtmlview.cpp:1842
 msgid "Access Keys activated"
 msgstr ""
+
+#: khtml/testkhtml.cpp:39
+msgid "URL to open"
+msgstr "ଖୋଲିବାକୁ ଥିବା URL"
+
+#: khtml/testkhtml.cpp:41
+msgid "Testkhtml"
+msgstr "Testkhtml"
+
+#: khtml/testkhtml.cpp:42
+msgid "a basic web browser using the KHTML library"
+msgstr "KHTML ଲାଇବ୍ରେରୀ ବ୍ୟବହାର କରୁଥିବା ଗୋଟିଏ ମୌଳିକ ୱେବ ବ୍ରାଉଜର"
 
 #: khtml/ecma/kjs_binding.cpp:185
 msgid ""
@@ -11091,6 +11091,34 @@ msgstr "କୋନଶୋଲ"
 msgid "Enter"
 msgstr "ପ୍ରବେଶ କରନ୍ତୁ"
 
+#: khtml/ecma/debugger/errordlg.cpp:35
+msgid "JavaScript Error"
+msgstr "JavaScript ତ୍ରୁଟି"
+
+#: khtml/ecma/debugger/errordlg.cpp:49
+msgid "&Do not show this message again"
+msgstr "ଏହି ସନ୍ଦେଶକୁ ପୁନର୍ବାର ଦର୍ଶାନ୍ତୁ ନାହିଁ (&D)"
+
+#: khtml/ecma/debugger/localvariabledock.cpp:43
+msgid "Local Variables"
+msgstr "ସ୍ଥାନୀୟ ଚଳ"
+
+#: khtml/ecma/debugger/localvariabledock.cpp:51
+msgid "Reference"
+msgstr "ସଂଦର୍ଭ"
+
+#: khtml/ecma/debugger/callstackdock.cpp:37
+msgid "Call Stack"
+msgstr "ଥାକ ଡାକରା"
+
+#: khtml/ecma/debugger/callstackdock.cpp:41
+msgid "Call"
+msgstr "ଡାକରା"
+
+#: khtml/ecma/debugger/callstackdock.cpp:41
+msgid "Line"
+msgstr "ରେଖା"
+
 #: khtml/ecma/debugger/debugdocument.cpp:201
 msgid ""
 "Unable to find the Kate editor component;\n"
@@ -11176,58 +11204,9 @@ msgstr ""
 msgid "Evaluation threw an exception %1"
 msgstr "ମୂଲ୍ୟାଙ୍କନ ଗୋଟିଏ %1 ବ୍ୟତିକ୍ରମ ଦେଇଥାଏ"
 
-#: khtml/ecma/debugger/errordlg.cpp:35
-msgid "JavaScript Error"
-msgstr "JavaScript ତ୍ରୁଟି"
-
-#: khtml/ecma/debugger/errordlg.cpp:49
-msgid "&Do not show this message again"
-msgstr "ଏହି ସନ୍ଦେଶକୁ ପୁନର୍ବାର ଦର୍ଶାନ୍ତୁ ନାହିଁ (&D)"
-
-#: khtml/ecma/debugger/localvariabledock.cpp:43
-msgid "Local Variables"
-msgstr "ସ୍ଥାନୀୟ ଚଳ"
-
-#: khtml/ecma/debugger/localvariabledock.cpp:51
-msgid "Reference"
-msgstr "ସଂଦର୍ଭ"
-
 #: khtml/ecma/debugger/scriptsdock.cpp:43
 msgid "Loaded Scripts"
 msgstr "ଧାରଣ ହୋଇଥିବା ସ୍କ୍ରିପ୍ଟଗୁଡିକ"
-
-#: khtml/ecma/debugger/callstackdock.cpp:37
-msgid "Call Stack"
-msgstr "ଥାକ ଡାକରା"
-
-#: khtml/ecma/debugger/callstackdock.cpp:41
-msgid "Call"
-msgstr "ଡାକରା"
-
-#: khtml/ecma/debugger/callstackdock.cpp:41
-msgid "Line"
-msgstr "ରେଖା"
-
-#: khtml/html/html_objectimpl.cpp:610
-#, kde-format
-msgid ""
-"No plugin found for '%1'.\n"
-"Do you want to download one from %2?"
-msgstr ""
-"'%1' ପାଇଁ କୌଣସି ପ୍ଲଗଇନ ମିଳିଲା ନାହିଁ।\n"
-"ଆପଣ %2ରୁ ଗୋଟିଏ ଆହରଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
-
-#: khtml/html/html_objectimpl.cpp:611
-msgid "Missing Plugin"
-msgstr "ଅନୁପସ୍ଥିତ ପ୍ଲଗଇନ"
-
-#: khtml/html/html_objectimpl.cpp:611
-msgid "Download"
-msgstr "ଆହରଣ"
-
-#: khtml/html/html_objectimpl.cpp:611
-msgid "Do Not Download"
-msgstr "ଆହରଣ କରନ୍ତୁ ନାହିଁ"
 
 #: khtml/html/htmlparser.cpp:1938
 msgid "This is a searchable index. Enter search keywords: "
@@ -11274,6 +11253,27 @@ msgstr[1] "ଫାଇଲ ପଠାନ୍ତୁ (&S)"
 msgid "Key Generator"
 msgstr "କି ନିର୍ମାଣକାରୀ"
 
+#: khtml/html/html_objectimpl.cpp:610
+#, kde-format
+msgid ""
+"No plugin found for '%1'.\n"
+"Do you want to download one from %2?"
+msgstr ""
+"'%1' ପାଇଁ କୌଣସି ପ୍ଲଗଇନ ମିଳିଲା ନାହିଁ।\n"
+"ଆପଣ %2ରୁ ଗୋଟିଏ ଆହରଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
+
+#: khtml/html/html_objectimpl.cpp:611
+msgid "Missing Plugin"
+msgstr "ଅନୁପସ୍ଥିତ ପ୍ଲଗଇନ"
+
+#: khtml/html/html_objectimpl.cpp:611
+msgid "Download"
+msgstr "ଆହରଣ"
+
+#: khtml/html/html_objectimpl.cpp:611
+msgid "Do Not Download"
+msgstr "ଆହରଣ କରନ୍ତୁ ନାହିଁ"
+
 #: khtml/java/kjavaapplet.cpp:224
 #, kde-format
 msgid "Initializing Applet \"%1\"..."
@@ -11293,30 +11293,6 @@ msgstr "ଆପଲେଟ \"%1\" ଆରମ୍ଭ ହୋଇଯାଇଛି"
 #, kde-format
 msgid "Applet \"%1\" stopped"
 msgstr "ଆପଲେଟ \"%1\" ବନ୍ଦହୋଇଯାଇଛି"
-
-#: khtml/java/kjavaappletviewer.cpp:129
-msgid "Applet Parameters"
-msgstr "ଆପଲେଟ ପ୍ରାଚଳଗୁଡିକ"
-
-#: khtml/java/kjavaappletviewer.cpp:139
-msgid "Parameter"
-msgstr "ପ୍ରାଚଳ"
-
-#: khtml/java/kjavaappletviewer.cpp:143
-msgid "Class"
-msgstr "ଶ୍ରେଣୀ"
-
-#: khtml/java/kjavaappletviewer.cpp:149
-msgid "Base URL"
-msgstr "ଆଧାର URL"
-
-#: khtml/java/kjavaappletviewer.cpp:155
-msgid "Archives"
-msgstr "ଅଭିଲେଖନଗୁଡିକ"
-
-#: khtml/java/kjavaappletviewer.cpp:475
-msgid "KDE Java Applet Plugin"
-msgstr "KDE java ଆପଲେଟ ପ୍ଲଗଇନ"
 
 #: khtml/java/kjavaappletserver.cpp:146
 msgid "Loading Applet"
@@ -11351,6 +11327,30 @@ msgstr "ସମସ୍ତଙ୍କୁ ଅସ୍ୱୀକାର କରନ୍ତୁ 
 #: khtml/java/kjavaappletserver.cpp:820
 msgid "&Grant All"
 msgstr "ସମସ୍ତଙ୍କୁ ସ୍ୱୀକାର କରନ୍ତୁ (&G)"
+
+#: khtml/java/kjavaappletviewer.cpp:129
+msgid "Applet Parameters"
+msgstr "ଆପଲେଟ ପ୍ରାଚଳଗୁଡିକ"
+
+#: khtml/java/kjavaappletviewer.cpp:139
+msgid "Parameter"
+msgstr "ପ୍ରାଚଳ"
+
+#: khtml/java/kjavaappletviewer.cpp:143
+msgid "Class"
+msgstr "ଶ୍ରେଣୀ"
+
+#: khtml/java/kjavaappletviewer.cpp:149
+msgid "Base URL"
+msgstr "ଆଧାର URL"
+
+#: khtml/java/kjavaappletviewer.cpp:155
+msgid "Archives"
+msgstr "ଅଭିଲେଖନଗୁଡିକ"
+
+#: khtml/java/kjavaappletviewer.cpp:475
+msgid "KDE Java Applet Plugin"
+msgstr "KDE java ଆପଲେଟ ପ୍ଲଗଇନ"
 
 #: khtml/kmultipart/kmultipart.cpp:41
 msgid "KMultiPart"
@@ -11474,12 +11474,6 @@ msgstr ""
 "'%1'ରେ 'kdemain'କୁ ଖୋଜିପାଇଲା ନାହିଁ।\n"
 "%2"
 
-#: kinit/klauncher_main.cpp:62
-msgid ""
-"klauncher: This program is not supposed to be started manually.\n"
-"klauncher: It is started automatically by kdeinit4.\n"
-msgstr ""
-
 #: kinit/klauncher.cpp:564
 #, kde-format
 msgid "KDEInit could not launch '%1'."
@@ -11514,6 +11508,12 @@ msgstr "ଅଜଣା ପ୍ରଟୋକଲ '%1'।\n"
 #, kde-format
 msgid "Error loading '%1'.\n"
 msgstr "'%1' ଧାରଣକରିବାରେ ତ୍ରୁଟି।\n"
+
+#: kinit/klauncher_main.cpp:62
+msgid ""
+"klauncher: This program is not supposed to be started manually.\n"
+"klauncher: It is started automatically by kdeinit4.\n"
+msgstr ""
 
 #: kjs/object.cpp:554
 msgid "Evaluation error"
@@ -11779,12 +11779,6 @@ msgstr "ଖରାପ ଅବଧି ନିୟନ୍ତ୍ରକ: ବସ୍ତୁ %
 msgid "Exception calling '%1' slot from %2:%3:%4"
 msgstr "%2:%3:%4 ଅବଧି ମଧ୍ଯରୁ '%1' କୁ ଡାକିବାରେ ବ୍ୟତିକ୍ରମ"
 
-#: knewstuff/knewstuff2/core/coreengine.cpp:428
-#, fuzzy, kde-format
-#| msgid "Rating: "
-msgid "loading %1"
-msgstr "ଆକଳନ: "
-
 #: knewstuff/knewstuff2/core/providerhandler.cpp:154
 #: knewstuff/knewstuff2/core/providerhandler.cpp:174
 msgctxt "describes the feed of the latest posted entries"
@@ -11798,6 +11792,12 @@ msgstr "ସର୍ବାଧିକ ଆକଳିତ"
 #: knewstuff/knewstuff2/core/providerhandler.cpp:166
 msgid "Most Downloads"
 msgstr "ଅଧିକାଂଶ ଆହରଣଗୁଡିକ"
+
+#: knewstuff/knewstuff2/core/coreengine.cpp:428
+#, fuzzy, kde-format
+#| msgid "Rating: "
+msgid "loading %1"
+msgstr "ଆକଳନ: "
 
 #: knewstuff/knewstuff2/core/security.cpp:75
 #: knewstuff/knewstuff3/core/security.cpp:86
@@ -11841,6 +11841,76 @@ msgid ""
 "<qt>Cannot start <i>gpg</i> and sign the file. Make sure that <i>gpg</i> is "
 "installed, otherwise signing of the resources will not be possible.</qt>"
 msgstr ""
+
+#: knewstuff/knewstuff2/ui/kdxschanges.cpp:31
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:70
+msgid "Changelog"
+msgstr "ଲଗ ପରିବର୍ତ୍ତନ"
+
+#: knewstuff/knewstuff2/ui/kdxschanges.cpp:53
+#, kde-format
+msgid "Version %1"
+msgstr "ସଂସ୍କରଣ %1"
+
+#: knewstuff/knewstuff2/ui/kdxscomment.cpp:29
+msgid "Leave a comment"
+msgstr "ଗୋଟିଏ ଟିପ୍ପଣୀ ଦେଇଯାଆନ୍ତୁ"
+
+#: knewstuff/knewstuff2/ui/kdxsrating.cpp:33
+msgid "Rate this entry"
+msgstr "ଏହି ଭରଣକୁ ଆକଳନ କରନ୍ତୁ"
+
+#: knewstuff/knewstuff2/ui/kdxstranslation.cpp:33
+msgid "Translate this entry"
+msgstr "ଏହି ପ୍ରବେଶିକାକୁ ଅନୁବାଦ କରନ୍ତୁ"
+
+#: knewstuff/knewstuff2/ui/kdxstranslation.cpp:48
+msgid "Payload"
+msgstr "Payload"
+
+#: knewstuff/knewstuff2/ui/knewstuffbutton.cpp:49
+#: knewstuff/knewstuff3/knewstuffbutton.cpp:48
+#, fuzzy
+#| msgid "Download New Stuff"
+msgid "Download New Stuff..."
+msgstr "ନୁତନ ଉପାଦାନ ଆହରଣ କରନ୍ତୁ"
+
+#: knewstuff/knewstuff2/ui/providerdialog.cpp:54
+msgid "Hot New Stuff Providers"
+msgstr "ନୂତନ ଉପାଦାନ ପ୍ରଦାତାମାନ"
+
+#: knewstuff/knewstuff2/ui/providerdialog.cpp:64
+msgid "Please select one of the providers listed below:"
+msgstr "ଦୟାକରି ନିମ୍ନଲିଖିତ ତାଲିକାଭୁକ୍ତ ପ୍ରଦାତାମାନଙ୍କ ମଧ୍ଯରୁ ଜଣକୁ ଚୟନ କରନ୍ତୁ:"
+
+#: knewstuff/knewstuff2/ui/providerdialog.cpp:95
+msgid "No provider selected."
+msgstr "କୌଣସି ପ୍ରଦାତା ଚୟନ କରାଯାଇ ନାହିଁ।"
+
+#: knewstuff/knewstuff2/ui/uploaddialog.cpp:64
+#: knewstuff/knewstuff3/uploaddialog.cpp:389
+#, fuzzy, kde-format
+#| msgctxt "Program name followed by 'Add On Installer'"
+#| msgid "%1 Add-On Installer"
+msgctxt "Program name followed by 'Add On Uploader'"
+msgid "%1 Add-On Uploader"
+msgstr "%1 ଅତିରିକ୍ତ ସ୍ଥାପନକାରୀ"
+
+#: knewstuff/knewstuff2/ui/uploaddialog.cpp:91
+msgid "Please put in a name."
+msgstr "ଦୟାକରି ଗୋଟିଏ ନାମରେ ରଖନ୍ତୁ।"
+
+#: knewstuff/knewstuff2/ui/uploaddialog.cpp:159
+msgid "Old upload information found, fill out fields?"
+msgstr "ପୁରୁଣା ଆରୋହଣ ସୂଚନା ମିଳିଲା, ସ୍ଥାନଗୁଡିକୁ ପୁରଣ କରିବେ କି?"
+
+#: knewstuff/knewstuff2/ui/uploaddialog.cpp:161
+msgid "Fill Out"
+msgstr "ଭରଣ କରନ୍ତୁ"
+
+#: knewstuff/knewstuff2/ui/uploaddialog.cpp:162
+msgid "Do Not Fill Out"
+msgstr "ଭରଣ କରନ୍ତୁ ନାହିଁ"
 
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:127
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:558
@@ -11985,11 +12055,6 @@ msgstr "ପ୍ରାକଦର୍ଶନ ଧାରଣ କରୁଅଛି"
 msgid "Comments"
 msgstr "ଟୀପ୍ପଣୀ"
 
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:70
-#: knewstuff/knewstuff2/ui/kdxschanges.cpp:31
-msgid "Changelog"
-msgstr "ଲଗ ପରିବର୍ତ୍ତନ"
-
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:73
 msgid "Switch version"
 msgstr "ସଂସ୍କରଣ ପରିବର୍ତ୍ତନ"
@@ -12092,74 +12157,9 @@ msgstr "KNewStuff ଅବଦାନଗୁଡିକ"
 msgid "This operation requires authentication."
 msgstr "ଏହି ପରିଚାଳନ ପାଇଁ ବୈଧିକରଣ ଆବଶ୍ୟକ।"
 
-#: knewstuff/knewstuff2/ui/kdxschanges.cpp:53
-#, kde-format
-msgid "Version %1"
-msgstr "ସଂସ୍କରଣ %1"
-
-#: knewstuff/knewstuff2/ui/kdxscomment.cpp:29
-msgid "Leave a comment"
-msgstr "ଗୋଟିଏ ଟିପ୍ପଣୀ ଦେଇଯାଆନ୍ତୁ"
-
 #: knewstuff/knewstuff2/ui/kdxscomments.cpp:32
 msgid "User comments"
 msgstr "ଚାଳକ ଟିପ୍ପଣୀଗୁଡିକ"
-
-#: knewstuff/knewstuff2/ui/kdxsrating.cpp:33
-msgid "Rate this entry"
-msgstr "ଏହି ଭରଣକୁ ଆକଳନ କରନ୍ତୁ"
-
-#: knewstuff/knewstuff2/ui/kdxstranslation.cpp:33
-msgid "Translate this entry"
-msgstr "ଏହି ପ୍ରବେଶିକାକୁ ଅନୁବାଦ କରନ୍ତୁ"
-
-#: knewstuff/knewstuff2/ui/kdxstranslation.cpp:48
-msgid "Payload"
-msgstr "Payload"
-
-#: knewstuff/knewstuff2/ui/knewstuffbutton.cpp:49
-#: knewstuff/knewstuff3/knewstuffbutton.cpp:48
-#, fuzzy
-#| msgid "Download New Stuff"
-msgid "Download New Stuff..."
-msgstr "ନୁତନ ଉପାଦାନ ଆହରଣ କରନ୍ତୁ"
-
-#: knewstuff/knewstuff2/ui/providerdialog.cpp:54
-msgid "Hot New Stuff Providers"
-msgstr "ନୂତନ ଉପାଦାନ ପ୍ରଦାତାମାନ"
-
-#: knewstuff/knewstuff2/ui/providerdialog.cpp:64
-msgid "Please select one of the providers listed below:"
-msgstr "ଦୟାକରି ନିମ୍ନଲିଖିତ ତାଲିକାଭୁକ୍ତ ପ୍ରଦାତାମାନଙ୍କ ମଧ୍ଯରୁ ଜଣକୁ ଚୟନ କରନ୍ତୁ:"
-
-#: knewstuff/knewstuff2/ui/providerdialog.cpp:95
-msgid "No provider selected."
-msgstr "କୌଣସି ପ୍ରଦାତା ଚୟନ କରାଯାଇ ନାହିଁ।"
-
-#: knewstuff/knewstuff2/ui/uploaddialog.cpp:64
-#: knewstuff/knewstuff3/uploaddialog.cpp:389
-#, fuzzy, kde-format
-#| msgctxt "Program name followed by 'Add On Installer'"
-#| msgid "%1 Add-On Installer"
-msgctxt "Program name followed by 'Add On Uploader'"
-msgid "%1 Add-On Uploader"
-msgstr "%1 ଅତିରିକ୍ତ ସ୍ଥାପନକାରୀ"
-
-#: knewstuff/knewstuff2/ui/uploaddialog.cpp:91
-msgid "Please put in a name."
-msgstr "ଦୟାକରି ଗୋଟିଏ ନାମରେ ରଖନ୍ତୁ।"
-
-#: knewstuff/knewstuff2/ui/uploaddialog.cpp:159
-msgid "Old upload information found, fill out fields?"
-msgstr "ପୁରୁଣା ଆରୋହଣ ସୂଚନା ମିଳିଲା, ସ୍ଥାନଗୁଡିକୁ ପୁରଣ କରିବେ କି?"
-
-#: knewstuff/knewstuff2/ui/uploaddialog.cpp:161
-msgid "Fill Out"
-msgstr "ଭରଣ କରନ୍ତୁ"
-
-#: knewstuff/knewstuff2/ui/uploaddialog.cpp:162
-msgid "Do Not Fill Out"
-msgstr "ଭରଣ କରନ୍ତୁ ନାହିଁ"
 
 #: knewstuff/knewstuff3/downloadwidget.cpp:241
 msgid "Icons view mode"
@@ -12440,6 +12440,42 @@ msgstr[1] "ପ୍ରାକଦର୍ଶନ ଧାରଣ କରୁଅଛି"
 msgid "Installing"
 msgstr "ସ୍ଥାପନ କରନ୍ତୁ"
 
+#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:90
+#, fuzzy, kde-format
+#| msgid "Suggestions"
+msgid "Details for %1"
+msgstr "ପ୍ରସ୍ତାବଗୁଡ଼ିକ"
+
+#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:110
+#, fuzzy
+#| msgid "Homepage"
+msgctxt "A link to the description of this Get Hot New Stuff item"
+msgid "Homepage"
+msgstr "ମୂଳସ୍ଥାନ ପୃଷ୍ଠା"
+
+#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:113
+#, fuzzy
+#| msgid "HTML documentation"
+msgctxt ""
+"A link to make a donation for a Get Hot New Stuff item (opens a web browser)"
+msgid "Make a donation"
+msgstr "HTML ଦଲିଲିକରଣ"
+
+#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:117
+#, kde-format
+msgctxt "A link to the knowledgebase (like a forum) (opens a web browser)"
+msgid "Knowledgebase (no entries)"
+msgid_plural "Knowledgebase (%1 entries)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:120
+#, fuzzy
+#| msgid "Open in New &Window"
+msgctxt "Tooltip for a link in a dialog"
+msgid "Opens in a browser window"
+msgstr "ନୂତନ ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ (&W)"
+
 #: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:100
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:259
 #, fuzzy, kde-format
@@ -12492,42 +12528,6 @@ msgstr "ଅଦ୍ୟତନ"
 msgid "Install Again"
 msgstr "ସ୍ଥାପନ କରନ୍ତୁ"
 
-#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:90
-#, fuzzy, kde-format
-#| msgid "Suggestions"
-msgid "Details for %1"
-msgstr "ପ୍ରସ୍ତାବଗୁଡ଼ିକ"
-
-#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:110
-#, fuzzy
-#| msgid "Homepage"
-msgctxt "A link to the description of this Get Hot New Stuff item"
-msgid "Homepage"
-msgstr "ମୂଳସ୍ଥାନ ପୃଷ୍ଠା"
-
-#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:113
-#, fuzzy
-#| msgid "HTML documentation"
-msgctxt ""
-"A link to make a donation for a Get Hot New Stuff item (opens a web browser)"
-msgid "Make a donation"
-msgstr "HTML ଦଲିଲିକରଣ"
-
-#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:117
-#, kde-format
-msgctxt "A link to the knowledgebase (like a forum) (opens a web browser)"
-msgid "Knowledgebase (no entries)"
-msgid_plural "Knowledgebase (%1 entries)"
-msgstr[0] ""
-msgstr[1] ""
-
-#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:120
-#, fuzzy
-#| msgid "Open in New &Window"
-msgctxt "Tooltip for a link in a dialog"
-msgid "Opens in a browser window"
-msgstr "ନୂତନ ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ (&W)"
-
 #: knotify/config/knotifyconfigwidget.cpp:107
 msgid "Configure Notifications"
 msgstr "ବିଜ୍ଞପ୍ତିଗୁଡିକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
@@ -12546,45 +12546,6 @@ msgstr "ଶୀର୍ଷକ"
 msgctxt "Description of the notified event"
 msgid "Description"
 msgstr "ବର୍ଣ୍ଣନା"
-
-#: kparts/browserextension.cpp:645
-#, kde-format
-msgid "<qt>Do you want to search the Internet for <b>%1</b>?</qt>"
-msgstr "<qt>ଆପଣ <b>%1</b> ପାଇଁ ଜାଲକକୁ ଖୋଜିବାକୁ ଚାହୁଁଛନ୍ତି?</qt>"
-
-#: kparts/browserextension.cpp:646
-msgid "Internet Search"
-msgstr "ଜାଲକ ଖୋଜା"
-
-#: kparts/browserextension.cpp:646
-msgid "&Search"
-msgstr "ଖୋଜନ୍ତୁ (&S)"
-
-#: kparts/browserrun.cpp:335
-#, kde-format
-msgid "Do you really want to execute '%1'?"
-msgstr "କଣ ଆପଣ ପ୍ରକୃତରେ '%1'କୁ ନିଷ୍ପାଦନ କରିବାକୁ ଚାହୁଁଛନ୍ତି? "
-
-#: kparts/browserrun.cpp:336
-msgid "Execute File?"
-msgstr "ଫାଇଲ ନିଷ୍ପାଦନ କରନ୍ତୁ?"
-
-#: kparts/part.cpp:815
-msgid "Untitled"
-msgstr "ଶୀର୍ଷକ ହୀନ"
-
-#: kparts/part.cpp:821
-#, kde-format
-msgid ""
-"The document \"%1\" has been modified.\n"
-"Do you want to save your changes or discard them?"
-msgstr ""
-"ଦଲିଲ \"%1\" ଟି ପରିବର୍ତ୍ତିତ ହୋଇଯାଇଛି।\n"
-"ଆପଣଙ୍କର ପରିବର୍ତ୍ତନକୁ ସଂରକ୍ଷଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି ଅଥବା ପରିତ୍ୟାଗ କରିବାକୁ ଚାହୁଁଛନ୍ତି?"
-
-#: kparts/part.cpp:823
-msgid "Close Document"
-msgstr "ଦଲିଲ ବନ୍ଦ କରନ୍ତୁ"
 
 #: kparts/browseropenorsavequestion.cpp:110
 #: kparts/browseropenorsavequestion.cpp:339
@@ -12656,6 +12617,45 @@ msgstr "ନାମ: "
 msgctxt "@info:whatsthis"
 msgid "This is the file name suggested by the server"
 msgstr ""
+
+#: kparts/browserextension.cpp:644
+#, kde-format
+msgid "<qt>Do you want to search the Internet for <b>%1</b>?</qt>"
+msgstr "<qt>ଆପଣ <b>%1</b> ପାଇଁ ଜାଲକକୁ ଖୋଜିବାକୁ ଚାହୁଁଛନ୍ତି?</qt>"
+
+#: kparts/browserextension.cpp:645
+msgid "Internet Search"
+msgstr "ଜାଲକ ଖୋଜା"
+
+#: kparts/browserextension.cpp:645
+msgid "&Search"
+msgstr "ଖୋଜନ୍ତୁ (&S)"
+
+#: kparts/browserrun.cpp:335
+#, kde-format
+msgid "Do you really want to execute '%1'?"
+msgstr "କଣ ଆପଣ ପ୍ରକୃତରେ '%1'କୁ ନିଷ୍ପାଦନ କରିବାକୁ ଚାହୁଁଛନ୍ତି? "
+
+#: kparts/browserrun.cpp:336
+msgid "Execute File?"
+msgstr "ଫାଇଲ ନିଷ୍ପାଦନ କରନ୍ତୁ?"
+
+#: kparts/part.cpp:815
+msgid "Untitled"
+msgstr "ଶୀର୍ଷକ ହୀନ"
+
+#: kparts/part.cpp:821
+#, kde-format
+msgid ""
+"The document \"%1\" has been modified.\n"
+"Do you want to save your changes or discard them?"
+msgstr ""
+"ଦଲିଲ \"%1\" ଟି ପରିବର୍ତ୍ତିତ ହୋଇଯାଇଛି।\n"
+"ଆପଣଙ୍କର ପରିବର୍ତ୍ତନକୁ ସଂରକ୍ଷଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି ଅଥବା ପରିତ୍ୟାଗ କରିବାକୁ ଚାହୁଁଛନ୍ତି?"
+
+#: kparts/part.cpp:823
+msgid "Close Document"
+msgstr "ଦଲିଲ ବନ୍ଦ କରନ୍ତୁ"
 
 #: kpty/kptydevice.cpp:322
 msgid "Error reading from PTY"
@@ -12859,24 +12859,6 @@ msgctxt "Argument is application name"
 msgid "This configuration section is already opened in %1"
 msgstr "ଏହି ବିନ୍ୟାସିତ ଅଂଶଟି %1ରେ ପୂର୍ବରୁ ଖୋଲାଅଛି"
 
-#: kutils/kcmultidialog.cpp:59
-#, fuzzy
-#| msgid ""
-#| "The document \"%1\" has been modified.\n"
-#| "Do you want to save your changes or discard them?"
-msgid ""
-"The settings of the current module have changed.\n"
-"Do you want to apply the changes or discard them?"
-msgstr ""
-"ଦଲିଲ \"%1\" ଟି ପରିବର୍ତ୍ତିତ ହୋଇଯାଇଛି।\n"
-"ଆପଣଙ୍କର ପରିବର୍ତ୍ତନକୁ ସଂରକ୍ଷଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି ଅଥବା ପରିତ୍ୟାଗ କରିବାକୁ ଚାହୁଁଛନ୍ତି?"
-
-#: kutils/kcmultidialog.cpp:61
-#, fuzzy
-#| msgid "Settings"
-msgid "Apply Settings"
-msgstr "ବିନ୍ୟାସଗୁଡିକ"
-
 #: kutils/kprintpreview.cpp:123
 msgid "Could not load print preview part"
 msgstr "ମୁଦ୍ରଣ ପ୍ରତିଛବି ଅଂଶକୁ ଧାରଣ କରିପାରିଲାନାହିଁ"
@@ -12945,6 +12927,24 @@ msgstr "ପ୍ଲଗଇନଗୁଡିକୁ ଖୋଜନ୍ତୁ"
 msgctxt "Used only for plugins"
 msgid "About %1"
 msgstr "%1 ବିଷୟରେ"
+
+#: kutils/kcmultidialog.cpp:59
+#, fuzzy
+#| msgid ""
+#| "The document \"%1\" has been modified.\n"
+#| "Do you want to save your changes or discard them?"
+msgid ""
+"The settings of the current module have changed.\n"
+"Do you want to apply the changes or discard them?"
+msgstr ""
+"ଦଲିଲ \"%1\" ଟି ପରିବର୍ତ୍ତିତ ହୋଇଯାଇଛି।\n"
+"ଆପଣଙ୍କର ପରିବର୍ତ୍ତନକୁ ସଂରକ୍ଷଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି ଅଥବା ପରିତ୍ୟାଗ କରିବାକୁ ଚାହୁଁଛନ୍ତି?"
+
+#: kutils/kcmultidialog.cpp:61
+#, fuzzy
+#| msgid "Settings"
+msgid "Apply Settings"
+msgstr "ବିନ୍ୟାସଗୁଡିକ"
 
 #: kutils/ksettings/componentsdialog.cpp:53
 msgid "Select Components"
@@ -13103,31 +13103,6 @@ msgstr ""
 msgid "The ontology files containing the ontologies to be generated."
 msgstr ""
 
-#: nepomuk/ui/nepomukmassupdatejob.cpp:76
-msgid "Changing annotations"
-msgstr "ଟୀକାଗୁଡିକୁ ପରିବର୍ତ୍ତନକରାଯାଉଛି"
-
-#: nepomuk/ui/tagwidget.cpp:61
-#, fuzzy
-#| msgid "Show all options"
-msgctxt "@label"
-msgid "Show all tags..."
-msgstr "ସମସ୍ତ ବିକଳ୍ପଗୁଡିକୁ ଦର୍ଶାନ୍ତୁ"
-
-#: nepomuk/ui/tagwidget.cpp:112
-#, fuzzy
-#| msgid "Add..."
-msgctxt "@label"
-msgid "Add Tags..."
-msgstr "ଯୋଗକରନ୍ତୁ..."
-
-#: nepomuk/ui/tagwidget.cpp:112
-#, fuzzy
-#| msgid "Change &Icon..."
-msgctxt "@label"
-msgid "Change..."
-msgstr "ଚିତ୍ର ସଂକେତ ପରିବର୍ତ୍ତନ କରନ୍ତୁ (&I)..."
-
 #: nepomuk/ui/kedittagsdialog.cpp:49
 #, fuzzy
 #| msgid "Change Icon"
@@ -13188,13 +13163,30 @@ msgctxt "@action:button"
 msgid "Cancel"
 msgstr "ବାତିଲ କରନ୍ତୁ"
 
-#: nepomuk/utils/daterangeselectionwidget.cpp:201
-msgid "This Week"
-msgstr ""
+#: nepomuk/ui/nepomukmassupdatejob.cpp:76
+msgid "Changing annotations"
+msgstr "ଟୀକାଗୁଡିକୁ ପରିବର୍ତ୍ତନକରାଯାଉଛି"
 
-#: nepomuk/utils/daterangeselectionwidget.cpp:206
-msgid "This Month"
-msgstr ""
+#: nepomuk/ui/tagwidget.cpp:61
+#, fuzzy
+#| msgid "Show all options"
+msgctxt "@label"
+msgid "Show all tags..."
+msgstr "ସମସ୍ତ ବିକଳ୍ପଗୁଡିକୁ ଦର୍ଶାନ୍ତୁ"
+
+#: nepomuk/ui/tagwidget.cpp:112
+#, fuzzy
+#| msgid "Add..."
+msgctxt "@label"
+msgid "Add Tags..."
+msgstr "ଯୋଗକରନ୍ତୁ..."
+
+#: nepomuk/ui/tagwidget.cpp:112
+#, fuzzy
+#| msgid "Change &Icon..."
+msgctxt "@label"
+msgid "Change..."
+msgstr "ଚିତ୍ର ସଂକେତ ପରିବର୍ତ୍ତନ କରନ୍ତୁ (&I)..."
 
 #: nepomuk/utils/dynamicresourcefacet.cpp:256
 #, fuzzy
@@ -13440,6 +13432,14 @@ msgstr ""
 msgctxt "@option:radio A filter on the rating of a resource"
 msgid "Max Rating"
 msgstr "ଆକଳନ: "
+
+#: nepomuk/utils/daterangeselectionwidget.cpp:201
+msgid "This Week"
+msgstr ""
+
+#: nepomuk/utils/daterangeselectionwidget.cpp:206
+msgid "This Month"
+msgstr ""
 
 #: kdeui/colors/kcolorcombo.cpp:352
 msgctxt "Custom color"
