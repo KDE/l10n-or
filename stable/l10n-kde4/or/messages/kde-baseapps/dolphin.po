@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-02-23 11:28+0100\n"
+"POT-Creation-Date: 2012-02-24 11:19+0100\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -814,74 +814,6 @@ msgid_plural "Size: %1 pixels"
 msgstr[0] "ଆକାର: 1 ପିକସେଲ"
 msgstr[1] "ଆକାର: %1 ପିକସେଲ"
 
-#: views/dolphinview.cpp:517
-#, kde-format
-msgctxt "@info:status"
-msgid "<filename>%1</filename> selected"
-msgstr "<filename>%1</filename> ବଚ୍ଛିତ"
-
-#: views/dolphinview.cpp:520
-#, kde-format
-msgctxt "@info:status"
-msgid "1 Folder selected"
-msgid_plural "%1 Folders selected"
-msgstr[0] ""
-msgstr[1] "%1 ଫୋଲଡ଼ର ବଛାହୋଇଛି"
-
-#: views/dolphinview.cpp:521
-#, kde-format
-msgctxt "@info:status"
-msgid "1 File selected"
-msgid_plural "%1 Files selected"
-msgstr[0] "1 ଫାଇଲ ବଛାହୋଇଛି"
-msgstr[1] "%1 ଫାଇଲ ବଛାହୋଇଛି"
-
-#: views/dolphinview.cpp:525
-#, fuzzy, kde-format
-#| msgctxt "@label"
-#| msgid "Folder"
-msgctxt "@info:status"
-msgid "1 Folder"
-msgid_plural "%1 Folders"
-msgstr[0] "ଫୋଲଡ଼ର"
-msgstr[1] "ଫୋଲଡ଼ର"
-
-#: views/dolphinview.cpp:526
-#, kde-format
-msgctxt "@info:status"
-msgid "1 File"
-msgid_plural "%1 Files"
-msgstr[0] ""
-msgstr[1] ""
-
-#: views/dolphinview.cpp:530
-#, kde-format
-msgctxt "@info:status folders, files (size)"
-msgid "%1, %2 (%3)"
-msgstr "%1, %2 (%3)"
-
-#: views/dolphinview.cpp:533
-#, kde-format
-msgctxt "@info:status files (size)"
-msgid "%1 (%2)"
-msgstr "%1 (%2)"
-
-#: views/dolphinview.cpp:1077
-msgctxt "@info:status"
-msgid "Delete operation completed."
-msgstr "ଅପସାରଣ କ୍ରିୟା ସମାପ୍ତହୋଇଛି।"
-
-#: views/dolphinview.cpp:1152
-msgctxt "@info:status"
-msgid "The location is empty."
-msgstr "ସ୍ଥାନଟି ଖାଲିଅଛି।"
-
-#: views/dolphinview.cpp:1154
-#, kde-format
-msgctxt "@info:status"
-msgid "The location '%1' is invalid."
-msgstr "ସ୍ଥାନ '%1' ଟି ଅବୈଧ ଏଟେ।"
-
 #: views/draganddrophelper.cpp:34
 #, fuzzy, kde-format
 #| msgctxt "@label:textbox"
@@ -894,6 +826,74 @@ msgstr "<filename>%1</filename> ବସ୍ତୁକୁ ପୁନଃ ନାମକ�
 msgctxt "@info:status"
 msgid "A folder cannot be dropped into itself"
 msgstr ""
+
+#: views/dolphinview.cpp:519
+#, kde-format
+msgctxt "@info:status"
+msgid "<filename>%1</filename> selected"
+msgstr "<filename>%1</filename> ବଚ୍ଛିତ"
+
+#: views/dolphinview.cpp:522
+#, kde-format
+msgctxt "@info:status"
+msgid "1 Folder selected"
+msgid_plural "%1 Folders selected"
+msgstr[0] ""
+msgstr[1] "%1 ଫୋଲଡ଼ର ବଛାହୋଇଛି"
+
+#: views/dolphinview.cpp:523
+#, kde-format
+msgctxt "@info:status"
+msgid "1 File selected"
+msgid_plural "%1 Files selected"
+msgstr[0] "1 ଫାଇଲ ବଛାହୋଇଛି"
+msgstr[1] "%1 ଫାଇଲ ବଛାହୋଇଛି"
+
+#: views/dolphinview.cpp:527
+#, fuzzy, kde-format
+#| msgctxt "@label"
+#| msgid "Folder"
+msgctxt "@info:status"
+msgid "1 Folder"
+msgid_plural "%1 Folders"
+msgstr[0] "ଫୋଲଡ଼ର"
+msgstr[1] "ଫୋଲଡ଼ର"
+
+#: views/dolphinview.cpp:528
+#, kde-format
+msgctxt "@info:status"
+msgid "1 File"
+msgid_plural "%1 Files"
+msgstr[0] ""
+msgstr[1] ""
+
+#: views/dolphinview.cpp:532
+#, kde-format
+msgctxt "@info:status folders, files (size)"
+msgid "%1, %2 (%3)"
+msgstr "%1, %2 (%3)"
+
+#: views/dolphinview.cpp:535
+#, kde-format
+msgctxt "@info:status files (size)"
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: views/dolphinview.cpp:1095
+msgctxt "@info:status"
+msgid "Delete operation completed."
+msgstr "ଅପସାରଣ କ୍ରିୟା ସମାପ୍ତହୋଇଛି।"
+
+#: views/dolphinview.cpp:1170
+msgctxt "@info:status"
+msgid "The location is empty."
+msgstr "ସ୍ଥାନଟି ଖାଲିଅଛି।"
+
+#: views/dolphinview.cpp:1172
+#, kde-format
+msgctxt "@info:status"
+msgid "The location '%1' is invalid."
+msgstr "ସ୍ଥାନ '%1' ଟି ଅବୈଧ ଏଟେ।"
 
 #: views/versioncontrol/versioncontrolobserver.cpp:204
 msgctxt "@info:status"
@@ -1269,6 +1269,11 @@ msgid_plural "%1 items"
 msgstr[0] "%1 ବସ୍ତୁ ବଛାହୋଇଛି"
 msgstr[1] "%1 ବସ୍ତୁ ବଛାହୋଇଛି"
 
+#: kitemviews/kfileitemlistview.cpp:552
+msgctxt "@item:intable"
+msgid "items"
+msgstr ""
+
 #: kitemviews/kfileitemmodel.cpp:268
 #, fuzzy
 #| msgctxt "@title"
@@ -1514,11 +1519,6 @@ msgctxt "@title:group Files and folders by permissions"
 msgid "User: %1 | Group: %2 | Others: %3"
 msgstr "(ଚାଳକ: %1) (ଶ୍ରେଣୀ: %2) (ଅନ୍ୟମାନେ: %3)"
 
-#: kitemviews/kfileitemlistview.cpp:552
-msgctxt "@item:intable"
-msgid "items"
-msgstr ""
-
 #: main.cpp:35
 msgctxt "@title"
 msgid "Dolphin"
@@ -1620,6 +1620,122 @@ msgstr ""
 msgctxt "@info:shell"
 msgid "Document to open"
 msgstr "ଖୋଲିବା ପାଇଁ ଦଲିଲ"
+
+#: dolphinpart.cpp:145
+msgctxt "@action:inmenu Edit"
+msgid "&Edit File Type..."
+msgstr ""
+
+#: dolphinpart.cpp:149
+msgctxt "@action:inmenu Edit"
+msgid "Select Items Matching..."
+msgstr ""
+
+#: dolphinpart.cpp:154
+msgctxt "@action:inmenu Edit"
+msgid "Unselect Items Matching..."
+msgstr ""
+
+#: dolphinpart.cpp:160
+msgctxt "@action:inmenu Edit"
+msgid "Unselect All"
+msgstr ""
+
+#: dolphinpart.cpp:164 dolphinmainwindow.cpp:1645
+msgctxt "@action:inmenu Edit"
+msgid "Invert Selection"
+msgstr ""
+
+#: dolphinpart.cpp:177
+msgctxt "@action:inmenu Go"
+msgid "App&lications"
+msgstr ""
+
+#: dolphinpart.cpp:180
+msgctxt "@action:inmenu Go"
+msgid "&Network Folders"
+msgstr ""
+
+#: dolphinpart.cpp:183
+msgctxt "@action:inmenu Go"
+msgid "Sett&ings"
+msgstr ""
+
+#: dolphinpart.cpp:186
+msgctxt "@action:inmenu Go"
+msgid "Trash"
+msgstr ""
+
+#: dolphinpart.cpp:189
+msgctxt "@action:inmenu Go"
+msgid "Autostart"
+msgstr ""
+
+#: dolphinpart.cpp:194
+msgctxt "@action:inmenu Tools"
+msgid "Find File..."
+msgstr ""
+
+#: dolphinpart.cpp:202
+msgctxt "@action:inmenu Tools"
+msgid "Open &Terminal"
+msgstr ""
+
+#: dolphinpart.cpp:271
+msgctxt "@title"
+msgid "Dolphin Part"
+msgstr ""
+
+#: dolphinpart.cpp:461
+#, fuzzy
+#| msgctxt "@action:inmenu"
+#| msgid "Delete"
+msgctxt "@title:window"
+msgid "Select"
+msgstr "ଅପସାରଣ କରନ୍ତୁ"
+
+#: dolphinpart.cpp:462
+msgid "Select all items matching this pattern:"
+msgstr ""
+
+#: dolphinpart.cpp:468
+msgctxt "@title:window"
+msgid "Unselect"
+msgstr ""
+
+#: dolphinpart.cpp:469
+msgid "Unselect all items matching this pattern:"
+msgstr ""
+
+#: dolphinviewcontainer.cpp:338
+msgctxt "@info:progress"
+msgid "Loading folder..."
+msgstr "ଫୋଲଡ଼ର ଧାରଣ କରୁଅଛି..."
+
+#: dolphinviewcontainer.cpp:349
+msgctxt "@info"
+msgid "Searching..."
+msgstr ""
+
+#: dolphinviewcontainer.cpp:369
+msgctxt "@info:status"
+msgid "No items found."
+msgstr ""
+
+#: dolphinviewcontainer.cpp:512
+msgctxt "@info:status"
+msgid "Dolphin does not support web pages, the web browser has been launched"
+msgstr "Dolphin ୱେବ ପୃଷ୍ଟାଗୁଡ଼ିକୁ ସମର୍ଥନ କରେନାହିଁ, ୱେବ ବ୍ରାଉଜର ଆରମ୍ଭ ହୋଇଛି"
+
+#: dolphinviewcontainer.cpp:524
+msgctxt "@info:status"
+msgid "Protocol not supported by Dolphin, Konqueror has been launched"
+msgstr ""
+
+#: dolphinviewcontainer.cpp:531
+msgctxt "@info:status"
+msgid "Invalid protocol"
+msgstr "ଅବୈଧ ପ୍ରୋଟୋକଲ"
 
 #: dolphinmainwindow.cpp:347
 msgctxt "@info:status"
@@ -1754,11 +1870,6 @@ msgstr "ଲଗାନ୍ତୁ"
 #: dolphinmainwindow.cpp:1640
 msgctxt "@action:inmenu Edit"
 msgid "Select All"
-msgstr ""
-
-#: dolphinmainwindow.cpp:1645 dolphinpart.cpp:164
-msgctxt "@action:inmenu Edit"
-msgid "Invert Selection"
 msgstr ""
 
 #: dolphinmainwindow.cpp:1658
@@ -1906,117 +2017,6 @@ msgstr ""
 msgctxt "@info"
 msgid "Split view"
 msgstr ""
-
-#: dolphinpart.cpp:145
-msgctxt "@action:inmenu Edit"
-msgid "&Edit File Type..."
-msgstr ""
-
-#: dolphinpart.cpp:149
-msgctxt "@action:inmenu Edit"
-msgid "Select Items Matching..."
-msgstr ""
-
-#: dolphinpart.cpp:154
-msgctxt "@action:inmenu Edit"
-msgid "Unselect Items Matching..."
-msgstr ""
-
-#: dolphinpart.cpp:160
-msgctxt "@action:inmenu Edit"
-msgid "Unselect All"
-msgstr ""
-
-#: dolphinpart.cpp:177
-msgctxt "@action:inmenu Go"
-msgid "App&lications"
-msgstr ""
-
-#: dolphinpart.cpp:180
-msgctxt "@action:inmenu Go"
-msgid "&Network Folders"
-msgstr ""
-
-#: dolphinpart.cpp:183
-msgctxt "@action:inmenu Go"
-msgid "Sett&ings"
-msgstr ""
-
-#: dolphinpart.cpp:186
-msgctxt "@action:inmenu Go"
-msgid "Trash"
-msgstr ""
-
-#: dolphinpart.cpp:189
-msgctxt "@action:inmenu Go"
-msgid "Autostart"
-msgstr ""
-
-#: dolphinpart.cpp:194
-msgctxt "@action:inmenu Tools"
-msgid "Find File..."
-msgstr ""
-
-#: dolphinpart.cpp:202
-msgctxt "@action:inmenu Tools"
-msgid "Open &Terminal"
-msgstr ""
-
-#: dolphinpart.cpp:271
-msgctxt "@title"
-msgid "Dolphin Part"
-msgstr ""
-
-#: dolphinpart.cpp:461
-#, fuzzy
-#| msgctxt "@action:inmenu"
-#| msgid "Delete"
-msgctxt "@title:window"
-msgid "Select"
-msgstr "ଅପସାରଣ କରନ୍ତୁ"
-
-#: dolphinpart.cpp:462
-msgid "Select all items matching this pattern:"
-msgstr ""
-
-#: dolphinpart.cpp:468
-msgctxt "@title:window"
-msgid "Unselect"
-msgstr ""
-
-#: dolphinpart.cpp:469
-msgid "Unselect all items matching this pattern:"
-msgstr ""
-
-#: dolphinviewcontainer.cpp:338
-msgctxt "@info:progress"
-msgid "Loading folder..."
-msgstr "ଫୋଲଡ଼ର ଧାରଣ କରୁଅଛି..."
-
-#: dolphinviewcontainer.cpp:349
-msgctxt "@info"
-msgid "Searching..."
-msgstr ""
-
-#: dolphinviewcontainer.cpp:369
-msgctxt "@info:status"
-msgid "No items found."
-msgstr ""
-
-#: dolphinviewcontainer.cpp:512
-msgctxt "@info:status"
-msgid "Dolphin does not support web pages, the web browser has been launched"
-msgstr "Dolphin ୱେବ ପୃଷ୍ଟାଗୁଡ଼ିକୁ ସମର୍ଥନ କରେନାହିଁ, ୱେବ ବ୍ରାଉଜର ଆରମ୍ଭ ହୋଇଛି"
-
-#: dolphinviewcontainer.cpp:524
-msgctxt "@info:status"
-msgid "Protocol not supported by Dolphin, Konqueror has been launched"
-msgstr ""
-
-#: dolphinviewcontainer.cpp:531
-msgctxt "@info:status"
-msgid "Invalid protocol"
-msgstr "ଅବୈଧ ପ୍ରୋଟୋକଲ"
 
 #: rc.cpp:1
 msgctxt "NAME OF TRANSLATORS"
