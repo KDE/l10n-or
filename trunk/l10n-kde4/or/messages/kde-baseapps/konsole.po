@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-02-26 03:57+0100\n"
+"POT-Creation-Date: 2012-02-27 04:47+0100\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -20,7 +20,7 @@ msgstr ""
 "\n"
 "\n"
 
-#: Application.cpp:398
+#: Application.cpp:409
 msgid "Toggle Background Window"
 msgstr ""
 
@@ -144,29 +144,29 @@ msgstr ""
 msgid "Accessible Color Scheme"
 msgstr ""
 
-#: ColorSchemeEditor.cpp:68
+#: ColorSchemeEditor.cpp:79
 msgctxt "@label:listbox Column header text for color names"
 msgid "Name"
 msgstr ""
 
-#: ColorSchemeEditor.cpp:68
+#: ColorSchemeEditor.cpp:79
 msgctxt "@label:listbox Column header text for the actual colors"
 msgid "Color"
 msgstr ""
 
-#: ColorSchemeEditor.cpp:90
+#: ColorSchemeEditor.cpp:101
 msgctxt "@info:status"
 msgid ""
 "The background transparency setting will not be used because your desktop "
 "does not appear to support transparent windows."
 msgstr ""
 
-#: ColorSchemeEditor.cpp:127
+#: ColorSchemeEditor.cpp:136
 msgctxt "@action:button"
 msgid "Select wallpaper image file"
 msgstr ""
 
-#: ColorSchemeEditor.cpp:204
+#: ColorSchemeEditor.cpp:207
 msgid "Click to choose different color"
 msgstr ""
 
@@ -600,35 +600,35 @@ msgstr ""
 msgid "Thanks to many others.\n"
 msgstr ""
 
-#: MainWindow.cpp:275
+#: MainWindow.cpp:277
 msgid "&New Tab"
 msgstr ""
 
-#: MainWindow.cpp:284
+#: MainWindow.cpp:286
 msgid "&Clone Tab"
 msgstr ""
 
-#: MainWindow.cpp:291
+#: MainWindow.cpp:293
 msgid "New &Window"
 msgstr ""
 
-#: MainWindow.cpp:298
+#: MainWindow.cpp:300
 msgid "Close Window"
 msgstr ""
 
-#: MainWindow.cpp:303
+#: MainWindow.cpp:305
 msgid "&Bookmarks"
 msgstr ""
 
-#: MainWindow.cpp:321 Part.cpp:93
+#: MainWindow.cpp:323 Part.cpp:93
 msgid "Manage Profiles..."
 msgstr ""
 
-#: MainWindow.cpp:327
+#: MainWindow.cpp:329
 msgid "Activate Menu"
 msgstr ""
 
-#: MainWindow.cpp:457
+#: MainWindow.cpp:520
 #, kde-format
 msgctxt "@info"
 msgid "There are %1 tab open in this window. Do you still want to quit?"
@@ -637,45 +637,45 @@ msgid_plural ""
 msgstr[0] ""
 msgstr[1] ""
 
-#: MainWindow.cpp:461 SessionController.cpp:654 SessionController.cpp:679
+#: MainWindow.cpp:524 SessionController.cpp:654 SessionController.cpp:679
 msgid "Confirm Close"
 msgstr ""
 
-#: MainWindow.cpp:463
+#: MainWindow.cpp:526
 msgid "Close Current Tab"
 msgstr ""
 
-#: MainWindow.cpp:560
+#: MainWindow.cpp:623
 msgctxt "@title Preferences page name"
 msgid "General"
 msgstr ""
 
-#: MainWindow.cpp:565
+#: MainWindow.cpp:628
 msgctxt "@title Preferences page name"
 msgid "TabBar"
 msgstr ""
 
-#: ManageProfilesDialog.cpp:45
+#: ManageProfilesDialog.cpp:42
 msgctxt "@title:window"
 msgid "Manage Profiles"
 msgstr ""
 
-#: ManageProfilesDialog.cpp:212
+#: ManageProfilesDialog.cpp:210
 msgctxt "@title:column Profile label"
 msgid "Name"
 msgstr ""
 
-#: ManageProfilesDialog.cpp:213
+#: ManageProfilesDialog.cpp:211
 msgctxt "@title:column Display profile in file menu"
 msgid "Show in Menu"
 msgstr ""
 
-#: ManageProfilesDialog.cpp:214
+#: ManageProfilesDialog.cpp:212
 msgctxt "@title:column Profile shortcut text"
 msgid "Shortcut"
 msgstr ""
 
-#: ManageProfilesDialog.cpp:328
+#: ManageProfilesDialog.cpp:327
 msgctxt "@item This will be used as part of the file name"
 msgid "New Profile"
 msgstr ""
