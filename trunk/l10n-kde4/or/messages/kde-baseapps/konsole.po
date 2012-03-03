@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-03-02 04:45+0100\n"
+"POT-Creation-Date: 2012-03-03 04:31+0100\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1993,27 +1993,27 @@ msgstr ""
 msgid "Remote Host (Long): %H"
 msgstr ""
 
-#: TerminalDisplay.cpp:1086 TerminalDisplay.cpp:1087
+#: TerminalDisplay.cpp:1083 TerminalDisplay.cpp:1084
 msgid "Size: XXX x XXX"
 msgstr ""
 
-#: TerminalDisplay.cpp:1097
+#: TerminalDisplay.cpp:1094
 #, kde-format
 msgid "Size: %1 x %2"
 msgstr ""
 
-#: TerminalDisplay.cpp:2772
-msgid "&Paste Location"
-msgstr ""
-
-#: TerminalDisplay.cpp:2787
-msgid "Change &Directory To"
-msgstr ""
-
-#: TerminalDisplay.cpp:2853
+#: TerminalDisplay.cpp:2589
 msgid ""
 "<qt>Output has been <a href=\"http://en.wikipedia.org/wiki/Flow_control"
 "\">suspended</a> by pressing Ctrl+S.  Press <b>Ctrl+Q</b> to resume.</qt>"
+msgstr ""
+
+#: TerminalDisplay.cpp:2814
+msgid "&Paste Location"
+msgstr ""
+
+#: TerminalDisplay.cpp:2829
+msgid "Change &Directory To"
 msgstr ""
 
 #: ViewContainer.cpp:448
