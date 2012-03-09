@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: useraccount\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-11-10 03:41+0100\n"
+"POT-Creation-Date: 2012-03-09 04:13+0100\n"
 "PO-Revision-Date: 2009-01-02 11:51+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -25,30 +25,38 @@ msgctxt "@title:window"
 msgid "Change your Face"
 msgstr ""
 
-#: chfacedlg.cpp:75
+#: chfacedlg.cpp:60
+msgid "Custom Image..."
+msgstr ""
+
+#: chfacedlg.cpp:61
+msgid "Remove Image"
+msgstr ""
+
+#: chfacedlg.cpp:78
 msgid "&Acquire Image..."
 msgstr ""
 
-#: chfacedlg.cpp:95
+#: chfacedlg.cpp:98
 msgid "(Custom)"
 msgstr ""
 
-#: chfacedlg.cpp:114 main.cpp:228
+#: chfacedlg.cpp:117
 msgid "There was an error loading the image."
 msgstr ""
 
-#: chfacedlg.cpp:132 chfacedlg.cpp:168
+#: chfacedlg.cpp:135 chfacedlg.cpp:177
 #, kde-format
 msgid ""
 "There was an error saving the image:\n"
 "%1"
 msgstr ""
 
-#: chfacedlg.cpp:143
+#: chfacedlg.cpp:146
 msgid "&Save copy in custom faces folder for future use"
 msgstr ""
 
-#: chfacedlg.cpp:149
+#: chfacedlg.cpp:152
 msgctxt "@title:window"
 msgid "Choose Image"
 msgstr ""
@@ -155,7 +163,12 @@ msgstr ""
 msgid "There was an error saving the image: %1"
 msgstr ""
 
-#: main.cpp:296
+#: main.cpp:218
+#, kde-format
+msgid "There was an error deleting the image: %1"
+msgstr ""
+
+#: main.cpp:297
 #, kde-format
 msgid ""
 "%1 does not appear to be an image file.\n"
