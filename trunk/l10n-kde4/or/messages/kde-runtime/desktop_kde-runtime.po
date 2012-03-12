@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-03-05 04:06+0000\n"
+"POT-Creation-Date: 2012-03-12 03:43+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -653,6 +653,22 @@ msgid ""
 "Keeps track of the network and updates directory listings of the network:/ "
 "protocol"
 msgstr ""
+
+#: kioslave/recentdocuments/recentdocumentsnotifier.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Recent Documents"
+msgctxt "Name"
+msgid "Recent Document Watcher"
+msgstr "ପ୍ରଚଳିତ ଦଲିଲଗୁଡ଼ିକ"
+
+#: kioslave/recentdocuments/recentdocumentsnotifier.desktop:11
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Recent Documents"
+msgctxt "Comment"
+msgid "Monitors Recent Document for changes"
+msgstr "ପ୍ରଚଳିତ ଦଲିଲଗୁଡ଼ିକ"
 
 #: kioslave/remote/kdedmodule/remotedirnotify.desktop:3
 #, fuzzy
@@ -8748,10 +8764,6 @@ msgstr ""
 #~ msgctxt "Name"
 #~ msgid "PowerDevil"
 #~ msgstr "PowerDevil"
-
-#~ msgctxt "Name"
-#~ msgid "Recent Documents"
-#~ msgstr "ପ୍ରଚଳିତ ଦଲିଲଗୁଡ଼ିକ"
 
 #~ msgctxt "Comment"
 #~ msgid "Find applications, control panels and services"
