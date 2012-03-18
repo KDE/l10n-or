@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-03-17 04:26+0100\n"
+"POT-Creation-Date: 2012-03-18 04:30+0100\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -136,11 +136,11 @@ msgctxt "@item:intable palette"
 msgid "Color 8 (Intense)"
 msgstr ""
 
-#: ColorScheme.cpp:296
+#: ColorScheme.cpp:295
 msgid "Un-named Color Scheme"
 msgstr ""
 
-#: ColorScheme.cpp:456
+#: ColorScheme.cpp:455
 msgid "Accessible Color Scheme"
 msgstr ""
 
@@ -178,102 +178,102 @@ msgstr ""
 msgid "Edit Profile"
 msgstr ""
 
-#: EditProfileDialog.cpp:135
+#: EditProfileDialog.cpp:132
 msgid "<p>Each profile must have a name before it can be saved into disk.</p>"
 msgstr ""
 
-#: EditProfileDialog.cpp:166
+#: EditProfileDialog.cpp:163
 #, kde-format
 msgid "Editing profile: %2"
 msgid_plural "Editing %1 profiles: %2"
 msgstr[0] ""
 msgstr[1] ""
 
-#: EditProfileDialog.cpp:171
+#: EditProfileDialog.cpp:168
 #, kde-format
 msgid "Edit Profile \"%1\""
 msgstr ""
 
-#: EditProfileDialog.cpp:249
+#: EditProfileDialog.cpp:246
 msgid "Profile name is empty."
 msgstr ""
 
-#: EditProfileDialog.cpp:310
+#: EditProfileDialog.cpp:306
 msgid "One environment variable per line"
 msgstr ""
 
-#: EditProfileDialog.cpp:312
+#: EditProfileDialog.cpp:308
 msgid "Edit Environment"
 msgstr ""
 
-#: EditProfileDialog.cpp:334
+#: EditProfileDialog.cpp:330
 msgctxt "Unit of time"
 msgid " second"
 msgid_plural " seconds"
 msgstr[0] ""
 msgstr[1] ""
 
-#: EditProfileDialog.cpp:422
+#: EditProfileDialog.cpp:418
 msgid "Select Initial Directory"
 msgstr ""
 
-#: EditProfileDialog.cpp:607
+#: EditProfileDialog.cpp:603
 #, kde-format
 msgid "%1, size %2"
 msgstr ""
 
-#: EditProfileDialog.cpp:716 EditProfileDialog.cpp:725
+#: EditProfileDialog.cpp:712 EditProfileDialog.cpp:721
 msgid "New Color Scheme"
 msgstr ""
 
-#: EditProfileDialog.cpp:718
+#: EditProfileDialog.cpp:714
 msgid "Edit Color Scheme"
 msgstr ""
 
-#: EditProfileDialog.cpp:789
+#: EditProfileDialog.cpp:785
 msgid ""
 "This color scheme uses a transparent background which does not appear to be "
 "supported on your desktop"
 msgstr ""
 
-#: EditProfileDialog.cpp:794
+#: EditProfileDialog.cpp:790
 msgid ""
 "Konsole was started before desktop effects were enabled. You need to restart "
 "Konsole to see transparent background."
 msgstr ""
 
-#: EditProfileDialog.cpp:899 EditProfileDialog.cpp:910
+#: EditProfileDialog.cpp:895 EditProfileDialog.cpp:906
 msgid "New Key Binding List"
 msgstr ""
 
-#: EditProfileDialog.cpp:901
+#: EditProfileDialog.cpp:897
 msgid "Edit Key Binding List"
 msgstr ""
 
-#: EditProfileDialog.cpp:989 HistorySizeDialog.cpp:77
+#: EditProfileDialog.cpp:985 HistorySizeDialog.cpp:77
 msgctxt "Unit of scrollback"
 msgid " line"
 msgid_plural " lines"
 msgstr[0] ""
 msgstr[1] ""
 
-#: EditProfileDialog.cpp:1170
+#: EditProfileDialog.cpp:1158
 msgid "--- Type anything in this box ---"
 msgstr ""
 
-#: Filter.cpp:470
+#: Filter.cpp:468
 msgid "Open Link"
 msgstr ""
 
-#: Filter.cpp:471
+#: Filter.cpp:469
 msgid "Copy Link Address"
 msgstr ""
 
-#: Filter.cpp:473
+#: Filter.cpp:471
 msgid "Send Email To..."
 msgstr ""
 
-#: Filter.cpp:474
+#: Filter.cpp:472
 msgid "Copy Email Address"
 msgstr ""
 
@@ -637,7 +637,7 @@ msgid_plural ""
 msgstr[0] ""
 msgstr[1] ""
 
-#: MainWindow.cpp:524 SessionController.cpp:674 SessionController.cpp:699
+#: MainWindow.cpp:524 SessionController.cpp:673 SessionController.cpp:698
 msgid "Confirm Close"
 msgstr ""
 
@@ -680,7 +680,7 @@ msgctxt "@item This will be used as part of the file name"
 msgid "New Profile"
 msgstr ""
 
-#: Profile.cpp:142
+#: Profile.cpp:141
 msgid "Shell"
 msgstr ""
 
@@ -720,7 +720,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, descriptionLabel)
 #. i18n: file: ColorSchemeEditor.ui:22
 #. i18n: ectx: property (text), widget (QLabel, discriptionLabel)
-#: rc.cpp:14 rc.cpp:473
+#: rc.cpp:14 rc.cpp:467
 msgid "Description:"
 msgstr ""
 
@@ -1052,7 +1052,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QToolButton, dirSelectButton)
 #. i18n: file: ColorSchemeEditor.ui:97
 #. i18n: ectx: property (text), widget (QToolButton, wallpaperSelectButton)
-#: rc.cpp:164 rc.cpp:491
+#: rc.cpp:164 rc.cpp:485
 msgid "..."
 msgstr ""
 
@@ -1408,264 +1408,252 @@ msgid "Enable flow control using Ctrl+S, Ctrl+Q"
 msgstr ""
 
 #. i18n: file: EditProfileDialog.ui:878
-#. i18n: ectx: property (toolTip), widget (QCheckBox, enableResizeWindowButton)
-#: rc.cpp:386
-msgid "Allow terminal programs to resize the window"
-msgstr ""
-
-#. i18n: file: EditProfileDialog.ui:881
-#. i18n: ectx: property (text), widget (QCheckBox, enableResizeWindowButton)
-#: rc.cpp:389
-msgid "Allow programs to resize terminal window"
-msgstr ""
-
-#. i18n: file: EditProfileDialog.ui:894
 #. i18n: ectx: property (toolTip), widget (QCheckBox, enableBidiRenderingButton)
-#: rc.cpp:392
+#: rc.cpp:386
 msgid ""
 "Enable Bi-Directional display on terminals (valid for Arabic, Farsi or "
 "Hebrew only)"
 msgstr ""
 
-#. i18n: file: EditProfileDialog.ui:897
+#. i18n: file: EditProfileDialog.ui:881
 #. i18n: ectx: property (text), widget (QCheckBox, enableBidiRenderingButton)
-#: rc.cpp:395
+#: rc.cpp:389
 msgid "Enable Bi-Directional text rendering"
 msgstr ""
 
-#. i18n: file: EditProfileDialog.ui:907
+#. i18n: file: EditProfileDialog.ui:891
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_9)
-#: rc.cpp:398
+#: rc.cpp:392
 msgid "Mouse Interaction"
 msgstr ""
 
-#. i18n: file: EditProfileDialog.ui:918
+#. i18n: file: EditProfileDialog.ui:902
 #. i18n: ectx: property (text), widget (QLabel, label_11)
-#: rc.cpp:401
+#: rc.cpp:395
 msgid "Characters considered part of a word when double clicking:"
 msgstr ""
 
-#. i18n: file: EditProfileDialog.ui:931
+#. i18n: file: EditProfileDialog.ui:915
 #. i18n: ectx: property (toolTip), widget (KLineEdit, wordCharacterEdit)
-#: rc.cpp:404
+#: rc.cpp:398
 msgid ""
 "Characters which are considered part of a word when double-clicking to "
 "select whole words in the terminal"
 msgstr ""
 
-#. i18n: file: EditProfileDialog.ui:942
+#. i18n: file: EditProfileDialog.ui:926
 #. i18n: ectx: property (text), widget (QLabel, label_17)
-#: rc.cpp:407
+#: rc.cpp:401
 msgid "Triple-click select:"
 msgstr ""
 
-#. i18n: file: EditProfileDialog.ui:949
+#. i18n: file: EditProfileDialog.ui:933
 #. i18n: ectx: property (toolTip), widget (KComboBox, tripleClickModeCombo)
-#: rc.cpp:410
+#: rc.cpp:404
 msgid "Which part of current line should be selected with triple click ."
 msgstr ""
 
-#. i18n: file: EditProfileDialog.ui:953
+#. i18n: file: EditProfileDialog.ui:937
 #. i18n: ectx: property (text), item, widget (KComboBox, tripleClickModeCombo)
-#: rc.cpp:413
+#: rc.cpp:407
 msgid "The whole current line"
 msgstr ""
 
-#. i18n: file: EditProfileDialog.ui:958
+#. i18n: file: EditProfileDialog.ui:942
 #. i18n: ectx: property (text), item, widget (KComboBox, tripleClickModeCombo)
-#: rc.cpp:416
+#: rc.cpp:410
 msgid "From mouse position to the end of line"
 msgstr ""
 
-#. i18n: file: EditProfileDialog.ui:981
+#. i18n: file: EditProfileDialog.ui:965
 #. i18n: ectx: property (toolTip), widget (QCheckBox, underlineLinksButton)
-#: rc.cpp:419
+#: rc.cpp:413
 msgid ""
 "Text recognized as a link or an email address will be underlined when "
 "hovered by the mouse pointer."
 msgstr ""
 
-#. i18n: file: EditProfileDialog.ui:984
+#. i18n: file: EditProfileDialog.ui:968
 #. i18n: ectx: property (text), widget (QCheckBox, underlineLinksButton)
-#: rc.cpp:422
+#: rc.cpp:416
 msgid "Underline links"
 msgstr ""
 
-#. i18n: file: EditProfileDialog.ui:994
+#. i18n: file: EditProfileDialog.ui:978
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_8)
-#: rc.cpp:425
+#: rc.cpp:419
 msgid "Cursor"
 msgstr ""
 
-#. i18n: file: EditProfileDialog.ui:1009
+#. i18n: file: EditProfileDialog.ui:993
 #. i18n: ectx: property (toolTip), widget (QCheckBox, enableBlinkingCursorButton)
-#: rc.cpp:428
+#: rc.cpp:422
 msgid "Make the cursor blink regularly"
 msgstr ""
 
-#. i18n: file: EditProfileDialog.ui:1012
+#. i18n: file: EditProfileDialog.ui:996
 #. i18n: ectx: property (text), widget (QCheckBox, enableBlinkingCursorButton)
-#: rc.cpp:431
+#: rc.cpp:425
 msgid "Blinking cursor"
 msgstr ""
 
-#. i18n: file: EditProfileDialog.ui:1021
+#. i18n: file: EditProfileDialog.ui:1005
 #. i18n: ectx: property (text), widget (QLabel, label_8)
-#: rc.cpp:434
+#: rc.cpp:428
 msgid "Cursor shape:"
 msgstr ""
 
-#. i18n: file: EditProfileDialog.ui:1028
+#. i18n: file: EditProfileDialog.ui:1012
 #. i18n: ectx: property (toolTip), widget (KComboBox, cursorShapeCombo)
-#: rc.cpp:437
+#: rc.cpp:431
 msgid "Change the shape of the cursor"
 msgstr ""
 
-#. i18n: file: EditProfileDialog.ui:1032
+#. i18n: file: EditProfileDialog.ui:1016
 #. i18n: ectx: property (text), item, widget (KComboBox, cursorShapeCombo)
-#: rc.cpp:440
+#: rc.cpp:434
 msgctxt "The shape of the cursor"
 msgid "Block"
 msgstr ""
 
-#. i18n: file: EditProfileDialog.ui:1037
+#. i18n: file: EditProfileDialog.ui:1021
 #. i18n: ectx: property (text), item, widget (KComboBox, cursorShapeCombo)
-#: rc.cpp:443
+#: rc.cpp:437
 msgctxt "The shape of the cursor, similar to a capital I"
 msgid "I-Beam"
 msgstr ""
 
-#. i18n: file: EditProfileDialog.ui:1042
+#. i18n: file: EditProfileDialog.ui:1026
 #. i18n: ectx: property (text), item, widget (KComboBox, cursorShapeCombo)
-#: rc.cpp:446
+#: rc.cpp:440
 msgctxt "The shape of the cursor"
 msgid "Underline"
 msgstr ""
 
-#. i18n: file: EditProfileDialog.ui:1071
+#. i18n: file: EditProfileDialog.ui:1055
 #. i18n: ectx: property (toolTip), widget (QRadioButton, autoCursorColorButton)
-#: rc.cpp:449
+#: rc.cpp:443
 msgid "Set the cursor to match the color of the character underneath it."
 msgstr ""
 
-#. i18n: file: EditProfileDialog.ui:1074
+#. i18n: file: EditProfileDialog.ui:1058
 #. i18n: ectx: property (text), widget (QRadioButton, autoCursorColorButton)
-#: rc.cpp:452
+#: rc.cpp:446
 msgid "Set cursor color to match current character"
 msgstr ""
 
-#. i18n: file: EditProfileDialog.ui:1089
+#. i18n: file: EditProfileDialog.ui:1073
 #. i18n: ectx: property (toolTip), widget (QRadioButton, customCursorColorButton)
-#: rc.cpp:455
+#: rc.cpp:449
 msgid "Use a custom, fixed color for the cursor"
 msgstr ""
 
-#. i18n: file: EditProfileDialog.ui:1092
+#. i18n: file: EditProfileDialog.ui:1076
 #. i18n: ectx: property (text), widget (QRadioButton, customCursorColorButton)
-#: rc.cpp:458
+#: rc.cpp:452
 msgid "Custom cursor color:"
 msgstr ""
 
-#. i18n: file: EditProfileDialog.ui:1105
+#. i18n: file: EditProfileDialog.ui:1089
 #. i18n: ectx: property (toolTip), widget (KColorButton, customColorSelectButton)
-#: rc.cpp:461
+#: rc.cpp:455
 msgid "Select the color used to draw the cursor"
 msgstr ""
 
-#. i18n: file: EditProfileDialog.ui:1133
+#. i18n: file: EditProfileDialog.ui:1117
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_11)
-#: rc.cpp:464
+#: rc.cpp:458
 msgid "Encoding"
 msgstr ""
 
-#. i18n: file: EditProfileDialog.ui:1142
+#. i18n: file: EditProfileDialog.ui:1126
 #. i18n: ectx: property (text), widget (QLabel, label_14)
-#: rc.cpp:467
+#: rc.cpp:461
 msgid "Default character encoding:"
 msgstr ""
 
-#. i18n: file: EditProfileDialog.ui:1162
+#. i18n: file: EditProfileDialog.ui:1146
 #. i18n: ectx: property (text), widget (QPushButton, selectEncodingButton)
-#: rc.cpp:470
+#: rc.cpp:464
 msgctxt "@action:button Pick an encoding"
 msgid "Select"
 msgstr ""
 
 #. i18n: file: ColorSchemeEditor.ui:40
 #. i18n: ectx: property (text), widget (QCheckBox, randomizedBackgroundCheck)
-#: rc.cpp:476
+#: rc.cpp:470
 msgid "Vary the background color for each tab"
 msgstr ""
 
 #. i18n: file: ColorSchemeEditor.ui:49
 #. i18n: ectx: property (text), widget (QLabel, transparencyLabel)
-#: rc.cpp:479
+#: rc.cpp:473
 msgid "Background transparency:"
 msgstr ""
 
 #. i18n: file: ColorSchemeEditor.ui:69
 #. i18n: ectx: property (text), widget (QLabel, transparencyPercentLabel)
-#: rc.cpp:482
+#: rc.cpp:476
 msgid "Percent"
 msgstr ""
 
 #. i18n: file: ColorSchemeEditor.ui:83
 #. i18n: ectx: property (text), widget (QLabel, wallpaperLabel)
-#: rc.cpp:485
+#: rc.cpp:479
 msgid "Background image:"
 msgstr ""
 
 #. i18n: file: ColorSchemeEditor.ui:90
 #. i18n: ectx: property (toolTip), widget (KLineEdit, wallpaperPath)
-#: rc.cpp:488
+#: rc.cpp:482
 msgid "Edit the path of the background image"
 msgstr ""
 
 #. i18n: file: ColorSchemeEditor.ui:100
 #. i18n: ectx: property (toolTip), widget (QToolButton, wallpaperSelectButton)
-#: rc.cpp:494
+#: rc.cpp:488
 msgid "Choose the background image"
 msgstr ""
 
 #. i18n: file: ../desktop/konsoleui.rc:5
 #. i18n: ectx: Menu (file)
-#: rc.cpp:497
+#: rc.cpp:491
 msgid "File"
 msgstr ""
 
 #. i18n: file: ../desktop/konsoleui.rc:15
 #. i18n: ectx: Menu (edit)
-#: rc.cpp:500
+#: rc.cpp:494
 msgid "Edit"
 msgstr ""
 
 #. i18n: file: ../desktop/konsoleui.rc:18
 #. i18n: ectx: Menu (view)
-#: rc.cpp:503
+#: rc.cpp:497
 msgid "View"
 msgstr ""
 
 #. i18n: file: ../desktop/konsoleui.rc:19
 #. i18n: ectx: Menu (view-split)
-#: rc.cpp:506
+#: rc.cpp:500
 msgid "Split View"
 msgstr ""
 
 #. i18n: file: ../desktop/konsoleui.rc:33
 #. i18n: ectx: Menu (settings)
-#: rc.cpp:509
+#: rc.cpp:503
 msgid "Settings"
 msgstr ""
 
 #. i18n: file: ../desktop/konsoleui.rc:44
 #. i18n: ectx: Menu (help)
-#: rc.cpp:512
+#: rc.cpp:506
 msgid "Help"
 msgstr ""
 
 #. i18n: file: ../desktop/partui.rc:9
 #. i18n: ectx: Menu (history)
-#: rc.cpp:515
+#: rc.cpp:509
 msgid "S&crollback"
 msgstr ""
 
@@ -1733,154 +1721,154 @@ msgstr ""
 msgid "Konsole does not know how to open the bookmark: "
 msgstr ""
 
-#: SessionController.cpp:444
+#: SessionController.cpp:443
 msgid "&Close Tab"
 msgstr ""
 
-#: SessionController.cpp:450
+#: SessionController.cpp:449
 msgid "Open File Manager"
 msgstr ""
 
-#: SessionController.cpp:466
+#: SessionController.cpp:465
 msgid "Paste Selection"
 msgstr ""
 
-#: SessionController.cpp:470
+#: SessionController.cpp:469
 msgid "&Select All"
 msgstr ""
 
-#: SessionController.cpp:474
+#: SessionController.cpp:473
 msgid "Save Output &As..."
 msgstr ""
 
-#: SessionController.cpp:477
+#: SessionController.cpp:476
 msgid "Adjust Scrollback..."
 msgstr ""
 
-#: SessionController.cpp:481
+#: SessionController.cpp:480
 msgid "Clear Scrollback"
 msgstr ""
 
-#: SessionController.cpp:485
+#: SessionController.cpp:484
 msgid "Clear Scrollback and Reset"
 msgstr ""
 
-#: SessionController.cpp:491
+#: SessionController.cpp:490
 msgid "Edit Current Profile..."
 msgstr ""
 
-#: SessionController.cpp:494
+#: SessionController.cpp:493
 msgid "Switch Profile"
 msgstr ""
 
-#: SessionController.cpp:508
+#: SessionController.cpp:507
 msgid "&Rename Tab..."
 msgstr ""
 
-#: SessionController.cpp:514
+#: SessionController.cpp:513
 msgid "&All Tabs in Current Window"
 msgstr ""
 
-#: SessionController.cpp:521
+#: SessionController.cpp:520
 msgid "&Select Tabs..."
 msgstr ""
 
-#: SessionController.cpp:527
+#: SessionController.cpp:526
 msgctxt "@action:inmenu Do not select any tabs"
 msgid "&None"
 msgstr ""
 
-#: SessionController.cpp:535
+#: SessionController.cpp:534
 msgid "Copy Input To"
 msgstr ""
 
-#: SessionController.cpp:542
+#: SessionController.cpp:541
 msgid "&ZModem Upload..."
 msgstr ""
 
-#: SessionController.cpp:547
+#: SessionController.cpp:546
 msgid "Monitor for &Activity"
 msgstr ""
 
-#: SessionController.cpp:552
+#: SessionController.cpp:551
 msgid "Monitor for &Silence"
 msgstr ""
 
-#: SessionController.cpp:558
+#: SessionController.cpp:557
 msgid "Set &Encoding"
 msgstr ""
 
-#: SessionController.cpp:566
+#: SessionController.cpp:565
 msgid "Enlarge Font"
 msgstr ""
 
-#: SessionController.cpp:574
+#: SessionController.cpp:573
 msgid "Shrink Font"
 msgstr ""
 
-#: SessionController.cpp:668
+#: SessionController.cpp:667
 msgid ""
 "A program is currently running in this session.  Are you sure you want to "
 "close it?"
 msgstr ""
 
-#: SessionController.cpp:671
+#: SessionController.cpp:670
 #, kde-format
 msgid ""
 "The program '%1' is currently running in this session.  Are you sure you "
 "want to close it?"
 msgstr ""
 
-#: SessionController.cpp:693
+#: SessionController.cpp:692
 msgid ""
 "A program in this session would not die.  Are you sure you want to kill it "
 "by force?"
 msgstr ""
 
-#: SessionController.cpp:696
+#: SessionController.cpp:695
 #, kde-format
 msgid ""
 "The program '%1' is in this session would not die.  Are you sure you want to "
 "kill it by force?"
 msgstr ""
 
-#: SessionController.cpp:1249
+#: SessionController.cpp:1247
 msgid "Save ZModem Download to..."
 msgstr ""
 
-#: SessionController.cpp:1257
+#: SessionController.cpp:1255
 msgid ""
 "<p>A ZModem file transfer attempt has been detected, but no suitable ZModem "
 "software was found on this system.</p><p>You may wish to install the 'rzsz' "
 "or 'lrzsz' package.</p>"
 msgstr ""
 
-#: SessionController.cpp:1269
+#: SessionController.cpp:1267
 msgid ""
 "<p>The current session already has a ZModem file transfer in progress.</p>"
 msgstr ""
 
-#: SessionController.cpp:1278
+#: SessionController.cpp:1276
 msgid ""
 "<p>No suitable ZModem software was found on this system.</p><p>You may wish "
 "to install the 'rzsz' or 'lrzsz' package.</p>"
 msgstr ""
 
-#: SessionController.cpp:1284
+#: SessionController.cpp:1282
 msgid "Select Files for ZModem Upload"
 msgstr ""
 
-#: SessionController.cpp:1352
+#: SessionController.cpp:1350
 #, kde-format
 msgid "Save Output From %1"
 msgstr ""
 
-#: SessionController.cpp:1363
+#: SessionController.cpp:1361
 #, kde-format
 msgid "%1 is an invalid URL, the output could not be saved."
 msgstr ""
 
-#: SessionController.cpp:1439
+#: SessionController.cpp:1436
 #, kde-format
 msgid ""
 "A problem occurred when saving the output.\n"
@@ -1912,46 +1900,46 @@ msgstr ""
 msgid "Could not start program '%1' with arguments '%2'."
 msgstr ""
 
-#: Session.cpp:586
+#: Session.cpp:585
 #, kde-format
 msgid "Silence in session '%1'"
 msgstr ""
 
-#: Session.cpp:633
+#: Session.cpp:632
 #, kde-format
 msgid "Bell in session '%1'"
 msgstr ""
 
-#: Session.cpp:636
+#: Session.cpp:635
 #, kde-format
 msgid "Activity in session '%1'"
 msgstr ""
 
-#: Session.cpp:795
+#: Session.cpp:794
 msgctxt "@info:shell This session is done"
 msgid "Finished"
 msgstr ""
 
-#: Session.cpp:809 Session.cpp:821
+#: Session.cpp:808 Session.cpp:820
 #, kde-format
 msgid "Program '%1' crashed."
 msgstr ""
 
-#: Session.cpp:811
+#: Session.cpp:810
 #, kde-format
 msgid "Program '%1' exited with status %2."
 msgstr ""
 
-#: Session.cpp:1150
+#: Session.cpp:1149
 msgid "ZModem Progress"
 msgstr ""
 
-#: SessionManager.cpp:921
+#: SessionManager.cpp:920
 msgctxt "@item:intable The session index"
 msgid "Number"
 msgstr ""
 
-#: SessionManager.cpp:923
+#: SessionManager.cpp:922
 msgctxt "@item:intable The session title"
 msgid "Title"
 msgstr ""
@@ -1991,26 +1979,26 @@ msgstr ""
 msgid "Remote Host (Long): %H"
 msgstr ""
 
-#: TerminalDisplay.cpp:1081 TerminalDisplay.cpp:1082
+#: TerminalDisplay.cpp:1078 TerminalDisplay.cpp:1079
 msgid "Size: XXX x XXX"
 msgstr ""
 
-#: TerminalDisplay.cpp:1092
+#: TerminalDisplay.cpp:1089
 #, kde-format
 msgid "Size: %1 x %2"
 msgstr ""
 
-#: TerminalDisplay.cpp:2581
+#: TerminalDisplay.cpp:2574
 msgid ""
 "<qt>Output has been <a href=\"http://en.wikipedia.org/wiki/Flow_control"
 "\">suspended</a> by pressing Ctrl+S.  Press <b>Ctrl+Q</b> to resume.</qt>"
 msgstr ""
 
-#: TerminalDisplay.cpp:2806
+#: TerminalDisplay.cpp:2797
 msgid "&Paste Location"
 msgstr ""
 
-#: TerminalDisplay.cpp:2821
+#: TerminalDisplay.cpp:2812
 msgid "Change &Directory To"
 msgstr ""
 
