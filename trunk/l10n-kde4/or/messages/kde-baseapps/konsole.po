@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-03-27 06:07+0200\n"
+"POT-Creation-Date: 2012-03-30 05:05+0200\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -20,7 +20,7 @@ msgstr ""
 "\n"
 "\n"
 
-#: Application.cpp:419
+#: Application.cpp:420
 msgid "Toggle Background Window"
 msgstr ""
 
@@ -585,41 +585,41 @@ msgstr ""
 msgid "Thanks to many others.\n"
 msgstr ""
 
-#: MainWindow.cpp:277
+#: MainWindow.cpp:278
 msgctxt "@action:inmenu"
 msgid "&New Tab"
 msgstr ""
 
-#: MainWindow.cpp:286
+#: MainWindow.cpp:287
 msgctxt "@action:inmenu"
 msgid "&Clone Tab"
 msgstr ""
 
-#: MainWindow.cpp:293
+#: MainWindow.cpp:294
 msgctxt "@action:inmenu"
 msgid "New &Window"
 msgstr ""
 
-#: MainWindow.cpp:300
+#: MainWindow.cpp:301
 msgctxt "@action:inmenu"
 msgid "Close Window"
 msgstr ""
 
-#: MainWindow.cpp:305
+#: MainWindow.cpp:306
 msgctxt "@title:menu"
 msgid "&Bookmarks"
 msgstr ""
 
-#: MainWindow.cpp:323
+#: MainWindow.cpp:324
 msgctxt "@action:inmenu"
 msgid "Manage Profiles..."
 msgstr ""
 
-#: MainWindow.cpp:329
+#: MainWindow.cpp:330
 msgid "Activate Menu"
 msgstr ""
 
-#: MainWindow.cpp:518
+#: MainWindow.cpp:519
 #, kde-format
 msgctxt "@info"
 msgid "There are %1 tab open in this window. Do you still want to quit?"
@@ -628,21 +628,21 @@ msgid_plural ""
 msgstr[0] ""
 msgstr[1] ""
 
-#: MainWindow.cpp:522
+#: MainWindow.cpp:523
 msgctxt "@title"
 msgid "Confirm Close"
 msgstr ""
 
-#: MainWindow.cpp:524
+#: MainWindow.cpp:525
 msgid "Close Current Tab"
 msgstr ""
 
-#: MainWindow.cpp:621
+#: MainWindow.cpp:622
 msgctxt "@title Preferences page name"
 msgid "General"
 msgstr ""
 
-#: MainWindow.cpp:626
+#: MainWindow.cpp:627
 msgctxt "@title Preferences page name"
 msgid "TabBar"
 msgstr ""
@@ -672,7 +672,7 @@ msgctxt "@item This will be used as part of the file name"
 msgid "New Profile"
 msgstr ""
 
-#: Part.cpp:95
+#: Part.cpp:96
 msgid "Manage Profiles..."
 msgstr ""
 
@@ -1910,12 +1910,12 @@ msgstr ""
 msgid "ZModem Progress"
 msgstr ""
 
-#: SessionManager.cpp:917
+#: SessionManager.cpp:388
 msgctxt "@item:intable The session index"
 msgid "Number"
 msgstr ""
 
-#: SessionManager.cpp:919
+#: SessionManager.cpp:390
 msgctxt "@item:intable The session title"
 msgid "Title"
 msgstr ""
@@ -1967,26 +1967,26 @@ msgstr ""
 msgid "Insert remote title format"
 msgstr ""
 
-#: TerminalDisplay.cpp:1076 TerminalDisplay.cpp:1077
+#: TerminalDisplay.cpp:1108 TerminalDisplay.cpp:1109
 msgid "Size: XXX x XXX"
 msgstr ""
 
-#: TerminalDisplay.cpp:1087
+#: TerminalDisplay.cpp:1119
 #, kde-format
 msgid "Size: %1 x %2"
 msgstr ""
 
-#: TerminalDisplay.cpp:2579
+#: TerminalDisplay.cpp:2611
 msgid ""
 "<qt>Output has been <a href=\"http://en.wikipedia.org/wiki/Flow_control"
 "\">suspended</a> by pressing Ctrl+S.  Press <b>Ctrl+Q</b> to resume.</qt>"
 msgstr ""
 
-#: TerminalDisplay.cpp:2814
+#: TerminalDisplay.cpp:2851
 msgid "&Paste Location"
 msgstr ""
 
-#: TerminalDisplay.cpp:2829
+#: TerminalDisplay.cpp:2866
 msgid "Change &Directory To"
 msgstr ""
 
@@ -2015,72 +2015,72 @@ msgctxt "@info:tooltip"
 msgid "Close current tab"
 msgstr ""
 
-#: ViewManager.cpp:149
+#: ViewManager.cpp:150
 msgctxt "@action Shortcut entry"
 msgid "Next Tab"
 msgstr ""
 
-#: ViewManager.cpp:150
+#: ViewManager.cpp:151
 msgctxt "@action Shortcut entry"
 msgid "Previous Tab"
 msgstr ""
 
-#: ViewManager.cpp:151
+#: ViewManager.cpp:152
 msgctxt "@action Shortcut entry"
 msgid "Switch to Last Tab"
 msgstr ""
 
-#: ViewManager.cpp:152
+#: ViewManager.cpp:153
 msgctxt "@action Shortcut entry"
 msgid "Next View Container"
 msgstr ""
 
-#: ViewManager.cpp:154
+#: ViewManager.cpp:155
 msgctxt "@action Shortcut entry"
 msgid "Move Tab Left"
 msgstr ""
 
-#: ViewManager.cpp:155
+#: ViewManager.cpp:156
 msgctxt "@action Shortcut entry"
 msgid "Move Tab Right"
 msgstr ""
 
-#: ViewManager.cpp:164
+#: ViewManager.cpp:165
 msgctxt "@action:inmenu"
 msgid "Split View Left/Right"
 msgstr ""
 
-#: ViewManager.cpp:171
+#: ViewManager.cpp:172
 msgctxt "@action:inmenu"
 msgid "Split View Top/Bottom"
 msgstr ""
 
-#: ViewManager.cpp:176
+#: ViewManager.cpp:177
 msgctxt "@action:inmenu Close Active View"
 msgid "Close Active"
 msgstr ""
 
-#: ViewManager.cpp:185
+#: ViewManager.cpp:186
 msgctxt "@action:inmenu Close Other Views"
 msgid "Close Others"
 msgstr ""
 
-#: ViewManager.cpp:194
+#: ViewManager.cpp:195
 msgctxt "@action:inmenu"
 msgid "Expand View"
 msgstr ""
 
-#: ViewManager.cpp:202
+#: ViewManager.cpp:203
 msgctxt "@action:inmenu"
 msgid "Shrink View"
 msgstr ""
 
-#: ViewManager.cpp:212
+#: ViewManager.cpp:213
 msgctxt "@action:inmenu"
 msgid "D&etach Current Tab"
 msgstr ""
 
-#: ViewManager.cpp:233
+#: ViewManager.cpp:234
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Switch to Tab %1"
