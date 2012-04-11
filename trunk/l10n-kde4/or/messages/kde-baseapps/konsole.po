@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-04-06 04:07+0200\n"
+"POT-Creation-Date: 2012-04-11 04:16+0200\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -20,7 +20,7 @@ msgstr ""
 "\n"
 "\n"
 
-#: Application.cpp:420
+#: Application.cpp:426
 msgid "Toggle Background Window"
 msgstr ""
 
@@ -286,7 +286,7 @@ msgctxt "@info:status"
 msgid ""
 "When using this option, the scrollback data will be written unencrypted to "
 "temporary files. Those temporary files will be deleted automatically when "
-"quitting Konsole."
+"Konsole is closed in a normal manner."
 msgstr ""
 
 #: HistorySizeWidget.cpp:60
@@ -688,7 +688,7 @@ msgstr ""
 msgid "Manage Profiles..."
 msgstr ""
 
-#: Profile.cpp:133
+#: Profile.cpp:135
 msgid "Shell"
 msgstr ""
 
@@ -1863,71 +1863,71 @@ msgid ""
 "%1"
 msgstr ""
 
-#: Session.cpp:376
+#: Session.cpp:377
 msgid "Could not find binary: "
 msgstr ""
 
-#: Session.cpp:385
+#: Session.cpp:386
 msgctxt "@info:shell Alert the user with red color text"
 msgid "Warning: "
 msgstr ""
 
-#: Session.cpp:442
+#: Session.cpp:443
 #, kde-format
 msgid ""
 "Could not find '%1', starting '%2' instead.  Please check your profile "
 "settings."
 msgstr ""
 
-#: Session.cpp:445
+#: Session.cpp:446
 msgid "Could not find an interactive shell to start."
 msgstr ""
 
-#: Session.cpp:485
+#: Session.cpp:489
 #, kde-format
 msgid "Could not start program '%1' with arguments '%2'."
 msgstr ""
 
-#: Session.cpp:591
+#: Session.cpp:595
 #, kde-format
 msgid "Silence in session '%1'"
 msgstr ""
 
-#: Session.cpp:638
+#: Session.cpp:642
 #, kde-format
 msgid "Bell in session '%1'"
 msgstr ""
 
-#: Session.cpp:641
+#: Session.cpp:645
 #, kde-format
 msgid "Activity in session '%1'"
 msgstr ""
 
-#: Session.cpp:809
+#: Session.cpp:814
 msgctxt "@info:shell This session is done"
 msgid "Finished"
 msgstr ""
 
-#: Session.cpp:823 Session.cpp:835
+#: Session.cpp:828 Session.cpp:840
 #, kde-format
 msgid "Program '%1' crashed."
 msgstr ""
 
-#: Session.cpp:825
+#: Session.cpp:830
 #, kde-format
 msgid "Program '%1' exited with status %2."
 msgstr ""
 
-#: Session.cpp:1164
+#: Session.cpp:1169
 msgid "ZModem Progress"
 msgstr ""
 
-#: SessionManager.cpp:380
+#: SessionManager.cpp:384
 msgctxt "@item:intable The session index"
 msgid "Number"
 msgstr ""
 
-#: SessionManager.cpp:382
+#: SessionManager.cpp:386
 msgctxt "@item:intable The session title"
 msgid "Title"
 msgstr ""
@@ -1946,36 +1946,40 @@ msgstr ""
 msgid "Current Directory (Long): %D"
 msgstr ""
 
-#: TabTitleFormatButton.cpp:36 TabTitleFormatButton.cpp:47
+#: TabTitleFormatButton.cpp:36 TabTitleFormatButton.cpp:48
 msgid "Window Title Set by Shell: %w"
 msgstr ""
 
-#: TabTitleFormatButton.cpp:37 TabTitleFormatButton.cpp:48
+#: TabTitleFormatButton.cpp:37 TabTitleFormatButton.cpp:49
 msgid "Session Number: %#"
 msgstr ""
 
-#: TabTitleFormatButton.cpp:38 TabTitleFormatButton.cpp:44
+#: TabTitleFormatButton.cpp:38 TabTitleFormatButton.cpp:45
 #, c-format
 msgid "User Name: %u"
 msgstr ""
 
-#: TabTitleFormatButton.cpp:45
-msgid "Remote Host (Short): %h"
+#: TabTitleFormatButton.cpp:39
+msgid "Local Host: %h"
 msgstr ""
 
 #: TabTitleFormatButton.cpp:46
+msgid "Remote Host (Short): %h"
+msgstr ""
+
+#: TabTitleFormatButton.cpp:47
 msgid "Remote Host (Long): %H"
 msgstr ""
 
-#: TabTitleFormatButton.cpp:57
+#: TabTitleFormatButton.cpp:58
 msgid "Insert"
 msgstr ""
 
-#: TabTitleFormatButton.cpp:82
+#: TabTitleFormatButton.cpp:83
 msgid "Insert title format"
 msgstr ""
 
-#: TabTitleFormatButton.cpp:86
+#: TabTitleFormatButton.cpp:87
 msgid "Insert remote title format"
 msgstr ""
 

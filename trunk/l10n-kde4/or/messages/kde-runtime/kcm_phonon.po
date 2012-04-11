@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcm_phonon\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-03-27 07:08+0200\n"
+"POT-Creation-Date: 2012-04-11 04:26+0200\n"
 "PO-Revision-Date: 2009-01-02 11:46+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -19,39 +19,6 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 "\n"
 "\n"
-
-#: backendselection.cpp:45
-msgctxt "@info User changed Phonon backend"
-msgid "To apply the backend change you will have to log out and back in again."
-msgstr ""
-
-#: main.cpp:46
-msgid "Phonon Configuration Module"
-msgstr ""
-
-#: main.cpp:48
-msgid "Copyright 2006 Matthias Kretz"
-msgstr ""
-
-#: main.cpp:49
-msgid "Matthias Kretz"
-msgstr ""
-
-#: main.cpp:50
-msgid "Colin Guthrie"
-msgstr ""
-
-#: main.cpp:61
-msgid "Device Preference"
-msgstr ""
-
-#: main.cpp:63
-msgid "Backend"
-msgstr ""
-
-#: main.cpp:100
-msgid "Audio Hardware Setup"
-msgstr ""
 
 #: testspeakerwidget.cpp:154
 msgid "Front Left"
@@ -121,6 +88,11 @@ msgstr ""
 
 #: audiosetup.cpp:639
 msgid "Independent Devices"
+msgstr ""
+
+#: backendselection.cpp:45
+msgctxt "@info User changed Phonon backend"
+msgid "To apply the backend change you will have to log out and back in again."
 msgstr ""
 
 #: devicepreference.cpp:105
@@ -201,6 +173,34 @@ msgstr ""
 #: devicepreference.cpp:943
 #, kde-format
 msgid "Testing %1"
+msgstr ""
+
+#: main.cpp:46
+msgid "Phonon Configuration Module"
+msgstr ""
+
+#: main.cpp:48
+msgid "Copyright 2006 Matthias Kretz"
+msgstr ""
+
+#: main.cpp:49
+msgid "Matthias Kretz"
+msgstr ""
+
+#: main.cpp:50
+msgid "Colin Guthrie"
+msgstr ""
+
+#: main.cpp:61
+msgid "Device Preference"
+msgstr ""
+
+#: main.cpp:63
+msgid "Backend"
+msgstr ""
+
+#: main.cpp:100
+msgid "Audio Hardware Setup"
 msgstr ""
 
 #: rc.cpp:1
