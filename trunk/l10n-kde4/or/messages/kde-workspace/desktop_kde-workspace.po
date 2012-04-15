@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-04-13 03:32+0000\n"
+"POT-Creation-Date: 2012-04-15 02:21+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -3865,17 +3865,17 @@ msgctxt "Name"
 msgid "Window Fullscreen Set"
 msgstr "MS Windows 9x"
 
-#: kwin/kwin.notifyrc:7434
+#: kwin/kwin.notifyrc:7435
 msgctxt "Comment"
 msgid "A window has been set to fullscreen"
 msgstr ""
 
-#: kwin/kwin.notifyrc:7441
+#: kwin/kwin.notifyrc:7443
 msgctxt "Name"
 msgid "Window Fullscreen Restored"
 msgstr ""
 
-#: kwin/kwin.notifyrc:7446
+#: kwin/kwin.notifyrc:7449
 msgctxt "Comment"
 msgid "A window has been restored from fullscreen"
 msgstr ""
@@ -5277,8 +5277,11 @@ msgid "File and URL opener"
 msgstr "ଫାଇଲ ଏବଂ URL ଖୋଲା"
 
 #: plasma/generic/runners/nepomuksearch/plasma-runner-nepomuksearch.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Nepomuk Desktop Search Runner"
 msgctxt "Name"
-msgid "Nepomuk Desktop Search Runner"
+msgid "Nepomuk Desktop Search"
 msgstr "Nepomuk ଡ଼େସ୍କଟପ ସନ୍ଧାନ ଚାଳକ"
 
 #: plasma/generic/runners/nepomuksearch/plasma-runner-nepomuksearch.desktop:74
@@ -5287,8 +5290,11 @@ msgid "KRunner which performs desktop searches via Nepomuk"
 msgstr ""
 
 #: plasma/generic/runners/places/plasma-runner-places.desktop:81
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Open Devices and Folder Bookmarks"
 msgctxt "Comment"
-msgid "Open Devices and Folder Bookmarks"
+msgid "Open devices and folder bookmarks"
 msgstr "ଉପକରଣଗୁଡ଼ିକୁ ଏବଂ ଫୋଲଡ଼ର ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକୁ ଖୋଲନ୍ତୁ"
 
 #: plasma/generic/runners/powerdevil/plasma-runner-powerdevil.desktop:2
@@ -5358,8 +5364,11 @@ msgid "Web Shortcuts"
 msgstr "ୱେବ ସଂକ୍ଷିପ୍ତ ପଥଗୁଡ଼ିକ"
 
 #: plasma/generic/runners/webshortcuts/plasma-runner-webshortcuts.desktop:72
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Allows user to use Konqueror's Web shortcuts"
 msgctxt "Comment"
-msgid "Allows user to use Konqueror's Web shortcuts"
+msgid "Allows user to use Konqueror's web shortcuts"
 msgstr "ଚାଳକମାନଙ୍କୁ Konquerorର ୱେବ ସଂକ୍ଷିପ୍ତ ପଥଗୁଡ଼ିକୁ ବ୍ୟବହାର କରିବାକୁ ଅନୁମତି ଦିଅନ୍ତୁ"
 
 #: plasma/generic/runners/windowedwidgets/plasma-runner-windowedwidgets.desktop:2
