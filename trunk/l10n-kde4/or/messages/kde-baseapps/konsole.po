@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-04-26 04:48+0200\n"
+"POT-Creation-Date: 2012-04-27 04:16+0200\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -664,22 +664,34 @@ msgctxt "@title:window"
 msgid "Manage Profiles"
 msgstr ""
 
-#: ManageProfilesDialog.cpp:210
+#: ManageProfilesDialog.cpp:176
+msgid "Click to rename profile"
+msgstr ""
+
+#: ManageProfilesDialog.cpp:185
+msgid "Click to toggle status"
+msgstr ""
+
+#: ManageProfilesDialog.cpp:191
+msgid "Click to change shortcut"
+msgstr ""
+
+#: ManageProfilesDialog.cpp:213
 msgctxt "@title:column Profile label"
 msgid "Name"
 msgstr ""
 
-#: ManageProfilesDialog.cpp:211
+#: ManageProfilesDialog.cpp:214
 msgctxt "@title:column Display profile in file menu"
 msgid "Show in Menu"
 msgstr ""
 
-#: ManageProfilesDialog.cpp:212
+#: ManageProfilesDialog.cpp:215
 msgctxt "@title:column Profile shortcut text"
 msgid "Shortcut"
 msgstr ""
 
-#: ManageProfilesDialog.cpp:327
+#: ManageProfilesDialog.cpp:330
 msgctxt "@item This will be used as part of the file name"
 msgid "New Profile"
 msgstr ""
