@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-05-01 05:41+0200\n"
+"POT-Creation-Date: 2012-05-02 04:19+0200\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -29,6 +29,25 @@ msgstr "ଛାଣକ ପଟିକୁ ଲୁଚାନ୍ତୁ"
 msgctxt "@label:textbox"
 msgid "Filter:"
 msgstr "ଛାଣକ:"
+
+#: kitemviews/kfileitemlistwidget.cpp:53
+#, fuzzy
+#| msgctxt "@info:status"
+#| msgid "Unknown size"
+msgctxt "@item:intable"
+msgid "Unknown"
+msgstr "ଅଜଣା ଆକାର"
+
+#: kitemviews/kfileitemlistwidget.cpp:55
+#, fuzzy, kde-format
+#| msgctxt "@info"
+#| msgid "%1 item selected"
+#| msgid_plural "%1 items selected"
+msgctxt "@item:intable"
+msgid "%1 item"
+msgid_plural "%1 items"
+msgstr[0] "%1 ବସ୍ତୁ ବଛାହୋଇଛି"
+msgstr[1] "%1 ବସ୍ତୁ ବଛାହୋଇଛି"
 
 #: kitemviews/private/kfileitemmodeldirlister.cpp:38
 #, fuzzy
@@ -77,25 +96,6 @@ msgstr ""
 msgctxt "@item:intable image orientation"
 msgid "270° rotated"
 msgstr ""
-
-#: kitemviews/kfileitemlistwidget.cpp:53
-#, fuzzy
-#| msgctxt "@info:status"
-#| msgid "Unknown size"
-msgctxt "@item:intable"
-msgid "Unknown"
-msgstr "ଅଜଣା ଆକାର"
-
-#: kitemviews/kfileitemlistwidget.cpp:55
-#, fuzzy, kde-format
-#| msgctxt "@info"
-#| msgid "%1 item selected"
-#| msgid_plural "%1 items selected"
-msgctxt "@item:intable"
-msgid "%1 item"
-msgid_plural "%1 items"
-msgstr[0] "%1 ବସ୍ତୁ ବଛାହୋଇଛି"
-msgstr[1] "%1 ବସ୍ତୁ ବଛାହୋଇଛି"
 
 #: kitemviews/kfileitemmodel.cpp:1542
 msgctxt "@title:group Groups that start with a digit"
@@ -548,12 +548,12 @@ msgstr ""
 msgid "&Only show when using this application (%1)"
 msgstr ""
 
-#: panels/places/placesitemmodel.cpp:185
+#: panels/places/placesitemmodel.cpp:227
 msgctxt "@item"
 msgid "Devices"
 msgstr ""
 
-#: panels/places/placesitemmodel.cpp:187 panels/places/placesitemmodel.cpp:281
+#: panels/places/placesitemmodel.cpp:229 panels/places/placesitemmodel.cpp:341
 #, fuzzy
 #| msgctxt "@action:inmenu Add current folder to places"
 #| msgid "Add to Places"
@@ -561,22 +561,22 @@ msgctxt "@item"
 msgid "Places"
 msgstr "ସ୍ଥାନଗୁଡ଼ିକରେ ଯୋଗକରନ୍ତୁ"
 
-#: panels/places/placesitemmodel.cpp:223
+#: panels/places/placesitemmodel.cpp:269
 msgctxt "@item"
 msgid "Home"
 msgstr ""
 
-#: panels/places/placesitemmodel.cpp:227
+#: panels/places/placesitemmodel.cpp:273
 msgctxt "@item"
 msgid "Network"
 msgstr ""
 
-#: panels/places/placesitemmodel.cpp:231
+#: panels/places/placesitemmodel.cpp:277
 msgctxt "@item"
 msgid "Root"
 msgstr ""
 
-#: panels/places/placesitemmodel.cpp:235
+#: panels/places/placesitemmodel.cpp:281
 #, fuzzy
 #| msgctxt "@label"
 #| msgid "Trash"
@@ -584,7 +584,7 @@ msgctxt "@item"
 msgid "Trash"
 msgstr "ଆବର୍ଜନା ପାତ୍ର"
 
-#: panels/places/placesitemmodel.cpp:241
+#: panels/places/placesitemmodel.cpp:287
 #, fuzzy
 #| msgctxt "@title:group Date"
 #| msgid "Today"
@@ -592,7 +592,7 @@ msgctxt "@item Recently Accessed"
 msgid "Today"
 msgstr "ଆଜି"
 
-#: panels/places/placesitemmodel.cpp:245
+#: panels/places/placesitemmodel.cpp:291
 #, fuzzy
 #| msgctxt "@title:group Date"
 #| msgid "Yesterday"
@@ -600,7 +600,7 @@ msgctxt "@item Recently Accessed"
 msgid "Yesterday"
 msgstr "ଗତକାଲି"
 
-#: panels/places/placesitemmodel.cpp:249
+#: panels/places/placesitemmodel.cpp:295
 #, fuzzy
 #| msgctxt "@title:group Date"
 #| msgid "Earlier this Month"
@@ -608,7 +608,7 @@ msgctxt "@item Recently Accessed"
 msgid "This Month"
 msgstr "ଏହି ମାସ ଆରମ୍ଭରେ"
 
-#: panels/places/placesitemmodel.cpp:253
+#: panels/places/placesitemmodel.cpp:299
 #, fuzzy
 #| msgctxt "@title:group Date"
 #| msgid "Earlier this Month"
@@ -616,7 +616,7 @@ msgctxt "@item Recently Accessed"
 msgid "Last Month"
 msgstr "ଏହି ମାସ ଆରମ୍ଭରେ"
 
-#: panels/places/placesitemmodel.cpp:257
+#: panels/places/placesitemmodel.cpp:303
 #, fuzzy
 #| msgctxt "@info:credit"
 #| msgid "Documentation"
@@ -624,7 +624,7 @@ msgctxt "@item Commonly Accessed"
 msgid "Documents"
 msgstr "ଦଲିଲିକରଣ"
 
-#: panels/places/placesitemmodel.cpp:261
+#: panels/places/placesitemmodel.cpp:307
 #, fuzzy
 #| msgctxt "@title:group"
 #| msgid "File Previews"
@@ -632,33 +632,33 @@ msgctxt "@item Commonly Accessed"
 msgid "Images"
 msgstr "ଫାଇଲ ପ୍ରାକଦର୍ଶନ"
 
-#: panels/places/placesitemmodel.cpp:265
+#: panels/places/placesitemmodel.cpp:311
 msgctxt "@item Commonly Accessed"
 msgid "Audio"
 msgstr ""
 
-#: panels/places/placesitemmodel.cpp:269
+#: panels/places/placesitemmodel.cpp:315
 msgctxt "@item Commonly Accessed"
 msgid "Videos"
 msgstr ""
 
-#: panels/places/placesitemmodel.cpp:286
+#: panels/places/placesitemmodel.cpp:346
 msgctxt "@item"
 msgid "Recently Accessed"
 msgstr ""
 
-#: panels/places/placesitemmodel.cpp:291
+#: panels/places/placesitemmodel.cpp:351
 msgctxt "@item"
 msgid "Search For"
 msgstr ""
 
-#: panels/places/placespanel.cpp:152 dolphincontextmenu.cpp:173
+#: panels/places/placespanel.cpp:154 dolphincontextmenu.cpp:173
 msgctxt "@action:inmenu"
 msgid "Empty Trash"
 msgstr "ଖାଲି ଆବର୍ଜନା ପାତ୍ର"
 
-#: panels/places/placespanel.cpp:157 panels/places/placespanel.cpp:165
-#: panels/places/placespanel.cpp:216
+#: panels/places/placespanel.cpp:159 panels/places/placespanel.cpp:167
+#: panels/places/placespanel.cpp:220
 #, fuzzy
 #| msgctxt "@label"
 #| msgid "Add Comment..."
@@ -666,7 +666,7 @@ msgctxt "@item:inmenu"
 msgid "Add Entry..."
 msgstr "ଟିପ୍ପଣୀ ଯୋଗକରନ୍ତୁ..."
 
-#: panels/places/placespanel.cpp:160
+#: panels/places/placespanel.cpp:162
 #, fuzzy, kde-format
 #| msgctxt "@label"
 #| msgid "Add Comment..."
@@ -674,13 +674,13 @@ msgctxt "@item:inmenu"
 msgid "Edit Entry '%1'..."
 msgstr "ଟିପ୍ପଣୀ ଯୋଗକରନ୍ତୁ..."
 
-#: panels/places/placespanel.cpp:168
+#: panels/places/placespanel.cpp:170
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Hide Entry '%1'"
 msgstr ""
 
-#: panels/places/placespanel.cpp:177
+#: panels/places/placespanel.cpp:179
 #, fuzzy
 #| msgctxt "@option:check"
 #| msgid "Show tooltips"
@@ -688,23 +688,23 @@ msgctxt "@item:inmenu"
 msgid "Show All Entries"
 msgstr "ଉପକରଣ ସୂଚନା ଦର୍ଶାନ୍ତୁ"
 
-#: panels/places/placespanel.cpp:184
+#: panels/places/placespanel.cpp:186
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Remove Entry '%1'"
 msgstr ""
 
-#: panels/places/placespanel.cpp:250
+#: panels/places/placespanel.cpp:254
 msgctxt "@info"
 msgid "Do you really want to empty the Trash? All items will be deleted."
 msgstr ""
 
-#: panels/places/placespanel.cpp:254
+#: panels/places/placespanel.cpp:258
 msgctxt "@action:button"
 msgid "Empty Trash"
 msgstr "ଖାଲି ଆବର୍ଜନା ପାତ୍ର"
 
-#: panels/places/placespanel.cpp:274
+#: panels/places/placespanel.cpp:278
 #, fuzzy
 #| msgctxt "@action:inmenu Add current folder to places"
 #| msgid "Add to Places"
@@ -712,7 +712,7 @@ msgctxt "@title:window"
 msgid "Add Places Entry"
 msgstr "ସ୍ଥାନଗୁଡ଼ିକରେ ଯୋଗକରନ୍ତୁ"
 
-#: panels/places/placespanel.cpp:308
+#: panels/places/placespanel.cpp:312
 msgctxt "@title:window"
 msgid "Edit Places Entry"
 msgstr ""
