@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-05-04 04:16+0200\n"
+"POT-Creation-Date: 2012-05-06 04:40+0200\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -548,12 +548,7 @@ msgstr ""
 msgid "&Only show when using this application (%1)"
 msgstr ""
 
-#: panels/places/placesitemmodel.cpp:290
-msgctxt "@item"
-msgid "Devices"
-msgstr ""
-
-#: panels/places/placesitemmodel.cpp:292 panels/places/placesitemmodel.cpp:412
+#: panels/places/placesitem.cpp:49 panels/places/placesitemmodel.cpp:467
 #, fuzzy
 #| msgctxt "@action:inmenu Add current folder to places"
 #| msgid "Add to Places"
@@ -561,22 +556,27 @@ msgctxt "@item"
 msgid "Places"
 msgstr "ସ୍ଥାନଗୁଡ଼ିକରେ ଯୋଗକରନ୍ତୁ"
 
-#: panels/places/placesitemmodel.cpp:337
+#: panels/places/placesitem.cpp:59
+msgctxt "@item"
+msgid "Devices"
+msgstr ""
+
+#: panels/places/placesitemmodel.cpp:370
 msgctxt "@item"
 msgid "Home"
 msgstr ""
 
-#: panels/places/placesitemmodel.cpp:341
+#: panels/places/placesitemmodel.cpp:374
 msgctxt "@item"
 msgid "Network"
 msgstr ""
 
-#: panels/places/placesitemmodel.cpp:345
+#: panels/places/placesitemmodel.cpp:378
 msgctxt "@item"
 msgid "Root"
 msgstr ""
 
-#: panels/places/placesitemmodel.cpp:349
+#: panels/places/placesitemmodel.cpp:382
 #, fuzzy
 #| msgctxt "@label"
 #| msgid "Trash"
@@ -584,7 +584,7 @@ msgctxt "@item"
 msgid "Trash"
 msgstr "ଆବର୍ଜନା ପାତ୍ର"
 
-#: panels/places/placesitemmodel.cpp:355
+#: panels/places/placesitemmodel.cpp:388
 #, fuzzy
 #| msgctxt "@title:group Date"
 #| msgid "Today"
@@ -592,7 +592,7 @@ msgctxt "@item Recently Accessed"
 msgid "Today"
 msgstr "ଆଜି"
 
-#: panels/places/placesitemmodel.cpp:359
+#: panels/places/placesitemmodel.cpp:392
 #, fuzzy
 #| msgctxt "@title:group Date"
 #| msgid "Yesterday"
@@ -600,7 +600,7 @@ msgctxt "@item Recently Accessed"
 msgid "Yesterday"
 msgstr "ଗତକାଲି"
 
-#: panels/places/placesitemmodel.cpp:363
+#: panels/places/placesitemmodel.cpp:396
 #, fuzzy
 #| msgctxt "@title:group Date"
 #| msgid "Earlier this Month"
@@ -608,7 +608,7 @@ msgctxt "@item Recently Accessed"
 msgid "This Month"
 msgstr "ଏହି ମାସ ଆରମ୍ଭରେ"
 
-#: panels/places/placesitemmodel.cpp:367
+#: panels/places/placesitemmodel.cpp:400
 #, fuzzy
 #| msgctxt "@title:group Date"
 #| msgid "Earlier this Month"
@@ -616,7 +616,7 @@ msgctxt "@item Recently Accessed"
 msgid "Last Month"
 msgstr "ଏହି ମାସ ଆରମ୍ଭରେ"
 
-#: panels/places/placesitemmodel.cpp:371
+#: panels/places/placesitemmodel.cpp:404
 #, fuzzy
 #| msgctxt "@info:credit"
 #| msgid "Documentation"
@@ -624,7 +624,7 @@ msgctxt "@item Commonly Accessed"
 msgid "Documents"
 msgstr "ଦଲିଲିକରଣ"
 
-#: panels/places/placesitemmodel.cpp:375
+#: panels/places/placesitemmodel.cpp:408
 #, fuzzy
 #| msgctxt "@title:group"
 #| msgid "File Previews"
@@ -632,22 +632,22 @@ msgctxt "@item Commonly Accessed"
 msgid "Images"
 msgstr "ଫାଇଲ ପ୍ରାକଦର୍ଶନ"
 
-#: panels/places/placesitemmodel.cpp:379
+#: panels/places/placesitemmodel.cpp:412
 msgctxt "@item Commonly Accessed"
 msgid "Audio"
 msgstr ""
 
-#: panels/places/placesitemmodel.cpp:383
+#: panels/places/placesitemmodel.cpp:416
 msgctxt "@item Commonly Accessed"
 msgid "Videos"
 msgstr ""
 
-#: panels/places/placesitemmodel.cpp:417
+#: panels/places/placesitemmodel.cpp:472
 msgctxt "@item"
 msgid "Recently Accessed"
 msgstr ""
 
-#: panels/places/placesitemmodel.cpp:422
+#: panels/places/placesitemmodel.cpp:477
 msgctxt "@item"
 msgid "Search For"
 msgstr ""
