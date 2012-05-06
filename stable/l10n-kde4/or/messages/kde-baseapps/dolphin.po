@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-04-10 17:35+0200\n"
+"POT-Creation-Date: 2012-05-06 12:05+0200\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -827,6 +827,61 @@ msgctxt "@info:status"
 msgid "A folder cannot be dropped into itself"
 msgstr ""
 
+#: views/additionalinfoaccessor.cpp:90
+#, fuzzy
+#| msgctxt "@label"
+#| msgid "Size:"
+msgctxt "@label"
+msgid "Size"
+msgstr "ଆକାର:"
+
+#: views/additionalinfoaccessor.cpp:91
+#, fuzzy
+#| msgctxt "@action:inmenu"
+#| msgid "Paste"
+msgctxt "@label"
+msgid "Date"
+msgstr "ଲଗାନ୍ତୁ"
+
+#: views/additionalinfoaccessor.cpp:92
+msgctxt "@label"
+msgid "Permissions"
+msgstr ""
+
+#: views/additionalinfoaccessor.cpp:93
+msgctxt "@label"
+msgid "Owner"
+msgstr ""
+
+#: views/additionalinfoaccessor.cpp:94
+msgctxt "@label"
+msgid "Group"
+msgstr ""
+
+#: views/additionalinfoaccessor.cpp:95
+#, fuzzy
+#| msgctxt "@label"
+#| msgid "Type:"
+msgctxt "@label"
+msgid "Type"
+msgstr "ପ୍ରକାର:"
+
+#: views/additionalinfoaccessor.cpp:96
+#, fuzzy
+#| msgctxt "@info:credit"
+#| msgid "Documentation"
+msgctxt "@label"
+msgid "Link Destination"
+msgstr "ଦଲିଲିକରଣ"
+
+#: views/additionalinfoaccessor.cpp:97
+#, fuzzy
+#| msgctxt "@action:inmenu"
+#| msgid "Paste"
+msgctxt "@label"
+msgid "Path"
+msgstr "ଲଗାନ୍ତୁ"
+
 #: views/dolphinview.cpp:521
 #, kde-format
 msgctxt "@info:status"
@@ -894,61 +949,6 @@ msgstr "ସ୍ଥାନଟି ଖାଲିଅଛି।"
 msgctxt "@info:status"
 msgid "The location '%1' is invalid."
 msgstr "ସ୍ଥାନ '%1' ଟି ଅବୈଧ ଏଟେ।"
-
-#: views/additionalinfoaccessor.cpp:90
-#, fuzzy
-#| msgctxt "@label"
-#| msgid "Size:"
-msgctxt "@label"
-msgid "Size"
-msgstr "ଆକାର:"
-
-#: views/additionalinfoaccessor.cpp:91
-#, fuzzy
-#| msgctxt "@action:inmenu"
-#| msgid "Paste"
-msgctxt "@label"
-msgid "Date"
-msgstr "ଲଗାନ୍ତୁ"
-
-#: views/additionalinfoaccessor.cpp:92
-msgctxt "@label"
-msgid "Permissions"
-msgstr ""
-
-#: views/additionalinfoaccessor.cpp:93
-msgctxt "@label"
-msgid "Owner"
-msgstr ""
-
-#: views/additionalinfoaccessor.cpp:94
-msgctxt "@label"
-msgid "Group"
-msgstr ""
-
-#: views/additionalinfoaccessor.cpp:95
-#, fuzzy
-#| msgctxt "@label"
-#| msgid "Type:"
-msgctxt "@label"
-msgid "Type"
-msgstr "ପ୍ରକାର:"
-
-#: views/additionalinfoaccessor.cpp:96
-#, fuzzy
-#| msgctxt "@info:credit"
-#| msgid "Documentation"
-msgctxt "@label"
-msgid "Link Destination"
-msgstr "ଦଲିଲିକରଣ"
-
-#: views/additionalinfoaccessor.cpp:97
-#, fuzzy
-#| msgctxt "@action:inmenu"
-#| msgid "Paste"
-msgctxt "@label"
-msgid "Path"
-msgstr "ଲଗାନ୍ତୁ"
 
 #: views/versioncontrol/versioncontrolobserver.cpp:204
 msgctxt "@info:status"
