@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-05-14 04:49+0200\n"
+"POT-Creation-Date: 2012-05-15 04:58+0200\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -2090,29 +2090,46 @@ msgstr ""
 msgid "Change &Directory To"
 msgstr ""
 
-#: ViewContainer.cpp:442
+#: ViewContainer.cpp:271
+msgctxt "@info:whatsthis"
+msgid ""
+"<title>Tab Bar</title><para>The tab bar allows you to switch and move tabs. "
+"You can double-click a tab to change its name.</para>"
+msgstr ""
+
+#: ViewContainer.cpp:447
 msgctxt "@action:inmenu"
 msgid "&Detach Tab"
 msgstr ""
 
-#: ViewContainer.cpp:446
+#: ViewContainer.cpp:451
 msgctxt "@action:inmenu"
 msgid "&Rename Tab..."
 msgstr ""
 
-#: ViewContainer.cpp:452
+#: ViewContainer.cpp:457
 msgctxt "@action:inmenu"
 msgid "&Close Tab"
 msgstr ""
 
-#: ViewContainer.cpp:458
+#: ViewContainer.cpp:463
 msgctxt "@info:tooltip"
 msgid "Create new tab"
 msgstr ""
 
-#: ViewContainer.cpp:463
+#: ViewContainer.cpp:464
+msgctxt "@info:whatsthis"
+msgid "Create a new tab. Press and hold to select profile from menu"
+msgstr ""
+
+#: ViewContainer.cpp:469
 msgctxt "@info:tooltip"
-msgid "Close current tab"
+msgid "Close tab"
+msgstr ""
+
+#: ViewContainer.cpp:470
+msgctxt "@info:whatsthis"
+msgid "Close the active tab"
 msgstr ""
 
 #: ViewManager.cpp:150
