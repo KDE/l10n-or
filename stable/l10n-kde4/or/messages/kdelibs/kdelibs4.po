@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-05-13 12:27+0200\n"
+"POT-Creation-Date: 2012-05-16 11:40+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -772,7 +772,7 @@ msgstr "ସାଧନ (&T)"
 
 #. i18n: file: kdeui/xmlgui/ui_standards.rc:148
 #. i18n: ectx: Menu (settings)
-#: rc.cpp:442 khtml/ecma/debugger/debugwindow.cpp:240
+#: rc.cpp:442 khtml/ecma/debugger/debugwindow.cpp:243
 msgid "&Settings"
 msgstr "ବିନ୍ୟାସ (&S)"
 
@@ -10952,7 +10952,7 @@ msgid "Available Tests: %1 (ignored: %2)"
 msgstr "ଉପଲବ୍ଧ ପରୀକ୍ଷଣ: %1 (ଅଗ୍ରାହ୍ୟ: %2)"
 
 #: khtml/test_regression_gui_window.cpp:563
-#: khtml/ecma/debugger/debugwindow.cpp:192
+#: khtml/ecma/debugger/debugwindow.cpp:195
 msgid "Continue"
 msgstr "ଆଗକୁ ବଢନ୍ତୁ"
 
@@ -11117,81 +11117,6 @@ msgstr ""
 msgid "Breakpoint"
 msgstr "ବିଚ୍ଛେଦ ବିନ୍ଦୁ"
 
-#: khtml/ecma/debugger/debugwindow.cpp:111
-msgid "JavaScript Debugger"
-msgstr "JavaScript ତ୍ରୁଟିମୁକ୍ତକାରୀ"
-
-#: khtml/ecma/debugger/debugwindow.cpp:186
-msgid "&Break at Next Statement"
-msgstr ""
-
-#: khtml/ecma/debugger/debugwindow.cpp:187
-msgid "Break at Next"
-msgstr "ପରବର୍ତ୍ତୀ ପାଖରେ ଭାଙ୍ଗନ୍ତୁ"
-
-#: khtml/ecma/debugger/debugwindow.cpp:199
-msgid "Step Over"
-msgstr "ଆଗକୁ ଯାଆନ୍ତୁ"
-
-#: khtml/ecma/debugger/debugwindow.cpp:206
-msgid "Step Into"
-msgstr "ପ୍ରବେଶ କରନ୍ତୁ"
-
-#: khtml/ecma/debugger/debugwindow.cpp:213
-msgid "Step Out"
-msgstr "ବାହାରକୁ ଯାଆନ୍ତୁଢନ୍ତୁ"
-
-#: khtml/ecma/debugger/debugwindow.cpp:219
-msgid "Reindent Sources"
-msgstr ""
-
-#: khtml/ecma/debugger/debugwindow.cpp:224
-msgid "Report Exceptions"
-msgstr "ବ୍ୟତିକ୍ରମଗୁଡ଼ିକୁ ଖବର କରନ୍ତୁ"
-
-#: khtml/ecma/debugger/debugwindow.cpp:232
-msgid "&Debug"
-msgstr "ତ୍ରୁଟିମୁକ୍ତ କରନ୍ତୁ (&D)"
-
-#: khtml/ecma/debugger/debugwindow.cpp:266
-msgid "Close source"
-msgstr "ଉତ୍ସ ବନ୍ଦକରନ୍ତୁ"
-
-#: khtml/ecma/debugger/debugwindow.cpp:272
-msgid "Ready"
-msgstr "ପ୍ରସ୍ତୁତ"
-
-#: khtml/ecma/debugger/debugwindow.cpp:621
-#, kde-format
-msgid "Parse error at %1 line %2"
-msgstr ""
-
-#: khtml/ecma/debugger/debugwindow.cpp:658
-#, kde-format
-msgid ""
-"An error occurred while attempting to run a script on this page.\n"
-"\n"
-"%1 line %2:\n"
-"%3"
-msgstr ""
-
-#: khtml/ecma/debugger/debugwindow.cpp:853
-#, fuzzy
-#| msgid ""
-#| "Don't know where to evaluate the expression. Please pause a script or "
-#| "open a source file."
-msgid ""
-"Do not know where to evaluate the expression. Please pause a script or open "
-"a source file."
-msgstr ""
-"ଏହି ପରିପ୍ରକାଶକୁ କେମିତି ମୂଲ୍ୟାଙ୍କନ କରାଯିବ ଜଣାନାହିଁ। ଦୟାକରି ଗୋଟିଏ ସ୍କ୍ରିପ୍ଟକୁ ବିରତି ଦିଅନ୍ତୁ କିମ୍ବା ଗୋଟିଏ "
-"ଉତ୍ସ ଫାଇଲ ଖୋଲନ୍ତୁ।"
-
-#: khtml/ecma/debugger/debugwindow.cpp:889
-#, kde-format
-msgid "Evaluation threw an exception %1"
-msgstr "ମୂଲ୍ୟାଙ୍କନ ଗୋଟିଏ %1 ବ୍ୟତିକ୍ରମ ଦେଇଥାଏ"
-
 #: khtml/ecma/debugger/scriptsdock.cpp:43
 msgid "Loaded Scripts"
 msgstr "ଧାରଣ ହୋଇଥିବା ସ୍କ୍ରିପ୍ଟଗୁଡିକ"
@@ -11203,6 +11128,81 @@ msgstr "ସ୍ଥାନୀୟ ଚଳ"
 #: khtml/ecma/debugger/localvariabledock.cpp:51
 msgid "Reference"
 msgstr "ସଂଦର୍ଭ"
+
+#: khtml/ecma/debugger/debugwindow.cpp:111
+msgid "JavaScript Debugger"
+msgstr "JavaScript ତ୍ରୁଟିମୁକ୍ତକାରୀ"
+
+#: khtml/ecma/debugger/debugwindow.cpp:189
+msgid "&Break at Next Statement"
+msgstr ""
+
+#: khtml/ecma/debugger/debugwindow.cpp:190
+msgid "Break at Next"
+msgstr "ପରବର୍ତ୍ତୀ ପାଖରେ ଭାଙ୍ଗନ୍ତୁ"
+
+#: khtml/ecma/debugger/debugwindow.cpp:202
+msgid "Step Over"
+msgstr "ଆଗକୁ ଯାଆନ୍ତୁ"
+
+#: khtml/ecma/debugger/debugwindow.cpp:209
+msgid "Step Into"
+msgstr "ପ୍ରବେଶ କରନ୍ତୁ"
+
+#: khtml/ecma/debugger/debugwindow.cpp:216
+msgid "Step Out"
+msgstr "ବାହାରକୁ ଯାଆନ୍ତୁଢନ୍ତୁ"
+
+#: khtml/ecma/debugger/debugwindow.cpp:222
+msgid "Reindent Sources"
+msgstr ""
+
+#: khtml/ecma/debugger/debugwindow.cpp:227
+msgid "Report Exceptions"
+msgstr "ବ୍ୟତିକ୍ରମଗୁଡ଼ିକୁ ଖବର କରନ୍ତୁ"
+
+#: khtml/ecma/debugger/debugwindow.cpp:235
+msgid "&Debug"
+msgstr "ତ୍ରୁଟିମୁକ୍ତ କରନ୍ତୁ (&D)"
+
+#: khtml/ecma/debugger/debugwindow.cpp:269
+msgid "Close source"
+msgstr "ଉତ୍ସ ବନ୍ଦକରନ୍ତୁ"
+
+#: khtml/ecma/debugger/debugwindow.cpp:275
+msgid "Ready"
+msgstr "ପ୍ରସ୍ତୁତ"
+
+#: khtml/ecma/debugger/debugwindow.cpp:624
+#, kde-format
+msgid "Parse error at %1 line %2"
+msgstr ""
+
+#: khtml/ecma/debugger/debugwindow.cpp:661
+#, kde-format
+msgid ""
+"An error occurred while attempting to run a script on this page.\n"
+"\n"
+"%1 line %2:\n"
+"%3"
+msgstr ""
+
+#: khtml/ecma/debugger/debugwindow.cpp:856
+#, fuzzy
+#| msgid ""
+#| "Don't know where to evaluate the expression. Please pause a script or "
+#| "open a source file."
+msgid ""
+"Do not know where to evaluate the expression. Please pause a script or open "
+"a source file."
+msgstr ""
+"ଏହି ପରିପ୍ରକାଶକୁ କେମିତି ମୂଲ୍ୟାଙ୍କନ କରାଯିବ ଜଣାନାହିଁ। ଦୟାକରି ଗୋଟିଏ ସ୍କ୍ରିପ୍ଟକୁ ବିରତି ଦିଅନ୍ତୁ କିମ୍ବା ଗୋଟିଏ "
+"ଉତ୍ସ ଫାଇଲ ଖୋଲନ୍ତୁ।"
+
+#: khtml/ecma/debugger/debugwindow.cpp:892
+#, kde-format
+msgid "Evaluation threw an exception %1"
+msgstr "ମୂଲ୍ୟାଙ୍କନ ଗୋଟିଏ %1 ବ୍ୟତିକ୍ରମ ଦେଇଥାଏ"
 
 #: khtml/html/htmlparser.cpp:1938
 msgid "This is a searchable index. Enter search keywords: "
