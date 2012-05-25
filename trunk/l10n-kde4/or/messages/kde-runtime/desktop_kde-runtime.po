@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-05-22 09:21+0000\n"
+"POT-Creation-Date: 2012-05-25 07:00+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -5643,232 +5643,6 @@ msgid ""
 "Helper module for KIO to ensure automatic updates of nepomuksearch listings."
 msgstr ""
 
-#: nepomuk/server/nepomukserver.desktop:8
-msgctxt "Name"
-msgid "Nepomuk Server"
-msgstr "Nepomuk ସର୍ଭର"
-
-#: nepomuk/server/nepomukserver.desktop:91
-msgctxt "Comment"
-msgid "The Nepomuk Server providing Storage services and strigi controlling"
-msgstr "Nepomuk ସର୍ଭର ଭଣ୍ଡାର ସର୍ଭିସ ଏବଂ strigi ନିୟନ୍ତ୍ରଣ ପ୍ରଦାନ କରିଥାଏ"
-
-#: nepomuk/server/nepomukservice.desktop:4
-msgctxt "Comment"
-msgid "Nepomuk Service"
-msgstr "Nepomuk ସର୍ଭିସ"
-
-#: nepomuk/services/backupsync/gui/nepomukbackup.desktop:2
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Nepomuk Service"
-msgctxt "Name"
-msgid "Nepomuk Backup"
-msgstr "Nepomuk ସର୍ଭିସ"
-
-#: nepomuk/services/backupsync/service/nepomukbackupsync.desktop:8
-msgctxt "Name"
-msgid "Nepomuk Backup and Sync"
-msgstr ""
-
-#: nepomuk/services/backupsync/service/nepomukbackupsync.desktop:67
-msgctxt "Comment"
-msgid "Nepomuk Service which handles backup and sync."
-msgstr ""
-
-#: nepomuk/services/fileindexer/nepomukfileindexer.desktop:7
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Internal Services"
-msgctxt "Name"
-msgid "File Indexer Service"
-msgstr "ଆଭ୍ୟନ୍ତରୀଣ ସର୍ଭିସଗୁଡ଼ିକ"
-
-#: nepomuk/services/fileindexer/nepomukfileindexer.desktop:60
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid ""
-#| "Nepomuk Service which controls the strigidaemon, i.e. indexes files on "
-#| "the desktop"
-msgctxt "Comment"
-msgid "Nepomuk Service which indexes files on the desktop"
-msgstr ""
-"Nepomuk ସର୍ଭିସ ଯାହାକି strigidaemonକୁ ନିୟନ୍ତ୍ରଣ କରିଥାଏ, ଯେପରିକି ଡ଼େସ୍କଟପରେ ଅନୁକ୍ରମଣିକା ଫାଇଲ"
-
-#: nepomuk/services/fileindexer/nepomukfileindexer.notifyrc:3
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Desktop Search"
-msgctxt "Comment"
-msgid "Desktop Search"
-msgstr "ଡ଼େସ୍କଟପ ସନ୍ଧାନ"
-
-#: nepomuk/services/fileindexer/nepomukfileindexer.notifyrc:71
-msgctxt "Name"
-msgid "Initial Indexing started"
-msgstr "ପ୍ରାରମ୍ଭିକ ଅନୁକ୍ରମିକ ଆରମ୍ଭ ହୋଇଛି"
-
-#: nepomuk/services/fileindexer/nepomukfileindexer.notifyrc:149
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid ""
-#| "Strigi started the initial indexing of local files for fast desktop "
-#| "searches"
-msgctxt "Comment"
-msgid "Indexing of local files for fast searches has started."
-msgstr "ତୀବ୍ର ଡ଼େସ୍କଟପ ସନ୍ଧାନ ପାଇଁ Strigi ସ୍ଥାନୀୟ ଫାଇଲଗୁଡ଼ିକର ପ୍ରାରମ୍ଭିକ ଅନୁକ୍ରମଣକୁ ଆରମ୍ଭ କରିଅଛି"
-
-#: nepomuk/services/fileindexer/nepomukfileindexer.notifyrc:219
-msgctxt "Name"
-msgid "Initial Indexing finished"
-msgstr "ପ୍ରାରମ୍ଭିକ ଅନୁକ୍ରମଣ ସମାପ୍ତ ହୋଇଛି"
-
-#: nepomuk/services/fileindexer/nepomukfileindexer.notifyrc:297
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid ""
-#| "Strigi started the initial indexing of local files for fast desktop "
-#| "searches"
-msgctxt "Comment"
-msgid ""
-"The initial indexing of local files for fast desktop searches has completed."
-msgstr "ତୀବ୍ର ଡ଼େସ୍କଟପ ସନ୍ଧାନ ପାଇଁ Strigi ସ୍ଥାନୀୟ ଫାଇଲଗୁଡ଼ିକର ପ୍ରାରମ୍ଭିକ ଅନୁକ୍ରମଣକୁ ଆରମ୍ଭ କରିଅଛି"
-
-#: nepomuk/services/fileindexer/nepomukfileindexer.notifyrc:367
-msgctxt "Name"
-msgid "Indexing suspended"
-msgstr "ଅନୁକ୍ରମଣ କ୍ରିୟାକୁ ନିଲମ୍ବିତ କରାଯାଇଛି"
-
-#: nepomuk/services/fileindexer/nepomukfileindexer.notifyrc:445
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Strigi file indexing has been suspended"
-msgctxt "Comment"
-msgid "File indexing has been suspended by the search service."
-msgstr "Strigi ଫାଇଲ ଅନୁକ୍ରମଣ କ୍ରିୟାକୁ ନିଲମ୍ବିତ କରାଯାଇଛି"
-
-#: nepomuk/services/fileindexer/nepomukfileindexer.notifyrc:515
-msgctxt "Name"
-msgid "Indexing resumed"
-msgstr "ଅନୁକ୍ରମଣ କ୍ରିୟାକୁ ପୁନଃ ଚଳନ କରାଯାଇଛି"
-
-#: nepomuk/services/fileindexer/nepomukfileindexer.notifyrc:593
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Strigi file indexing has been resumed"
-msgctxt "Comment"
-msgid "File indexing has been resumed by the search service."
-msgstr "Strigi ଫାଇଲ ଅନୁକ୍ରମଣ କ୍ରିୟାକୁ ପୁନଃ ଚଳନ କରାଯାଇଛି"
-
-#: nepomuk/services/filewatch/nepomukfilewatch.desktop:7
-msgctxt "Name"
-msgid "NepomukFileWatch"
-msgstr "Nepomukଫାଇଲ ଦର୍ଶନ"
-
-#: nepomuk/services/filewatch/nepomukfilewatch.desktop:86
-msgctxt "Comment"
-msgid "The Nepomuk file watch service for monitoring file changes"
-msgstr "ପାଇଲ ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ନିରିକ୍ଷଣ କରିବା ପାଇଁ Nepomuk ଫାଇଲ ଦର୍ଶନ ସର୍ଭିସ"
-
-#: nepomuk/services/filewatch/nepomukfilewatch.notifyrc:3
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Nepomuk Service"
-msgctxt "Comment"
-msgid "Nepomuk file watch service"
-msgstr "Nepomuk ସର୍ଭିସ"
-
-#: nepomuk/services/filewatch/nepomukfilewatch.notifyrc:63
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "USB Devices"
-msgctxt "Name"
-msgid "New Removable Device"
-msgstr "USB ଉପକରଣ"
-
-#: nepomuk/services/filewatch/nepomukfilewatch.notifyrc:121
-msgctxt "Comment"
-msgid "A new unknown removable device has been mounted"
-msgstr ""
-
-#: nepomuk/services/queryservice/nepomukqueryservice.desktop:7
-msgctxt "Name"
-msgid "NepomukQueryService"
-msgstr "Nepomukଅନୁସନ୍ଧାନ ସର୍ଭିସ"
-
-#: nepomuk/services/queryservice/nepomukqueryservice.desktop:86
-msgctxt "Comment"
-msgid ""
-"The Nepomuk Query Service provides an interface for persistent query folders"
-msgstr ""
-"Nepomuk ଅନୁସନ୍ଧାନ ସର୍ଭିସ ଦୀର୍ଘସ୍ଥାୟୀ ଅନୁସନ୍ଧାନ ଫୋଲଡ଼ୋରଗୁଡ଼ିକ ପାଇଁ ଅନ୍ତରାପୃଷ୍ଠ ପ୍ରଦାନ କରିଥାଏ"
-
-#: nepomuk/services/storage/nepomukstorage.desktop:7
-msgctxt "Name"
-msgid "Nepomuk Data Storage"
-msgstr "Nepomuk ତଥ୍ୟ ଭଣ୍ଡାର"
-
-#: nepomuk/services/storage/nepomukstorage.desktop:86
-msgctxt "Comment"
-msgid "The Core Nepomuk data storage service"
-msgstr "ମଧ୍ଯବର୍ତ୍ତି Nepomuk ତଥ୍ୟ ଭଣ୍ଡାର ସର୍ଭିସ"
-
-#: nepomuk/services/storage/nepomukstorage.notifyrc:3
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Nepomuk Data Storage"
-msgctxt "Name"
-msgid "Semantic Data Storage"
-msgstr "Nepomuk ତଥ୍ୟ ଭଣ୍ଡାର"
-
-#: nepomuk/services/storage/nepomukstorage.notifyrc:68
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Desktop"
-msgctxt "Comment"
-msgid "Semantic Desktop"
-msgstr "ଡ଼େସ୍କଟପ"
-
-#: nepomuk/services/storage/nepomukstorage.notifyrc:135
-msgctxt "Name"
-msgid "Failed to start Nepomuk"
-msgstr ""
-
-#: nepomuk/services/storage/nepomukstorage.notifyrc:203
-msgctxt "Comment"
-msgid "The Nepomuk Semantic Desktop system could not be started"
-msgstr ""
-
-#: nepomuk/services/storage/nepomukstorage.notifyrc:272
-msgctxt "Name"
-msgid "Converting Nepomuk data"
-msgstr "Nepomuk ତଥ୍ୟକୁ ପରିବର୍ତ୍ତନ କରାଯାଉଛି"
-
-#: nepomuk/services/storage/nepomukstorage.notifyrc:348
-msgctxt "Comment"
-msgid "All Nepomuk data is converted to a new storage backend"
-msgstr "ସମସ୍ତ Nepomuk ତଥ୍ୟକୁ ନୂତନ ଭଣ୍ଡାର ପୃଷ୍ଠଭୂମିକୁ ପରିବର୍ତ୍ତନ କରାଯାଇଛି"
-
-#: nepomuk/services/storage/nepomukstorage.notifyrc:427
-msgctxt "Name"
-msgid "Converting Nepomuk data failed"
-msgstr "ନେପୋମୁକ ତଥ୍ୟ ପରିବର୍ତ୍ତନ ବିଫଳ ହୋଇଛି"
-
-#: nepomuk/services/storage/nepomukstorage.notifyrc:503
-msgctxt "Comment"
-msgid "Converting Nepomuk data to a new backend failed"
-msgstr "Nepomuk ତଥ୍ୟକୁ ଗୋଟିଏ ନୂତନ ପୃଷ୍ଠଭୂମିରେ ପରିବର୍ତ୍ତନ କରିବାରେ ବିଫଳ"
-
-#: nepomuk/services/storage/nepomukstorage.notifyrc:582
-msgctxt "Name"
-msgid "Converting Nepomuk data done"
-msgstr "Nepomuk ତଥ୍ୟ ପରିବର୍ତ୍ତନ ସମାପ୍ତ ହେଲା"
-
-#: nepomuk/services/storage/nepomukstorage.notifyrc:658
-msgctxt "Comment"
-msgid "Successfully converted Nepomuk data to new backend"
-msgstr "Nepomuk ତଥ୍ୟକୁ ସଫଳତାର ସହିତ ନୂତନ ପୃଷ୍ଠଭୂମିକୁ ପରିବର୍ତ୍ତନ କରାଯାଇଛି"
-
 #: phonon/kcm/kcm_phonon.desktop:13
 #, fuzzy
 #| msgctxt "Name"
@@ -6165,6 +5939,181 @@ msgstr "ହାର୍ଡୱେର"
 msgctxt "Comment"
 msgid "Provides a user interface for hardware events"
 msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Nepomuk Server"
+#~ msgstr "Nepomuk ସର୍ଭର"
+
+#~ msgctxt "Comment"
+#~ msgid "The Nepomuk Server providing Storage services and strigi controlling"
+#~ msgstr "Nepomuk ସର୍ଭର ଭଣ୍ଡାର ସର୍ଭିସ ଏବଂ strigi ନିୟନ୍ତ୍ରଣ ପ୍ରଦାନ କରିଥାଏ"
+
+#~ msgctxt "Comment"
+#~ msgid "Nepomuk Service"
+#~ msgstr "Nepomuk ସର୍ଭିସ"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Nepomuk Service"
+#~ msgctxt "Name"
+#~ msgid "Nepomuk Backup"
+#~ msgstr "Nepomuk ସର୍ଭିସ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Internal Services"
+#~ msgctxt "Name"
+#~ msgid "File Indexer Service"
+#~ msgstr "ଆଭ୍ୟନ୍ତରୀଣ ସର୍ଭିସଗୁଡ଼ିକ"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid ""
+#~| "Nepomuk Service which controls the strigidaemon, i.e. indexes files on "
+#~| "the desktop"
+#~ msgctxt "Comment"
+#~ msgid "Nepomuk Service which indexes files on the desktop"
+#~ msgstr ""
+#~ "Nepomuk ସର୍ଭିସ ଯାହାକି strigidaemonକୁ ନିୟନ୍ତ୍ରଣ କରିଥାଏ, ଯେପରିକି ଡ଼େସ୍କଟପରେ ଅନୁକ୍ରମଣିକା "
+#~ "ଫାଇଲ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop Search"
+#~ msgctxt "Comment"
+#~ msgid "Desktop Search"
+#~ msgstr "ଡ଼େସ୍କଟପ ସନ୍ଧାନ"
+
+#~ msgctxt "Name"
+#~ msgid "Initial Indexing started"
+#~ msgstr "ପ୍ରାରମ୍ଭିକ ଅନୁକ୍ରମିକ ଆରମ୍ଭ ହୋଇଛି"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid ""
+#~| "Strigi started the initial indexing of local files for fast desktop "
+#~| "searches"
+#~ msgctxt "Comment"
+#~ msgid "Indexing of local files for fast searches has started."
+#~ msgstr ""
+#~ "ତୀବ୍ର ଡ଼େସ୍କଟପ ସନ୍ଧାନ ପାଇଁ Strigi ସ୍ଥାନୀୟ ଫାଇଲଗୁଡ଼ିକର ପ୍ରାରମ୍ଭିକ ଅନୁକ୍ରମଣକୁ ଆରମ୍ଭ କରିଅଛି"
+
+#~ msgctxt "Name"
+#~ msgid "Initial Indexing finished"
+#~ msgstr "ପ୍ରାରମ୍ଭିକ ଅନୁକ୍ରମଣ ସମାପ୍ତ ହୋଇଛି"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid ""
+#~| "Strigi started the initial indexing of local files for fast desktop "
+#~| "searches"
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "The initial indexing of local files for fast desktop searches has "
+#~ "completed."
+#~ msgstr ""
+#~ "ତୀବ୍ର ଡ଼େସ୍କଟପ ସନ୍ଧାନ ପାଇଁ Strigi ସ୍ଥାନୀୟ ଫାଇଲଗୁଡ଼ିକର ପ୍ରାରମ୍ଭିକ ଅନୁକ୍ରମଣକୁ ଆରମ୍ଭ କରିଅଛି"
+
+#~ msgctxt "Name"
+#~ msgid "Indexing suspended"
+#~ msgstr "ଅନୁକ୍ରମଣ କ୍ରିୟାକୁ ନିଲମ୍ବିତ କରାଯାଇଛି"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Strigi file indexing has been suspended"
+#~ msgctxt "Comment"
+#~ msgid "File indexing has been suspended by the search service."
+#~ msgstr "Strigi ଫାଇଲ ଅନୁକ୍ରମଣ କ୍ରିୟାକୁ ନିଲମ୍ବିତ କରାଯାଇଛି"
+
+#~ msgctxt "Name"
+#~ msgid "Indexing resumed"
+#~ msgstr "ଅନୁକ୍ରମଣ କ୍ରିୟାକୁ ପୁନଃ ଚଳନ କରାଯାଇଛି"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Strigi file indexing has been resumed"
+#~ msgctxt "Comment"
+#~ msgid "File indexing has been resumed by the search service."
+#~ msgstr "Strigi ଫାଇଲ ଅନୁକ୍ରମଣ କ୍ରିୟାକୁ ପୁନଃ ଚଳନ କରାଯାଇଛି"
+
+#~ msgctxt "Name"
+#~ msgid "NepomukFileWatch"
+#~ msgstr "Nepomukଫାଇଲ ଦର୍ଶନ"
+
+#~ msgctxt "Comment"
+#~ msgid "The Nepomuk file watch service for monitoring file changes"
+#~ msgstr "ପାଇଲ ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ନିରିକ୍ଷଣ କରିବା ପାଇଁ Nepomuk ଫାଇଲ ଦର୍ଶନ ସର୍ଭିସ"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Nepomuk Service"
+#~ msgctxt "Comment"
+#~ msgid "Nepomuk file watch service"
+#~ msgstr "Nepomuk ସର୍ଭିସ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "USB Devices"
+#~ msgctxt "Name"
+#~ msgid "New Removable Device"
+#~ msgstr "USB ଉପକରଣ"
+
+#~ msgctxt "Name"
+#~ msgid "NepomukQueryService"
+#~ msgstr "Nepomukଅନୁସନ୍ଧାନ ସର୍ଭିସ"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "The Nepomuk Query Service provides an interface for persistent query "
+#~ "folders"
+#~ msgstr ""
+#~ "Nepomuk ଅନୁସନ୍ଧାନ ସର୍ଭିସ ଦୀର୍ଘସ୍ଥାୟୀ ଅନୁସନ୍ଧାନ ଫୋଲଡ଼ୋରଗୁଡ଼ିକ ପାଇଁ ଅନ୍ତରାପୃଷ୍ଠ ପ୍ରଦାନ କରିଥାଏ"
+
+#~ msgctxt "Name"
+#~ msgid "Nepomuk Data Storage"
+#~ msgstr "Nepomuk ତଥ୍ୟ ଭଣ୍ଡାର"
+
+#~ msgctxt "Comment"
+#~ msgid "The Core Nepomuk data storage service"
+#~ msgstr "ମଧ୍ଯବର୍ତ୍ତି Nepomuk ତଥ୍ୟ ଭଣ୍ଡାର ସର୍ଭିସ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Nepomuk Data Storage"
+#~ msgctxt "Name"
+#~ msgid "Semantic Data Storage"
+#~ msgstr "Nepomuk ତଥ୍ୟ ଭଣ୍ଡାର"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop"
+#~ msgctxt "Comment"
+#~ msgid "Semantic Desktop"
+#~ msgstr "ଡ଼େସ୍କଟପ"
+
+#~ msgctxt "Name"
+#~ msgid "Converting Nepomuk data"
+#~ msgstr "Nepomuk ତଥ୍ୟକୁ ପରିବର୍ତ୍ତନ କରାଯାଉଛି"
+
+#~ msgctxt "Comment"
+#~ msgid "All Nepomuk data is converted to a new storage backend"
+#~ msgstr "ସମସ୍ତ Nepomuk ତଥ୍ୟକୁ ନୂତନ ଭଣ୍ଡାର ପୃଷ୍ଠଭୂମିକୁ ପରିବର୍ତ୍ତନ କରାଯାଇଛି"
+
+#~ msgctxt "Name"
+#~ msgid "Converting Nepomuk data failed"
+#~ msgstr "ନେପୋମୁକ ତଥ୍ୟ ପରିବର୍ତ୍ତନ ବିଫଳ ହୋଇଛି"
+
+#~ msgctxt "Comment"
+#~ msgid "Converting Nepomuk data to a new backend failed"
+#~ msgstr "Nepomuk ତଥ୍ୟକୁ ଗୋଟିଏ ନୂତନ ପୃଷ୍ଠଭୂମିରେ ପରିବର୍ତ୍ତନ କରିବାରେ ବିଫଳ"
+
+#~ msgctxt "Name"
+#~ msgid "Converting Nepomuk data done"
+#~ msgstr "Nepomuk ତଥ୍ୟ ପରିବର୍ତ୍ତନ ସମାପ୍ତ ହେଲା"
+
+#~ msgctxt "Comment"
+#~ msgid "Successfully converted Nepomuk data to new backend"
+#~ msgstr "Nepomuk ତଥ୍ୟକୁ ସଫଳତାର ସହିତ ନୂତନ ପୃଷ୍ଠଭୂମିକୁ ପରିବର୍ତ୍ତନ କରାଯାଇଛି"
 
 #, fuzzy
 #~| msgctxt "Query"

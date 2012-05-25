@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-04-11 04:15+0200\n"
+"POT-Creation-Date: 2012-05-25 07:22+0200\n"
 "PO-Revision-Date: 2008-12-26 16:53+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -40,6 +40,24 @@ msgstr "ରୂପରେଖ ଅପସାରଣ କରନ୍ତୁ (&D)"
 #: src/konqmainwindow.cpp:5119
 msgid "no name"
 msgstr "କୌଣସି ନାମ ନାହିଁ"
+
+#: src/konqview.cpp:1200
+msgid ""
+"The page you are trying to view is the result of posted form data. If you "
+"resend the data, any action the form carried out (such as search or online "
+"purchase) will be repeated. "
+msgstr ""
+
+#: src/konqview.cpp:1202
+#, fuzzy
+#| msgid "Warning"
+msgctxt "@title:window"
+msgid "Warning"
+msgstr "ଚେତାବନି"
+
+#: src/konqview.cpp:1202
+msgid "Resend"
+msgstr "ପୁଣି ପଠାନ୍ତୁ"
 
 #: src/konqguiclients.cpp:66
 #, kde-format
@@ -874,24 +892,6 @@ msgstr "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ (&o): ବନ୍
 #: src/konqundomanager.cpp:122
 msgid "Und&o"
 msgstr ""
-
-#: src/konqview.cpp:1203
-msgid ""
-"The page you are trying to view is the result of posted form data. If you "
-"resend the data, any action the form carried out (such as search or online "
-"purchase) will be repeated. "
-msgstr ""
-
-#: src/konqview.cpp:1205
-#, fuzzy
-#| msgid "Warning"
-msgctxt "@title:window"
-msgid "Warning"
-msgstr "ଚେତାବନି"
-
-#: src/konqview.cpp:1205
-msgid "Resend"
-msgstr "ପୁଣି ପଠାନ୍ତୁ"
 
 #: src/konqsessiondlg.cpp:78
 #, fuzzy
