@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-07-27 04:25+0200\n"
+"POT-Creation-Date: 2012-08-02 04:35+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -4934,7 +4934,7 @@ msgid "Connection timed out"
 msgstr "ସଂଯୋଗ ସ୍ଥାପନ ସମୟ ସମାପ୍ତ"
 
 #: kdecore/network/klocalsocket_unix.cpp:213
-#: kdecore/network/klocalsocket_unix.cpp:293 nepomuk/core/resource.cpp:538
+#: kdecore/network/klocalsocket_unix.cpp:293 nepomuk/core/resource.cpp:560
 msgid "Unknown error"
 msgstr "ଅଜଣା ତ୍ରୁଟି"
 
@@ -5497,6 +5497,18 @@ msgctxt "@info:tooltip"
 msgid "Display the window in full screen"
 msgstr ""
 
+#: kdeui/actions/kaction.cpp:122
+#, kde-format
+msgid ""
+"The key sequence '%1' is ambiguous. Use 'Configure Shortcuts'\n"
+"from the 'Settings' menu to solve the ambiguity.\n"
+"No action will be triggered."
+msgstr ""
+
+#: kdeui/actions/kaction.cpp:126
+msgid "Ambiguous shortcut detected"
+msgstr ""
+
 #: kdeui/actions/kstandardaction.cpp:93 kdeui/util/kstandardguiitem.cpp:210
 msgctxt "go back"
 msgid "&Back"
@@ -5540,18 +5552,6 @@ msgid ""
 msgstr ""
 "ଅବସ୍ଥିତି ପଟି ଦର୍ଶାନ୍ତୁ<br /><br />ଅବସ୍ଥିତି ପଟିକୁ ଦର୍ଶାନ୍ତୁ, ଯେଉଁ ପଟିଟି ୱିଣ୍ଡୋ ତଳଭାଗରେ ଅବସ୍ଥିତି ସୂଚନା "
 "ପାଇଁ ବ୍ୟବହୃତ ହୁଏ।"
-
-#: kdeui/actions/kaction.cpp:122
-#, kde-format
-msgid ""
-"The key sequence '%1' is ambiguous. Use 'Configure Shortcuts'\n"
-"from the 'Settings' menu to solve the ambiguity.\n"
-"No action will be triggered."
-msgstr ""
-
-#: kdeui/actions/kaction.cpp:126
-msgid "Ambiguous shortcut detected"
-msgstr ""
 
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:84
 msgid ""
@@ -9384,65 +9384,20 @@ msgstr "ବିଭାଜକ, ପରିଚ୍ଛେଦ"
 msgid "Separator, Space"
 msgstr "ବିଭାଜକ, ଖାଲି ସ୍ଥାନ"
 
-#. i18n: Placeholder text in line edit widgets is the text appearing
-#. before any user input, briefly explaining to the user what to type
-#. (e.g. "Enter search pattern").
-#. By default the text is set in italic, which may not be appropriate
-#. for some languages and scripts (e.g. for CJK ideographs).
 #. i18n: Placeholder text in text edit widgets is the text appearing
 #. before any user input, briefly explaining to the user what to type
 #. (e.g. "Enter message").
 #. By default the text is set in italic, which may not be appropriate
 #. for some languages and scripts (e.g. for CJK ideographs).
-#: kdeui/widgets/klineedit.cpp:87 kdeui/widgets/ktextedit.cpp:79
+#. i18n: Placeholder text in line edit widgets is the text appearing
+#. before any user input, briefly explaining to the user what to type
+#. (e.g. "Enter search pattern").
+#. By default the text is set in italic, which may not be appropriate
+#. for some languages and scripts (e.g. for CJK ideographs).
+#: kdeui/widgets/ktextedit.cpp:79 kdeui/widgets/klineedit.cpp:87
 msgctxt "Italic placeholder text in line edits: 0 no, 1 yes"
 msgid "1"
 msgstr "1"
-
-#: kdeui/widgets/klineedit.cpp:296
-msgctxt "@action:button Clear current text in the line edit"
-msgid "Clear text"
-msgstr "ପାଠ୍ୟ ସଫାକରନ୍ତୁ"
-
-#: kdeui/widgets/klineedit.cpp:1216
-msgctxt "@title:menu"
-msgid "Text Completion"
-msgstr "ପାଠ୍ୟ ସମାପ୍ତି"
-
-#: kdeui/widgets/klineedit.cpp:1223
-msgctxt "@item:inmenu Text Completion"
-msgid "None"
-msgstr "କେହିନୁହଁ"
-
-#: kdeui/widgets/klineedit.cpp:1224
-msgctxt "@item:inmenu Text Completion"
-msgid "Manual"
-msgstr "ହସ୍ତକୃତ"
-
-#: kdeui/widgets/klineedit.cpp:1225
-msgctxt "@item:inmenu Text Completion"
-msgid "Automatic"
-msgstr "ସ୍ବୟଂଚାଳିତ"
-
-#: kdeui/widgets/klineedit.cpp:1226
-msgctxt "@item:inmenu Text Completion"
-msgid "Dropdown List"
-msgstr ""
-
-#: kdeui/widgets/klineedit.cpp:1227
-msgctxt "@item:inmenu Text Completion"
-msgid "Short Automatic"
-msgstr "ସଂକ୍ଷିପ୍ତ ସ୍ୱୟଂଚାଳିତ"
-
-#: kdeui/widgets/klineedit.cpp:1228
-msgctxt "@item:inmenu Text Completion"
-msgid "Dropdown List && Automatic"
-msgstr ""
-
-#: kdeui/widgets/klineedit.cpp:1259
-msgctxt "@item:inmenu Text Completion"
-msgid "Default"
-msgstr "ପୂର୍ବ ନିର୍ଦ୍ଧାରିତ"
 
 #: kdeui/widgets/ktextedit.cpp:525
 #, fuzzy
@@ -9762,6 +9717,51 @@ msgstr ""
 #| msgid "Do you want to reload KDE configuration?"
 msgid "You are not allowed to save the configuration"
 msgstr "ଆପଣ KDE ବିନ୍ୟାସ ପୁନର୍ଧାରଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
+
+#: kdeui/widgets/klineedit.cpp:296
+msgctxt "@action:button Clear current text in the line edit"
+msgid "Clear text"
+msgstr "ପାଠ୍ୟ ସଫାକରନ୍ତୁ"
+
+#: kdeui/widgets/klineedit.cpp:1216
+msgctxt "@title:menu"
+msgid "Text Completion"
+msgstr "ପାଠ୍ୟ ସମାପ୍ତି"
+
+#: kdeui/widgets/klineedit.cpp:1223
+msgctxt "@item:inmenu Text Completion"
+msgid "None"
+msgstr "କେହିନୁହଁ"
+
+#: kdeui/widgets/klineedit.cpp:1224
+msgctxt "@item:inmenu Text Completion"
+msgid "Manual"
+msgstr "ହସ୍ତକୃତ"
+
+#: kdeui/widgets/klineedit.cpp:1225
+msgctxt "@item:inmenu Text Completion"
+msgid "Automatic"
+msgstr "ସ୍ବୟଂଚାଳିତ"
+
+#: kdeui/widgets/klineedit.cpp:1226
+msgctxt "@item:inmenu Text Completion"
+msgid "Dropdown List"
+msgstr ""
+
+#: kdeui/widgets/klineedit.cpp:1227
+msgctxt "@item:inmenu Text Completion"
+msgid "Short Automatic"
+msgstr "ସଂକ୍ଷିପ୍ତ ସ୍ୱୟଂଚାଳିତ"
+
+#: kdeui/widgets/klineedit.cpp:1228
+msgctxt "@item:inmenu Text Completion"
+msgid "Dropdown List && Automatic"
+msgstr ""
+
+#: kdeui/widgets/klineedit.cpp:1259
+msgctxt "@item:inmenu Text Completion"
+msgid "Default"
+msgstr "ପୂର୍ବ ନିର୍ଦ୍ଧାରିତ"
 
 #: kdeui/widgets/kpixmapregionselectorwidget.cpp:195
 msgid "Image Operations"
@@ -12978,15 +12978,15 @@ msgstr "ଯନ୍ତ୍ରାଂଶଗୁଡିକୁ ଚୟନ କରନ୍ତ�
 msgid "Enable component"
 msgstr "ଉପାଦାନକୁ ସକ୍ରିୟ କରନ୍ତୁ"
 
-#: nepomuk/core/resource.cpp:532
+#: nepomuk/core/resource.cpp:554
 msgid "Success"
 msgstr "ସଫଳ"
 
-#: nepomuk/core/resource.cpp:534
+#: nepomuk/core/resource.cpp:556
 msgid "Communication error"
 msgstr "ସଞ୍ଚାର ତ୍ରୁଟି"
 
-#: nepomuk/core/resource.cpp:536
+#: nepomuk/core/resource.cpp:558
 msgid "Invalid type in Database"
 msgstr "ତଥ୍ୟାବଳୀରେ ଅବୈଧ ଟାଇପ"
 
