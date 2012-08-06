@@ -1,0 +1,2214 @@
+# translation of konsole.po to Oriya
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Manoj Kumar Giri <mgiri@redhat.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: konsole\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2012-07-25 11:21+0200\n"
+"PO-Revision-Date: 2009-01-02 11:48+0530\n"
+"Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
+"Language-Team: Oriya <oriya-it@googlegroups.com>\n"
+"Language: or\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"\n"
+"\n"
+
+#: Application.cpp:445
+msgid "Toggle Background Window"
+msgstr ""
+
+#: BookmarkHandler.cpp:117
+#, kde-format
+msgctxt "@item:inmenu The user's name and host they are connected to via ssh"
+msgid "%1 on %2"
+msgstr ""
+
+#: BookmarkHandler.cpp:119
+#, kde-format
+msgctxt "@item:inmenu The host the user is connected to via ssh"
+msgid "%1"
+msgstr ""
+
+#: ColorScheme.cpp:93
+msgctxt "@item:intable palette"
+msgid "Foreground"
+msgstr ""
+
+#: ColorScheme.cpp:94
+msgctxt "@item:intable palette"
+msgid "Background"
+msgstr ""
+
+#: ColorScheme.cpp:95
+msgctxt "@item:intable palette"
+msgid "Color 1"
+msgstr ""
+
+#: ColorScheme.cpp:96
+msgctxt "@item:intable palette"
+msgid "Color 2"
+msgstr ""
+
+#: ColorScheme.cpp:97
+msgctxt "@item:intable palette"
+msgid "Color 3"
+msgstr ""
+
+#: ColorScheme.cpp:98
+msgctxt "@item:intable palette"
+msgid "Color 4"
+msgstr ""
+
+#: ColorScheme.cpp:99
+msgctxt "@item:intable palette"
+msgid "Color 5"
+msgstr ""
+
+#: ColorScheme.cpp:100
+msgctxt "@item:intable palette"
+msgid "Color 6"
+msgstr ""
+
+#: ColorScheme.cpp:101
+msgctxt "@item:intable palette"
+msgid "Color 7"
+msgstr ""
+
+#: ColorScheme.cpp:102
+msgctxt "@item:intable palette"
+msgid "Color 8"
+msgstr ""
+
+#: ColorScheme.cpp:103
+msgctxt "@item:intable palette"
+msgid "Foreground (Intense)"
+msgstr ""
+
+#: ColorScheme.cpp:104
+msgctxt "@item:intable palette"
+msgid "Background (Intense)"
+msgstr ""
+
+#: ColorScheme.cpp:105
+msgctxt "@item:intable palette"
+msgid "Color 1 (Intense)"
+msgstr ""
+
+#: ColorScheme.cpp:106
+msgctxt "@item:intable palette"
+msgid "Color 2 (Intense)"
+msgstr ""
+
+#: ColorScheme.cpp:107
+msgctxt "@item:intable palette"
+msgid "Color 3 (Intense)"
+msgstr ""
+
+#: ColorScheme.cpp:108
+msgctxt "@item:intable palette"
+msgid "Color 4 (Intense)"
+msgstr ""
+
+#: ColorScheme.cpp:109
+msgctxt "@item:intable palette"
+msgid "Color 5 (Intense)"
+msgstr ""
+
+#: ColorScheme.cpp:110
+msgctxt "@item:intable palette"
+msgid "Color 6 (Intense)"
+msgstr ""
+
+#: ColorScheme.cpp:111
+msgctxt "@item:intable palette"
+msgid "Color 7 (Intense)"
+msgstr ""
+
+#: ColorScheme.cpp:112
+msgctxt "@item:intable palette"
+msgid "Color 8 (Intense)"
+msgstr ""
+
+#: ColorScheme.cpp:295
+msgid "Un-named Color Scheme"
+msgstr ""
+
+#: ColorScheme.cpp:459
+msgid "Accessible Color Scheme"
+msgstr ""
+
+#: ColorSchemeEditor.cpp:79
+msgctxt "@label:listbox Column header text for color names"
+msgid "Name"
+msgstr ""
+
+#: ColorSchemeEditor.cpp:79
+msgctxt "@label:listbox Column header text for the actual colors"
+msgid "Color"
+msgstr ""
+
+#: ColorSchemeEditor.cpp:101
+msgctxt "@info:status"
+msgid ""
+"The background transparency setting will not be used because your desktop "
+"does not appear to support transparent windows."
+msgstr ""
+
+#: ColorSchemeEditor.cpp:135
+msgctxt "@action:button"
+msgid "Select wallpaper image file"
+msgstr ""
+
+#: ColorSchemeEditor.cpp:205
+msgctxt "@info:tooltip"
+msgid "Click to choose color"
+msgstr ""
+
+#: CopyInputDialog.cpp:34
+msgid "Copy Input"
+msgstr ""
+
+#: EditProfileDialog.cpp:67
+msgid "Edit Profile"
+msgstr ""
+
+#: EditProfileDialog.cpp:133
+msgid "<p>Each profile must have a name before it can be saved into disk.</p>"
+msgstr ""
+
+#: EditProfileDialog.cpp:164
+#, kde-format
+msgid "Editing profile: %2"
+msgid_plural "Editing %1 profiles: %2"
+msgstr[0] ""
+msgstr[1] ""
+
+#: EditProfileDialog.cpp:169
+#, kde-format
+msgid "Edit Profile \"%1\""
+msgstr ""
+
+#: EditProfileDialog.cpp:249
+msgid "Profile name is empty."
+msgstr ""
+
+#: EditProfileDialog.cpp:309
+msgid "One environment variable per line"
+msgstr ""
+
+#: EditProfileDialog.cpp:311
+msgid "Edit Environment"
+msgstr ""
+
+#: EditProfileDialog.cpp:335
+msgctxt "Unit of time"
+msgid " second"
+msgid_plural " seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: EditProfileDialog.cpp:399
+msgid "Select Initial Directory"
+msgstr ""
+
+#: EditProfileDialog.cpp:582
+#, kde-format
+msgid "%1, size %2"
+msgstr ""
+
+#: EditProfileDialog.cpp:691 EditProfileDialog.cpp:700
+msgid "New Color Scheme"
+msgstr ""
+
+#: EditProfileDialog.cpp:693
+msgid "Edit Color Scheme"
+msgstr ""
+
+#: EditProfileDialog.cpp:764
+msgid ""
+"This color scheme uses a transparent background which does not appear to be "
+"supported on your desktop"
+msgstr ""
+
+#: EditProfileDialog.cpp:769
+msgid ""
+"Konsole was started before desktop effects were enabled. You need to restart "
+"Konsole to see transparent background."
+msgstr ""
+
+#: EditProfileDialog.cpp:872 EditProfileDialog.cpp:883
+msgid "New Key Binding List"
+msgstr ""
+
+#: EditProfileDialog.cpp:874
+msgid "Edit Key Binding List"
+msgstr ""
+
+#: EditProfileDialog.cpp:1150
+msgid "--- Type anything in this box ---"
+msgstr ""
+
+#: EditProfileDialog.cpp:1154
+msgid "Select Fixed Width Font"
+msgstr ""
+
+#: Filter.cpp:468
+msgid "Open Link"
+msgstr ""
+
+#: Filter.cpp:469
+msgid "Copy Link Address"
+msgstr ""
+
+#: Filter.cpp:471
+msgid "Send Email To..."
+msgstr ""
+
+#: Filter.cpp:472
+msgid "Copy Email Address"
+msgstr ""
+
+#: HistorySizeDialog.cpp:32
+msgctxt "@title:window"
+msgid "Adjust Scrollback"
+msgstr ""
+
+#: HistorySizeDialog.cpp:45
+msgctxt "@info:status"
+msgid "Any adjustments are only temporary to this session."
+msgstr ""
+
+#: HistorySizeWidget.cpp:44
+msgctxt "@info:status"
+msgid ""
+"When using this option, the scrollback data will be written unencrypted to "
+"temporary files. Those temporary files will be deleted automatically when "
+"Konsole is closed in a normal manner."
+msgstr ""
+
+#: HistorySizeWidget.cpp:60
+msgctxt "Unit of scrollback"
+msgid " line"
+msgid_plural " lines"
+msgstr[0] ""
+msgstr[1] ""
+
+#: IncrementalSearchBar.cpp:51
+msgid "Close the search bar"
+msgstr ""
+
+#: IncrementalSearchBar.cpp:56
+msgid "Find:"
+msgstr ""
+
+#: IncrementalSearchBar.cpp:61
+msgid "Enter the text to search for here"
+msgstr ""
+
+#: IncrementalSearchBar.cpp:80
+msgctxt "@action:button Go to the next phrase"
+msgid "Next"
+msgstr ""
+
+#: IncrementalSearchBar.cpp:83
+msgid "Find the next match for the current search phrase"
+msgstr ""
+
+#: IncrementalSearchBar.cpp:88
+msgctxt "@action:button Go to the previous phrase"
+msgid "Previous"
+msgstr ""
+
+#: IncrementalSearchBar.cpp:91
+msgid "Find the previous match for the current search phrase"
+msgstr ""
+
+#: IncrementalSearchBar.cpp:96
+msgctxt "@action:button Display options menu"
+msgid "Options"
+msgstr ""
+
+#: IncrementalSearchBar.cpp:101
+msgid "Display the options menu"
+msgstr ""
+
+#: IncrementalSearchBar.cpp:114
+msgid "Case sensitive"
+msgstr ""
+
+#: IncrementalSearchBar.cpp:116
+msgid "Sets whether the search is case sensitive"
+msgstr ""
+
+#: IncrementalSearchBar.cpp:120
+msgid "Match regular expression"
+msgstr ""
+
+#: IncrementalSearchBar.cpp:125
+msgid "Highlight all matches"
+msgstr ""
+
+#: IncrementalSearchBar.cpp:127
+msgid "Sets whether matching text should be highlighted"
+msgstr ""
+
+#: KeyBindingEditor.cpp:46
+msgid "Key Combination"
+msgstr ""
+
+#: KeyBindingEditor.cpp:46
+msgid "Output"
+msgstr ""
+
+#: main.cpp:55
+msgid "Konsole"
+msgstr ""
+
+#: main.cpp:57
+msgid "Terminal emulator"
+msgstr ""
+
+#: main.cpp:154
+msgid "Name of profile to use for new Konsole instance"
+msgstr ""
+
+#: main.cpp:156
+msgid "Set the initial working directory of the new tab or window to 'dir'"
+msgstr ""
+
+#: main.cpp:160
+msgid "Do not close the initial session automatically when it ends."
+msgstr ""
+
+#: main.cpp:163
+msgid ""
+"Create a new tab in an existing window rather than creating a new window"
+msgstr ""
+
+#: main.cpp:166
+msgid "Create tabs as specified in given tabs configuration file"
+msgstr ""
+
+#: main.cpp:169
+msgid ""
+"Start Konsole in the background and bring to the front when Ctrl+Shift+F12 "
+"(by default) is pressed"
+msgstr ""
+
+#: main.cpp:171
+msgid "Show the menubar, overriding the default setting"
+msgstr ""
+
+#: main.cpp:172
+msgid "Hide the menubar, overriding the default setting"
+msgstr ""
+
+#: main.cpp:173
+msgid "Show the tabbar, overriding the default setting"
+msgstr ""
+
+#: main.cpp:174
+msgid "Hide the tabbar, overriding the default setting"
+msgstr ""
+
+#: main.cpp:175
+msgid "List the available profiles"
+msgstr ""
+
+#: main.cpp:177
+msgid "List all the profile properties names and their type (for use with -p)"
+msgstr ""
+
+#: main.cpp:180
+msgid "Change the value of a profile property."
+msgstr ""
+
+#: main.cpp:182
+msgid ""
+"Command to execute. This option will catch all following arguments, so use "
+"it as the last option."
+msgstr ""
+
+#: main.cpp:184
+msgid "Arguments passed to command"
+msgstr ""
+
+#: main.cpp:185
+msgid "Use --nofork to run in the foreground (helpful with the -e option)."
+msgstr ""
+
+#: main.cpp:191
+msgid "Kurt Hindenburg"
+msgstr ""
+
+#: main.cpp:192
+msgid "General maintainer, bug fixes and general improvements"
+msgstr ""
+
+#: main.cpp:195
+msgid "Robert Knight"
+msgstr ""
+
+#: main.cpp:196
+msgid "Previous maintainer, ported to KDE4"
+msgstr ""
+
+#: main.cpp:198
+msgid "Lars Doelle"
+msgstr ""
+
+#: main.cpp:199
+msgid "Original author"
+msgstr ""
+
+#: main.cpp:201
+msgid "Jekyll Wu"
+msgstr ""
+
+#: main.cpp:202 main.cpp:205 main.cpp:208
+msgid "Bug fixes and general improvements"
+msgstr ""
+
+#: main.cpp:204
+msgid "Waldo Bastian"
+msgstr ""
+
+#: main.cpp:207
+msgid "Stephan Binner"
+msgstr ""
+
+#: main.cpp:210
+msgid "Thomas Dreibholz"
+msgstr ""
+
+#: main.cpp:211
+msgid "General improvements"
+msgstr ""
+
+#: main.cpp:213
+msgid "Chris Machemer"
+msgstr ""
+
+#: main.cpp:214 main.cpp:250 main.cpp:253 main.cpp:256 main.cpp:259
+msgid "Bug fixes"
+msgstr ""
+
+#: main.cpp:216
+msgid "Stephan Kulow"
+msgstr ""
+
+#: main.cpp:217
+msgid "Solaris support and history"
+msgstr ""
+
+#: main.cpp:219
+msgid "Alexander Neundorf"
+msgstr ""
+
+#: main.cpp:220
+msgid "Bug fixes and improved startup performance"
+msgstr ""
+
+#: main.cpp:222
+msgid "Peter Silva"
+msgstr ""
+
+#: main.cpp:223
+msgid "Marking improvements"
+msgstr ""
+
+#: main.cpp:225
+msgid "Lotzi Boloni"
+msgstr ""
+
+#: main.cpp:226
+msgid ""
+"Embedded Konsole\n"
+"Toolbar and session names"
+msgstr ""
+
+#: main.cpp:229
+msgid "David Faure"
+msgstr ""
+
+#: main.cpp:230
+msgid ""
+"Embedded Konsole\n"
+"General improvements"
+msgstr ""
+
+#: main.cpp:233
+msgid "Antonio Larrosa"
+msgstr ""
+
+#: main.cpp:234
+msgid "Visual effects"
+msgstr ""
+
+#: main.cpp:236
+msgid "Matthias Ettrich"
+msgstr ""
+
+#: main.cpp:237
+msgid ""
+"Code from the kvt project\n"
+"General improvements"
+msgstr ""
+
+#: main.cpp:240
+msgid "Warwick Allison"
+msgstr ""
+
+#: main.cpp:241
+msgid "Schema and text selection improvements"
+msgstr ""
+
+#: main.cpp:243
+msgid "Dan Pilone"
+msgstr ""
+
+#: main.cpp:244
+msgid "SGI port"
+msgstr ""
+
+#: main.cpp:246
+msgid "Kevin Street"
+msgstr ""
+
+#: main.cpp:247
+msgid "FreeBSD port"
+msgstr ""
+
+#: main.cpp:249
+msgid "Sven Fischer"
+msgstr ""
+
+#: main.cpp:252
+msgid "Dale M. Flaven"
+msgstr ""
+
+#: main.cpp:255
+msgid "Martin Jones"
+msgstr ""
+
+#: main.cpp:258
+msgid "Lars Knoll"
+msgstr ""
+
+#: main.cpp:261
+msgid "Thanks to many others.\n"
+msgstr ""
+
+#: MainWindow.cpp:275
+msgctxt "@action:inmenu"
+msgid "&New Tab"
+msgstr ""
+
+#: MainWindow.cpp:284
+msgctxt "@action:inmenu"
+msgid "&Clone Tab"
+msgstr ""
+
+#: MainWindow.cpp:291
+msgctxt "@action:inmenu"
+msgid "New &Window"
+msgstr ""
+
+#: MainWindow.cpp:298
+msgctxt "@action:inmenu"
+msgid "Close Window"
+msgstr ""
+
+#: MainWindow.cpp:303
+msgctxt "@title:menu"
+msgid "&Bookmarks"
+msgstr ""
+
+#: MainWindow.cpp:321
+msgctxt "@action:inmenu"
+msgid "Manage Profiles..."
+msgstr ""
+
+#: MainWindow.cpp:327
+msgctxt "@item"
+msgid "Activate Menu"
+msgstr ""
+
+#: MainWindow.cpp:532
+#, kde-format
+msgctxt "@info"
+msgid "There are %1 tab open in this window. Do you still want to quit?"
+msgid_plural ""
+"There are %1 tabs open in this window. Do you still want to quit?"
+msgstr[0] ""
+msgstr[1] ""
+
+#: MainWindow.cpp:536
+msgctxt "@title"
+msgid "Confirm Close"
+msgstr ""
+
+#: MainWindow.cpp:538
+msgctxt "@action:button"
+msgid "Close Current Tab"
+msgstr ""
+
+#: MainWindow.cpp:635
+msgctxt "@title Preferences page name"
+msgid "General"
+msgstr ""
+
+#: MainWindow.cpp:640
+msgctxt "@title Preferences page name"
+msgid "TabBar"
+msgstr ""
+
+#: ManageProfilesDialog.cpp:43
+msgctxt "@title:window"
+msgid "Manage Profiles"
+msgstr ""
+
+#: ManageProfilesDialog.cpp:177
+msgid "Click to rename profile"
+msgstr ""
+
+#: ManageProfilesDialog.cpp:186
+msgid "Click to toggle status"
+msgstr ""
+
+#: ManageProfilesDialog.cpp:192
+msgid "Double click to change shortcut"
+msgstr ""
+
+#: ManageProfilesDialog.cpp:214
+msgctxt "@title:column Profile label"
+msgid "Name"
+msgstr ""
+
+#: ManageProfilesDialog.cpp:215
+msgctxt "@title:column Display profile in file menu"
+msgid "Show in Menu"
+msgstr ""
+
+#: ManageProfilesDialog.cpp:216
+msgctxt "@title:column Profile shortcut text"
+msgid "Shortcut"
+msgstr ""
+
+#: ManageProfilesDialog.cpp:330
+msgctxt "@item This will be used as part of the file name"
+msgid "New Profile"
+msgstr ""
+
+#: Part.cpp:96
+msgid "Manage Profiles..."
+msgstr ""
+
+#: Profile.cpp:140
+msgid "Shell"
+msgstr ""
+
+#: ProfileList.cpp:47
+msgid "Default profile"
+msgstr ""
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#. i18n: file: CopyInputDialog.ui:19
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: rc.cpp:5
+msgid "Filter:"
+msgstr ""
+
+#. i18n: file: CopyInputDialog.ui:46
+#. i18n: ectx: property (text), widget (QPushButton, selectAllButton)
+#: rc.cpp:8
+msgid "Select All"
+msgstr ""
+
+#. i18n: file: CopyInputDialog.ui:53
+#. i18n: ectx: property (text), widget (QPushButton, deselectAllButton)
+#: rc.cpp:11
+msgid "Deselect All"
+msgstr ""
+
+#. i18n: file: KeyBindingEditor.ui:22
+#. i18n: ectx: property (text), widget (QLabel, descriptionLabel)
+#. i18n: file: ColorSchemeEditor.ui:22
+#. i18n: ectx: property (text), widget (QLabel, discriptionLabel)
+#: rc.cpp:14 rc.cpp:455
+msgid "Description:"
+msgstr ""
+
+#. i18n: file: KeyBindingEditor.ui:46
+#. i18n: ectx: property (text), widget (QPushButton, addEntryButton)
+#: rc.cpp:17
+msgid "Add"
+msgstr ""
+
+#. i18n: file: KeyBindingEditor.ui:53
+#. i18n: ectx: property (text), widget (QPushButton, removeEntryButton)
+#. i18n: file: EditProfileDialog.ui:391
+#. i18n: ectx: property (text), widget (QPushButton, removeColorSchemeButton)
+#. i18n: file: EditProfileDialog.ui:675
+#. i18n: ectx: property (text), widget (QPushButton, removeKeyBindingsButton)
+#: rc.cpp:20 rc.cpp:176 rc.cpp:260
+msgid "Remove"
+msgstr ""
+
+#. i18n: file: KeyBindingEditor.ui:75
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: rc.cpp:23
+msgctxt "Title of the area where you test your keys are properly configured"
+msgid "Test Area"
+msgstr ""
+
+#. i18n: file: KeyBindingEditor.ui:84
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: rc.cpp:26
+msgid "Input:"
+msgstr ""
+
+#. i18n: file: KeyBindingEditor.ui:97
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: rc.cpp:29
+msgid "Output:"
+msgstr ""
+
+#. i18n: file: ManageProfilesDialog.ui:20
+#. i18n: ectx: property (toolTip), widget (QPushButton, newProfileButton)
+#: rc.cpp:32
+msgid "Create a new profile based upon the selected profile"
+msgstr ""
+
+#. i18n: file: ManageProfilesDialog.ui:23
+#. i18n: ectx: property (text), widget (QPushButton, newProfileButton)
+#: rc.cpp:35
+msgid "&New Profile..."
+msgstr ""
+
+#. i18n: file: ManageProfilesDialog.ui:33
+#. i18n: ectx: property (toolTip), widget (QPushButton, editProfileButton)
+#: rc.cpp:38
+msgid "Edit the selected profile(s)"
+msgstr ""
+
+#. i18n: file: ManageProfilesDialog.ui:36
+#. i18n: ectx: property (text), widget (QPushButton, editProfileButton)
+#: rc.cpp:41
+msgid "&Edit Profile..."
+msgstr ""
+
+#. i18n: file: ManageProfilesDialog.ui:46
+#. i18n: ectx: property (toolTip), widget (QPushButton, deleteProfileButton)
+#: rc.cpp:44
+msgid "Delete the selected profile(s)"
+msgstr ""
+
+#. i18n: file: ManageProfilesDialog.ui:49
+#. i18n: ectx: property (text), widget (QPushButton, deleteProfileButton)
+#: rc.cpp:47
+msgid "&Delete Profile"
+msgstr ""
+
+#. i18n: file: ManageProfilesDialog.ui:59
+#. i18n: ectx: property (toolTip), widget (QPushButton, setAsDefaultButton)
+#: rc.cpp:50
+msgid "Set the selected profile as the default for new terminal sessions"
+msgstr ""
+
+#. i18n: file: ManageProfilesDialog.ui:62
+#. i18n: ectx: property (text), widget (QPushButton, setAsDefaultButton)
+#: rc.cpp:53
+msgid "&Set as Default"
+msgstr ""
+
+#. i18n: file: HistorySizeWidget.ui:29
+#. i18n: ectx: property (toolTip), widget (QRadioButton, noHistoryButton)
+#: rc.cpp:56
+msgid "Do not remember previous output"
+msgstr ""
+
+#. i18n: file: HistorySizeWidget.ui:32
+#. i18n: ectx: property (text), widget (QRadioButton, noHistoryButton)
+#: rc.cpp:59
+msgid "No scrollback"
+msgstr ""
+
+#. i18n: file: HistorySizeWidget.ui:50
+#. i18n: ectx: property (toolTip), widget (QRadioButton, fixedSizeHistoryButton)
+#: rc.cpp:62
+msgid "Limit the remembered output to a fixed number of lines"
+msgstr ""
+
+#. i18n: file: HistorySizeWidget.ui:53
+#. i18n: ectx: property (text), widget (QRadioButton, fixedSizeHistoryButton)
+#: rc.cpp:65
+msgid "Fixed size scrollback:"
+msgstr ""
+
+#. i18n: file: HistorySizeWidget.ui:60
+#. i18n: ectx: property (toolTip), widget (KIntSpinBox, historyLineSpinner)
+#: rc.cpp:68
+msgid "Number of lines of output to remember"
+msgstr ""
+
+#. i18n: file: HistorySizeWidget.ui:94
+#. i18n: ectx: property (toolTip), widget (QRadioButton, unlimitedHistoryButton)
+#: rc.cpp:71
+msgid "Remember all output produced by the terminal"
+msgstr ""
+
+#. i18n: file: HistorySizeWidget.ui:97
+#. i18n: ectx: property (text), widget (QRadioButton, unlimitedHistoryButton)
+#: rc.cpp:74
+msgid "Unlimited scrollback"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:33
+#. i18n: ectx: attribute (title), widget (QWidget, generalTab)
+#: rc.cpp:77
+msgctxt "@title:tab Generic, common options"
+msgid "General"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:39
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_10)
+#: rc.cpp:80
+msgctxt "@title:group Generic, common options"
+msgid "General"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:48
+#. i18n: ectx: property (text), widget (QLabel, profileNameLabel)
+#: rc.cpp:83
+msgid "Profile name:"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:58
+#. i18n: ectx: property (toolTip), widget (KLineEdit, profileNameEdit)
+#: rc.cpp:86
+msgid "A descriptive name for the profile"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:68
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: rc.cpp:89
+msgid "Command:"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:78
+#. i18n: ectx: property (toolTip), widget (KLineEdit, commandEdit)
+#: rc.cpp:92
+msgid ""
+"The command to execute when new terminal sessions are created using this "
+"profile"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:88
+#. i18n: ectx: property (text), widget (QLabel, label_9)
+#: rc.cpp:95
+msgid "Initial directory:"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:98
+#. i18n: ectx: property (toolTip), widget (KLineEdit, initialDirEdit)
+#: rc.cpp:98
+msgid ""
+"The initial working directory for new terminal sessions using this profile"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:108
+#. i18n: ectx: property (toolTip), widget (QToolButton, dirSelectButton)
+#: rc.cpp:101
+msgid "Choose the initial directory"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:111
+#. i18n: ectx: property (text), widget (QToolButton, dirSelectButton)
+#. i18n: file: ColorSchemeEditor.ui:100
+#. i18n: ectx: property (text), widget (QToolButton, wallpaperSelectButton)
+#: rc.cpp:104 rc.cpp:476
+msgid "..."
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:118
+#. i18n: ectx: property (text), widget (QCheckBox, startInSameDirButton)
+#: rc.cpp:107
+msgid "Start in same directory as current tab"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:125
+#. i18n: ectx: property (text), widget (QLabel, label_10)
+#: rc.cpp:110
+msgid "Icon:"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:153
+#. i18n: ectx: property (toolTip), widget (QPushButton, iconSelectButton)
+#: rc.cpp:113
+msgid "Select the icon displayed on tabs using this profile"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:182
+#. i18n: ectx: property (text), widget (QLabel, environmentLabel)
+#: rc.cpp:116
+msgid "Environment:"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:192
+#. i18n: ectx: property (toolTip), widget (QPushButton, environmentEditButton)
+#: rc.cpp:119
+msgid "Edit the list of environment variables and associated values"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:195
+#. i18n: ectx: property (text), widget (QPushButton, environmentEditButton)
+#. i18n: file: EditProfileDialog.ui:381
+#. i18n: ectx: property (text), widget (QPushButton, editColorSchemeButton)
+#. i18n: file: EditProfileDialog.ui:665
+#. i18n: ectx: property (text), widget (QPushButton, editKeyBindingsButton)
+#: rc.cpp:122 rc.cpp:170 rc.cpp:254
+msgid "Edit..."
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:205
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_12)
+#: rc.cpp:125
+msgid "Window"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:220
+#. i18n: ectx: property (toolTip), widget (QCheckBox, saveGeometryOnExitButton)
+#: rc.cpp:128
+msgid "Set the window size and position for this profile when exiting"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:223
+#. i18n: ectx: property (text), widget (QCheckBox, saveGeometryOnExitButton)
+#. i18n: file: settings/GeneralSettings.ui:66
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_SaveGeometryOnExit)
+#: rc.cpp:131 rc.cpp:395
+msgid "Save window size and position on exit"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:230
+#. i18n: ectx: property (toolTip), widget (QCheckBox, showTerminalSizeHintButton)
+#: rc.cpp:134
+msgid ""
+"Show terminal size in columns and lines in the center of window after "
+"resizing"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:233
+#. i18n: ectx: property (text), widget (QCheckBox, showTerminalSizeHintButton)
+#. i18n: file: settings/GeneralSettings.ui:53
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_ShowTerminalSizeHint)
+#: rc.cpp:137 rc.cpp:392
+msgid "Show hint for terminal size after resizing"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:257
+#. i18n: ectx: attribute (title), widget (QWidget, tabsTab)
+#: rc.cpp:140
+msgid "Tabs"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:263
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_5)
+#: rc.cpp:143
+msgid "Tab Titles"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:278
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_13)
+#: rc.cpp:146
+msgid "Tab Monitoring"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:287
+#. i18n: ectx: property (text), widget (QLabel, silenceSecondsLabel)
+#: rc.cpp:149
+msgid "Threshold for continuous silence:"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:297
+#. i18n: ectx: property (toolTip), widget (KIntSpinBox, silenceSecondsSpinner)
+#: rc.cpp:152
+msgid "The threshold for continuous silence to be detected by Konsole"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:340
+#. i18n: ectx: attribute (title), widget (QWidget, appearanceTab)
+#. i18n: file: settings/TabBarSettings.ui:20
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_1)
+#: rc.cpp:155 rc.cpp:404
+msgid "Appearance"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:352
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: rc.cpp:158
+msgid "Color Scheme && Background"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:368
+#. i18n: ectx: property (toolTip), widget (QPushButton, newColorSchemeButton)
+#: rc.cpp:161
+msgid "Create a new color scheme based upon the selected scheme"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:371
+#. i18n: ectx: property (text), widget (QPushButton, newColorSchemeButton)
+#: rc.cpp:164
+msgctxt "@action:button Create an alternate color scheme"
+msgid "New..."
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:378
+#. i18n: ectx: property (toolTip), widget (QPushButton, editColorSchemeButton)
+#: rc.cpp:167
+msgid "Edit the selected color scheme"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:388
+#. i18n: ectx: property (toolTip), widget (QPushButton, removeColorSchemeButton)
+#: rc.cpp:173
+msgid "Delete the selected color scheme"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:417
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#: rc.cpp:179
+msgid "Font"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:428
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: rc.cpp:182
+msgid "Preview:"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:452
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: rc.cpp:185
+msgid "Text size:"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:462
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: rc.cpp:188
+msgctxt "@item:inrange Minimum Size"
+msgid "Small"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:469
+#. i18n: ectx: property (toolTip), widget (QSlider, fontSizeSlider)
+#: rc.cpp:191
+msgid "Adjust the font size used in this profile"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:485
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: rc.cpp:194
+msgctxt "@item:inrange Maximum Size"
+msgid "Large"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:492
+#. i18n: ectx: property (toolTip), widget (QPushButton, selectFontButton)
+#: rc.cpp:197
+msgid "Select the font used in this profile"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:495
+#. i18n: ectx: property (text), widget (QPushButton, selectFontButton)
+#: rc.cpp:200
+msgid "Select Font..."
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:504
+#. i18n: ectx: property (text), widget (QCheckBox, antialiasTextButton)
+#: rc.cpp:203
+msgid "Smooth fonts"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:511
+#. i18n: ectx: property (text), widget (QCheckBox, boldIntenseButton)
+#: rc.cpp:206
+msgid "Draw intense colors in bold font"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:522
+#. i18n: ectx: attribute (title), widget (QWidget, scrollingTab)
+#: rc.cpp:209
+msgid "Scrolling"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:528
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_6)
+#: rc.cpp:212
+msgid "Scrollback"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:543
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_7)
+#: rc.cpp:215
+msgid "Scroll Bar"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:558
+#. i18n: ectx: property (toolTip), widget (QRadioButton, scrollBarLeftButton)
+#: rc.cpp:218
+msgid "Show the scroll bar on the left side of the terminal window"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:561
+#. i18n: ectx: property (text), widget (QRadioButton, scrollBarLeftButton)
+#: rc.cpp:221
+msgid "Show on left side"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:574
+#. i18n: ectx: property (toolTip), widget (QRadioButton, scrollBarRightButton)
+#: rc.cpp:224
+msgid "Show the scroll bar on the right side of the terminal window"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:577
+#. i18n: ectx: property (text), widget (QRadioButton, scrollBarRightButton)
+#: rc.cpp:227
+msgid "Show on right side"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:590
+#. i18n: ectx: property (toolTip), widget (QRadioButton, scrollBarHiddenButton)
+#: rc.cpp:230
+msgid "Hide the scroll bar"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:593
+#. i18n: ectx: property (text), widget (QRadioButton, scrollBarHiddenButton)
+#: rc.cpp:233
+msgctxt "@option:radio Hide the scroll bar"
+msgid "Hide"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:617
+#. i18n: ectx: attribute (title), widget (QWidget, keyboardTab)
+#: rc.cpp:236
+msgid "Keyboard"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:623
+#. i18n: ectx: property (title), widget (QGroupBox, keyBindingsGroup)
+#: rc.cpp:239
+msgid "Key Bindings"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:632
+#. i18n: ectx: property (text), widget (QLabel, label_15)
+#: rc.cpp:242
+msgid ""
+"Key bindings control how combinations of keystrokes in the terminal window "
+"are converted into the stream of characters which are sent to the current "
+"terminal program."
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:652
+#. i18n: ectx: property (toolTip), widget (QPushButton, newKeyBindingsButton)
+#: rc.cpp:245
+msgid "Create a new key bindings list based upon the selected bindings"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:655
+#. i18n: ectx: property (text), widget (QPushButton, newKeyBindingsButton)
+#: rc.cpp:248
+msgctxt "@action:button Create an alternate key binding"
+msgid "New..."
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:662
+#. i18n: ectx: property (toolTip), widget (QPushButton, editKeyBindingsButton)
+#: rc.cpp:251
+msgid "Edit the selected key bindings list"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:672
+#. i18n: ectx: property (toolTip), widget (QPushButton, removeKeyBindingsButton)
+#: rc.cpp:257
+msgid "Delete the selected key bindings list"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:699
+#. i18n: ectx: attribute (title), widget (QWidget, mouseTab)
+#: rc.cpp:263
+msgid "Mouse"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:705
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_9)
+#: rc.cpp:266
+msgid "Select Text"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:716
+#. i18n: ectx: property (text), widget (QLabel, label_11)
+#: rc.cpp:269
+msgid "Characters considered part of a word when double clicking:"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:729
+#. i18n: ectx: property (toolTip), widget (KLineEdit, wordCharacterEdit)
+#: rc.cpp:272
+msgid ""
+"Characters which are considered part of a word when double-clicking to "
+"select whole words in the terminal"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:740
+#. i18n: ectx: property (text), widget (QLabel, label_17)
+#: rc.cpp:275
+msgid "Triple-click select:"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:747
+#. i18n: ectx: property (toolTip), widget (KComboBox, tripleClickModeCombo)
+#: rc.cpp:278
+msgid "Which part of current line should be selected with triple click ."
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:751
+#. i18n: ectx: property (text), item, widget (KComboBox, tripleClickModeCombo)
+#: rc.cpp:281
+msgid "The whole current line"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:756
+#. i18n: ectx: property (text), item, widget (KComboBox, tripleClickModeCombo)
+#: rc.cpp:284
+msgid "From mouse position to the end of line"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:769
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_14)
+#: rc.cpp:287
+msgid "Copy && Paste"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:778
+#. i18n: ectx: property (toolTip), widget (QCheckBox, copyTextToClipboardButton)
+#: rc.cpp:290
+msgid "Automatically copy selected text into clipboard"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:781
+#. i18n: ectx: property (text), widget (QCheckBox, copyTextToClipboardButton)
+#: rc.cpp:293
+msgid "Copy on select"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:801
+#. i18n: ectx: property (text), widget (QLabel, label_13)
+#: rc.cpp:296
+msgid "Mouse middle button:"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:808
+#. i18n: ectx: property (text), widget (QRadioButton, pasteFromX11SelectionButton)
+#: rc.cpp:299
+msgid "Paste from selection"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:815
+#. i18n: ectx: property (text), widget (QRadioButton, pasteFromClipboardButton)
+#: rc.cpp:302
+msgid "Paste from clipboard"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:825
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: rc.cpp:305
+msgid "Miscellaneous"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:834
+#. i18n: ectx: property (toolTip), widget (QCheckBox, underlineLinksButton)
+#: rc.cpp:308
+msgid ""
+"Text recognized as a link or an email address will be underlined when "
+"hovered by the mouse pointer."
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:837
+#. i18n: ectx: property (text), widget (QCheckBox, underlineLinksButton)
+#: rc.cpp:311
+msgid "Underline links"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:861
+#. i18n: ectx: attribute (title), widget (QWidget, advancedTab)
+#: rc.cpp:314
+msgctxt "@title:tab Complex options"
+msgid "Advanced"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:867
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_4)
+#: rc.cpp:317
+msgid "Terminal Features"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:882
+#. i18n: ectx: property (toolTip), widget (QCheckBox, enableBlinkingTextButton)
+#: rc.cpp:320
+msgid "Allow terminal programs to create blinking sections of text"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:885
+#. i18n: ectx: property (text), widget (QCheckBox, enableBlinkingTextButton)
+#: rc.cpp:323
+msgid "Allow blinking text"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:898
+#. i18n: ectx: property (toolTip), widget (QCheckBox, enableFlowControlButton)
+#: rc.cpp:326
+msgid "Allow the output to be suspended by pressing Ctrl+S"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:901
+#. i18n: ectx: property (text), widget (QCheckBox, enableFlowControlButton)
+#: rc.cpp:329
+msgid "Enable flow control using Ctrl+S, Ctrl+Q"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:914
+#. i18n: ectx: property (toolTip), widget (QCheckBox, enableBidiRenderingButton)
+#: rc.cpp:332
+msgid ""
+"Enable Bi-Directional display on terminals (valid for Arabic, Farsi or "
+"Hebrew only)"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:917
+#. i18n: ectx: property (text), widget (QCheckBox, enableBidiRenderingButton)
+#: rc.cpp:335
+msgid "Enable Bi-Directional text rendering"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:927
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_8)
+#: rc.cpp:338
+msgid "Cursor"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:942
+#. i18n: ectx: property (toolTip), widget (QCheckBox, enableBlinkingCursorButton)
+#: rc.cpp:341
+msgid "Make the cursor blink regularly"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:945
+#. i18n: ectx: property (text), widget (QCheckBox, enableBlinkingCursorButton)
+#: rc.cpp:344
+msgid "Blinking cursor"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:954
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#: rc.cpp:347
+msgid "Cursor shape:"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:961
+#. i18n: ectx: property (toolTip), widget (KComboBox, cursorShapeCombo)
+#: rc.cpp:350
+msgid "Change the shape of the cursor"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:965
+#. i18n: ectx: property (text), item, widget (KComboBox, cursorShapeCombo)
+#: rc.cpp:353
+msgctxt "The shape of the cursor"
+msgid "Block"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:970
+#. i18n: ectx: property (text), item, widget (KComboBox, cursorShapeCombo)
+#: rc.cpp:356
+msgctxt "The shape of the cursor, similar to a capital I"
+msgid "I-Beam"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:975
+#. i18n: ectx: property (text), item, widget (KComboBox, cursorShapeCombo)
+#: rc.cpp:359
+msgctxt "The shape of the cursor"
+msgid "Underline"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:1004
+#. i18n: ectx: property (toolTip), widget (QRadioButton, autoCursorColorButton)
+#: rc.cpp:362
+msgid "Set the cursor to match the color of the character underneath it."
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:1007
+#. i18n: ectx: property (text), widget (QRadioButton, autoCursorColorButton)
+#: rc.cpp:365
+msgid "Set cursor color to match current character"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:1022
+#. i18n: ectx: property (toolTip), widget (QRadioButton, customCursorColorButton)
+#: rc.cpp:368
+msgid "Use a custom, fixed color for the cursor"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:1025
+#. i18n: ectx: property (text), widget (QRadioButton, customCursorColorButton)
+#: rc.cpp:371
+msgid "Custom cursor color:"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:1038
+#. i18n: ectx: property (toolTip), widget (KColorButton, customColorSelectButton)
+#: rc.cpp:374
+msgid "Select the color used to draw the cursor"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:1066
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_11)
+#: rc.cpp:377
+msgid "Encoding"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:1075
+#. i18n: ectx: property (text), widget (QLabel, label_14)
+#: rc.cpp:380
+msgid "Default character encoding:"
+msgstr ""
+
+#. i18n: file: EditProfileDialog.ui:1095
+#. i18n: ectx: property (text), widget (QPushButton, selectEncodingButton)
+#: rc.cpp:383
+msgctxt "@action:button Pick an encoding"
+msgid "Select"
+msgstr ""
+
+#. i18n: file: settings/GeneralSettings.ui:28
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_1)
+#: rc.cpp:386
+msgid "Konsole Window"
+msgstr ""
+
+#. i18n: file: settings/GeneralSettings.ui:40
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_ShowMenuBarByDefault)
+#: rc.cpp:389
+msgid "Show menubar by default"
+msgstr ""
+
+#. i18n: file: settings/GeneralSettings.ui:79
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_AllowMenuAccelerators)
+#: rc.cpp:398
+msgid "Enable menu accelerators"
+msgstr ""
+
+#. i18n: file: settings/GeneralSettings.ui:92
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_ShowWindowTitleOnTitleBar)
+#: rc.cpp:401
+msgid "Show window title on the titlebar"
+msgstr ""
+
+#. i18n: file: settings/TabBarSettings.ui:26
+#. i18n: ectx: property (text), widget (QLabel, label_1)
+#: rc.cpp:407
+msgid "Tab bar visibility:"
+msgstr ""
+
+#. i18n: file: settings/TabBarSettings.ui:43
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_TabBarVisibility)
+#: rc.cpp:410
+msgid "Always Show Tab Bar"
+msgstr ""
+
+#. i18n: file: settings/TabBarSettings.ui:48
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_TabBarVisibility)
+#: rc.cpp:413
+msgid "Show Tab Bar When Needed"
+msgstr ""
+
+#. i18n: file: settings/TabBarSettings.ui:53
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_TabBarVisibility)
+#: rc.cpp:416
+msgid "Always Hide Tab Bar"
+msgstr ""
+
+#. i18n: file: settings/TabBarSettings.ui:61
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: rc.cpp:419
+msgid "Tab bar position:"
+msgstr ""
+
+#. i18n: file: settings/TabBarSettings.ui:78
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_TabBarPosition)
+#: rc.cpp:422
+msgid "Above Terminal Area"
+msgstr ""
+
+#. i18n: file: settings/TabBarSettings.ui:83
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_TabBarPosition)
+#: rc.cpp:425
+msgid "Below Terminal Area"
+msgstr ""
+
+#. i18n: file: settings/TabBarSettings.ui:91
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_ShowQuickButtons)
+#: rc.cpp:428
+msgid "Show 'New Tab' and 'Close Tab' buttons"
+msgstr ""
+
+#. i18n: file: settings/TabBarSettings.ui:101
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: rc.cpp:431
+msgid "Behavior"
+msgstr ""
+
+#. i18n: file: settings/TabBarSettings.ui:107
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: rc.cpp:434
+msgid "New tab behavior:"
+msgstr ""
+
+#. i18n: file: settings/TabBarSettings.ui:124
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_NewTabBehavior)
+#: rc.cpp:437
+msgid "Put New Tab At The End"
+msgstr ""
+
+#. i18n: file: settings/TabBarSettings.ui:129
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_NewTabBehavior)
+#: rc.cpp:440
+msgid "Put New Tab After Current Tab"
+msgstr ""
+
+#. i18n: file: RenameTabWidget.ui:26
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: rc.cpp:443
+msgid "Tab title format:"
+msgstr ""
+
+#. i18n: file: RenameTabWidget.ui:36
+#. i18n: ectx: property (toolTip), widget (KLineEdit, tabTitleEdit)
+#: rc.cpp:446
+msgid "Normal tab title format"
+msgstr ""
+
+#. i18n: file: RenameTabWidget.ui:46
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: rc.cpp:449
+msgid "Remote tab title format:"
+msgstr ""
+
+#. i18n: file: RenameTabWidget.ui:56
+#. i18n: ectx: property (toolTip), widget (KLineEdit, remoteTabTitleEdit)
+#: rc.cpp:452
+msgid ""
+"Tab title format used when a remote command (e.g. connection to another "
+"computer via SSH) is being executed"
+msgstr ""
+
+#. i18n: file: ColorSchemeEditor.ui:40
+#. i18n: ectx: property (text), widget (QCheckBox, randomizedBackgroundCheck)
+#: rc.cpp:458
+msgid "Vary the background color for each tab"
+msgstr ""
+
+#. i18n: file: ColorSchemeEditor.ui:49
+#. i18n: ectx: property (text), widget (QLabel, transparencyLabel)
+#: rc.cpp:461
+msgid "Background transparency:"
+msgstr ""
+
+#. i18n: file: ColorSchemeEditor.ui:69
+#. i18n: ectx: property (text), widget (QLabel, transparencyPercentLabel)
+#: rc.cpp:464
+msgid "Percent"
+msgstr ""
+
+#. i18n: file: ColorSchemeEditor.ui:83
+#. i18n: ectx: property (text), widget (QLabel, wallpaperLabel)
+#: rc.cpp:467
+msgid "Background image:"
+msgstr ""
+
+#. i18n: file: ColorSchemeEditor.ui:90
+#. i18n: ectx: property (toolTip), widget (KLineEdit, wallpaperPath)
+#: rc.cpp:470
+msgid "Edit the path of the background image"
+msgstr ""
+
+#. i18n: file: ColorSchemeEditor.ui:97
+#. i18n: ectx: property (toolTip), widget (QToolButton, wallpaperSelectButton)
+#: rc.cpp:473
+msgid "Choose the background image"
+msgstr ""
+
+#. i18n: file: ../desktop/konsoleui.rc:5
+#. i18n: ectx: Menu (file)
+#: rc.cpp:479
+msgid "File"
+msgstr ""
+
+#. i18n: file: ../desktop/konsoleui.rc:15
+#. i18n: ectx: Menu (edit)
+#: rc.cpp:482
+msgid "Edit"
+msgstr ""
+
+#. i18n: file: ../desktop/konsoleui.rc:18
+#. i18n: ectx: Menu (view)
+#: rc.cpp:485
+msgid "View"
+msgstr ""
+
+#. i18n: file: ../desktop/konsoleui.rc:19
+#. i18n: ectx: Menu (view-split)
+#: rc.cpp:488
+msgid "Split View"
+msgstr ""
+
+#. i18n: file: ../desktop/konsoleui.rc:33
+#. i18n: ectx: Menu (settings)
+#: rc.cpp:491
+msgid "Settings"
+msgstr ""
+
+#. i18n: file: ../desktop/konsoleui.rc:44
+#. i18n: ectx: Menu (help)
+#: rc.cpp:494
+msgid "Help"
+msgstr ""
+
+#. i18n: file: ../desktop/partui.rc:11
+#. i18n: ectx: Menu (history)
+#: rc.cpp:497
+msgid "S&crollback"
+msgstr ""
+
+#: RenameTabDialog.cpp:31
+msgid "Rename Tab"
+msgstr ""
+
+#: schemas.cpp:1
+msgid "Black on Light Yellow"
+msgstr ""
+
+#: schemas.cpp:2
+msgid "Black on Random Light"
+msgstr ""
+
+#: schemas.cpp:3
+msgid "Black on White"
+msgstr ""
+
+#: schemas.cpp:4
+msgid "Blue on Black"
+msgstr ""
+
+#: schemas.cpp:5
+msgid "Dark Pastels"
+msgstr ""
+
+#: schemas.cpp:6
+msgid "Green on Black"
+msgstr ""
+
+#: schemas.cpp:7
+msgid "Linux Colors"
+msgstr ""
+
+#: schemas.cpp:8
+msgid "Red on Black"
+msgstr ""
+
+#: schemas.cpp:9
+msgid "Solarized"
+msgstr ""
+
+#: schemas.cpp:10
+msgid "White on Black"
+msgstr ""
+
+#: schemas.cpp:11
+msgid "Default (XFree 4)"
+msgstr ""
+
+#: schemas.cpp:12
+msgid "Linux console"
+msgstr ""
+
+#: schemas.cpp:13
+msgid "Solaris console"
+msgstr ""
+
+#: schemas.cpp:14
+msgid "DEC VT420 Terminal"
+msgstr ""
+
+#: SessionController.cpp:318
+msgid "Konsole does not know how to open the bookmark: "
+msgstr ""
+
+#: SessionController.cpp:375
+#, kde-format
+msgid "Search for '%1' with"
+msgstr ""
+
+#: SessionController.cpp:390
+msgid "Configure Web Shortcuts..."
+msgstr ""
+
+#: SessionController.cpp:519
+msgid "&Close Tab"
+msgstr ""
+
+#: SessionController.cpp:525
+msgid "Open File Manager"
+msgstr ""
+
+#: SessionController.cpp:541
+msgid "Paste Selection"
+msgstr ""
+
+#: SessionController.cpp:544
+msgid "Web Search"
+msgstr ""
+
+#: SessionController.cpp:551
+msgid "&Select All"
+msgstr ""
+
+#: SessionController.cpp:555
+msgid "Save Output &As..."
+msgstr ""
+
+#: SessionController.cpp:558
+msgid "Adjust Scrollback..."
+msgstr ""
+
+#: SessionController.cpp:562
+msgid "Clear Scrollback"
+msgstr ""
+
+#: SessionController.cpp:566
+msgid "Clear Scrollback and Reset"
+msgstr ""
+
+#: SessionController.cpp:572
+msgid "Edit Current Profile..."
+msgstr ""
+
+#: SessionController.cpp:575
+msgid "Switch Profile"
+msgstr ""
+
+#: SessionController.cpp:602
+msgid "&Rename Tab..."
+msgstr ""
+
+#: SessionController.cpp:608
+msgid "&All Tabs in Current Window"
+msgstr ""
+
+#: SessionController.cpp:615
+msgid "&Select Tabs..."
+msgstr ""
+
+#: SessionController.cpp:621
+msgctxt "@action:inmenu Do not select any tabs"
+msgid "&None"
+msgstr ""
+
+#: SessionController.cpp:629
+msgid "Copy Input To"
+msgstr ""
+
+#: SessionController.cpp:636
+msgid "&ZModem Upload..."
+msgstr ""
+
+#: SessionController.cpp:641
+msgid "Monitor for &Activity"
+msgstr ""
+
+#: SessionController.cpp:646
+msgid "Monitor for &Silence"
+msgstr ""
+
+#: SessionController.cpp:652
+msgid "Set &Encoding"
+msgstr ""
+
+#: SessionController.cpp:660
+msgid "Enlarge Font"
+msgstr ""
+
+#: SessionController.cpp:668
+msgid "Shrink Font"
+msgstr ""
+
+#: SessionController.cpp:753
+msgid ""
+"A program is currently running in this session.  Are you sure you want to "
+"close it?"
+msgstr ""
+
+#: SessionController.cpp:756
+#, kde-format
+msgid ""
+"The program '%1' is currently running in this session.  Are you sure you "
+"want to close it?"
+msgstr ""
+
+#: SessionController.cpp:759 SessionController.cpp:784
+msgid "Confirm Close"
+msgstr ""
+
+#: SessionController.cpp:778
+msgid ""
+"A program in this session would not die.  Are you sure you want to kill it "
+"by force?"
+msgstr ""
+
+#: SessionController.cpp:781
+#, kde-format
+msgid ""
+"The program '%1' is in this session would not die.  Are you sure you want to "
+"kill it by force?"
+msgstr ""
+
+#: SessionController.cpp:1342
+msgid "Save ZModem Download to..."
+msgstr ""
+
+#: SessionController.cpp:1350
+msgid ""
+"<p>A ZModem file transfer attempt has been detected, but no suitable ZModem "
+"software was found on this system.</p><p>You may wish to install the 'rzsz' "
+"or 'lrzsz' package.</p>"
+msgstr ""
+
+#: SessionController.cpp:1362
+msgid ""
+"<p>The current session already has a ZModem file transfer in progress.</p>"
+msgstr ""
+
+#: SessionController.cpp:1371
+msgid ""
+"<p>No suitable ZModem software was found on this system.</p><p>You may wish "
+"to install the 'rzsz' or 'lrzsz' package.</p>"
+msgstr ""
+
+#: SessionController.cpp:1377
+msgid "Select Files for ZModem Upload"
+msgstr ""
+
+#: SessionController.cpp:1444
+#, kde-format
+msgid "Save Output From %1"
+msgstr ""
+
+#: SessionController.cpp:1455
+#, kde-format
+msgid "%1 is an invalid URL, the output could not be saved."
+msgstr ""
+
+#: SessionController.cpp:1530
+#, kde-format
+msgid ""
+"A problem occurred when saving the output.\n"
+"%1"
+msgstr ""
+
+#: Session.cpp:387
+msgid "Could not find binary: "
+msgstr ""
+
+#: Session.cpp:396
+msgctxt "@info:shell Alert the user with red color text"
+msgid "Warning: "
+msgstr ""
+
+#: Session.cpp:453
+#, kde-format
+msgid ""
+"Could not find '%1', starting '%2' instead.  Please check your profile "
+"settings."
+msgstr ""
+
+#: Session.cpp:456
+msgid "Could not find an interactive shell to start."
+msgstr ""
+
+#: Session.cpp:496
+#, kde-format
+msgid "Could not start program '%1' with arguments '%2'."
+msgstr ""
+
+#: Session.cpp:602
+#, kde-format
+msgid "Silence in session '%1'"
+msgstr ""
+
+#: Session.cpp:643
+#, kde-format
+msgid "Bell in session '%1'"
+msgstr ""
+
+#: Session.cpp:646
+#, kde-format
+msgid "Activity in session '%1'"
+msgstr ""
+
+#: Session.cpp:815
+msgctxt "@info:shell This session is done"
+msgid "Finished"
+msgstr ""
+
+#: Session.cpp:829 Session.cpp:841
+#, kde-format
+msgid "Program '%1' crashed."
+msgstr ""
+
+#: Session.cpp:831
+#, kde-format
+msgid "Program '%1' exited with status %2."
+msgstr ""
+
+#: Session.cpp:1182
+msgid "ZModem Progress"
+msgstr ""
+
+#: SessionListModel.cpp:89
+msgctxt "@item:intable The session index"
+msgid "Number"
+msgstr ""
+
+#: SessionListModel.cpp:91
+msgctxt "@item:intable The session title"
+msgid "Title"
+msgstr ""
+
+#: TabTitleFormatButton.cpp:33
+#, c-format
+msgid "Program Name: %n"
+msgstr ""
+
+#: TabTitleFormatButton.cpp:34
+#, c-format
+msgid "Current Directory (Short): %d"
+msgstr ""
+
+#: TabTitleFormatButton.cpp:35
+msgid "Current Directory (Long): %D"
+msgstr ""
+
+#: TabTitleFormatButton.cpp:36 TabTitleFormatButton.cpp:48
+msgid "Window Title Set by Shell: %w"
+msgstr ""
+
+#: TabTitleFormatButton.cpp:37 TabTitleFormatButton.cpp:49
+msgid "Session Number: %#"
+msgstr ""
+
+#: TabTitleFormatButton.cpp:38 TabTitleFormatButton.cpp:45
+#, c-format
+msgid "User Name: %u"
+msgstr ""
+
+#: TabTitleFormatButton.cpp:39
+msgid "Local Host: %h"
+msgstr ""
+
+#: TabTitleFormatButton.cpp:46
+msgid "Remote Host (Short): %h"
+msgstr ""
+
+#: TabTitleFormatButton.cpp:47
+msgid "Remote Host (Long): %H"
+msgstr ""
+
+#: TabTitleFormatButton.cpp:58
+msgid "Insert"
+msgstr ""
+
+#: TabTitleFormatButton.cpp:83
+msgid "Insert title format"
+msgstr ""
+
+#: TabTitleFormatButton.cpp:87
+msgid "Insert remote title format"
+msgstr ""
+
+#: TerminalDisplay.cpp:1103 TerminalDisplay.cpp:1104
+msgid "Size: XXX x XXX"
+msgstr ""
+
+#: TerminalDisplay.cpp:1115
+#, kde-format
+msgid "Size: %1 x %2"
+msgstr ""
+
+#: TerminalDisplay.cpp:2669
+msgid ""
+"<qt>Output has been <a href=\"http://en.wikipedia.org/wiki/Flow_control"
+"\">suspended</a> by pressing Ctrl+S.  Press <b>Ctrl+Q</b> to resume.</qt>"
+msgstr ""
+
+#: TerminalDisplay.cpp:2919
+msgid "&Paste Location"
+msgstr ""
+
+#: TerminalDisplay.cpp:2933
+msgid "Change &Directory To"
+msgstr ""
+
+#: ViewContainer.cpp:284
+msgctxt "@action:inmenu"
+msgid "&Detach Tab"
+msgstr ""
+
+#: ViewContainer.cpp:288
+msgctxt "@action:inmenu"
+msgid "&Rename Tab..."
+msgstr ""
+
+#: ViewContainer.cpp:294
+msgctxt "@action:inmenu"
+msgid "&Close Tab"
+msgstr ""
+
+#: ViewContainer.cpp:301
+msgctxt "@info:tooltip"
+msgid "Create new tab"
+msgstr ""
+
+#: ViewContainer.cpp:302
+msgctxt "@info:whatsthis"
+msgid "Create a new tab. Press and hold to select profile from menu"
+msgstr ""
+
+#: ViewContainer.cpp:315
+msgctxt "@info:tooltip"
+msgid "Close tab"
+msgstr ""
+
+#: ViewContainer.cpp:316
+msgctxt "@info:whatsthis"
+msgid "Close the active tab"
+msgstr ""
+
+#: ViewContainerTabBar.cpp:50
+msgctxt "@info:whatsthis"
+msgid ""
+"<title>Tab Bar</title><para>The tab bar allows you to switch and move tabs. "
+"You can double-click a tab to change its name.</para>"
+msgstr ""
+
+#: ViewManager.cpp:135
+msgctxt "@action Shortcut entry"
+msgid "Next Tab"
+msgstr ""
+
+#: ViewManager.cpp:136
+msgctxt "@action Shortcut entry"
+msgid "Previous Tab"
+msgstr ""
+
+#: ViewManager.cpp:137
+msgctxt "@action Shortcut entry"
+msgid "Switch to Last Tab"
+msgstr ""
+
+#: ViewManager.cpp:138
+msgctxt "@action Shortcut entry"
+msgid "Next View Container"
+msgstr ""
+
+#: ViewManager.cpp:140
+msgctxt "@action Shortcut entry"
+msgid "Move Tab Left"
+msgstr ""
+
+#: ViewManager.cpp:141
+msgctxt "@action Shortcut entry"
+msgid "Move Tab Right"
+msgstr ""
+
+#: ViewManager.cpp:150
+msgctxt "@action:inmenu"
+msgid "Split View Left/Right"
+msgstr ""
+
+#: ViewManager.cpp:157
+msgctxt "@action:inmenu"
+msgid "Split View Top/Bottom"
+msgstr ""
+
+#: ViewManager.cpp:162
+msgctxt "@action:inmenu Close Active View"
+msgid "Close Active"
+msgstr ""
+
+#: ViewManager.cpp:171
+msgctxt "@action:inmenu Close Other Views"
+msgid "Close Others"
+msgstr ""
+
+#: ViewManager.cpp:180
+msgctxt "@action:inmenu"
+msgid "Expand View"
+msgstr ""
+
+#: ViewManager.cpp:188
+msgctxt "@action:inmenu"
+msgid "Shrink View"
+msgstr ""
+
+#: ViewManager.cpp:198
+msgctxt "@action:inmenu"
+msgid "D&etach Current Tab"
+msgstr ""
+
+#: ViewManager.cpp:219
+#, kde-format
+msgctxt "@action Shortcut entry"
+msgid "Switch to Tab %1"
+msgstr ""
+
+#: Vt102Emulation.cpp:1041
+msgid ""
+"No keyboard translator available.  The information needed to convert key "
+"presses into characters to send to the terminal is missing."
+msgstr ""
+
+#: ZModemDialog.cpp:36
+msgid "&Stop"
+msgstr ""
