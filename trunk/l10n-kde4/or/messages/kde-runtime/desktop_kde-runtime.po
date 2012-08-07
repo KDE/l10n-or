@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-07-25 11:23+0000\n"
+"POT-Creation-Date: 2012-08-07 10:59+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -54,7 +54,7 @@ msgctxt "Name"
 msgid "Application dashboard"
 msgstr "ପ୍ରୟୋଗ ଆରମ୍ଭକର୍ତ୍ତା"
 
-#: desktoptheme/appdashboard/metadata.desktop:61
+#: desktoptheme/appdashboard/metadata.desktop:60
 msgctxt "Comment"
 msgid "Intended as Application dashboard default"
 msgstr ""
@@ -395,7 +395,7 @@ msgctxt "Comment"
 msgid "An application registered new global shortcuts."
 msgstr ""
 
-#: kglobalaccel/kglobalaccel.notifyrc:444
+#: kglobalaccel/kglobalaccel.notifyrc:443
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "KDED Global Shortcuts Server"
@@ -403,7 +403,7 @@ msgctxt "Name"
 msgid "Global Shortcut Triggered"
 msgstr "KDED ଜାଗତିକ ସଂକ୍ଷିପ୍ତ ପଥଗୁଡ଼ିକର ସର୍ଭର"
 
-#: kglobalaccel/kglobalaccel.notifyrc:515
+#: kglobalaccel/kglobalaccel.notifyrc:513
 msgctxt "Comment"
 msgid "The user triggered a global shortcut"
 msgstr ""
@@ -592,13 +592,13 @@ msgctxt "Name"
 msgid "Directory Watcher"
 msgstr "ନେଟୱର୍କ ବିଶ୍ଳେଷକ"
 
-#: kioslave/desktop/desktopnotifier.desktop:78
+#: kioslave/desktop/desktopnotifier.desktop:77
 msgctxt "Comment"
 msgid "Monitors directories for changes"
 msgstr ""
 
 #: kioslave/desktop/./directory.trash:3 kioslave/trash/kcmtrash.desktop:1
-#: kioslave/trash/kcmtrash.desktop:172
+#: kioslave/trash/kcmtrash.desktop:171
 msgctxt "Name"
 msgid "Trash"
 msgstr "ଆବର୍ଜନା ପାତ୍ର"
@@ -655,7 +655,7 @@ msgctxt "Name"
 msgid "Network Watcher"
 msgstr "ନେଟୱର୍କ ବିଶ୍ଳେଷକ"
 
-#: kioslave/network/kded/networkwatcher.desktop:79
+#: kioslave/network/kded/networkwatcher.desktop:78
 msgctxt "Comment"
 msgid ""
 "Keeps track of the network and updates directory listings of the network:/ "
@@ -670,7 +670,7 @@ msgctxt "Name"
 msgid "Recent Document Watcher"
 msgstr "ପ୍ରଚଳିତ ଦଲିଲଗୁଡ଼ିକ"
 
-#: kioslave/recentdocuments/recentdocumentsnotifier.desktop:53
+#: kioslave/recentdocuments/recentdocumentsnotifier.desktop:45
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Recent Documents"
@@ -686,7 +686,7 @@ msgctxt "Name"
 msgid "Remote URL Change Notifier"
 msgstr "KDED ସୁଦୂର ଆଧାର URL ସୂଚନା ଦାତା"
 
-#: kioslave/remote/kdedmodule/remotedirnotify.desktop:70
+#: kioslave/remote/kdedmodule/remotedirnotify.desktop:69
 msgctxt "Comment"
 msgid "Provides change notification for network folders"
 msgstr ""
@@ -791,12 +791,12 @@ msgctxt "Comment"
 msgid "This service allows configuration of the trash."
 msgstr "ଏହି ସର୍ଭିସ ଆବର୍ଜନା ପାତ୍ରର ବିନ୍ୟାସ ପାଇଁ ଅନୁମତି ଦେଇଥାଏ।"
 
-#: kioslave/trash/kcmtrash.desktop:253
+#: kioslave/trash/kcmtrash.desktop:252
 msgctxt "Comment"
 msgid "Configure trash settings"
 msgstr "ଆବର୍ଜନା ପାତ୍ର ସଂରଚନାକୁ ବିନ୍ୟାସ କରନ୍ତୁ "
 
-#: kioslave/trash/kcmtrash.desktop:333
+#: kioslave/trash/kcmtrash.desktop:332
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Trash"
@@ -832,32 +832,32 @@ msgctxt "Comment"
 msgid "Notifications triggered by hardware devices"
 msgstr ""
 
-#: knotify/hardwarenotifications.notifyrc:135
+#: knotify/hardwarenotifications.notifyrc:134
 msgctxt "Name"
 msgid "Device Notifier"
 msgstr ""
 
-#: knotify/hardwarenotifications.notifyrc:212
+#: knotify/hardwarenotifications.notifyrc:211
 msgctxt "Comment"
 msgid "The Plasma device notifier is present"
 msgstr ""
 
-#: knotify/hardwarenotifications.notifyrc:276
+#: knotify/hardwarenotifications.notifyrc:274
 msgctxt "Name"
 msgid "Mount or unmount error"
 msgstr ""
 
-#: knotify/hardwarenotifications.notifyrc:342
+#: knotify/hardwarenotifications.notifyrc:340
 msgctxt "Comment"
 msgid "There has been a problem mounting or unmounting a device"
 msgstr ""
 
-#: knotify/hardwarenotifications.notifyrc:415
+#: knotify/hardwarenotifications.notifyrc:412
 msgctxt "Name"
 msgid "The device can be safely removed"
 msgstr ""
 
-#: knotify/hardwarenotifications.notifyrc:477
+#: knotify/hardwarenotifications.notifyrc:473
 msgctxt "Comment"
 msgid "The device which has been just unmounted is now safe to remove."
 msgstr ""
@@ -920,122 +920,122 @@ msgctxt "Comment"
 msgid "There was a serious error causing the program to exit"
 msgstr "ଗୋଟିଏ ଗମ୍ଭୀର ତ୍ରୁଟି ପ୍ରଗ୍ରାମକୁ ପ୍ରସ୍ଥାନ କରାଇଥାଏ"
 
-#: knotify/kde.notifyrc:916
+#: knotify/kde.notifyrc:915
 msgctxt "Name"
 msgid "Notification"
 msgstr "ବିଜ୍ଞପ୍ତି"
 
-#: knotify/kde.notifyrc:1003
+#: knotify/kde.notifyrc:1002
 msgctxt "Comment"
 msgid "Something special happened in the program"
 msgstr ""
 
-#: knotify/kde.notifyrc:1089
+#: knotify/kde.notifyrc:1088
 msgctxt "Name"
 msgid "Warning"
 msgstr "ଚେତାବନୀ"
 
-#: knotify/kde.notifyrc:1177
+#: knotify/kde.notifyrc:1176
 msgctxt "Comment"
 msgid "There was an error in the program which may cause problems"
 msgstr ""
 
-#: knotify/kde.notifyrc:1262
+#: knotify/kde.notifyrc:1261
 msgctxt "Name"
 msgid "Catastrophe"
 msgstr "Catastrophe"
 
-#: knotify/kde.notifyrc:1344
+#: knotify/kde.notifyrc:1343
 msgctxt "Comment"
 msgid "A very serious error occurred, at least causing the program to exit"
 msgstr "ଗୋଟିଏ ମାରାତ୍ମକ ତ୍ରୁଟି ଘଟିଛି, ଅତି କମରେ ପ୍ରଗ୍ରାମକୁ ପ୍ରସ୍ଥାନ କରିବାକୁ ପଡ଼ିପାରେ"
 
-#: knotify/kde.notifyrc:1429
+#: knotify/kde.notifyrc:1427
 msgctxt "Name"
 msgid "Login"
 msgstr "ଲଗଇନ"
 
-#: knotify/kde.notifyrc:1516
+#: knotify/kde.notifyrc:1514
 msgctxt "Comment"
 msgid "KDE is starting up"
 msgstr "KDE ଆରମ୍ଭ ହେଉଅଛି"
 
-#: knotify/kde.notifyrc:1606
+#: knotify/kde.notifyrc:1604
 msgctxt "Name"
 msgid "Logout"
 msgstr "ଲଗଆଉଟ"
 
-#: knotify/kde.notifyrc:1693
+#: knotify/kde.notifyrc:1691
 msgctxt "Comment"
 msgid "KDE is exiting"
 msgstr "KDE ପ୍ରସ୍ଥାନ କରୁଅଛି"
 
-#: knotify/kde.notifyrc:1783
+#: knotify/kde.notifyrc:1781
 msgctxt "Name"
 msgid "Logout Canceled"
 msgstr "ଲଗଆଉଟ ବାତିଲ ହୋଇଛି"
 
-#: knotify/kde.notifyrc:1868
+#: knotify/kde.notifyrc:1866
 msgctxt "Comment"
 msgid "KDE logout was canceled"
 msgstr "KDE ଲଗଆଉଟକୁ ବାତିଲ କରାଯାଇଛି"
 
-#: knotify/kde.notifyrc:1954
+#: knotify/kde.notifyrc:1952
 msgctxt "Name"
 msgid "Print Error"
 msgstr "ମୁଦ୍ରଣ ତ୍ରୁଟି"
 
-#: knotify/kde.notifyrc:2040
+#: knotify/kde.notifyrc:2038
 msgctxt "Comment"
 msgid "A print error has occurred"
 msgstr "ଗୋଟିଏ ମୁଦ୍ରଣ ତ୍ରୁଟି ଘଟିଅଛି"
 
-#: knotify/kde.notifyrc:2127
+#: knotify/kde.notifyrc:2125
 msgctxt "Name"
 msgid "Information Message"
 msgstr "ସୂଚନା ସନ୍ଦେଶ"
 
-#: knotify/kde.notifyrc:2213
+#: knotify/kde.notifyrc:2211
 msgctxt "Comment"
 msgid "An information message is being shown"
 msgstr "ଗୋଟିଏ ସୂଚନା ସନ୍ଦେଶକୁ ଦର୍ଶାଯାଇଛି"
 
-#: knotify/kde.notifyrc:2300
+#: knotify/kde.notifyrc:2298
 msgctxt "Name"
 msgid "Warning Message"
 msgstr "ଚେତାବନୀ ସନ୍ଦେଶ"
 
-#: knotify/kde.notifyrc:2386
+#: knotify/kde.notifyrc:2384
 msgctxt "Comment"
 msgid "A warning message is being shown"
 msgstr "ଗୋଟିଏ ଚେତାବନୀ ସନ୍ଦେଶକୁ ଦର୍ଶାଯାଇଛି"
 
-#: knotify/kde.notifyrc:2473
+#: knotify/kde.notifyrc:2471
 msgctxt "Name"
 msgid "Critical Message"
 msgstr "ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ସନ୍ଦେଶ"
 
-#: knotify/kde.notifyrc:2555
+#: knotify/kde.notifyrc:2553
 msgctxt "Comment"
 msgid "A critical message is being shown"
 msgstr "ଗୋଟିଏ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ସନ୍ଦେଶକୁ ଦର୍ଶାଯାଇଛି"
 
-#: knotify/kde.notifyrc:2641
+#: knotify/kde.notifyrc:2639
 msgctxt "Name"
 msgid "Question"
 msgstr "ପ୍ରଶ୍ନ"
 
-#: knotify/kde.notifyrc:2730
+#: knotify/kde.notifyrc:2728
 msgctxt "Comment"
 msgid "A question is being asked"
 msgstr "ଗୋଟିଏ ପ୍ରଶ୍ନ ପଚରାଯାଇଛି"
 
-#: knotify/kde.notifyrc:2818
+#: knotify/kde.notifyrc:2816
 msgctxt "Name"
 msgid "Beep"
 msgstr "ବିପ କରିବା"
 
-#: knotify/kde.notifyrc:2904
+#: knotify/kde.notifyrc:2902
 msgctxt "Comment"
 msgid "Sound bell"
 msgstr "ଧ୍ୱନି ଘଣ୍ଟି"
@@ -1058,7 +1058,7 @@ msgctxt "Name"
 msgid "Password Caching"
 msgstr "ପ୍ରବେଶ ସଂକେତ ଧରିବା ସମର୍ଥନ"
 
-#: kpasswdserver/kpasswdserver.desktop:70
+#: kpasswdserver/kpasswdserver.desktop:69
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Password caching support"
@@ -1209,7 +1209,7 @@ msgctxt "Name"
 msgid "Baidu"
 msgstr ""
 
-#: kurifilter-plugins/ikws/searchproviders/baidu.desktop:70
+#: kurifilter-plugins/ikws/searchproviders/baidu.desktop:69
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.dict.cc/?s=\\\\{@}"
@@ -1238,7 +1238,7 @@ msgctxt "Name"
 msgid "Bing"
 msgstr "ବେନିନ"
 
-#: kurifilter-plugins/ikws/searchproviders/bing.desktop:70
+#: kurifilter-plugins/ikws/searchproviders/bing.desktop:69
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1456,7 +1456,7 @@ msgctxt "Name"
 msgid "Duck Duck Go"
 msgstr ""
 
-#: kurifilter-plugins/ikws/searchproviders/duckduckgo.desktop:72
+#: kurifilter-plugins/ikws/searchproviders/duckduckgo.desktop:71
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://dx.doi.org/\\\\{@}"
@@ -1469,7 +1469,7 @@ msgctxt "Name"
 msgid "Duck Duck Go Info"
 msgstr ""
 
-#: kurifilter-plugins/ikws/searchproviders/duckduckgo_info.desktop:71
+#: kurifilter-plugins/ikws/searchproviders/duckduckgo_info.desktop:70
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://dx.doi.org/\\\\{@}"
@@ -1482,7 +1482,7 @@ msgctxt "Name"
 msgid "Duck Duck Go Shopping"
 msgstr ""
 
-#: kurifilter-plugins/ikws/searchproviders/duckduckgo_shopping.desktop:73
+#: kurifilter-plugins/ikws/searchproviders/duckduckgo_shopping.desktop:72
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://dx.doi.org/\\\\{@}"
@@ -1498,7 +1498,7 @@ msgctxt "Name"
 msgid "Ecosia search engine"
 msgstr "ସନ୍ଧାନ ଯନ୍ତ୍ର"
 
-#: kurifilter-plugins/ikws/searchproviders/ecosia.desktop:73
+#: kurifilter-plugins/ikws/searchproviders/ecosia.desktop:72
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1598,7 +1598,7 @@ msgctxt "Name"
 msgid "Flickr Creative Commons"
 msgstr ""
 
-#: kurifilter-plugins/ikws/searchproviders/flickrcc.desktop:70
+#: kurifilter-plugins/ikws/searchproviders/flickrcc.desktop:69
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1902,7 +1902,7 @@ msgctxt "Name"
 msgid "Identi.ca Notices"
 msgstr ""
 
-#: kurifilter-plugins/ikws/searchproviders/identica_notices.desktop:73
+#: kurifilter-plugins/ikws/searchproviders/identica_notices.desktop:72
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://freshmeat.net/search/?q=\\\\{@}"
@@ -1915,7 +1915,7 @@ msgctxt "Name"
 msgid "Identi.ca People"
 msgstr ""
 
-#: kurifilter-plugins/ikws/searchproviders/identica_people.desktop:72
+#: kurifilter-plugins/ikws/searchproviders/identica_people.desktop:71
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1954,7 +1954,7 @@ msgctxt "Name"
 msgid "Jamendo"
 msgstr "Jamin"
 
-#: kurifilter-plugins/ikws/searchproviders/jamendo.desktop:74
+#: kurifilter-plugins/ikws/searchproviders/jamendo.desktop:73
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -2238,7 +2238,7 @@ msgctxt "Name"
 msgid "openDesktop.org"
 msgstr "ଡ଼େସ୍କଟପ"
 
-#: kurifilter-plugins/ikws/searchproviders/opendesktop.desktop:70
+#: kurifilter-plugins/ikws/searchproviders/opendesktop.desktop:69
 #, fuzzy
 #| msgctxt "Query"
 #| msgid ""
@@ -2451,7 +2451,7 @@ msgctxt "Name"
 msgid "Vimeo"
 msgstr "Vivisimo"
 
-#: kurifilter-plugins/ikws/searchproviders/vimeo.desktop:73
+#: kurifilter-plugins/ikws/searchproviders/vimeo.desktop:72
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://dict.leo.org/?search=\\\\{@}"
@@ -2532,7 +2532,7 @@ msgctxt "Name"
 msgid "Wolfram Alpha"
 msgstr ""
 
-#: kurifilter-plugins/ikws/searchproviders/wolfram_alpha.desktop:75
+#: kurifilter-plugins/ikws/searchproviders/wolfram_alpha.desktop:74
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.wordreference.com/it/translation.asp?enit=\\\\{@}"
@@ -5606,7 +5606,7 @@ msgctxt "Name"
 msgid "Nepomuk File Indexing Controller"
 msgstr ""
 
-#: nepomuk/controller/nepomukcontroller.desktop:59
+#: nepomuk/controller/nepomukcontroller.desktop:58
 msgctxt "Comment"
 msgid "System tray icon to control the behaviour of the Nepomuk file indexer"
 msgstr ""
@@ -5712,7 +5712,7 @@ msgctxt "Name"
 msgid "Audio Output Device Changed"
 msgstr ""
 
-#: phonon/platform_kde/phonon.notifyrc:219
+#: phonon/platform_kde/phonon.notifyrc:218
 msgctxt "Comment"
 msgid "Notification when audio output device has automatically changed"
 msgstr ""
@@ -5735,7 +5735,7 @@ msgctxt "Name"
 msgid "Newspaper Layout"
 msgstr "ନେଟୱର୍କ ଏବଂ ସଂଯୋଜକତା"
 
-#: plasma/containments/newspaper/plasma-containment-newspaper.desktop:66
+#: plasma/containments/newspaper/plasma-containment-newspaper.desktop:65
 msgctxt "Comment"
 msgid "A layout that puts widgets into columns"
 msgstr ""
@@ -5771,7 +5771,7 @@ msgctxt "Name"
 msgid "Javascript Addon"
 msgstr "Java & JavaScript"
 
-#: plasma/scriptengines/javascript/data/plasma-packagestructure-javascript-addon.desktop:65
+#: plasma/scriptengines/javascript/data/plasma-packagestructure-javascript-addon.desktop:64
 msgctxt "Comment"
 msgid "Addons for Javascript Plasma plugins"
 msgstr ""
@@ -5794,7 +5794,7 @@ msgctxt "Name"
 msgid "JavaScript Widget"
 msgstr "JavaScript ୱିଜେଟ"
 
-#: plasma/scriptengines/javascript/data/plasma-scriptengine-applet-simple-javascript.desktop:79
+#: plasma/scriptengines/javascript/data/plasma-scriptengine-applet-simple-javascript.desktop:78
 msgctxt "Comment"
 msgid "Native Plasma widget written in JavaScript"
 msgstr "JavaScriptରେ ଲିଖିତ ସ୍ଥାନୀୟ ପ୍ଲାଜମା ୱିଜେଟ"
@@ -5812,7 +5812,7 @@ msgctxt "Name"
 msgid "JavaScript Runner"
 msgstr "JavaScript ଚାଳକ"
 
-#: plasma/scriptengines/javascript/data/plasma-scriptengine-runner-javascript.desktop:80
+#: plasma/scriptengines/javascript/data/plasma-scriptengine-runner-javascript.desktop:79
 msgctxt "Comment"
 msgid "JavaScript Runner"
 msgstr "JavaScript ଚାଳକ"
@@ -5846,7 +5846,7 @@ msgctxt "Name"
 msgid "KDE Shutdown"
 msgstr ""
 
-#: platforms/win/kwinshutdown/kwinshutdown.desktop:62
+#: platforms/win/kwinshutdown/kwinshutdown.desktop:61
 msgctxt "Comment"
 msgid "kill running KDE applications and processes"
 msgstr ""
@@ -5889,7 +5889,7 @@ msgctxt "X-KDE-Keywords"
 msgid "Mount,Removable,Devices,Automatic"
 msgstr "USB ଉପକରଣ"
 
-#: solid-device-automounter/kcm/device_automounter_kcm.desktop:64
+#: solid-device-automounter/kcm/device_automounter_kcm.desktop:62
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "USB Devices"
@@ -5897,7 +5897,7 @@ msgctxt "Name"
 msgid "Removable Devices"
 msgstr "USB ଉପକରଣ"
 
-#: solid-device-automounter/kcm/device_automounter_kcm.desktop:133
+#: solid-device-automounter/kcm/device_automounter_kcm.desktop:131
 msgctxt "Comment"
 msgid "Configure automatic handling of removable storage media"
 msgstr ""
@@ -5907,7 +5907,7 @@ msgctxt "Name"
 msgid "Removable Device Automounter"
 msgstr ""
 
-#: solid-device-automounter/kded/device_automounter.desktop:76
+#: solid-device-automounter/kded/device_automounter.desktop:75
 msgctxt "Comment"
 msgid "Automatically mounts devices as needed"
 msgstr ""
