@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_launcher\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-07-10 08:59+0200\n"
+"POT-Creation-Date: 2012-08-07 21:49+0200\n"
 "PO-Revision-Date: 2009-01-02 11:50+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -43,17 +43,72 @@ msgctxt "General configuration page"
 msgid "General"
 msgstr ""
 
+#: core/favoritesmodel.cpp:49 core/favoritesmodel.cpp:322
+#: simpleapplet/simpleapplet.cpp:193 ui/launcher.cpp:121 ui/launcher.cpp:191
+msgid "Favorites"
+msgstr ""
+
+#: core/models.cpp:121
+msgid "Home Folder"
+msgstr ""
+
+#: core/models.cpp:124
+msgid "Network Folders"
+msgstr ""
+
+#: core/recentlyusedmodel.cpp:109
+msgid "Documents"
+msgstr ""
+
+#: core/recentlyusedmodel.cpp:120 core/systemmodel.cpp:74
+#: simpleapplet/simpleapplet.cpp:195 ui/launcher.cpp:123 ui/launcher.cpp:236
+msgid "Applications"
+msgstr ""
+
+#: core/recentlyusedmodel.cpp:186 simpleapplet/simpleapplet.cpp:197
+#: ui/launcher.cpp:124 ui/launcher.cpp:249
+msgid "Recently Used"
+msgstr ""
+
+#: core/recentlyusedmodel.cpp:188 simpleapplet/simpleapplet.cpp:199
+msgid "Recently Used Documents"
+msgstr ""
+
+#: core/recentlyusedmodel.cpp:190 simpleapplet/simpleapplet.cpp:198
+msgid "Recently Used Applications"
+msgstr ""
+
+#: core/systemmodel.cpp:75
+msgid "Places"
+msgstr ""
+
+#: core/systemmodel.cpp:76
+msgid "Removable Storage"
+msgstr ""
+
+#: core/systemmodel.cpp:77
+msgid "Storage"
+msgstr ""
+
+#: core/systemmodel.cpp:207 simpleapplet/simpleapplet.cpp:201
+msgid "Run Command..."
+msgstr ""
+
+#: core/systemmodel.cpp:211
+msgid "Run a command or a search query"
+msgstr ""
+
+#: core/systemmodel.cpp:319 simpleapplet/simpleapplet.cpp:196
+#: ui/launcher.cpp:123 ui/launcher.cpp:270
+msgid "Computer"
+msgstr ""
+
 #: core/applicationmodel.cpp:334
 msgid "Games"
 msgstr ""
 
 #: core/applicationmodel.cpp:428 ui/launcher.cpp:976
 msgid "All Applications"
-msgstr ""
-
-#: core/favoritesmodel.cpp:49 core/favoritesmodel.cpp:322
-#: simpleapplet/simpleapplet.cpp:193 ui/launcher.cpp:121 ui/launcher.cpp:191
-msgid "Favorites"
 msgstr ""
 
 #: core/leavemodel.cpp:50 simpleapplet/simpleapplet.cpp:210
@@ -141,61 +196,6 @@ msgstr ""
 
 #: core/leavemodel.cpp:150
 msgid "System"
-msgstr ""
-
-#: core/models.cpp:121
-msgid "Home Folder"
-msgstr ""
-
-#: core/models.cpp:124
-msgid "Network Folders"
-msgstr ""
-
-#: core/recentlyusedmodel.cpp:109
-msgid "Documents"
-msgstr ""
-
-#: core/recentlyusedmodel.cpp:120 core/systemmodel.cpp:74
-#: simpleapplet/simpleapplet.cpp:195 ui/launcher.cpp:123 ui/launcher.cpp:236
-msgid "Applications"
-msgstr ""
-
-#: core/recentlyusedmodel.cpp:186 simpleapplet/simpleapplet.cpp:197
-#: ui/launcher.cpp:124 ui/launcher.cpp:249
-msgid "Recently Used"
-msgstr ""
-
-#: core/recentlyusedmodel.cpp:188 simpleapplet/simpleapplet.cpp:199
-msgid "Recently Used Documents"
-msgstr ""
-
-#: core/recentlyusedmodel.cpp:190 simpleapplet/simpleapplet.cpp:198
-msgid "Recently Used Applications"
-msgstr ""
-
-#: core/systemmodel.cpp:75
-msgid "Places"
-msgstr ""
-
-#: core/systemmodel.cpp:76
-msgid "Removable Storage"
-msgstr ""
-
-#: core/systemmodel.cpp:77
-msgid "Storage"
-msgstr ""
-
-#: core/systemmodel.cpp:207 simpleapplet/simpleapplet.cpp:201
-msgid "Run Command..."
-msgstr ""
-
-#: core/systemmodel.cpp:211
-msgid "Run a command or a search query"
-msgstr ""
-
-#: core/systemmodel.cpp:319 simpleapplet/simpleapplet.cpp:196
-#: ui/launcher.cpp:123 ui/launcher.cpp:270
-msgid "Computer"
 msgstr ""
 
 #: main.cpp:32
@@ -321,6 +321,11 @@ msgstr ""
 msgid "Safely Remove"
 msgstr ""
 
+#: ui/searchbar.cpp:70
+msgctxt "Label of the search bar textedit"
+msgid "Search:"
+msgstr ""
+
 #: ui/launcher.cpp:194
 msgid "Sort Alphabetically (A to Z)"
 msgstr ""
@@ -347,11 +352,6 @@ msgstr ""
 #, kde-format
 msgctxt "full name, login name, hostname"
 msgid "<b>%1 (%2)</b> on <b>%3</b>"
-msgstr ""
-
-#: ui/searchbar.cpp:70
-msgctxt "Label of the search bar textedit"
-msgid "Search:"
 msgstr ""
 
 #: rc.cpp:1
