@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-08-07 21:36+0200\n"
+"POT-Creation-Date: 2012-08-10 13:58+0200\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -88,35 +88,6 @@ msgctxt "@label::textbox"
 msgid "Select which data should be shown:"
 msgstr ""
 
-#: panels/information/informationpanelcontent.cpp:229
-#, kde-format
-msgctxt "@info"
-msgid "%1 item selected"
-msgid_plural "%1 items selected"
-msgstr[0] "%1 ବସ୍ତୁ ବଛାହୋଇଛି"
-msgstr[1] "%1 ବସ୍ତୁ ବଛାହୋଇଛି"
-
-#: panels/information/informationpanelcontent.cpp:270
-#, fuzzy
-#| msgctxt "@label:listbox"
-#| msgid "Preview:"
-msgctxt "@action:inmenu"
-msgid "Preview"
-msgstr "ପ୍ରାକଦର୍ଶନ:"
-
-#: panels/information/informationpanelcontent.cpp:275
-#, fuzzy
-#| msgctxt "@label"
-#| msgid "Change Comment..."
-msgctxt "@action:inmenu"
-msgid "Configure..."
-msgstr "ଟିପ୍ପଣୀ ପରିବର୍ତ୍ତନ କରନ୍ତୁ..."
-
-#: panels/information/informationpanelcontent.cpp:297
-msgctxt "@label::textbox"
-msgid "Select which data should be shown in the information panel:"
-msgstr ""
-
 #: panels/information/phononwidget.cpp:126
 msgid "play"
 msgstr ""
@@ -125,27 +96,33 @@ msgstr ""
 msgid "stop"
 msgstr ""
 
-#: panels/places/placesitem.cpp:150
+#: panels/information/informationpanelcontent.cpp:227
+#, kde-format
+msgctxt "@info"
+msgid "%1 item selected"
+msgid_plural "%1 items selected"
+msgstr[0] "%1 ବସ୍ତୁ ବଛାହୋଇଛି"
+msgstr[1] "%1 ବସ୍ତୁ ବଛାହୋଇଛି"
+
+#: panels/information/informationpanelcontent.cpp:268
 #, fuzzy
-#| msgctxt "@action:inmenu Add current folder to places"
-#| msgid "Add to Places"
-msgctxt "@item"
-msgid "Places"
-msgstr "ସ୍ଥାନଗୁଡ଼ିକରେ ଯୋଗକରନ୍ତୁ"
+#| msgctxt "@label:listbox"
+#| msgid "Preview:"
+msgctxt "@action:inmenu"
+msgid "Preview"
+msgstr "ପ୍ରାକଦର୍ଶନ:"
 
-#: panels/places/placesitem.cpp:151
-msgctxt "@item"
-msgid "Recently Accessed"
-msgstr ""
+#: panels/information/informationpanelcontent.cpp:273
+#, fuzzy
+#| msgctxt "@label"
+#| msgid "Change Comment..."
+msgctxt "@action:inmenu"
+msgid "Configure..."
+msgstr "ଟିପ୍ପଣୀ ପରିବର୍ତ୍ତନ କରନ୍ତୁ..."
 
-#: panels/places/placesitem.cpp:152
-msgctxt "@item"
-msgid "Search For"
-msgstr ""
-
-#: panels/places/placesitem.cpp:153
-msgctxt "@item"
-msgid "Devices"
+#: panels/information/informationpanelcontent.cpp:295
+msgctxt "@label::textbox"
+msgid "Select which data should be shown in the information panel:"
 msgstr ""
 
 #: panels/places/placesitemeditdialog.cpp:127
@@ -365,6 +342,29 @@ msgstr "ସ୍ଥାନଗୁଡ଼ିକରେ ଯୋଗକରନ୍ତୁ"
 #: panels/places/placespanel.cpp:355
 msgctxt "@title:window"
 msgid "Edit Places Entry"
+msgstr ""
+
+#: panels/places/placesitem.cpp:150
+#, fuzzy
+#| msgctxt "@action:inmenu Add current folder to places"
+#| msgid "Add to Places"
+msgctxt "@item"
+msgid "Places"
+msgstr "ସ୍ଥାନଗୁଡ଼ିକରେ ଯୋଗକରନ୍ତୁ"
+
+#: panels/places/placesitem.cpp:151
+msgctxt "@item"
+msgid "Recently Accessed"
+msgstr ""
+
+#: panels/places/placesitem.cpp:152
+msgctxt "@item"
+msgid "Search For"
+msgstr ""
+
+#: panels/places/placesitem.cpp:153
+msgctxt "@item"
+msgid "Devices"
 msgstr ""
 
 #: search/dolphinfacetswidget.cpp:61
