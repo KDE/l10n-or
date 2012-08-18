@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_system-monitor\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-02-12 04:18+0100\n"
+"POT-Creation-Date: 2012-08-18 04:27+0200\n"
 "PO-Revision-Date: 2009-01-02 11:50+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -42,24 +42,16 @@ msgstr ""
 msgid "CPUs"
 msgstr ""
 
-#: hdd_activity.cpp:79
-msgid "Disk Activity"
-msgstr ""
-
-#: hdd_activity.cpp:165 hdd.cpp:86 temperature.cpp:96
-msgid "Name"
-msgstr ""
-
-#: hdd_activity.cpp:202
-msgid "Hard Disks"
-msgstr ""
-
 #: hdd.cpp:49
 msgid "Disk Space"
 msgstr ""
 
 #: hdd.cpp:85
 msgid "Mount Point"
+msgstr ""
+
+#: hdd.cpp:86 hdd_activity.cpp:165 temperature.cpp:96
+msgid "Name"
 msgstr ""
 
 #: hdd.cpp:110
@@ -93,6 +85,14 @@ msgstr ""
 
 #: hdd.cpp:299
 msgid "Raid"
+msgstr ""
+
+#: hdd_activity.cpp:79
+msgid "Disk Activity"
+msgstr ""
+
+#: hdd_activity.cpp:202
+msgid "Hard Disks"
 msgstr ""
 
 #: hwinfo.cpp:57 hwinfo.cpp:156

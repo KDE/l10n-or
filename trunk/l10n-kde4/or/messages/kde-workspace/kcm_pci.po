@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcm_pci\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-08-02 05:37+0200\n"
+"POT-Creation-Date: 2012-08-18 04:26+0200\n"
 "PO-Revision-Date: 2009-01-02 11:46+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -265,15 +265,15 @@ msgid "Mapping %1"
 msgstr ""
 
 #: kpci.cpp:286
-msgid "Space"
-msgstr ""
-
-#: kpci.cpp:286
 msgid "I/O"
 msgstr ""
 
 #: kpci.cpp:286
 msgid "Memory"
+msgstr ""
+
+#: kpci.cpp:286
+msgid "Space"
 msgstr ""
 
 #: kpci.cpp:289 kpci.cpp:458
@@ -384,16 +384,16 @@ msgstr ""
 msgid "Secondary back-to-back writes"
 msgstr ""
 
-#: kpci.cpp:422
-msgid "Primary discard timer counts"
-msgstr ""
-
 #: kpci.cpp:422 kpci.cpp:423
 msgid "2e10 PCI clocks"
 msgstr ""
 
 #: kpci.cpp:422 kpci.cpp:423
 msgid "2e15 PCI clocks"
+msgstr ""
+
+#: kpci.cpp:422
+msgid "Primary discard timer counts"
 msgstr ""
 
 #: kpci.cpp:423
@@ -534,15 +534,15 @@ msgid "Bridge status"
 msgstr ""
 
 #: kpci.cpp:546
-msgid "Secondary bus state in D3 hot"
-msgstr ""
-
-#: kpci.cpp:546
 msgid "B2"
 msgstr ""
 
 #: kpci.cpp:546
 msgid "B3"
+msgstr ""
+
+#: kpci.cpp:546
+msgid "Secondary bus state in D3 hot"
 msgstr ""
 
 #: kpci.cpp:547
@@ -663,12 +663,12 @@ msgctxt "no data"
 msgid "None"
 msgstr ""
 
-#: kpci.cpp:689
-msgid "Next"
-msgstr ""
-
 #: kpci.cpp:689 kpci.cpp:716
 msgid "0x00 (None)"
+msgstr ""
+
+#: kpci.cpp:689
+msgid "Next"
 msgstr ""
 
 #: kpci.cpp:712
@@ -685,16 +685,6 @@ msgstr ""
 
 #: kpci.cpp:773
 msgid "Cache line size"
-msgstr ""
-
-#: rc.cpp:1
-msgctxt "NAME OF TRANSLATORS"
-msgid "Your names"
-msgstr ""
-
-#: rc.cpp:2
-msgctxt "EMAIL OF TRANSLATORS"
-msgid "Your emails"
 msgstr ""
 
 #: kpci_private.h:26
@@ -1612,4 +1602,14 @@ msgstr ""
 
 #: kpci_private.h:776
 msgid "32 vectors"
+msgstr ""
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
 msgstr ""

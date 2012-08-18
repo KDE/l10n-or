@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ksysguard\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-07-10 08:58+0200\n"
+"POT-Creation-Date: 2012-08-18 04:26+0200\n"
 "PO-Revision-Date: 2009-01-02 11:49+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -116,12 +116,12 @@ msgid ""
 msgstr ""
 
 #: SensorDisplayLib/DancingBars.cpp:96 SensorDisplayLib/FancyPlotter.cpp:283
-msgid "OK"
+#: SensorDisplayLib/FancyPlotter.cpp:519 SensorDisplayLib/FancyPlotter.cpp:597
+msgid "Error"
 msgstr ""
 
 #: SensorDisplayLib/DancingBars.cpp:96 SensorDisplayLib/FancyPlotter.cpp:283
-#: SensorDisplayLib/FancyPlotter.cpp:519 SensorDisplayLib/FancyPlotter.cpp:597
-msgid "Error"
+msgid "OK"
 msgstr ""
 
 #: SensorDisplayLib/DancingBarsSettings.cpp:43
@@ -897,11 +897,11 @@ msgid "(c) 1996-2008 The KDE System Monitor Developers"
 msgstr ""
 
 #: ksysguard.cpp:532
-msgid "John Tapsell"
+msgid "Current Maintainer"
 msgstr ""
 
 #: ksysguard.cpp:532
-msgid "Current Maintainer"
+msgid "John Tapsell"
 msgstr ""
 
 #: ksysguard.cpp:533
@@ -941,14 +941,14 @@ msgid "Hamish Rodda"
 msgstr ""
 
 #: ksysguard.cpp:541
-msgid "Torsten Kasch"
-msgstr ""
-
-#: ksysguard.cpp:541
 msgid ""
 "Solaris Support\n"
 "Parts derived (by permission) from the sunos5\n"
 "module of William LeFebvre's \"top\" utility."
+msgstr ""
+
+#: ksysguard.cpp:541
+msgid "Torsten Kasch"
 msgstr ""
 
 #: ksysguard.cpp:550

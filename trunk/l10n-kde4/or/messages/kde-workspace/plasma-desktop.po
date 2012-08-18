@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-08-15 05:08+0200\n"
+"POT-Creation-Date: 2012-08-18 04:27+0200\n"
 "PO-Revision-Date: 2009-01-02 11:49+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -19,6 +19,10 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 "\n"
 "\n"
+
+#: activitymanager/activitymanager.cpp:290
+msgid "Get New Templates..."
+msgstr ""
 
 #: controllerwindow.cpp:390
 msgid "Activities"
@@ -303,8 +307,4 @@ msgstr ""
 #: rc.cpp:8
 msgid ""
 "Set to true if each virtual desktop should get its own, unique Plasma view."
-msgstr ""
-
-#: activitymanager/activitymanager.cpp:290
-msgid "Get New Templates..."
 msgstr ""
