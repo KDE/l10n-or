@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-08-07 21:42+0200\n"
+"POT-Creation-Date: 2012-08-18 17:05+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1272,7 +1272,7 @@ msgstr "ପରବର୍ତ୍ତି ଧାଡିକୁ ପାଦ ପକାନ୍
 #. i18n: file: threadweaver/Examples/Jobs/JobsBase.ui:87
 #. i18n: ectx: property (text), widget (QPushButton, pbStop)
 #: rc.cpp:700 rc.cpp:1130 kdeui/jobs/kstatusbarjobtracker.cpp:160
-#: kdeui/util/kkeyserver_x11.cpp:103 kdeui/util/kstandardguiitem.cpp:281
+#: kdeui/util/kstandardguiitem.cpp:281 kdeui/util/kkeyserver_x11.cpp:103
 #: kross/ui/view.cpp:308
 msgid "Stop"
 msgstr "ବିରାମ କରନ୍ତୁ"
@@ -7886,70 +7886,6 @@ msgstr ""
 msgid "There is no matching item available.\n"
 msgstr "ସେଠାରେ କୌଣସି ମେଳଖାଉଥିବା ବସ୍ତୁ ଉପଲବ୍ଧ ନାହିଁ।\n"
 
-#: kdeui/util/kkeyserver_x11.cpp:95
-msgid "Backspace"
-msgstr "Backspace"
-
-#: kdeui/util/kkeyserver_x11.cpp:96
-msgid "SysReq"
-msgstr "SysReq"
-
-#: kdeui/util/kkeyserver_x11.cpp:97
-msgid "CapsLock"
-msgstr "କ୍ଯାପ୍ସ ଲକ (CapsLock)"
-
-#: kdeui/util/kkeyserver_x11.cpp:98
-msgid "NumLock"
-msgstr "ନମ ଲକ (NumLock)"
-
-#: kdeui/util/kkeyserver_x11.cpp:99
-msgid "ScrollLock"
-msgstr "ScrollLock"
-
-#: kdeui/util/kkeyserver_x11.cpp:100
-msgid "PageUp"
-msgstr "PageUp"
-
-#: kdeui/util/kkeyserver_x11.cpp:101
-msgid "PageDown"
-msgstr "PageDown"
-
-#: kdeui/util/kkeyserver_x11.cpp:104
-msgid "Again"
-msgstr "ପୁଣିଥରେ"
-
-#: kdeui/util/kkeyserver_x11.cpp:105
-msgid "Props"
-msgstr "Props"
-
-#: kdeui/util/kkeyserver_x11.cpp:106 kdeui/util/kundostack.cpp:67
-msgid "Undo"
-msgstr "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ"
-
-#: kdeui/util/kkeyserver_x11.cpp:107
-msgid "Front"
-msgstr "ଆଗ"
-
-#: kdeui/util/kkeyserver_x11.cpp:108
-msgid "Copy"
-msgstr "ନକଲ କରନ୍ତୁ"
-
-#: kdeui/util/kkeyserver_x11.cpp:109
-msgid "Open"
-msgstr "ଖୋଲନ୍ତୁ"
-
-#: kdeui/util/kkeyserver_x11.cpp:110
-msgid "Paste"
-msgstr "ଲଗାନ୍ତୁ"
-
-#: kdeui/util/kkeyserver_x11.cpp:111
-msgid "Find"
-msgstr "ଖୋଜନ୍ତୁ"
-
-#: kdeui/util/kkeyserver_x11.cpp:112
-msgid "Cut"
-msgstr "କାଟନ୍ତୁ"
-
 #: kdeui/util/kstandardguiitem.cpp:109
 msgid "&OK"
 msgstr "ଠିକ ଅଛି (&O)"
@@ -8176,6 +8112,70 @@ msgstr "ନବଲିଖନ (&O)"
 #: kdeui/util/kundostack.cpp:48
 msgid "Redo"
 msgstr "ପୂର୍ବ ପଦକ୍ଷେପ"
+
+#: kdeui/util/kundostack.cpp:67 kdeui/util/kkeyserver_x11.cpp:106
+msgid "Undo"
+msgstr "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ"
+
+#: kdeui/util/kkeyserver_x11.cpp:95
+msgid "Backspace"
+msgstr "Backspace"
+
+#: kdeui/util/kkeyserver_x11.cpp:96
+msgid "SysReq"
+msgstr "SysReq"
+
+#: kdeui/util/kkeyserver_x11.cpp:97
+msgid "CapsLock"
+msgstr "କ୍ଯାପ୍ସ ଲକ (CapsLock)"
+
+#: kdeui/util/kkeyserver_x11.cpp:98
+msgid "NumLock"
+msgstr "ନମ ଲକ (NumLock)"
+
+#: kdeui/util/kkeyserver_x11.cpp:99
+msgid "ScrollLock"
+msgstr "ScrollLock"
+
+#: kdeui/util/kkeyserver_x11.cpp:100
+msgid "PageUp"
+msgstr "PageUp"
+
+#: kdeui/util/kkeyserver_x11.cpp:101
+msgid "PageDown"
+msgstr "PageDown"
+
+#: kdeui/util/kkeyserver_x11.cpp:104
+msgid "Again"
+msgstr "ପୁଣିଥରେ"
+
+#: kdeui/util/kkeyserver_x11.cpp:105
+msgid "Props"
+msgstr "Props"
+
+#: kdeui/util/kkeyserver_x11.cpp:107
+msgid "Front"
+msgstr "ଆଗ"
+
+#: kdeui/util/kkeyserver_x11.cpp:108
+msgid "Copy"
+msgstr "ନକଲ କରନ୍ତୁ"
+
+#: kdeui/util/kkeyserver_x11.cpp:109
+msgid "Open"
+msgstr "ଖୋଲନ୍ତୁ"
+
+#: kdeui/util/kkeyserver_x11.cpp:110
+msgid "Paste"
+msgstr "ଲଗାନ୍ତୁ"
+
+#: kdeui/util/kkeyserver_x11.cpp:111
+msgid "Find"
+msgstr "ଖୋଜନ୍ତୁ"
+
+#: kdeui/util/kkeyserver_x11.cpp:112
+msgid "Cut"
+msgstr "କାଟନ୍ତୁ"
 
 #: kdeui/widgets/kactionselector.cpp:100
 msgid "&Available:"
