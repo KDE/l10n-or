@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmsamba\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-08-18 04:26+0200\n"
+"POT-Creation-Date: 2012-08-19 05:50+0200\n"
 "PO-Revision-Date: 2009-01-02 11:46+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -20,16 +20,16 @@ msgstr ""
 "\n"
 "\n"
 
-#: kcmsambaimports.cpp:43
-msgid "Mounted Under"
+#: kcmsambaimports.cpp:43 ksmbstatus.cpp:51
+msgid "Type"
 msgstr ""
 
 #: kcmsambaimports.cpp:43
 msgid "Resource"
 msgstr ""
 
-#: kcmsambaimports.cpp:43 ksmbstatus.cpp:51
-msgid "Type"
+#: kcmsambaimports.cpp:43
+msgid "Mounted Under"
 msgstr ""
 
 #: kcmsambaimports.cpp:45
@@ -47,15 +47,15 @@ msgid "Samba log file: "
 msgstr ""
 
 #: kcmsambalog.cpp:38
-msgid "Show closed connections"
-msgstr ""
-
-#: kcmsambalog.cpp:38
 msgid "Show opened connections"
 msgstr ""
 
+#: kcmsambalog.cpp:38
+msgid "Show closed connections"
+msgstr ""
+
 #: kcmsambalog.cpp:39
-msgid "&Update"
+msgid "Show opened files"
 msgstr ""
 
 #: kcmsambalog.cpp:39
@@ -63,7 +63,7 @@ msgid "Show closed files"
 msgstr ""
 
 #: kcmsambalog.cpp:39
-msgid "Show opened files"
+msgid "&Update"
 msgstr ""
 
 #: kcmsambalog.cpp:57
@@ -193,11 +193,11 @@ msgid "Show expanded host info"
 msgstr ""
 
 #: kcmsambastatistics.cpp:64
-msgid "Hits"
+msgid "Nr"
 msgstr ""
 
 #: kcmsambastatistics.cpp:64
-msgid "Nr"
+msgid "Hits"
 msgstr ""
 
 #: kcmsambastatistics.cpp:68 kcmsambastatistics.cpp:135
@@ -223,11 +223,15 @@ msgid "FILE OPENED"
 msgstr ""
 
 #: ksmbstatus.cpp:51
-msgid "Accessed From"
+msgid "Service"
 msgstr ""
 
 #: ksmbstatus.cpp:51
-msgid "Service"
+msgid "Accessed From"
+msgstr ""
+
+#: ksmbstatus.cpp:52
+msgid "UID"
 msgstr ""
 
 #: ksmbstatus.cpp:52
@@ -235,15 +239,11 @@ msgid "GID"
 msgstr ""
 
 #: ksmbstatus.cpp:52
-msgid "Open Files"
-msgstr ""
-
-#: ksmbstatus.cpp:52
 msgid "PID"
 msgstr ""
 
 #: ksmbstatus.cpp:52
-msgid "UID"
+msgid "Open Files"
 msgstr ""
 
 #: ksmbstatus.cpp:156

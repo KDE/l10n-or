@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin_clients\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-08-18 04:26+0200\n"
+"POT-Creation-Date: 2012-08-19 05:50+0200\n"
 "PO-Revision-Date: 2009-01-02 11:49+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -32,12 +32,12 @@ msgstr ""
 msgid "On all desktops"
 msgstr ""
 
-#: b2/b2client.cpp:406 b2/b2client.cpp:901 oxygen/oxygenclient.cpp:222
-msgid "Maximize"
-msgstr ""
-
 #: b2/b2client.cpp:406 oxygen/oxygenclient.cpp:219
 msgid "Minimize"
+msgstr ""
+
+#: b2/b2client.cpp:406 b2/b2client.cpp:901 oxygen/oxygenclient.cpp:222
+msgid "Maximize"
 msgstr ""
 
 #: b2/b2client.cpp:407 oxygen/oxygenclient.cpp:225
@@ -49,11 +49,11 @@ msgid "Help"
 msgstr ""
 
 #: b2/b2client.cpp:408 b2/b2client.cpp:933
-msgid "Shade"
+msgid "Unshade"
 msgstr ""
 
 #: b2/b2client.cpp:408 b2/b2client.cpp:933
-msgid "Unshade"
+msgid "Shade"
 msgstr ""
 
 #: b2/b2client.cpp:409
@@ -185,15 +185,15 @@ msgstr ""
 
 #: oxygen/config/oxygenexceptiondialog.cpp:92
 #: oxygen/config/oxygenexceptiondialog.cpp:118
+#: oxygen/config/oxygenexceptiondialog.cpp:146
 msgctxt "outline window title"
-msgid "Disabled"
+msgid "Enabled"
 msgstr ""
 
 #: oxygen/config/oxygenexceptiondialog.cpp:92
 #: oxygen/config/oxygenexceptiondialog.cpp:118
-#: oxygen/config/oxygenexceptiondialog.cpp:146
 msgctxt "outline window title"
-msgid "Enabled"
+msgid "Disabled"
 msgstr ""
 
 #: oxygen/config/oxygenexceptionlistwidget.cpp:201
