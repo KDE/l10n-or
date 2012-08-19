@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: joystick\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-02-03 04:37+0100\n"
+"POT-Creation-Date: 2012-08-19 15:44+0200\n"
 "PO-Revision-Date: 2008-12-23 14:10+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -19,6 +19,14 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 "\n"
 "\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ମନୋଜ କୁମାର ଗିରି"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "mgiri@redhat.com"
 
 #: caldialog.cpp:41 joywidget.cpp:380
 msgid "Calibration"
@@ -282,13 +290,3 @@ msgstr ""
 #, kde-format
 msgid "Restored all calibration values for joystick device %1."
 msgstr "joystick ଉପକରଣ %1 ପାଇଁ ସମସ୍ତ ମପାଯାଇଥିବା ମୂଲ୍ୟକୁ ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ।"
-
-#: rc.cpp:1
-msgctxt "NAME OF TRANSLATORS"
-msgid "Your names"
-msgstr "ମନୋଜ କୁମାର ଗିରି"
-
-#: rc.cpp:2
-msgctxt "EMAIL OF TRANSLATORS"
-msgid "Your emails"
-msgstr "mgiri@redhat.com"

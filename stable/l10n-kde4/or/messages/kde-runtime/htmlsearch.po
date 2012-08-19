@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: htmlsearch\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-08-02 05:31+0200\n"
+"POT-Creation-Date: 2012-08-19 15:42+0200\n"
 "PO-Revision-Date: 2009-01-02 11:51+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -21,17 +21,13 @@ msgstr ""
 "\n"
 "\n"
 
-#: index.cpp:13
-msgid "KHtmlIndex"
-msgstr "KHtmlIndex"
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ମନୋଜ କୁମାର ଗିରି"
 
-#: index.cpp:15
-msgid "KDE Index generator for help files."
-msgstr "ସହାୟତା ଫାଇଲଗୁଡ଼ିକ ପାଇଁ KDE ଅନୁକ୍ରମଣିକା ନିର୍ମାତା।"
-
-#: index.cpp:20
-msgid "The language to index"
-msgstr "ଅନୁକ୍ରମଣିକା ପାଇଁ ଭାଷା"
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "<mgiri@redhat.com>"
 
 #: htmlsearch.cpp:123
 msgctxt "List of words to exclude from index"
@@ -91,6 +87,18 @@ msgid ""
 "youre:yours:yourself:yourselves:youve"
 msgstr ""
 
+#: index.cpp:13
+msgid "KHtmlIndex"
+msgstr "KHtmlIndex"
+
+#: index.cpp:15
+msgid "KDE Index generator for help files."
+msgstr "ସହାୟତା ଫାଇଲଗୁଡ଼ିକ ପାଇଁ KDE ଅନୁକ୍ରମଣିକା ନିର୍ମାତା।"
+
+#: index.cpp:20
+msgid "The language to index"
+msgstr "ଅନୁକ୍ରମଣିକା ପାଇଁ ଭାଷା"
+
 #: progressdialog.cpp:15
 msgid "Generating Index"
 msgstr "ଅନୁକ୍ରମଣିକା ସୃଷ୍ଟି କରୁଅଛି"
@@ -111,13 +119,3 @@ msgstr "ଅନୁକ୍ରମଣିକା ସୃଷ୍ଟି କରୁଅଛି.
 #, kde-format
 msgid "Files processed: %1"
 msgstr "ଫାଇଲଗୁଡ଼ିକୁ ସଞ୍ଚାଳନ କରାଯାଇଛି: %1"
-
-#: rc.cpp:1
-msgctxt "NAME OF TRANSLATORS"
-msgid "Your names"
-msgstr "ମନୋଜ କୁମାର ଗିରି"
-
-#: rc.cpp:2
-msgctxt "EMAIL OF TRANSLATORS"
-msgid "Your emails"
-msgstr "<mgiri@redhat.com>"
