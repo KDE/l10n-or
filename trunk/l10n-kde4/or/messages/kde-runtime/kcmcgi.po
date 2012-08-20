@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmcgi\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-08-02 05:32+0200\n"
+"POT-Creation-Date: 2012-08-20 04:51+0200\n"
 "PO-Revision-Date: 2008-12-23 14:19+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -19,6 +19,14 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 "\n"
 "\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ମନୋଜ କୁମାର ଗିରି"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "mgiri@redhat.com "
 
 #: kcmcgi.cpp:47
 msgid "Paths to Local CGI Programs"
@@ -57,13 +65,3 @@ msgstr ""
 "<h1>CGI ସ୍କ୍ରିପ୍ଟଗୁଡ଼ିକ</h1> CGI KIO ସ୍ଲେଭ ଆପଣଙ୍କୁ ସ୍ଥାନୀୟ CGI ପ୍ରଗ୍ରାମଗୁଡ଼ିକୁ ୱେବ ସର୍ଭର "
 "ଚଲାଇବାକୁ ଆବଶ୍ୟକ ନକରି ନିଷ୍ପାଦନ କରାଇଥାନ୍ତି। ଏହି ନିୟନ୍ତ୍ରଣ ଏକକାଂଶରେ ଆପଣ CGI ସ୍କ୍ରିପ୍ଟଗୁଡ଼ିକ ପାଇଁ "
 "ଖୋଜା ହୋଇଥିବା ପଥକୁ ବିନ୍ୟାସ କରିପାରିବେ।"
-
-#: rc.cpp:1
-msgctxt "NAME OF TRANSLATORS"
-msgid "Your names"
-msgstr "ମନୋଜ କୁମାର ଗିରି"
-
-#: rc.cpp:2
-msgctxt "EMAIL OF TRANSLATORS"
-msgid "Your emails"
-msgstr "mgiri@redhat.com "

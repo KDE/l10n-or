@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kinfocenter\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-08-19 05:50+0200\n"
+"POT-Creation-Date: 2012-08-20 05:30+0200\n"
 "PO-Revision-Date: 2009-01-02 11:47+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -19,6 +19,14 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 "\n"
 "\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
 
 #: infocenter.cpp:57
 msgctxt "Main window title"
@@ -81,6 +89,12 @@ msgstr ""
 msgid "%1  ( %2 )"
 msgstr ""
 
+#. i18n: ectx: ToolBar (mainToolBar)
+#: kinfocenterui.rc:16
+msgctxt "@title:menu"
+msgid "Main Toolbar"
+msgstr ""
+
 #: main.cpp:40
 msgid "KDE Info Center"
 msgstr ""
@@ -127,23 +141,6 @@ msgstr ""
 
 #: main.cpp:53
 msgid "Nicolas Ternisien"
-msgstr ""
-
-#: rc.cpp:1
-msgctxt "NAME OF TRANSLATORS"
-msgid "Your names"
-msgstr ""
-
-#: rc.cpp:2
-msgctxt "EMAIL OF TRANSLATORS"
-msgid "Your emails"
-msgstr ""
-
-#. i18n: file: kinfocenterui.rc:16
-#. i18n: ectx: ToolBar (mainToolBar)
-#: rc.cpp:5
-msgctxt "@title:menu"
-msgid "Main Toolbar"
 msgstr ""
 
 #: sidepanel.cpp:99
