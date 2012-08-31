@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-08-30 03:17+0000\n"
+"POT-Creation-Date: 2012-08-31 07:28+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -5663,24 +5663,6 @@ msgid ""
 "Media,NMM,GStreamer,Xine"
 msgstr ""
 
-#: phonon/kcm/xine/kcm_phononxine.desktop:11
-msgctxt "Name"
-msgid "Phonon Xine"
-msgstr "Phonon Xine"
-
-#: phonon/kcm/xine/kcm_phononxine.desktop:92
-msgctxt "Comment"
-msgid "Xine Backend Configuration"
-msgstr "Xine ପୃଷ୍ଠଭୂମି ସଂରଚନା"
-
-#: phonon/kcm/xine/kcm_phononxine.desktop:175
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Xine"
-msgctxt "X-KDE-Keywords"
-msgid "Xine"
-msgstr "Xine"
-
 #: phonon/kded-module/phononserver.desktop:8
 #, fuzzy
 #| msgctxt "Name"
@@ -5939,6 +5921,21 @@ msgstr "ହାର୍ଡୱେର"
 msgctxt "Comment"
 msgid "Provides a user interface for hardware events"
 msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Phonon Xine"
+#~ msgstr "Phonon Xine"
+
+#~ msgctxt "Comment"
+#~ msgid "Xine Backend Configuration"
+#~ msgstr "Xine ପୃଷ୍ଠଭୂମି ସଂରଚନା"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Xine"
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "Xine"
+#~ msgstr "Xine"
 
 #~ msgctxt "Name"
 #~ msgid "Nepomuk Server"
