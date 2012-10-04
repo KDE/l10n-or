@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-10-03 04:02+0000\n"
+"POT-Creation-Date: 2012-10-04 03:19+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -22,6 +22,19 @@ msgstr ""
 "\n"
 "\n"
 "\n"
+
+#: appmenu/appmenu.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Application Manuals"
+msgctxt "Name"
+msgid "Application menus daemon"
+msgstr "ପ୍ରୟୋଗ ସହାୟକ ପୁସ୍ତକ"
+
+#: appmenu/appmenu.desktop:21
+msgctxt "Comment"
+msgid "Transfers application's menu to the desktop"
+msgstr ""
 
 #: freespacenotifier/freespacenotifier.desktop:2
 #, fuzzy
@@ -50,13 +63,13 @@ msgid "Low Disk Space"
 msgstr ""
 
 #: freespacenotifier/freespacenotifier.notifyrc:132
-#: powerdevil/powerdevil.notifyrc:62
+#: powerdevil/powerdevil.notifyrc:65
 msgctxt "Name"
 msgid "Warning"
 msgstr "ଚେତାବନୀ"
 
 #: freespacenotifier/freespacenotifier.notifyrc:219
-#: powerdevil/powerdevil.notifyrc:149
+#: powerdevil/powerdevil.notifyrc:152
 msgctxt "Comment"
 msgid "Used for warning notifications"
 msgstr "ଚେତାବନୀ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ ପାଇଁ ବ୍ୟବହୃତ ହୋଇଥାଏ"
@@ -609,7 +622,7 @@ msgctxt "Name"
 msgid "Screen Locker"
 msgstr "ପରଦା ସଂରକ୍ଷକ"
 
-#: kcontrol/screensaver/screensaver.desktop:26
+#: kcontrol/screensaver/screensaver.desktop:27
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Screen Saver Settings"
@@ -617,7 +630,7 @@ msgctxt "Comment"
 msgid "Screen Locker Settings"
 msgstr "ପରଦା ସଂରକ୍ଷକ ବିନ୍ୟାସ"
 
-#: kcontrol/screensaver/screensaver.desktop:38
+#: kcontrol/screensaver/screensaver.desktop:40
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Screen Saver"
@@ -6065,27 +6078,27 @@ msgctxt "Comment"
 msgid "Power Management System"
 msgstr "ଶକ୍ତି ପରିଚାଳନା"
 
-#: powerdevil/powerdevil.notifyrc:224
+#: powerdevil/powerdevil.notifyrc:227
 msgctxt "Name"
 msgid "Notification"
 msgstr "ବିଜ୍ଞପ୍ତି"
 
-#: powerdevil/powerdevil.notifyrc:309
+#: powerdevil/powerdevil.notifyrc:312
 msgctxt "Comment"
 msgid "Used for standard notifications"
 msgstr "ମାନକ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ ପାଇଁ ବ୍ୟବହୃତ ହୋଇଥାଏ"
 
-#: powerdevil/powerdevil.notifyrc:384
+#: powerdevil/powerdevil.notifyrc:387
 msgctxt "Name"
 msgid "Critical notification"
 msgstr "ଗମ୍ଭୀର ବିଜ୍ଞପ୍ତି"
 
-#: powerdevil/powerdevil.notifyrc:460
+#: powerdevil/powerdevil.notifyrc:463
 msgctxt "Comment"
 msgid "Notifies a critical event"
 msgstr "ଗୋଟିଏ ଗମ୍ଭୀର ସ୍ଥିତିକୁ ଜଣାଇଥାଏ"
 
-#: powerdevil/powerdevil.notifyrc:536
+#: powerdevil/powerdevil.notifyrc:539
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Low Battery"
@@ -6093,12 +6106,12 @@ msgctxt "Name"
 msgid "Battery Low"
 msgstr "ବ୍ୟାଟେରୀ ଶକ୍ତି କମ ଅଛି"
 
-#: powerdevil/powerdevil.notifyrc:537
+#: powerdevil/powerdevil.notifyrc:543
 msgctxt "Comment"
 msgid "Your battery has reached low level"
 msgstr "ଆପଣଙ୍କର ବ୍ୟାଟେରୀ ନିମ୍ନ ସ୍ତରରେ ପହଞ୍ଚିଯାଇଛି"
 
-#: powerdevil/powerdevil.notifyrc:619
+#: powerdevil/powerdevil.notifyrc:625
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Battery at critical level"
@@ -6106,7 +6119,7 @@ msgctxt "Name"
 msgid "Battery Critical"
 msgstr "ବ୍ୟାଟେରି ଗମ୍ଭୀର ସ୍ଥିତିରେ ଅଛି"
 
-#: powerdevil/powerdevil.notifyrc:620
+#: powerdevil/powerdevil.notifyrc:629
 msgctxt "Comment"
 msgid ""
 "Your battery has reached critical level. This notification triggers a "
@@ -6114,52 +6127,52 @@ msgid ""
 "to leave that on."
 msgstr ""
 
-#: powerdevil/powerdevil.notifyrc:694
+#: powerdevil/powerdevil.notifyrc:703
 msgctxt "Name"
 msgid "Charge Complete"
 msgstr ""
 
-#: powerdevil/powerdevil.notifyrc:695
+#: powerdevil/powerdevil.notifyrc:707
 msgctxt "Comment"
 msgid "The battery is fully charged"
 msgstr ""
 
-#: powerdevil/powerdevil.notifyrc:702
+#: powerdevil/powerdevil.notifyrc:717
 msgctxt "Name"
 msgid "AC adaptor plugged in"
 msgstr "AC ଏଡ଼ପଟର ପ୍ଲଗ ହୋଇଛି"
 
-#: powerdevil/powerdevil.notifyrc:778
+#: powerdevil/powerdevil.notifyrc:793
 msgctxt "Comment"
 msgid "The power adaptor has been plugged in"
 msgstr "ଶକ୍ତି ଏଡ଼ପଟରକୁ ପ୍ଲଗରେ ଲଗାହୋଇଛି"
 
-#: powerdevil/powerdevil.notifyrc:860
+#: powerdevil/powerdevil.notifyrc:875
 msgctxt "Name"
 msgid "AC adaptor unplugged"
 msgstr "AC ଏଡ଼ପଟର ପ୍ଲଗ ହୋଇନାହିଁ"
 
-#: powerdevil/powerdevil.notifyrc:936
+#: powerdevil/powerdevil.notifyrc:951
 msgctxt "Comment"
 msgid "The power adaptor has been unplugged"
 msgstr "ଶକ୍ତି ଏଡ଼ପଟରଟି ପ୍ଲଗ ହୋଇନାହିଁ"
 
-#: powerdevil/powerdevil.notifyrc:1018
+#: powerdevil/powerdevil.notifyrc:1033
 msgctxt "Name"
 msgid "Job error"
 msgstr "କାର୍ଯ୍ୟ ତ୍ରୁଟି"
 
-#: powerdevil/powerdevil.notifyrc:1094
+#: powerdevil/powerdevil.notifyrc:1109
 msgctxt "Comment"
 msgid "There was an error while performing a job"
 msgstr "କାର୍ଯ୍ୟ କରିବା ସମୟରେ ଗୋଟିଏ ତ୍ରୁଟି"
 
-#: powerdevil/powerdevil.notifyrc:1172
+#: powerdevil/powerdevil.notifyrc:1187
 msgctxt "Name"
 msgid "Locking Screen"
 msgstr ""
 
-#: powerdevil/powerdevil.notifyrc:1173
+#: powerdevil/powerdevil.notifyrc:1191
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "A modifier key has been locked"
@@ -6167,7 +6180,7 @@ msgctxt "Comment"
 msgid "The screen is being locked"
 msgstr "ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି ଅପରିବର୍ତ୍ତିତ ହୋଇଯାଇଛି"
 
-#: powerdevil/powerdevil.notifyrc:1180
+#: powerdevil/powerdevil.notifyrc:1201
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Fatal Error"
@@ -6175,7 +6188,7 @@ msgctxt "Name"
 msgid "Internal Error"
 msgstr "ମାରାତ୍ମକ ତ୍ରୁଟି"
 
-#: powerdevil/powerdevil.notifyrc:1181
+#: powerdevil/powerdevil.notifyrc:1205
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "PowerDevil has triggered an internal error"
@@ -6183,17 +6196,17 @@ msgctxt "Comment"
 msgid "The KDE Power Management System has triggered an internal error"
 msgstr "PowerDevil ଗୋଟିଏ ଆଭ୍ୟନ୍ତରୀଣ ତ୍ରୁଟିକୁ ଆରମ୍ଭ କରିଛି"
 
-#: powerdevil/powerdevil.notifyrc:1239
+#: powerdevil/powerdevil.notifyrc:1263
 msgctxt "Name"
 msgid "Suspension inhibited"
 msgstr ""
 
-#: powerdevil/powerdevil.notifyrc:1308
+#: powerdevil/powerdevil.notifyrc:1332
 msgctxt "Comment"
 msgid "The suspension has been inhibited because an application requested it"
 msgstr ""
 
-#: powerdevil/powerdevil.notifyrc:1381
+#: powerdevil/powerdevil.notifyrc:1405
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Browser Identification"
@@ -6201,7 +6214,7 @@ msgctxt "Name"
 msgid "Broken battery notification"
 msgstr "ବ୍ରାଉଜର ପରିଚୟ"
 
-#: powerdevil/powerdevil.notifyrc:1434
+#: powerdevil/powerdevil.notifyrc:1458
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "PowerDevil has triggered an internal error"
@@ -8371,10 +8384,6 @@ msgstr ""
 #~ msgctxt "Comment"
 #~ msgid "The KDE Help Center"
 #~ msgstr "KDE ସହାୟତା କେନ୍ଦ୍ର"
-
-#~ msgctxt "Name"
-#~ msgid "Application Manuals"
-#~ msgstr "ପ୍ରୟୋଗ ସହାୟକ ପୁସ୍ତକ"
 
 #~ msgctxt "Name"
 #~ msgid "Browse Info Pages"
