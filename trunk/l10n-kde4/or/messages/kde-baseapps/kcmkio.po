@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmkio\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-10-05 04:36+0200\n"
+"POT-Creation-Date: 2012-10-06 04:47+0200\n"
 "PO-Revision-Date: 2009-01-02 11:45+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -309,9 +309,9 @@ msgstr ""
 msgid "Delete A&ll"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QPushButton, changePolicyButton)
+#. i18n: ectx: property (text), widget (QPushButton, configPolicyButton)
 #: kcookiesmanagement.ui:70
-msgid "Change &Policy..."
+msgid "Configure &Policy..."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, reloadButton)
@@ -371,22 +371,22 @@ msgid ""
 "replace it?</qt>"
 msgstr ""
 
-#: kcookiespolicies.cpp:230
+#: kcookiespolicies.cpp:229
 msgctxt "@title:window"
 msgid "Duplicate Policy"
 msgstr ""
 
-#: kcookiespolicies.cpp:231 useragentdlg.cpp:202
+#: kcookiespolicies.cpp:230 useragentdlg.cpp:202
 msgid "Replace"
 msgstr ""
 
-#: kcookiespolicies.cpp:400
+#: kcookiespolicies.cpp:395
 msgid ""
 "Unable to communicate with the cookie handler service.\n"
 "Any changes you made will not take effect until the service is restarted."
 msgstr ""
 
-#: kcookiespolicies.cpp:442
+#: kcookiespolicies.cpp:437
 msgid ""
 "<p><h1>Cookies</h1> Cookies contain information that Konqueror (or any other "
 "KDE application using the HTTP protocol) stores on your computer from a "
