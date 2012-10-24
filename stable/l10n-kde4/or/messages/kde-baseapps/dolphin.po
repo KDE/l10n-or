@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-10-03 12:30+0200\n"
+"POT-Creation-Date: 2012-10-24 12:19+0200\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1159,7 +1159,7 @@ msgid ""
 "Size of icons in the Places Panel (-1 means \"use the style's small size\")"
 msgstr ""
 
-#: panels/places/placesitem.cpp:150
+#: panels/places/placesitem.cpp:152
 #, fuzzy
 #| msgctxt "@action:inmenu Add current folder to places"
 #| msgid "Add to Places"
@@ -1167,17 +1167,17 @@ msgctxt "@item"
 msgid "Places"
 msgstr "ସ୍ଥାନଗୁଡ଼ିକରେ ଯୋଗକରନ୍ତୁ"
 
-#: panels/places/placesitem.cpp:151
+#: panels/places/placesitem.cpp:153
 msgctxt "@item"
 msgid "Recently Accessed"
 msgstr ""
 
-#: panels/places/placesitem.cpp:152
+#: panels/places/placesitem.cpp:154
 msgctxt "@item"
 msgid "Search For"
 msgstr ""
 
-#: panels/places/placesitem.cpp:153
+#: panels/places/placesitem.cpp:155
 msgctxt "@item"
 msgid "Devices"
 msgstr ""
@@ -1209,7 +1209,7 @@ msgstr ""
 msgid "&Only show when using this application (%1)"
 msgstr ""
 
-#: panels/places/placesitemmodel.cpp:264
+#: panels/places/placesitemmodel.cpp:265
 #, fuzzy, kde-format
 #| msgctxt "@label"
 #| msgid "Add Comment..."
@@ -1217,7 +1217,7 @@ msgctxt "@item"
 msgid "Eject '%1'"
 msgstr "ଟିପ୍ପଣୀ ଯୋଗକରନ୍ତୁ..."
 
-#: panels/places/placesitemmodel.cpp:300
+#: panels/places/placesitemmodel.cpp:301
 #, fuzzy, kde-format
 #| msgctxt "@item:intext Access permission, concatenated"
 #| msgid "Read, "
@@ -1225,7 +1225,7 @@ msgctxt "@item"
 msgid "Release '%1'"
 msgstr "ପଢ଼ନ୍ତୁ, "
 
-#: panels/places/placesitemmodel.cpp:302
+#: panels/places/placesitemmodel.cpp:303
 #, fuzzy, kde-format
 #| msgctxt "@item:intext Access permission, concatenated"
 #| msgid "Read, "
@@ -1233,7 +1233,7 @@ msgctxt "@item"
 msgid "Safely Remove '%1'"
 msgstr "ପଢ଼ନ୍ତୁ, "
 
-#: panels/places/placesitemmodel.cpp:305
+#: panels/places/placesitemmodel.cpp:306
 #, fuzzy, kde-format
 #| msgctxt "@item:intext Access permission, concatenated"
 #| msgid "Read, "
@@ -1241,28 +1241,28 @@ msgctxt "@item"
 msgid "Unmount '%1'"
 msgstr "ପଢ଼ନ୍ତୁ, "
 
-#: panels/places/placesitemmodel.cpp:327
+#: panels/places/placesitemmodel.cpp:328
 #, kde-format
 msgctxt "@info"
 msgid "The device '%1' is not a disk and cannot be ejected."
 msgstr ""
 
-#: panels/places/placesitemmodel.cpp:907
+#: panels/places/placesitemmodel.cpp:911
 msgctxt "KFile System Bookmarks"
 msgid "Home"
 msgstr ""
 
-#: panels/places/placesitemmodel.cpp:910
+#: panels/places/placesitemmodel.cpp:914
 msgctxt "KFile System Bookmarks"
 msgid "Network"
 msgstr ""
 
-#: panels/places/placesitemmodel.cpp:913
+#: panels/places/placesitemmodel.cpp:917
 msgctxt "KFile System Bookmarks"
 msgid "Root"
 msgstr ""
 
-#: panels/places/placesitemmodel.cpp:916
+#: panels/places/placesitemmodel.cpp:920
 #, fuzzy
 #| msgctxt "@label"
 #| msgid "Trash"
@@ -1270,7 +1270,7 @@ msgctxt "KFile System Bookmarks"
 msgid "Trash"
 msgstr "ଆବର୍ଜନା ପାତ୍ର"
 
-#: panels/places/placesitemmodel.cpp:921
+#: panels/places/placesitemmodel.cpp:925
 #, fuzzy
 #| msgctxt "@title:group Date"
 #| msgid "Today"
@@ -1278,7 +1278,7 @@ msgctxt "KFile System Bookmarks"
 msgid "Today"
 msgstr "ଆଜି"
 
-#: panels/places/placesitemmodel.cpp:924
+#: panels/places/placesitemmodel.cpp:928
 #, fuzzy
 #| msgctxt "@title:group Date"
 #| msgid "Yesterday"
@@ -1286,7 +1286,7 @@ msgctxt "KFile System Bookmarks"
 msgid "Yesterday"
 msgstr "ଗତକାଲି"
 
-#: panels/places/placesitemmodel.cpp:927
+#: panels/places/placesitemmodel.cpp:931
 #, fuzzy
 #| msgctxt "@title:group Date"
 #| msgid "Earlier this Month"
@@ -1294,7 +1294,7 @@ msgctxt "KFile System Bookmarks"
 msgid "This Month"
 msgstr "ଏହି ମାସ ଆରମ୍ଭରେ"
 
-#: panels/places/placesitemmodel.cpp:930
+#: panels/places/placesitemmodel.cpp:934
 #, fuzzy
 #| msgctxt "@title:group Date"
 #| msgid "Earlier this Month"
@@ -1302,7 +1302,7 @@ msgctxt "KFile System Bookmarks"
 msgid "Last Month"
 msgstr "ଏହି ମାସ ଆରମ୍ଭରେ"
 
-#: panels/places/placesitemmodel.cpp:933
+#: panels/places/placesitemmodel.cpp:937
 #, fuzzy
 #| msgctxt "@info:credit"
 #| msgid "Documentation"
@@ -1310,7 +1310,7 @@ msgctxt "KFile System Bookmarks"
 msgid "Documents"
 msgstr "ଦଲିଲିକରଣ"
 
-#: panels/places/placesitemmodel.cpp:936
+#: panels/places/placesitemmodel.cpp:940
 #, fuzzy
 #| msgctxt "@title:group"
 #| msgid "File Previews"
@@ -1318,12 +1318,12 @@ msgctxt "KFile System Bookmarks"
 msgid "Images"
 msgstr "ଫାଇଲ ପ୍ରାକଦର୍ଶନ"
 
-#: panels/places/placesitemmodel.cpp:939
+#: panels/places/placesitemmodel.cpp:943
 msgctxt "KFile System Bookmarks"
 msgid "Audio Files"
 msgstr ""
 
-#: panels/places/placesitemmodel.cpp:942
+#: panels/places/placesitemmodel.cpp:946
 msgctxt "KFile System Bookmarks"
 msgid "Videos"
 msgstr ""
