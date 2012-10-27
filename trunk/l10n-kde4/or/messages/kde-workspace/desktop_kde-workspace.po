@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-10-26 01:51+0000\n"
+"POT-Creation-Date: 2012-10-27 05:38+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -236,7 +236,7 @@ msgid "Manage which programs start up automatically with KDE."
 msgstr ""
 "କେଉଁ ପ୍ରଗ୍ରାମ KDE ସହିତ ଆରମ୍ଭ ହେବା ଉଚିତ ତାହା ପରିଚାଳନା କରିବା ପାଇଁ ଏହା ଗୋଟିଏ ସଂରଚନା ଉପକରଣ।"
 
-#: kcontrol/autostart/autostart.desktop:111
+#: kcontrol/autostart/autostart.desktop:114
 msgctxt "X-KDE-Keywords"
 msgid "Autostart Manager,autostart,startup,system startup,kde start,cron"
 msgstr ""
@@ -2669,7 +2669,7 @@ msgctxt "Name"
 msgid "Plastik"
 msgstr ""
 
-#: kwin/clients/aurorae/themes/plastik/package/metadata.desktop:24
+#: kwin/clients/aurorae/themes/plastik/package/metadata.desktop:91
 msgctxt "Comment"
 msgid "The classic theme known from KDE 3"
 msgstr ""
@@ -2956,6 +2956,22 @@ msgstr ""
 #: kwin/effects/minimizeanimation/minimizeanimation.desktop:82
 msgctxt "Comment"
 msgid "Animate the minimizing of windows"
+msgstr ""
+
+#: kwin/effects/mouseclick/mouseclick_config.desktop:9
+#: kwin/effects/mouseclick/mouseclick.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "More Applications"
+msgctxt "Name"
+msgid "Mouse Click Animation"
+msgstr "ଅଧିକ ପ୍ରୟୋଗ"
+
+#: kwin/effects/mouseclick/mouseclick.desktop:5
+msgctxt "Comment"
+msgid ""
+"Creates an animation whenever a mouse button is clicked. This is useful for "
+"screenrecordings/presentations."
 msgstr ""
 
 #: kwin/effects/mousemark/mousemark_config.desktop:9
@@ -6663,7 +6679,7 @@ msgctxt "Comment"
 msgid "Manage actions available to the user when connecting new devices"
 msgstr ""
 
-#: solid/solid-actions-kcm/solid-actions.desktop:91
+#: solid/solid-actions-kcm/solid-actions.desktop:94
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Device Information"
@@ -11843,10 +11859,6 @@ msgstr ""
 #~ msgctxt "Name"
 #~ msgid "KDE Menu"
 #~ msgstr "KDE ତାଲିକା"
-
-#~ msgctxt "Name"
-#~ msgid "More Applications"
-#~ msgstr "ଅଧିକ ପ୍ରୟୋଗ"
 
 #~ msgctxt "Name"
 #~ msgid "Science & Math"

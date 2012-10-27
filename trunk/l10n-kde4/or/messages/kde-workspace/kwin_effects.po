@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin_effects\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-09-30 04:35+0200\n"
+"POT-Creation-Date: 2012-10-27 07:13+0200\n"
 "PO-Revision-Date: 2009-01-02 11:49+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -55,18 +55,11 @@ msgstr ""
 msgid "&Animate walk through windows"
 msgstr ""
 
-#: coverswitch/coverswitch.cpp:1016 flipswitch/flipswitch.cpp:986
+#: coverswitch/coverswitch.cpp:1020 flipswitch/flipswitch.cpp:986
 msgctxt "Special entry in alt+tab list for minimizing all windows"
 msgid "Show Desktop"
 msgstr ""
 
-#: coverswitch/coverswitch_config.cpp:72
-msgid " millisecond"
-msgid_plural " milliseconds"
-msgstr[0] ""
-msgstr[1] ""
-
-#. i18n: ectx: property (text), widget (QCheckBox, checkWindowTitle)
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_WindowTitle)
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_DrawWindowCaptions)
 #: coverswitch/coverswitch_config.ui:17 flipswitch/flipswitch_config.ui:191
@@ -80,7 +73,7 @@ msgstr ""
 msgid "Zoom"
 msgstr ""
 
-#. i18n: ectx: property (toolTip), widget (QSlider, zPositionSlider)
+#. i18n: ectx: property (toolTip), widget (QSlider, kcfg_zPosition)
 #: coverswitch/coverswitch_config.ui:39
 msgid "Define how far away the windows should appear"
 msgstr ""
@@ -100,17 +93,17 @@ msgstr ""
 msgid "Animation"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QCheckBox, checkAnimateSwitch)
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_AnimateSwitch)
 #: coverswitch/coverswitch_config.ui:116
 msgid "Animate switch"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QCheckBox, checkAnimateStart)
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_AnimateStart)
 #: coverswitch/coverswitch_config.ui:123
 msgid "Animation on tab box open"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QCheckBox, checkAnimateStop)
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_AnimateStop)
 #: coverswitch/coverswitch_config.ui:130
 msgid "Animation on tab box close"
 msgstr ""
@@ -120,7 +113,7 @@ msgstr ""
 msgid "Animation duration:"
 msgstr ""
 
-#. i18n: ectx: property (specialValueText), widget (KIntSpinBox, spinDuration)
+#. i18n: ectx: property (specialValueText), widget (KIntSpinBox, kcfg_Duration)
 #. i18n: ectx: property (specialValueText), widget (KIntSpinBox, kcfg_RotationDuration)
 #. i18n: ectx: property (specialValueText), widget (QSpinBox, kcfg_AnimationDuration)
 #: coverswitch/coverswitch_config.ui:158 cube/cube_config.ui:146
@@ -129,45 +122,50 @@ msgctxt "Duration of rotation"
 msgid "Default"
 msgstr ""
 
+#. i18n: ectx: property (suffix), widget (KIntSpinBox, kcfg_Duration)
+#: coverswitch/coverswitch_config.ui:161
+msgid " milliseconds"
+msgstr ""
+
 #. i18n: ectx: attribute (title), widget (QWidget, tab_2)
-#: coverswitch/coverswitch_config.ui:174
+#: coverswitch/coverswitch_config.ui:177
 msgid "Thumbnail Bar"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QCheckBox, checkThumbnails)
-#: coverswitch/coverswitch_config.ui:180
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_Thumbnails)
+#: coverswitch/coverswitch_config.ui:183
 msgid "Use additional thumbnail bar"
 msgstr ""
 
-#. i18n: ectx: property (toolTip), widget (QCheckBox, checkDynamicThumbnails)
-#: coverswitch/coverswitch_config.ui:187
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_DynamicThumbnails)
+#: coverswitch/coverswitch_config.ui:190
 msgid ""
 "Only show thumbnail bar if there are at least specified number of windows"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QCheckBox, checkDynamicThumbnails)
-#: coverswitch/coverswitch_config.ui:190
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_DynamicThumbnails)
+#: coverswitch/coverswitch_config.ui:193
 msgid "Dynamic mode"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, labelThumbnailWindows)
-#: coverswitch/coverswitch_config.ui:199
+#: coverswitch/coverswitch_config.ui:202
 msgid "Number of windows:"
 msgstr ""
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab_3)
-#. i18n: ectx: property (text), widget (QCheckBox, checkReflection)
-#: coverswitch/coverswitch_config.ui:218 coverswitch/coverswitch_config.ui:224
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_Reflection)
+#: coverswitch/coverswitch_config.ui:221 coverswitch/coverswitch_config.ui:227
 msgid "Reflections"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
-#: coverswitch/coverswitch_config.ui:236
+#: coverswitch/coverswitch_config.ui:239
 msgid "Rear color"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label)
-#: coverswitch/coverswitch_config.ui:246
+#: coverswitch/coverswitch_config.ui:249
 msgid "Front color"
 msgstr ""
 
@@ -367,7 +365,8 @@ msgid "Do not animate windows on all desktops"
 msgstr ""
 
 #. i18n: ectx: property (suffix), widget (KIntSpinBox, kcfg_RotationDuration)
-#: cube/cubeslide_config.ui:52
+#. i18n: ectx: property (suffix), widget (KIntSpinBox, kcfg_RingLife)
+#: cube/cubeslide_config.ui:52 mouseclick/mouseclick_config.ui:132
 msgid " msec"
 msgstr ""
 
@@ -460,6 +459,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_5)
 #: desktopgrid/desktopgrid_config.cpp:69 flipswitch/flipswitch_config.ui:125
+#: mouseclick/mouseclick.cpp:52
 msgid "Right"
 msgstr ""
 
@@ -478,6 +478,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_4)
 #: desktopgrid/desktopgrid_config.cpp:73 flipswitch/flipswitch_config.ui:105
+#: mouseclick/mouseclick.cpp:51
 msgid "Left"
 msgstr ""
 
@@ -678,6 +679,89 @@ msgstr ""
 msgid "&Height:"
 msgstr ""
 
+#: mouseclick/mouseclick.cpp:44 mouseclick/mouseclick_config.cpp:57
+msgid "Toggle Effect"
+msgstr ""
+
+#: mouseclick/mouseclick.cpp:53
+msgid "Middle"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, basic_tab)
+#: mouseclick/mouseclick_config.ui:21
+msgid "Basic Settings"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, button1_label)
+#: mouseclick/mouseclick_config.ui:37
+msgid "Left Mouse Button Color:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, button2_label)
+#: mouseclick/mouseclick_config.ui:50
+msgid "Middle Mouse Button Color:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, button3_label)
+#: mouseclick/mouseclick_config.ui:70
+msgid "Right Mouse Button Color:"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, advanced_tab)
+#: mouseclick/mouseclick_config.ui:91
+msgid "Advanced Settings"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, rings)
+#: mouseclick/mouseclick_config.ui:97
+msgid "Rings"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, ring_line_width_label)
+#: mouseclick/mouseclick_config.ui:103
+msgid "Line Width:"
+msgstr ""
+
+#. i18n: ectx: property (suffix), widget (KDoubleNumInput, kcfg_LineWidth)
+#. i18n: ectx: property (suffix), widget (KIntSpinBox, kcfg_RingSize)
+#: mouseclick/mouseclick_config.ui:119 mouseclick/mouseclick_config.ui:171
+#: mousemark/mousemark_config.cpp:51
+msgid " pixel"
+msgid_plural " pixels"
+msgstr[0] ""
+msgstr[1] ""
+
+#. i18n: ectx: property (text), widget (QLabel, ring_duration_label)
+#: mouseclick/mouseclick_config.ui:145
+msgid "Ring Duration:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, ring_radius_label)
+#: mouseclick/mouseclick_config.ui:155
+msgid "Ring Radius:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, ring_count_label)
+#: mouseclick/mouseclick_config.ui:184
+msgid "Ring Count:"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#. i18n: ectx: property (title), widget (QGroupBox, font)
+#: mouseclick/mouseclick_config.ui:210 showfps/showfps_config.ui:17
+msgid "Text"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, font_label)
+#: mouseclick/mouseclick_config.ui:216
+msgid "Font:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, showtext_label)
+#: mouseclick/mouseclick_config.ui:233
+msgid "Show Text:"
+msgstr ""
+
 #: mousemark/mousemark.cpp:49
 msgid "Clear All Mouse Marks"
 msgstr ""
@@ -685,12 +769,6 @@ msgstr ""
 #: mousemark/mousemark.cpp:53 mousemark/mousemark_config.cpp:68
 msgid "Clear Last Mouse Mark"
 msgstr ""
-
-#: mousemark/mousemark_config.cpp:51
-msgid " pixel"
-msgid_plural " pixels"
-msgstr[0] ""
-msgstr[1] ""
 
 #: mousemark/mousemark_config.cpp:63
 msgid "Clear Mouse Marks"
@@ -918,11 +996,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_Outline)
 #: resize/resize_config.ui:24
 msgid "Show outline"
-msgstr ""
-
-#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
-#: showfps/showfps_config.ui:17
-msgid "Text"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label)
