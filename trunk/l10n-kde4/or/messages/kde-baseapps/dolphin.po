@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-10-25 04:11+0200\n"
+"POT-Creation-Date: 2012-10-29 04:05+0100\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -2006,7 +2006,7 @@ msgctxt "@title:group General settings"
 msgid "General"
 msgstr "ସାଧାରଣ"
 
-#: settings/general/behaviorsettingspage.cpp:50
+#: settings/general/behaviorsettingspage.cpp:51
 #, fuzzy
 #| msgctxt "@title:menu"
 #| msgid "View Mode"
@@ -2014,7 +2014,7 @@ msgctxt "@title:group"
 msgid "View"
 msgstr "ଦୃଶ୍ୟମାନ ଅବସ୍ଥା"
 
-#: settings/general/behaviorsettingspage.cpp:53
+#: settings/general/behaviorsettingspage.cpp:54
 #, fuzzy
 #| msgctxt "@option:radio"
 #| msgid "Remember view properties for each folder"
@@ -2022,7 +2022,7 @@ msgctxt "@option:radio"
 msgid "Remember properties for each folder"
 msgstr "ପ୍ରତ୍ୟେକ ଫୋଲଡ଼ର ପାଇଁ ଦୃଶ୍ୟ ଗୁଣଧର୍ମକୁ ମନେରଖନ୍ତୁ"
 
-#: settings/general/behaviorsettingspage.cpp:54
+#: settings/general/behaviorsettingspage.cpp:55
 #, fuzzy
 #| msgctxt "@option:radio"
 #| msgid "Use common view properties for all folders"
@@ -2030,20 +2030,28 @@ msgctxt "@option:radio"
 msgid "Use common properties for all folders"
 msgstr "ସମସ୍ତ ଫୋଲଡ଼ରଗୁଡ଼ିକ ପାଇଁ ସାଧାରଣ ଦୃଶ୍ୟ ଗୁଣଧର୍ମ ବ୍ୟବହାର କରନ୍ତୁ"
 
-#: settings/general/behaviorsettingspage.cpp:61
+#: settings/general/behaviorsettingspage.cpp:62
 msgctxt "@option:check"
 msgid "Show tooltips"
 msgstr "ଉପକରଣ ସୂଚନା ଦର୍ଶାନ୍ତୁ"
 
-#: settings/general/behaviorsettingspage.cpp:64
+#: settings/general/behaviorsettingspage.cpp:65
 msgctxt "@option:check"
 msgid "Show selection marker"
 msgstr ""
 
-#: settings/general/behaviorsettingspage.cpp:67
+#: settings/general/behaviorsettingspage.cpp:68
 msgctxt "option:check"
 msgid "Natural sorting of items"
 msgstr ""
+
+#: settings/general/behaviorsettingspage.cpp:71
+#, fuzzy
+#| msgctxt "@title:window"
+#| msgid "Rename Item"
+msgctxt "option:check"
+msgid "Rename inline"
+msgstr "ବସ୍ତୁର ପୁନଃ ନାମକରଣ କରନ୍ତୁ"
 
 #: settings/general/configurepreviewplugindialog.cpp:46
 #, kde-format
