@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasmaengineexplorer\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-11-02 04:08+0100\n"
+"POT-Creation-Date: 2012-11-04 02:52+0100\n"
 "PO-Revision-Date: 2009-01-02 11:50+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -261,7 +261,7 @@ msgstr ""
 #, kde-format
 msgid ""
 "<b>'%1'</b> operation with destination <b>'%2'</b> failed. <p>The error was: "
-"<b>'%3'</b></p>"
+"<b>'%3: %4'</b></p>"
 msgstr ""
 
 #: serviceviewer.cpp:184 serviceviewer.cpp:195
@@ -281,8 +281,8 @@ msgstr ""
 
 #: serviceviewer.cpp:217
 #, kde-format
-msgid "One active operation ..."
-msgid_plural "%1 operations active ..."
+msgid "One active operation..."
+msgid_plural "%1 operations active..."
 msgstr[0] ""
 msgstr[1] ""
 
