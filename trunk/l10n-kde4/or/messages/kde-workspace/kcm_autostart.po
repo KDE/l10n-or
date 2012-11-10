@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcm_autostart\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-08-20 05:29+0200\n"
+"POT-Creation-Date: 2012-11-10 02:58+0100\n"
 "PO-Revision-Date: 2009-01-05 12:35+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -30,7 +30,9 @@ msgid "Your emails"
 msgstr "mgiri@redhat.com"
 
 #: addscriptdialog.cpp:36
-msgid "Shell script:"
+#, fuzzy
+#| msgid "Shell script:"
+msgid "Shell script path:"
 msgstr "ସେଲ ସ୍କ୍ରିପ୍ଟ:"
 
 #: addscriptdialog.cpp:40
@@ -141,10 +143,14 @@ msgstr "ଅପସାରଣ କରନ୍ତୁ (&R)"
 
 #. i18n: ectx: property (text), widget (QPushButton, btnProperties)
 #: autostartconfig.ui:47
-msgid "&Properties"
+#, fuzzy
+#| msgid "&Properties"
+msgid "&Properties..."
 msgstr "ଗୁଣ ଧର୍ମ (&P)"
 
 #. i18n: ectx: property (text), widget (QPushButton, btnAdvanced)
 #: autostartconfig.ui:74
-msgid "Advanced"
+#, fuzzy
+#| msgid "Advanced"
+msgid "Advanced..."
 msgstr "ଉନ୍ନତ"
