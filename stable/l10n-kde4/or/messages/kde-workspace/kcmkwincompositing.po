@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmkwincompositing\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-11-11 07:57+0100\n"
+"POT-Creation-Date: 2012-08-19 15:44+0200\n"
 "PO-Revision-Date: 2009-01-02 11:45+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -35,57 +35,57 @@ msgid_plural "%1 seconds remaining:"
 msgstr[0] ""
 msgstr[1] ""
 
-#: main.cpp:62
+#: main.cpp:61
 msgid "Confirm Desktop Effects Change"
 msgstr ""
 
-#: main.cpp:66
+#: main.cpp:65
 msgid "&Accept Configuration"
 msgstr ""
 
-#: main.cpp:67
+#: main.cpp:66
 msgid "&Return to Previous Configuration"
 msgstr ""
 
-#: main.cpp:69
+#: main.cpp:68
 msgid ""
 "Desktop effects settings have changed.\n"
 "Do you want to keep the new settings?\n"
 "They will be automatically reverted in 10 seconds."
 msgstr ""
 
-#: main.cpp:84
+#: main.cpp:83
 msgctxt ""
 "Action to open a dialog showing detailed information why an effect could not "
 "be loaded"
 msgid "Details"
 msgstr ""
 
-#: main.cpp:98
+#: main.cpp:96
 msgid "Use GLSL shaders"
 msgstr ""
 
-#: main.cpp:157
+#: main.cpp:153
 msgid "kcmkwincompositing"
 msgstr ""
 
-#: main.cpp:158
+#: main.cpp:154
 msgid "KWin Desktop Effects Configuration Module"
 msgstr ""
 
-#: main.cpp:159
+#: main.cpp:155
 msgid "(c) 2007 Rivo Laks"
 msgstr ""
 
-#: main.cpp:160
+#: main.cpp:156
 msgid "Rivo Laks"
 msgstr ""
 
-#: main.cpp:178
+#: main.cpp:174
 msgid "No effect"
 msgstr ""
 
-#: main.cpp:201
+#: main.cpp:197
 msgid ""
 "Failed to activate desktop effects using the given configuration options. "
 "Settings will be reverted to their previous values.\n"
@@ -94,52 +94,52 @@ msgid ""
 "especially changing the compositing type."
 msgstr ""
 
-#: main.cpp:238
+#: main.cpp:234
 msgid "Appearance"
 msgstr ""
 
-#: main.cpp:239
+#: main.cpp:235
 msgid "Accessibility"
 msgstr ""
 
-#: main.cpp:240
+#: main.cpp:236
 msgid "Focus"
 msgstr ""
 
-#: main.cpp:241
+#: main.cpp:237
 msgid "Window Management"
 msgstr ""
 
-#: main.cpp:242
+#: main.cpp:238
 msgid "Candy"
 msgstr ""
 
-#: main.cpp:243
+#: main.cpp:239
 msgid "Demos"
 msgstr ""
 
-#: main.cpp:244
+#: main.cpp:240
 msgid "Tests"
 msgstr ""
 
-#: main.cpp:245
+#: main.cpp:241
 msgid "Tools"
 msgstr ""
 
-#: main.cpp:403
+#: main.cpp:398
 msgid ""
 "Desktop effects are not available on this system due to the following "
 "technical issues:"
 msgstr ""
 
-#: main.cpp:406
+#: main.cpp:401
 msgctxt ""
 "Reason shown when trying to activate desktop effects and KWin (most likely) "
 "crashes"
 msgid "Window Manager seems not to be running"
 msgstr ""
 
-#: main.cpp:578
+#: main.cpp:573
 msgid ""
 "Your settings have been saved but as KDE is currently running in failsafe "
 "mode desktop effects cannot be enabled at this time.\n"
@@ -147,7 +147,7 @@ msgid ""
 "Please exit failsafe mode to enable desktop effects."
 msgstr ""
 
-#: main.cpp:618
+#: main.cpp:613
 #, kde-format
 msgctxt "Error Message shown when a desktop effect could not be loaded"
 msgid "One desktop effect could not be loaded."
@@ -155,49 +155,49 @@ msgid_plural "%1 desktop effects could not be loaded."
 msgstr[0] ""
 msgstr[1] ""
 
-#: main.cpp:634
+#: main.cpp:629
 #, kde-format
 msgctxt "Effect with given name could not be activated due to unknown reason"
 msgid "%1 effect failed to load due to unknown reason."
 msgstr ""
 
-#: main.cpp:636
+#: main.cpp:631
 #, kde-format
 msgctxt ""
 "Effect with given name could not be activated as it requires hardware shaders"
 msgid "%1 effect requires hardware support."
 msgstr ""
 
-#: main.cpp:638
+#: main.cpp:633
 #, kde-format
 msgctxt "Effect with given name could not be activated as it requires OpenGL"
 msgid "%1 effect requires OpenGL."
 msgstr ""
 
-#: main.cpp:640
+#: main.cpp:635
 #, kde-format
 msgctxt "Effect with given name could not be activated as it requires OpenGL 2"
 msgid "%1 effect requires OpenGL 2."
 msgstr ""
 
-#: main.cpp:642
+#: main.cpp:637
 msgctxt "Window title"
 msgid "List of effects which could not be loaded"
 msgstr ""
 
-#: main.cpp:649
+#: main.cpp:644
 msgid ""
 "For technical reasons it is not possible to determine all possible error "
 "causes."
 msgstr ""
 
-#: main.cpp:713
+#: main.cpp:708
 msgctxt ""
 "Error Message shown when compositing is not active after tried activation"
 msgid "Desktop effect system is not running."
 msgstr ""
 
-#: main.cpp:765
+#: main.cpp:759
 msgid "<h1>Desktop Effects</h1>"
 msgstr ""
 
@@ -317,38 +317,33 @@ msgid ""
 "effect's settings."
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QPushButton, ghns)
-#: main.ui:473
-msgid "Get New Effect"
-msgstr ""
-
 #. i18n: ectx: attribute (title), widget (QWidget, tab_4)
-#: main.ui:498
+#: main.ui:470
 msgid "Advanced"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_7)
-#: main.ui:528
+#: main.ui:500
 msgid "Compositing type:"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (KComboBox, compositingType)
-#: main.ui:548
+#: main.ui:520
 msgid "OpenGL"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (KComboBox, compositingType)
-#: main.ui:553
+#: main.ui:525
 msgid "XRender"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_3)
-#: main.ui:561
+#: main.ui:533
 msgid "Qt graphics system:"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QComboBox, graphicsSystem)
-#: main.ui:577
+#: main.ui:549
 msgid ""
 "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
 "REC-html40/strict.dtd\">\n"
@@ -375,27 +370,27 @@ msgid ""
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, graphicsSystem)
-#: main.ui:581
+#: main.ui:553
 msgid "Native"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, graphicsSystem)
-#: main.ui:586
+#: main.ui:558
 msgid "Raster"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
-#: main.ui:615
+#: main.ui:587
 msgid "General Options"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_8)
-#: main.ui:630
+#: main.ui:602
 msgid "Keep window thumbnails:"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (KComboBox, windowThumbnails)
-#: main.ui:650
+#: main.ui:622
 msgctxt ""
 "A window thumbnail requires to have the corresponding window mapped. To have "
 "thumbnails at all time, windows are not unmapped. This can break window "
@@ -404,7 +399,7 @@ msgid "Always (Breaks minimization)"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (KComboBox, windowThumbnails)
-#: main.ui:655
+#: main.ui:627
 msgctxt ""
 "Windows are not unmapped if the window is somewhere visible on any of the "
 "virtual desktops."
@@ -412,7 +407,7 @@ msgid "Only for Shown Windows"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (KComboBox, windowThumbnails)
-#: main.ui:660
+#: main.ui:632
 msgctxt ""
 "Windows are unmapped as they are requested. This can lead to not having "
 "updated thumbnials for windows on other desktops."
@@ -420,12 +415,12 @@ msgid "Never"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, scaleMethodLabel)
-#: main.ui:674
+#: main.ui:646
 msgid "Scale method:"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QComboBox, xrScaleFilter)
-#: main.ui:701
+#: main.ui:673
 msgid ""
 "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
 "REC-html40/strict.dtd\">\n"
@@ -458,17 +453,17 @@ msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, xrScaleFilter)
 #. i18n: ectx: property (text), item, widget (QComboBox, glScaleFilter)
-#: main.ui:708 main.ui:741
+#: main.ui:680 main.ui:713
 msgid "Crisp"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, xrScaleFilter)
-#: main.ui:713
+#: main.ui:685
 msgid "Smooth (slower)"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QComboBox, glScaleFilter)
-#: main.ui:734
+#: main.ui:706
 msgid ""
 "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
 "REC-html40/strict.dtd\">\n"
@@ -511,27 +506,32 @@ msgid ""
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, glScaleFilter)
-#: main.ui:746
+#: main.ui:718
 msgid "Smooth"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, glScaleFilter)
-#: main.ui:751
+#: main.ui:723
 msgid "Accurate"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, unredirectFullscreen)
-#: main.ui:761
+#: main.ui:733
 msgid "Suspend desktop effects for fullscreen windows"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, glGroup)
-#: main.ui:803
+#: main.ui:775
 msgid "OpenGL Options"
 msgstr ""
 
+#. i18n: ectx: property (text), widget (QCheckBox, glVSync)
+#: main.ui:784
+msgid "Use VSync"
+msgstr ""
+
 #. i18n: ectx: property (toolTip), widget (QCheckBox, glShaders)
-#: main.ui:813
+#: main.ui:795
 msgid ""
 "If enabled all rendering will be performed with Shaders written in the "
 "OpenGL Shading Language.\n"
@@ -539,24 +539,6 @@ msgid ""
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, glShaders)
-#: main.ui:816
+#: main.ui:798
 msgid "Use OpenGL 2 Shaders"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QCheckBox, glVSync)
-#: main.ui:823
-msgid "Use VSync"
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (QCheckBox, glColorCorrection)
-#: main.ui:836
-msgid ""
-"<p>Activates color correction if possible, using the Kolor-Manager. Requires "
-"OpenGL 2 Shaders to be enabled and Kolor-Manager to be installed. May fail "
-"silently.</p><p><strong>Experimental</strong>.</p>"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QCheckBox, glColorCorrection)
-#: main.ui:839
-msgid "Enable color correction (experimental)"
 msgstr ""
