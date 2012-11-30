@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-11-29 02:27+0000\n"
+"POT-Creation-Date: 2012-11-30 02:29+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -31,7 +31,7 @@ msgctxt "Name"
 msgid "Application menus daemon"
 msgstr "ପ୍ରୟୋଗ ସହାୟକ ପୁସ୍ତକ"
 
-#: appmenu/appmenu.desktop:27
+#: appmenu/appmenu.desktop:28
 msgctxt "Comment"
 msgid "Transfers application's menu to the desktop"
 msgstr ""
@@ -236,7 +236,7 @@ msgid "Manage which programs start up automatically with KDE."
 msgstr ""
 "କେଉଁ ପ୍ରଗ୍ରାମ KDE ସହିତ ଆରମ୍ଭ ହେବା ଉଚିତ ତାହା ପରିଚାଳନା କରିବା ପାଇଁ ଏହା ଗୋଟିଏ ସଂରଚନା ଉପକରଣ।"
 
-#: kcontrol/autostart/autostart.desktop:129
+#: kcontrol/autostart/autostart.desktop:130
 msgctxt "X-KDE-Keywords"
 msgid "Autostart Manager,autostart,startup,system startup,kde start,cron"
 msgstr ""
@@ -620,7 +620,7 @@ msgctxt "Name"
 msgid "Screen Locker"
 msgstr "ପରଦା ସଂରକ୍ଷକ"
 
-#: kcontrol/screensaver/screensaver.desktop:42
+#: kcontrol/screensaver/screensaver.desktop:43
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Screen Saver Settings"
@@ -628,7 +628,7 @@ msgctxt "Comment"
 msgid "Screen Locker Settings"
 msgstr "ପରଦା ସଂରକ୍ଷକ ବିନ୍ୟାସ"
 
-#: kcontrol/screensaver/screensaver.desktop:70
+#: kcontrol/screensaver/screensaver.desktop:72
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Screen Saver"
@@ -676,17 +676,17 @@ msgctxt "Name"
 msgid "Menubar manager"
 msgstr "କ୍ୟାଲେଣ୍ଡର ପରିଚାଳକ"
 
-#: kcontrol/style/kcmstyle.notifyrc:24
+#: kcontrol/style/kcmstyle.notifyrc:25
 msgctxt "Comment"
 msgid "Menubar exporter"
 msgstr ""
 
-#: kcontrol/style/kcmstyle.notifyrc:47
+#: kcontrol/style/kcmstyle.notifyrc:49
 msgctxt "Name"
 msgid "Menubar changed"
 msgstr ""
 
-#: kcontrol/style/kcmstyle.notifyrc:68
+#: kcontrol/style/kcmstyle.notifyrc:71
 msgctxt "Comment"
 msgid "Settings changes will take effect only on application restart"
 msgstr ""
@@ -2306,7 +2306,7 @@ msgctxt "Name"
 msgid "Password dialog"
 msgstr "ପ୍ରବେଶ ସଂକେତ ଧରିବା ସମର୍ଥନ"
 
-#: ksmserver/screenlocker/greeter/themes/org.kde.passworddialog/metadata.desktop:28
+#: ksmserver/screenlocker/greeter/themes/org.kde.passworddialog/metadata.desktop:29
 msgctxt "Comment"
 msgid ""
 "Screen locker that provides a password dialog and an interface to switch the "
@@ -2679,7 +2679,7 @@ msgctxt "Name"
 msgid "KDE TouchPad Enabler Daemon"
 msgstr ""
 
-#: ktouchpadenabler/ktouchpadenabler.desktop:40
+#: ktouchpadenabler/ktouchpadenabler.desktop:39
 msgctxt "Comment"
 msgid "Toggles the enable status of the TouchPad"
 msgstr ""
