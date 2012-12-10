@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-12-06 02:22+0000\n"
+"POT-Creation-Date: 2012-12-10 02:24+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -31,7 +31,7 @@ msgctxt "Name"
 msgid "Application menus daemon"
 msgstr "ପ୍ରୟୋଗ ସହାୟକ ପୁସ୍ତକ"
 
-#: appmenu/appmenu.desktop:29
+#: appmenu/appmenu.desktop:30
 msgctxt "Comment"
 msgid "Transfers application's menu to the desktop"
 msgstr ""
@@ -63,13 +63,13 @@ msgid "Low Disk Space"
 msgstr ""
 
 #: freespacenotifier/freespacenotifier.notifyrc:132
-#: powerdevil/powerdevil.notifyrc:91
+#: powerdevil/powerdevil.notifyrc:92
 msgctxt "Name"
 msgid "Warning"
 msgstr "ଚେତାବନୀ"
 
 #: freespacenotifier/freespacenotifier.notifyrc:219
-#: powerdevil/powerdevil.notifyrc:178
+#: powerdevil/powerdevil.notifyrc:179
 msgctxt "Comment"
 msgid "Used for warning notifications"
 msgstr "ଚେତାବନୀ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ ପାଇଁ ବ୍ୟବହୃତ ହୋଇଥାଏ"
@@ -236,7 +236,7 @@ msgid "Manage which programs start up automatically with KDE."
 msgstr ""
 "କେଉଁ ପ୍ରଗ୍ରାମ KDE ସହିତ ଆରମ୍ଭ ହେବା ଉଚିତ ତାହା ପରିଚାଳନା କରିବା ପାଇଁ ଏହା ଗୋଟିଏ ସଂରଚନା ଉପକରଣ।"
 
-#: kcontrol/autostart/autostart.desktop:131
+#: kcontrol/autostart/autostart.desktop:132
 msgctxt "X-KDE-Keywords"
 msgid "Autostart Manager,autostart,startup,system startup,kde start,cron"
 msgstr ""
@@ -620,7 +620,7 @@ msgctxt "Name"
 msgid "Screen Locker"
 msgstr "ପରଦା ସଂରକ୍ଷକ"
 
-#: kcontrol/screensaver/screensaver.desktop:44
+#: kcontrol/screensaver/screensaver.desktop:45
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Screen Saver Settings"
@@ -628,7 +628,7 @@ msgctxt "Comment"
 msgid "Screen Locker Settings"
 msgstr "ପରଦା ସଂରକ୍ଷକ ବିନ୍ୟାସ"
 
-#: kcontrol/screensaver/screensaver.desktop:74
+#: kcontrol/screensaver/screensaver.desktop:76
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Screen Saver"
@@ -676,17 +676,17 @@ msgctxt "Name"
 msgid "Menubar manager"
 msgstr "କ୍ୟାଲେଣ୍ଡର ପରିଚାଳକ"
 
-#: kcontrol/style/kcmstyle.notifyrc:28
+#: kcontrol/style/kcmstyle.notifyrc:29
 msgctxt "Comment"
 msgid "Menubar exporter"
 msgstr ""
 
-#: kcontrol/style/kcmstyle.notifyrc:55
+#: kcontrol/style/kcmstyle.notifyrc:57
 msgctxt "Name"
 msgid "Menubar changed"
 msgstr ""
 
-#: kcontrol/style/kcmstyle.notifyrc:80
+#: kcontrol/style/kcmstyle.notifyrc:83
 msgctxt "Comment"
 msgid "Settings changes will take effect only on application restart"
 msgstr ""
@@ -2306,7 +2306,7 @@ msgctxt "Name"
 msgid "Password dialog"
 msgstr "ପ୍ରବେଶ ସଂକେତ ଧରିବା ସମର୍ଥନ"
 
-#: ksmserver/screenlocker/greeter/themes/org.kde.passworddialog/metadata.desktop:30
+#: ksmserver/screenlocker/greeter/themes/org.kde.passworddialog/metadata.desktop:31
 msgctxt "Comment"
 msgid ""
 "Screen locker that provides a password dialog and an interface to switch the "
@@ -2986,7 +2986,7 @@ msgctxt "Comment"
 msgid "Animation for a window going to maximize/restore from maximize"
 msgstr ""
 
-#: kwin/effects/maximize/package/metadata.desktop:29
+#: kwin/effects/maximize/package/metadata.desktop:30
 msgctxt "Name"
 msgid "Maximize"
 msgstr ""
@@ -3010,7 +3010,7 @@ msgctxt "Name"
 msgid "Mouse Click Animation"
 msgstr "ଅଧିକ ପ୍ରୟୋଗ"
 
-#: kwin/effects/mouseclick/mouseclick.desktop:30
+#: kwin/effects/mouseclick/mouseclick.desktop:31
 msgctxt "Comment"
 msgid ""
 "Creates an animation whenever a mouse button is clicked. This is useful for "
@@ -6135,27 +6135,27 @@ msgctxt "Comment"
 msgid "Power Management System"
 msgstr "ଶକ୍ତି ପରିଚାଳନା"
 
-#: powerdevil/powerdevil.notifyrc:253
+#: powerdevil/powerdevil.notifyrc:254
 msgctxt "Name"
 msgid "Notification"
 msgstr "ବିଜ୍ଞପ୍ତି"
 
-#: powerdevil/powerdevil.notifyrc:338
+#: powerdevil/powerdevil.notifyrc:339
 msgctxt "Comment"
 msgid "Used for standard notifications"
 msgstr "ମାନକ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ ପାଇଁ ବ୍ୟବହୃତ ହୋଇଥାଏ"
 
-#: powerdevil/powerdevil.notifyrc:413
+#: powerdevil/powerdevil.notifyrc:414
 msgctxt "Name"
 msgid "Critical notification"
 msgstr "ଗମ୍ଭୀର ବିଜ୍ଞପ୍ତି"
 
-#: powerdevil/powerdevil.notifyrc:489
+#: powerdevil/powerdevil.notifyrc:490
 msgctxt "Comment"
 msgid "Notifies a critical event"
 msgstr "ଗୋଟିଏ ଗମ୍ଭୀର ସ୍ଥିତିକୁ ଜଣାଇଥାଏ"
 
-#: powerdevil/powerdevil.notifyrc:565
+#: powerdevil/powerdevil.notifyrc:566
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Low Battery"
@@ -6163,12 +6163,12 @@ msgctxt "Name"
 msgid "Battery Low"
 msgstr "ବ୍ୟାଟେରୀ ଶକ୍ତି କମ ଅଛି"
 
-#: powerdevil/powerdevil.notifyrc:594
+#: powerdevil/powerdevil.notifyrc:596
 msgctxt "Comment"
 msgid "Your battery has reached low level"
 msgstr "ଆପଣଙ୍କର ବ୍ୟାଟେରୀ ନିମ୍ନ ସ୍ତରରେ ପହଞ୍ଚିଯାଇଛି"
 
-#: powerdevil/powerdevil.notifyrc:676
+#: powerdevil/powerdevil.notifyrc:678
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Battery at critical level"
@@ -6176,7 +6176,7 @@ msgctxt "Name"
 msgid "Battery Critical"
 msgstr "ବ୍ୟାଟେରି ଗମ୍ଭୀର ସ୍ଥିତିରେ ଅଛି"
 
-#: powerdevil/powerdevil.notifyrc:705
+#: powerdevil/powerdevil.notifyrc:708
 msgctxt "Comment"
 msgid ""
 "Your battery has reached critical level. This notification triggers a "
@@ -6184,37 +6184,37 @@ msgid ""
 "to leave that on."
 msgstr ""
 
-#: powerdevil/powerdevil.notifyrc:779
+#: powerdevil/powerdevil.notifyrc:782
 msgctxt "Name"
 msgid "Charge Complete"
 msgstr ""
 
-#: powerdevil/powerdevil.notifyrc:808
+#: powerdevil/powerdevil.notifyrc:812
 msgctxt "Comment"
 msgid "The battery is fully charged"
 msgstr ""
 
-#: powerdevil/powerdevil.notifyrc:841
+#: powerdevil/powerdevil.notifyrc:846
 msgctxt "Name"
 msgid "AC adaptor plugged in"
 msgstr "AC ଏଡ଼ପଟର ପ୍ଲଗ ହୋଇଛି"
 
-#: powerdevil/powerdevil.notifyrc:917
+#: powerdevil/powerdevil.notifyrc:922
 msgctxt "Comment"
 msgid "The power adaptor has been plugged in"
 msgstr "ଶକ୍ତି ଏଡ଼ପଟରକୁ ପ୍ଲଗରେ ଲଗାହୋଇଛି"
 
-#: powerdevil/powerdevil.notifyrc:999
+#: powerdevil/powerdevil.notifyrc:1004
 msgctxt "Name"
 msgid "AC adaptor unplugged"
 msgstr "AC ଏଡ଼ପଟର ପ୍ଲଗ ହୋଇନାହିଁ"
 
-#: powerdevil/powerdevil.notifyrc:1075
+#: powerdevil/powerdevil.notifyrc:1080
 msgctxt "Comment"
 msgid "The power adaptor has been unplugged"
 msgstr "ଶକ୍ତି ଏଡ଼ପଟରଟି ପ୍ଲଗ ହୋଇନାହିଁ"
 
-#: powerdevil/powerdevil.notifyrc:1157
+#: powerdevil/powerdevil.notifyrc:1162
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Fatal Error"
@@ -6222,7 +6222,7 @@ msgctxt "Name"
 msgid "Internal Error"
 msgstr "ମାରାତ୍ମକ ତ୍ରୁଟି"
 
-#: powerdevil/powerdevil.notifyrc:1186
+#: powerdevil/powerdevil.notifyrc:1192
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "PowerDevil has triggered an internal error"
@@ -6230,17 +6230,17 @@ msgctxt "Comment"
 msgid "The KDE Power Management System has triggered an internal error"
 msgstr "PowerDevil ଗୋଟିଏ ଆଭ୍ୟନ୍ତରୀଣ ତ୍ରୁଟିକୁ ଆରମ୍ଭ କରିଛି"
 
-#: powerdevil/powerdevil.notifyrc:1245
+#: powerdevil/powerdevil.notifyrc:1251
 msgctxt "Name"
 msgid "Suspension inhibited"
 msgstr ""
 
-#: powerdevil/powerdevil.notifyrc:1314
+#: powerdevil/powerdevil.notifyrc:1320
 msgctxt "Comment"
 msgid "The suspension has been inhibited because an application requested it"
 msgstr ""
 
-#: powerdevil/powerdevil.notifyrc:1387
+#: powerdevil/powerdevil.notifyrc:1393
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Browser Identification"
@@ -6248,7 +6248,7 @@ msgctxt "Name"
 msgid "Broken battery notification"
 msgstr "ବ୍ରାଉଜର ପରିଚୟ"
 
-#: powerdevil/powerdevil.notifyrc:1441
+#: powerdevil/powerdevil.notifyrc:1447
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "PowerDevil has triggered an internal error"
@@ -6323,7 +6323,7 @@ msgstr ""
 
 #: solid/solid-actions-kcm/device-actions/solid-device-AcAdapter.desktop:39
 #: solid/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:361
-#: solid/solid-actions-kcm/device-actions/solid-device-Battery.desktop:318
+#: solid/solid-actions-kcm/device-actions/solid-device-Battery.desktop:319
 #: solid/solid-actions-kcm/device-actions/solid-device-Block.desktop:214
 #: solid/solid-actions-kcm/device-actions/solid-device-Button.desktop:213
 #: solid/solid-actions-kcm/device-actions/solid-device-Camera.desktop:144
@@ -6397,12 +6397,12 @@ msgctxt "Name|battery plugged in"
 msgid "Plugged"
 msgstr ""
 
-#: solid/solid-actions-kcm/device-actions/solid-device-Battery.desktop:177
+#: solid/solid-actions-kcm/device-actions/solid-device-Battery.desktop:178
 msgctxt "Name"
 msgid "Rechargeable"
 msgstr ""
 
-#: solid/solid-actions-kcm/device-actions/solid-device-Battery.desktop:244
+#: solid/solid-actions-kcm/device-actions/solid-device-Battery.desktop:245
 #: solid/solid-actions-kcm/device-actions/solid-device-Button.desktop:139
 msgctxt "Name"
 msgid "Type"
@@ -6722,7 +6722,7 @@ msgctxt "Comment"
 msgid "Manage actions available to the user when connecting new devices"
 msgstr ""
 
-#: solid/solid-actions-kcm/solid-actions.desktop:110
+#: solid/solid-actions-kcm/solid-actions.desktop:111
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Device Information"
