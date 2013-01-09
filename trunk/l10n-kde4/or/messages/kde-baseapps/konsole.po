@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-01-08 12:24+0100\n"
+"POT-Creation-Date: 2013-01-09 02:19+0100\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -2150,24 +2150,26 @@ msgstr ""
 
 #: TerminalDisplay.cpp:2581
 #, kde-format
-msgid "Are you sure you want to paste %1 characters?"
-msgstr ""
+msgid "Are you sure you want to paste %1 character?"
+msgid_plural "Are you sure you want to paste %1 characters?"
+msgstr[0] ""
+msgstr[1] ""
 
-#: TerminalDisplay.cpp:2583
+#: TerminalDisplay.cpp:2584
 msgid "Confirm Paste"
 msgstr ""
 
-#: TerminalDisplay.cpp:2758
+#: TerminalDisplay.cpp:2759
 msgid ""
 "<qt>Output has been <a href=\"http://en.wikipedia.org/wiki/Flow_control"
 "\">suspended</a> by pressing Ctrl+S.  Press <b>Ctrl+Q</b> to resume.</qt>"
 msgstr ""
 
-#: TerminalDisplay.cpp:3011
+#: TerminalDisplay.cpp:3012
 msgid "&Paste Location"
 msgstr ""
 
-#: TerminalDisplay.cpp:3025
+#: TerminalDisplay.cpp:3026
 msgid "Change &Directory To"
 msgstr ""
 
