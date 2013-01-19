@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-01-18 02:44+0000\n"
+"POT-Creation-Date: 2013-01-19 02:45+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -5935,6 +5935,19 @@ msgstr ""
 #: powerdevil/daemon/actions/bundled/powerdevilhandlebuttoneventsaction.desktop:62
 msgctxt "Comment"
 msgid "Performs an action whenever a button is pressed"
+msgstr ""
+
+#: powerdevil/daemon/actions/bundled/powerdevilkeyboardbrightnesscontrolaction.desktop:6
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Keyboard Layout"
+msgctxt "Name"
+msgid "Keyboard Backlight"
+msgstr "କିବୋର୍ଡ଼ ବିନ୍ୟାସ"
+
+#: powerdevil/daemon/actions/bundled/powerdevilkeyboardbrightnesscontrolaction.desktop:7
+msgctxt "Comment"
+msgid "Basic Controls for the keyboard backlight brightness"
 msgstr ""
 
 #: powerdevil/daemon/actions/bundled/powerdevilrunscriptaction.desktop:6
