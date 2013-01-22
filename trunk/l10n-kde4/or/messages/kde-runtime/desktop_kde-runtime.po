@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-01-20 02:42+0000\n"
+"POT-Creation-Date: 2013-01-22 04:56+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -725,10 +725,10 @@ msgstr "ଡ଼େସ୍କଟପ"
 #: kioslave/thumbnail/directorythumbnail.desktop:3
 #, fuzzy
 #| msgctxt "Name"
-#| msgid "Files and Directories"
+#| msgid "Folder"
 msgctxt "Name"
-msgid "Directories"
-msgstr "ଫାଇଲ ଏବଂ ଡ଼ିରେକ୍ଟୋରୀଗୁଡ଼ିକ"
+msgid "Folders"
+msgstr "ଫୋଲଡର"
 
 #: kioslave/thumbnail/djvuthumbnail.desktop:3
 msgctxt "Name"
@@ -5925,6 +5925,13 @@ msgctxt "Comment"
 msgid "Provides a user interface for hardware events"
 msgstr ""
 
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Files and Directories"
+#~ msgctxt "Name"
+#~ msgid "Directories"
+#~ msgstr "ଫାଇଲ ଏବଂ ଡ଼ିରେକ୍ଟୋରୀଗୁଡ଼ିକ"
+
 #~ msgctxt "Name"
 #~ msgid "Phonon Xine"
 #~ msgstr "Phonon Xine"
@@ -6890,10 +6897,6 @@ msgstr ""
 #~ msgctxt "Name"
 #~ msgid "Test"
 #~ msgstr "ପରୀକ୍ଷଣ"
-
-#~ msgctxt "Name"
-#~ msgid "Folder"
-#~ msgstr "ଫୋଲଡର"
 
 #~ msgctxt "Name"
 #~ msgid "FTP Archives"
