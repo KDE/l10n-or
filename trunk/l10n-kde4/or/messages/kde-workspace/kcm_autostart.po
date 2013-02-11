@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcm_autostart\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-12-11 03:55+0100\n"
+"POT-Creation-Date: 2013-02-11 03:51+0100\n"
 "PO-Revision-Date: 2009-01-05 12:35+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -146,31 +146,21 @@ msgid ""
 "Only files with “.sh” extensions are allowed for setting up the environment."
 msgstr "ପରିବେଶକୁ ସେଟ କରିବା ପାଇଁ KDE କେବଳ sh ଅନୁଲଗ୍ନ ବିଶିଷ୍ଟ ଫାଇଲଗୁଡ଼ିକୁ ପଢ଼ିପାରେ।"
 
-#. i18n: ectx: property (text), widget (QPushButton, btnAddProgram)
-#: autostartconfig.ui:26
-msgid "Add Program..."
-msgstr "ପ୍ରଗ୍ରାମ ଯୋଗକରନ୍ତୁ..."
+#~ msgid "Add Program..."
+#~ msgstr "ପ୍ରଗ୍ରାମ ଯୋଗକରନ୍ତୁ..."
 
-#. i18n: ectx: property (text), widget (QPushButton, btnAddScript)
-#: autostartconfig.ui:33
-msgid "Add Script..."
-msgstr "ସ୍କ୍ରିପ୍ଟ ଯୋଗକରନ୍ତୁ..."
+#~ msgid "Add Script..."
+#~ msgstr "ସ୍କ୍ରିପ୍ଟ ଯୋଗକରନ୍ତୁ..."
 
-#. i18n: ectx: property (text), widget (QPushButton, btnRemove)
-#: autostartconfig.ui:40
-msgid "&Remove"
-msgstr "ଅପସାରଣ କରନ୍ତୁ (&R)"
+#~ msgid "&Remove"
+#~ msgstr "ଅପସାରଣ କରନ୍ତୁ (&R)"
 
-#. i18n: ectx: property (text), widget (QPushButton, btnProperties)
-#: autostartconfig.ui:47
 #, fuzzy
-#| msgid "&Properties"
-msgid "&Properties..."
-msgstr "ଗୁଣ ଧର୍ମ (&P)"
+#~| msgid "&Properties"
+#~ msgid "&Properties..."
+#~ msgstr "ଗୁଣ ଧର୍ମ (&P)"
 
-#. i18n: ectx: property (text), widget (QPushButton, btnAdvanced)
-#: autostartconfig.ui:74
 #, fuzzy
-#| msgid "Advanced"
-msgid "Advanced..."
-msgstr "ଉନ୍ନତ"
+#~| msgid "Advanced"
+#~ msgid "Advanced..."
+#~ msgstr "ଉନ୍ନତ"
