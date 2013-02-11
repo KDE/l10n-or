@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kmenuedit\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-02-11 03:51+0100\n"
+"POT-Creation-Date: 2012-12-09 03:02+0100\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -142,6 +142,21 @@ msgstr ""
 
 #: kmenuedit.cpp:201
 msgid "Save Menu Changes?"
+msgstr ""
+
+#. i18n: ectx: Menu (file)
+#: kmenueditui.rc:6
+msgid "&File"
+msgstr ""
+
+#. i18n: ectx: Menu (edit)
+#: kmenueditui.rc:16
+msgid "&Edit"
+msgstr ""
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: kmenueditui.rc:28
+msgid "Main Toolbar"
 msgstr ""
 
 #: main.cpp:32

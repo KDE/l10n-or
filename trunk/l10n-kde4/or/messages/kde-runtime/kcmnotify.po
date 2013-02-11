@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmnotify\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-02-11 03:48+0100\n"
+"POT-Creation-Date: 2012-08-20 04:50+0200\n"
 "PO-Revision-Date: 2009-01-02 11:46+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -76,4 +76,41 @@ msgstr ""
 
 #: knotify.cpp:116
 msgid "Original implementation"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, cbArts)
+#: playersettings.ui:17
+msgid "Use the &KDE sound system"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: playersettings.ui:32
+#, no-c-format
+msgid "100%"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: playersettings.ui:55
+#, no-c-format
+msgid "0%"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4)
+#: playersettings.ui:62
+msgid "&Volume:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, cbExternal)
+#: playersettings.ui:106
+msgid "&Use an external player"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel5)
+#: playersettings.ui:137
+msgid "&Player:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, cbNone)
+#: playersettings.ui:162
+msgid "&No audio output"
 msgstr ""
