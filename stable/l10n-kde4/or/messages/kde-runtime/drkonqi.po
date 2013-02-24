@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: drkonqi\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-01-28 10:24+0100\n"
+"POT-Creation-Date: 2013-02-24 11:14+0100\n"
 "PO-Revision-Date: 2009-01-02 11:42+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -630,14 +630,14 @@ msgctxt "@title:tab"
 msgid "&Developer Information"
 msgstr ""
 
-#: drkonqidialog.cpp:92
+#: drkonqidialog.cpp:93
 #, kde-format
 msgctxt "@info"
 msgid ""
 "<para>We are sorry, <application>%1</application> closed unexpectedly.</para>"
 msgstr ""
 
-#: drkonqidialog.cpp:98
+#: drkonqidialog.cpp:99
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -647,7 +647,7 @@ msgid ""
 "to include the backtrace from the Developers Information tab.</para>"
 msgstr ""
 
-#: drkonqidialog.cpp:106
+#: drkonqidialog.cpp:107
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -656,7 +656,7 @@ msgid ""
 "(including the backtrace from the Developer Information tab.)</para>"
 msgstr ""
 
-#: drkonqidialog.cpp:112
+#: drkonqidialog.cpp:113
 msgctxt "@info"
 msgid ""
 "<para>You can help us improve KDE Software by reporting this error.<nl /"
@@ -665,19 +665,19 @@ msgid ""
 "report this bug.</note></para>"
 msgstr ""
 
-#: drkonqidialog.cpp:119
+#: drkonqidialog.cpp:120
 msgctxt "@info"
 msgid ""
 "<para>You cannot report this error, because the application does not provide "
 "a bug reporting address.</para>"
 msgstr ""
 
-#: drkonqidialog.cpp:129
+#: drkonqidialog.cpp:130
 msgctxt "@label"
 msgid "Details:"
 msgstr ""
 
-#: drkonqidialog.cpp:131
+#: drkonqidialog.cpp:132
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -685,44 +685,44 @@ msgid ""
 "Signal: %3 (%4)</para>"
 msgstr ""
 
-#: drkonqidialog.cpp:154
+#: drkonqidialog.cpp:155
 msgctxt "@action:button"
 msgid "Report Bug"
 msgstr ""
 
-#: drkonqidialog.cpp:157
+#: drkonqidialog.cpp:158
 msgctxt "@info:tooltip"
 msgid "Starts the bug report assistant."
 msgstr ""
 
-#: drkonqidialog.cpp:169
+#: drkonqidialog.cpp:170
 msgctxt ""
 "@action:button this is the debug menu button label which contains the "
 "debugging applications"
 msgid "Debug"
 msgstr ""
 
-#: drkonqidialog.cpp:170
+#: drkonqidialog.cpp:171
 msgctxt "@info:tooltip"
 msgid "Starts a program to debug the crashed application."
 msgstr ""
 
-#: drkonqidialog.cpp:189
+#: drkonqidialog.cpp:190
 msgctxt "@action:button"
 msgid "Restart Application"
 msgstr ""
 
-#: drkonqidialog.cpp:191
+#: drkonqidialog.cpp:192
 msgctxt "@info:tooltip"
 msgid "Use this button to restart the crashed application."
 msgstr ""
 
-#: drkonqidialog.cpp:200
+#: drkonqidialog.cpp:201
 msgctxt "@info:tooltip"
 msgid "Close this dialog (you will lose the crash information.)"
 msgstr ""
 
-#: drkonqidialog.cpp:211
+#: drkonqidialog.cpp:212
 #, kde-format
 msgctxt "@action:inmenu 1 is the debugger name"
 msgid "Debug in <application>%1</application>"
