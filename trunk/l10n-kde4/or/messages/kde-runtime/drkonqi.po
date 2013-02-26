@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: drkonqi\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-02-16 03:59+0100\n"
+"POT-Creation-Date: 2013-02-25 02:32+0100\n"
 "PO-Revision-Date: 2009-01-02 11:42+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -635,14 +635,14 @@ msgctxt "@title:tab"
 msgid "&Developer Information"
 msgstr ""
 
-#: drkonqidialog.cpp:97
+#: drkonqidialog.cpp:98
 #, kde-format
 msgctxt "@info"
 msgid ""
 "<para>We are sorry, <application>%1</application> closed unexpectedly.</para>"
 msgstr ""
 
-#: drkonqidialog.cpp:103
+#: drkonqidialog.cpp:104
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -653,7 +653,7 @@ msgid ""
 "Information</interface> tab.</para>"
 msgstr ""
 
-#: drkonqidialog.cpp:112
+#: drkonqidialog.cpp:113
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -663,7 +663,7 @@ msgid ""
 "interface> tab.)</para>"
 msgstr ""
 
-#: drkonqidialog.cpp:119
+#: drkonqidialog.cpp:120
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -673,7 +673,7 @@ msgid ""
 "para>"
 msgstr ""
 
-#: drkonqidialog.cpp:128
+#: drkonqidialog.cpp:129
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -681,12 +681,12 @@ msgid ""
 "does not provide a bug reporting address.</para>"
 msgstr ""
 
-#: drkonqidialog.cpp:140
+#: drkonqidialog.cpp:141
 msgctxt "@label"
 msgid "Details:"
 msgstr ""
 
-#: drkonqidialog.cpp:143
+#: drkonqidialog.cpp:144
 #, kde-format
 msgctxt "@info Note the time information is divided into date and time parts"
 msgid ""
@@ -694,44 +694,44 @@ msgid ""
 "Signal: %3 (%4) Time: %5 %6</para>"
 msgstr ""
 
-#: drkonqidialog.cpp:170
+#: drkonqidialog.cpp:171
 msgctxt "@action:button"
 msgid "Report &Bug"
 msgstr ""
 
-#: drkonqidialog.cpp:173
+#: drkonqidialog.cpp:174
 msgctxt "@info:tooltip"
 msgid "Starts the bug report assistant."
 msgstr ""
 
-#: drkonqidialog.cpp:185
+#: drkonqidialog.cpp:186
 msgctxt ""
 "@action:button this is the debug menu button label which contains the "
 "debugging applications"
 msgid "&Debug"
 msgstr ""
 
-#: drkonqidialog.cpp:186
+#: drkonqidialog.cpp:187
 msgctxt "@info:tooltip"
 msgid "Starts a program to debug the crashed application."
 msgstr ""
 
-#: drkonqidialog.cpp:205
+#: drkonqidialog.cpp:206
 msgctxt "@action:button"
 msgid "&Restart Application"
 msgstr ""
 
-#: drkonqidialog.cpp:207
+#: drkonqidialog.cpp:208
 msgctxt "@info:tooltip"
 msgid "Use this button to restart the crashed application."
 msgstr ""
 
-#: drkonqidialog.cpp:216
+#: drkonqidialog.cpp:217
 msgctxt "@info:tooltip"
 msgid "Close this dialog (you will lose the crash information.)"
 msgstr ""
 
-#: drkonqidialog.cpp:227
+#: drkonqidialog.cpp:228
 #, kde-format
 msgctxt "@action:inmenu 1 is the debugger name"
 msgid "Debug in <application>%1</application>"
