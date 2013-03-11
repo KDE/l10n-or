@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-02-22 01:57+0100\n"
+"POT-Creation-Date: 2013-03-11 10:05+0100\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -558,12 +558,12 @@ msgid_plural "%1 items"
 msgstr[0] "%1 ବସ୍ତୁ ବଛାହୋଇଛି"
 msgstr[1] "%1 ବସ୍ତୁ ବଛାହୋଇଛି"
 
-#: kitemviews/kfileitemmodel.cpp:1618
+#: kitemviews/kfileitemmodel.cpp:1641
 msgctxt "@title:group Groups that start with a digit"
 msgid "0 - 9"
 msgstr ""
 
-#: kitemviews/kfileitemmodel.cpp:1635
+#: kitemviews/kfileitemmodel.cpp:1658
 #, fuzzy
 #| msgctxt "@title:group Name"
 #| msgid "Others"
@@ -571,136 +571,136 @@ msgctxt "@title:group"
 msgid "Others"
 msgstr "ଅନ୍ୟମାନେ"
 
-#: kitemviews/kfileitemmodel.cpp:1667
+#: kitemviews/kfileitemmodel.cpp:1690
 msgctxt "@title:group Size"
 msgid "Folders"
 msgstr "ଫୋଲଡ଼ରଗୁଡ଼ିକ"
 
-#: kitemviews/kfileitemmodel.cpp:1669
+#: kitemviews/kfileitemmodel.cpp:1692
 msgctxt "@title:group Size"
 msgid "Small"
 msgstr "ସାନ"
 
-#: kitemviews/kfileitemmodel.cpp:1671
+#: kitemviews/kfileitemmodel.cpp:1694
 msgctxt "@title:group Size"
 msgid "Medium"
 msgstr "ମଧ୍ଯମ"
 
-#: kitemviews/kfileitemmodel.cpp:1673
+#: kitemviews/kfileitemmodel.cpp:1696
 msgctxt "@title:group Size"
 msgid "Big"
 msgstr "ବଡ଼"
 
-#: kitemviews/kfileitemmodel.cpp:1733
+#: kitemviews/kfileitemmodel.cpp:1756
 msgctxt "@title:group Date"
 msgid "Today"
 msgstr "ଆଜି"
 
-#: kitemviews/kfileitemmodel.cpp:1734
+#: kitemviews/kfileitemmodel.cpp:1757
 msgctxt "@title:group Date"
 msgid "Yesterday"
 msgstr "ଗତକାଲି"
 
-#: kitemviews/kfileitemmodel.cpp:1735
+#: kitemviews/kfileitemmodel.cpp:1758
 #, c-format
 msgctxt "@title:group The week day name: %A"
 msgid "%A"
 msgstr "%A"
 
-#: kitemviews/kfileitemmodel.cpp:1739
+#: kitemviews/kfileitemmodel.cpp:1762
 msgctxt "@title:group Date"
 msgid "Last Week"
 msgstr "ଗତ ସପ୍ତାହ"
 
-#: kitemviews/kfileitemmodel.cpp:1742
+#: kitemviews/kfileitemmodel.cpp:1765
 msgctxt "@title:group Date"
 msgid "Two Weeks Ago"
 msgstr "ଦୁଇ ସପ୍ତାହ ତଳେ"
 
-#: kitemviews/kfileitemmodel.cpp:1745
+#: kitemviews/kfileitemmodel.cpp:1768
 msgctxt "@title:group Date"
 msgid "Three Weeks Ago"
 msgstr "ତିନି ସପ୍ତାହ ତଳେ"
 
-#: kitemviews/kfileitemmodel.cpp:1749
+#: kitemviews/kfileitemmodel.cpp:1772
 msgctxt "@title:group Date"
 msgid "Earlier this Month"
 msgstr "ଏହି ମାସ ଆରମ୍ଭରେ"
 
-#: kitemviews/kfileitemmodel.cpp:1758
+#: kitemviews/kfileitemmodel.cpp:1781
 msgctxt ""
 "@title:group Date: %B is full month name in current locale, and %Y is full "
 "year number"
 msgid "Yesterday (%B, %Y)"
 msgstr "ଗତକାଲି (%B, %Y)"
 
-#: kitemviews/kfileitemmodel.cpp:1760
+#: kitemviews/kfileitemmodel.cpp:1783
 msgctxt ""
 "@title:group The week day name: %A, %B is full month name in current locale, "
 "and %Y is full year number"
 msgid "%A (%B, %Y)"
 msgstr "%A (%B, %Y)"
 
-#: kitemviews/kfileitemmodel.cpp:1762
+#: kitemviews/kfileitemmodel.cpp:1785
 msgctxt ""
 "@title:group Date: %B is full month name in current locale, and %Y is full "
 "year number"
 msgid "Last Week (%B, %Y)"
 msgstr "ଗତ ସପ୍ତାହ (%B, %Y)"
 
-#: kitemviews/kfileitemmodel.cpp:1764
+#: kitemviews/kfileitemmodel.cpp:1787
 msgctxt ""
 "@title:group Date: %B is full month name in current locale, and %Y is full "
 "year number"
 msgid "Two Weeks Ago (%B, %Y)"
 msgstr "ଦୁଇ ସପ୍ତାହ ତଳେ (%B, %Y)"
 
-#: kitemviews/kfileitemmodel.cpp:1766
+#: kitemviews/kfileitemmodel.cpp:1789
 msgctxt ""
 "@title:group Date: %B is full month name in current locale, and %Y is full "
 "year number"
 msgid "Three Weeks Ago (%B, %Y)"
 msgstr "ତିନି ସପ୍ତାହ ତଳେ (%B, %Y)"
 
-#: kitemviews/kfileitemmodel.cpp:1768
+#: kitemviews/kfileitemmodel.cpp:1791
 msgctxt ""
 "@title:group Date: %B is full month name in current locale, and %Y is full "
 "year number"
 msgid "Earlier on %B, %Y"
 msgstr ""
 
-#: kitemviews/kfileitemmodel.cpp:1771
+#: kitemviews/kfileitemmodel.cpp:1794
 msgctxt ""
 "@title:group The month and year: %B is full month name in current locale, "
 "and %Y is full year number"
 msgid "%B, %Y"
 msgstr "%B, %Y"
 
-#: kitemviews/kfileitemmodel.cpp:1810 kitemviews/kfileitemmodel.cpp:1823
-#: kitemviews/kfileitemmodel.cpp:1836
+#: kitemviews/kfileitemmodel.cpp:1833 kitemviews/kfileitemmodel.cpp:1846
+#: kitemviews/kfileitemmodel.cpp:1859
 msgctxt "@item:intext Access permission, concatenated"
 msgid "Read, "
 msgstr "ପଢ଼ନ୍ତୁ, "
 
-#: kitemviews/kfileitemmodel.cpp:1813 kitemviews/kfileitemmodel.cpp:1826
-#: kitemviews/kfileitemmodel.cpp:1839
+#: kitemviews/kfileitemmodel.cpp:1836 kitemviews/kfileitemmodel.cpp:1849
+#: kitemviews/kfileitemmodel.cpp:1862
 msgctxt "@item:intext Access permission, concatenated"
 msgid "Write, "
 msgstr "ଲେଖନ୍ତୁ, "
 
-#: kitemviews/kfileitemmodel.cpp:1816 kitemviews/kfileitemmodel.cpp:1829
-#: kitemviews/kfileitemmodel.cpp:1842
+#: kitemviews/kfileitemmodel.cpp:1839 kitemviews/kfileitemmodel.cpp:1852
+#: kitemviews/kfileitemmodel.cpp:1865
 msgctxt "@item:intext Access permission, concatenated"
 msgid "Execute, "
 msgstr "ନିଷ୍ପାଦନ କରନ୍ତୁ, "
 
-#: kitemviews/kfileitemmodel.cpp:1818 kitemviews/kfileitemmodel.cpp:1831
-#: kitemviews/kfileitemmodel.cpp:1844
+#: kitemviews/kfileitemmodel.cpp:1841 kitemviews/kfileitemmodel.cpp:1854
+#: kitemviews/kfileitemmodel.cpp:1867
 msgctxt "@item:intext Access permission, concatenated"
 msgid "Forbidden"
 msgstr ""
 
-#: kitemviews/kfileitemmodel.cpp:1846
+#: kitemviews/kfileitemmodel.cpp:1869
 #, fuzzy, kde-format
 #| msgctxt "@title:group Files and folders by permissions"
 #| msgid "(User: %1) (Group: %2) (Others: %3)"
@@ -708,7 +708,7 @@ msgctxt "@title:group Files and folders by permissions"
 msgid "User: %1 | Group: %2 | Others: %3"
 msgstr "(ଚାଳକ: %1) (ଶ୍ରେଣୀ: %2) (ଅନ୍ୟମାନେ: %3)"
 
-#: kitemviews/kfileitemmodel.cpp:1952
+#: kitemviews/kfileitemmodel.cpp:1975
 #, fuzzy
 #| msgctxt "@title"
 #| msgid "File Manager"
@@ -716,7 +716,7 @@ msgctxt "@label"
 msgid "Name"
 msgstr "ଫାଇଲ ପରିଚାଳକ"
 
-#: kitemviews/kfileitemmodel.cpp:1953
+#: kitemviews/kfileitemmodel.cpp:1976
 #, fuzzy
 #| msgctxt "@label"
 #| msgid "Size:"
@@ -724,7 +724,7 @@ msgctxt "@label"
 msgid "Size"
 msgstr "ଆକାର:"
 
-#: kitemviews/kfileitemmodel.cpp:1954
+#: kitemviews/kfileitemmodel.cpp:1977
 #, fuzzy
 #| msgctxt "@action:inmenu"
 #| msgid "Paste"
@@ -732,7 +732,7 @@ msgctxt "@label"
 msgid "Date"
 msgstr "ଲଗାନ୍ତୁ"
 
-#: kitemviews/kfileitemmodel.cpp:1955
+#: kitemviews/kfileitemmodel.cpp:1978
 #, fuzzy
 #| msgctxt "@label"
 #| msgid "Type:"
@@ -740,7 +740,7 @@ msgctxt "@label"
 msgid "Type"
 msgstr "ପ୍ରକାର:"
 
-#: kitemviews/kfileitemmodel.cpp:1956
+#: kitemviews/kfileitemmodel.cpp:1979
 #, fuzzy
 #| msgctxt "@label:textbox"
 #| msgid "Location:"
@@ -748,7 +748,7 @@ msgctxt "@label"
 msgid "Rating"
 msgstr "ସ୍ଥାନ:"
 
-#: kitemviews/kfileitemmodel.cpp:1957
+#: kitemviews/kfileitemmodel.cpp:1980
 #, fuzzy
 #| msgctxt "@label"
 #| msgid "Trash"
@@ -756,7 +756,7 @@ msgctxt "@label"
 msgid "Tags"
 msgstr "ଆବର୍ଜନା ପାତ୍ର"
 
-#: kitemviews/kfileitemmodel.cpp:1958
+#: kitemviews/kfileitemmodel.cpp:1981
 #, fuzzy
 #| msgctxt "@label"
 #| msgid "Add Comment..."
@@ -764,12 +764,12 @@ msgctxt "@label"
 msgid "Comment"
 msgstr "ଟିପ୍ପଣୀ ଯୋଗକରନ୍ତୁ..."
 
-#: kitemviews/kfileitemmodel.cpp:1959
+#: kitemviews/kfileitemmodel.cpp:1982
 msgctxt "@label"
 msgid "Word Count"
 msgstr ""
 
-#: kitemviews/kfileitemmodel.cpp:1959 kitemviews/kfileitemmodel.cpp:1960
+#: kitemviews/kfileitemmodel.cpp:1982 kitemviews/kfileitemmodel.cpp:1983
 #, fuzzy
 #| msgctxt "@info:credit"
 #| msgid "Documentation"
@@ -777,12 +777,12 @@ msgctxt "@label"
 msgid "Document"
 msgstr "ଦଲିଲିକରଣ"
 
-#: kitemviews/kfileitemmodel.cpp:1960
+#: kitemviews/kfileitemmodel.cpp:1983
 msgctxt "@label"
 msgid "Line Count"
 msgstr ""
 
-#: kitemviews/kfileitemmodel.cpp:1961
+#: kitemviews/kfileitemmodel.cpp:1984
 #, fuzzy
 #| msgctxt "@title:group"
 #| msgid "File Previews"
@@ -790,12 +790,12 @@ msgctxt "@label"
 msgid "Image Size"
 msgstr "ଫାଇଲ ପ୍ରାକଦର୍ଶନ"
 
-#: kitemviews/kfileitemmodel.cpp:1961 kitemviews/kfileitemmodel.cpp:1962
+#: kitemviews/kfileitemmodel.cpp:1984 kitemviews/kfileitemmodel.cpp:1985
 msgctxt "@label"
 msgid "Image"
 msgstr ""
 
-#: kitemviews/kfileitemmodel.cpp:1962
+#: kitemviews/kfileitemmodel.cpp:1985
 #, fuzzy
 #| msgctxt "@info:credit"
 #| msgid "Documentation"
@@ -803,7 +803,7 @@ msgctxt "@label"
 msgid "Orientation"
 msgstr "ଦଲିଲିକରଣ"
 
-#: kitemviews/kfileitemmodel.cpp:1963
+#: kitemviews/kfileitemmodel.cpp:1986
 #, fuzzy
 #| msgctxt "@label"
 #| msgid "Artist:"
@@ -811,13 +811,13 @@ msgctxt "@label"
 msgid "Artist"
 msgstr "କଳାକାର:"
 
-#: kitemviews/kfileitemmodel.cpp:1963 kitemviews/kfileitemmodel.cpp:1964
-#: kitemviews/kfileitemmodel.cpp:1965 kitemviews/kfileitemmodel.cpp:1966
+#: kitemviews/kfileitemmodel.cpp:1986 kitemviews/kfileitemmodel.cpp:1987
+#: kitemviews/kfileitemmodel.cpp:1988 kitemviews/kfileitemmodel.cpp:1989
 msgctxt "@label"
 msgid "Audio"
 msgstr ""
 
-#: kitemviews/kfileitemmodel.cpp:1964
+#: kitemviews/kfileitemmodel.cpp:1987
 #, fuzzy
 #| msgctxt "@label"
 #| msgid "Album:"
@@ -825,7 +825,7 @@ msgctxt "@label"
 msgid "Album"
 msgstr "ଆଲବମ:"
 
-#: kitemviews/kfileitemmodel.cpp:1965
+#: kitemviews/kfileitemmodel.cpp:1988
 #, fuzzy
 #| msgctxt "@info:credit"
 #| msgid "Documentation"
@@ -833,7 +833,7 @@ msgctxt "@label"
 msgid "Duration"
 msgstr "ଦଲିଲିକରଣ"
 
-#: kitemviews/kfileitemmodel.cpp:1966
+#: kitemviews/kfileitemmodel.cpp:1989
 #, fuzzy
 #| msgctxt "@label"
 #| msgid "Track:"
@@ -841,7 +841,7 @@ msgctxt "@label"
 msgid "Track"
 msgstr "ଅନୁସରଣ କରନ୍ତୁ:"
 
-#: kitemviews/kfileitemmodel.cpp:1967
+#: kitemviews/kfileitemmodel.cpp:1990
 #, fuzzy
 #| msgctxt "@action:inmenu"
 #| msgid "Paste"
@@ -849,9 +849,9 @@ msgctxt "@label"
 msgid "Path"
 msgstr "ଲଗାନ୍ତୁ"
 
-#: kitemviews/kfileitemmodel.cpp:1967 kitemviews/kfileitemmodel.cpp:1968
-#: kitemviews/kfileitemmodel.cpp:1969 kitemviews/kfileitemmodel.cpp:1970
-#: kitemviews/kfileitemmodel.cpp:1971 kitemviews/kfileitemmodel.cpp:1972
+#: kitemviews/kfileitemmodel.cpp:1990 kitemviews/kfileitemmodel.cpp:1991
+#: kitemviews/kfileitemmodel.cpp:1992 kitemviews/kfileitemmodel.cpp:1993
+#: kitemviews/kfileitemmodel.cpp:1994 kitemviews/kfileitemmodel.cpp:1995
 #, fuzzy
 #| msgctxt "@title:group Name"
 #| msgid "Others"
@@ -859,7 +859,7 @@ msgctxt "@label"
 msgid "Other"
 msgstr "ଅନ୍ୟମାନେ"
 
-#: kitemviews/kfileitemmodel.cpp:1968
+#: kitemviews/kfileitemmodel.cpp:1991
 #, fuzzy
 #| msgctxt "@info:credit"
 #| msgid "Documentation"
@@ -867,22 +867,22 @@ msgctxt "@label"
 msgid "Link Destination"
 msgstr "ଦଲିଲିକରଣ"
 
-#: kitemviews/kfileitemmodel.cpp:1969
+#: kitemviews/kfileitemmodel.cpp:1992
 msgctxt "@label"
 msgid "Copied From"
 msgstr ""
 
-#: kitemviews/kfileitemmodel.cpp:1970
+#: kitemviews/kfileitemmodel.cpp:1993
 msgctxt "@label"
 msgid "Permissions"
 msgstr ""
 
-#: kitemviews/kfileitemmodel.cpp:1971
+#: kitemviews/kfileitemmodel.cpp:1994
 msgctxt "@label"
 msgid "Owner"
 msgstr ""
 
-#: kitemviews/kfileitemmodel.cpp:1972
+#: kitemviews/kfileitemmodel.cpp:1995
 msgctxt "@label"
 msgid "User Group"
 msgstr ""
