@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-03-30 03:42+0100\n"
+"POT-Creation-Date: 2013-04-08 03:39+0200\n"
 "PO-Revision-Date: 2009-01-02 11:49+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -672,51 +672,56 @@ msgctxt "Switch to tab -> Next"
 msgid "Next"
 msgstr ""
 
-#: useractions.cpp:563
+#: useractions.cpp:556
+msgctxt "There's no window available to be attached as tab to this one"
+msgid "None available"
+msgstr ""
+
+#: useractions.cpp:565
 msgid "Switch to Tab"
 msgstr ""
 
-#: useractions.cpp:575
+#: useractions.cpp:577
 msgid "Attach as tab to"
 msgstr ""
 
-#: useractions.cpp:599
+#: useractions.cpp:601
 msgid "Move To &Desktop"
 msgstr ""
 
-#: useractions.cpp:616
+#: useractions.cpp:618
 msgid "Move To &Screen"
 msgstr ""
 
-#: useractions.cpp:634
+#: useractions.cpp:636
 msgid "Ac&tivities"
 msgstr ""
 
-#: useractions.cpp:645
+#: useractions.cpp:647
 msgid "&All Desktops"
 msgstr ""
 
-#: useractions.cpp:671
+#: useractions.cpp:673
 msgctxt "Create a new desktop and move there the window"
 msgid "&New Desktop"
 msgstr ""
 
-#: useractions.cpp:691
+#: useractions.cpp:693
 #, kde-format
 msgctxt "@item:inmenu List of all Screens to send a window to"
 msgid "Screen &%1"
 msgstr ""
 
-#: useractions.cpp:708
+#: useractions.cpp:710
 msgid "&All Activities"
 msgstr ""
 
-#: useractions.cpp:921
+#: useractions.cpp:923
 #, kde-format
 msgid "Activate Window (%1)"
 msgstr ""
 
-#: useractions.cpp:1300
+#: useractions.cpp:1302
 msgid ""
 "The window manager is configured to consider the screen with the mouse on it "
 "as active one.\n"
