@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-04-20 02:23+0000\n"
+"POT-Creation-Date: 2013-04-21 02:24+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -5867,7 +5867,7 @@ msgstr "ସର୍ଭର ଡ଼େସ୍କଟପ"
 #| msgctxt "Comment"
 #| msgid "Display Settings"
 msgctxt "Name"
-msgid "Display Brightness"
+msgid "Screen Brightness"
 msgstr "ପ୍ରଦର୍ଶକ ସଂରଚନା"
 
 #: powerdevil/daemon/actions/bundled/powerdevilbrightnesscontrolaction.desktop:64
@@ -5878,10 +5878,10 @@ msgstr ""
 #: powerdevil/daemon/actions/bundled/powerdevildimdisplayaction.desktop:6
 #, fuzzy
 #| msgctxt "Name"
-#| msgid "Display"
+#| msgid "Screen Saver"
 msgctxt "Name"
-msgid "Dim Display"
-msgstr "ପ୍ରଦର୍ଶକ"
+msgid "Dim Screen"
+msgstr "ପରଦା ସଂରକ୍ଷକ"
 
 #: powerdevil/daemon/actions/bundled/powerdevildimdisplayaction.desktop:63
 msgctxt "Comment"
@@ -6009,6 +6009,16 @@ msgstr "ପ୍ରଦର୍ଶକ ସଂରଚନା"
 #: powerdevil/daemon/backends/upower/backlight_helper_actions.actions:235
 msgctxt "Description"
 msgid "System policies prevent you from setting the brightness level."
+msgstr ""
+
+#: powerdevil/daemon/backends/upower/backlight_helper_actions.actions:293
+msgctxt "Name"
+msgid "Get syspath"
+msgstr ""
+
+#: powerdevil/daemon/backends/upower/backlight_helper_actions.actions:294
+msgctxt "Description"
+msgid "System policies prevent you from getting the syspath"
 msgstr ""
 
 #: powerdevil/daemon/backends/upower/powerdevilupowerbackend.desktop:7
@@ -6925,6 +6935,20 @@ msgstr "ଅକ୍ଷରରୂପ ପ୍ରଦର୍ଶକ"
 msgctxt "Comment"
 msgid "The KDE 4 icon view style"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Display Settings"
+#~ msgctxt "Name"
+#~ msgid "Display Brightness"
+#~ msgstr "ପ୍ରଦର୍ଶକ ସଂରଚନା"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Display"
+#~ msgctxt "Name"
+#~ msgid "Dim Display"
+#~ msgstr "ପ୍ରଦର୍ଶକ"
 
 #, fuzzy
 #~| msgctxt "Name"
