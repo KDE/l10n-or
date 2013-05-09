@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-05-09 02:12+0200\n"
+"POT-Creation-Date: 2013-05-09 07:00+0000\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1659,9 +1659,9 @@ msgctxt "@label"
 msgid "Select which additional information should be shown:"
 msgstr ""
 
-#. i18n: ectx: label, entry (UseSystemFont), group (CompactMode)
 #. i18n: ectx: label, entry (UseSystemFont), group (DetailsMode)
 #. i18n: ectx: label, entry (UseSystemFont), group (IconsMode)
+#. i18n: ectx: label, entry (UseSystemFont), group (CompactMode)
 #: settings/dolphin_compactmodesettings.kcfg:12
 #: settings/dolphin_detailsmodesettings.kcfg:16
 #: settings/dolphin_iconsmodesettings.kcfg:12
@@ -1671,9 +1671,9 @@ msgstr ""
 msgid "Use system font"
 msgstr "ତନ୍ତ୍ର ଅକ୍ଷରରୂପ"
 
-#. i18n: ectx: label, entry (FontFamily), group (CompactMode)
 #. i18n: ectx: label, entry (FontFamily), group (DetailsMode)
 #. i18n: ectx: label, entry (FontFamily), group (IconsMode)
+#. i18n: ectx: label, entry (FontFamily), group (CompactMode)
 #: settings/dolphin_compactmodesettings.kcfg:16
 #: settings/dolphin_detailsmodesettings.kcfg:12
 #: settings/dolphin_iconsmodesettings.kcfg:16
@@ -1683,9 +1683,9 @@ msgstr "ତନ୍ତ୍ର ଅକ୍ଷରରୂପ"
 msgid "Font family"
 msgstr "ଆକାର ସମଷ୍ଟି:"
 
-#. i18n: ectx: label, entry (FontSize), group (CompactMode)
 #. i18n: ectx: label, entry (FontSize), group (DetailsMode)
 #. i18n: ectx: label, entry (FontSize), group (IconsMode)
+#. i18n: ectx: label, entry (FontSize), group (CompactMode)
 #: settings/dolphin_compactmodesettings.kcfg:20
 #: settings/dolphin_detailsmodesettings.kcfg:20
 #: settings/dolphin_iconsmodesettings.kcfg:20
@@ -1695,18 +1695,18 @@ msgstr "ଆକାର ସମଷ୍ଟି:"
 msgid "Font size"
 msgstr "ଆକାର ସମଷ୍ଟି:"
 
-#. i18n: ectx: label, entry (ItalicFont), group (CompactMode)
 #. i18n: ectx: label, entry (ItalicFont), group (DetailsMode)
 #. i18n: ectx: label, entry (ItalicFont), group (IconsMode)
+#. i18n: ectx: label, entry (ItalicFont), group (CompactMode)
 #: settings/dolphin_compactmodesettings.kcfg:24
 #: settings/dolphin_detailsmodesettings.kcfg:24
 #: settings/dolphin_iconsmodesettings.kcfg:24
 msgid "Italic"
 msgstr ""
 
-#. i18n: ectx: label, entry (FontWeight), group (CompactMode)
 #. i18n: ectx: label, entry (FontWeight), group (DetailsMode)
 #. i18n: ectx: label, entry (FontWeight), group (IconsMode)
+#. i18n: ectx: label, entry (FontWeight), group (CompactMode)
 #: settings/dolphin_compactmodesettings.kcfg:28
 #: settings/dolphin_detailsmodesettings.kcfg:28
 #: settings/dolphin_iconsmodesettings.kcfg:28
@@ -1716,9 +1716,9 @@ msgstr ""
 msgid "Font weight"
 msgstr "ଆକାର ସମଷ୍ଟି:"
 
-#. i18n: ectx: label, entry (IconSize), group (CompactMode)
 #. i18n: ectx: label, entry (IconSize), group (DetailsMode)
 #. i18n: ectx: label, entry (IconSize), group (IconsMode)
+#. i18n: ectx: label, entry (IconSize), group (CompactMode)
 #: settings/dolphin_compactmodesettings.kcfg:32
 #: settings/dolphin_detailsmodesettings.kcfg:32
 #: settings/dolphin_iconsmodesettings.kcfg:32
@@ -1728,9 +1728,9 @@ msgstr "ଆକାର ସମଷ୍ଟି:"
 msgid "Icon size"
 msgstr "ଚିତ୍ରସଂକେତ ଆକାର"
 
-#. i18n: ectx: label, entry (PreviewSize), group (CompactMode)
 #. i18n: ectx: label, entry (PreviewSize), group (DetailsMode)
 #. i18n: ectx: label, entry (PreviewSize), group (IconsMode)
+#. i18n: ectx: label, entry (PreviewSize), group (CompactMode)
 #: settings/dolphin_compactmodesettings.kcfg:36
 #: settings/dolphin_detailsmodesettings.kcfg:36
 #: settings/dolphin_iconsmodesettings.kcfg:36
