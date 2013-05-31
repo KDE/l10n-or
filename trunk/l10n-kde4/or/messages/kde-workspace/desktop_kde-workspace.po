@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-05-26 01:48+0000\n"
+"POT-Creation-Date: 2013-05-31 01:51+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -676,17 +676,17 @@ msgctxt "Name"
 msgid "Menubar manager"
 msgstr "କ୍ୟାଲେଣ୍ଡର ପରିଚାଳକ"
 
-#: kcontrol/style/kcmstyle.notifyrc:41
+#: kcontrol/style/kcmstyle.notifyrc:42
 msgctxt "Comment"
 msgid "Menubar exporter"
 msgstr ""
 
-#: kcontrol/style/kcmstyle.notifyrc:80
+#: kcontrol/style/kcmstyle.notifyrc:82
 msgctxt "Name"
 msgid "Menubar changed"
 msgstr ""
 
-#: kcontrol/style/kcmstyle.notifyrc:118
+#: kcontrol/style/kcmstyle.notifyrc:121
 msgctxt "Comment"
 msgid "Settings changes will take effect only on application restart"
 msgstr ""
@@ -2971,7 +2971,7 @@ msgctxt "Comment"
 msgid "Animation for a window going to maximize/restore from maximize"
 msgstr ""
 
-#: kwin/effects/maximize/package/metadata.desktop:39
+#: kwin/effects/maximize/package/metadata.desktop:40
 msgctxt "Name"
 msgid "Maximize"
 msgstr ""
@@ -3053,7 +3053,7 @@ msgctxt "Name"
 msgid "Screen Edge"
 msgstr "ପରଦା ସଂରକ୍ଷକ"
 
-#: kwin/effects/screenedge/screenedgeeffect.desktop:32
+#: kwin/effects/screenedge/screenedgeeffect.desktop:33
 msgctxt "Comment"
 msgid "Highlights a screen edge when approaching"
 msgstr ""
@@ -3325,7 +3325,7 @@ msgctxt "Comment"
 msgid "Configure mouse actions on windows"
 msgstr "ଆବର୍ଜନା ପାତ୍ର ସଂରଚନାକୁ ବିନ୍ୟାସ କରନ୍ତୁ "
 
-#: kwin/kcmkwin/kwinoptions/kwinactions.desktop:127
+#: kwin/kcmkwin/kwinoptions/kwinactions.desktop:130
 msgctxt "X-KDE-Keywords"
 msgid ""
 "shade,maximise,maximize,minimize,minimise,lower,operations menu,titlebar,"
@@ -3515,7 +3515,7 @@ msgctxt "Name"
 msgid "Graphics Reset"
 msgstr "ଆଲେଖି"
 
-#: kwin/kwin.notifyrc:213
+#: kwin/kwin.notifyrc:216
 msgctxt "Comment"
 msgid "A graphics reset event occurred"
 msgstr ""
@@ -3546,7 +3546,7 @@ msgctxt "Name"
 msgid "Synchronize Skip Switcher with Taskbar"
 msgstr ""
 
-#: kwin/scripts/synchronizeskipswitcher/metadata.desktop:40
+#: kwin/scripts/synchronizeskipswitcher/metadata.desktop:41
 msgctxt "Comment"
 msgid ""
 "Hides all windows marked as Skip Taskbar to be also excluded from window "
@@ -3702,7 +3702,7 @@ msgctxt "Name"
 msgid "Previews"
 msgstr "ଫାଇଲ ପ୍ରାକଦର୍ଶନ"
 
-#: kwin/tabbox/qml/desktops/previews/metadata.desktop:27
+#: kwin/tabbox/qml/desktops/previews/metadata.desktop:29
 msgctxt "Comment"
 msgid "A desktop switcher layout with previews of the desktops"
 msgstr ""
@@ -4652,7 +4652,7 @@ msgctxt "Name"
 msgid "im9.eu"
 msgstr ""
 
-#: plasma/generic/dataengines/share/backends/im9/metadata.desktop:23
+#: plasma/generic/dataengines/share/backends/im9/metadata.desktop:26
 msgctxt "Comment"
 msgid "Allows images to be shared using the im9.eu service"
 msgstr ""
@@ -4685,7 +4685,7 @@ msgctxt "Name"
 msgid "paste.kde.org"
 msgstr ""
 
-#: plasma/generic/dataengines/share/backends/kde/metadata.desktop:29
+#: plasma/generic/dataengines/share/backends/kde/metadata.desktop:30
 msgctxt "Comment"
 msgid "Allows text to be shared using the kde.org service"
 msgstr ""
@@ -5463,7 +5463,7 @@ msgctxt "Name"
 msgid "Screen Brightness"
 msgstr "ପ୍ରଦର୍ଶକ ସଂରଚନା"
 
-#: powerdevil/daemon/actions/bundled/powerdevilbrightnesscontrolaction.desktop:31
+#: powerdevil/daemon/actions/bundled/powerdevilbrightnesscontrolaction.desktop:33
 msgctxt "Comment"
 msgid "Basic Controls for brightness"
 msgstr ""
@@ -5476,7 +5476,7 @@ msgctxt "Name"
 msgid "Dim Screen"
 msgstr "ପରଦା ସଂରକ୍ଷକ"
 
-#: powerdevil/daemon/actions/bundled/powerdevildimdisplayaction.desktop:31
+#: powerdevil/daemon/actions/bundled/powerdevildimdisplayaction.desktop:33
 msgctxt "Comment"
 msgid "Dims gradually the display on a time basis"
 msgstr ""
@@ -5499,7 +5499,7 @@ msgctxt "Name"
 msgid "Keyboard Backlight"
 msgstr "କିବୋର୍ଡ଼ ବିନ୍ୟାସ"
 
-#: powerdevil/daemon/actions/bundled/powerdevilkeyboardbrightnesscontrolaction.desktop:39
+#: powerdevil/daemon/actions/bundled/powerdevilkeyboardbrightnesscontrolaction.desktop:40
 msgctxt "Comment"
 msgid "Basic Controls for the keyboard backlight brightness"
 msgstr ""
@@ -5609,7 +5609,7 @@ msgctxt "Name"
 msgid "Get syspath"
 msgstr ""
 
-#: powerdevil/daemon/backends/upower/backlight_helper_actions.actions:317
+#: powerdevil/daemon/backends/upower/backlight_helper_actions.actions:319
 msgctxt "Description"
 msgid "System policies prevent you from getting the syspath"
 msgstr ""
@@ -5860,7 +5860,7 @@ msgstr ""
 #: solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:654
 #: solid-actions-kcm/device-actions/solid-device-PortableMediaPlayer.desktop:146
 #: solid-actions-kcm/device-actions/solid-device-Processor.desktop:286
-#: solid-actions-kcm/device-actions/solid-device-SerialInterface.desktop:181
+#: solid-actions-kcm/device-actions/solid-device-SerialInterface.desktop:182
 #: solid-actions-kcm/device-actions/solid-device-SmartCardReader.desktop:74
 #: solid-actions-kcm/device-actions/solid-device-StorageAccess.desktop:148
 #: solid-actions-kcm/device-actions/solid-device-StorageDrive.desktop:365
