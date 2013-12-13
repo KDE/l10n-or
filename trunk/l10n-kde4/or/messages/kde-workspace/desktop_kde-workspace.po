@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-12-11 01:49+0000\n"
+"POT-Creation-Date: 2013-12-13 02:02+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -3549,7 +3549,7 @@ msgstr ""
 #| msgctxt "Name"
 #| msgid "Desktop Sessions"
 msgctxt "Name"
-msgid "Text Icons"
+msgid "Text Only"
 msgstr "ଡ଼େସ୍କଟପ ଅଧିବେଶନଗୁଡ଼ିକ"
 
 #: kwin/tabbox/qml/clients/text/metadata.desktop:45
@@ -3568,19 +3568,6 @@ msgstr "କ୍ଷୁଦ୍ରଚିତ୍ର ନିୟନ୍ତ୍ରକ"
 #: kwin/tabbox/qml/clients/thumbnails/metadata.desktop:45
 msgctxt "Comment"
 msgid "A window switcher layout using live thumbnails"
-msgstr ""
-
-#: kwin/tabbox/qml/clients/window_strip/metadata.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "MS Windows 9x"
-msgctxt "Name"
-msgid "Window Strip"
-msgstr "MS Windows 9x"
-
-#: kwin/tabbox/qml/clients/window_strip/metadata.desktop:43
-msgctxt "Comment"
-msgid "Window switcher layout for Plasma Active"
 msgstr ""
 
 #: kwin/tabbox/qml/desktops/informative/metadata.desktop:47
@@ -6230,6 +6217,13 @@ msgstr "ଅକ୍ଷରରୂପ ପ୍ରଦର୍ଶକ"
 msgctxt "Comment"
 msgid "The KDE 4 icon view style"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "MS Windows 9x"
+#~ msgctxt "Name"
+#~ msgid "Window Strip"
+#~ msgstr "MS Windows 9x"
 
 #, fuzzy
 #~| msgctxt "Name"
