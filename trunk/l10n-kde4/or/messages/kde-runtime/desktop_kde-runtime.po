@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-12-13 02:02+0000\n"
+"POT-Creation-Date: 2013-12-15 01:52+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -461,6 +461,19 @@ msgctxt "Name"
 msgid "Application Manuals"
 msgstr "ପ୍ରୟୋଗ ସହାୟକ ପୁସ୍ତକ"
 
+#: khelpcenter/plugins/browsercontrolmodules.desktop:2
+msgctxt "Name"
+msgid "Browser Settings Modules"
+msgstr ""
+
+#: khelpcenter/plugins/filemanagercontrolmodules.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "File Manager - Super User Mode"
+msgctxt "Name"
+msgid "Filemanager Settings Modules"
+msgstr "ଫାଇଲ ପରିଚାଳକ - ମୂଖ୍ୟ ଚାଳକ ସ୍ଥିତି"
+
 #: khelpcenter/plugins/fundamentals.desktop:4
 #, fuzzy
 #| msgctxt "Name"
@@ -475,9 +488,12 @@ msgid "Browse Info Pages"
 msgstr "ବ୍ରାଉଜ ସୂଚନା ପୃଷ୍ଠାଗୁଡ଼ିକ"
 
 #: khelpcenter/plugins/kcontrolmodules.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "System Settings"
 msgctxt "Name"
-msgid "Control Center Modules"
-msgstr "ନିୟନ୍ତ୍ରଣ କେନ୍ଦ୍ର ଏକକାଂଶଗୁଡ଼ିକ"
+msgid "System Settings Modules"
+msgstr "ତନ୍ତ୍ର ବିନ୍ୟାସ"
 
 #: khelpcenter/plugins/kicmodules.desktop:2
 msgctxt "Name"
@@ -488,6 +504,14 @@ msgstr "KInfoCenter ଏକକାଂଶଗୁଡ଼ିକ"
 msgctxt "Name"
 msgid "Kioslaves"
 msgstr "Kioslaves"
+
+#: khelpcenter/plugins/konquerorcontrolmodules.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Control Center Modules"
+msgctxt "Name"
+msgid "Konqueror Settings Modules"
+msgstr "ନିୟନ୍ତ୍ରଣ କେନ୍ଦ୍ର ଏକକାଂଶଗୁଡ଼ିକ"
 
 #: khelpcenter/plugins/Manpages/.directory:2
 msgctxt "Name"
@@ -551,6 +575,14 @@ msgstr "(n) ନୂତନ"
 msgctxt "Name"
 msgid "Online Help"
 msgstr "ଡଲଫିନ ଦୃଶ୍ୟ"
+
+#: khelpcenter/plugins/othercontrolmodules.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "System Settings"
+msgctxt "Name"
+msgid "Other Settings Modules"
+msgstr "ତନ୍ତ୍ର ବିନ୍ୟାସ"
 
 #: khelpcenter/plugins/plasma.desktop:4
 msgctxt "Name"
@@ -6674,10 +6706,6 @@ msgstr ""
 #~ msgstr "KDE ଫାଇଲ ପରିଚାଳକ ଏବଂ ୱେବ ବ୍ରାଉଜର"
 
 #~ msgctxt "Name"
-#~ msgid "File Manager - Super User Mode"
-#~ msgstr "ଫାଇଲ ପରିଚାଳକ - ମୂଖ୍ୟ ଚାଳକ ସ୍ଥିତି"
-
-#~ msgctxt "Name"
 #~ msgid "Text-to-Speech"
 #~ msgstr "Text-to-Speech"
 
@@ -9882,13 +9910,6 @@ msgstr ""
 #~ msgctxt "Name"
 #~ msgid "System Settings External Application"
 #~ msgstr "ତନ୍ତ୍ର ବିନ୍ୟାସ ବିଭାଗ"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "System Settings"
-#~ msgctxt "Name"
-#~ msgid "System Settings View"
-#~ msgstr "ତନ୍ତ୍ର ବିନ୍ୟାସ"
 
 #, fuzzy
 #~| msgctxt "Name"
