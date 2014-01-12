@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-01-07 01:51+0000\n"
+"POT-Creation-Date: 2014-01-12 01:56+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -631,692 +631,6 @@ msgctxt "X-KDE-Keywords"
 msgid ""
 "style,styles,look,widget,icons,toolbars,text,highlight,apps,KDE applications,"
 "theme,plasma"
-msgstr ""
-
-#: kdm/kcm/background/patterns/fish.desktop:2
-msgctxt "Comment"
-msgid "Fish Net"
-msgstr "ଫିସ ନେଟ"
-
-#: kdm/kcm/background/patterns/flowers.desktop:2
-msgctxt "Comment"
-msgid "Flowers"
-msgstr "ଫୁଲ"
-
-#: kdm/kcm/background/patterns/night-rock.desktop:2
-msgctxt "Comment"
-msgid "Night Rock by Tigert"
-msgstr "ବାଘ ଦ୍ୱାରା ରାତ୍ରି ଭ୍ରମଣ"
-
-#: kdm/kcm/background/patterns/pavement.desktop:2
-msgctxt "Comment"
-msgid "Pavement"
-msgstr "ପାହାଚ"
-
-#: kdm/kcm/background/patterns/rattan.desktop:2
-msgctxt "Comment"
-msgid "Rattan"
-msgstr "Rattan"
-
-#: kdm/kcm/background/patterns/stonewall2.desktop:2
-msgctxt "Comment"
-msgid "Stonewall 2 by Tigert"
-msgstr "Tigert ଦ୍ୱାରା Stonewall 2"
-
-#: kdm/kcm/background/patterns/triangles.desktop:2
-msgctxt "Comment"
-msgid "Triangles"
-msgstr "ତ୍ରିଭୁଜ"
-
-#: kdm/kcm/background/programs/xearth.desktop:2
-msgctxt "Comment"
-msgid "XEarth by Kirk Johnson"
-msgstr "Kirk Johnson ଦ୍ୱାରା XEarth"
-
-#: kdm/kcm/background/programs/xglobe.desktop:2
-msgctxt "Comment"
-msgid "XGlobe by Thorsten Scheuermann"
-msgstr "Thorsten Scheuermann ଦ୍ୱାରା XGlobe"
-
-#: kdm/kcm/background/programs/xplanet.desktop:3
-msgctxt "Comment"
-msgid "XPlanet by Hari Nair"
-msgstr "Hari Nair ଦ୍ୱାରା XPlanet"
-
-#: kdm/kcm/kcmkdm_actions.actions:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Date and Time"
-msgctxt "Name"
-msgid "Login Manager Control Module"
-msgstr "ତାରିଖ ଏବଂ ସମୟ"
-
-#: kdm/kcm/kcmkdm_actions.actions:67
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Date and time settings"
-msgctxt "Name"
-msgid "Save the Login Manager settings"
-msgstr "ତାରିଖ ଏବଂ ସମୟ ସଂରଚନା"
-
-#: kdm/kcm/kcmkdm_actions.actions:128
-msgctxt "Description"
-msgid ""
-"Administrator authorization is required to change the Login Manager settings"
-msgstr ""
-
-#: kdm/kcm/kcmkdm_actions.actions:191
-msgctxt "Name"
-msgid "Manage user images shown in the Login Manager"
-msgstr ""
-
-#: kdm/kcm/kcmkdm_actions.actions:252
-msgctxt "Description"
-msgid ""
-"Administrator authorization is required to manage user images for the Login "
-"Manager"
-msgstr ""
-
-#: kdm/kcm/kcmkdm_actions.actions:316
-msgctxt "Name"
-msgid "Manage themes for the Login Manager"
-msgstr ""
-
-#: kdm/kcm/kcmkdm_actions.actions:377
-msgctxt "Description"
-msgid ""
-"Administrator authorization is required to manage themes for the Login "
-"Manager"
-msgstr ""
-
-#: kdm/kcm/kdm.desktop:13
-msgctxt "Name"
-msgid "Login Screen"
-msgstr ""
-
-#: kdm/kcm/kdm.desktop:78
-msgctxt "Comment"
-msgid "Configure the login manager (KDM)"
-msgstr "ଲଗଇନ ପରିଚାଳକଙ୍କୁ ବିନ୍ୟାସ କରନ୍ତୁ (KDM)"
-
-#: kdm/kcm/kdm.desktop:170
-msgctxt "X-KDE-Keywords"
-msgid ""
-"kdm,display manager,xdm,users,login,greeting,Logo,styles,language,country,"
-"fonts,background,wallpapers,sessions,shutdown,restart"
-msgstr ""
-
-#: kdm/kfrontend/pics/stripes.png.desktop:3
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Services"
-msgctxt "Name"
-msgid "Stripes"
-msgstr "ସର୍ଭିସଗୁଡ଼ିକ"
-
-#: kdm/kfrontend/sessions/9wm.desktop:5
-msgctxt "Name"
-msgid "9WM"
-msgstr "9WM"
-
-#: kdm/kfrontend/sessions/9wm.desktop:95
-msgctxt "Comment"
-msgid "An emulation of the Plan 9 window manager 8-1/2"
-msgstr ""
-
-#: kdm/kfrontend/sessions/aewm.desktop:5
-msgctxt "Name"
-msgid "AEWM"
-msgstr ""
-
-#: kdm/kfrontend/sessions/aewm.desktop:94
-msgctxt "Comment"
-msgid "A minimalist window manager"
-msgstr ""
-
-#: kdm/kfrontend/sessions/aewm++.desktop:5
-msgctxt "Name"
-msgid "AEWM++"
-msgstr ""
-
-#: kdm/kfrontend/sessions/aewm++.desktop:94
-msgctxt "Comment"
-msgid ""
-"A minimal window manager based on AEWM, enhanced by virtual desktops and "
-"partial GNOME support"
-msgstr ""
-
-#: kdm/kfrontend/sessions/afterstep.desktop:5
-msgctxt "Name"
-msgid "AfterStep"
-msgstr ""
-
-#: kdm/kfrontend/sessions/afterstep.desktop:93
-msgctxt "Comment"
-msgid "A window manager with the NeXTStep look and feel, based on FVWM"
-msgstr ""
-
-#: kdm/kfrontend/sessions/amaterus.desktop:5
-msgctxt "Name"
-msgid "AMATERUS"
-msgstr ""
-
-#: kdm/kfrontend/sessions/amaterus.desktop:93
-msgctxt "Comment"
-msgid "A GTK+ based window manager with a window grouping feature"
-msgstr ""
-
-#: kdm/kfrontend/sessions/amiwm.desktop:5
-msgctxt "Name"
-msgid "AmiWM"
-msgstr ""
-
-#: kdm/kfrontend/sessions/amiwm.desktop:93
-msgctxt "Comment"
-msgid "The Amiga look-alike window manager"
-msgstr ""
-
-#: kdm/kfrontend/sessions/asclassic.desktop:5
-msgctxt "Name"
-msgid "ASClassic"
-msgstr ""
-
-#: kdm/kfrontend/sessions/asclassic.desktop:93
-msgctxt "Comment"
-msgid "AfterStep Classic, a window manager based on AfterStep v1.1"
-msgstr ""
-
-#: kdm/kfrontend/sessions/awesome.desktop:5
-msgctxt "Name"
-msgid "awesome"
-msgstr ""
-
-#: kdm/kfrontend/sessions/awesome.desktop:74
-msgctxt "Comment"
-msgid "Highly configurable framework window manager"
-msgstr ""
-
-#: kdm/kfrontend/sessions/blackbox.desktop:5
-msgctxt "Name"
-msgid "Blackbox"
-msgstr ""
-
-#: kdm/kfrontend/sessions/blackbox.desktop:93
-msgctxt "Comment"
-msgid "A fast & light window manager"
-msgstr ""
-
-#: kdm/kfrontend/sessions/cde.desktop:5 kstyles/themes/qtcde.themerc:2
-msgctxt "Name"
-msgid "CDE"
-msgstr "CDE"
-
-#: kdm/kfrontend/sessions/cde.desktop:96
-msgctxt "Comment"
-msgid ""
-"The Common Desktop Environment, a proprietary industry standard desktop "
-"environment"
-msgstr ""
-
-#: kdm/kfrontend/sessions/ctwm.desktop:5
-msgctxt "Name"
-msgid "CTWM"
-msgstr ""
-
-#: kdm/kfrontend/sessions/ctwm.desktop:93
-msgctxt "Comment"
-msgid "Claude's Tab Window Manager, TWM enhanced by virtual screens, etc."
-msgstr ""
-
-#: kdm/kfrontend/sessions/cwwm.desktop:5
-msgctxt "Name"
-msgid "CWWM"
-msgstr ""
-
-#: kdm/kfrontend/sessions/cwwm.desktop:93
-msgctxt "Comment"
-msgid "The ChezWam Window Manager, a minimalist window manager based on EvilWM"
-msgstr ""
-
-#: kdm/kfrontend/sessions/e16.desktop:5
-msgctxt "Name"
-msgid "Enlightenment DR16"
-msgstr ""
-
-#: kdm/kfrontend/sessions/e16.desktop:86
-#: kdm/kfrontend/sessions/enlightenment.desktop:94
-msgctxt "Comment"
-msgid "An extremely themable very feature-rich window manager"
-msgstr ""
-
-#: kdm/kfrontend/sessions/enlightenment.desktop:5
-msgctxt "Name"
-msgid "Enlightenment"
-msgstr ""
-
-#: kdm/kfrontend/sessions/evilwm.desktop:5
-msgctxt "Name"
-msgid "EvilWM"
-msgstr ""
-
-#: kdm/kfrontend/sessions/evilwm.desktop:93
-msgctxt "Comment"
-msgid "A minimalist window manager based on AEWM"
-msgstr ""
-
-#: kdm/kfrontend/sessions/fluxbox.desktop:5
-msgctxt "Name"
-msgid "Fluxbox"
-msgstr ""
-
-#: kdm/kfrontend/sessions/fluxbox.desktop:93
-msgctxt "Comment"
-msgid "A highly configurable and low resource window manager based on Blackbox"
-msgstr ""
-
-#: kdm/kfrontend/sessions/flwm.desktop:5
-msgctxt "Name"
-msgid "FLWM"
-msgstr ""
-
-#: kdm/kfrontend/sessions/flwm.desktop:93
-msgctxt "Comment"
-msgid "The Fast Light Window Manager, based primarily on WM2"
-msgstr ""
-
-#: kdm/kfrontend/sessions/fvwm95.desktop:5
-msgctxt "Name"
-msgid "FVWM95"
-msgstr ""
-
-#: kdm/kfrontend/sessions/fvwm95.desktop:93
-msgctxt "Comment"
-msgid "A Windows 95 look-alike derivative of FVWM"
-msgstr ""
-
-#: kdm/kfrontend/sessions/fvwm.desktop:5
-msgctxt "Name"
-msgid "FVWM"
-msgstr ""
-
-#: kdm/kfrontend/sessions/fvwm.desktop:93
-msgctxt "Comment"
-msgid "A powerful ICCCM-compliant multiple virtual desktop window manager"
-msgstr ""
-
-#: kdm/kfrontend/sessions/gnome.desktop:5
-msgctxt "Name"
-msgid "GNOME"
-msgstr ""
-
-#: kdm/kfrontend/sessions/gnome.desktop:95
-msgctxt "Comment"
-msgid ""
-"The GNU Network Object Model Environment. A complete, free and easy-to-use "
-"desktop environment"
-msgstr ""
-
-#: kdm/kfrontend/sessions/golem.desktop:5
-msgctxt "Name"
-msgid "Golem"
-msgstr ""
-
-#: kdm/kfrontend/sessions/golem.desktop:94
-msgctxt "Comment"
-msgid "A lightweight window manager"
-msgstr ""
-
-#: kdm/kfrontend/sessions/icewm.desktop:5
-msgctxt "Name"
-msgid "IceWM"
-msgstr ""
-
-#: kdm/kfrontend/sessions/icewm.desktop:94
-msgctxt "Comment"
-msgid "A Windows 95-OS/2-Motif-like window manager"
-msgstr ""
-
-#: kdm/kfrontend/sessions/ion.desktop:5
-msgctxt "Name"
-msgid "Ion"
-msgstr ""
-
-#: kdm/kfrontend/sessions/ion.desktop:93
-msgctxt "Comment"
-msgid "A keyboard-friendly window manager with tiled windows, based on PWM"
-msgstr ""
-
-#: kdm/kfrontend/sessions/kde-plasma.desktop.cmake:6
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "KDE Performance"
-msgctxt "Name"
-msgid "KDE Plasma Workspace"
-msgstr "KDE କାର୍ଯଦକ୍ଷତା"
-
-#: kdm/kfrontend/sessions/kde-plasma.desktop.cmake:58
-msgctxt "Comment"
-msgid "The desktop made by KDE"
-msgstr ""
-
-#: kdm/kfrontend/sessions/kde-plasma-safe.desktop.cmake:6
-msgctxt "Name"
-msgid "KDE Plasma Workspace (failsafe session)"
-msgstr ""
-
-#: kdm/kfrontend/sessions/kde-plasma-safe.desktop.cmake:57
-msgctxt "Comment"
-msgid "The desktop made by KDE (failsafe session)"
-msgstr ""
-
-#: kdm/kfrontend/sessions/larswm.desktop:5
-msgctxt "Name"
-msgid "LarsWM"
-msgstr ""
-
-#: kdm/kfrontend/sessions/larswm.desktop:93
-msgctxt "Comment"
-msgid "The Lars Window Manager, based on 9WM, supports tiled windows"
-msgstr ""
-
-#: kdm/kfrontend/sessions/lwm.desktop:5
-msgctxt "Name"
-msgid "LWM"
-msgstr ""
-
-#: kdm/kfrontend/sessions/lwm.desktop:93
-msgctxt "Comment"
-msgid "The Lightweight Window Manager. A non-configurable, bare window manager"
-msgstr ""
-
-#: kdm/kfrontend/sessions/lxde.desktop:5
-msgctxt "Name"
-msgid "LXDE"
-msgstr ""
-
-#: kdm/kfrontend/sessions/lxde.desktop:70
-msgctxt "Comment"
-msgid "Lightweight X11 desktop environment"
-msgstr ""
-
-#: kdm/kfrontend/sessions/matchbox.desktop:5
-msgctxt "Name"
-msgid "Matchbox"
-msgstr ""
-
-#: kdm/kfrontend/sessions/matchbox.desktop:92
-msgctxt "Comment"
-msgid "A window manager for handheld devices"
-msgstr ""
-
-#: kdm/kfrontend/sessions/metacity.desktop:5
-msgctxt "Name"
-msgid "Metacity"
-msgstr ""
-
-#: kdm/kfrontend/sessions/metacity.desktop:94
-msgctxt "Comment"
-msgid "A lightweight GTK2 based window manager"
-msgstr ""
-
-#: kdm/kfrontend/sessions/mwm.desktop:5
-msgctxt "Name"
-msgid "MWM"
-msgstr ""
-
-#: kdm/kfrontend/sessions/mwm.desktop:94
-msgctxt "Comment"
-msgid "The Motif Window Manager"
-msgstr ""
-
-#: kdm/kfrontend/sessions/olvwm.desktop:5
-msgctxt "Name"
-msgid "OLVWM"
-msgstr ""
-
-#: kdm/kfrontend/sessions/olvwm.desktop:94
-msgctxt "Comment"
-msgid ""
-"The OpenLook Virtual Window Manager. OLWM enhanced for handling of virtual "
-"desktops"
-msgstr ""
-
-#: kdm/kfrontend/sessions/olwm.desktop:5
-msgctxt "Name"
-msgid "OLWM"
-msgstr ""
-
-#: kdm/kfrontend/sessions/olwm.desktop:94
-msgctxt "Comment"
-msgid "The traditional Open Look Window Manager"
-msgstr ""
-
-#: kdm/kfrontend/sessions/openbox.desktop:5
-msgctxt "Name"
-msgid "Openbox"
-msgstr "Openbox"
-
-#: kdm/kfrontend/sessions/openbox.desktop:96
-msgctxt "Comment"
-msgid "A lightweight window manager based on Blackbox"
-msgstr ""
-
-#: kdm/kfrontend/sessions/oroborus.desktop:5
-msgctxt "Name"
-msgid "Oroborus"
-msgstr ""
-
-#: kdm/kfrontend/sessions/oroborus.desktop:93
-msgctxt "Comment"
-msgid "A lightweight themeable window manager"
-msgstr ""
-
-#: kdm/kfrontend/sessions/phluid.desktop:5
-msgctxt "Name"
-msgid "Phluid"
-msgstr ""
-
-#: kdm/kfrontend/sessions/phluid.desktop:93
-msgctxt "Comment"
-msgid "An Imlib2 based window manager"
-msgstr ""
-
-#: kdm/kfrontend/sessions/pwm.desktop:5
-msgctxt "Name"
-msgid "PWM"
-msgstr ""
-
-#: kdm/kfrontend/sessions/pwm.desktop:93
-msgctxt "Comment"
-msgid ""
-"A lightweight window manager able to attach multiple windows to one frame"
-msgstr ""
-
-#: kdm/kfrontend/sessions/qvwm.desktop:5
-msgctxt "Name"
-msgid "QVWM"
-msgstr ""
-
-#: kdm/kfrontend/sessions/qvwm.desktop:94
-msgctxt "Comment"
-msgid "A Windows 95 like window manager"
-msgstr ""
-
-#: kdm/kfrontend/sessions/ratpoison.desktop:5
-msgctxt "Name"
-msgid "Ratpoison"
-msgstr ""
-
-#: kdm/kfrontend/sessions/ratpoison.desktop:94
-msgctxt "Comment"
-msgid "A simple keyboard-only window manager modeled after Screen"
-msgstr ""
-
-#: kdm/kfrontend/sessions/sapphire.desktop:5
-msgctxt "Name"
-msgid "Sapphire"
-msgstr ""
-
-#: kdm/kfrontend/sessions/sapphire.desktop:94
-msgctxt "Comment"
-msgid "A minimal but configurable window manager"
-msgstr ""
-
-#: kdm/kfrontend/sessions/sawfish.desktop:5
-msgctxt "Name"
-msgid "Sawfish"
-msgstr ""
-
-#: kdm/kfrontend/sessions/sawfish.desktop:94
-msgctxt "Comment"
-msgid ""
-"An extensible window manager scriptable with an Emacs Lisp-like language"
-msgstr ""
-
-#: kdm/kfrontend/sessions/twm.desktop:5
-msgctxt "Name"
-msgid "TWM"
-msgstr ""
-
-#: kdm/kfrontend/sessions/twm.desktop:93
-msgctxt "Comment"
-msgid "The Tab Window Manager"
-msgstr ""
-
-#: kdm/kfrontend/sessions/ude.desktop:5
-msgctxt "Name"
-msgid "UDE"
-msgstr ""
-
-#: kdm/kfrontend/sessions/ude.desktop:93
-msgctxt "Comment"
-msgid "The UNIX Desktop Environment"
-msgstr ""
-
-#: kdm/kfrontend/sessions/vtwm.desktop:5
-msgctxt "Name"
-msgid "VTWM"
-msgstr ""
-
-#: kdm/kfrontend/sessions/vtwm.desktop:94
-msgctxt "Comment"
-msgid "The Virtual Tab Window Manager. TWM enhanced by virtual screens, etc."
-msgstr ""
-
-#: kdm/kfrontend/sessions/w9wm.desktop:5
-msgctxt "Name"
-msgid "W9WM"
-msgstr ""
-
-#: kdm/kfrontend/sessions/w9wm.desktop:94
-msgctxt "Comment"
-msgid ""
-"A window manager based on 9WM, enhanced by virtual screens and keyboard "
-"bindings"
-msgstr ""
-
-#: kdm/kfrontend/sessions/waimea.desktop:5
-msgctxt "Name"
-msgid "Waimea"
-msgstr ""
-
-#: kdm/kfrontend/sessions/waimea.desktop:93
-msgctxt "Comment"
-msgid "A highly customizable window manager based on Blackbox"
-msgstr ""
-
-#: kdm/kfrontend/sessions/wm2.desktop:5
-msgctxt "Name"
-msgid "WM2"
-msgstr ""
-
-#: kdm/kfrontend/sessions/wm2.desktop:94
-msgctxt "Comment"
-msgid "A small, non-configurable window manager"
-msgstr ""
-
-#: kdm/kfrontend/sessions/wmaker.desktop:5
-msgctxt "Name"
-msgid "WindowMaker"
-msgstr ""
-
-#: kdm/kfrontend/sessions/wmaker.desktop:93
-msgctxt "Comment"
-msgid "A simple window manager that resembles the NeXTStep look very closely"
-msgstr ""
-
-#: kdm/kfrontend/sessions/xfce4.desktop:5
-msgctxt "Name"
-msgid "Xfce 4"
-msgstr ""
-
-#: kdm/kfrontend/sessions/xfce4.desktop:59
-msgctxt "Comment"
-msgid ""
-"The Cholesterol Free Desktop Environment, version 4. A desktop environment "
-"reminiscent of CDE"
-msgstr ""
-
-#: kdm/kfrontend/sessions/xfce.desktop:5
-msgctxt "Name"
-msgid "XFce"
-msgstr ""
-
-#: kdm/kfrontend/sessions/xfce.desktop:94
-msgctxt "Comment"
-msgid ""
-"The Cholesterol Free Desktop Environment. A desktop environment reminiscent "
-"of CDE"
-msgstr ""
-
-#: kdm/kfrontend/themes/ariya/KdmGreeterTheme.desktop:6
-msgctxt "Name"
-msgid "Ariya"
-msgstr ""
-
-#: kdm/kfrontend/themes/circles/KdmGreeterTheme.desktop:6
-msgctxt "Name"
-msgid "Circles"
-msgstr ""
-
-#: kdm/kfrontend/themes/circles/KdmGreeterTheme.desktop:95
-msgctxt "Description"
-msgid "Theme with blue circles"
-msgstr ""
-
-#: kdm/kfrontend/themes/elarun/KdmGreeterTheme.desktop:6
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Belarus"
-msgctxt "Name"
-msgid "Elarun"
-msgstr "ବେଲାରୁସ"
-
-#: kdm/kfrontend/themes/horos/KdmGreeterTheme.desktop:6
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Comoros"
-msgctxt "Name"
-msgid "Horos"
-msgstr "କେମୋରସ"
-
-#: kdm/kfrontend/themes/oxygen-air/KdmGreeterTheme.desktop:6
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Oxygen"
-msgctxt "Name"
-msgid "Oxygen-Air"
-msgstr "ଅକ୍ସିଜେନ"
-
-#: kdm/kfrontend/themes/oxygen/KdmGreeterTheme.desktop:6
-#: kstyles/oxygen/oxygen.themerc:2 kwin/clients/oxygen/oxygenclient.desktop:3
-msgctxt "Name"
-msgid "Oxygen"
-msgstr "ଅକ୍ସିଜେନ"
-
-#: kdm/kfrontend/themes/oxygen/KdmGreeterTheme.desktop:93
-msgctxt "Description"
-msgid "Oxygen Theme"
 msgstr ""
 
 #: khotkeys/app/khotkeys.desktop:2
@@ -2309,6 +1623,11 @@ msgctxt "X-KDE-Keywords"
 msgid "splash screen,splash theme,startup"
 msgstr ""
 
+#: kstyles/oxygen/oxygen.themerc:2 kwin/clients/oxygen/oxygenclient.desktop:3
+msgctxt "Name"
+msgid "Oxygen"
+msgstr "ଅକ୍ସିଜେନ"
+
 #: kstyles/oxygen/oxygen.themerc:90
 #: kwin/clients/oxygen/oxygenclient.desktop:91
 msgctxt "Comment"
@@ -2389,6 +1708,11 @@ msgstr ""
 msgctxt "Name"
 msgid "MegaGradient highcolor style"
 msgstr "MegaGradient ଉଚ୍ଚରଙ୍ଗ ଶୈଳୀ"
+
+#: kstyles/themes/qtcde.themerc:2
+msgctxt "Name"
+msgid "CDE"
+msgstr "CDE"
 
 #: kstyles/themes/qtcde.themerc:93
 msgctxt "Comment"
@@ -6167,6 +5491,107 @@ msgstr "ଅକ୍ଷରରୂପ ପ୍ରଦର୍ଶକ"
 msgctxt "Comment"
 msgid "The KDE 4 icon view style"
 msgstr ""
+
+#~ msgctxt "Comment"
+#~ msgid "Fish Net"
+#~ msgstr "ଫିସ ନେଟ"
+
+#~ msgctxt "Comment"
+#~ msgid "Flowers"
+#~ msgstr "ଫୁଲ"
+
+#~ msgctxt "Comment"
+#~ msgid "Night Rock by Tigert"
+#~ msgstr "ବାଘ ଦ୍ୱାରା ରାତ୍ରି ଭ୍ରମଣ"
+
+#~ msgctxt "Comment"
+#~ msgid "Pavement"
+#~ msgstr "ପାହାଚ"
+
+#~ msgctxt "Comment"
+#~ msgid "Rattan"
+#~ msgstr "Rattan"
+
+#~ msgctxt "Comment"
+#~ msgid "Stonewall 2 by Tigert"
+#~ msgstr "Tigert ଦ୍ୱାରା Stonewall 2"
+
+#~ msgctxt "Comment"
+#~ msgid "Triangles"
+#~ msgstr "ତ୍ରିଭୁଜ"
+
+#~ msgctxt "Comment"
+#~ msgid "XEarth by Kirk Johnson"
+#~ msgstr "Kirk Johnson ଦ୍ୱାରା XEarth"
+
+#~ msgctxt "Comment"
+#~ msgid "XGlobe by Thorsten Scheuermann"
+#~ msgstr "Thorsten Scheuermann ଦ୍ୱାରା XGlobe"
+
+#~ msgctxt "Comment"
+#~ msgid "XPlanet by Hari Nair"
+#~ msgstr "Hari Nair ଦ୍ୱାରା XPlanet"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Date and Time"
+#~ msgctxt "Name"
+#~ msgid "Login Manager Control Module"
+#~ msgstr "ତାରିଖ ଏବଂ ସମୟ"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Date and time settings"
+#~ msgctxt "Name"
+#~ msgid "Save the Login Manager settings"
+#~ msgstr "ତାରିଖ ଏବଂ ସମୟ ସଂରଚନା"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure the login manager (KDM)"
+#~ msgstr "ଲଗଇନ ପରିଚାଳକଙ୍କୁ ବିନ୍ୟାସ କରନ୍ତୁ (KDM)"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Services"
+#~ msgctxt "Name"
+#~ msgid "Stripes"
+#~ msgstr "ସର୍ଭିସଗୁଡ଼ିକ"
+
+#~ msgctxt "Name"
+#~ msgid "9WM"
+#~ msgstr "9WM"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "KDE Performance"
+#~ msgctxt "Name"
+#~ msgid "KDE Plasma Workspace"
+#~ msgstr "KDE କାର୍ଯଦକ୍ଷତା"
+
+#~ msgctxt "Name"
+#~ msgid "Openbox"
+#~ msgstr "Openbox"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Belarus"
+#~ msgctxt "Name"
+#~ msgid "Elarun"
+#~ msgstr "ବେଲାରୁସ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Comoros"
+#~ msgctxt "Name"
+#~ msgid "Horos"
+#~ msgstr "କେମୋରସ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Oxygen"
+#~ msgctxt "Name"
+#~ msgid "Oxygen-Air"
+#~ msgstr "ଅକ୍ସିଜେନ"
 
 #, fuzzy
 #~| msgctxt "Name"
