@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-01-27 01:52+0000\n"
+"POT-Creation-Date: 2014-01-28 01:53+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1933,7 +1933,7 @@ msgctxt "Name"
 msgid "Background contrast"
 msgstr ""
 
-#: kwin/effects/backgroundcontrast/contrast.desktop:17
+#: kwin/effects/backgroundcontrast/contrast.desktop:18
 msgctxt "Comment"
 msgid "Improve contrast and readability behind semi-transparent windows"
 msgstr ""
@@ -1985,7 +1985,6 @@ msgstr ""
 
 #: kwin/effects/dashboard/dashboard_config.desktop:9
 #: kwin/effects/dashboard/dashboard.desktop:2
-#: plasma/generic/scriptengines/webkit/plasma-scriptengine-applet-dashboard.desktop:2
 msgctxt "Name"
 msgid "Dashboard"
 msgstr "ଡ୍ୟାସବୋର୍ଡ"
@@ -4237,102 +4236,6 @@ msgctxt "Comment"
 msgid "List windows and desktops and switch them"
 msgstr ""
 
-#: plasma/generic/scriptengines/python/plasma-scriptengine-applet-python.desktop:2
-msgctxt "Name"
-msgid "Python Widget"
-msgstr "ପାଇଥନ ୱିଜେଟ"
-
-#: plasma/generic/scriptengines/python/plasma-scriptengine-applet-python.desktop:76
-msgctxt "Comment"
-msgid "Plasma widget support written in Python"
-msgstr "ପାଇଥନରେ ଲିଖିତ ପ୍ଲାଜମା ୱିଜେଟ ସମର୍ଥନ"
-
-#: plasma/generic/scriptengines/python/plasma-scriptengine-dataengine-python.desktop:2
-msgctxt "Name"
-msgid "Python data engine"
-msgstr "ପାଇଥନ ତଥ୍ୟ ମେସିନ"
-
-#: plasma/generic/scriptengines/python/plasma-scriptengine-dataengine-python.desktop:74
-msgctxt "Comment"
-msgid "Plasma data engine support for Python"
-msgstr "ପାଇଥନ ପାଇଁ ପ୍ଲାଜମା ତଥ୍ୟ ମେସିନ ସମର୍ଥନ"
-
-#: plasma/generic/scriptengines/python/plasma-scriptengine-runner-python.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Python data engine"
-msgctxt "Name"
-msgid "Python Runner"
-msgstr "ପାଇଥନ ତଥ୍ୟ ମେସିନ"
-
-#: plasma/generic/scriptengines/python/plasma-scriptengine-runner-python.desktop:66
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Plasma data engine support for Python"
-msgctxt "Comment"
-msgid "Plasma Runner support for Python"
-msgstr "ପାଇଥନ ପାଇଁ ପ୍ଲାଜମା ତଥ୍ୟ ମେସିନ ସମର୍ଥନ"
-
-#: plasma/generic/scriptengines/python/plasma-scriptengine-wallpaper-python.desktop:2
-msgctxt "Name"
-msgid "Python wallpaper"
-msgstr ""
-
-#: plasma/generic/scriptengines/python/plasma-scriptengine-wallpaper-python.desktop:68
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Plasma data engine support for Python"
-msgctxt "Comment"
-msgid "Plasma wallpaper support for Python"
-msgstr "ପାଇଥନ ପାଇଁ ପ୍ଲାଜମା ତଥ୍ୟ ମେସିନ ସମର୍ଥନ"
-
-#: plasma/generic/scriptengines/ruby/plasma-scriptengine-ruby-applet.desktop:2
-#: plasma/generic/scriptengines/ruby/plasma-scriptengine-ruby-dataengine.desktop:2
-msgctxt "Name"
-msgid "Ruby Widget"
-msgstr "ରୁବି ୱିଜେଟ"
-
-#: plasma/generic/scriptengines/ruby/plasma-scriptengine-ruby-applet.desktop:76
-#: plasma/generic/scriptengines/ruby/plasma-scriptengine-ruby-dataengine.desktop:76
-msgctxt "Comment"
-msgid "Native Plasma widget written in Ruby"
-msgstr "Ruby ରେ ଲେଖା ହୋଇଥିବା ସ୍ଥାନୀୟ ପ୍ଲାଜମା ୱିଜେଟ"
-
-#: plasma/generic/scriptengines/webkit/plasma-packagestructure-dashboard.desktop:2
-msgctxt "Name"
-msgid "MacOS Dashboard Widgets"
-msgstr "MacOS ଡ୍ୟାସବୋର୍ଡ ୱିଜେଟଗୁଡ଼ିକ"
-
-#: plasma/generic/scriptengines/webkit/plasma-packagestructure-dashboard.desktop:74
-msgctxt "Comment"
-msgid "MacOS dashboard widget"
-msgstr "MacOS ଡ୍ୟାସବୋର୍ଡ ୱିଜେଟ"
-
-#: plasma/generic/scriptengines/webkit/plasma-packagestructure-web.desktop:2
-msgctxt "Name"
-msgid "Web Widgets"
-msgstr "ୱେବ ୱିଜେଟଗୁଡ଼ିକ"
-
-#: plasma/generic/scriptengines/webkit/plasma-packagestructure-web.desktop:76
-msgctxt "Comment"
-msgid "HTML widget"
-msgstr "HTML ୱିଜେଟ"
-
-#: plasma/generic/scriptengines/webkit/plasma-scriptengine-applet-dashboard.desktop:78
-msgctxt "Comment"
-msgid "MacOS X dashboard widget"
-msgstr "MacOS X ଡ୍ୟାସବୋର୍ଡ ୱିଜେଟ"
-
-#: plasma/generic/scriptengines/webkit/plasma-scriptengine-applet-web.desktop:2
-msgctxt "Name"
-msgid "Web Widget"
-msgstr "ୱେବ ୱିଜେଟ"
-
-#: plasma/generic/scriptengines/webkit/plasma-scriptengine-applet-web.desktop:77
-msgctxt "Comment"
-msgid "Webpage widget using HTML and JavaScript"
-msgstr "HTML ଏବଂ JavaScript ବ୍ୟବହାର କରି ୱେବ ପୃଷ୍ଠା ୱିଜେଟ"
-
 #: plasma/generic/wallpapers/color/metadata.desktop:5
 #, fuzzy
 #| msgctxt "Name"
@@ -5437,6 +5340,79 @@ msgstr "ଅକ୍ଷରରୂପ ପ୍ରଦର୍ଶକ"
 msgctxt "Comment"
 msgid "The KDE 4 icon view style"
 msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Python Widget"
+#~ msgstr "ପାଇଥନ ୱିଜେଟ"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma widget support written in Python"
+#~ msgstr "ପାଇଥନରେ ଲିଖିତ ପ୍ଲାଜମା ୱିଜେଟ ସମର୍ଥନ"
+
+#~ msgctxt "Name"
+#~ msgid "Python data engine"
+#~ msgstr "ପାଇଥନ ତଥ୍ୟ ମେସିନ"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma data engine support for Python"
+#~ msgstr "ପାଇଥନ ପାଇଁ ପ୍ଲାଜମା ତଥ୍ୟ ମେସିନ ସମର୍ଥନ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Python data engine"
+#~ msgctxt "Name"
+#~ msgid "Python Runner"
+#~ msgstr "ପାଇଥନ ତଥ୍ୟ ମେସିନ"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Plasma data engine support for Python"
+#~ msgctxt "Comment"
+#~ msgid "Plasma Runner support for Python"
+#~ msgstr "ପାଇଥନ ପାଇଁ ପ୍ଲାଜମା ତଥ୍ୟ ମେସିନ ସମର୍ଥନ"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Plasma data engine support for Python"
+#~ msgctxt "Comment"
+#~ msgid "Plasma wallpaper support for Python"
+#~ msgstr "ପାଇଥନ ପାଇଁ ପ୍ଲାଜମା ତଥ୍ୟ ମେସିନ ସମର୍ଥନ"
+
+#~ msgctxt "Name"
+#~ msgid "Ruby Widget"
+#~ msgstr "ରୁବି ୱିଜେଟ"
+
+#~ msgctxt "Comment"
+#~ msgid "Native Plasma widget written in Ruby"
+#~ msgstr "Ruby ରେ ଲେଖା ହୋଇଥିବା ସ୍ଥାନୀୟ ପ୍ଲାଜମା ୱିଜେଟ"
+
+#~ msgctxt "Name"
+#~ msgid "MacOS Dashboard Widgets"
+#~ msgstr "MacOS ଡ୍ୟାସବୋର୍ଡ ୱିଜେଟଗୁଡ଼ିକ"
+
+#~ msgctxt "Comment"
+#~ msgid "MacOS dashboard widget"
+#~ msgstr "MacOS ଡ୍ୟାସବୋର୍ଡ ୱିଜେଟ"
+
+#~ msgctxt "Name"
+#~ msgid "Web Widgets"
+#~ msgstr "ୱେବ ୱିଜେଟଗୁଡ଼ିକ"
+
+#~ msgctxt "Comment"
+#~ msgid "HTML widget"
+#~ msgstr "HTML ୱିଜେଟ"
+
+#~ msgctxt "Comment"
+#~ msgid "MacOS X dashboard widget"
+#~ msgstr "MacOS X ଡ୍ୟାସବୋର୍ଡ ୱିଜେଟ"
+
+#~ msgctxt "Name"
+#~ msgid "Web Widget"
+#~ msgstr "ୱେବ ୱିଜେଟ"
+
+#~ msgctxt "Comment"
+#~ msgid "Webpage widget using HTML and JavaScript"
+#~ msgstr "HTML ଏବଂ JavaScript ବ୍ୟବହାର କରି ୱେବ ପୃଷ୍ଠା ୱିଜେଟ"
 
 #, fuzzy
 #~| msgctxt "Name"
