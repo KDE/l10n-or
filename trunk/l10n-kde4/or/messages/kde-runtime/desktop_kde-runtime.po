@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-01-28 01:53+0000\n"
+"POT-Creation-Date: 2014-02-04 01:56+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -5689,12 +5689,15 @@ msgctxt "Comment"
 msgid "X Window Utilities"
 msgstr "X ୱିଣ୍ଡୋ ଉପଯୋଗିତା"
 
-#: nepomuk/kcm/desktop-search.desktop:8 nepomuk/kcm/kcm_nepomuk.desktop:14
+#: nepomuk/kcm/kcm_nepomuk.desktop:14
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Nepomuk Server"
 msgctxt "Name"
-msgid "Desktop Search"
-msgstr "ଡ଼େସ୍କଟପ ସନ୍ଧାନ"
+msgid "Nepomuk"
+msgstr "Nepomuk ସର୍ଭର"
 
-#: nepomuk/kcm/kcm_nepomuk.desktop:94
+#: nepomuk/kcm/kcm_nepomuk.desktop:15
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Nepomuk/Strigi Server Configuration"
@@ -5702,7 +5705,7 @@ msgctxt "Comment"
 msgid "Nepomuk Server Configuration"
 msgstr "Nepomuk/Strigi ସର୍ଭର ବିନ୍ୟାସ"
 
-#: nepomuk/kcm/kcm_nepomuk.desktop:146
+#: nepomuk/kcm/kcm_nepomuk.desktop:67
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Nepomuk Strigi Service"
@@ -6003,6 +6006,10 @@ msgctxt "Comment"
 msgid "Provides a user interface for hardware events"
 msgstr ""
 
+#~ msgctxt "Name"
+#~ msgid "Desktop Search"
+#~ msgstr "ଡ଼େସ୍କଟପ ସନ୍ଧାନ"
+
 #~ msgctxt "Comment"
 #~ msgid "KDE is starting up"
 #~ msgstr "KDE ଆରମ୍ଭ ହେଉଅଛି"
@@ -6189,10 +6196,6 @@ msgstr ""
 #~ msgctxt "X-KDE-Keywords"
 #~ msgid "Xine"
 #~ msgstr "Xine"
-
-#~ msgctxt "Name"
-#~ msgid "Nepomuk Server"
-#~ msgstr "Nepomuk ସର୍ଭର"
 
 #~ msgctxt "Comment"
 #~ msgid "The Nepomuk Server providing Storage services and strigi controlling"
