@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-02-13 02:24+0000\n"
+"POT-Creation-Date: 2014-02-14 04:23+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -28,7 +28,7 @@ msgctxt "Name"
 msgid "Wallet Server"
 msgstr "ୱାଲେଟ ସର୍ଭର"
 
-#: src/runtime/kwalletd/kwalletd5.desktop:9
+#: src/runtime/kwalletd/kwalletd5.desktop:88
 msgctxt "Comment"
 msgid "Wallet Server"
 msgstr "ୱାଲେଟ ସର୍ଭର"
@@ -41,12 +41,12 @@ msgctxt "Comment"
 msgid "Wallet"
 msgstr "ୱାଲେଟ ସର୍ଭର"
 
-#: src/runtime/kwalletd/kwalletd.notifyrc:4
+#: src/runtime/kwalletd/kwalletd.notifyrc:72
 msgctxt "Name"
 msgid "kwalletd"
 msgstr ""
 
-#: src/runtime/kwalletd/kwalletd.notifyrc:7
+#: src/runtime/kwalletd/kwalletd.notifyrc:146
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Change Password"
@@ -54,17 +54,17 @@ msgctxt "Name"
 msgid "Needs password"
 msgstr "ପ୍ରବେଶ ସଂକେତ ପରିବର୍ତ୍ତନ କରନ୍ତୁ"
 
-#: src/runtime/kwalletd/kwalletd.notifyrc:8
+#: src/runtime/kwalletd/kwalletd.notifyrc:218
 msgctxt "Comment"
 msgid "The KDE Wallet Daemon requests a password"
 msgstr ""
 
-#: src/runtime/kwalletd/kwalletd.notifyrc:12
+#: src/runtime/kwalletd/kwalletd.notifyrc:293
 msgctxt "Name"
 msgid "Sync Failed"
 msgstr ""
 
-#: src/runtime/kwalletd/kwalletd.notifyrc:13
+#: src/runtime/kwalletd/kwalletd.notifyrc:327
 msgctxt "Comment"
 msgid "KDE Wallet System failed to sync a wallet file to disk"
 msgstr ""
