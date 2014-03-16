@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-03-15 01:55+0000\n"
+"POT-Creation-Date: 2014-03-16 02:07+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1247,7 +1247,7 @@ msgctxt "Name"
 msgid "Wayland"
 msgstr "ଥାଇଲ୍ୟାଣ୍ଡ"
 
-#: kinfocenter/Modules/info/wayland.desktop:26
+#: kinfocenter/Modules/info/wayland.desktop:28
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Files and Directories"
@@ -1255,7 +1255,7 @@ msgctxt "Comment"
 msgid "Information about the Wayland Compositor"
 msgstr "ଫାଇଲ ଏବଂ ଡ଼ିରେକ୍ଟୋରୀଗୁଡ଼ିକ"
 
-#: kinfocenter/Modules/info/wayland.desktop:41
+#: kinfocenter/Modules/info/wayland.desktop:45
 msgctxt "X-KDE-Keywords"
 msgid "Wayland,Compositor,Display,System Information"
 msgstr ""
@@ -3039,12 +3039,10 @@ msgid "Plasmoid to show list of opened windows."
 msgstr ""
 
 #: plasma/desktop/containments/desktop/package/metadata.desktop:2
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Default desktop containment"
+#: plasma/desktop/qmlpackages/desktop/metadata.desktop:33
 msgctxt "Name"
-msgid "Default Desktop"
-msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ ଡ଼େସ୍କଟପ ଧାରଣ"
+msgid "Desktop"
+msgstr "ଡ଼େସ୍କଟପ"
 
 #: plasma/desktop/containments/desktop/package/metadata.desktop:40
 msgctxt "Comment"
@@ -3089,11 +3087,6 @@ msgstr ""
 msgctxt "Comment"
 msgid "Desktop view furniture"
 msgstr "ଡେସ୍କଟପ ଆକାର ବୃଦ୍ଧିକାରୀ"
-
-#: plasma/desktop/qmlpackages/desktop/metadata.desktop:33
-msgctxt "Name"
-msgid "Desktop"
-msgstr "ଡ଼େସ୍କଟପ"
 
 #: plasma/desktop/qmlpackages/lookandfeel/metadata.desktop:2
 #, fuzzy
@@ -5333,6 +5326,13 @@ msgstr "ଅକ୍ଷରରୂପ ପ୍ରଦର୍ଶକ"
 msgctxt "Comment"
 msgid "The KDE 4 icon view style"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Default desktop containment"
+#~ msgctxt "Name"
+#~ msgid "Default Desktop"
+#~ msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ ଡ଼େସ୍କଟପ ଧାରଣ"
 
 #, fuzzy
 #~| msgctxt "Name"
