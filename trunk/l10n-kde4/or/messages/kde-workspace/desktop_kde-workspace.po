@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-03-18 02:00+0000\n"
+"POT-Creation-Date: 2014-03-19 04:38+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -22,616 +22,6 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-
-#: appmenu/appmenu.desktop:3
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Application Manuals"
-msgctxt "Name"
-msgid "Application menus daemon"
-msgstr "ପ୍ରୟୋଗ ସହାୟକ ପୁସ୍ତକ"
-
-#: appmenu/appmenu.desktop:46
-msgctxt "Comment"
-msgid "Transfers application's menu to the desktop"
-msgstr ""
-
-#: freespacenotifier/freespacenotifier.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "KDED Remote Base URL Notifier"
-msgctxt "Name"
-msgid "Free Space Notifier"
-msgstr "KDED ସୁଦୂର ଆଧାର URL ସୂଚନା ଦାତା"
-
-#: freespacenotifier/freespacenotifier.desktop:65
-msgctxt "Comment"
-msgid "Warns when running out of space on your home folder"
-msgstr ""
-
-#: freespacenotifier/freespacenotifier.notifyrc:3
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "KDE Notification Daemon"
-msgctxt "Comment"
-msgid "KDE Free Space Notifier Daemon"
-msgstr "KDE ବିଜ୍ଞପ୍ତି ଡେମନ"
-
-#: freespacenotifier/freespacenotifier.notifyrc:67
-msgctxt "Name"
-msgid "Low Disk Space"
-msgstr ""
-
-#: freespacenotifier/freespacenotifier.notifyrc:134
-#: powerdevil/powerdevil.notifyrc:108
-msgctxt "Name"
-msgid "Warning"
-msgstr "ଚେତାବନୀ"
-
-#: freespacenotifier/freespacenotifier.notifyrc:221
-#: powerdevil/powerdevil.notifyrc:195
-msgctxt "Comment"
-msgid "Used for warning notifications"
-msgstr "ଚେତାବନୀ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ ପାଇଁ ବ୍ୟବହୃତ ହୋଇଥାଏ"
-
-#: freespacenotifier/freespacenotifier.notifyrc:296
-msgctxt "Name"
-msgid "Running low on disk space"
-msgstr ""
-
-#: freespacenotifier/freespacenotifier.notifyrc:359
-msgctxt "Comment"
-msgid "You are running low on disk space"
-msgstr ""
-
-#: kcontrol/access/kaccess.desktop:3
-msgctxt "Name"
-msgid "KDE Accessibility Tool"
-msgstr "KDE ଅଭିଗମ୍ୟତା ଉପକରଣ"
-
-#: kcontrol/access/kaccess.notifyrc:3
-msgctxt "Comment"
-msgid "Accessibility"
-msgstr "ଅଭିଗମ୍ୟତା"
-
-#: kcontrol/access/kaccess.notifyrc:96
-msgctxt "Name"
-msgid "A modifier key has become active"
-msgstr "ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି ସକ୍ରିୟ ହୋଇଯାଇଛି"
-
-#: kcontrol/access/kaccess.notifyrc:175
-msgctxt "Comment"
-msgid ""
-"A modifier key (e.g. Shift or Ctrl) has changed its state and is now active"
-msgstr ""
-"ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି (ଯେପରିକି Shift କିମ୍ବା Ctrl) ସେମାନଙ୍କର ସ୍ଥିତି ପରିବର୍ତ୍ତନ କରିଅଛି ଏବଂ ବର୍ତ୍ତମାନ "
-"ସକ୍ରିୟ ଅଛି"
-
-#: kcontrol/access/kaccess.notifyrc:255
-msgctxt "Name"
-msgid "A modifier key has become inactive"
-msgstr "ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି ନିଷ୍କ୍ରିୟ ହୋଇଯାଇଛି"
-
-#: kcontrol/access/kaccess.notifyrc:334
-msgctxt "Comment"
-msgid ""
-"A modifier key (e.g. Shift or Ctrl) has changed its state and is now inactive"
-msgstr ""
-"ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି (ଯେପରିକି Shift କିମ୍ବା Ctrl) ସେମାନଙ୍କର ସ୍ଥିତି ପରିବର୍ତ୍ତନ କରିଛନ୍ତି ଏବଂ "
-"ବର୍ତ୍ତମାନ ନିଷ୍କ୍ରିୟ ହୋଇଯାଇଛନ୍ତି"
-
-#: kcontrol/access/kaccess.notifyrc:414
-msgctxt "Name"
-msgid "A modifier key has been locked"
-msgstr "ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି ଅପରିବର୍ତ୍ତିତ ହୋଇଯାଇଛି"
-
-#: kcontrol/access/kaccess.notifyrc:493
-msgctxt "Comment"
-msgid ""
-"A modifier key (e.g. Shift or Ctrl) has been locked and is now active for "
-"all of the following keypresses"
-msgstr ""
-"ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି (ଯେପରିକି Shift କିମ୍ବା Ctrl) ଅପରିବର୍ତ୍ତିତ ହୋଇଯାଇଛି ଏବଂ ବର୍ତ୍ତମାନ ନିମ୍ନଲିଖିତ "
-"ସମସ୍ତ କି ଚାପ ପାଇଁ ସକ୍ରିୟ ହୋଇଛି"
-
-#: kcontrol/access/kaccess.notifyrc:573
-msgctxt "Name"
-msgid "A lock key has been activated"
-msgstr "ଗୋଟିଏ ଅପରିବର୍ତ୍ତନୀୟ କିକୁ ସକ୍ରିୟ କରାଯାଇଛି"
-
-#: kcontrol/access/kaccess.notifyrc:653
-msgctxt "Comment"
-msgid ""
-"A lock key (e.g. Caps Lock or Num Lock) has changed its state and is now "
-"active"
-msgstr ""
-"ଗୋଟିଏ ଅପରିବର୍ତ୍ତନୀୟ କି (ଯେପରିକି Caps Lock କିମ୍ବା Num Lock) ସେମାନଙ୍କର ସ୍ଥିତି ପରିବର୍ତ୍ତନ କରିଛନ୍ତି "
-"ଏବଂ ବର୍ତ୍ତମାନ ସକ୍ରିୟ ଅଛନ୍ତି"
-
-#: kcontrol/access/kaccess.notifyrc:733
-msgctxt "Name"
-msgid "A lock key has been deactivated"
-msgstr "ଗୋଟିଏ ଅପରିବର୍ତ୍ତନୀୟ କିକୁ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
-
-#: kcontrol/access/kaccess.notifyrc:813
-msgctxt "Comment"
-msgid ""
-"A lock key (e.g. Caps Lock or Num Lock) has changed its state and is now "
-"inactive"
-msgstr ""
-"ଗୋଟିଏ ଅପରିବର୍ତ୍ତନୀୟ କି (ଯେପରିକି Caps Lock କିମ୍ବା Num Lock) ସେମାନଙ୍କର ସ୍ଥିତି ପରିବର୍ତ୍ତନ କରିଛନ୍ତି "
-"ଏବଂ ବର୍ତ୍ତମାନ ନିଷ୍କ୍ରିୟ ଅଛି"
-
-#: kcontrol/access/kaccess.notifyrc:893
-msgctxt "Name"
-msgid "Sticky keys has been enabled or disabled"
-msgstr "Sticky କିଗୁଡ଼ିକୁ ସକ୍ରିୟ ଅଥବା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
-
-#: kcontrol/access/kaccess.notifyrc:971
-msgctxt "Comment"
-msgid "Sticky keys has been enabled or disabled"
-msgstr "Sticky କିଗୁଡ଼ିକୁ ସକ୍ରିୟ ଅଥବା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
-
-#: kcontrol/access/kaccess.notifyrc:1054
-msgctxt "Name"
-msgid "Slow keys has been enabled or disabled"
-msgstr "Slow କିଗୁଡ଼ିକୁ ସକ୍ରିୟ ଅଥବା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
-
-#: kcontrol/access/kaccess.notifyrc:1131
-msgctxt "Comment"
-msgid "Slow keys has been enabled or disabled"
-msgstr "Slow କିଗୁଡ଼ିକୁ ସକ୍ରିୟ ଅଥବା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
-
-#: kcontrol/access/kaccess.notifyrc:1213
-msgctxt "Name"
-msgid "Bounce keys has been enabled or disabled"
-msgstr "Bounce କିଗୁଡ଼ିକୁ ସକ୍ରିୟ ଅଥବା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
-
-#: kcontrol/access/kaccess.notifyrc:1291
-msgctxt "Comment"
-msgid "Bounce keys has been enabled or disabled"
-msgstr "Bounce କିଗୁଡ଼ିକୁ ସକ୍ରିୟ ଅଥବା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
-
-#: kcontrol/access/kaccess.notifyrc:1374
-msgctxt "Name"
-msgid "Mouse keys has been enabled or disabled"
-msgstr "ମାଉସ କିଗୁଡ଼ିକୁ ସକ୍ରିୟ ଅଥବା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
-
-#: kcontrol/access/kaccess.notifyrc:1452
-msgctxt "Comment"
-msgid "Mouse keys has been enabled or disabled"
-msgstr "ମାଉସ କିଗୁଡ଼ିକୁ ସକ୍ରିୟ ଅଥବା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
-
-#: kcontrol/access/kcmaccess.desktop:15
-#: systemsettings/categories/settings-accessibility.desktop:8
-msgctxt "Name"
-msgid "Accessibility"
-msgstr "ଅଭିଗମ୍ୟତା"
-
-#: kcontrol/access/kcmaccess.desktop:109
-msgctxt "Comment"
-msgid "Improve accessibility for disabled persons"
-msgstr "ନିଷ୍କ୍ରିୟ ବ୍ୟକ୍ତିମାନଙ୍କ ପାଇଁ ଅଭିଗମ୍ୟତା ଉନ୍ନତ କରନ୍ତୁ"
-
-#: kcontrol/access/kcmaccess.desktop:199
-msgctxt "X-KDE-Keywords"
-msgid ""
-"access,accessibility,deaf,impaired,hearing,hearing loss,bell,audible bell,"
-"visible bell,Keyboard,keys,sticky keys,bounce keys,slow keys,mouse "
-"navigation,num pad,numpad,activation gestures,gestures,sticky,modifier keys,"
-"modifier,locking keys"
-msgstr ""
-
-#: kcontrol/autostart/autostart.desktop:13
-msgctxt "Name"
-msgid "Autostart"
-msgstr "ସ୍ୱୟଂଚାଳନ"
-
-#: kcontrol/autostart/autostart.desktop:103
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "A configuration tool for managing which programs start up with KDE."
-msgctxt "Comment"
-msgid "Manage which programs start up automatically with KDE."
-msgstr ""
-"କେଉଁ ପ୍ରଗ୍ରାମ KDE ସହିତ ଆରମ୍ଭ ହେବା ଉଚିତ ତାହା ପରିଚାଳନା କରିବା ପାଇଁ ଏହା ଗୋଟିଏ ସଂରଚନା ଉପକରଣ।"
-
-#: kcontrol/autostart/autostart.desktop:149
-msgctxt "X-KDE-Keywords"
-msgid "Autostart Manager,autostart,startup,system startup,kde start,cron"
-msgstr ""
-
-#: kcontrol/bell/bell.desktop:17
-msgctxt "Name"
-msgid "System Bell"
-msgstr "ତନ୍ତ୍ର ଘଣ୍ଟି"
-
-#: kcontrol/bell/bell.desktop:109
-msgctxt "Comment"
-msgid "System Bell Configuration"
-msgstr "ତନ୍ତ୍ର ଘଣ୍ଟି ସଂରଚନା"
-
-#: kcontrol/bell/bell.desktop:201
-msgctxt "X-KDE-Keywords"
-msgid ""
-"Bell,Audio,Sound,Volume,Pitch,Duration,PC Speaker,Internal Speaker,Speaker,"
-"System Bell,System Speaker,Internal PC Speaker"
-msgstr ""
-
-#: kcontrol/colors/colors.desktop:14
-msgctxt "Name"
-msgid "Colors"
-msgstr "ରଙ୍ଗ"
-
-#: kcontrol/colors/colors.desktop:107
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Switch between running applications"
-msgctxt "Comment"
-msgid "Change the colors used in applications"
-msgstr "ଚାଲୁଥିବା ପ୍ରୟୋଗଗୁଡ଼ିକ ମଧ୍ଯରେ ଅଦଳ ବଦଳ କରନ୍ତୁ"
-
-#: kcontrol/colors/colors.desktop:153
-msgctxt "X-KDE-Keywords"
-msgid ""
-"colors,colours,scheme,contrast,Widget colors,Color Scheme,color style,color "
-"theme"
-msgstr ""
-
-#: kcontrol/dateandtime/clock.desktop:15
-msgctxt "Name"
-msgid "Date & Time"
-msgstr "ତାରିଖ ଏବଂ ସମୟ"
-
-#: kcontrol/dateandtime/clock.desktop:108
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Date and time settings"
-msgctxt "Comment"
-msgid "Configure date and time settings"
-msgstr "ତାରିଖ ଏବଂ ସମୟ ସଂରଚନା"
-
-#: kcontrol/dateandtime/clock.desktop:156
-msgctxt "X-KDE-Keywords"
-msgid ""
-"clock,date,time,time zone,ntp,synchronize,calendar,local time,region time"
-msgstr ""
-
-#: kcontrol/dateandtime/kcmclock_actions.actions:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Date and Time"
-msgctxt "Name"
-msgid "Date and Time Control Module"
-msgstr "ତାରିଖ ଏବଂ ସମୟ"
-
-#: kcontrol/dateandtime/kcmclock_actions.actions:75
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Date and time settings"
-msgctxt "Name"
-msgid "Save the date/time settings"
-msgstr "ତାରିଖ ଏବଂ ସମୟ ସଂରଚନା"
-
-#: kcontrol/dateandtime/kcmclock_actions.actions:144
-msgctxt "Description"
-msgid "System policies prevent you from saving the date/time settings."
-msgstr ""
-
-#: kcontrol/desktoppaths/desktoppath.desktop:13
-msgctxt "Name"
-msgid "Paths"
-msgstr "ପଥଗୁଡ଼ିକ"
-
-#: kcontrol/desktoppaths/desktoppath.desktop:107
-msgctxt "Comment"
-msgid "Change the location important files are stored"
-msgstr "ଦରକାରି ଫାଇଲଗୁଡ଼ିକୁ ସଂରକ୍ଷିତ କରାଯାଇଥିବା ସ୍ଥାନକୁ ପରିବର୍ତ୍ତନ କରନ୍ତୁ"
-
-#: kcontrol/desktoppaths/desktoppath.desktop:198
-msgctxt "X-KDE-Keywords"
-msgid ""
-"konqueror,dolphin,files,filemanager,path, paths,desktop,directories,"
-"autostart,downloads,music,documents,movies,pictures"
-msgstr ""
-
-#: kcontrol/desktoptheme/desktoptheme.desktop:12
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Desktop Theme Details"
-msgctxt "Name"
-msgid "Desktop Theme"
-msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବିବରଣୀ"
-
-#: kcontrol/desktoptheme/desktoptheme.desktop:77
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Customize individual desktop theme items"
-msgctxt "Comment"
-msgid "Customize the desktop theme"
-msgstr "ବ୍ୟକ୍ତିଗତ ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବସ୍ତୁଗୁଡ଼ିକୁ ଇଚ୍ଛାରୂପଣ କରୁଅଛି"
-
-#: kcontrol/desktoptheme/desktoptheme.desktop:141
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Desktop Theme Details"
-msgctxt "X-KDE-Keywords"
-msgid "Desktop Theme"
-msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବିବରଣୀ"
-
-#: kcontrol/fonts/fonts.desktop:14 kcontrol/kfontinst/kio/fonts.desktop:5
-msgctxt "Name"
-msgid "Fonts"
-msgstr "ଅକ୍ଷର ରୂପ"
-
-#: kcontrol/fonts/fonts.desktop:107
-msgctxt "Comment"
-msgid "Font settings"
-msgstr "ଅକ୍ଷର ରୂପ ସଂଚଚନା"
-
-#: kcontrol/fonts/fonts.desktop:200
-msgctxt "X-KDE-Keywords"
-msgid ""
-"fonts,font size,styles,charsets,character sets,panel,control panel,desktops,"
-"FileManager,Toolbars,Menu,Window Title,Title,DPI,anti-aliasing,desktop fonts,"
-"toolbar fonts,character,general fonts"
-msgstr ""
-
-#: kcontrol/hardware/display/display.desktop:10
-msgctxt "Name"
-msgid "Display"
-msgstr "ପ୍ରଦର୍ଶକ"
-
-#: kcontrol/hardware/display/display.desktop:101
-#: systemsettings/categories/settings-display.desktop:70
-msgctxt "Comment"
-msgid "Display Settings"
-msgstr "ପ୍ରଦର୍ଶକ ସଂରଚନା"
-
-#: kcontrol/hardware/joystick/joystick.desktop:17
-msgctxt "Comment"
-msgid "Joystick settings"
-msgstr "Joystick ସଂରଚନା"
-
-#: kcontrol/hardware/joystick/joystick.desktop:96
-msgctxt "Name"
-msgid "Joystick"
-msgstr "Joystick"
-
-#: kcontrol/hardware/joystick/joystick.desktop:188
-msgctxt "X-KDE-Keywords"
-msgid "joystick,gamepad,controller"
-msgstr ""
-
-#: kcontrol/input/cursortheme.desktop:12
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Cursor Files"
-msgctxt "Name"
-msgid "Cursor Theme"
-msgstr "ସୂଚକ ଫାଇଲଗୁଡ଼ିକ"
-
-#: kcontrol/input/cursortheme.desktop:73
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Customize individual desktop theme items"
-msgctxt "Comment"
-msgid "Customize the mouse cursor appearance"
-msgstr "ବ୍ୟକ୍ତିଗତ ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବସ୍ତୁଗୁଡ଼ିକୁ ଇଚ୍ଛାରୂପଣ କରୁଅଛି"
-
-#: kcontrol/input/cursortheme.desktop:131
-msgctxt "X-KDE-Keywords"
-msgid ""
-"Mouse,Cursor,Theme,Cursor Appearance,Cursor Color,Cursor Theme,Mouse Theme,"
-"Mouse Appearance,Mouse Skins,Pointer Colors,Pointer Appearance"
-msgstr ""
-
-#: kcontrol/input/mouse.desktop:16
-msgctxt "Name"
-msgid "Mouse"
-msgstr "ମାଉସ"
-
-#: kcontrol/input/mouse.desktop:109
-msgctxt "Comment"
-msgid "Mouse settings"
-msgstr "ମାଉସ ବିନ୍ୟାସ"
-
-#: kcontrol/input/mouse.desktop:201
-msgctxt "X-KDE-Keywords"
-msgid ""
-"Mouse,Mouse acceleration,Mouse threshold,Mouse buttons,Selection,Cursor "
-"Shape,Input Devices,Button Mapping,Click,icons,feedback,Pointers,Drag,Double "
-"Click,Single Click,mapping,right handed,left handed,Pointer Device,Mouse "
-"Wheel,Mouse Emulation,Mouse Navigation,Mouse Drag and Drop,Mouse Scrolling,"
-"Mouse Sensitivity,Move Mouse with Num Pad,Mouse Num Pad Emulation"
-msgstr ""
-
-#: kcontrol/keyboard/kcm_keyboard.desktop:18
-msgctxt "Name"
-msgid "Keyboard"
-msgstr "କିବୋର୍ଡ଼"
-
-#: kcontrol/keyboard/kcm_keyboard.desktop:110
-msgctxt "Comment"
-msgid "Keyboard settings"
-msgstr "କିବୋର୍ଡ଼ ସଂରଚନା"
-
-#: kcontrol/keyboard/kcm_keyboard.desktop:202
-msgctxt "X-KDE-Keywords"
-msgid ""
-"Keyboard,Keyboard repeat,Click volume,Input Devices,repeat,volume,NumLock,"
-"NumPad,Keyboard type,Keyboard model,Keyboard layout,Key layout,Language,"
-"Alternate Keyboard,Keyboard switching,Ctrl Key,Caps Lock,Esperanto,"
-"Circumflex,Kill X Server,LED Keyboard,Compose Key"
-msgstr ""
-
-#: kcontrol/keyboard/keyboard.desktop:12
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Keyboard Layout"
-msgctxt "Name"
-msgid "Keyboard Daemon"
-msgstr "କିବୋର୍ଡ଼ ବିନ୍ୟାସ"
-
-#: kcontrol/keyboard/plasma_applet_keyboard.desktop:2
-msgctxt "Name"
-msgid "Keyboard Layout"
-msgstr "କିବୋର୍ଡ଼ ବିନ୍ୟାସ"
-
-#: kcontrol/keyboard/plasma_applet_keyboard.desktop:93
-msgctxt "Comment"
-msgid "View and switch between active keyboard layouts"
-msgstr ""
-
-#: kcontrol/keys/keys.desktop:14
-msgctxt "Name"
-msgid "Global Keyboard Shortcuts"
-msgstr "ଜାଗତିକ କିବୋର୍ଡ଼ ସଂକ୍ଷିପ୍ତ ପଥ"
-
-#: kcontrol/keys/keys.desktop:95
-msgctxt "Comment"
-msgid "Configuration of keybindings"
-msgstr "କିବନ୍ଧନଗୁଡ଼ିକର ସଂରଚନା"
-
-#: kcontrol/keys/keys.desktop:187
-msgctxt "X-KDE-Keywords"
-msgid ""
-"Keys,Global key bindings,Key scheme,Key bindings,shortcuts,application "
-"shortcuts,global shortcuts"
-msgstr ""
-
-#: kcontrol/kfontinst/apps/installfont.desktop:7
-msgctxt "Name"
-msgid "Install..."
-msgstr "ସ୍ଥାପନ କରନ୍ତୁ..."
-
-#: kcontrol/kfontinst/apps/kfontview.desktop:2
-msgctxt "Name"
-msgid "KFontView"
-msgstr "KFontView"
-
-#: kcontrol/kfontinst/apps/kfontview.desktop:97
-msgctxt "GenericName"
-msgid "Font Viewer"
-msgstr "ଅକ୍ଷରରୂପ ପ୍ରଦର୍ଶକ"
-
-#: kcontrol/kfontinst/dbus/fontinst.actions:2
-msgctxt "Name"
-msgid "Font Installer"
-msgstr "ଅକ୍ଷରରୂପ ସ୍ଥାପକ"
-
-#: kcontrol/kfontinst/dbus/fontinst.actions:96
-msgctxt "Name"
-msgid "Manage system-wide fonts."
-msgstr ""
-
-#: kcontrol/kfontinst/dbus/fontinst.actions:163
-msgctxt "Description"
-msgid "Modifying the system-wide font configuration requires privileges."
-msgstr ""
-
-#: kcontrol/kfontinst/kcmfontinst/fontinst.desktop:11
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "File Management"
-msgctxt "Name"
-msgid "Font Management"
-msgstr "ଫାଇଲ ପରିଚାଳନା"
-
-#: kcontrol/kfontinst/kcmfontinst/fontinst.desktop:64
-msgctxt "Comment"
-msgid "Install, manage, and preview fonts"
-msgstr "ଅକ୍ଷରରୂପଗୁଡ଼ିକୁ ସ୍ଥାପନ କରନ୍ତୁ, ପରିଚାଳନ କରନ୍ତୁ, ଏବଂ ପ୍ରାକଦର୍ଶନ କରନ୍ତୁ"
-
-#: kcontrol/kfontinst/kcmfontinst/fontinst.desktop:149
-msgctxt "X-KDE-Keywords"
-msgid "font,fonts,installer,truetype,type1,bitmap"
-msgstr ""
-
-#: kcontrol/kfontinst/thumbnail/fontthumbnail.desktop:3
-msgctxt "Name"
-msgid "Font Files"
-msgstr "ଅକ୍ଷରରୂପ ଫାଇଲଗୁଡ଼ିକ"
-
-#: kcontrol/kfontinst/viewpart/kfontviewpart.desktop:2
-msgctxt "Name"
-msgid "Font Viewer"
-msgstr "ଅକ୍ଷରରୂପ ପ୍ରଦର୍ଶକ"
-
-#: kcontrol/launch/kcmlaunch.desktop:14
-msgctxt "Name"
-msgid "Launch Feedback"
-msgstr ""
-
-#: kcontrol/launch/kcmlaunch.desktop:102
-msgctxt "Comment"
-msgid "Choose application-launch feedback style"
-msgstr ""
-
-#: kcontrol/launch/kcmlaunch.desktop:191
-msgctxt "X-KDE-Keywords"
-msgid ""
-"application,start,launch,busy,cursor,feedback,mouse,pointer,bouncing,"
-"rotating,spinning,disk,startup,program,report,taskbar"
-msgstr ""
-
-#: kcontrol/standard_actions/standard_actions.desktop:15
-msgctxt "Name"
-msgid "Standard Keyboard Shortcuts"
-msgstr "ମାନକ କିବୋର୍ଡ଼ ସଂକ୍ଷିପ୍ତ ପଥଗୁଡ଼ିକ"
-
-#: kcontrol/standard_actions/standard_actions.desktop:94
-msgctxt "Comment"
-msgid "Configuration of standard keybindings"
-msgstr "ମାନକ କି ବନ୍ଧନଗୁଡ଼ିକର ସଂରଚନା"
-
-#: kcontrol/standard_actions/standard_actions.desktop:172
-msgctxt "X-KDE-Keywords"
-msgid ""
-"Keys,Global key bindings,Key scheme,Key bindings,shortcuts,application "
-"shortcuts"
-msgstr ""
-
-#: kcontrol/style/kcmstyle.notifyrc:3
-#, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Calendar Manager"
-msgctxt "Name"
-msgid "Menubar manager"
-msgstr "କ୍ୟାଲେଣ୍ଡର ପରିଚାଳକ"
-
-#: kcontrol/style/kcmstyle.notifyrc:46
-msgctxt "Comment"
-msgid "Menubar exporter"
-msgstr ""
-
-#: kcontrol/style/kcmstyle.notifyrc:90
-msgctxt "Name"
-msgid "Menubar changed"
-msgstr ""
-
-#: kcontrol/style/kcmstyle.notifyrc:133
-msgctxt "Comment"
-msgid "Settings changes will take effect only on application restart"
-msgstr ""
-
-#: kcontrol/style/style.desktop:15
-msgctxt "Name"
-msgid "Style"
-msgstr "ଶୈଳୀ"
-
-#: kcontrol/style/style.desktop:107
-msgctxt "Comment"
-msgid ""
-"Allows the manipulation of widget behavior and changing the Style for KDE"
-msgstr ""
-
-#: kcontrol/style/style.desktop:194
-msgctxt "X-KDE-Keywords"
-msgid ""
-"style,styles,look,widget,icons,toolbars,text,highlight,apps,KDE applications,"
-"theme,plasma"
-msgstr ""
 
 #: khotkeys/app/khotkeys.desktop:2
 msgctxt "Name"
@@ -1115,7 +505,7 @@ msgid "KInfoCenter Category"
 msgstr "KInfoCenter"
 
 #: kinfocenter/Categories/lostfoundcategory.desktop:7
-#: plasma/generic/dataengines/soliddevice/plasma-dataengine-soliddevice.desktop:2
+#: plasma-workspace/dataengines/soliddevice/plasma-dataengine-soliddevice.desktop:2
 msgctxt "Name"
 msgid "Device Information"
 msgstr "ଯନ୍ତ୍ର ସୂଚନା"
@@ -1247,7 +637,7 @@ msgctxt "Name"
 msgid "Wayland"
 msgstr "ଥାଇଲ୍ୟାଣ୍ଡ"
 
-#: kinfocenter/Modules/info/wayland.desktop:34
+#: kinfocenter/Modules/info/wayland.desktop:36
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Files and Directories"
@@ -1255,7 +645,7 @@ msgctxt "Comment"
 msgid "Information about the Wayland Compositor"
 msgstr "ଫାଇଲ ଏବଂ ଡ଼ିରେକ୍ଟୋରୀଗୁଡ଼ିକ"
 
-#: kinfocenter/Modules/info/wayland.desktop:57
+#: kinfocenter/Modules/info/wayland.desktop:61
 msgctxt "X-KDE-Keywords"
 msgid "Wayland,Compositor,Display,System Information"
 msgstr ""
@@ -1298,7 +688,7 @@ msgid "Network Interfaces"
 msgstr "ନେଟୱର୍କ ଅନ୍ତରାପୃଷ୍ଠ"
 
 #: kinfocenter/Modules/nics/nic.desktop:105
-#: plasma/generic/dataengines/network/plasma-dataengine-network.desktop:79
+#: plasma-workspace/dataengines/network/plasma-dataengine-network.desktop:79
 msgctxt "Comment"
 msgid "Network interface information"
 msgstr "ନେଟୱର୍କ ଅନ୍ତାରାପୃଷ୍ଠ ସୂଚନା"
@@ -1380,113 +770,6 @@ msgctxt "X-KDE-Keywords"
 msgid "1394,Firewire,devices,viewer,control"
 msgstr ""
 
-#: klipper/klipper.desktop:2
-msgctxt "Name"
-msgid "Klipper"
-msgstr ""
-
-#: klipper/klipper.desktop:92
-msgctxt "GenericName"
-msgid "Clipboard Tool"
-msgstr ""
-
-#: klipper/klipper.desktop:192
-msgctxt "Comment"
-msgid "A cut & paste history utility"
-msgstr ""
-
-#: klipper/klipperrc.desktop:14
-msgctxt "Description"
-msgid "Jpeg-Image"
-msgstr ""
-
-#: klipper/klipperrc.desktop:110
-msgctxt "Description"
-msgid "Launch &Gwenview"
-msgstr ""
-
-#: klipper/klipperrc.desktop:193
-msgctxt "Description"
-msgid "Web-URL"
-msgstr ""
-
-#: klipper/klipperrc.desktop:288 klipper/klipperrc.desktop:1974
-msgctxt "Description"
-msgid "Open with &default Browser"
-msgstr ""
-
-#: klipper/klipperrc.desktop:371 klipper/klipperrc.desktop:2057
-msgctxt "Description"
-msgid "Open with &Konqueror"
-msgstr ""
-
-#: klipper/klipperrc.desktop:466 klipper/klipperrc.desktop:2151
-msgctxt "Description"
-msgid "Open with &Mozilla"
-msgstr ""
-
-#: klipper/klipperrc.desktop:560 klipper/klipperrc.desktop:1406
-#: klipper/klipperrc.desktop:1690 klipper/klipperrc.desktop:2245
-msgctxt "Description"
-msgid "Send &URL"
-msgstr ""
-
-#: klipper/klipperrc.desktop:656
-msgctxt "Description"
-msgid "Open with &Firefox"
-msgstr ""
-
-#: klipper/klipperrc.desktop:747
-msgctxt "Description"
-msgid "Send &Page"
-msgstr ""
-
-#: klipper/klipperrc.desktop:841
-msgctxt "Description"
-msgid "Mail-URL"
-msgstr ""
-
-#: klipper/klipperrc.desktop:935
-msgctxt "Description"
-msgid "Launch &Kmail"
-msgstr ""
-
-#: klipper/klipperrc.desktop:1029
-msgctxt "Description"
-msgid "Launch &mutt"
-msgstr ""
-
-#: klipper/klipperrc.desktop:1122
-msgctxt "Description"
-msgid "Text File"
-msgstr ""
-
-#: klipper/klipperrc.desktop:1218
-msgctxt "Description"
-msgid "Launch K&Write"
-msgstr ""
-
-#: klipper/klipperrc.desktop:1311
-msgctxt "Description"
-msgid "Local file URL"
-msgstr ""
-
-#: klipper/klipperrc.desktop:1501 klipper/klipperrc.desktop:1785
-#: klipper/klipperrc.desktop:2340
-msgctxt "Description"
-msgid "Send &File"
-msgstr ""
-
-#: klipper/klipperrc.desktop:1595
-msgctxt "Description"
-msgid "Gopher URL"
-msgstr ""
-
-#: klipper/klipperrc.desktop:1879
-msgctxt "Description"
-msgid "ftp URL"
-msgstr ""
-
 #: kmenuedit/kmenuedit.desktop:9
 msgctxt "Name"
 msgid "Menu Editor"
@@ -1495,153 +778,6 @@ msgstr ""
 #: krunner/krunner.desktop:4
 msgctxt "Name"
 msgid "Command Runner"
-msgstr ""
-
-#: ksmserver/kcm/kcmsmserver.desktop:13
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "File Management"
-msgctxt "Name"
-msgid "Session Management"
-msgstr "ଫାଇଲ ପରିଚାଳନା"
-
-#: ksmserver/kcm/kcmsmserver.desktop:78
-msgctxt "Comment"
-msgid "Configure the session manager and logout settings"
-msgstr ""
-
-#: ksmserver/kcm/kcmsmserver.desktop:168
-msgctxt "X-KDE-Keywords"
-msgid "ksmserver,session,logout,confirmation,save,restore"
-msgstr ""
-
-#: ksmserver/screenlocker/greeter/themes/org.kde.passworddialog/metadata.desktop:2
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Password caching support"
-msgctxt "Name"
-msgid "Password dialog"
-msgstr "ପ୍ରବେଶ ସଂକେତ ଧରିବା ସମର୍ଥନ"
-
-#: ksmserver/screenlocker/greeter/themes/org.kde.passworddialog/metadata.desktop:46
-msgctxt "Comment"
-msgid ""
-"Screen locker that provides a password dialog and an interface to switch the "
-"current user"
-msgstr ""
-
-#: ksmserver/screenlocker/kscreenlocker.notifyrc:3
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Screen Saver"
-msgctxt "Comment"
-msgid "Screen Saver"
-msgstr "ପରଦା ସଂରକ୍ଷକ"
-
-#: ksmserver/screenlocker/kscreenlocker.notifyrc:68
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Screen Saver"
-msgctxt "Name"
-msgid "Screen saver started"
-msgstr "ପରଦା ସଂରକ୍ଷକ"
-
-#: ksmserver/screenlocker/kscreenlocker.notifyrc:136
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "The trash has been emptied"
-msgctxt "Comment"
-msgid "The screen saver has been started"
-msgstr "ଆବର୍ଜନାପାତ୍ରକୁ ଖାଲିକରାଯାଇଛି"
-
-#: ksmserver/screenlocker/kscreenlocker.notifyrc:206
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Screen Saver"
-msgctxt "Name"
-msgid "Screen locked"
-msgstr "ପରଦା ସଂରକ୍ଷକ"
-
-#: ksmserver/screenlocker/kscreenlocker.notifyrc:274
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "A modifier key has been locked"
-msgctxt "Comment"
-msgid "The screen has been locked"
-msgstr "ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି ଅପରିବର୍ତ୍ତିତ ହୋଇଯାଇଛି"
-
-#: ksmserver/screenlocker/kscreenlocker.notifyrc:345
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Screen Saver"
-msgctxt "Name"
-msgid "Screen saver exited"
-msgstr "ପରଦା ସଂରକ୍ଷକ"
-
-#: ksmserver/screenlocker/kscreenlocker.notifyrc:412
-msgctxt "Comment"
-msgid "The screen saver has finished"
-msgstr ""
-
-#: ksmserver/screenlocker/kscreenlocker.notifyrc:482
-msgctxt "Name"
-msgid "Screen unlocked"
-msgstr ""
-
-#: ksmserver/screenlocker/kscreenlocker.notifyrc:550
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "A modifier key has been locked"
-msgctxt "Comment"
-msgid "The screen has been unlocked"
-msgstr "ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି ଅପରିବର୍ତ୍ତିତ ହୋଇଯାଇଛି"
-
-#: ksmserver/screenlocker/kscreenlocker.notifyrc:619
-msgctxt "Name"
-msgid "Screen unlock failed"
-msgstr ""
-
-#: ksmserver/screenlocker/kscreenlocker.notifyrc:687
-msgctxt "Comment"
-msgid "Failed attempt to unlock the screen"
-msgstr ""
-
-#: ksmserver/themes/contour/metadata.desktop:3
-msgctxt "Name"
-msgid "Contour"
-msgstr ""
-
-#: ksmserver/themes/contour/metadata.desktop:48
-msgctxt "Comment"
-msgid "Plasma Active theme"
-msgstr ""
-
-#: ksmserver/themes/default/metadata.desktop:3
-msgctxt "Name"
-msgid "Default"
-msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ"
-
-#: ksmserver/themes/default/metadata.desktop:93
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Plasma Desktop Workspace"
-msgctxt "Comment"
-msgid "Default Plasma Desktop theme"
-msgstr "ପ୍ଲାଜମା ଡ଼େସ୍କଟପ କାର୍ଯ୍ୟସ୍ଥଳ"
-
-#: ksplash/kcm/ksplashthememgr.desktop:15
-msgctxt "Name"
-msgid "Splash Screen"
-msgstr ""
-
-#: ksplash/kcm/ksplashthememgr.desktop:102
-msgctxt "Comment"
-msgid "Manager for Splash Screen Themes"
-msgstr ""
-
-#: ksplash/kcm/ksplashthememgr.desktop:189
-msgctxt "X-KDE-Keywords"
-msgid "splash screen,splash theme,startup"
 msgstr ""
 
 #: kstyles/oxygen/oxygen.themerc:2 kwin/clients/oxygen/oxygenclient.desktop:3
@@ -1901,16 +1037,6 @@ msgctxt "GenericName"
 msgid "System Monitor"
 msgstr "ତନ୍ତ୍ର ପ୍ରଦର୍ଶିକା"
 
-#: ktouchpadenabler/ktouchpadenabler.desktop:9
-msgctxt "Name"
-msgid "KDE TouchPad Enabler Daemon"
-msgstr ""
-
-#: ktouchpadenabler/ktouchpadenabler.desktop:53
-msgctxt "Comment"
-msgid "Toggles the enable status of the TouchPad"
-msgstr ""
-
 #: kwin/clients/aurorae/src/aurorae.desktop:2
 msgctxt "Name"
 msgid "Aurorae Decoration Theme Engine"
@@ -1944,7 +1070,7 @@ msgctxt "Name"
 msgid "Background contrast"
 msgstr ""
 
-#: kwin/effects/backgroundcontrast/contrast.desktop:31
+#: kwin/effects/backgroundcontrast/contrast.desktop:32
 msgctxt "Comment"
 msgid "Improve contrast and readability behind semi-transparent windows"
 msgstr ""
@@ -2854,7 +1980,7 @@ msgctxt "Name"
 msgid "Text Only"
 msgstr "ଡ଼େସ୍କଟପ ଅଧିବେଶନଗୁଡ଼ିକ"
 
-#: kwin/tabbox/qml/clients/text/metadata.desktop:32
+#: kwin/tabbox/qml/clients/text/metadata.desktop:33
 msgctxt "Comment"
 msgid "A window switcher layout only showing window captions"
 msgstr ""
@@ -2972,29 +2098,29 @@ msgctxt "Name"
 msgid "Detailed Memory Information"
 msgstr "ସ୍ମୃତିସ୍ଥାନ ସୂଚନା"
 
-#: plasma/desktop/applets/kickoff/package/metadata.desktop:2
-#: plasma/generic/containmentactions/applauncher/plasma-containmentactions-applauncher.desktop:2
+#: plasma-desktop/applets/kickoff/package/metadata.desktop:2
+#: plasma-workspace/containmentactions/applauncher/plasma-containmentactions-applauncher.desktop:2
 msgctxt "Name"
 msgid "Application Launcher"
 msgstr "ପ୍ରୟୋଗ ଆରମ୍ଭକର୍ତ୍ତା"
 
-#: plasma/desktop/applets/kickoff/package/metadata.desktop:88
+#: plasma-desktop/applets/kickoff/package/metadata.desktop:88
 msgctxt "Comment"
 msgid "Launcher to start applications"
 msgstr ""
 
-#: plasma/desktop/applets/pager/package/metadata.desktop:2
+#: plasma-desktop/applets/pager/package/metadata.desktop:2
 msgctxt "Name"
 msgid "Pager"
 msgstr "ପେଜର"
 
-#: plasma/desktop/applets/pager/package/metadata.desktop:84
+#: plasma-desktop/applets/pager/package/metadata.desktop:84
 msgctxt "Comment"
 msgid "Switch between virtual desktops"
 msgstr "ଆଭାସୀ ଡ଼େସ୍କଟପଗୁଡ଼ିକ ମଧ୍ଯରେ ଅଦଳ ବଦଳ କରନ୍ତୁ"
 
-#: plasma/desktop/applets/showActivityManager/package/metadata.desktop:2
-#: plasma/generic/runners/activities/plasma-runner-activityrunner.desktop:2
+#: plasma-desktop/applets/showActivityManager/package/metadata.desktop:2
+#: plasma-workspace/runners/activities/plasma-runner-activityrunner.desktop:2
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Service Manager"
@@ -3002,7 +2128,7 @@ msgctxt "Name"
 msgid "Activities"
 msgstr "ସର୍ଭିସ ପରିଚାଳକ"
 
-#: plasma/desktop/applets/showActivityManager/package/metadata.desktop:57
+#: plasma-desktop/applets/showActivityManager/package/metadata.desktop:57
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Service Manager"
@@ -3010,22 +2136,22 @@ msgctxt "Comment"
 msgid "Shows the activity manager"
 msgstr "ସର୍ଭିସ ପରିଚାଳକ"
 
-#: plasma/desktop/applets/taskmanager/package/metadata.desktop:2
+#: plasma-desktop/applets/taskmanager/package/metadata.desktop:2
 msgctxt "Name"
 msgid "Task Manager"
 msgstr "କାର୍ଯ୍ୟ ପରିଚାଳକ"
 
-#: plasma/desktop/applets/taskmanager/package/metadata.desktop:83
+#: plasma-desktop/applets/taskmanager/package/metadata.desktop:83
 msgctxt "Comment"
 msgid "Switch between running applications"
 msgstr "ଚାଲୁଥିବା ପ୍ରୟୋଗଗୁଡ଼ିକ ମଧ୍ଯରେ ଅଦଳ ବଦଳ କରନ୍ତୁ"
 
-#: plasma/desktop/applets/trash/metadata.desktop:2
+#: plasma-desktop/applets/trash/metadata.desktop:2
 msgctxt "Name"
 msgid "trash(qml)"
 msgstr ""
 
-#: plasma/desktop/applets/window-list/metadata.desktop:3
+#: plasma-desktop/applets/window-list/metadata.desktop:3
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "MS Windows 9x"
@@ -3033,33 +2159,33 @@ msgctxt "Name"
 msgid "Window list"
 msgstr "MS Windows 9x"
 
-#: plasma/desktop/applets/window-list/metadata.desktop:40
+#: plasma-desktop/applets/window-list/metadata.desktop:40
 msgctxt "Comment"
 msgid "Plasmoid to show list of opened windows."
 msgstr ""
 
-#: plasma/desktop/containments/desktop/package/metadata.desktop:2
-#: plasma/desktop/qmlpackages/desktop/metadata.desktop:33
+#: plasma-desktop/containments/desktop/package/metadata.desktop:2
+#: plasma-desktop/qmlpackages/desktop/metadata.desktop:34
 msgctxt "Name"
 msgid "Desktop"
 msgstr "ଡ଼େସ୍କଟପ"
 
-#: plasma/desktop/containments/desktop/package/metadata.desktop:85
+#: plasma-desktop/containments/desktop/package/metadata.desktop:85
 msgctxt "Comment"
 msgid "A clean and simple layout"
 msgstr ""
 
-#: plasma/desktop/containments/desktop/tests/org.kde.tests.background/metadata.desktop:2
+#: plasma-desktop/containments/desktop/tests/org.kde.tests.background/metadata.desktop:2
 msgctxt "Comment"
 msgid "Testing background settings in Plasma Quick Containments"
 msgstr ""
 
-#: plasma/desktop/containments/desktop/tests/org.kde.tests.background/metadata.desktop:39
+#: plasma-desktop/containments/desktop/tests/org.kde.tests.background/metadata.desktop:39
 msgctxt "Name"
 msgid "Background Test"
 msgstr ""
 
-#: plasma/desktop/containments/panel/metadata.desktop:4
+#: plasma-desktop/containments/panel/metadata.desktop:4
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Panel"
@@ -3067,7 +2193,7 @@ msgctxt "Name"
 msgid "Panel"
 msgstr "ଫଳକ"
 
-#: plasma/desktop/containments/panel/plasma-containment-panel.desktop:2
+#: plasma-desktop/containments/panel/plasma-containment-panel.desktop:2
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Panel"
@@ -3075,12 +2201,572 @@ msgctxt "Name"
 msgid "Empty Panel"
 msgstr "ଫଳକ"
 
-#: plasma/desktop/containments/panel/plasma-containment-panel.desktop:41
+#: plasma-desktop/containments/panel/plasma-containment-panel.desktop:42
 msgctxt "Comment"
 msgid "A simple linear panel"
 msgstr ""
 
-#: plasma/desktop/qmlpackages/desktop/metadata.desktop:2
+#: plasma-desktop/kcms/access/kaccess.desktop:3
+msgctxt "Name"
+msgid "KDE Accessibility Tool"
+msgstr "KDE ଅଭିଗମ୍ୟତା ଉପକରଣ"
+
+#: plasma-desktop/kcms/access/kaccess.notifyrc:3
+msgctxt "Comment"
+msgid "Accessibility"
+msgstr "ଅଭିଗମ୍ୟତା"
+
+#: plasma-desktop/kcms/access/kaccess.notifyrc:96
+msgctxt "Name"
+msgid "A modifier key has become active"
+msgstr "ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି ସକ୍ରିୟ ହୋଇଯାଇଛି"
+
+#: plasma-desktop/kcms/access/kaccess.notifyrc:175
+msgctxt "Comment"
+msgid ""
+"A modifier key (e.g. Shift or Ctrl) has changed its state and is now active"
+msgstr ""
+"ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି (ଯେପରିକି Shift କିମ୍ବା Ctrl) ସେମାନଙ୍କର ସ୍ଥିତି ପରିବର୍ତ୍ତନ କରିଅଛି ଏବଂ ବର୍ତ୍ତମାନ "
+"ସକ୍ରିୟ ଅଛି"
+
+#: plasma-desktop/kcms/access/kaccess.notifyrc:255
+msgctxt "Name"
+msgid "A modifier key has become inactive"
+msgstr "ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି ନିଷ୍କ୍ରିୟ ହୋଇଯାଇଛି"
+
+#: plasma-desktop/kcms/access/kaccess.notifyrc:334
+msgctxt "Comment"
+msgid ""
+"A modifier key (e.g. Shift or Ctrl) has changed its state and is now inactive"
+msgstr ""
+"ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି (ଯେପରିକି Shift କିମ୍ବା Ctrl) ସେମାନଙ୍କର ସ୍ଥିତି ପରିବର୍ତ୍ତନ କରିଛନ୍ତି ଏବଂ "
+"ବର୍ତ୍ତମାନ ନିଷ୍କ୍ରିୟ ହୋଇଯାଇଛନ୍ତି"
+
+#: plasma-desktop/kcms/access/kaccess.notifyrc:414
+msgctxt "Name"
+msgid "A modifier key has been locked"
+msgstr "ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି ଅପରିବର୍ତ୍ତିତ ହୋଇଯାଇଛି"
+
+#: plasma-desktop/kcms/access/kaccess.notifyrc:493
+msgctxt "Comment"
+msgid ""
+"A modifier key (e.g. Shift or Ctrl) has been locked and is now active for "
+"all of the following keypresses"
+msgstr ""
+"ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି (ଯେପରିକି Shift କିମ୍ବା Ctrl) ଅପରିବର୍ତ୍ତିତ ହୋଇଯାଇଛି ଏବଂ ବର୍ତ୍ତମାନ ନିମ୍ନଲିଖିତ "
+"ସମସ୍ତ କି ଚାପ ପାଇଁ ସକ୍ରିୟ ହୋଇଛି"
+
+#: plasma-desktop/kcms/access/kaccess.notifyrc:573
+msgctxt "Name"
+msgid "A lock key has been activated"
+msgstr "ଗୋଟିଏ ଅପରିବର୍ତ୍ତନୀୟ କିକୁ ସକ୍ରିୟ କରାଯାଇଛି"
+
+#: plasma-desktop/kcms/access/kaccess.notifyrc:653
+msgctxt "Comment"
+msgid ""
+"A lock key (e.g. Caps Lock or Num Lock) has changed its state and is now "
+"active"
+msgstr ""
+"ଗୋଟିଏ ଅପରିବର୍ତ୍ତନୀୟ କି (ଯେପରିକି Caps Lock କିମ୍ବା Num Lock) ସେମାନଙ୍କର ସ୍ଥିତି ପରିବର୍ତ୍ତନ କରିଛନ୍ତି "
+"ଏବଂ ବର୍ତ୍ତମାନ ସକ୍ରିୟ ଅଛନ୍ତି"
+
+#: plasma-desktop/kcms/access/kaccess.notifyrc:733
+msgctxt "Name"
+msgid "A lock key has been deactivated"
+msgstr "ଗୋଟିଏ ଅପରିବର୍ତ୍ତନୀୟ କିକୁ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
+
+#: plasma-desktop/kcms/access/kaccess.notifyrc:813
+msgctxt "Comment"
+msgid ""
+"A lock key (e.g. Caps Lock or Num Lock) has changed its state and is now "
+"inactive"
+msgstr ""
+"ଗୋଟିଏ ଅପରିବର୍ତ୍ତନୀୟ କି (ଯେପରିକି Caps Lock କିମ୍ବା Num Lock) ସେମାନଙ୍କର ସ୍ଥିତି ପରିବର୍ତ୍ତନ କରିଛନ୍ତି "
+"ଏବଂ ବର୍ତ୍ତମାନ ନିଷ୍କ୍ରିୟ ଅଛି"
+
+#: plasma-desktop/kcms/access/kaccess.notifyrc:893
+msgctxt "Name"
+msgid "Sticky keys has been enabled or disabled"
+msgstr "Sticky କିଗୁଡ଼ିକୁ ସକ୍ରିୟ ଅଥବା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
+
+#: plasma-desktop/kcms/access/kaccess.notifyrc:971
+msgctxt "Comment"
+msgid "Sticky keys has been enabled or disabled"
+msgstr "Sticky କିଗୁଡ଼ିକୁ ସକ୍ରିୟ ଅଥବା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
+
+#: plasma-desktop/kcms/access/kaccess.notifyrc:1054
+msgctxt "Name"
+msgid "Slow keys has been enabled or disabled"
+msgstr "Slow କିଗୁଡ଼ିକୁ ସକ୍ରିୟ ଅଥବା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
+
+#: plasma-desktop/kcms/access/kaccess.notifyrc:1131
+msgctxt "Comment"
+msgid "Slow keys has been enabled or disabled"
+msgstr "Slow କିଗୁଡ଼ିକୁ ସକ୍ରିୟ ଅଥବା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
+
+#: plasma-desktop/kcms/access/kaccess.notifyrc:1213
+msgctxt "Name"
+msgid "Bounce keys has been enabled or disabled"
+msgstr "Bounce କିଗୁଡ଼ିକୁ ସକ୍ରିୟ ଅଥବା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
+
+#: plasma-desktop/kcms/access/kaccess.notifyrc:1291
+msgctxt "Comment"
+msgid "Bounce keys has been enabled or disabled"
+msgstr "Bounce କିଗୁଡ଼ିକୁ ସକ୍ରିୟ ଅଥବା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
+
+#: plasma-desktop/kcms/access/kaccess.notifyrc:1374
+msgctxt "Name"
+msgid "Mouse keys has been enabled or disabled"
+msgstr "ମାଉସ କିଗୁଡ଼ିକୁ ସକ୍ରିୟ ଅଥବା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
+
+#: plasma-desktop/kcms/access/kaccess.notifyrc:1452
+msgctxt "Comment"
+msgid "Mouse keys has been enabled or disabled"
+msgstr "ମାଉସ କିଗୁଡ଼ିକୁ ସକ୍ରିୟ ଅଥବା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
+
+#: plasma-desktop/kcms/access/kcmaccess.desktop:15
+#: systemsettings/categories/settings-accessibility.desktop:8
+msgctxt "Name"
+msgid "Accessibility"
+msgstr "ଅଭିଗମ୍ୟତା"
+
+#: plasma-desktop/kcms/access/kcmaccess.desktop:109
+msgctxt "Comment"
+msgid "Improve accessibility for disabled persons"
+msgstr "ନିଷ୍କ୍ରିୟ ବ୍ୟକ୍ତିମାନଙ୍କ ପାଇଁ ଅଭିଗମ୍ୟତା ଉନ୍ନତ କରନ୍ତୁ"
+
+#: plasma-desktop/kcms/access/kcmaccess.desktop:199
+msgctxt "X-KDE-Keywords"
+msgid ""
+"access,accessibility,deaf,impaired,hearing,hearing loss,bell,audible bell,"
+"visible bell,Keyboard,keys,sticky keys,bounce keys,slow keys,mouse "
+"navigation,num pad,numpad,activation gestures,gestures,sticky,modifier keys,"
+"modifier,locking keys"
+msgstr ""
+
+#: plasma-desktop/kcms/autostart/autostart.desktop:13
+msgctxt "Name"
+msgid "Autostart"
+msgstr "ସ୍ୱୟଂଚାଳନ"
+
+#: plasma-desktop/kcms/autostart/autostart.desktop:103
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "A configuration tool for managing which programs start up with KDE."
+msgctxt "Comment"
+msgid "Manage which programs start up automatically with KDE."
+msgstr ""
+"କେଉଁ ପ୍ରଗ୍ରାମ KDE ସହିତ ଆରମ୍ଭ ହେବା ଉଚିତ ତାହା ପରିଚାଳନା କରିବା ପାଇଁ ଏହା ଗୋଟିଏ ସଂରଚନା ଉପକରଣ।"
+
+#: plasma-desktop/kcms/autostart/autostart.desktop:149
+msgctxt "X-KDE-Keywords"
+msgid "Autostart Manager,autostart,startup,system startup,kde start,cron"
+msgstr ""
+
+#: plasma-desktop/kcms/bell/bell.desktop:17
+msgctxt "Name"
+msgid "System Bell"
+msgstr "ତନ୍ତ୍ର ଘଣ୍ଟି"
+
+#: plasma-desktop/kcms/bell/bell.desktop:109
+msgctxt "Comment"
+msgid "System Bell Configuration"
+msgstr "ତନ୍ତ୍ର ଘଣ୍ଟି ସଂରଚନା"
+
+#: plasma-desktop/kcms/bell/bell.desktop:201
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Bell,Audio,Sound,Volume,Pitch,Duration,PC Speaker,Internal Speaker,Speaker,"
+"System Bell,System Speaker,Internal PC Speaker"
+msgstr ""
+
+#: plasma-desktop/kcms/colors/colors.desktop:14
+msgctxt "Name"
+msgid "Colors"
+msgstr "ରଙ୍ଗ"
+
+#: plasma-desktop/kcms/colors/colors.desktop:107
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Switch between running applications"
+msgctxt "Comment"
+msgid "Change the colors used in applications"
+msgstr "ଚାଲୁଥିବା ପ୍ରୟୋଗଗୁଡ଼ିକ ମଧ୍ଯରେ ଅଦଳ ବଦଳ କରନ୍ତୁ"
+
+#: plasma-desktop/kcms/colors/colors.desktop:153
+msgctxt "X-KDE-Keywords"
+msgid ""
+"colors,colours,scheme,contrast,Widget colors,Color Scheme,color style,color "
+"theme"
+msgstr ""
+
+#: plasma-desktop/kcms/dateandtime/clock.desktop:15
+msgctxt "Name"
+msgid "Date & Time"
+msgstr "ତାରିଖ ଏବଂ ସମୟ"
+
+#: plasma-desktop/kcms/dateandtime/clock.desktop:108
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Date and time settings"
+msgctxt "Comment"
+msgid "Configure date and time settings"
+msgstr "ତାରିଖ ଏବଂ ସମୟ ସଂରଚନା"
+
+#: plasma-desktop/kcms/dateandtime/clock.desktop:156
+msgctxt "X-KDE-Keywords"
+msgid ""
+"clock,date,time,time zone,ntp,synchronize,calendar,local time,region time"
+msgstr ""
+
+#: plasma-desktop/kcms/dateandtime/kcmclock_actions.actions:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Date and Time"
+msgctxt "Name"
+msgid "Date and Time Control Module"
+msgstr "ତାରିଖ ଏବଂ ସମୟ"
+
+#: plasma-desktop/kcms/dateandtime/kcmclock_actions.actions:75
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Date and time settings"
+msgctxt "Name"
+msgid "Save the date/time settings"
+msgstr "ତାରିଖ ଏବଂ ସମୟ ସଂରଚନା"
+
+#: plasma-desktop/kcms/dateandtime/kcmclock_actions.actions:144
+msgctxt "Description"
+msgid "System policies prevent you from saving the date/time settings."
+msgstr ""
+
+#: plasma-desktop/kcms/desktoppaths/desktoppath.desktop:13
+msgctxt "Name"
+msgid "Paths"
+msgstr "ପଥଗୁଡ଼ିକ"
+
+#: plasma-desktop/kcms/desktoppaths/desktoppath.desktop:107
+msgctxt "Comment"
+msgid "Change the location important files are stored"
+msgstr "ଦରକାରି ଫାଇଲଗୁଡ଼ିକୁ ସଂରକ୍ଷିତ କରାଯାଇଥିବା ସ୍ଥାନକୁ ପରିବର୍ତ୍ତନ କରନ୍ତୁ"
+
+#: plasma-desktop/kcms/desktoppaths/desktoppath.desktop:198
+msgctxt "X-KDE-Keywords"
+msgid ""
+"konqueror,dolphin,files,filemanager,path, paths,desktop,directories,"
+"autostart,downloads,music,documents,movies,pictures"
+msgstr ""
+
+#: plasma-desktop/kcms/desktoptheme/desktoptheme.desktop:12
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop Theme Details"
+msgctxt "Name"
+msgid "Desktop Theme"
+msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବିବରଣୀ"
+
+#: plasma-desktop/kcms/desktoptheme/desktoptheme.desktop:77
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Customize individual desktop theme items"
+msgctxt "Comment"
+msgid "Customize the desktop theme"
+msgstr "ବ୍ୟକ୍ତିଗତ ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବସ୍ତୁଗୁଡ଼ିକୁ ଇଚ୍ଛାରୂପଣ କରୁଅଛି"
+
+#: plasma-desktop/kcms/desktoptheme/desktoptheme.desktop:141
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Desktop Theme Details"
+msgctxt "X-KDE-Keywords"
+msgid "Desktop Theme"
+msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବିବରଣୀ"
+
+#: plasma-desktop/kcms/fonts/fonts.desktop:14
+#: plasma-desktop/kcms/kfontinst/kio/fonts.desktop:5
+msgctxt "Name"
+msgid "Fonts"
+msgstr "ଅକ୍ଷର ରୂପ"
+
+#: plasma-desktop/kcms/fonts/fonts.desktop:107
+msgctxt "Comment"
+msgid "Font settings"
+msgstr "ଅକ୍ଷର ରୂପ ସଂଚଚନା"
+
+#: plasma-desktop/kcms/fonts/fonts.desktop:200
+msgctxt "X-KDE-Keywords"
+msgid ""
+"fonts,font size,styles,charsets,character sets,panel,control panel,desktops,"
+"FileManager,Toolbars,Menu,Window Title,Title,DPI,anti-aliasing,desktop fonts,"
+"toolbar fonts,character,general fonts"
+msgstr ""
+
+#: plasma-desktop/kcms/hardware/display/display.desktop:10
+msgctxt "Name"
+msgid "Display"
+msgstr "ପ୍ରଦର୍ଶକ"
+
+#: plasma-desktop/kcms/hardware/display/display.desktop:101
+#: systemsettings/categories/settings-display.desktop:70
+msgctxt "Comment"
+msgid "Display Settings"
+msgstr "ପ୍ରଦର୍ଶକ ସଂରଚନା"
+
+#: plasma-desktop/kcms/hardware/joystick/joystick.desktop:17
+msgctxt "Comment"
+msgid "Joystick settings"
+msgstr "Joystick ସଂରଚନା"
+
+#: plasma-desktop/kcms/hardware/joystick/joystick.desktop:96
+msgctxt "Name"
+msgid "Joystick"
+msgstr "Joystick"
+
+#: plasma-desktop/kcms/hardware/joystick/joystick.desktop:188
+msgctxt "X-KDE-Keywords"
+msgid "joystick,gamepad,controller"
+msgstr ""
+
+#: plasma-desktop/kcms/input/cursortheme.desktop:12
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Cursor Files"
+msgctxt "Name"
+msgid "Cursor Theme"
+msgstr "ସୂଚକ ଫାଇଲଗୁଡ଼ିକ"
+
+#: plasma-desktop/kcms/input/cursortheme.desktop:73
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Customize individual desktop theme items"
+msgctxt "Comment"
+msgid "Customize the mouse cursor appearance"
+msgstr "ବ୍ୟକ୍ତିଗତ ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବସ୍ତୁଗୁଡ଼ିକୁ ଇଚ୍ଛାରୂପଣ କରୁଅଛି"
+
+#: plasma-desktop/kcms/input/cursortheme.desktop:131
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Mouse,Cursor,Theme,Cursor Appearance,Cursor Color,Cursor Theme,Mouse Theme,"
+"Mouse Appearance,Mouse Skins,Pointer Colors,Pointer Appearance"
+msgstr ""
+
+#: plasma-desktop/kcms/input/mouse.desktop:16
+msgctxt "Name"
+msgid "Mouse"
+msgstr "ମାଉସ"
+
+#: plasma-desktop/kcms/input/mouse.desktop:109
+msgctxt "Comment"
+msgid "Mouse settings"
+msgstr "ମାଉସ ବିନ୍ୟାସ"
+
+#: plasma-desktop/kcms/input/mouse.desktop:201
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Mouse,Mouse acceleration,Mouse threshold,Mouse buttons,Selection,Cursor "
+"Shape,Input Devices,Button Mapping,Click,icons,feedback,Pointers,Drag,Double "
+"Click,Single Click,mapping,right handed,left handed,Pointer Device,Mouse "
+"Wheel,Mouse Emulation,Mouse Navigation,Mouse Drag and Drop,Mouse Scrolling,"
+"Mouse Sensitivity,Move Mouse with Num Pad,Mouse Num Pad Emulation"
+msgstr ""
+
+#: plasma-desktop/kcms/keyboard/kcm_keyboard.desktop:18
+msgctxt "Name"
+msgid "Keyboard"
+msgstr "କିବୋର୍ଡ଼"
+
+#: plasma-desktop/kcms/keyboard/kcm_keyboard.desktop:110
+msgctxt "Comment"
+msgid "Keyboard settings"
+msgstr "କିବୋର୍ଡ଼ ସଂରଚନା"
+
+#: plasma-desktop/kcms/keyboard/kcm_keyboard.desktop:202
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Keyboard,Keyboard repeat,Click volume,Input Devices,repeat,volume,NumLock,"
+"NumPad,Keyboard type,Keyboard model,Keyboard layout,Key layout,Language,"
+"Alternate Keyboard,Keyboard switching,Ctrl Key,Caps Lock,Esperanto,"
+"Circumflex,Kill X Server,LED Keyboard,Compose Key"
+msgstr ""
+
+#: plasma-desktop/kcms/keyboard/keyboard.desktop:12
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Keyboard Layout"
+msgctxt "Name"
+msgid "Keyboard Daemon"
+msgstr "କିବୋର୍ଡ଼ ବିନ୍ୟାସ"
+
+#: plasma-desktop/kcms/keyboard/plasma_applet_keyboard.desktop:2
+msgctxt "Name"
+msgid "Keyboard Layout"
+msgstr "କିବୋର୍ଡ଼ ବିନ୍ୟାସ"
+
+#: plasma-desktop/kcms/keyboard/plasma_applet_keyboard.desktop:93
+msgctxt "Comment"
+msgid "View and switch between active keyboard layouts"
+msgstr ""
+
+#: plasma-desktop/kcms/keys/keys.desktop:14
+msgctxt "Name"
+msgid "Global Keyboard Shortcuts"
+msgstr "ଜାଗତିକ କିବୋର୍ଡ଼ ସଂକ୍ଷିପ୍ତ ପଥ"
+
+#: plasma-desktop/kcms/keys/keys.desktop:95
+msgctxt "Comment"
+msgid "Configuration of keybindings"
+msgstr "କିବନ୍ଧନଗୁଡ଼ିକର ସଂରଚନା"
+
+#: plasma-desktop/kcms/keys/keys.desktop:187
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Keys,Global key bindings,Key scheme,Key bindings,shortcuts,application "
+"shortcuts,global shortcuts"
+msgstr ""
+
+#: plasma-desktop/kcms/kfontinst/apps/installfont.desktop:7
+msgctxt "Name"
+msgid "Install..."
+msgstr "ସ୍ଥାପନ କରନ୍ତୁ..."
+
+#: plasma-desktop/kcms/kfontinst/apps/kfontview.desktop:2
+msgctxt "Name"
+msgid "KFontView"
+msgstr "KFontView"
+
+#: plasma-desktop/kcms/kfontinst/apps/kfontview.desktop:97
+msgctxt "GenericName"
+msgid "Font Viewer"
+msgstr "ଅକ୍ଷରରୂପ ପ୍ରଦର୍ଶକ"
+
+#: plasma-desktop/kcms/kfontinst/dbus/fontinst.actions:2
+msgctxt "Name"
+msgid "Font Installer"
+msgstr "ଅକ୍ଷରରୂପ ସ୍ଥାପକ"
+
+#: plasma-desktop/kcms/kfontinst/dbus/fontinst.actions:96
+msgctxt "Name"
+msgid "Manage system-wide fonts."
+msgstr ""
+
+#: plasma-desktop/kcms/kfontinst/dbus/fontinst.actions:163
+msgctxt "Description"
+msgid "Modifying the system-wide font configuration requires privileges."
+msgstr ""
+
+#: plasma-desktop/kcms/kfontinst/kcmfontinst/fontinst.desktop:11
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "File Management"
+msgctxt "Name"
+msgid "Font Management"
+msgstr "ଫାଇଲ ପରିଚାଳନା"
+
+#: plasma-desktop/kcms/kfontinst/kcmfontinst/fontinst.desktop:64
+msgctxt "Comment"
+msgid "Install, manage, and preview fonts"
+msgstr "ଅକ୍ଷରରୂପଗୁଡ଼ିକୁ ସ୍ଥାପନ କରନ୍ତୁ, ପରିଚାଳନ କରନ୍ତୁ, ଏବଂ ପ୍ରାକଦର୍ଶନ କରନ୍ତୁ"
+
+#: plasma-desktop/kcms/kfontinst/kcmfontinst/fontinst.desktop:149
+msgctxt "X-KDE-Keywords"
+msgid "font,fonts,installer,truetype,type1,bitmap"
+msgstr ""
+
+#: plasma-desktop/kcms/kfontinst/thumbnail/fontthumbnail.desktop:3
+msgctxt "Name"
+msgid "Font Files"
+msgstr "ଅକ୍ଷରରୂପ ଫାଇଲଗୁଡ଼ିକ"
+
+#: plasma-desktop/kcms/kfontinst/viewpart/kfontviewpart.desktop:2
+msgctxt "Name"
+msgid "Font Viewer"
+msgstr "ଅକ୍ଷରରୂପ ପ୍ରଦର୍ଶକ"
+
+#: plasma-desktop/kcms/launch/kcmlaunch.desktop:14
+msgctxt "Name"
+msgid "Launch Feedback"
+msgstr ""
+
+#: plasma-desktop/kcms/launch/kcmlaunch.desktop:102
+msgctxt "Comment"
+msgid "Choose application-launch feedback style"
+msgstr ""
+
+#: plasma-desktop/kcms/launch/kcmlaunch.desktop:191
+msgctxt "X-KDE-Keywords"
+msgid ""
+"application,start,launch,busy,cursor,feedback,mouse,pointer,bouncing,"
+"rotating,spinning,disk,startup,program,report,taskbar"
+msgstr ""
+
+#: plasma-desktop/kcms/standard_actions/standard_actions.desktop:15
+msgctxt "Name"
+msgid "Standard Keyboard Shortcuts"
+msgstr "ମାନକ କିବୋର୍ଡ଼ ସଂକ୍ଷିପ୍ତ ପଥଗୁଡ଼ିକ"
+
+#: plasma-desktop/kcms/standard_actions/standard_actions.desktop:94
+msgctxt "Comment"
+msgid "Configuration of standard keybindings"
+msgstr "ମାନକ କି ବନ୍ଧନଗୁଡ଼ିକର ସଂରଚନା"
+
+#: plasma-desktop/kcms/standard_actions/standard_actions.desktop:172
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Keys,Global key bindings,Key scheme,Key bindings,shortcuts,application "
+"shortcuts"
+msgstr ""
+
+#: plasma-desktop/kcms/style/kcmstyle.notifyrc:3
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Calendar Manager"
+msgctxt "Name"
+msgid "Menubar manager"
+msgstr "କ୍ୟାଲେଣ୍ଡର ପରିଚାଳକ"
+
+#: plasma-desktop/kcms/style/kcmstyle.notifyrc:46
+msgctxt "Comment"
+msgid "Menubar exporter"
+msgstr ""
+
+#: plasma-desktop/kcms/style/kcmstyle.notifyrc:90
+msgctxt "Name"
+msgid "Menubar changed"
+msgstr ""
+
+#: plasma-desktop/kcms/style/kcmstyle.notifyrc:133
+msgctxt "Comment"
+msgid "Settings changes will take effect only on application restart"
+msgstr ""
+
+#: plasma-desktop/kcms/style/style.desktop:15
+msgctxt "Name"
+msgid "Style"
+msgstr "ଶୈଳୀ"
+
+#: plasma-desktop/kcms/style/style.desktop:107
+msgctxt "Comment"
+msgid ""
+"Allows the manipulation of widget behavior and changing the Style for KDE"
+msgstr ""
+
+#: plasma-desktop/kcms/style/style.desktop:194
+msgctxt "X-KDE-Keywords"
+msgid ""
+"style,styles,look,widget,icons,toolbars,text,highlight,apps,KDE applications,"
+"theme,plasma"
+msgstr ""
+
+#: plasma-desktop/ktouchpadenabler/ktouchpadenabler.desktop:9
+msgctxt "Name"
+msgid "KDE TouchPad Enabler Daemon"
+msgstr ""
+
+#: plasma-desktop/ktouchpadenabler/ktouchpadenabler.desktop:53
+msgctxt "Comment"
+msgid "Toggles the enable status of the TouchPad"
+msgstr ""
+
+#: plasma-desktop/qmlpackages/desktop/metadata.desktop:2
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Desktop Magnifier"
@@ -3088,7 +2774,7 @@ msgctxt "Comment"
 msgid "Desktop view furniture"
 msgstr "ଡେସ୍କଟପ ଆକାର ବୃଦ୍ଧିକାରୀ"
 
-#: plasma/desktop/qmlpackages/lookandfeel/metadata.desktop:2
+#: plasma-desktop/qmlpackages/lookandfeel/metadata.desktop:2
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Desktop Sessions"
@@ -3096,14 +2782,14 @@ msgctxt "Comment"
 msgid "Desktop Design Language"
 msgstr "ଡ଼େସ୍କଟପ ଅଧିବେଶନଗୁଡ଼ିକ"
 
-#: plasma/desktop/qmlpackages/lookandfeel/metadata.desktop:36
+#: plasma-desktop/qmlpackages/lookandfeel/metadata.desktop:37
 msgctxt "Keywords"
 msgid ""
 "Desktop, Workspace, Appearance, Look and Feel, Logout, Lock, Suspend, "
 "Shutdown, Hibernate,"
 msgstr ""
 
-#: plasma/desktop/qmlpackages/lookandfeel/metadata.desktop:67
+#: plasma-desktop/qmlpackages/lookandfeel/metadata.desktop:68
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Look & Feel"
@@ -3111,7 +2797,7 @@ msgctxt "Name"
 msgid "Look and Feel"
 msgstr "ଦେଖନ୍ତୁ ଏବଂ ଅନୁଭବ କରନ୍ତୁ"
 
-#: plasma/desktop/runners/plasma-desktop/plasma-runner-plasma-desktop.desktop:2
+#: plasma-desktop/runners/plasma-desktop/plasma-runner-plasma-desktop.desktop:2
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Plasma Desktop Workspace"
@@ -3119,12 +2805,437 @@ msgctxt "Name"
 msgid "Plasma Desktop Shell"
 msgstr "ପ୍ଲାଜମା ଡ଼େସ୍କଟପ କାର୍ଯ୍ୟସ୍ଥଳ"
 
-#: plasma/desktop/runners/plasma-desktop/plasma-runner-plasma-desktop.desktop:68
+#: plasma-desktop/runners/plasma-desktop/plasma-runner-plasma-desktop.desktop:68
 msgctxt "Comment"
 msgid "Interact with the Plasma desktop shell"
 msgstr ""
 
-#: plasma/desktop/toolboxes/desktoptoolbox/metadata.desktop:2
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-AcAdapter.desktop:3
+msgctxt "Name|AC adapter plugged in"
+msgid "Plugged"
+msgstr ""
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-AcAdapter.desktop:51
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:366
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-Battery.desktop:337
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-Block.desktop:217
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-Button.desktop:216
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-Camera.desktop:146
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:294
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-NetworkInterface.desktop:295
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:872
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:654
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-PortableMediaPlayer.desktop:146
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-Processor.desktop:286
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-SerialInterface.desktop:190
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-SmartCardReader.desktop:74
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-StorageAccess.desktop:148
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-StorageDrive.desktop:365
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:438
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-Video.desktop:75
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "USB Devices"
+msgctxt "Name"
+msgid "Solid Device"
+msgstr "USB ଉପକରଣ"
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:2
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:220
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Devices"
+msgctxt "Name"
+msgid "Device Type"
+msgstr "ଉପକରଣଗୁଡ଼ିକ"
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:75
+msgctxt "Name"
+msgid "Driver"
+msgstr ""
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:150
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-SerialInterface.desktop:2
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "DJ-Mixer and Player"
+msgctxt "Name"
+msgid "Driver Handle"
+msgstr "DJ-ମିଶ୍ରକ ଏବଂ ଚାଳକ"
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:220
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Game"
+msgctxt "Name"
+msgid "Name"
+msgstr "ଖେଳ"
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:293
+msgctxt "Name"
+msgid "Soundcard Type"
+msgstr ""
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-Battery.desktop:2
+msgctxt "Name"
+msgid "Charge Percent"
+msgstr ""
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-Battery.desktop:74
+msgctxt "Name"
+msgid "Charge State"
+msgstr ""
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-Battery.desktop:147
+msgctxt "Name|battery plugged in"
+msgid "Plugged"
+msgstr ""
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-Battery.desktop:194
+msgctxt "Name"
+msgid "Rechargeable"
+msgstr ""
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-Battery.desktop:262
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-Button.desktop:141
+msgctxt "Name"
+msgid "Type"
+msgstr ""
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-Block.desktop:2
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Devices"
+msgctxt "Name"
+msgid "Device"
+msgstr "ଉପକରଣଗୁଡ଼ିକ"
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-Block.desktop:76
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Moria"
+msgctxt "Name"
+msgid "Major"
+msgstr "ମୋରିଆ"
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-Block.desktop:146
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Moria"
+msgctxt "Name"
+msgid "Minor"
+msgstr "ମୋରିଆ"
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-Button.desktop:2
+msgctxt "Name"
+msgid "Has State"
+msgstr ""
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-Button.desktop:73
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Strategy Game"
+msgctxt "Name"
+msgid "State Value"
+msgstr "ଯୁକ୍ତି ଖେଳ"
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-Camera.desktop:2
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-PortableMediaPlayer.desktop:2
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-Video.desktop:2
+msgctxt "Name"
+msgid "Supported Drivers"
+msgstr ""
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-Camera.desktop:74
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-PortableMediaPlayer.desktop:74
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Protocols"
+msgctxt "Name"
+msgid "Supported Protocols"
+msgstr "ପ୍ରୋଟୋକଲଗୁଡ଼ିକ"
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:76
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Service Manager"
+msgctxt "Name"
+msgid "Device Adapter"
+msgstr "ସର୍ଭିସ ପରିଚାଳକ"
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:148
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Help Index"
+msgctxt "Name"
+msgid "Device Index"
+msgstr "ସହାୟତା ଅନୁକ୍ରମଣିକା"
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-NetworkInterface.desktop:2
+msgctxt "Name"
+msgid "Hw Address"
+msgstr ""
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-NetworkInterface.desktop:75
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Dice Game"
+msgctxt "Name"
+msgid "Iface Name"
+msgstr "ଡ଼ାଇସ ଖେଳ"
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-NetworkInterface.desktop:147
+msgctxt "Name"
+msgid "Mac Address"
+msgstr ""
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-NetworkInterface.desktop:221
+msgctxt "Name"
+msgid "Wireless"
+msgstr ""
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Appearance"
+msgctxt "Name"
+msgid "Appendable"
+msgstr "ଦୃଶ୍ୟ"
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:73
+msgctxt "Name"
+msgid "Available Content"
+msgstr ""
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:146
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Plan"
+msgctxt "Name"
+msgid "Blank"
+msgstr "ଯୋଜନା"
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:218
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Audacity"
+msgctxt "Name"
+msgid "Capacity"
+msgstr "Audacity"
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:291
+msgctxt "Name"
+msgid "Disc Type"
+msgstr ""
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:365
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:2
+msgctxt "Name"
+msgid "Fs Type"
+msgstr ""
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:438
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:75
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Iagno"
+msgctxt "Name"
+msgid "Ignored"
+msgstr "Iagno"
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:510
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:147
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Panel"
+msgctxt "Name"
+msgid "Label"
+msgstr "ଫଳକ"
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:583
+msgctxt "Name"
+msgid "Rewritable"
+msgstr ""
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:654
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:362
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-StorageDrive.desktop:291
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:220
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Belize"
+msgctxt "Name"
+msgid "Size"
+msgstr "ବେଲିଜ"
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:727
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:293
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Pager"
+msgctxt "Name"
+msgid "Usage"
+msgstr "ପେଜର"
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:799
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:365
+msgctxt "Name"
+msgid "Uuid"
+msgstr ""
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:2
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-StorageDrive.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Belarus"
+msgctxt "Name"
+msgid "Bus"
+msgstr "ବେଲାରୁସ"
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:75
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-StorageDrive.desktop:75
+msgctxt "Name"
+msgid "Drive Type"
+msgstr ""
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:149
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-StorageDrive.desktop:149
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Portugal"
+msgctxt "Name"
+msgid "Hotpluggable"
+msgstr "ପର୍ତ୍ତୁଗାଲ"
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:218
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Spread Sheet"
+msgctxt "Name"
+msgid "Read Speed"
+msgstr "ସ୍ପ୍ରେଡ଼ ସୀଟ"
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:289
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-StorageDrive.desktop:218
+msgctxt "Name"
+msgid "Removable"
+msgstr ""
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:435
+msgctxt "Name"
+msgid "Supported Media"
+msgstr ""
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:507
+msgctxt "Name"
+msgid "Write Speed"
+msgstr ""
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:580
+msgctxt "Name"
+msgid "Write Speeds"
+msgstr ""
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-Processor.desktop:2
+msgctxt "Name"
+msgid "Can Change Frequency"
+msgstr ""
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-Processor.desktop:72
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Illegal instruction."
+msgctxt "Name"
+msgid "Instruction Sets"
+msgstr "ଅବୈଧ ନିର୍ଦ୍ଦେଶ।"
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-Processor.desktop:142
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Mac Scheme"
+msgctxt "Name"
+msgid "Max Speed"
+msgstr "Mac ଯୋଜନା"
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-Processor.desktop:214
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Niue"
+msgctxt "Name"
+msgid "Number"
+msgstr "ନିଉ"
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-SerialInterface.desktop:72
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Forte"
+msgctxt "Name"
+msgid "Port"
+msgstr "ଫର୍ଟ"
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-SerialInterface.desktop:146
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Devices"
+msgctxt "Name|The physical type of serial port (ie. USB, RS232, etc)"
+msgid "Serial Type"
+msgstr "ଉପକରଣଗୁଡ଼ିକ"
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-SmartCardReader.desktop:2
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Spread Sheet"
+msgctxt "Name"
+msgid "Reader Type"
+msgstr "ସ୍ପ୍ରେଡ଼ ସୀଟ"
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-StorageAccess.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Accessibility"
+msgctxt "Name"
+msgid "Accessible"
+msgstr "ଅଭିଗମ୍ୟତା"
+
+#: plasma-desktop/solid-actions-kcm/device-actions/solid-device-StorageAccess.desktop:74
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Find Part"
+msgctxt "Name"
+msgid "File Path"
+msgstr "ଅଂଶ ଖୋଜନ୍ତୁ"
+
+#: plasma-desktop/solid-actions-kcm/solid-actions.desktop:13
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Device Information"
+msgctxt "Name"
+msgid "Device Actions"
+msgstr "ଯନ୍ତ୍ର ସୂଚନା"
+
+#: plasma-desktop/solid-actions-kcm/solid-actions.desktop:84
+msgctxt "Comment"
+msgid "Manage actions available to the user when connecting new devices"
+msgstr ""
+
+#: plasma-desktop/solid-actions-kcm/solid-actions.desktop:130
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Device Information"
+msgctxt "X-KDE-Keywords"
+msgid "Solid Devices Actions"
+msgstr "ଯନ୍ତ୍ର ସୂଚନା"
+
+#: plasma-desktop/solid-actions-kcm/solid-device-type.desktop:4
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Devices"
+msgctxt "Name"
+msgid "Solid Device Type"
+msgstr "ଉପକରଣଗୁଡ଼ିକ"
+
+#: plasma-desktop/toolboxes/desktoptoolbox/metadata.desktop:2
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Network Tool"
@@ -3132,7 +3243,7 @@ msgctxt "Name"
 msgid "Declarative Toolbox"
 msgstr "ନେଟୱର୍କ ସାଧନ"
 
-#: plasma/desktop/toolboxes/desktoptoolbox/metadata.desktop:35
+#: plasma-desktop/toolboxes/desktoptoolbox/metadata.desktop:36
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Panama"
@@ -3140,7 +3251,7 @@ msgctxt "Comment"
 msgid "Manage Plasma"
 msgstr "ପାନାମା"
 
-#: plasma/desktop/toolboxes/paneltoolbox/metadata.desktop:2
+#: plasma-desktop/toolboxes/paneltoolbox/metadata.desktop:2
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Network Tool"
@@ -3148,7 +3259,7 @@ msgctxt "Name"
 msgid "Panel Toolbox"
 msgstr "ନେଟୱର୍କ ସାଧନ"
 
-#: plasma/desktop/toolboxes/paneltoolbox/metadata.desktop:38
+#: plasma-desktop/toolboxes/paneltoolbox/metadata.desktop:38
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Plasma Manual"
@@ -3156,7 +3267,7 @@ msgctxt "Comment"
 msgid "Manage Plasma panel"
 msgstr "ପ୍ଲାଜମା ସହାୟକ ପୁସ୍ତକ"
 
-#: plasma/desktop/toolboxes/plasma-toolbox-paneltoolbox.desktop:2
+#: plasma-desktop/toolboxes/plasma-toolbox-paneltoolbox.desktop:2
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Plasma Desktop Workspace"
@@ -3164,7 +3275,7 @@ msgctxt "Comment"
 msgid "Default panel toolbox for the Plasma desktop shell"
 msgstr "ପ୍ଲାଜମା ଡ଼େସ୍କଟପ କାର୍ଯ୍ୟସ୍ଥଳ"
 
-#: plasma/desktop/toolboxes/plasma-toolbox-paneltoolbox.desktop:59
+#: plasma-desktop/toolboxes/plasma-toolbox-paneltoolbox.desktop:59
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Network Tool"
@@ -3172,27 +3283,27 @@ msgctxt "Name"
 msgid "Panel toolbox"
 msgstr "ନେଟୱର୍କ ସାଧନ"
 
-#: plasma/generic/applets/activitybar/metadata.desktop:2
+#: plasma-workspace/applets/activitybar/metadata.desktop:2
 msgctxt "Name"
 msgid "Activity Bar"
 msgstr ""
 
-#: plasma/generic/applets/activitybar/metadata.desktop:76
+#: plasma-workspace/applets/activitybar/metadata.desktop:76
 msgctxt "Comment"
 msgid "Tab bar to switch activities"
 msgstr ""
 
-#: plasma/generic/applets/analog-clock/metadata.desktop:2
+#: plasma-workspace/applets/analog-clock/metadata.desktop:2
 msgctxt "Name"
 msgid "Analog Clock"
 msgstr ""
 
-#: plasma/generic/applets/analog-clock/metadata.desktop:87
+#: plasma-workspace/applets/analog-clock/metadata.desktop:87
 msgctxt "Comment"
 msgid "A clock with hands"
 msgstr ""
 
-#: plasma/generic/applets/batterymonitor/metadata.desktop:2
+#: plasma-workspace/applets/batterymonitor/metadata.desktop:2
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Display Settings"
@@ -3200,12 +3311,12 @@ msgctxt "Name"
 msgid "Battery & Brightness"
 msgstr "ପ୍ରଦର୍ଶକ ସଂରଚନା"
 
-#: plasma/generic/applets/batterymonitor/metadata.desktop:34
+#: plasma-workspace/applets/batterymonitor/metadata.desktop:35
 msgctxt "Comment"
 msgid "See the power status of your battery"
 msgstr ""
 
-#: plasma/generic/applets/batterymonitor/metadata.desktop:108
+#: plasma-workspace/applets/batterymonitor/metadata.desktop:109
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Power Management"
@@ -3213,23 +3324,23 @@ msgctxt "Keywords"
 msgid "Power Management;Battery;System;Energy;"
 msgstr "ଶକ୍ତି ପରିଚାଳନା"
 
-#: plasma/generic/applets/calendar/metadata.desktop:3
-#: plasma/generic/dataengines/calendar/plasma-dataengine-calendar.desktop:2
+#: plasma-workspace/applets/calendar/metadata.desktop:3
+#: plasma-workspace/dataengines/calendar/plasma-dataengine-calendar.desktop:2
 msgctxt "Name"
 msgid "Calendar"
 msgstr ""
 
-#: plasma/generic/applets/devicenotifier/package/metadata.desktop:2
+#: plasma-workspace/applets/devicenotifier/package/metadata.desktop:2
 msgctxt "Name"
 msgid "Device Notifier"
 msgstr ""
 
-#: plasma/generic/applets/devicenotifier/package/metadata.desktop:79
+#: plasma-workspace/applets/devicenotifier/package/metadata.desktop:79
 msgctxt "Comment"
 msgid "Notifications and access for new devices"
 msgstr ""
 
-#: plasma/generic/applets/devicenotifier/test-predicate-openinwindow.desktop:7
+#: plasma-workspace/applets/devicenotifier/test-predicate-openinwindow.desktop:7
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Open with Dolphin"
@@ -3237,37 +3348,37 @@ msgctxt "Name"
 msgid "Open with File Manager"
 msgstr "ଡ଼ଲଫିନ ସହିତ ଖୋଲନ୍ତୁ"
 
-#: plasma/generic/applets/digital-clock/metadata.desktop:3
+#: plasma-workspace/applets/digital-clock/metadata.desktop:3
 msgctxt "Name"
 msgid "Digital Clock"
 msgstr "ସାଂଖିକ ଘଡ଼ି"
 
-#: plasma/generic/applets/icon/package/metadata.desktop:2
+#: plasma-workspace/applets/icon/package/metadata.desktop:2
 msgctxt "Name"
 msgid "Icon"
 msgstr "ଚିତ୍ର ସଂକେତ"
 
-#: plasma/generic/applets/icon/package/metadata.desktop:88
+#: plasma-workspace/applets/icon/package/metadata.desktop:88
 msgctxt "Comment"
 msgid "A generic icon"
 msgstr "ଗୋଟିଏ ସାମାନ୍ୟ ଚିତ୍ର ସଂକେତ"
 
-#: plasma/generic/applets/lock_logout/metadata.desktop:2
+#: plasma-workspace/applets/lock_logout/metadata.desktop:2
 msgctxt "Name"
 msgid "Lock/Logout"
 msgstr "ଅପରିବର୍ତ୍ତନୀୟ/ଲଗଆଉଟ କରନ୍ତୁ"
 
-#: plasma/generic/applets/lock_logout/metadata.desktop:85
+#: plasma-workspace/applets/lock_logout/metadata.desktop:85
 msgctxt "Comment"
 msgid "Lock the screen or log out"
 msgstr "ପରଦାକୁ ଅପରିବର୍ତ୍ତନୀୟ କରନ୍ତୁ କିମ୍ବା ଲଗଆଉଟ କରନ୍ତୁ"
 
-#: plasma/generic/applets/lock_logout/metadata.desktop:161
+#: plasma-workspace/applets/lock_logout/metadata.desktop:161
 msgctxt "Keywords"
 msgid "Lock;Logout;Sleep;Hibernate;Switch User;"
 msgstr ""
 
-#: plasma/generic/applets/mediacontroller/metadata.desktop:2
+#: plasma-workspace/applets/mediacontroller/metadata.desktop:2
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Multimedia Player"
@@ -3275,7 +3386,7 @@ msgctxt "Name"
 msgid "Media Player"
 msgstr "ବହୁମାଧ୍ଯମ ଚାଳକ"
 
-#: plasma/generic/applets/mediacontroller/metadata.desktop:35
+#: plasma-workspace/applets/mediacontroller/metadata.desktop:36
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Multimedia Player"
@@ -3283,12 +3394,12 @@ msgctxt "Comment"
 msgid "Media Player Controls"
 msgstr "ବହୁମାଧ୍ଯମ ଚାଳକ"
 
-#: plasma/generic/applets/notifications/metadata.desktop:3
+#: plasma-workspace/applets/notifications/metadata.desktop:3
 msgctxt "Name"
 msgid "Notifications"
 msgstr "ବିଜ୍ଞପ୍ତି"
 
-#: plasma/generic/applets/notifications/metadata.desktop:89
+#: plasma-workspace/applets/notifications/metadata.desktop:89
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "KDE Notification Daemon"
@@ -3296,27 +3407,27 @@ msgctxt "Comment"
 msgid "Display notifications and jobs"
 msgstr "KDE ବିଜ୍ଞପ୍ତି ଡେମନ"
 
-#: plasma/generic/applets/panelspacer/plasma-applet-panelspacer-internal.desktop:2
+#: plasma-workspace/applets/panelspacer/plasma-applet-panelspacer-internal.desktop:2
 msgctxt "Name"
 msgid "Panel Spacer"
 msgstr ""
 
-#: plasma/generic/applets/panelspacer/plasma-applet-panelspacer-internal.desktop:68
+#: plasma-workspace/applets/panelspacer/plasma-applet-panelspacer-internal.desktop:68
 msgctxt "Comment"
 msgid "Reserve empty spaces within the panel."
 msgstr ""
 
-#: plasma/generic/applets/quicklaunch/plasma-applet-quicklaunch.desktop:2
+#: plasma-workspace/applets/quicklaunch/plasma-applet-quicklaunch.desktop:2
 msgctxt "Name"
 msgid "Quicklaunch"
 msgstr "Quicklaunch"
 
-#: plasma/generic/applets/quicklaunch/plasma-applet-quicklaunch.desktop:74
+#: plasma-workspace/applets/quicklaunch/plasma-applet-quicklaunch.desktop:74
 msgctxt "Comment"
 msgid "Launch your favourite Applications"
 msgstr "ଆପଣଙ୍କର ପ୍ରିୟ ପ୍ରୟୋଗଗୁଡ଼ିକୁ ଆରମ୍ଭ କରନ୍ତୁ"
 
-#: plasma/generic/applets/system-monitor/plasma-applet-sm_cpu.desktop:3
+#: plasma-workspace/applets/system-monitor/plasma-applet-sm_cpu.desktop:3
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "A CPU usage monitor"
@@ -3324,12 +3435,12 @@ msgctxt "Name"
 msgid "CPU Monitor"
 msgstr "ଗୋଟିଏ CPU ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
 
-#: plasma/generic/applets/system-monitor/plasma-applet-sm_cpu.desktop:66
+#: plasma-workspace/applets/system-monitor/plasma-applet-sm_cpu.desktop:66
 msgctxt "Comment"
 msgid "A CPU usage monitor"
 msgstr "ଗୋଟିଏ CPU ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
 
-#: plasma/generic/applets/system-monitor/plasma-applet-sm_hdd_activity.desktop:3
+#: plasma-workspace/applets/system-monitor/plasma-applet-sm_hdd_activity.desktop:3
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "A hard disk usage monitor"
@@ -3337,22 +3448,22 @@ msgctxt "Name"
 msgid "Hard Disk I/O Monitor"
 msgstr "ଗୋଟିଏ ହାର୍ଡ଼ଡ଼ିସ୍କ ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
 
-#: plasma/generic/applets/system-monitor/plasma-applet-sm_hdd_activity.desktop:50
+#: plasma-workspace/applets/system-monitor/plasma-applet-sm_hdd_activity.desktop:50
 msgctxt "Comment"
 msgid "An applet that monitors hard disk throughput and input/output"
 msgstr ""
 
-#: plasma/generic/applets/system-monitor/plasma-applet-sm_hdd.desktop:3
+#: plasma-workspace/applets/system-monitor/plasma-applet-sm_hdd.desktop:3
 msgctxt "Name"
 msgid "Hard Disk Space Usage"
 msgstr ""
 
-#: plasma/generic/applets/system-monitor/plasma-applet-sm_hdd.desktop:48
+#: plasma-workspace/applets/system-monitor/plasma-applet-sm_hdd.desktop:48
 msgctxt "Comment"
 msgid "An applet that monitors hard disk space usage and percentage"
 msgstr ""
 
-#: plasma/generic/applets/system-monitor/plasma-applet-sm_hwinfo.desktop:3
+#: plasma-workspace/applets/system-monitor/plasma-applet-sm_hwinfo.desktop:3
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Hardware"
@@ -3360,12 +3471,12 @@ msgctxt "Name"
 msgid "Hardware Info"
 msgstr "ହାର୍ଡୱେର"
 
-#: plasma/generic/applets/system-monitor/plasma-applet-sm_hwinfo.desktop:66
+#: plasma-workspace/applets/system-monitor/plasma-applet-sm_hwinfo.desktop:66
 msgctxt "Comment"
 msgid "Show hardware info"
 msgstr "ହାର୍ଡ଼ୱେର ସୂଚନା ଦର୍ଶାନ୍ତୁ"
 
-#: plasma/generic/applets/system-monitor/plasma-applet-sm_net.desktop:3
+#: plasma-workspace/applets/system-monitor/plasma-applet-sm_net.desktop:3
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Network Tool"
@@ -3373,12 +3484,12 @@ msgctxt "Name"
 msgid "Network Monitor"
 msgstr "ନେଟୱର୍କ ସାଧନ"
 
-#: plasma/generic/applets/system-monitor/plasma-applet-sm_net.desktop:67
+#: plasma-workspace/applets/system-monitor/plasma-applet-sm_net.desktop:67
 msgctxt "Comment"
 msgid "A network usage monitor"
 msgstr "ଗୋଟିଏ ନେଟୱର୍କ ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
 
-#: plasma/generic/applets/system-monitor/plasma-applet-sm_ram.desktop:3
+#: plasma-workspace/applets/system-monitor/plasma-applet-sm_ram.desktop:3
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Samba Status"
@@ -3386,7 +3497,7 @@ msgctxt "Name"
 msgid "Memory Status"
 msgstr "ସାମ୍ବା ସ୍ଥିତି"
 
-#: plasma/generic/applets/system-monitor/plasma-applet-sm_ram.desktop:65
+#: plasma-workspace/applets/system-monitor/plasma-applet-sm_ram.desktop:65
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "A CPU usage monitor"
@@ -3394,38 +3505,38 @@ msgctxt "Comment"
 msgid "A RAM usage monitor"
 msgstr "ଗୋଟିଏ CPU ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
 
-#: plasma/generic/applets/system-monitor/plasma-applet-sm_temperature.desktop:3
+#: plasma-workspace/applets/system-monitor/plasma-applet-sm_temperature.desktop:3
 msgctxt "Name"
 msgid "Hardware Temperature"
 msgstr ""
 
-#: plasma/generic/applets/system-monitor/plasma-applet-sm_temperature.desktop:65
+#: plasma-workspace/applets/system-monitor/plasma-applet-sm_temperature.desktop:65
 msgctxt "Comment"
 msgid "A system temperature monitor"
 msgstr "ତନ୍ତ୍ର ଉତ୍ତାପ ନିରିକ୍ଷକ"
 
-#: plasma/generic/applets/system-monitor/plasma-applet-system-monitor.desktop:2
-#: plasma/generic/dataengines/systemmonitor/plasma-dataengine-systemmonitor.desktop:3
+#: plasma-workspace/applets/system-monitor/plasma-applet-system-monitor.desktop:2
+#: plasma-workspace/dataengines/systemmonitor/plasma-dataengine-systemmonitor.desktop:3
 msgctxt "Name"
 msgid "System Monitor"
 msgstr ""
 
-#: plasma/generic/applets/system-monitor/plasma-applet-system-monitor.desktop:86
+#: plasma-workspace/applets/system-monitor/plasma-applet-system-monitor.desktop:86
 msgctxt "Comment"
 msgid "System monitoring applet"
 msgstr "ତନ୍ତ୍ର ନିରିକ୍ଷଣ ଆପଲେଟ"
 
-#: plasma/generic/applets/systemtray/package/metadata.desktop:2
+#: plasma-workspace/applets/systemtray/package/metadata.desktop:2
 msgctxt "Name"
 msgid "System Tray"
 msgstr "ତନ୍ତ୍ର ଧାରକ"
 
-#: plasma/generic/applets/systemtray/package/metadata.desktop:90
+#: plasma-workspace/applets/systemtray/package/metadata.desktop:90
 msgctxt "Comment"
 msgid "Access hidden applications minimized in the system tray"
 msgstr "ତନ୍ତ୍ର ଟ୍ରେରେ ଆକାର ଛୋଟହୋଇ ଲୁକ୍କାୟିତ ପ୍ରୟୋଗଗୁଡ଼ିକୁ ବ୍ୟବହାର କରନ୍ତୁ"
 
-#: plasma/generic/applets/systemtray/tests/systrayplasmoidtest/metadata.desktop:2
+#: plasma-workspace/applets/systemtray/tests/systrayplasmoidtest/metadata.desktop:2
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "System Tray"
@@ -3433,22 +3544,35 @@ msgctxt "Name"
 msgid "System Tray Plasmoid Test"
 msgstr "ତନ୍ତ୍ର ଧାରକ"
 
-#: plasma/generic/applets/systemtray/tests/systrayplasmoidtest/metadata.desktop:38
+#: plasma-workspace/applets/systemtray/tests/systrayplasmoidtest/metadata.desktop:38
 msgctxt "Comment"
 msgid "Test the system tray"
 msgstr ""
 
-#: plasma/generic/applets/webbrowser/plasma-applet-webbrowser.desktop:3
+#: plasma-workspace/applets/webbrowser/plasma-applet-webbrowser.desktop:3
 msgctxt "Name"
 msgid "Web Browser"
 msgstr "ୱେବ ବ୍ରାଉଜର"
 
-#: plasma/generic/applets/webbrowser/plasma-applet-webbrowser.desktop:95
+#: plasma-workspace/applets/webbrowser/plasma-applet-webbrowser.desktop:95
 msgctxt "Comment"
 msgid "A simple web browser"
 msgstr "ଗୋଟିଏ ସରଳ ୱେବ ବ୍ରାଉଜର"
 
-#: plasma/generic/containmentactions/applauncher/plasma-containmentactions-applauncher.desktop:90
+#: plasma-workspace/appmenu/appmenu.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Application Manuals"
+msgctxt "Name"
+msgid "Application menus daemon"
+msgstr "ପ୍ରୟୋଗ ସହାୟକ ପୁସ୍ତକ"
+
+#: plasma-workspace/appmenu/appmenu.desktop:46
+msgctxt "Comment"
+msgid "Transfers application's menu to the desktop"
+msgstr ""
+
+#: plasma-workspace/containmentactions/applauncher/plasma-containmentactions-applauncher.desktop:90
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Application Launcher"
@@ -3456,22 +3580,22 @@ msgctxt "Comment"
 msgid "Simple application launcher"
 msgstr "ପ୍ରୟୋଗ ଆରମ୍ଭକର୍ତ୍ତା"
 
-#: plasma/generic/containmentactions/contextmenu/plasma-containmentactions-contextmenu.desktop:2
+#: plasma-workspace/containmentactions/contextmenu/plasma-containmentactions-contextmenu.desktop:2
 msgctxt "Name"
 msgid "Standard Menu"
 msgstr ""
 
-#: plasma/generic/containmentactions/contextmenu/plasma-containmentactions-contextmenu.desktop:70
+#: plasma-workspace/containmentactions/contextmenu/plasma-containmentactions-contextmenu.desktop:70
 msgctxt "Comment"
 msgid "The menu that normally shows on right-click"
 msgstr ""
 
-#: plasma/generic/containmentactions/minimalcontextmenu/plasma-containmentactions-minimalcontextmenu.desktop:2
+#: plasma-workspace/containmentactions/minimalcontextmenu/plasma-containmentactions-minimalcontextmenu.desktop:2
 msgctxt "Name"
 msgid "Minimal Menu"
 msgstr ""
 
-#: plasma/generic/containmentactions/paste/plasma-containmentactions-paste.desktop:2
+#: plasma-workspace/containmentactions/paste/plasma-containmentactions-paste.desktop:2
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Pose"
@@ -3479,22 +3603,22 @@ msgctxt "Name"
 msgid "Paste"
 msgstr "ପଜ"
 
-#: plasma/generic/containmentactions/paste/plasma-containmentactions-paste.desktop:73
+#: plasma-workspace/containmentactions/paste/plasma-containmentactions-paste.desktop:73
 msgctxt "Comment"
 msgid "Creates a widget from the contents of the clipboard"
 msgstr ""
 
-#: plasma/generic/containmentactions/switchactivity/plasma-containmentactions-switchactivity.desktop:2
+#: plasma-workspace/containmentactions/switchactivity/plasma-containmentactions-switchactivity.desktop:2
 msgctxt "Name"
 msgid "Switch Activity"
 msgstr ""
 
-#: plasma/generic/containmentactions/switchactivity/plasma-containmentactions-switchactivity.desktop:70
+#: plasma-workspace/containmentactions/switchactivity/plasma-containmentactions-switchactivity.desktop:70
 msgctxt "Comment"
 msgid "Switch to another activity"
 msgstr ""
 
-#: plasma/generic/containmentactions/switchdesktop/plasma-containmentactions-switchdesktop.desktop:2
+#: plasma-workspace/containmentactions/switchdesktop/plasma-containmentactions-switchdesktop.desktop:2
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Desktop"
@@ -3502,7 +3626,7 @@ msgctxt "Name"
 msgid "Switch Desktop"
 msgstr "ଡ଼େସ୍କଟପ"
 
-#: plasma/generic/containmentactions/switchdesktop/plasma-containmentactions-switchdesktop.desktop:72
+#: plasma-workspace/containmentactions/switchdesktop/plasma-containmentactions-switchdesktop.desktop:72
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Switch between virtual desktops"
@@ -3510,7 +3634,7 @@ msgctxt "Comment"
 msgid "Switch to another virtual desktop"
 msgstr "ଆଭାସୀ ଡ଼େସ୍କଟପଗୁଡ଼ିକ ମଧ୍ଯରେ ଅଦଳ ବଦଳ କରନ୍ତୁ"
 
-#: plasma/generic/containmentactions/switchwindow/plasma-containmentactions-switchwindow.desktop:2
+#: plasma-workspace/containmentactions/switchwindow/plasma-containmentactions-switchwindow.desktop:2
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "MS Windows 9x"
@@ -3518,12 +3642,12 @@ msgctxt "Name"
 msgid "Switch Window"
 msgstr "MS Windows 9x"
 
-#: plasma/generic/containmentactions/switchwindow/plasma-containmentactions-switchwindow.desktop:70
+#: plasma-workspace/containmentactions/switchwindow/plasma-containmentactions-switchwindow.desktop:70
 msgctxt "Comment"
 msgid "Show a list of windows to switch to"
 msgstr ""
 
-#: plasma/generic/dataengines/activities/plasma-engine-activities.desktop:2
+#: plasma-workspace/dataengines/activities/plasma-engine-activities.desktop:2
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Service Manager"
@@ -3531,7 +3655,7 @@ msgctxt "Name"
 msgid "Activities Engine"
 msgstr "ସର୍ଭିସ ପରିଚାଳକ"
 
-#: plasma/generic/dataengines/activities/plasma-engine-activities.desktop:59
+#: plasma-workspace/dataengines/activities/plasma-engine-activities.desktop:59
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Files and Directories"
@@ -3539,12 +3663,12 @@ msgctxt "Comment"
 msgid "Information on Plasma Activities"
 msgstr "ଫାଇଲ ଏବଂ ଡ଼ିରେକ୍ଟୋରୀଗୁଡ଼ିକ"
 
-#: plasma/generic/dataengines/akonadi/plasma-engine-akonadi.desktop:2
+#: plasma-workspace/dataengines/akonadi/plasma-engine-akonadi.desktop:2
 msgctxt "Name"
 msgid "Akonadi"
 msgstr ""
 
-#: plasma/generic/dataengines/akonadi/plasma-engine-akonadi.desktop:72
+#: plasma-workspace/dataengines/akonadi/plasma-engine-akonadi.desktop:72
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Python data engine"
@@ -3552,17 +3676,17 @@ msgctxt "Comment"
 msgid "Akonadi PIM data engine"
 msgstr "ପାଇଥନ ତଥ୍ୟ ମେସିନ"
 
-#: plasma/generic/dataengines/applicationjobs/plasma-dataengine-applicationjobs.desktop:2
+#: plasma-workspace/dataengines/applicationjobs/plasma-dataengine-applicationjobs.desktop:2
 msgctxt "Name"
 msgid "Application Job Information"
 msgstr "ପ୍ରୟୋଗ କାର୍ଯ୍ୟ ସୂଚନା"
 
-#: plasma/generic/dataengines/applicationjobs/plasma-dataengine-applicationjobs.desktop:74
+#: plasma-workspace/dataengines/applicationjobs/plasma-dataengine-applicationjobs.desktop:74
 msgctxt "Comment"
 msgid "Application job updates (via kuiserver)"
 msgstr ""
 
-#: plasma/generic/dataengines/apps/plasma-dataengine-apps.desktop:2
+#: plasma-workspace/dataengines/apps/plasma-dataengine-apps.desktop:2
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Application Job Information"
@@ -3570,12 +3694,12 @@ msgctxt "Name"
 msgid "Application Information"
 msgstr "ପ୍ରୟୋଗ କାର୍ଯ୍ୟ ସୂଚନା"
 
-#: plasma/generic/dataengines/apps/plasma-dataengine-apps.desktop:71
+#: plasma-workspace/dataengines/apps/plasma-dataengine-apps.desktop:71
 msgctxt "Comment"
 msgid "Information and launching of all applications in the app menu."
 msgstr ""
 
-#: plasma/generic/dataengines/calendar/plasma-dataengine-calendar.desktop:80
+#: plasma-workspace/dataengines/calendar/plasma-dataengine-calendar.desktop:80
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Calendar Manager"
@@ -3583,7 +3707,7 @@ msgctxt "Comment"
 msgid "Calendar data engine"
 msgstr "କ୍ୟାଲେଣ୍ଡର ପରିଚାଳକ"
 
-#: plasma/generic/dataengines/devicenotifications/plasma-dataengine-devicenotifications.desktop:2
+#: plasma-workspace/dataengines/devicenotifications/plasma-dataengine-devicenotifications.desktop:2
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Notifications"
@@ -3591,47 +3715,47 @@ msgctxt "Name"
 msgid "Device Notifications"
 msgstr "ବିଜ୍ଞପ୍ତି"
 
-#: plasma/generic/dataengines/devicenotifications/plasma-dataengine-devicenotifications.desktop:65
+#: plasma-workspace/dataengines/devicenotifications/plasma-dataengine-devicenotifications.desktop:65
 msgctxt "Comment"
 msgid "Passive device notifications for the user."
 msgstr ""
 
-#: plasma/generic/dataengines/dict/plasma-dataengine-dict.desktop:2
+#: plasma-workspace/dataengines/dict/plasma-dataengine-dict.desktop:2
 msgctxt "Name"
 msgid "Dictionary"
 msgstr "ଅଭିଧାନ"
 
-#: plasma/generic/dataengines/dict/plasma-dataengine-dict.desktop:81
+#: plasma-workspace/dataengines/dict/plasma-dataengine-dict.desktop:81
 msgctxt "Comment"
 msgid "Look up word meanings"
 msgstr ""
 
-#: plasma/generic/dataengines/executable/plasma-dataengine-executable.desktop:3
+#: plasma-workspace/dataengines/executable/plasma-dataengine-executable.desktop:3
 msgctxt "Name"
 msgid "Run Commands"
 msgstr "ନିର୍ଦ୍ଦେଶଗୁଡ଼ିକୁ ଚଲାନ୍ତୁ"
 
-#: plasma/generic/dataengines/executable/plasma-dataengine-executable.desktop:78
+#: plasma-workspace/dataengines/executable/plasma-dataengine-executable.desktop:78
 msgctxt "Comment"
 msgid "Run Executable Data Engine"
 msgstr "ନିଷ୍ପାଦ୍ୟ ତଥ୍ୟ ଯନ୍ତ୍ର ଚଲାନ୍ତୁ"
 
-#: plasma/generic/dataengines/favicons/plasma-dataengine-favicons.desktop:3
+#: plasma-workspace/dataengines/favicons/plasma-dataengine-favicons.desktop:3
 msgctxt "Name"
 msgid "Favicons"
 msgstr "Favicons"
 
-#: plasma/generic/dataengines/favicons/plasma-dataengine-favicons.desktop:79
+#: plasma-workspace/dataengines/favicons/plasma-dataengine-favicons.desktop:79
 msgctxt "Comment"
 msgid "Data Engine for getting favicons of web sites"
 msgstr ""
 
-#: plasma/generic/dataengines/filebrowser/plasma-dataengine-filebrowser.desktop:2
+#: plasma-workspace/dataengines/filebrowser/plasma-dataengine-filebrowser.desktop:2
 msgctxt "Name"
 msgid "Files and Directories"
 msgstr "ଫାଇଲ ଏବଂ ଡ଼ିରେକ୍ଟୋରୀଗୁଡ଼ିକ"
 
-#: plasma/generic/dataengines/filebrowser/plasma-dataengine-filebrowser.desktop:78
+#: plasma-workspace/dataengines/filebrowser/plasma-dataengine-filebrowser.desktop:78
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Files and Directories"
@@ -3639,7 +3763,7 @@ msgctxt "Comment"
 msgid "Information about files and directories."
 msgstr "ଫାଇଲ ଏବଂ ଡ଼ିରେକ୍ଟୋରୀଗୁଡ଼ିକ"
 
-#: plasma/generic/dataengines/geolocation/plasma-dataengine-geolocation.desktop:3
+#: plasma-workspace/dataengines/geolocation/plasma-dataengine-geolocation.desktop:3
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Locations"
@@ -3647,7 +3771,7 @@ msgctxt "Name"
 msgid "Geolocation"
 msgstr "ସ୍ଥାନଗୁଡ଼ିକ"
 
-#: plasma/generic/dataengines/geolocation/plasma-dataengine-geolocation.desktop:70
+#: plasma-workspace/dataengines/geolocation/plasma-dataengine-geolocation.desktop:70
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Python data engine"
@@ -3655,17 +3779,17 @@ msgctxt "Comment"
 msgid "Geolocation Data Engine"
 msgstr "ପାଇଥନ ତଥ୍ୟ ମେସିନ"
 
-#: plasma/generic/dataengines/geolocation/plasma-geolocation-gps.desktop:2
+#: plasma-workspace/dataengines/geolocation/plasma-geolocation-gps.desktop:2
 msgctxt "Name"
 msgid "Geolocation GPS"
 msgstr ""
 
-#: plasma/generic/dataengines/geolocation/plasma-geolocation-gps.desktop:70
+#: plasma-workspace/dataengines/geolocation/plasma-geolocation-gps.desktop:70
 msgctxt "Comment"
 msgid "Geolocation from GPS address."
 msgstr ""
 
-#: plasma/generic/dataengines/geolocation/plasma-geolocation-ip.desktop:2
+#: plasma-workspace/dataengines/geolocation/plasma-geolocation-ip.desktop:2
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Locations"
@@ -3673,12 +3797,12 @@ msgctxt "Name"
 msgid "Geolocation IP"
 msgstr "ସ୍ଥାନଗୁଡ଼ିକ"
 
-#: plasma/generic/dataengines/geolocation/plasma-geolocation-ip.desktop:70
+#: plasma-workspace/dataengines/geolocation/plasma-geolocation-ip.desktop:70
 msgctxt "Comment"
 msgid "Geolocation from IP address."
 msgstr ""
 
-#: plasma/generic/dataengines/geolocation/plasma-geolocationprovider.desktop:4
+#: plasma-workspace/dataengines/geolocation/plasma-geolocationprovider.desktop:4
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Locations"
@@ -3686,17 +3810,17 @@ msgctxt "Comment"
 msgid "Plasma Geolocation Provider"
 msgstr "ସ୍ଥାନଗୁଡ଼ିକ"
 
-#: plasma/generic/dataengines/hotplug/plasma-dataengine-hotplug.desktop:2
+#: plasma-workspace/dataengines/hotplug/plasma-dataengine-hotplug.desktop:2
 msgctxt "Name"
 msgid "Hotplug Events"
 msgstr ""
 
-#: plasma/generic/dataengines/hotplug/plasma-dataengine-hotplug.desktop:73
+#: plasma-workspace/dataengines/hotplug/plasma-dataengine-hotplug.desktop:73
 msgctxt "Comment"
 msgid "Tracks hot-pluggable devices as they appear and disappear."
 msgstr ""
 
-#: plasma/generic/dataengines/keystate/plasma-dataengine-keystate.desktop:2
+#: plasma-workspace/dataengines/keystate/plasma-dataengine-keystate.desktop:2
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Keyboard & Mouse"
@@ -3704,52 +3828,52 @@ msgctxt "Name"
 msgid "Keyboard and Mouse State"
 msgstr "କିବୋର୍ଡ ଏବଂ ମାଉସ"
 
-#: plasma/generic/dataengines/keystate/plasma-dataengine-keystate.desktop:72
+#: plasma-workspace/dataengines/keystate/plasma-dataengine-keystate.desktop:72
 msgctxt "Comment"
 msgid "Keyboard modifier and mouse buttons states"
 msgstr ""
 
-#: plasma/generic/dataengines/mouse/plasma-dataengine-mouse.desktop:2
+#: plasma-workspace/dataengines/mouse/plasma-dataengine-mouse.desktop:2
 msgctxt "Name"
 msgid "Pointer Position"
 msgstr "ସୂଚକ ସ୍ଥାନ"
 
-#: plasma/generic/dataengines/mouse/plasma-dataengine-mouse.desktop:74
+#: plasma-workspace/dataengines/mouse/plasma-dataengine-mouse.desktop:74
 msgctxt "Comment"
 msgid "Mouse position and cursor"
 msgstr ""
 
-#: plasma/generic/dataengines/mpris2/plasma-dataengine-mpris2.desktop:2
+#: plasma-workspace/dataengines/mpris2/plasma-dataengine-mpris2.desktop:2
 msgctxt "Name"
 msgid "MPRIS2"
 msgstr ""
 
-#: plasma/generic/dataengines/mpris2/plasma-dataengine-mpris2.desktop:46
+#: plasma-workspace/dataengines/mpris2/plasma-dataengine-mpris2.desktop:46
 msgctxt "Comment"
 msgid "Provides information from and control over media players via MPRIS2"
 msgstr ""
 
-#: plasma/generic/dataengines/network/plasma-dataengine-network.desktop:3
+#: plasma-workspace/dataengines/network/plasma-dataengine-network.desktop:3
 msgctxt "Name"
 msgid "Networking"
 msgstr "ନେଟୱର୍କିଙ୍ଗ"
 
-#: plasma/generic/dataengines/notifications/plasma-dataengine-notifications.desktop:2
+#: plasma-workspace/dataengines/notifications/plasma-dataengine-notifications.desktop:2
 msgctxt "Name"
 msgid "Application Notifications"
 msgstr "ପ୍ରୟୋଗ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ"
 
-#: plasma/generic/dataengines/notifications/plasma-dataengine-notifications.desktop:78
+#: plasma-workspace/dataengines/notifications/plasma-dataengine-notifications.desktop:78
 msgctxt "Comment"
 msgid "Passive visual notifications for the user."
 msgstr ""
 
-#: plasma/generic/dataengines/packagekit/plasma-dataengine-packagekit.desktop:3
+#: plasma-workspace/dataengines/packagekit/plasma-dataengine-packagekit.desktop:3
 msgctxt "Name"
 msgid "PackageKit"
 msgstr ""
 
-#: plasma/generic/dataengines/packagekit/plasma-dataengine-packagekit.desktop:40
+#: plasma-workspace/dataengines/packagekit/plasma-dataengine-packagekit.desktop:40
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "JavaScript Runner"
@@ -3757,18 +3881,18 @@ msgctxt "Comment"
 msgid "PackageKit Data Engine"
 msgstr "JavaScript ଚାଳକ"
 
-#: plasma/generic/dataengines/places/plasma-dataengine-places.desktop:2
-#: plasma/generic/runners/places/plasma-runner-places.desktop:2
+#: plasma-workspace/dataengines/places/plasma-dataengine-places.desktop:2
+#: plasma-workspace/runners/places/plasma-runner-places.desktop:2
 msgctxt "Name"
 msgid "Places"
 msgstr "ସ୍ଥାନଗୁଡ଼ିକ"
 
-#: plasma/generic/dataengines/places/plasma-dataengine-places.desktop:78
+#: plasma-workspace/dataengines/places/plasma-dataengine-places.desktop:78
 msgctxt "Comment"
 msgid "Places, as seen in the file manager and in file dialogs."
 msgstr ""
 
-#: plasma/generic/dataengines/powermanagement/plasma-dataengine-powermanagement.desktop:3
+#: plasma-workspace/dataengines/powermanagement/plasma-dataengine-powermanagement.desktop:3
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Power Management"
@@ -3776,42 +3900,42 @@ msgctxt "Name|plasma data engine"
 msgid "Power Management"
 msgstr "ଶକ୍ତି ପରିଚାଳନା"
 
-#: plasma/generic/dataengines/powermanagement/plasma-dataengine-powermanagement.desktop:72
+#: plasma-workspace/dataengines/powermanagement/plasma-dataengine-powermanagement.desktop:72
 msgctxt "Comment"
 msgid "Battery, AC, sleep and PowerDevil information."
 msgstr ""
 
-#: plasma/generic/dataengines/rss/plasma-dataengine-rss.desktop:3
+#: plasma-workspace/dataengines/rss/plasma-dataengine-rss.desktop:3
 msgctxt "Name"
 msgid "RSS"
 msgstr "RSS"
 
-#: plasma/generic/dataengines/rss/plasma-dataengine-rss.desktop:80
+#: plasma-workspace/dataengines/rss/plasma-dataengine-rss.desktop:80
 msgctxt "Comment"
 msgid "RSS News Data Engine"
 msgstr "RSS ଖବର ତଥ୍ୟ ଯନ୍ତ୍ର"
 
-#: plasma/generic/dataengines/share/backends/im9/metadata.desktop:2
+#: plasma-workspace/dataengines/share/backends/im9/metadata.desktop:2
 msgctxt "Name"
 msgid "im9.eu"
 msgstr ""
 
-#: plasma/generic/dataengines/share/backends/im9/metadata.desktop:42
+#: plasma-workspace/dataengines/share/backends/im9/metadata.desktop:42
 msgctxt "Comment"
 msgid "Allows images to be shared using the im9.eu service"
 msgstr ""
 
-#: plasma/generic/dataengines/share/backends/imgsusepasteorg/metadata.desktop:2
+#: plasma-workspace/dataengines/share/backends/imgsusepasteorg/metadata.desktop:2
 msgctxt "Name"
 msgid "img.susepaste.org"
 msgstr ""
 
-#: plasma/generic/dataengines/share/backends/imgsusepasteorg/metadata.desktop:53
+#: plasma-workspace/dataengines/share/backends/imgsusepasteorg/metadata.desktop:53
 msgctxt "Comment"
 msgid "Allows images to be shared using the susepaste.org service"
 msgstr ""
 
-#: plasma/generic/dataengines/share/backends/imgur/metadata.desktop:2
+#: plasma-workspace/dataengines/share/backends/imgur/metadata.desktop:2
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Image"
@@ -3819,87 +3943,87 @@ msgctxt "Name"
 msgid "Imgur"
 msgstr "ପ୍ରତିଛବି"
 
-#: plasma/generic/dataengines/share/backends/imgur/metadata.desktop:60
+#: plasma-workspace/dataengines/share/backends/imgur/metadata.desktop:60
 msgctxt "Comment"
 msgid "Allows images to be shared using the imgur service"
 msgstr ""
 
-#: plasma/generic/dataengines/share/backends/kde/metadata.desktop:2
+#: plasma-workspace/dataengines/share/backends/kde/metadata.desktop:2
 msgctxt "Name"
 msgid "paste.kde.org"
 msgstr ""
 
-#: plasma/generic/dataengines/share/backends/kde/metadata.desktop:43
+#: plasma-workspace/dataengines/share/backends/kde/metadata.desktop:43
 msgctxt "Comment"
 msgid "Allows text to be shared using the kde.org service"
 msgstr ""
 
-#: plasma/generic/dataengines/share/backends/pastebincom/metadata.desktop:2
+#: plasma-workspace/dataengines/share/backends/pastebincom/metadata.desktop:2
 msgctxt "Name"
 msgid "pastebin.com"
 msgstr ""
 
-#: plasma/generic/dataengines/share/backends/pastebincom/metadata.desktop:61
+#: plasma-workspace/dataengines/share/backends/pastebincom/metadata.desktop:61
 msgctxt "Comment"
 msgid "Allows text to be shared using the pastebin.com service"
 msgstr ""
 
-#: plasma/generic/dataengines/share/backends/pasteopensuseorg/metadata.desktop:2
+#: plasma-workspace/dataengines/share/backends/pasteopensuseorg/metadata.desktop:2
 msgctxt "Name"
 msgid "paste.opensuse.org"
 msgstr ""
 
-#: plasma/generic/dataengines/share/backends/pasteopensuseorg/metadata.desktop:61
+#: plasma-workspace/dataengines/share/backends/pasteopensuseorg/metadata.desktop:61
 msgctxt "Comment"
 msgid "Paste text with openSUSE"
 msgstr ""
 
-#: plasma/generic/dataengines/share/backends/pasteubuntucom/metadata.desktop:2
+#: plasma-workspace/dataengines/share/backends/pasteubuntucom/metadata.desktop:2
 msgctxt "Name"
 msgid "paste.ubuntu.com"
 msgstr ""
 
-#: plasma/generic/dataengines/share/backends/privatepaste/metadata.desktop:2
+#: plasma-workspace/dataengines/share/backends/privatepaste/metadata.desktop:2
 msgctxt "Name"
 msgid "privatepaste.com"
 msgstr ""
 
-#: plasma/generic/dataengines/share/backends/privatepaste/metadata.desktop:60
+#: plasma-workspace/dataengines/share/backends/privatepaste/metadata.desktop:60
 msgctxt "Comment"
 msgid "Paste text with the PrivatePaste.com service"
 msgstr ""
 
-#: plasma/generic/dataengines/share/backends/simplestimagehosting/metadata.desktop:2
+#: plasma-workspace/dataengines/share/backends/simplestimagehosting/metadata.desktop:2
 msgctxt "Name"
 msgid "Simplest Image Hosting"
 msgstr ""
 
-#: plasma/generic/dataengines/share/backends/simplestimagehosting/metadata.desktop:57
+#: plasma-workspace/dataengines/share/backends/simplestimagehosting/metadata.desktop:57
 msgctxt "Comment"
 msgid "Allows images to be shared using the Simplest Image Hosting service"
 msgstr ""
 
-#: plasma/generic/dataengines/share/backends/wklej/metadata.desktop:2
+#: plasma-workspace/dataengines/share/backends/wklej/metadata.desktop:2
 msgctxt "Name"
 msgid "wklej.org"
 msgstr ""
 
-#: plasma/generic/dataengines/share/backends/wklej/metadata.desktop:61
+#: plasma-workspace/dataengines/share/backends/wklej/metadata.desktop:61
 msgctxt "Comment"
 msgid "Allows text to be shared using the wklej.org service"
 msgstr ""
 
-#: plasma/generic/dataengines/share/backends/wstaw/metadata.desktop:2
+#: plasma-workspace/dataengines/share/backends/wstaw/metadata.desktop:2
 msgctxt "Name"
 msgid "wstaw.org"
 msgstr ""
 
-#: plasma/generic/dataengines/share/backends/wstaw/metadata.desktop:62
+#: plasma-workspace/dataengines/share/backends/wstaw/metadata.desktop:62
 msgctxt "Comment"
 msgid "Allows images to be shared using the wstaw.org service"
 msgstr ""
 
-#: plasma/generic/dataengines/share/data/plasma-packagestructure-share.desktop:2
+#: plasma-workspace/dataengines/share/data/plasma-packagestructure-share.desktop:2
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Services"
@@ -3907,17 +4031,17 @@ msgctxt "Name"
 msgid "ShareProvider"
 msgstr "ସର୍ଭିସଗୁଡ଼ିକ"
 
-#: plasma/generic/dataengines/share/data/plasma-packagestructure-share.desktop:56
+#: plasma-workspace/dataengines/share/data/plasma-packagestructure-share.desktop:56
 msgctxt "Comment"
 msgid "Share Package Structure"
 msgstr ""
 
-#: plasma/generic/dataengines/share/data/plasma_shareprovider.desktop:4
+#: plasma-workspace/dataengines/share/data/plasma_shareprovider.desktop:4
 msgctxt "Comment"
 msgid "Plugin for Plasma Sharebin"
 msgstr ""
 
-#: plasma/generic/dataengines/share/plasma-dataengine-share.desktop:2
+#: plasma-workspace/dataengines/share/plasma-dataengine-share.desktop:2
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Services"
@@ -3925,12 +4049,12 @@ msgctxt "Name"
 msgid "Share Services"
 msgstr "ସର୍ଭିସଗୁଡ଼ିକ"
 
-#: plasma/generic/dataengines/share/plasma-dataengine-share.desktop:59
+#: plasma-workspace/dataengines/share/plasma-dataengine-share.desktop:59
 msgctxt "Comment"
 msgid "Engine to share content using different services"
 msgstr ""
 
-#: plasma/generic/dataengines/soliddevice/plasma-dataengine-soliddevice.desktop:79
+#: plasma-workspace/dataengines/soliddevice/plasma-dataengine-soliddevice.desktop:79
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "SolidDevice data for Plasmoids"
@@ -3938,7 +4062,7 @@ msgctxt "Comment"
 msgid "Device data via Solid"
 msgstr "Plasmoids ପାଇଁ SolidDevice ତଥ୍ୟ"
 
-#: plasma/generic/dataengines/statusnotifieritem/plasma-engine-statusnotifieritem.desktop:2
+#: plasma-workspace/dataengines/statusnotifieritem/plasma-engine-statusnotifieritem.desktop:2
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "System Process Information"
@@ -3946,14 +4070,14 @@ msgctxt "Name"
 msgid "Status Notifier Information"
 msgstr "ତନ୍ତ୍ର ପ୍ରଣାଳୀ ସୂଚନା"
 
-#: plasma/generic/dataengines/statusnotifieritem/plasma-engine-statusnotifieritem.desktop:60
+#: plasma-workspace/dataengines/statusnotifieritem/plasma-engine-statusnotifieritem.desktop:60
 msgctxt "Comment"
 msgid ""
 "Engine for applications' status information, based on the Status Notifier "
 "protocol."
 msgstr ""
 
-#: plasma/generic/dataengines/systemmonitor/plasma-dataengine-systemmonitor.desktop:87
+#: plasma-workspace/dataengines/systemmonitor/plasma-dataengine-systemmonitor.desktop:87
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "System Process Information"
@@ -3961,22 +4085,22 @@ msgctxt "Comment"
 msgid "System status information"
 msgstr "ତନ୍ତ୍ର ପ୍ରଣାଳୀ ସୂଚନା"
 
-#: plasma/generic/dataengines/tasks/plasma-dataengine-tasks.desktop:2
+#: plasma-workspace/dataengines/tasks/plasma-dataengine-tasks.desktop:2
 msgctxt "Name"
 msgid "Window Information"
 msgstr "ୱିଣ୍ଡୋ ସୂଚନା"
 
-#: plasma/generic/dataengines/tasks/plasma-dataengine-tasks.desktop:77
+#: plasma-workspace/dataengines/tasks/plasma-dataengine-tasks.desktop:77
 msgctxt "Comment"
 msgid "Information and management services for all available windows."
 msgstr ""
 
-#: plasma/generic/dataengines/time/plasma-dataengine-time.desktop:2
+#: plasma-workspace/dataengines/time/plasma-dataengine-time.desktop:2
 msgctxt "Name"
 msgid "Date and Time"
 msgstr "ତାରିଖ ଏବଂ ସମୟ"
 
-#: plasma/generic/dataengines/time/plasma-dataengine-time.desktop:81
+#: plasma-workspace/dataengines/time/plasma-dataengine-time.desktop:81
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Date and time settings"
@@ -3984,17 +4108,17 @@ msgctxt "Comment"
 msgid "Date and time by timezone"
 msgstr "ତାରିଖ ଏବଂ ସମୟ ସଂରଚନା"
 
-#: plasma/generic/dataengines/weather/ions/bbcukmet/ion-bbcukmet.desktop:2
+#: plasma-workspace/dataengines/weather/ions/bbcukmet/ion-bbcukmet.desktop:2
 msgctxt "Name"
 msgid "BBC Weather from UK MET Office"
 msgstr "UK MET କାର୍ଯ୍ୟାଳୟରୁ BBC ପାଣିପାଗ"
 
-#: plasma/generic/dataengines/weather/ions/bbcukmet/ion-bbcukmet.desktop:78
+#: plasma-workspace/dataengines/weather/ions/bbcukmet/ion-bbcukmet.desktop:78
 msgctxt "Comment"
 msgid "XML Data from the UK MET Office"
 msgstr "UK MET କାର୍ଯ୍ୟାଳୟରୁ XML ତଥ୍ୟ"
 
-#: plasma/generic/dataengines/weather/ions/debianweather/ion-debianweather.desktop:2
+#: plasma-workspace/dataengines/weather/ions/debianweather/ion-debianweather.desktop:2
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Debian Package Search"
@@ -4002,52 +4126,360 @@ msgctxt "Name"
 msgid "Debian Weather Service"
 msgstr "Debian ପ୍ୟାକେଜ ସନ୍ଧାନ"
 
-#: plasma/generic/dataengines/weather/ions/debianweather/ion-debianweather.desktop:54
+#: plasma-workspace/dataengines/weather/ions/debianweather/ion-debianweather.desktop:54
 msgctxt "Comment"
 msgid "XML Data from edos.debian.net"
 msgstr ""
 
-#: plasma/generic/dataengines/weather/ions/envcan/ion-envcan.desktop:2
+#: plasma-workspace/dataengines/weather/ions/envcan/ion-envcan.desktop:2
 msgctxt "Name"
 msgid "Environment Canada"
 msgstr ""
 
-#: plasma/generic/dataengines/weather/ions/envcan/ion-envcan.desktop:75
+#: plasma-workspace/dataengines/weather/ions/envcan/ion-envcan.desktop:75
 msgctxt "Comment"
 msgid "XML Data from Environment Canada"
 msgstr ""
 
-#: plasma/generic/dataengines/weather/ions/noaa/ion-noaa.desktop:2
+#: plasma-workspace/dataengines/weather/ions/noaa/ion-noaa.desktop:2
 msgctxt "Name"
 msgid "NOAA's National Weather Service"
 msgstr ""
 
-#: plasma/generic/dataengines/weather/ions/noaa/ion-noaa.desktop:75
+#: plasma-workspace/dataengines/weather/ions/noaa/ion-noaa.desktop:75
 msgctxt "Comment"
 msgid "XML Data from NOAA's National Weather Service"
 msgstr ""
 
-#: plasma/generic/dataengines/weather/ions/wetter.com/ion-wettercom.desktop:2
+#: plasma-workspace/dataengines/weather/ions/wetter.com/ion-wettercom.desktop:2
 msgctxt "Name"
 msgid "wetter.com"
 msgstr ""
 
-#: plasma/generic/dataengines/weather/ions/wetter.com/ion-wettercom.desktop:71
+#: plasma-workspace/dataengines/weather/ions/wetter.com/ion-wettercom.desktop:71
 msgctxt "Comment"
 msgid "Weather forecast by wetter.com"
 msgstr ""
 
-#: plasma/generic/dataengines/weather/plasma-dataengine-weather.desktop:2
+#: plasma-workspace/dataengines/weather/plasma-dataengine-weather.desktop:2
 msgctxt "Name"
 msgid "Weather"
 msgstr "ପାଣିପାଗ"
 
-#: plasma/generic/dataengines/weather/plasma-dataengine-weather.desktop:78
+#: plasma-workspace/dataengines/weather/plasma-dataengine-weather.desktop:78
 msgctxt "Comment"
 msgid "Weather data from multiple online sources"
 msgstr ""
 
-#: plasma/generic/runners/activities/plasma-runner-activityrunner.desktop:57
+#: plasma-workspace/freespacenotifier/freespacenotifier.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "KDED Remote Base URL Notifier"
+msgctxt "Name"
+msgid "Free Space Notifier"
+msgstr "KDED ସୁଦୂର ଆଧାର URL ସୂଚନା ଦାତା"
+
+#: plasma-workspace/freespacenotifier/freespacenotifier.desktop:65
+msgctxt "Comment"
+msgid "Warns when running out of space on your home folder"
+msgstr ""
+
+#: plasma-workspace/freespacenotifier/freespacenotifier.notifyrc:3
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "KDE Notification Daemon"
+msgctxt "Comment"
+msgid "KDE Free Space Notifier Daemon"
+msgstr "KDE ବିଜ୍ଞପ୍ତି ଡେମନ"
+
+#: plasma-workspace/freespacenotifier/freespacenotifier.notifyrc:67
+msgctxt "Name"
+msgid "Low Disk Space"
+msgstr ""
+
+#: plasma-workspace/freespacenotifier/freespacenotifier.notifyrc:134
+#: powerdevil/powerdevil.notifyrc:108
+msgctxt "Name"
+msgid "Warning"
+msgstr "ଚେତାବନୀ"
+
+#: plasma-workspace/freespacenotifier/freespacenotifier.notifyrc:221
+#: powerdevil/powerdevil.notifyrc:195
+msgctxt "Comment"
+msgid "Used for warning notifications"
+msgstr "ଚେତାବନୀ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ ପାଇଁ ବ୍ୟବହୃତ ହୋଇଥାଏ"
+
+#: plasma-workspace/freespacenotifier/freespacenotifier.notifyrc:296
+msgctxt "Name"
+msgid "Running low on disk space"
+msgstr ""
+
+#: plasma-workspace/freespacenotifier/freespacenotifier.notifyrc:359
+msgctxt "Comment"
+msgid "You are running low on disk space"
+msgstr ""
+
+#: plasma-workspace/klipper/klipper.desktop:2
+msgctxt "Name"
+msgid "Klipper"
+msgstr ""
+
+#: plasma-workspace/klipper/klipper.desktop:92
+msgctxt "GenericName"
+msgid "Clipboard Tool"
+msgstr ""
+
+#: plasma-workspace/klipper/klipper.desktop:192
+msgctxt "Comment"
+msgid "A cut & paste history utility"
+msgstr ""
+
+#: plasma-workspace/klipper/klipperrc.desktop:14
+msgctxt "Description"
+msgid "Jpeg-Image"
+msgstr ""
+
+#: plasma-workspace/klipper/klipperrc.desktop:110
+msgctxt "Description"
+msgid "Launch &Gwenview"
+msgstr ""
+
+#: plasma-workspace/klipper/klipperrc.desktop:193
+msgctxt "Description"
+msgid "Web-URL"
+msgstr ""
+
+#: plasma-workspace/klipper/klipperrc.desktop:288
+#: plasma-workspace/klipper/klipperrc.desktop:1974
+msgctxt "Description"
+msgid "Open with &default Browser"
+msgstr ""
+
+#: plasma-workspace/klipper/klipperrc.desktop:371
+#: plasma-workspace/klipper/klipperrc.desktop:2057
+msgctxt "Description"
+msgid "Open with &Konqueror"
+msgstr ""
+
+#: plasma-workspace/klipper/klipperrc.desktop:466
+#: plasma-workspace/klipper/klipperrc.desktop:2151
+msgctxt "Description"
+msgid "Open with &Mozilla"
+msgstr ""
+
+#: plasma-workspace/klipper/klipperrc.desktop:560
+#: plasma-workspace/klipper/klipperrc.desktop:1406
+#: plasma-workspace/klipper/klipperrc.desktop:1690
+#: plasma-workspace/klipper/klipperrc.desktop:2245
+msgctxt "Description"
+msgid "Send &URL"
+msgstr ""
+
+#: plasma-workspace/klipper/klipperrc.desktop:656
+msgctxt "Description"
+msgid "Open with &Firefox"
+msgstr ""
+
+#: plasma-workspace/klipper/klipperrc.desktop:747
+msgctxt "Description"
+msgid "Send &Page"
+msgstr ""
+
+#: plasma-workspace/klipper/klipperrc.desktop:841
+msgctxt "Description"
+msgid "Mail-URL"
+msgstr ""
+
+#: plasma-workspace/klipper/klipperrc.desktop:935
+msgctxt "Description"
+msgid "Launch &Kmail"
+msgstr ""
+
+#: plasma-workspace/klipper/klipperrc.desktop:1029
+msgctxt "Description"
+msgid "Launch &mutt"
+msgstr ""
+
+#: plasma-workspace/klipper/klipperrc.desktop:1122
+msgctxt "Description"
+msgid "Text File"
+msgstr ""
+
+#: plasma-workspace/klipper/klipperrc.desktop:1218
+msgctxt "Description"
+msgid "Launch K&Write"
+msgstr ""
+
+#: plasma-workspace/klipper/klipperrc.desktop:1311
+msgctxt "Description"
+msgid "Local file URL"
+msgstr ""
+
+#: plasma-workspace/klipper/klipperrc.desktop:1501
+#: plasma-workspace/klipper/klipperrc.desktop:1785
+#: plasma-workspace/klipper/klipperrc.desktop:2340
+msgctxt "Description"
+msgid "Send &File"
+msgstr ""
+
+#: plasma-workspace/klipper/klipperrc.desktop:1595
+msgctxt "Description"
+msgid "Gopher URL"
+msgstr ""
+
+#: plasma-workspace/klipper/klipperrc.desktop:1879
+msgctxt "Description"
+msgid "ftp URL"
+msgstr ""
+
+#: plasma-workspace/ksmserver/kcm/kcmsmserver.desktop:13
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "File Management"
+msgctxt "Name"
+msgid "Session Management"
+msgstr "ଫାଇଲ ପରିଚାଳନା"
+
+#: plasma-workspace/ksmserver/kcm/kcmsmserver.desktop:78
+msgctxt "Comment"
+msgid "Configure the session manager and logout settings"
+msgstr ""
+
+#: plasma-workspace/ksmserver/kcm/kcmsmserver.desktop:168
+msgctxt "X-KDE-Keywords"
+msgid "ksmserver,session,logout,confirmation,save,restore"
+msgstr ""
+
+#: plasma-workspace/ksmserver/screenlocker/greeter/themes/org.kde.passworddialog/metadata.desktop:2
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Password caching support"
+msgctxt "Name"
+msgid "Password dialog"
+msgstr "ପ୍ରବେଶ ସଂକେତ ଧରିବା ସମର୍ଥନ"
+
+#: plasma-workspace/ksmserver/screenlocker/greeter/themes/org.kde.passworddialog/metadata.desktop:46
+msgctxt "Comment"
+msgid ""
+"Screen locker that provides a password dialog and an interface to switch the "
+"current user"
+msgstr ""
+
+#: plasma-workspace/ksmserver/screenlocker/kscreenlocker.notifyrc:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Screen Saver"
+msgctxt "Comment"
+msgid "Screen Saver"
+msgstr "ପରଦା ସଂରକ୍ଷକ"
+
+#: plasma-workspace/ksmserver/screenlocker/kscreenlocker.notifyrc:68
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Screen Saver"
+msgctxt "Name"
+msgid "Screen saver started"
+msgstr "ପରଦା ସଂରକ୍ଷକ"
+
+#: plasma-workspace/ksmserver/screenlocker/kscreenlocker.notifyrc:136
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "The trash has been emptied"
+msgctxt "Comment"
+msgid "The screen saver has been started"
+msgstr "ଆବର୍ଜନାପାତ୍ରକୁ ଖାଲିକରାଯାଇଛି"
+
+#: plasma-workspace/ksmserver/screenlocker/kscreenlocker.notifyrc:206
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Screen Saver"
+msgctxt "Name"
+msgid "Screen locked"
+msgstr "ପରଦା ସଂରକ୍ଷକ"
+
+#: plasma-workspace/ksmserver/screenlocker/kscreenlocker.notifyrc:274
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "A modifier key has been locked"
+msgctxt "Comment"
+msgid "The screen has been locked"
+msgstr "ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି ଅପରିବର୍ତ୍ତିତ ହୋଇଯାଇଛି"
+
+#: plasma-workspace/ksmserver/screenlocker/kscreenlocker.notifyrc:345
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Screen Saver"
+msgctxt "Name"
+msgid "Screen saver exited"
+msgstr "ପରଦା ସଂରକ୍ଷକ"
+
+#: plasma-workspace/ksmserver/screenlocker/kscreenlocker.notifyrc:412
+msgctxt "Comment"
+msgid "The screen saver has finished"
+msgstr ""
+
+#: plasma-workspace/ksmserver/screenlocker/kscreenlocker.notifyrc:482
+msgctxt "Name"
+msgid "Screen unlocked"
+msgstr ""
+
+#: plasma-workspace/ksmserver/screenlocker/kscreenlocker.notifyrc:550
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "A modifier key has been locked"
+msgctxt "Comment"
+msgid "The screen has been unlocked"
+msgstr "ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି ଅପରିବର୍ତ୍ତିତ ହୋଇଯାଇଛି"
+
+#: plasma-workspace/ksmserver/screenlocker/kscreenlocker.notifyrc:619
+msgctxt "Name"
+msgid "Screen unlock failed"
+msgstr ""
+
+#: plasma-workspace/ksmserver/screenlocker/kscreenlocker.notifyrc:687
+msgctxt "Comment"
+msgid "Failed attempt to unlock the screen"
+msgstr ""
+
+#: plasma-workspace/ksmserver/themes/contour/metadata.desktop:3
+msgctxt "Name"
+msgid "Contour"
+msgstr ""
+
+#: plasma-workspace/ksmserver/themes/contour/metadata.desktop:48
+msgctxt "Comment"
+msgid "Plasma Active theme"
+msgstr ""
+
+#: plasma-workspace/ksmserver/themes/default/metadata.desktop:3
+msgctxt "Name"
+msgid "Default"
+msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ"
+
+#: plasma-workspace/ksmserver/themes/default/metadata.desktop:93
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Plasma Desktop Workspace"
+msgctxt "Comment"
+msgid "Default Plasma Desktop theme"
+msgstr "ପ୍ଲାଜମା ଡ଼େସ୍କଟପ କାର୍ଯ୍ୟସ୍ଥଳ"
+
+#: plasma-workspace/ksplash/kcm/ksplashthememgr.desktop:15
+msgctxt "Name"
+msgid "Splash Screen"
+msgstr ""
+
+#: plasma-workspace/ksplash/kcm/ksplashthememgr.desktop:102
+msgctxt "Comment"
+msgid "Manager for Splash Screen Themes"
+msgstr ""
+
+#: plasma-workspace/ksplash/kcm/ksplashthememgr.desktop:189
+msgctxt "X-KDE-Keywords"
+msgid "splash screen,splash theme,startup"
+msgstr ""
+
+#: plasma-workspace/runners/activities/plasma-runner-activityrunner.desktop:57
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Switch between virtual desktops"
@@ -4055,7 +4487,7 @@ msgctxt "Comment"
 msgid "List and switch between desktop activities"
 msgstr "ଆଭାସୀ ଡ଼େସ୍କଟପଗୁଡ଼ିକ ମଧ୍ଯରେ ଅଦଳ ବଦଳ କରନ୍ତୁ"
 
-#: plasma/generic/runners/bookmarks/plasma-runner-bookmarks.desktop:3
+#: plasma-workspace/runners/bookmarks/plasma-runner-bookmarks.desktop:3
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Bookmarks"
@@ -4063,22 +4495,22 @@ msgctxt "Name|plasma runner"
 msgid "Bookmarks"
 msgstr "ଚିହ୍ନିତ ସ୍ଥାନ"
 
-#: plasma/generic/runners/bookmarks/plasma-runner-bookmarks.desktop:73
+#: plasma-workspace/runners/bookmarks/plasma-runner-bookmarks.desktop:73
 msgctxt "Comment"
 msgid "Find and open bookmarks"
 msgstr "ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକୁ ଖୋଜନ୍ତୁ ଏବଂ ଖୋଲନ୍ତୁ"
 
-#: plasma/generic/runners/calculator/plasma-runner-calculator.desktop:2
+#: plasma-workspace/runners/calculator/plasma-runner-calculator.desktop:2
 msgctxt "Name"
 msgid "Calculator"
 msgstr "କାଲକୁଲେଟର"
 
-#: plasma/generic/runners/calculator/plasma-runner-calculator.desktop:83
+#: plasma-workspace/runners/calculator/plasma-runner-calculator.desktop:83
 msgctxt "Comment"
 msgid "Calculate expressions"
 msgstr "ଅଭିବ୍ୟକ୍ତିଗୁଡ଼ିକୁ ଗଣନା କରନ୍ତୁ"
 
-#: plasma/generic/runners/kill/plasma-runner-kill_config.desktop:9
+#: plasma-workspace/runners/kill/plasma-runner-kill_config.desktop:9
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "KDE Applications"
@@ -4086,7 +4518,7 @@ msgctxt "Name"
 msgid "Kill Applications"
 msgstr "KDE ପ୍ରୟୋଗଗୁଡ଼ିକ"
 
-#: plasma/generic/runners/kill/plasma-runner-kill.desktop:2
+#: plasma-workspace/runners/kill/plasma-runner-kill.desktop:2
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Terminal Applications"
@@ -4094,22 +4526,22 @@ msgctxt "Name"
 msgid "Terminate Applications"
 msgstr "ଟର୍ମିନାଲ ପ୍ରୟୋଗଗୁଡ଼ିକ"
 
-#: plasma/generic/runners/kill/plasma-runner-kill.desktop:72
+#: plasma-workspace/runners/kill/plasma-runner-kill.desktop:72
 msgctxt "Comment"
 msgid "Stop applications that are currently running"
 msgstr ""
 
-#: plasma/generic/runners/locations/plasma-runner-locations.desktop:2
+#: plasma-workspace/runners/locations/plasma-runner-locations.desktop:2
 msgctxt "Name"
 msgid "Locations"
 msgstr "ସ୍ଥାନଗୁଡ଼ିକ"
 
-#: plasma/generic/runners/locations/plasma-runner-locations.desktop:79
+#: plasma-workspace/runners/locations/plasma-runner-locations.desktop:79
 msgctxt "Comment"
 msgid "File and URL opener"
 msgstr "ଫାଇଲ ଏବଂ URL ଖୋଲା"
 
-#: plasma/generic/runners/places/plasma-runner-places.desktop:81
+#: plasma-workspace/runners/places/plasma-runner-places.desktop:81
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Open Devices and Folder Bookmarks"
@@ -4117,52 +4549,52 @@ msgctxt "Comment"
 msgid "Open devices and folder bookmarks"
 msgstr "ଉପକରଣଗୁଡ଼ିକୁ ଏବଂ ଫୋଲଡ଼ର ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକୁ ଖୋଲନ୍ତୁ"
 
-#: plasma/generic/runners/powerdevil/plasma-runner-powerdevil.desktop:2
+#: plasma-workspace/runners/powerdevil/plasma-runner-powerdevil.desktop:2
 msgctxt "Comment"
 msgid "Basic Power Management Operations"
 msgstr "ମୌଳିକ ଶକ୍ତି ପରିଚାଳନା ପ୍ରୟୋଗଗୁଡ଼ିକ"
 
-#: plasma/generic/runners/powerdevil/plasma-runner-powerdevil.desktop:76
+#: plasma-workspace/runners/powerdevil/plasma-runner-powerdevil.desktop:76
 msgctxt "Name"
 msgid "PowerDevil"
 msgstr "PowerDevil"
 
-#: plasma/generic/runners/recentdocuments/recentdocuments.desktop:2
+#: plasma-workspace/runners/recentdocuments/recentdocuments.desktop:2
 msgctxt "Name"
 msgid "Recent Documents"
 msgstr "ପ୍ରଚଳିତ ଦଲିଲଗୁଡ଼ିକ"
 
-#: plasma/generic/runners/services/plasma-runner-services.desktop:2
+#: plasma-workspace/runners/services/plasma-runner-services.desktop:2
 msgctxt "Name"
 msgid "Applications"
 msgstr "ପ୍ରୟୋଗଗୁଡ଼ିକ"
 
-#: plasma/generic/runners/services/plasma-runner-services.desktop:94
+#: plasma-workspace/runners/services/plasma-runner-services.desktop:94
 msgctxt "Comment"
 msgid "Find applications, control panels and services"
 msgstr "ପ୍ରୟୋଗ, ନିୟନ୍ତ୍ରଣ ପଟି ଏବଂ ସର୍ଭିସଗୁଡ଼ିକୁ ଖୋଜନ୍ତୁ"
 
-#: plasma/generic/runners/sessions/plasma-runner-sessions.desktop:2
+#: plasma-workspace/runners/sessions/plasma-runner-sessions.desktop:2
 msgctxt "Name"
 msgid "Desktop Sessions"
 msgstr "ଡ଼େସ୍କଟପ ଅଧିବେଶନଗୁଡ଼ିକ"
 
-#: plasma/generic/runners/sessions/plasma-runner-sessions.desktop:79
+#: plasma-workspace/runners/sessions/plasma-runner-sessions.desktop:79
 msgctxt "Comment"
 msgid "Fast user switching"
 msgstr "ପ୍ରଥମ ଚାଳକ ପରିବର୍ତ୍ତନ ହେଉଅଛି"
 
-#: plasma/generic/runners/shell/plasma-runner-shell.desktop:2
+#: plasma-workspace/runners/shell/plasma-runner-shell.desktop:2
 msgctxt "Name"
 msgid "Command Line"
 msgstr "ନିର୍ଦ୍ଦେଶନାମା"
 
-#: plasma/generic/runners/shell/plasma-runner-shell.desktop:81
+#: plasma-workspace/runners/shell/plasma-runner-shell.desktop:81
 msgctxt "Comment"
 msgid "Executes shell commands"
 msgstr "ସେଲ ନିର୍ଦ୍ଦେଶଗୁଡ଼ିକୁ ନିଷ୍ପାଦନ କରନ୍ତୁ"
 
-#: plasma/generic/runners/solid/plasma-runner-solid.desktop:3
+#: plasma-workspace/runners/solid/plasma-runner-solid.desktop:3
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Devices"
@@ -4170,12 +4602,12 @@ msgctxt "Name|plasma runner"
 msgid "Devices"
 msgstr "ଉପକରଣଗୁଡ଼ିକ"
 
-#: plasma/generic/runners/solid/plasma-runner-solid.desktop:74
+#: plasma-workspace/runners/solid/plasma-runner-solid.desktop:74
 msgctxt "Comment"
 msgid "Manage removable devices"
 msgstr ""
 
-#: plasma/generic/runners/webshortcuts/plasma-runner-webshortcuts.desktop:3
+#: plasma-workspace/runners/webshortcuts/plasma-runner-webshortcuts.desktop:3
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Web Shortcuts"
@@ -4183,7 +4615,7 @@ msgctxt "Name|plasma runner"
 msgid "Web Shortcuts"
 msgstr "ୱେବ ସଂକ୍ଷିପ୍ତ ପଥଗୁଡ଼ିକ"
 
-#: plasma/generic/runners/webshortcuts/plasma-runner-webshortcuts.desktop:73
+#: plasma-workspace/runners/webshortcuts/plasma-runner-webshortcuts.desktop:73
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Allows user to use Konqueror's Web shortcuts"
@@ -4191,7 +4623,7 @@ msgctxt "Comment"
 msgid "Allows user to use Konqueror's web shortcuts"
 msgstr "ଚାଳକମାନଙ୍କୁ Konquerorର ୱେବ ସଂକ୍ଷିପ୍ତ ପଥଗୁଡ଼ିକୁ ବ୍ୟବହାର କରିବାକୁ ଅନୁମତି ଦିଅନ୍ତୁ"
 
-#: plasma/generic/runners/windowedwidgets/plasma-runner-windowedwidgets.desktop:2
+#: plasma-workspace/runners/windowedwidgets/plasma-runner-windowedwidgets.desktop:2
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "MS Windows 9x"
@@ -4199,12 +4631,12 @@ msgctxt "Name"
 msgid "Windowed widgets"
 msgstr "MS Windows 9x"
 
-#: plasma/generic/runners/windowedwidgets/plasma-runner-windowedwidgets.desktop:64
+#: plasma-workspace/runners/windowedwidgets/plasma-runner-windowedwidgets.desktop:64
 msgctxt "Comment"
 msgid "Find Plasma widgets that can be run as standalone windows"
 msgstr ""
 
-#: plasma/generic/runners/windows/plasma-runner-windows.desktop:3
+#: plasma-workspace/runners/windows/plasma-runner-windows.desktop:3
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "MS Windows 9x"
@@ -4212,12 +4644,25 @@ msgctxt "Name|plasma runner"
 msgid "Windows"
 msgstr "MS Windows 9x"
 
-#: plasma/generic/runners/windows/plasma-runner-windows.desktop:73
+#: plasma-workspace/runners/windows/plasma-runner-windows.desktop:73
 msgctxt "Comment"
 msgid "List windows and desktops and switch them"
 msgstr ""
 
-#: plasma/generic/wallpapers/color/metadata.desktop:5
+#: plasma-workspace/statusnotifierwatcher/statusnotifierwatcher.desktop:3
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "KDE Notification Daemon"
+msgctxt "Name"
+msgid "Status Notifier Manager"
+msgstr "KDE ବିଜ୍ଞପ୍ତି ଡେମନ"
+
+#: plasma-workspace/statusnotifierwatcher/statusnotifierwatcher.desktop:63
+msgctxt "Comment"
+msgid "Manages services that provide status notifier user interfaces"
+msgstr ""
+
+#: plasma-workspace/wallpapers/color/metadata.desktop:5
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Color"
@@ -4225,7 +4670,7 @@ msgctxt "Name"
 msgid "Plain Color"
 msgstr "ରଙ୍ଗ"
 
-#: plasma/generic/wallpapers/color/plasma-wallpaper-color.desktop:2
+#: plasma-workspace/wallpapers/color/plasma-wallpaper-color.desktop:2
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Colors"
@@ -4233,17 +4678,17 @@ msgctxt "Name"
 msgid "Color"
 msgstr "ରଙ୍ଗ"
 
-#: plasma/generic/wallpapers/color/plasma-wallpaper-color.desktop:38
+#: plasma-workspace/wallpapers/color/plasma-wallpaper-color.desktop:39
 msgctxt "Comment"
 msgid "A plain color or gradient"
 msgstr ""
 
-#: plasma/generic/wallpapers/image/imagepackage/metadata.desktop:5
+#: plasma-workspace/wallpapers/image/imagepackage/metadata.desktop:5
 msgctxt "Name"
 msgid "Image"
 msgstr "ପ୍ରତିଛବି"
 
-#: plasma/generic/wallpapers/image/slideshowpackage/metadata.desktop:5
+#: plasma-workspace/wallpapers/image/slideshowpackage/metadata.desktop:5
 msgctxt "Name"
 msgid "Slideshow"
 msgstr "ସ୍ଲାଇଡ଼ ଦୃଶ୍ୟ"
@@ -4635,444 +5080,6 @@ msgid ""
 "KDE Power Management System has detected some troubles with one of your "
 "batteries"
 msgstr "PowerDevil ଗୋଟିଏ ଆଭ୍ୟନ୍ତରୀଣ ତ୍ରୁଟିକୁ ଆରମ୍ଭ କରିଛି"
-
-#: solid-actions-kcm/device-actions/solid-device-AcAdapter.desktop:3
-msgctxt "Name|AC adapter plugged in"
-msgid "Plugged"
-msgstr ""
-
-#: solid-actions-kcm/device-actions/solid-device-AcAdapter.desktop:51
-#: solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:366
-#: solid-actions-kcm/device-actions/solid-device-Battery.desktop:337
-#: solid-actions-kcm/device-actions/solid-device-Block.desktop:217
-#: solid-actions-kcm/device-actions/solid-device-Button.desktop:216
-#: solid-actions-kcm/device-actions/solid-device-Camera.desktop:146
-#: solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:294
-#: solid-actions-kcm/device-actions/solid-device-NetworkInterface.desktop:295
-#: solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:872
-#: solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:654
-#: solid-actions-kcm/device-actions/solid-device-PortableMediaPlayer.desktop:146
-#: solid-actions-kcm/device-actions/solid-device-Processor.desktop:286
-#: solid-actions-kcm/device-actions/solid-device-SerialInterface.desktop:190
-#: solid-actions-kcm/device-actions/solid-device-SmartCardReader.desktop:74
-#: solid-actions-kcm/device-actions/solid-device-StorageAccess.desktop:148
-#: solid-actions-kcm/device-actions/solid-device-StorageDrive.desktop:365
-#: solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:438
-#: solid-actions-kcm/device-actions/solid-device-Video.desktop:75
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "USB Devices"
-msgctxt "Name"
-msgid "Solid Device"
-msgstr "USB ଉପକରଣ"
-
-#: solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:2
-#: solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:220
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Devices"
-msgctxt "Name"
-msgid "Device Type"
-msgstr "ଉପକରଣଗୁଡ଼ିକ"
-
-#: solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:75
-msgctxt "Name"
-msgid "Driver"
-msgstr ""
-
-#: solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:150
-#: solid-actions-kcm/device-actions/solid-device-SerialInterface.desktop:2
-#, fuzzy
-#| msgctxt "GenericName"
-#| msgid "DJ-Mixer and Player"
-msgctxt "Name"
-msgid "Driver Handle"
-msgstr "DJ-ମିଶ୍ରକ ଏବଂ ଚାଳକ"
-
-#: solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:220
-#, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Game"
-msgctxt "Name"
-msgid "Name"
-msgstr "ଖେଳ"
-
-#: solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:293
-msgctxt "Name"
-msgid "Soundcard Type"
-msgstr ""
-
-#: solid-actions-kcm/device-actions/solid-device-Battery.desktop:2
-msgctxt "Name"
-msgid "Charge Percent"
-msgstr ""
-
-#: solid-actions-kcm/device-actions/solid-device-Battery.desktop:74
-msgctxt "Name"
-msgid "Charge State"
-msgstr ""
-
-#: solid-actions-kcm/device-actions/solid-device-Battery.desktop:147
-msgctxt "Name|battery plugged in"
-msgid "Plugged"
-msgstr ""
-
-#: solid-actions-kcm/device-actions/solid-device-Battery.desktop:194
-msgctxt "Name"
-msgid "Rechargeable"
-msgstr ""
-
-#: solid-actions-kcm/device-actions/solid-device-Battery.desktop:262
-#: solid-actions-kcm/device-actions/solid-device-Button.desktop:141
-msgctxt "Name"
-msgid "Type"
-msgstr ""
-
-#: solid-actions-kcm/device-actions/solid-device-Block.desktop:2
-#: solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Devices"
-msgctxt "Name"
-msgid "Device"
-msgstr "ଉପକରଣଗୁଡ଼ିକ"
-
-#: solid-actions-kcm/device-actions/solid-device-Block.desktop:76
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Moria"
-msgctxt "Name"
-msgid "Major"
-msgstr "ମୋରିଆ"
-
-#: solid-actions-kcm/device-actions/solid-device-Block.desktop:146
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Moria"
-msgctxt "Name"
-msgid "Minor"
-msgstr "ମୋରିଆ"
-
-#: solid-actions-kcm/device-actions/solid-device-Button.desktop:2
-msgctxt "Name"
-msgid "Has State"
-msgstr ""
-
-#: solid-actions-kcm/device-actions/solid-device-Button.desktop:73
-#, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Strategy Game"
-msgctxt "Name"
-msgid "State Value"
-msgstr "ଯୁକ୍ତି ଖେଳ"
-
-#: solid-actions-kcm/device-actions/solid-device-Camera.desktop:2
-#: solid-actions-kcm/device-actions/solid-device-PortableMediaPlayer.desktop:2
-#: solid-actions-kcm/device-actions/solid-device-Video.desktop:2
-msgctxt "Name"
-msgid "Supported Drivers"
-msgstr ""
-
-#: solid-actions-kcm/device-actions/solid-device-Camera.desktop:74
-#: solid-actions-kcm/device-actions/solid-device-PortableMediaPlayer.desktop:74
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Protocols"
-msgctxt "Name"
-msgid "Supported Protocols"
-msgstr "ପ୍ରୋଟୋକଲଗୁଡ଼ିକ"
-
-#: solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:76
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Service Manager"
-msgctxt "Name"
-msgid "Device Adapter"
-msgstr "ସର୍ଭିସ ପରିଚାଳକ"
-
-#: solid-actions-kcm/device-actions/solid-device-DvbInterface.desktop:148
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Help Index"
-msgctxt "Name"
-msgid "Device Index"
-msgstr "ସହାୟତା ଅନୁକ୍ରମଣିକା"
-
-#: solid-actions-kcm/device-actions/solid-device-NetworkInterface.desktop:2
-msgctxt "Name"
-msgid "Hw Address"
-msgstr ""
-
-#: solid-actions-kcm/device-actions/solid-device-NetworkInterface.desktop:75
-#, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Dice Game"
-msgctxt "Name"
-msgid "Iface Name"
-msgstr "ଡ଼ାଇସ ଖେଳ"
-
-#: solid-actions-kcm/device-actions/solid-device-NetworkInterface.desktop:147
-msgctxt "Name"
-msgid "Mac Address"
-msgstr ""
-
-#: solid-actions-kcm/device-actions/solid-device-NetworkInterface.desktop:221
-msgctxt "Name"
-msgid "Wireless"
-msgstr ""
-
-#: solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Appearance"
-msgctxt "Name"
-msgid "Appendable"
-msgstr "ଦୃଶ୍ୟ"
-
-#: solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:73
-msgctxt "Name"
-msgid "Available Content"
-msgstr ""
-
-#: solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:146
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Plan"
-msgctxt "Name"
-msgid "Blank"
-msgstr "ଯୋଜନା"
-
-#: solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:218
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Audacity"
-msgctxt "Name"
-msgid "Capacity"
-msgstr "Audacity"
-
-#: solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:291
-msgctxt "Name"
-msgid "Disc Type"
-msgstr ""
-
-#: solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:365
-#: solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:2
-msgctxt "Name"
-msgid "Fs Type"
-msgstr ""
-
-#: solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:438
-#: solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:75
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Iagno"
-msgctxt "Name"
-msgid "Ignored"
-msgstr "Iagno"
-
-#: solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:510
-#: solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:147
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Panel"
-msgctxt "Name"
-msgid "Label"
-msgstr "ଫଳକ"
-
-#: solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:583
-msgctxt "Name"
-msgid "Rewritable"
-msgstr ""
-
-#: solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:654
-#: solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:362
-#: solid-actions-kcm/device-actions/solid-device-StorageDrive.desktop:291
-#: solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:220
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Belize"
-msgctxt "Name"
-msgid "Size"
-msgstr "ବେଲିଜ"
-
-#: solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:727
-#: solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:293
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Pager"
-msgctxt "Name"
-msgid "Usage"
-msgstr "ପେଜର"
-
-#: solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:799
-#: solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:365
-msgctxt "Name"
-msgid "Uuid"
-msgstr ""
-
-#: solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:2
-#: solid-actions-kcm/device-actions/solid-device-StorageDrive.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Belarus"
-msgctxt "Name"
-msgid "Bus"
-msgstr "ବେଲାରୁସ"
-
-#: solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:75
-#: solid-actions-kcm/device-actions/solid-device-StorageDrive.desktop:75
-msgctxt "Name"
-msgid "Drive Type"
-msgstr ""
-
-#: solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:149
-#: solid-actions-kcm/device-actions/solid-device-StorageDrive.desktop:149
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Portugal"
-msgctxt "Name"
-msgid "Hotpluggable"
-msgstr "ପର୍ତ୍ତୁଗାଲ"
-
-#: solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:218
-#, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Spread Sheet"
-msgctxt "Name"
-msgid "Read Speed"
-msgstr "ସ୍ପ୍ରେଡ଼ ସୀଟ"
-
-#: solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:289
-#: solid-actions-kcm/device-actions/solid-device-StorageDrive.desktop:218
-msgctxt "Name"
-msgid "Removable"
-msgstr ""
-
-#: solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:435
-msgctxt "Name"
-msgid "Supported Media"
-msgstr ""
-
-#: solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:507
-msgctxt "Name"
-msgid "Write Speed"
-msgstr ""
-
-#: solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:580
-msgctxt "Name"
-msgid "Write Speeds"
-msgstr ""
-
-#: solid-actions-kcm/device-actions/solid-device-Processor.desktop:2
-msgctxt "Name"
-msgid "Can Change Frequency"
-msgstr ""
-
-#: solid-actions-kcm/device-actions/solid-device-Processor.desktop:72
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Illegal instruction."
-msgctxt "Name"
-msgid "Instruction Sets"
-msgstr "ଅବୈଧ ନିର୍ଦ୍ଦେଶ।"
-
-#: solid-actions-kcm/device-actions/solid-device-Processor.desktop:142
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Mac Scheme"
-msgctxt "Name"
-msgid "Max Speed"
-msgstr "Mac ଯୋଜନା"
-
-#: solid-actions-kcm/device-actions/solid-device-Processor.desktop:214
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Niue"
-msgctxt "Name"
-msgid "Number"
-msgstr "ନିଉ"
-
-#: solid-actions-kcm/device-actions/solid-device-SerialInterface.desktop:72
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Forte"
-msgctxt "Name"
-msgid "Port"
-msgstr "ଫର୍ଟ"
-
-#: solid-actions-kcm/device-actions/solid-device-SerialInterface.desktop:146
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Devices"
-msgctxt "Name|The physical type of serial port (ie. USB, RS232, etc)"
-msgid "Serial Type"
-msgstr "ଉପକରଣଗୁଡ଼ିକ"
-
-#: solid-actions-kcm/device-actions/solid-device-SmartCardReader.desktop:2
-#, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Spread Sheet"
-msgctxt "Name"
-msgid "Reader Type"
-msgstr "ସ୍ପ୍ରେଡ଼ ସୀଟ"
-
-#: solid-actions-kcm/device-actions/solid-device-StorageAccess.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Accessibility"
-msgctxt "Name"
-msgid "Accessible"
-msgstr "ଅଭିଗମ୍ୟତା"
-
-#: solid-actions-kcm/device-actions/solid-device-StorageAccess.desktop:74
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Find Part"
-msgctxt "Name"
-msgid "File Path"
-msgstr "ଅଂଶ ଖୋଜନ୍ତୁ"
-
-#: solid-actions-kcm/solid-actions.desktop:13
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Device Information"
-msgctxt "Name"
-msgid "Device Actions"
-msgstr "ଯନ୍ତ୍ର ସୂଚନା"
-
-#: solid-actions-kcm/solid-actions.desktop:84
-msgctxt "Comment"
-msgid "Manage actions available to the user when connecting new devices"
-msgstr ""
-
-#: solid-actions-kcm/solid-actions.desktop:130
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Device Information"
-msgctxt "X-KDE-Keywords"
-msgid "Solid Devices Actions"
-msgstr "ଯନ୍ତ୍ର ସୂଚନା"
-
-#: solid-actions-kcm/solid-device-type.desktop:4
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Devices"
-msgctxt "Name"
-msgid "Solid Device Type"
-msgstr "ଉପକରଣଗୁଡ଼ିକ"
-
-#: statusnotifierwatcher/statusnotifierwatcher.desktop:3
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "KDE Notification Daemon"
-msgctxt "Name"
-msgid "Status Notifier Manager"
-msgstr "KDE ବିଜ୍ଞପ୍ତି ଡେମନ"
-
-#: statusnotifierwatcher/statusnotifierwatcher.desktop:63
-msgctxt "Comment"
-msgid "Manages services that provide status notifier user interfaces"
-msgstr ""
 
 #: systemsettings/app/kdesystemsettings.desktop:8
 #, fuzzy
