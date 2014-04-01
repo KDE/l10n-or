@@ -23,132 +23,6 @@ msgstr ""
 "\n"
 "X-Generator: KBabel 1.11.4\n"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:88
-#, fuzzy
-#| msgid "Backspace"
-msgctxt "KKeyServer|"
-msgid "Backspace"
-msgstr "Backspace"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:89
-#, fuzzy
-#| msgid "SysReq"
-msgctxt "KKeyServer|"
-msgid "SysReq"
-msgstr "SysReq"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:90
-#, fuzzy
-#| msgid "CapsLock"
-msgctxt "KKeyServer|"
-msgid "CapsLock"
-msgstr "କ୍ଯାପ୍ସ ଲକ (CapsLock)"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:91
-#, fuzzy
-#| msgid "NumLock"
-msgctxt "KKeyServer|"
-msgid "NumLock"
-msgstr "ନମ ଲକ (NumLock)"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:92
-#, fuzzy
-#| msgid "ScrollLock"
-msgctxt "KKeyServer|"
-msgid "ScrollLock"
-msgstr "ScrollLock"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:93
-#, fuzzy
-#| msgid "PageUp"
-msgctxt "KKeyServer|"
-msgid "PageUp"
-msgstr "PageUp"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:94
-#, fuzzy
-#| msgid "PageDown"
-msgctxt "KKeyServer|"
-msgid "PageDown"
-msgstr "PageDown"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:96
-#, fuzzy
-#| msgid "Stop"
-msgctxt "KKeyServer|"
-msgid "Stop"
-msgstr "ବିରାମ କରନ୍ତୁ"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:97
-#, fuzzy
-#| msgid "Again"
-msgctxt "KKeyServer|"
-msgid "Again"
-msgstr "ପୁଣିଥରେ"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:98
-#, fuzzy
-#| msgid "Props"
-msgctxt "KKeyServer|"
-msgid "Props"
-msgstr "Props"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:99
-#, fuzzy
-#| msgid "Undo"
-msgctxt "KKeyServer|"
-msgid "Undo"
-msgstr "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:100
-#, fuzzy
-#| msgid "Front"
-msgctxt "KKeyServer|"
-msgid "Front"
-msgstr "ଆଗ"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:101
-#, fuzzy
-#| msgid "Copy"
-msgctxt "KKeyServer|"
-msgid "Copy"
-msgstr "ନକଲ କରନ୍ତୁ"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:102
-#, fuzzy
-#| msgid "Open"
-msgctxt "KKeyServer|"
-msgid "Open"
-msgstr "ଖୋଲନ୍ତୁ"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:103
-#, fuzzy
-#| msgid "Paste"
-msgctxt "KKeyServer|"
-msgid "Paste"
-msgstr "ଲଗାନ୍ତୁ"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:104
-#, fuzzy
-#| msgid "Find"
-msgctxt "KKeyServer|"
-msgid "Find"
-msgstr "ଖୋଜନ୍ତୁ"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:105
-#, fuzzy
-#| msgid "Cut"
-msgctxt "KKeyServer|"
-msgid "Cut"
-msgstr "କାଟନ୍ତୁ"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:106
-#, fuzzy
-#| msgid "Print"
-msgctxt "KKeyServer|"
-msgid "Print"
-msgstr "ମୂଦ୍ରଣ କରନ୍ତୁ"
-
 #: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kwindowsystem_mac.cpp:580
 #: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kwindowsystem_win.cpp:632
 #, fuzzy, qt-format
@@ -163,6 +37,114 @@ msgstr "ଡେସ୍କଟପ %1"
 msgctxt "QObject|"
 msgid "Desktop %1"
 msgstr "ଡେସ୍କଟପ %1"
+
+#, fuzzy
+#~| msgid "Backspace"
+#~ msgctxt "KKeyServer|"
+#~ msgid "Backspace"
+#~ msgstr "Backspace"
+
+#, fuzzy
+#~| msgid "SysReq"
+#~ msgctxt "KKeyServer|"
+#~ msgid "SysReq"
+#~ msgstr "SysReq"
+
+#, fuzzy
+#~| msgid "CapsLock"
+#~ msgctxt "KKeyServer|"
+#~ msgid "CapsLock"
+#~ msgstr "କ୍ଯାପ୍ସ ଲକ (CapsLock)"
+
+#, fuzzy
+#~| msgid "NumLock"
+#~ msgctxt "KKeyServer|"
+#~ msgid "NumLock"
+#~ msgstr "ନମ ଲକ (NumLock)"
+
+#, fuzzy
+#~| msgid "ScrollLock"
+#~ msgctxt "KKeyServer|"
+#~ msgid "ScrollLock"
+#~ msgstr "ScrollLock"
+
+#, fuzzy
+#~| msgid "PageUp"
+#~ msgctxt "KKeyServer|"
+#~ msgid "PageUp"
+#~ msgstr "PageUp"
+
+#, fuzzy
+#~| msgid "PageDown"
+#~ msgctxt "KKeyServer|"
+#~ msgid "PageDown"
+#~ msgstr "PageDown"
+
+#, fuzzy
+#~| msgid "Stop"
+#~ msgctxt "KKeyServer|"
+#~ msgid "Stop"
+#~ msgstr "ବିରାମ କରନ୍ତୁ"
+
+#, fuzzy
+#~| msgid "Again"
+#~ msgctxt "KKeyServer|"
+#~ msgid "Again"
+#~ msgstr "ପୁଣିଥରେ"
+
+#, fuzzy
+#~| msgid "Props"
+#~ msgctxt "KKeyServer|"
+#~ msgid "Props"
+#~ msgstr "Props"
+
+#, fuzzy
+#~| msgid "Undo"
+#~ msgctxt "KKeyServer|"
+#~ msgid "Undo"
+#~ msgstr "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ"
+
+#, fuzzy
+#~| msgid "Front"
+#~ msgctxt "KKeyServer|"
+#~ msgid "Front"
+#~ msgstr "ଆଗ"
+
+#, fuzzy
+#~| msgid "Copy"
+#~ msgctxt "KKeyServer|"
+#~ msgid "Copy"
+#~ msgstr "ନକଲ କରନ୍ତୁ"
+
+#, fuzzy
+#~| msgid "Open"
+#~ msgctxt "KKeyServer|"
+#~ msgid "Open"
+#~ msgstr "ଖୋଲନ୍ତୁ"
+
+#, fuzzy
+#~| msgid "Paste"
+#~ msgctxt "KKeyServer|"
+#~ msgid "Paste"
+#~ msgstr "ଲଗାନ୍ତୁ"
+
+#, fuzzy
+#~| msgid "Find"
+#~ msgctxt "KKeyServer|"
+#~ msgid "Find"
+#~ msgstr "ଖୋଜନ୍ତୁ"
+
+#, fuzzy
+#~| msgid "Cut"
+#~ msgctxt "KKeyServer|"
+#~ msgid "Cut"
+#~ msgstr "କାଟନ୍ତୁ"
+
+#, fuzzy
+#~| msgid "Print"
+#~ msgctxt "KKeyServer|"
+#~ msgid "Print"
+#~ msgstr "ମୂଦ୍ରଣ କରନ୍ତୁ"
 
 #~ msgctxt "NAME OF TRANSLATORS"
 #~ msgid "Your names"
