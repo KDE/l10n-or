@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-03-29 01:37+0000\n"
+"POT-Creation-Date: 2014-04-02 01:32+0000\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -2828,17 +2828,17 @@ msgctxt "@action:inmenu"
 msgid "Custom Column Widths"
 msgstr "ସ୍ତମ୍ଭ"
 
-#: views/dolphinview.cpp:1369
+#: views/dolphinview.cpp:1359
 msgctxt "@info:status"
 msgid "Delete operation completed."
 msgstr "ଅପସାରଣ କ୍ରିୟା ସମାପ୍ତହୋଇଛି।"
 
-#: views/dolphinview.cpp:1500
+#: views/dolphinview.cpp:1490
 msgctxt "@info:status"
 msgid "The location is empty."
 msgstr "ସ୍ଥାନଟି ଖାଲିଅଛି।"
 
-#: views/dolphinview.cpp:1502
+#: views/dolphinview.cpp:1492
 #, kde-format
 msgctxt "@info:status"
 msgid "The location '%1' is invalid."
@@ -3012,17 +3012,17 @@ msgctxt "@info:status"
 msgid "A folder cannot be dropped into itself"
 msgstr ""
 
-#: views/renamedialog.cpp:59
+#: views/renamedialog.cpp:50
 msgctxt "@title:window"
 msgid "Rename Item"
 msgstr "ବସ୍ତୁର ପୁନଃ ନାମକରଣ କରନ୍ତୁ"
 
-#: views/renamedialog.cpp:60
+#: views/renamedialog.cpp:51
 msgctxt "@title:window"
 msgid "Rename Items"
 msgstr "ବସ୍ତୁଗୁଡ଼ିକର ପୁନଃ ନାମକରଣ କରନ୍ତୁ"
 
-#: views/renamedialog.cpp:64
+#: views/renamedialog.cpp:55
 #, fuzzy
 #| msgctxt "@action:button"
 #| msgid "Rename"
@@ -3030,18 +3030,18 @@ msgctxt "@action:button"
 msgid "&Rename"
 msgstr "ପୁନଃ ନାମକରଣ କରନ୍ତୁ"
 
-#: views/renamedialog.cpp:74
+#: views/renamedialog.cpp:65
 #, kde-format
 msgctxt "@label:textbox"
 msgid "Rename the item <filename>%1</filename> to:"
 msgstr "<filename>%1</filename> ବସ୍ତୁକୁ ପୁନଃ ନାମକରଣ କରନ୍ତୁ:"
 
-#: views/renamedialog.cpp:78
+#: views/renamedialog.cpp:69
 msgctxt "@info:status"
 msgid "New name #"
 msgstr "ନୂତନ ନାମ #"
 
-#: views/renamedialog.cpp:80
+#: views/renamedialog.cpp:71
 #, kde-format
 msgctxt "@label:textbox"
 msgid "Rename the %1 selected item to:"
@@ -3049,7 +3049,7 @@ msgid_plural "Rename the %1 selected items to:"
 msgstr[0] ""
 msgstr[1] ""
 
-#: views/renamedialog.cpp:123
+#: views/renamedialog.cpp:114
 msgctxt "@info"
 msgid "# will be replaced by ascending numbers starting with:"
 msgstr ""
