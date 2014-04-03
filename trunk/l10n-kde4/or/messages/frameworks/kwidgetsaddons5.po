@@ -2472,6 +2472,7 @@ msgid "Passwords match"
 msgstr "ପ୍ରବେଶ ସଂକେତ ମେଳକ"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/knewpassworddialog.cpp:165
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/knewpassworddialog.ui:112
 #, fuzzy
 #| msgid "Passwords do not match"
 msgctxt "KNewPasswordDialog|"
@@ -2520,12 +2521,80 @@ msgstr ""
 ";\n"
 "ଆପଣ ଯେକୌଣସି ପ୍ରକାରେ ଏହି ପ୍ରବେଶ ସଂକେତକୁ ବ୍ୟବହାର କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
 
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/knewpassworddialog.ui:52
+#, fuzzy
+#| msgid "Password:"
+msgctxt "KNewPasswordDialog|"
+msgid "Password:"
+msgstr "ପ୍ରବେଶ ସଂକେତ:"
+
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/knewpassworddialog.ui:62
+#, fuzzy
+#| msgid "&Verify:"
+msgctxt "KNewPasswordDialog|"
+msgid "&Verify:"
+msgstr "ଯାଞ୍ଚ କରନ୍ତୁ (&V):"
+
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/knewpassworddialog.ui:90
+#, fuzzy
+#| msgid "Password strength meter:"
+msgctxt "KNewPasswordDialog|"
+msgid "Password strength meter:"
+msgstr "ପ୍ରବେଶ ସଂକେତ ଆକାର ମାପକ:"
+
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kpassworddialog.cpp:64
 #, fuzzy
 #| msgid "Password"
 msgctxt "KPasswordDialog|"
 msgid "Password"
 msgstr "ପ୍ରବେଶ ସଙ୍କେତ"
+
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kpassworddialog.ui:25
+#, fuzzy
+#| msgid "Supply a username and password below."
+msgctxt "KPasswordDialog|"
+msgid "Supply a username and password below."
+msgstr "ନିମ୍ନରେ ଗୋଟିଏ ଚାଳକନାମ ଏବଂ ପ୍ରବେଶ ସଂକେତ ପ୍ରଦାନ କରନ୍ତୁ।"
+
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kpassworddialog.ui:62
+msgctxt "KPasswordDialog|"
+msgid "No password, use anonymous (or guest) login"
+msgstr ""
+
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kpassworddialog.ui:69
+#, fuzzy
+#| msgid "&Keep password"
+msgctxt "KPasswordDialog|"
+msgid "Use this password:"
+msgstr "ପ୍ରବେଶ ସଂକେତ ରଖନ୍ତୁ (&K)"
+
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kpassworddialog.ui:85
+#, fuzzy
+#| msgid "Username:"
+msgctxt "KPasswordDialog|"
+msgid "Username:"
+msgstr "ଚାଳକନାମ:"
+
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kpassworddialog.ui:99
+#, fuzzy
+#| msgid "Domain:"
+msgctxt "KPasswordDialog|"
+msgid "Domain:"
+msgstr "ପରିସର:"
+
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kpassworddialog.ui:113
+#, fuzzy
+#| msgid "Password:"
+msgctxt "KPasswordDialog|"
+msgid "Password:"
+msgstr "ପ୍ରବେଶ ସଂକେତ:"
+
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kpassworddialog.ui:130
+#, fuzzy
+#| msgid "Remember password"
+msgctxt "KPasswordDialog|"
+msgid "Remember password"
+msgstr "ପ୍ରବେଶ ସଂକେତ ସ୍ମରଣ ରଖନ୍ତୁ"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kpixmapregionselectordialog.cpp:64
 #, fuzzy
@@ -2798,12 +2867,6 @@ msgstr ""
 
 #~ msgid "&Keep password"
 #~ msgstr "ପ୍ରବେଶ ସଂକେତ ରଖନ୍ତୁ (&K)"
-
-#~ msgid "&Verify:"
-#~ msgstr "ଯାଞ୍ଚ କରନ୍ତୁ (&V):"
-
-#~ msgid "Password strength meter:"
-#~ msgstr "ପ୍ରବେଶ ସଂକେତ ଆକାର ମାପକ:"
 
 #~ msgid "Password Input"
 #~ msgstr "ପ୍ରବେଶ ସଂକେତ ନିବେଶ"
@@ -5721,26 +5784,6 @@ msgstr ""
 
 #~ msgid "Do not show this message again"
 #~ msgstr "ଏହି ସନ୍ଦେଶକୁ ପୁଣିଥରେ ଦର୍ଶାନ୍ତୁ ନାହିଁ"
-
-#~ msgid "Password:"
-#~ msgstr "ପ୍ରବେଶ ସଂକେତ:"
-
-#~ msgid "Supply a username and password below."
-#~ msgstr "ନିମ୍ନରେ ଗୋଟିଏ ଚାଳକନାମ ଏବଂ ପ୍ରବେଶ ସଂକେତ ପ୍ରଦାନ କରନ୍ତୁ।"
-
-#, fuzzy
-#~| msgid "&Keep password"
-#~ msgid "Use this password:"
-#~ msgstr "ପ୍ରବେଶ ସଂକେତ ରଖନ୍ତୁ (&K)"
-
-#~ msgid "Username:"
-#~ msgstr "ଚାଳକନାମ:"
-
-#~ msgid "Domain:"
-#~ msgstr "ପରିସର:"
-
-#~ msgid "Remember password"
-#~ msgstr "ପ୍ରବେଶ ସଂକେତ ସ୍ମରଣ ରଖନ୍ତୁ"
 
 #~ msgid "Default:"
 #~ msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ:"

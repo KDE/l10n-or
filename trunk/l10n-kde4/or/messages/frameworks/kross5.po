@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-02 01:41+0000\n"
+"POT-Creation-Date: 2014-04-03 01:41+0000\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -112,6 +112,11 @@ msgstr "Ruby ଅନୁବାଦକର ସୁରକ୍ଷାସ୍ତର"
 #| msgid "Cancel"
 msgid "Cancel?"
 msgstr "ବାତିଲ କରନ୍ତୁ"
+
+#: qts/values_p.h:75
+#, kde-format
+msgid "No such function \"%1\""
+msgstr "ଏପରି କିଛି ଫଳନ ନାହିଁ \"%1\""
 
 #: ui/actioncollectionview.cpp:175
 msgid "Name:"
@@ -8157,9 +8162,6 @@ msgstr "ସାଧାରଣ"
 
 #~ msgid "Scriptfile"
 #~ msgstr "ସ୍କ୍ରିପ୍ଟଫାଇଲ"
-
-#~ msgid "No such function \"%1\""
-#~ msgstr "ଏପରି କିଛି ଫଳନ ନାହିଁ \"%1\""
 
 #~ msgid "The module %1 could not be found."
 #~ msgstr "ଏକକାଂଶ %1 ଟି ମିଳୁନାହିଁ।"
