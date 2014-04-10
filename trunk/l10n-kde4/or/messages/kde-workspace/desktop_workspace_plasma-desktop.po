@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-09 02:14+0000\n"
+"POT-Creation-Date: 2014-04-10 02:14+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -95,7 +95,7 @@ msgctxt "Name"
 msgid "Social Desktop"
 msgstr "ଡ଼େସ୍କଟପ"
 
-#: attica-kde/kcm/kcm_attica.desktop:81
+#: attica-kde/kcm/kcm_attica.desktop:13
 msgctxt "Comment"
 msgid "Manage Social Desktop Providers"
 msgstr ""
@@ -348,12 +348,12 @@ msgctxt "Name"
 msgid "Default Applications"
 msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ ପ୍ରୟୋଗଗୁଡ଼ିକ"
 
-#: kcms/componentchooser/componentchooser.desktop:14
+#: kcms/componentchooser/componentchooser.desktop:21
 msgctxt "Comment"
 msgid "Choose the default components for various services"
 msgstr "ବିଭିନ୍ନ ପ୍ରକାର ସର୍ଭିସଗୁଡ଼ିକ ପାଇଁ ପୂର୍ବନିର୍ଦ୍ଧାରିତ ଉପାଦାନଗୁଡ଼ିକୁ ପସନ୍ଦ କରନ୍ତୁ"
 
-#: kcms/componentchooser/componentchooser.desktop:16
+#: kcms/componentchooser/componentchooser.desktop:30
 msgctxt "X-KDE-Keywords"
 msgid ""
 "default applications,components,component chooser,resources,e-mail,email "
@@ -369,7 +369,7 @@ msgctxt "Name|standard desktop component"
 msgid "Web Browser"
 msgstr "ୱେବ ବ୍ରାଉଜର"
 
-#: kcms/componentchooser/componentservices/kcm_browser.desktop:5
+#: kcms/componentchooser/componentservices/kcm_browser.desktop:12
 msgctxt "Comment"
 msgid ""
 "Here you can configure your default web browser. All KDE applications in "
@@ -386,7 +386,7 @@ msgctxt "Name|standard desktop component"
 msgid "File Manager"
 msgstr "କାର୍ଯ୍ୟ ପରିଚାଳକ"
 
-#: kcms/componentchooser/componentservices/kcm_filemanager.desktop:5
+#: kcms/componentchooser/componentservices/kcm_filemanager.desktop:13
 msgctxt "Comment"
 msgid ""
 "Here you can configure your default file manager. The entries in the K menu "
@@ -402,7 +402,7 @@ msgctxt "Name|standard desktop component"
 msgid "Email Client"
 msgstr "ଇମେଲ କ୍ଲାଏଣ୍ଟ"
 
-#: kcms/componentchooser/componentservices/kcm_kemail.desktop:5
+#: kcms/componentchooser/componentservices/kcm_kemail.desktop:12
 msgctxt "Comment"
 msgid ""
 "This service allows you to configure your default email client. All KDE "
@@ -418,7 +418,7 @@ msgctxt "Name|standard desktop component"
 msgid "Terminal Emulator"
 msgstr "ଟର୍ମିନାଲ ଯାନ୍ତ୍ରାନୁକରଣ"
 
-#: kcms/componentchooser/componentservices/kcm_terminal.desktop:5
+#: kcms/componentchooser/componentservices/kcm_terminal.desktop:12
 msgctxt "Comment"
 msgid ""
 "This service allows you to configure your default terminal emulator. All KDE "
@@ -434,7 +434,7 @@ msgctxt "Name|standard desktop component"
 msgid "Window Manager"
 msgstr "କାର୍ଯ୍ୟ ପରିଚାଳକ"
 
-#: kcms/componentchooser/componentservices/kcm_wm.desktop:5
+#: kcms/componentchooser/componentservices/kcm_wm.desktop:13
 msgctxt "Comment"
 msgid "Here you can select the window manager to be run in your KDE session."
 msgstr "ଆପଣଙ୍କର KDE ଅଧିବେଶନରେ ଚଲାଇବା ପାଇଁ ୱିଣ୍ଡୋ ପରିଚାଳକଙ୍କୁ ଏଠାରେ ଚୟନ କରିପାରିବେ।"
@@ -444,7 +444,7 @@ msgctxt "Name"
 msgid "A nice name you have chosen for your interface"
 msgstr "ଆପଣ ଆପଣଙ୍କର ଅନ୍ତରାପୃଷ୍ଠ ପାଇଁ ପସନ୍ଦ କରିଥିବା ଗୋଟିଏ ସୁନ୍ଦର ନାମ"
 
-#: kcms/componentchooser/EXAMPLE.desktop:2
+#: kcms/componentchooser/EXAMPLE.desktop:9
 msgctxt "Comment"
 msgid "A helpful description of the interface for the top right info box"
 msgstr "ଡ଼ାହାଣ ପାଖ ଉପର ଅଂଶ ସୂଚନା ବାକ୍ସ ପାଇଁ ଅନ୍ତରାପୃଷ୍ଠର ଗୋଟିଏ ସହାୟକ ବର୍ଣ୍ଣନା"
@@ -556,7 +556,7 @@ msgctxt "Name"
 msgid "Emoticons"
 msgstr "Emoticons"
 
-#: kcms/emoticons/emoticons.desktop:14
+#: kcms/emoticons/emoticons.desktop:21
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Emoticons Themes Manager"
@@ -564,7 +564,7 @@ msgctxt "Comment"
 msgid "Choose Emoticon Theme"
 msgstr "Emoticons ପ୍ରସଙ୍ଗ ପରିଚାଳକ"
 
-#: kcms/emoticons/emoticons.desktop:15
+#: kcms/emoticons/emoticons.desktop:29
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Emoticons"
@@ -620,12 +620,12 @@ msgctxt "Name"
 msgid "Icons"
 msgstr "ଚିତ୍ର ସଂକେତଗୁଡ଼ିକ"
 
-#: kcms/icons/icons.desktop:16
+#: kcms/icons/icons.desktop:23
 msgctxt "Comment"
 msgid "Customize KDE Icons"
 msgstr "KDE ଚିତ୍ରସଂକେତଗୁଡ଼ିକୁ ପସନ୍ଦମୁତାବକ କରନ୍ତୁ"
 
-#: kcms/icons/icons.desktop:18
+#: kcms/icons/icons.desktop:32
 msgctxt "X-KDE-Keywords"
 msgid "icons,effects,size,hicolor,locolor"
 msgstr ""
@@ -681,7 +681,7 @@ msgctxt "Name"
 msgid "Service Manager"
 msgstr "କ୍ୟାଲେଣ୍ଡର ପରିଚାଳକ"
 
-#: kcms/kded/kcmkded.desktop:14
+#: kcms/kded/kcmkded.desktop:22
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "System Bell Configuration"
@@ -689,7 +689,7 @@ msgctxt "Comment"
 msgid "KDE Services Configuration"
 msgstr "ତନ୍ତ୍ର ଘଣ୍ଟି ସଂରଚନା"
 
-#: kcms/kded/kcmkded.desktop:15
+#: kcms/kded/kcmkded.desktop:31
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Dolphin View"
@@ -817,7 +817,7 @@ msgctxt "Name"
 msgid "Manage Notifications"
 msgstr "ବିଜ୍ଞପ୍ତି"
 
-#: kcms/knotify/kcmnotify.desktop:15
+#: kcms/knotify/kcmnotify.desktop:22
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "System Bell Configuration"
@@ -825,7 +825,7 @@ msgctxt "Comment"
 msgid "System Notification Configuration"
 msgstr "ତନ୍ତ୍ର ଘଣ୍ଟି ସଂରଚନା"
 
-#: kcms/knotify/kcmnotify.desktop:17
+#: kcms/knotify/kcmnotify.desktop:32
 msgctxt "X-KDE-Keywords"
 msgid "System sounds,Audio,Sound,Notify,Alerts,Notification,popups"
 msgstr ""
@@ -852,12 +852,12 @@ msgctxt "Name"
 msgid "Country/Region & Language"
 msgstr "ଦେଶ/ଅଞ୍ଚଳ ଏବଂ ଭାଷା"
 
-#: kcms/locale/language.desktop:15
+#: kcms/locale/language.desktop:22
 msgctxt "Comment"
 msgid "Language, numeric, and time settings for your particular region"
 msgstr "ଭାଷା, ସଂଖ୍ୟାତ୍ମକ, ଏବଂ ଆପଣଙ୍କର ନିର୍ଦ୍ଦିଷ୍ଟ ଅଞ୍ଚଳ ପାଇଁ ସମୟ ସଂରଚନା"
 
-#: kcms/locale/language.desktop:17
+#: kcms/locale/language.desktop:31
 msgctxt "X-KDE-Keywords"
 msgid ""
 "language,translation,number format,locale,Country,charsets,character sets,"
@@ -874,12 +874,12 @@ msgctxt "Name"
 msgid "Audio and Video Settings"
 msgstr "ତାରିଖ ଏବଂ ସମୟ ସଂରଚନା"
 
-#: kcms/phonon/kcm_phonon.desktop:14
+#: kcms/phonon/kcm_phonon.desktop:22
 msgctxt "Comment"
 msgid "Settings for the Phonon multimedia framework"
 msgstr ""
 
-#: kcms/phonon/kcm_phonon.desktop:15
+#: kcms/phonon/kcm_phonon.desktop:30
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Sound,Phonon,Audio,Video,Output,Device,Notification,Music,Communication,"
@@ -891,12 +891,12 @@ msgctxt "Name"
 msgid "Spell Checker"
 msgstr "ବନାନ ଯାଞ୍ଚକାରୀ"
 
-#: kcms/spellchecking/spellchecking.desktop:16
+#: kcms/spellchecking/spellchecking.desktop:23
 msgctxt "Comment"
 msgid "Configure the spell checker"
 msgstr "ବନାନ ଯାଞ୍ଚକାରୀକୁ ସଂରଚନା କରନ୍ତୁ"
 
-#: kcms/spellchecking/spellchecking.desktop:18
+#: kcms/spellchecking/spellchecking.desktop:32
 msgctxt "X-KDE-Keywords"
 msgid "Spell"
 msgstr ""
@@ -964,7 +964,7 @@ msgctxt "Name"
 msgid "KNetAttach"
 msgstr "KNetAttach"
 
-#: knetattach/knetattach.desktop:3
+#: knetattach/knetattach.desktop:10
 msgctxt "GenericName"
 msgid "Network Folder Wizard"
 msgstr "ନେଟୱର୍କ ଫୋଲଡ଼ର ୱିଜାର୍ଡ଼"

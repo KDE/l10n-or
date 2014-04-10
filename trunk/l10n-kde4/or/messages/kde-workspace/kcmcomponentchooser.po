@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmcomponentchooser\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-08-20 04:50+0200\n"
+"POT-Creation-Date: 2014-04-08 02:00+0000\n"
 "PO-Revision-Date: 2009-01-05 16:52+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -53,11 +53,11 @@ msgstr "ନିମ୍ନଲିଖିତ ବ୍ରାଉଜରରେ:"
 msgid "..."
 msgstr "..."
 
-#: componentchooser.cpp:135
+#: componentchooser.cpp:138
 msgid "Unknown"
 msgstr "ଅଜଣା"
 
-#: componentchooser.cpp:151
+#: componentchooser.cpp:154
 msgid ""
 "<qt>You changed the default component of your choice, do want to save that "
 "change now ?</qt>"
@@ -65,11 +65,11 @@ msgstr ""
 "<qt>ଆପଣ ନିଜ ପସନ୍ଦରେ ପୂର୍ବନିର୍ଦ୍ଧାରିତ ଉପାଦାନକୁ ପରିବର୍ତ୍ତନ କରିଛନ୍ତି, ସେହି ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ସଂରକ୍ଷଣ "
 "କରିବାକୁ ଚାହୁଁଛନ୍ତି କି ?</qt>"
 
-#: componentchooser.cpp:155
+#: componentchooser.cpp:158
 msgid "No description available"
 msgstr "କୌଣସି ବର୍ଣ୍ଣନା ଉପଲବ୍ଧ ନାହିଁ"
 
-#: componentchooser.cpp:166 componentchooser.cpp:171
+#: componentchooser.cpp:169 componentchooser.cpp:174
 #, kde-format
 msgid ""
 "Choose from the list below which component should be used by default for the "
@@ -109,15 +109,15 @@ msgid ""
 "</qt>"
 msgstr ""
 
-#: componentchooserbrowser.cpp:103
+#: componentchooserbrowser.cpp:105
 msgid "Select preferred Web browser application:"
 msgstr "ପସନ୍ଦ ଯୋଗ୍ୟ ୱେବ ବ୍ରାଉଜର ପ୍ରୟୋଗକୁ ବାଛନ୍ତୁ:"
 
-#: componentchooseremail.cpp:79
+#: componentchooseremail.cpp:83
 msgid "Select preferred email client:"
 msgstr "ପସନ୍ଦ ଯୋଗ୍ୟ ଇମେଲ କ୍ଲାଏଣ୍ଟକୁ ବାଛନ୍ତୁ:"
 
-#: componentchooserterminal.cpp:95
+#: componentchooserterminal.cpp:101
 msgid "Select preferred terminal application:"
 msgstr "ପସନ୍ଦ ଯୋଗ୍ୟ ଟର୍ମିନାଲ ପ୍ରୟୋଗକୁ ବାଛନ୍ତୁ:"
 
@@ -261,10 +261,6 @@ msgid "Other: click Add... in the dialog shown here:"
 msgstr ""
 
 #: kcm_componentchooser.cpp:46
-msgid "kcmcomponentchooser"
-msgstr "kcmcomponentchooser"
-
-#: kcm_componentchooser.cpp:46
 msgid "Component Chooser"
 msgstr "ଉପାଦାନ ଚୟନକର୍ତ୍ତା"
 
@@ -330,6 +326,9 @@ msgid ""
 msgstr ""
 "ମନେରଖନ୍ତୁ: ଅଧିକାଂଶ ୱିଣ୍ଡୋ ପରିଚାଳକମାନଙ୍କର ନିଜର ସଂରଚନା ଥାଏ ଏବଂ KDE ବିନ୍ୟାସକୁ ଅନୁସରଣ "
 "କରିନଥାନ୍ତି।"
+
+#~ msgid "kcmcomponentchooser"
+#~ msgstr "kcmcomponentchooser"
 
 #~ msgid "Component Description"
 #~ msgstr "ଉପାଦାନ ବର୍ଣ୍ଣନା"
