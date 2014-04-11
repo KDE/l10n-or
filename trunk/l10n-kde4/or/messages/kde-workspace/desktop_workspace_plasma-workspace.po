@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-10 02:14+0000\n"
+"POT-Creation-Date: 2014-04-11 02:32+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1006,12 +1006,13 @@ msgctxt "Comment"
 msgid "Global Keyboard Shortcuts"
 msgstr "ୱେବ ସଂକ୍ଷିପ୍ତ ପଥଗୁଡ଼ିକ"
 
-#: kglobalaccel/kglobalaccel.notifyrc:4
+#: kglobalaccel/kglobalaccel.notifyrc:21
 msgctxt "Name"
 msgid "kglobalaccel"
 msgstr ""
 
-#: kglobalaccel/kglobalaccel.notifyrc:7 phonon/platform_kde/phonon.notifyrc:14
+#: kglobalaccel/kglobalaccel.notifyrc:95
+#: phonon/platform_kde/phonon.notifyrc:72
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Applications"
@@ -1019,7 +1020,7 @@ msgctxt "Name"
 msgid "Application"
 msgstr "ପ୍ରୟୋଗଗୁଡ଼ିକ"
 
-#: kglobalaccel/kglobalaccel.notifyrc:16
+#: kglobalaccel/kglobalaccel.notifyrc:115
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Application Launcher"
@@ -1027,7 +1028,7 @@ msgctxt "Comment"
 msgid "The application name"
 msgstr "ପ୍ରୟୋଗ ଆରମ୍ଭକର୍ତ୍ତା"
 
-#: kglobalaccel/kglobalaccel.notifyrc:19
+#: kglobalaccel/kglobalaccel.notifyrc:135
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "KDED Global Shortcuts Server"
@@ -1035,12 +1036,12 @@ msgctxt "Name"
 msgid "Global Shortcut Registration"
 msgstr "KDED ଜାଗତିକ ସଂକ୍ଷିପ୍ତ ପଥଗୁଡ଼ିକର ସର୍ଭର"
 
-#: kglobalaccel/kglobalaccel.notifyrc:20
+#: kglobalaccel/kglobalaccel.notifyrc:205
 msgctxt "Comment"
 msgid "An application registered new global shortcuts."
 msgstr ""
 
-#: kglobalaccel/kglobalaccel.notifyrc:25
+#: kglobalaccel/kglobalaccel.notifyrc:278
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "KDED Global Shortcuts Server"
@@ -1048,7 +1049,7 @@ msgctxt "Name"
 msgid "Global Shortcut Triggered"
 msgstr "KDED ଜାଗତିକ ସଂକ୍ଷିପ୍ତ ପଥଗୁଡ଼ିକର ସର୍ଭର"
 
-#: kglobalaccel/kglobalaccel.notifyrc:26
+#: kglobalaccel/kglobalaccel.notifyrc:348
 msgctxt "Comment"
 msgid "The user triggered a global shortcut"
 msgstr ""
@@ -1061,7 +1062,7 @@ msgctxt "Name"
 msgid "Remote URL Change Notifier"
 msgstr "KDED ସୁଦୂର ଆଧାର URL ସୂଚନା ଦାତା"
 
-#: kioslave/remote/kdedmodule/remotedirnotify.desktop:12
+#: kioslave/remote/kdedmodule/remotedirnotify.desktop:23
 msgctxt "Comment"
 msgid "Provides change notification for network folders"
 msgstr ""
@@ -1096,23 +1097,23 @@ msgctxt "Description"
 msgid "Web-URL"
 msgstr ""
 
-#: klipper/klipperrc.desktop:288 klipper/klipperrc.desktop:1974
+#: klipper/klipperrc.desktop:288 klipper/klipperrc.desktop:1975
 msgctxt "Description"
 msgid "Open with &default Browser"
 msgstr ""
 
-#: klipper/klipperrc.desktop:371 klipper/klipperrc.desktop:2057
+#: klipper/klipperrc.desktop:371 klipper/klipperrc.desktop:2058
 msgctxt "Description"
 msgid "Open with &Konqueror"
 msgstr ""
 
-#: klipper/klipperrc.desktop:466 klipper/klipperrc.desktop:2151
+#: klipper/klipperrc.desktop:466 klipper/klipperrc.desktop:2152
 msgctxt "Description"
 msgid "Open with &Mozilla"
 msgstr ""
 
-#: klipper/klipperrc.desktop:560 klipper/klipperrc.desktop:1406
-#: klipper/klipperrc.desktop:1690 klipper/klipperrc.desktop:2245
+#: klipper/klipperrc.desktop:560 klipper/klipperrc.desktop:1407
+#: klipper/klipperrc.desktop:1691 klipper/klipperrc.desktop:2246
 msgctxt "Description"
 msgid "Send &URL"
 msgstr ""
@@ -1132,43 +1133,43 @@ msgctxt "Description"
 msgid "Mail-URL"
 msgstr ""
 
-#: klipper/klipperrc.desktop:935
+#: klipper/klipperrc.desktop:936
 msgctxt "Description"
 msgid "Launch &Kmail"
 msgstr ""
 
-#: klipper/klipperrc.desktop:1029
+#: klipper/klipperrc.desktop:1030
 msgctxt "Description"
 msgid "Launch &mutt"
 msgstr ""
 
-#: klipper/klipperrc.desktop:1122
+#: klipper/klipperrc.desktop:1123
 msgctxt "Description"
 msgid "Text File"
 msgstr ""
 
-#: klipper/klipperrc.desktop:1218
+#: klipper/klipperrc.desktop:1219
 msgctxt "Description"
 msgid "Launch K&Write"
 msgstr ""
 
-#: klipper/klipperrc.desktop:1311
+#: klipper/klipperrc.desktop:1312
 msgctxt "Description"
 msgid "Local file URL"
 msgstr ""
 
-#: klipper/klipperrc.desktop:1501 klipper/klipperrc.desktop:1785
-#: klipper/klipperrc.desktop:2340
+#: klipper/klipperrc.desktop:1502 klipper/klipperrc.desktop:1786
+#: klipper/klipperrc.desktop:2341
 msgctxt "Description"
 msgid "Send &File"
 msgstr ""
 
-#: klipper/klipperrc.desktop:1595
+#: klipper/klipperrc.desktop:1596
 msgctxt "Description"
 msgid "Gopher URL"
 msgstr ""
 
-#: klipper/klipperrc.desktop:1879
+#: klipper/klipperrc.desktop:1880
 msgctxt "Description"
 msgid "ftp URL"
 msgstr ""
@@ -1328,7 +1329,7 @@ msgctxt "Name"
 msgid "Time Zone"
 msgstr "KDE ସମୟ ଅଞ୍ଚଳ ଡ଼େମନ"
 
-#: ktimezoned/ktimezoned.desktop:19
+#: ktimezoned/ktimezoned.desktop:78
 msgctxt "Comment"
 msgid "Provides the system's time zone to applications"
 msgstr ""
@@ -1338,7 +1339,7 @@ msgctxt "Name"
 msgid "kuiserver"
 msgstr "kuiserver"
 
-#: kuiserver/kuiserver.desktop:13
+#: kuiserver/kuiserver.desktop:87
 msgctxt "Comment"
 msgid "KDE's Progress Info UI server"
 msgstr "KDEର ଉନ୍ନତି ସୂଟନା UI ସର୍ଭର"
@@ -1380,13 +1381,13 @@ msgid "Development"
 msgstr "ବିକାଶ"
 
 #: menu/desktop/kde-development-translation.directory:4
-#: menu/desktop/kde-development-translation.directory:18
+#: menu/desktop/kde-development-translation.directory:100
 msgctxt "Name"
 msgid "Translation"
 msgstr "ଅନୁବାଦ"
 
 #: menu/desktop/kde-development-webdevelopment.directory:4
-#: menu/desktop/kde-development-webdevelopment.directory:18
+#: menu/desktop/kde-development-webdevelopment.directory:99
 msgctxt "Name"
 msgid "Web Development"
 msgstr "ୱେବ ବିକାଶ"
@@ -1544,7 +1545,7 @@ msgctxt "Name"
 msgid "Accessibility"
 msgstr "ଅଭିଗମ୍ୟତା"
 
-#: menu/desktop/kde-utilities-accessibility.directory:14
+#: menu/desktop/kde-utilities-accessibility.directory:97
 msgctxt "Comment"
 msgid "Accessibility"
 msgstr "ଅଭିଗମ୍ୟତା"
@@ -1557,7 +1558,7 @@ msgctxt "Name"
 msgid "Desktop"
 msgstr "ଡ଼େସ୍କଟପ"
 
-#: menu/desktop/kde-utilities-desktop.directory:14
+#: menu/desktop/kde-utilities-desktop.directory:26
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Desktop"
@@ -1573,7 +1574,7 @@ msgctxt "Name"
 msgid "Utilities"
 msgstr "ସର୍ଭିସ ପରିଚାଳକ"
 
-#: menu/desktop/kde-utilities.directory:14
+#: menu/desktop/kde-utilities.directory:26
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Service Manager"
@@ -1586,7 +1587,7 @@ msgctxt "Name"
 msgid "File"
 msgstr "ଫାଇଲ"
 
-#: menu/desktop/kde-utilities-file.directory:14
+#: menu/desktop/kde-utilities-file.directory:28
 msgctxt "Comment"
 msgid "File"
 msgstr "ଫାଇଲ"
@@ -1596,7 +1597,7 @@ msgctxt "Name"
 msgid "Peripherals"
 msgstr "ପେରିଫେରାଲ"
 
-#: menu/desktop/kde-utilities-peripherals.directory:14
+#: menu/desktop/kde-utilities-peripherals.directory:95
 msgctxt "Comment"
 msgid "Peripherals"
 msgstr "ପେରିଫେରାଲ"
@@ -1606,7 +1607,7 @@ msgctxt "Name"
 msgid "PIM"
 msgstr "PIM"
 
-#: menu/desktop/kde-utilities-pim.directory:14
+#: menu/desktop/kde-utilities-pim.directory:92
 msgctxt "Comment"
 msgid "PIM"
 msgstr "PIM"
@@ -1619,7 +1620,7 @@ msgctxt "Name"
 msgid "X-Utilities"
 msgstr "ସର୍ଭିସ ପରିଚାଳକ"
 
-#: menu/desktop/kde-utilities-xutils.directory:14
+#: menu/desktop/kde-utilities-xutils.directory:26
 msgctxt "Comment"
 msgid "X Window Utilities"
 msgstr "X ୱିଣ୍ଡୋ ଉପଯୋଗିତା"
@@ -1637,12 +1638,12 @@ msgctxt "Comment"
 msgid "Multimedia System"
 msgstr "ବହୁମାଧ୍ଯମ ଚାଳକ"
 
-#: phonon/platform_kde/phonon.notifyrc:26
+#: phonon/platform_kde/phonon.notifyrc:95
 msgctxt "Name"
 msgid "Audio Output Device Changed"
 msgstr ""
 
-#: phonon/platform_kde/phonon.notifyrc:35
+#: phonon/platform_kde/phonon.notifyrc:158
 msgctxt "Comment"
 msgid "Notification when audio output device has automatically changed"
 msgstr ""
@@ -1838,7 +1839,7 @@ msgctxt "Name"
 msgid "Drive Ejector"
 msgstr ""
 
-#: solidautoeject/solidautoeject.desktop:16
+#: solidautoeject/solidautoeject.desktop:72
 msgctxt "Comment"
 msgid "Automatically releases drives when their eject button is pushed"
 msgstr ""
