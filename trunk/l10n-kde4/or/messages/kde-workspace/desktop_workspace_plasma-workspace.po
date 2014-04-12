@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-11 02:32+0000\n"
+"POT-Creation-Date: 2014-04-12 02:12+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -998,62 +998,6 @@ msgctxt "Name"
 msgid "KDED Global Shortcuts Server"
 msgstr "KDED ଜାଗତିକ ସଂକ୍ଷିପ୍ତ ପଥଗୁଡ଼ିକର ସର୍ଭର"
 
-#: kglobalaccel/kglobalaccel.notifyrc:3
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Web Shortcuts"
-msgctxt "Comment"
-msgid "Global Keyboard Shortcuts"
-msgstr "ୱେବ ସଂକ୍ଷିପ୍ତ ପଥଗୁଡ଼ିକ"
-
-#: kglobalaccel/kglobalaccel.notifyrc:21
-msgctxt "Name"
-msgid "kglobalaccel"
-msgstr ""
-
-#: kglobalaccel/kglobalaccel.notifyrc:95
-#: phonon/platform_kde/phonon.notifyrc:72
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Applications"
-msgctxt "Name"
-msgid "Application"
-msgstr "ପ୍ରୟୋଗଗୁଡ଼ିକ"
-
-#: kglobalaccel/kglobalaccel.notifyrc:115
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Application Launcher"
-msgctxt "Comment"
-msgid "The application name"
-msgstr "ପ୍ରୟୋଗ ଆରମ୍ଭକର୍ତ୍ତା"
-
-#: kglobalaccel/kglobalaccel.notifyrc:135
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "KDED Global Shortcuts Server"
-msgctxt "Name"
-msgid "Global Shortcut Registration"
-msgstr "KDED ଜାଗତିକ ସଂକ୍ଷିପ୍ତ ପଥଗୁଡ଼ିକର ସର୍ଭର"
-
-#: kglobalaccel/kglobalaccel.notifyrc:205
-msgctxt "Comment"
-msgid "An application registered new global shortcuts."
-msgstr ""
-
-#: kglobalaccel/kglobalaccel.notifyrc:278
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "KDED Global Shortcuts Server"
-msgctxt "Name"
-msgid "Global Shortcut Triggered"
-msgstr "KDED ଜାଗତିକ ସଂକ୍ଷିପ୍ତ ପଥଗୁଡ଼ିକର ସର୍ଭର"
-
-#: kglobalaccel/kglobalaccel.notifyrc:348
-msgctxt "Comment"
-msgid "The user triggered a global shortcut"
-msgstr ""
-
 #: kioslave/remote/kdedmodule/remotedirnotify.desktop:3
 #, fuzzy
 #| msgctxt "Name"
@@ -1062,7 +1006,7 @@ msgctxt "Name"
 msgid "Remote URL Change Notifier"
 msgstr "KDED ସୁଦୂର ଆଧାର URL ସୂଚନା ଦାତା"
 
-#: kioslave/remote/kdedmodule/remotedirnotify.desktop:23
+#: kioslave/remote/kdedmodule/remotedirnotify.desktop:24
 msgctxt "Comment"
 msgid "Provides change notification for network folders"
 msgstr ""
@@ -1558,7 +1502,7 @@ msgctxt "Name"
 msgid "Desktop"
 msgstr "ଡ଼େସ୍କଟପ"
 
-#: menu/desktop/kde-utilities-desktop.directory:26
+#: menu/desktop/kde-utilities-desktop.directory:27
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Desktop"
@@ -1574,7 +1518,7 @@ msgctxt "Name"
 msgid "Utilities"
 msgstr "ସର୍ଭିସ ପରିଚାଳକ"
 
-#: menu/desktop/kde-utilities.directory:26
+#: menu/desktop/kde-utilities.directory:27
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Service Manager"
@@ -1587,7 +1531,7 @@ msgctxt "Name"
 msgid "File"
 msgstr "ଫାଇଲ"
 
-#: menu/desktop/kde-utilities-file.directory:28
+#: menu/desktop/kde-utilities-file.directory:29
 msgctxt "Comment"
 msgid "File"
 msgstr "ଫାଇଲ"
@@ -1620,7 +1564,7 @@ msgctxt "Name"
 msgid "X-Utilities"
 msgstr "ସର୍ଭିସ ପରିଚାଳକ"
 
-#: menu/desktop/kde-utilities-xutils.directory:26
+#: menu/desktop/kde-utilities-xutils.directory:27
 msgctxt "Comment"
 msgid "X Window Utilities"
 msgstr "X ୱିଣ୍ଡୋ ଉପଯୋଗିତା"
@@ -1638,12 +1582,20 @@ msgctxt "Comment"
 msgid "Multimedia System"
 msgstr "ବହୁମାଧ୍ଯମ ଚାଳକ"
 
-#: phonon/platform_kde/phonon.notifyrc:95
+#: phonon/platform_kde/phonon.notifyrc:72
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Applications"
+msgctxt "Name"
+msgid "Application"
+msgstr "ପ୍ରୟୋଗଗୁଡ଼ିକ"
+
+#: phonon/platform_kde/phonon.notifyrc:96
 msgctxt "Name"
 msgid "Audio Output Device Changed"
 msgstr ""
 
-#: phonon/platform_kde/phonon.notifyrc:158
+#: phonon/platform_kde/phonon.notifyrc:159
 msgctxt "Comment"
 msgid "Notification when audio output device has automatically changed"
 msgstr ""
@@ -2094,3 +2046,31 @@ msgstr "ପ୍ରତିଛବି"
 msgctxt "Name"
 msgid "Slideshow"
 msgstr "ସ୍ଲାଇଡ଼ ଦୃଶ୍ୟ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Web Shortcuts"
+#~ msgctxt "Comment"
+#~ msgid "Global Keyboard Shortcuts"
+#~ msgstr "ୱେବ ସଂକ୍ଷିପ୍ତ ପଥଗୁଡ଼ିକ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Application Launcher"
+#~ msgctxt "Comment"
+#~ msgid "The application name"
+#~ msgstr "ପ୍ରୟୋଗ ଆରମ୍ଭକର୍ତ୍ତା"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "KDED Global Shortcuts Server"
+#~ msgctxt "Name"
+#~ msgid "Global Shortcut Registration"
+#~ msgstr "KDED ଜାଗତିକ ସଂକ୍ଷିପ୍ତ ପଥଗୁଡ଼ିକର ସର୍ଭର"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "KDED Global Shortcuts Server"
+#~ msgctxt "Name"
+#~ msgid "Global Shortcut Triggered"
+#~ msgstr "KDED ଜାଗତିକ ସଂକ୍ଷିପ୍ତ ପଥଗୁଡ଼ିକର ସର୍ଭର"
