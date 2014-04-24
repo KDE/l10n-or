@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-21 02:15+0000\n"
+"POT-Creation-Date: 2014-04-24 02:04+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1006,7 +1006,7 @@ msgctxt "Name"
 msgid "Remote URL Change Notifier"
 msgstr "KDED ସୁଦୂର ଆଧାର URL ସୂଚନା ଦାତା"
 
-#: kioslave/remote/kdedmodule/remotedirnotify.desktop:24
+#: kioslave/remote/kdedmodule/remotedirnotify.desktop:25
 msgctxt "Comment"
 msgid "Provides change notification for network folders"
 msgstr ""
@@ -1502,7 +1502,7 @@ msgctxt "Name"
 msgid "Desktop"
 msgstr "ଡ଼େସ୍କଟପ"
 
-#: menu/desktop/kde-utilities-desktop.directory:29
+#: menu/desktop/kde-utilities-desktop.directory:30
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Desktop"
@@ -1518,7 +1518,7 @@ msgctxt "Name"
 msgid "Utilities"
 msgstr "ସର୍ଭିସ ପରିଚାଳକ"
 
-#: menu/desktop/kde-utilities.directory:29
+#: menu/desktop/kde-utilities.directory:30
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Service Manager"
@@ -1531,7 +1531,7 @@ msgctxt "Name"
 msgid "File"
 msgstr "ଫାଇଲ"
 
-#: menu/desktop/kde-utilities-file.directory:28
+#: menu/desktop/kde-utilities-file.directory:29
 msgctxt "Comment"
 msgid "File"
 msgstr "ଫାଇଲ"
@@ -1564,7 +1564,7 @@ msgctxt "Name"
 msgid "X-Utilities"
 msgstr "ସର୍ଭିସ ପରିଚାଳକ"
 
-#: menu/desktop/kde-utilities-xutils.directory:26
+#: menu/desktop/kde-utilities-xutils.directory:27
 msgctxt "Comment"
 msgid "X Window Utilities"
 msgstr "X ୱିଣ୍ଡୋ ଉପଯୋଗିତା"
@@ -1590,12 +1590,12 @@ msgctxt "Name"
 msgid "Application"
 msgstr "ପ୍ରୟୋଗଗୁଡ଼ିକ"
 
-#: phonon/platform_kde/phonon.notifyrc:94
+#: phonon/platform_kde/phonon.notifyrc:95
 msgctxt "Name"
 msgid "Audio Output Device Changed"
 msgstr ""
 
-#: phonon/platform_kde/phonon.notifyrc:155
+#: phonon/platform_kde/phonon.notifyrc:156
 msgctxt "Comment"
 msgid "Notification when audio output device has automatically changed"
 msgstr ""
@@ -1807,6 +1807,16 @@ msgstr "KDE ବିଜ୍ଞପ୍ତି ଡେମନ"
 #: statusnotifierwatcher/statusnotifierwatcher.desktop:63
 msgctxt "Comment"
 msgid "Manages services that provide status notifier user interfaces"
+msgstr ""
+
+#: systemmonitor/kded_ksysguard.desktop:11
+msgctxt "Name"
+msgid "KSysguard"
+msgstr ""
+
+#: systemmonitor/kded_ksysguard.desktop:12
+msgctxt "Comment"
+msgid "Launches KSysguard on Ctrl + Escape"
 msgstr ""
 
 #: themes/b3.themerc:2
