@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-27 02:25+0000\n"
+"POT-Creation-Date: 2014-04-27 14:27+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1006,7 +1006,7 @@ msgctxt "Name"
 msgid "Remote URL Change Notifier"
 msgstr "KDED ସୁଦୂର ଆଧାର URL ସୂଚନା ଦାତା"
 
-#: kioslave/remote/kdedmodule/remotedirnotify.desktop:25
+#: kioslave/remote/kdedmodule/remotedirnotify.desktop:26
 msgctxt "Comment"
 msgid "Provides change notification for network folders"
 msgstr ""
@@ -1240,7 +1240,7 @@ msgctxt "Name"
 msgid "Time Zone"
 msgstr "KDE ସମୟ ଅଞ୍ଚଳ ଡ଼େମନ"
 
-#: ktimezoned/ktimezoned.desktop:76
+#: ktimezoned/ktimezoned.desktop:77
 msgctxt "Comment"
 msgid "Provides the system's time zone to applications"
 msgstr ""
@@ -1250,7 +1250,7 @@ msgctxt "Name"
 msgid "kuiserver"
 msgstr "kuiserver"
 
-#: kuiserver/kuiserver.desktop:84
+#: kuiserver/kuiserver.desktop:85
 msgctxt "Comment"
 msgid "KDE's Progress Info UI server"
 msgstr "KDEର ଉନ୍ନତି ସୂଟନା UI ସର୍ଭର"
@@ -1292,13 +1292,13 @@ msgid "Development"
 msgstr "ବିକାଶ"
 
 #: menu/desktop/kde-development-translation.directory:4
-#: menu/desktop/kde-development-translation.directory:97
+#: menu/desktop/kde-development-translation.directory:98
 msgctxt "Name"
 msgid "Translation"
 msgstr "ଅନୁବାଦ"
 
 #: menu/desktop/kde-development-webdevelopment.directory:4
-#: menu/desktop/kde-development-webdevelopment.directory:96
+#: menu/desktop/kde-development-webdevelopment.directory:97
 msgctxt "Name"
 msgid "Web Development"
 msgstr "ୱେବ ବିକାଶ"
@@ -1498,7 +1498,7 @@ msgctxt "Name"
 msgid "File"
 msgstr "ଫାଇଲ"
 
-#: menu/desktop/kde-utilities-file.directory:29
+#: menu/desktop/kde-utilities-file.directory:30
 msgctxt "Comment"
 msgid "File"
 msgstr "ଫାଇଲ"
@@ -1508,7 +1508,7 @@ msgctxt "Name"
 msgid "Peripherals"
 msgstr "ପେରିଫେରାଲ"
 
-#: menu/desktop/kde-utilities-peripherals.directory:92
+#: menu/desktop/kde-utilities-peripherals.directory:93
 msgctxt "Comment"
 msgid "Peripherals"
 msgstr "ପେରିଫେରାଲ"
@@ -1518,7 +1518,7 @@ msgctxt "Name"
 msgid "PIM"
 msgstr "PIM"
 
-#: menu/desktop/kde-utilities-pim.directory:89
+#: menu/desktop/kde-utilities-pim.directory:90
 msgctxt "Comment"
 msgid "PIM"
 msgstr "PIM"
@@ -1531,7 +1531,7 @@ msgctxt "Name"
 msgid "X-Utilities"
 msgstr "ସର୍ଭିସ ପରିଚାଳକ"
 
-#: menu/desktop/kde-utilities-xutils.directory:27
+#: menu/desktop/kde-utilities-xutils.directory:28
 msgctxt "Comment"
 msgid "X Window Utilities"
 msgstr "X ୱିଣ୍ଡୋ ଉପଯୋଗିତା"
@@ -1549,7 +1549,7 @@ msgctxt "Comment"
 msgid "Multimedia System"
 msgstr "ବହୁମାଧ୍ଯମ ଚାଳକ"
 
-#: phonon/platform_kde/phonon.notifyrc:70
+#: phonon/platform_kde/phonon.notifyrc:71
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Applications"
@@ -1557,12 +1557,12 @@ msgctxt "Name"
 msgid "Application"
 msgstr "ପ୍ରୟୋଗଗୁଡ଼ିକ"
 
-#: phonon/platform_kde/phonon.notifyrc:95
+#: phonon/platform_kde/phonon.notifyrc:97
 msgctxt "Name"
 msgid "Audio Output Device Changed"
 msgstr ""
 
-#: phonon/platform_kde/phonon.notifyrc:156
+#: phonon/platform_kde/phonon.notifyrc:159
 msgctxt "Comment"
 msgid "Notification when audio output device has automatically changed"
 msgstr ""
@@ -1758,7 +1758,7 @@ msgctxt "Name"
 msgid "Drive Ejector"
 msgstr ""
 
-#: solidautoeject/solidautoeject.desktop:70
+#: solidautoeject/solidautoeject.desktop:71
 msgctxt "Comment"
 msgid "Automatically releases drives when their eject button is pushed"
 msgstr ""
@@ -1771,7 +1771,7 @@ msgctxt "Name"
 msgid "Hardware Detection"
 msgstr "ହାର୍ଡୱେର"
 
-#: soliduiserver/soliduiserver.desktop:76
+#: soliduiserver/soliduiserver.desktop:9
 msgctxt "Comment"
 msgid "Provides a user interface for hardware events"
 msgstr ""
@@ -1794,7 +1794,7 @@ msgctxt "Name"
 msgid "KSysguard"
 msgstr ""
 
-#: systemmonitor/kded_ksysguard.desktop:21
+#: systemmonitor/kded_ksysguard.desktop:27
 msgctxt "Comment"
 msgid "Launches KSysguard on Ctrl + Escape"
 msgstr ""
