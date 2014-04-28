@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs.or\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-28 02:06+0000\n"
+"POT-Creation-Date: 2014-04-28 10:17+0000\n"
 "PO-Revision-Date: 2008-06-20 13:20+0530\n"
 "Last-Translator: Manoj Kumar Giri <giri.manojkr@gmail.com>\n"
 "Language-Team: Oriya\n"
@@ -21,7 +21,7 @@ msgctxt "Name"
 msgid "HTTP Cache Cleaner"
 msgstr "HTTP ଗୁପ୍ତ ଭଣ୍ଡାର ମାର୍ଜକ"
 
-#: src/ioslaves/http/http_cache_cleaner.desktop:5
+#: src/ioslaves/http/http_cache_cleaner.desktop:7
 msgctxt "Comment"
 msgid "Cleans up old entries from the HTTP cache"
 msgstr "HTTP ଗୁପ୍ତ ଭଣ୍ଡାର ରୁ ପୁରୁଣା ନିବେଶ ଗୁଡିକୁ ସଫାକରନ୍ତୁ"
@@ -34,7 +34,7 @@ msgctxt "Name"
 msgid "Cookie Jar"
 msgstr "KDED କୁକି ବିରୋଧି ଏକକାଂଶ"
 
-#: src/ioslaves/http/kcookiejar/kcookiejar.desktop:4
+#: src/ioslaves/http/kcookiejar/kcookiejar.desktop:6
 msgctxt "Comment"
 msgid "Stores network cookies"
 msgstr ""
@@ -67,7 +67,7 @@ msgctxt "Name"
 msgid "Network Proxy Configuration"
 msgstr "ସ୍ୱୟଂଚାଳିତ ଛାୟା ବିନ୍ୟାସ"
 
-#: src/kpac/proxyscout.desktop:4
+#: src/kpac/proxyscout.desktop:6
 msgctxt "Comment"
 msgid "Automatic proxy configuration"
 msgstr "ସ୍ୱୟଂଚାଳିତ ଛାୟା ବିନ୍ୟାସ"
@@ -80,32 +80,32 @@ msgctxt "Comment"
 msgid "Network Proxy Configuration"
 msgstr "ସ୍ୱୟଂଚାଳିତ ଛାୟା ବିନ୍ୟାସ"
 
-#: src/kpac/proxyscout.notifyrc:6
+#: src/kpac/proxyscout.notifyrc:8
 msgctxt "Name"
 msgid "Invalid Proxy Script"
 msgstr "ଅବୈଧ ଛାୟା ସ୍କ୍ରିପ୍ଟ"
 
-#: src/kpac/proxyscout.notifyrc:7
+#: src/kpac/proxyscout.notifyrc:11
 msgctxt "Comment"
 msgid "The downloaded proxy configuration script is invalid"
 msgstr "ଆହରଣ କୃତ ଛାୟା ବିନ୍ୟାସ ସ୍କ୍ରିପ୍ଟ ଟି ଅବୈଧ"
 
-#: src/kpac/proxyscout.notifyrc:11
+#: src/kpac/proxyscout.notifyrc:17
 msgctxt "Name"
 msgid "Script Download Error"
 msgstr "ସ୍କ୍ରିପ୍ଟ ଆହରଣ ତ୍ରୁଟି"
 
-#: src/kpac/proxyscout.notifyrc:12
+#: src/kpac/proxyscout.notifyrc:20
 msgctxt "Comment"
 msgid "The proxy configuration script could not be downloaded"
 msgstr "ଛାୟା ବିନ୍ୟାସ ସ୍କ୍ରିପ୍ଟ ଆହରଣ କରିହେଲା ନାହିଁ"
 
-#: src/kpac/proxyscout.notifyrc:16
+#: src/kpac/proxyscout.notifyrc:26
 msgctxt "Name"
 msgid "Script Evaluation Error"
 msgstr "ସ୍କ୍ରିପ୍ଟ ମୁଲ୍ୟାଙ୍କନ ତ୍ରୁଟି"
 
-#: src/kpac/proxyscout.notifyrc:17
+#: src/kpac/proxyscout.notifyrc:29
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "ଛାୟା ବିନ୍ୟାସ ସ୍କ୍ରିପ୍ଟ ନିଷ୍ପାଦନ କରିବା ସମୟରେ ତ୍ରୁଟି"
@@ -115,7 +115,7 @@ msgctxt "Name"
 msgid "Password Caching"
 msgstr ""
 
-#: src/kpasswdserver/kpasswdserver.desktop:4
+#: src/kpasswdserver/kpasswdserver.desktop:6
 msgctxt "Comment"
 msgid "Temporary password caching"
 msgstr ""
@@ -125,7 +125,7 @@ msgctxt "Name"
 msgid "SSL Certificate Policy"
 msgstr ""
 
-#: src/kssld/kssld.desktop:9
+#: src/kssld/kssld.desktop:11
 msgctxt "Comment"
 msgid "Provides SSL certificate policy to applications"
 msgstr ""
