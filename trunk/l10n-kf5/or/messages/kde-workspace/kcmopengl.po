@@ -1,0 +1,337 @@
+# translation of kcmopengl.po to Oriya
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Manoj Kumar Giri <mgiri@redhat.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmopengl\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2014-03-11 01:51+0000\n"
+"PO-Revision-Date: 2009-01-02 11:46+0530\n"
+"Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
+"Language-Team: Oriya <oriya-it@googlegroups.com>\n"
+"Language: or\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"\n"
+"\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: opengl.cpp:87
+msgid "kcmopengl"
+msgstr ""
+
+#: opengl.cpp:88
+msgid "KCM OpenGL Information"
+msgstr ""
+
+#: opengl.cpp:90
+msgid ""
+"(c) 2008 Ivo Anjo\n"
+"(c) 2004 Ilya Korniyko\n"
+"(c) 1999-2002 Brian Paul"
+msgstr ""
+
+#: opengl.cpp:92
+msgid "Ivo Anjo"
+msgstr ""
+
+#: opengl.cpp:93
+msgid "Ilya Korniyko"
+msgstr ""
+
+#: opengl.cpp:94
+msgid "Helge Deller"
+msgstr ""
+
+#: opengl.cpp:94
+msgid "Original Maintainer"
+msgstr ""
+
+#: opengl.cpp:95
+msgid "Brian Paul"
+msgstr ""
+
+#: opengl.cpp:95
+msgid "Author of glxinfo Mesa demos (http://www.mesa3d.org)"
+msgstr ""
+
+#: opengl.cpp:354
+msgid "Max. number of light sources"
+msgstr ""
+
+#: opengl.cpp:355
+msgid "Max. number of clipping planes"
+msgstr ""
+
+#: opengl.cpp:356
+msgid "Max. pixel map table size"
+msgstr ""
+
+#: opengl.cpp:357
+msgid "Max. display list nesting level"
+msgstr ""
+
+#: opengl.cpp:358
+msgid "Max. evaluator order"
+msgstr ""
+
+#: opengl.cpp:359
+msgid "Max. recommended vertex count"
+msgstr ""
+
+#: opengl.cpp:360
+msgid "Max. recommended index count"
+msgstr ""
+
+#: opengl.cpp:362
+msgid "Occlusion query counter bits"
+msgstr ""
+
+#: opengl.cpp:365
+msgid "Max. vertex blend matrices"
+msgstr ""
+
+#: opengl.cpp:368
+msgid "Max. vertex blend matrix palette size"
+msgstr ""
+
+#: opengl.cpp:374
+msgid "Max. texture size"
+msgstr ""
+
+#: opengl.cpp:375
+msgid "No. of texture units"
+msgstr ""
+
+#: opengl.cpp:376
+msgid "Max. 3D texture size"
+msgstr ""
+
+#: opengl.cpp:377
+msgid "Max. cube map texture size"
+msgstr ""
+
+#: opengl.cpp:379
+msgid "Max. rectangular texture size"
+msgstr ""
+
+#: opengl.cpp:381
+msgid "Max. texture LOD bias"
+msgstr ""
+
+#: opengl.cpp:382
+msgid "Max. anisotropy filtering level"
+msgstr ""
+
+#: opengl.cpp:383
+msgid "No. of compressed texture formats"
+msgstr ""
+
+#: opengl.cpp:481
+msgid "Max. viewport dimensions"
+msgstr ""
+
+#: opengl.cpp:482
+msgid "Subpixel bits"
+msgstr ""
+
+#: opengl.cpp:483
+msgid "Aux. buffers"
+msgstr ""
+
+#: opengl.cpp:489
+msgid "Frame buffer properties"
+msgstr ""
+
+#: opengl.cpp:490
+msgid "Texturing"
+msgstr ""
+
+#: opengl.cpp:491
+msgid "Various limits"
+msgstr ""
+
+#: opengl.cpp:492
+msgid "Points and lines"
+msgstr ""
+
+#: opengl.cpp:493
+msgid "Stack depth limits"
+msgstr ""
+
+#: opengl.cpp:567 opengl.cpp:574
+msgid "3D Accelerator"
+msgstr ""
+
+#: opengl.cpp:569 opengl.cpp:586
+msgid "Vendor"
+msgstr ""
+
+#: opengl.cpp:570
+msgid "Device"
+msgstr ""
+
+#: opengl.cpp:571
+msgid "Subvendor"
+msgstr ""
+
+#: opengl.cpp:572
+msgid "Revision"
+msgstr ""
+
+#: opengl.cpp:574 opengl.cpp:595
+msgid "unknown"
+msgstr ""
+
+#: opengl.cpp:579 opengl.cpp:581
+msgid "Driver"
+msgstr ""
+
+#: opengl.cpp:587
+msgid "Renderer"
+msgstr ""
+
+#: opengl.cpp:589
+msgid "OpenGL ES version"
+msgstr ""
+
+#: opengl.cpp:591
+msgid "OpenGL version"
+msgstr ""
+
+#: opengl.cpp:596
+msgid "Kernel module"
+msgstr ""
+
+#: opengl.cpp:600
+msgid "OpenGL ES extensions"
+msgstr ""
+
+#: opengl.cpp:602
+msgid "OpenGL extensions"
+msgstr ""
+
+#: opengl.cpp:608
+msgid "Implementation specific"
+msgstr ""
+
+#: opengl.cpp:621
+msgid "GLX"
+msgstr ""
+
+#: opengl.cpp:622
+msgid "server GLX vendor"
+msgstr ""
+
+#: opengl.cpp:623
+msgid "server GLX version"
+msgstr ""
+
+#: opengl.cpp:624
+msgid "server GLX extensions"
+msgstr ""
+
+#: opengl.cpp:627
+msgid "client GLX vendor"
+msgstr ""
+
+#: opengl.cpp:628
+msgid "client GLX version"
+msgstr ""
+
+#: opengl.cpp:629
+msgid "client GLX extensions"
+msgstr ""
+
+#: opengl.cpp:631
+msgid "GLX extensions"
+msgstr ""
+
+#: opengl.cpp:634
+msgid "GLU"
+msgstr ""
+
+#: opengl.cpp:635
+msgid "GLU version"
+msgstr ""
+
+#: opengl.cpp:636
+msgid "GLU extensions"
+msgstr ""
+
+#: opengl.cpp:647
+msgid "EGL"
+msgstr ""
+
+#: opengl.cpp:648
+msgid "EGL Vendor"
+msgstr ""
+
+#: opengl.cpp:649
+msgid "EGL Version"
+msgstr ""
+
+#: opengl.cpp:650
+msgid "EGL Extensions"
+msgstr ""
+
+#: opengl.cpp:726
+msgid "Direct Rendering (GLX)"
+msgstr ""
+
+#: opengl.cpp:726
+msgid "Indirect Rendering (GLX)"
+msgstr ""
+
+#: opengl.cpp:838
+msgid "Direct Rendering (EGL)"
+msgstr ""
+
+#: opengl.cpp:901
+msgid "Information"
+msgstr ""
+
+#: opengl.cpp:902
+msgid "Value"
+msgstr ""
+
+#: opengl.cpp:919 opengl.cpp:958
+msgid "Name of the Display"
+msgstr ""
+
+#: opengl.cpp:952
+msgid "Could not initialize OpenGL/GLX"
+msgstr ""
+
+#: opengl.cpp:963
+msgid "OpenGL"
+msgstr ""
+
+#: opengl.cpp:966
+msgid "Core Profile"
+msgstr ""
+
+#: opengl.cpp:969
+msgid "Compatibility Profile"
+msgstr ""
+
+#: opengl.cpp:979
+msgid "Could not initialize OpenGL (ES)/EGL "
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QTreeWidget, glinfoTreeWidget)
+#: opengl.ui:17
+msgid "1"
+msgstr ""
