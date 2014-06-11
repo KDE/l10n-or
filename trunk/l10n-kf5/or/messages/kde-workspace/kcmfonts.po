@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmfonts\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-05-30 08:01+0000\n"
+"POT-Creation-Date: 2014-06-11 07:50+0000\n"
 "PO-Revision-Date: 2009-01-02 11:44+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -91,95 +91,77 @@ msgctxt "font usage"
 msgid "Window title"
 msgstr ""
 
-#: fonts.cpp:532
-msgctxt "font usage"
-msgid "Taskbar"
-msgstr ""
-
-#: fonts.cpp:533
-msgctxt "font usage"
-msgid "Desktop"
-msgstr ""
-
-#: fonts.cpp:573
+#: fonts.cpp:568
 msgid "Used for normal text (e.g. button labels, list items)."
 msgstr ""
 
-#: fonts.cpp:574
+#: fonts.cpp:569
 msgid "A non-proportional font (i.e. typewriter font)."
 msgstr ""
 
-#: fonts.cpp:575
+#: fonts.cpp:570
 msgid "Smallest font that is still readable well."
 msgstr ""
 
-#: fonts.cpp:576
+#: fonts.cpp:571
 msgid "Used to display text beside toolbar icons."
 msgstr ""
 
-#: fonts.cpp:577
+#: fonts.cpp:572
 msgid "Used by menu bars and popup menus."
 msgstr ""
 
-#: fonts.cpp:578
+#: fonts.cpp:573
 msgid "Used by the window titlebar."
 msgstr ""
 
-#: fonts.cpp:579
-msgid "Used by the taskbar."
-msgstr ""
-
-#: fonts.cpp:580
-msgid "Used for desktop icons."
-msgstr ""
-
-#: fonts.cpp:619
+#: fonts.cpp:612
 #, kde-format
 msgctxt "Font role"
 msgid "%1: "
 msgstr ""
 
-#: fonts.cpp:632
+#: fonts.cpp:625
 msgid "Ad&just All Fonts..."
 msgstr ""
 
-#: fonts.cpp:633
+#: fonts.cpp:626
 msgid "Click to change all fonts"
 msgstr ""
 
-#: fonts.cpp:644
+#: fonts.cpp:637
 msgid "Use a&nti-aliasing:"
 msgstr ""
 
-#: fonts.cpp:648
+#: fonts.cpp:641
 msgctxt "Use anti-aliasing"
 msgid "Enabled"
 msgstr ""
 
-#: fonts.cpp:649
+#: fonts.cpp:642
 msgctxt "Use anti-aliasing"
 msgid "System Settings"
 msgstr ""
 
-#: fonts.cpp:650
+#: fonts.cpp:643
 msgctxt "Use anti-aliasing"
 msgid "Disabled"
 msgstr ""
 
-#: fonts.cpp:651
+#: fonts.cpp:644
 msgid ""
 "If this option is selected, KDE will smooth the edges of curves in fonts."
 msgstr ""
 
-#: fonts.cpp:653
+#: fonts.cpp:646
 msgid "Configure..."
 msgstr ""
 
-#: fonts.cpp:661
+#: fonts.cpp:654
 msgid "Force fonts DPI:"
 msgstr ""
 
-#: fonts.cpp:667
+#: fonts.cpp:660
 msgid ""
 "<p>This option forces a specific DPI value for fonts. It may be useful when "
 "the real DPI of the hardware is not detected properly and it is also often "
@@ -192,17 +174,17 @@ msgid ""
 "fonts should be used or configuration of font hinting should be checked.</p>"
 msgstr ""
 
-#: fonts.cpp:818
+#: fonts.cpp:811
 msgid ""
 "<p>Some changes such as anti-aliasing or DPI will only affect newly started "
 "applications.</p>"
 msgstr ""
 
-#: fonts.cpp:819 fonts.cpp:829
+#: fonts.cpp:812 fonts.cpp:822
 msgid "Font Settings Changed"
 msgstr ""
 
-#: fonts.cpp:828
+#: fonts.cpp:821
 msgid ""
 "<p>Some changes such as DPI will only affect newly started applications.</p>"
 msgstr ""
