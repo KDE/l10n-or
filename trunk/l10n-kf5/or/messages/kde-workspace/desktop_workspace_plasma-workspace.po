@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-06-20 08:41+0000\n"
+"POT-Creation-Date: 2014-06-21 08:14+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -974,7 +974,7 @@ msgid "Low Disk Space"
 msgstr ""
 
 #: freespacenotifier/freespacenotifier.notifyrc:134
-#: ksmserver/plasma_workspace.notifyrc:232
+#: ksmserver/plasma_workspace.notifyrc:245
 msgctxt "Name"
 msgid "Warning"
 msgstr "ଚେତାବନୀ"
@@ -1127,12 +1127,12 @@ msgctxt "Comment"
 msgid "Plasma Workspace"
 msgstr "ପ୍ଲାଜମା ଡ଼େସ୍କଟପ କାର୍ଯ୍ୟସ୍ଥଳ"
 
-#: ksmserver/plasma_workspace.notifyrc:19
+#: ksmserver/plasma_workspace.notifyrc:20
 msgctxt "Name"
 msgid "Trash: Emptied"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:35
+#: ksmserver/plasma_workspace.notifyrc:37
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "A modifier key has been locked"
@@ -1140,47 +1140,47 @@ msgctxt "Comment"
 msgid "The trash has been emptied"
 msgstr "ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି ଅପରିବର୍ତ୍ତିତ ହୋଇଯାଇଛି"
 
-#: ksmserver/plasma_workspace.notifyrc:55
+#: ksmserver/plasma_workspace.notifyrc:58
 msgctxt "Name"
 msgid "Textcompletion: Rotation"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:70
+#: ksmserver/plasma_workspace.notifyrc:74
 msgctxt "Comment"
 msgid "The end of the list of matches has been reached"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:90
+#: ksmserver/plasma_workspace.notifyrc:95
 msgctxt "Name"
 msgid "Textcompletion: No Match"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:105
+#: ksmserver/plasma_workspace.notifyrc:111
 msgctxt "Comment"
 msgid "No matching completion was found"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:125
+#: ksmserver/plasma_workspace.notifyrc:132
 msgctxt "Name"
 msgid "Textcompletion: Partial Match"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:140
+#: ksmserver/plasma_workspace.notifyrc:148
 msgctxt "Comment"
 msgid "There is more than one possible match"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:160
+#: ksmserver/plasma_workspace.notifyrc:169
 msgctxt "Name"
 msgid "Fatal Error"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:175
+#: ksmserver/plasma_workspace.notifyrc:185
 msgctxt "Comment"
 msgid "There was a serious error causing the program to exit"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:196
+#: ksmserver/plasma_workspace.notifyrc:207
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Notifications"
@@ -1188,37 +1188,37 @@ msgctxt "Name"
 msgid "Notification"
 msgstr "ବିଜ୍ଞପ୍ତି"
 
-#: ksmserver/plasma_workspace.notifyrc:212
+#: ksmserver/plasma_workspace.notifyrc:224
 msgctxt "Comment"
 msgid "Something special happened in the program"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:318
+#: ksmserver/plasma_workspace.notifyrc:331
 msgctxt "Comment"
 msgid "There was an error in the program which may cause problems"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:338
+#: ksmserver/plasma_workspace.notifyrc:352
 msgctxt "Name"
 msgid "Catastrophe"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:354
+#: ksmserver/plasma_workspace.notifyrc:369
 msgctxt "Comment"
 msgid "A very serious error occurred, at least causing the program to exit"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:374
+#: ksmserver/plasma_workspace.notifyrc:390
 msgctxt "Name"
 msgid "Login"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:390
+#: ksmserver/plasma_workspace.notifyrc:407
 msgctxt "Comment"
 msgid "A new session is starting"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:409
+#: ksmserver/plasma_workspace.notifyrc:427
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Lock/Logout"
@@ -1226,42 +1226,42 @@ msgctxt "Name"
 msgid "Logout"
 msgstr "ଅପରିବର୍ତ୍ତନୀୟ/ଲଗଆଉଟ କରନ୍ତୁ"
 
-#: ksmserver/plasma_workspace.notifyrc:425
+#: ksmserver/plasma_workspace.notifyrc:444
 msgctxt "Comment"
 msgid "Session is exiting"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:444
+#: ksmserver/plasma_workspace.notifyrc:464
 msgctxt "Name"
 msgid "Logout Canceled"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:460
+#: ksmserver/plasma_workspace.notifyrc:481
 msgctxt "Comment"
 msgid "Plasma logout was canceled"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:477
+#: ksmserver/plasma_workspace.notifyrc:499
 msgctxt "Name"
 msgid "Print Error"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:493
+#: ksmserver/plasma_workspace.notifyrc:516
 msgctxt "Comment"
 msgid "A print error has occurred"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:513
+#: ksmserver/plasma_workspace.notifyrc:537
 msgctxt "Name"
 msgid "Information Message"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:529
+#: ksmserver/plasma_workspace.notifyrc:554
 msgctxt "Comment"
 msgid "An information message is being shown"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:549
+#: ksmserver/plasma_workspace.notifyrc:575
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Warning"
@@ -1269,37 +1269,37 @@ msgctxt "Name"
 msgid "Warning Message"
 msgstr "ଚେତାବନୀ"
 
-#: ksmserver/plasma_workspace.notifyrc:565
+#: ksmserver/plasma_workspace.notifyrc:592
 msgctxt "Comment"
 msgid "A warning message is being shown"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:585
+#: ksmserver/plasma_workspace.notifyrc:613
 msgctxt "Name"
 msgid "Critical Message"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:600
+#: ksmserver/plasma_workspace.notifyrc:629
 msgctxt "Comment"
 msgid "A critical message is being shown"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:619
+#: ksmserver/plasma_workspace.notifyrc:649
 msgctxt "Name"
 msgid "Question"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:635
+#: ksmserver/plasma_workspace.notifyrc:666
 msgctxt "Comment"
 msgid "A question is being asked"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:656
+#: ksmserver/plasma_workspace.notifyrc:688
 msgctxt "Name"
 msgid "Beep"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:671
+#: ksmserver/plasma_workspace.notifyrc:704
 msgctxt "Comment"
 msgid "Sound bell"
 msgstr ""
@@ -1327,7 +1327,7 @@ msgctxt "Name"
 msgid "Screen Locking"
 msgstr "ପରଦା ସଂରକ୍ଷକ"
 
-#: ksmserver/screenlocker/kcm/screenlocker.desktop:30
+#: ksmserver/screenlocker/kcm/screenlocker.desktop:31
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Screen Saver"
@@ -1462,7 +1462,7 @@ msgctxt "Name"
 msgid "Breeze"
 msgstr ""
 
-#: lookandfeel/contents/loginmanager/metadata.desktop:16
+#: lookandfeel/contents/loginmanager/metadata.desktop:17
 msgctxt "Description"
 msgid "Breeze Theme"
 msgstr ""
@@ -1498,29 +1498,29 @@ msgctxt "Name"
 msgid "Internal Services"
 msgstr "ସର୍ଭିସଗୁଡ଼ିକ"
 
-#: menu/desktop/kde-development.directory:4
+#: menu/desktop/kf5-development.directory:4
 msgctxt "Name"
 msgid "Development"
 msgstr "ବିକାଶ"
 
-#: menu/desktop/kde-development-translation.directory:4
-#: menu/desktop/kde-development-translation.directory:97
+#: menu/desktop/kf5-development-translation.directory:4
+#: menu/desktop/kf5-development-translation.directory:97
 msgctxt "Name"
 msgid "Translation"
 msgstr "ଅନୁବାଦ"
 
-#: menu/desktop/kde-development-webdevelopment.directory:4
-#: menu/desktop/kde-development-webdevelopment.directory:96
+#: menu/desktop/kf5-development-webdevelopment.directory:4
+#: menu/desktop/kf5-development-webdevelopment.directory:96
 msgctxt "Name"
 msgid "Web Development"
 msgstr "ୱେବ ବିକାଶ"
 
-#: menu/desktop/kde-editors.directory:4
+#: menu/desktop/kf5-editors.directory:4
 msgctxt "Name"
 msgid "Editors"
 msgstr "ସମ୍ପାଦକ"
 
-#: menu/desktop/kde-education.directory:4
+#: menu/desktop/kf5-education.directory:4
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Locations"
@@ -1528,83 +1528,83 @@ msgctxt "Name"
 msgid "Education"
 msgstr "ସ୍ଥାନଗୁଡ଼ିକ"
 
-#: menu/desktop/kde-edu-languages.directory:5
+#: menu/desktop/kf5-edu-languages.directory:5
 msgctxt "Name"
 msgid "Languages"
 msgstr "ଭାଷା"
 
-#: menu/desktop/kde-edu-mathematics.directory:5
+#: menu/desktop/kf5-edu-mathematics.directory:5
 msgctxt "Name"
 msgid "Mathematics"
 msgstr "ଗଣିତ"
 
-#: menu/desktop/kde-edu-miscellaneous.directory:5
+#: menu/desktop/kf5-edu-miscellaneous.directory:5
 msgctxt "Name"
 msgid "Miscellaneous"
 msgstr "ବିବିଧ"
 
-#: menu/desktop/kde-edu-science.directory:5
+#: menu/desktop/kf5-edu-science.directory:5
 msgctxt "Name"
 msgid "Science"
 msgstr "ବିଜ୍ଞାନ"
 
-#: menu/desktop/kde-edu-tools.directory:5
+#: menu/desktop/kf5-edu-tools.directory:5
 msgctxt "Name"
 msgid "Teaching Tools"
 msgstr "ପଢ଼ାଇବା ସାଧନ"
 
-#: menu/desktop/kde-games-arcade.directory:4
+#: menu/desktop/kf5-games-arcade.directory:4
 msgctxt "Name"
 msgid "Arcade"
 msgstr "ଆରକେଡ଼"
 
-#: menu/desktop/kde-games-board.directory:4
+#: menu/desktop/kf5-games-board.directory:4
 msgctxt "Name"
 msgid "Board Games"
 msgstr "ବୋର୍ଡ଼ ଖେଳ"
 
-#: menu/desktop/kde-games-card.directory:4
+#: menu/desktop/kf5-games-card.directory:4
 msgctxt "Name"
 msgid "Card Games"
 msgstr "କାର୍ଡ଼ ଖେଳ"
 
-#: menu/desktop/kde-games.directory:4
+#: menu/desktop/kf5-games.directory:4
 msgctxt "Name"
 msgid "Games"
 msgstr "ଖେଳ"
 
-#: menu/desktop/kde-games-kids.directory:4
+#: menu/desktop/kf5-games-kids.directory:4
 msgctxt "Name"
 msgid "Games for Kids"
 msgstr "ଶିଶୁମାନଙ୍କ ପାଇଁ ଖେଳ"
 
-#: menu/desktop/kde-games-logic.directory:4
+#: menu/desktop/kf5-games-logic.directory:4
 msgctxt "Name"
 msgid "Logic Games"
 msgstr "ତାର୍କିକ ଖେଳ"
 
-#: menu/desktop/kde-games-roguelikes.directory:4
+#: menu/desktop/kf5-games-roguelikes.directory:4
 msgctxt "Name"
 msgid "Rogue-like Games"
 msgstr "ଅଜ୍ଞାନ-ସାଦୃଶ୍ୟ ଖେଳ"
 
-#: menu/desktop/kde-games-strategy.directory:4
+#: menu/desktop/kf5-games-strategy.directory:4
 msgctxt "Name"
 msgid "Tactics & Strategy"
 msgstr "କୌଶଳ ଏବଂ ରଣନୀତି"
 
-#: menu/desktop/kde-graphics.directory:4
+#: menu/desktop/kf5-graphics.directory:4
 msgctxt "Name"
 msgid "Graphics"
 msgstr "ଆଲେଖି"
 
-#: menu/desktop/kde-internet.directory:4
+#: menu/desktop/kf5-internet.directory:4
 msgctxt "Name"
 msgid "Internet"
 msgstr "ଇଣ୍ଟରନେଟ"
 
-#: menu/desktop/kde-internet-terminal.directory:4
-#: menu/desktop/kde-system-terminal.directory:4
+#: menu/desktop/kf5-internet-terminal.directory:4
+#: menu/desktop/kf5-system-terminal.directory:4
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Terminal Applications"
@@ -1612,12 +1612,12 @@ msgctxt "Name"
 msgid "Terminal Applications"
 msgstr "ଟର୍ମିନାଲ ପ୍ରୟୋଗଗୁଡ଼ିକ"
 
-#: menu/desktop/kde-main.directory:5
+#: menu/desktop/kf5-main.directory:5
 msgctxt "Name"
 msgid "KDE Menu"
 msgstr "KDE ତାଲିକା"
 
-#: menu/desktop/kde-more.directory:5
+#: menu/desktop/kf5-more.directory:5
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Applications"
@@ -1625,27 +1625,27 @@ msgctxt "Name"
 msgid "More Applications"
 msgstr "ପ୍ରୟୋଗଗୁଡ଼ିକ"
 
-#: menu/desktop/kde-multimedia.directory:4
+#: menu/desktop/kf5-multimedia.directory:4
 msgctxt "Name"
 msgid "Multimedia"
 msgstr "ବହୁମାଧ୍ଯମ"
 
-#: menu/desktop/kde-office.directory:4
+#: menu/desktop/kf5-office.directory:4
 msgctxt "Name"
 msgid "Office"
 msgstr "ଅଫିସ"
 
-#: menu/desktop/kde-science.directory:5
+#: menu/desktop/kf5-science.directory:5
 msgctxt "Name"
 msgid "Science & Math"
 msgstr "ବିଜ୍ଞାନ ଏବଂ ଗଣିତ"
 
-#: menu/desktop/kde-settingsmenu.directory:4
+#: menu/desktop/kf5-settingsmenu.directory:4
 msgctxt "Name"
 msgid "Settings"
 msgstr "ସେଟିଙ୍ଗଗୁଡ଼ିକ"
 
-#: menu/desktop/kde-system.directory:4
+#: menu/desktop/kf5-system.directory:4
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "System Tray"
@@ -1653,27 +1653,27 @@ msgctxt "Name"
 msgid "System"
 msgstr "ତନ୍ତ୍ର ଧାରକ"
 
-#: menu/desktop/kde-toys.directory:4
+#: menu/desktop/kf5-toys.directory:4
 msgctxt "Name"
 msgid "Toys"
 msgstr "ଖେଳନା"
 
-#: menu/desktop/kde-unknown.directory:4
+#: menu/desktop/kf5-unknown.directory:4
 msgctxt "Name"
 msgid "Lost & Found"
 msgstr "ହଜିବା ଏବଂ ମିଳିବା"
 
-#: menu/desktop/kde-utilities-accessibility.directory:4
+#: menu/desktop/kf5-utilities-accessibility.directory:4
 msgctxt "Name"
 msgid "Accessibility"
 msgstr "ଅଭିଗମ୍ୟତା"
 
-#: menu/desktop/kde-utilities-accessibility.directory:96
+#: menu/desktop/kf5-utilities-accessibility.directory:96
 msgctxt "Comment"
 msgid "Accessibility"
 msgstr "ଅଭିଗମ୍ୟତା"
 
-#: menu/desktop/kde-utilities-desktop.directory:4
+#: menu/desktop/kf5-utilities-desktop.directory:4
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Desktop"
@@ -1681,7 +1681,7 @@ msgctxt "Name"
 msgid "Desktop"
 msgstr "ଡ଼େସ୍କଟପ"
 
-#: menu/desktop/kde-utilities-desktop.directory:35
+#: menu/desktop/kf5-utilities-desktop.directory:35
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Desktop"
@@ -1689,7 +1689,7 @@ msgctxt "Comment"
 msgid "Desktop"
 msgstr "ଡ଼େସ୍କଟପ"
 
-#: menu/desktop/kde-utilities.directory:4
+#: menu/desktop/kf5-utilities.directory:4
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Service Manager"
@@ -1697,7 +1697,7 @@ msgctxt "Name"
 msgid "Utilities"
 msgstr "ସର୍ଭିସ ପରିଚାଳକ"
 
-#: menu/desktop/kde-utilities.directory:35
+#: menu/desktop/kf5-utilities.directory:35
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Service Manager"
@@ -1705,37 +1705,37 @@ msgctxt "Comment"
 msgid "Utilities"
 msgstr "ସର୍ଭିସ ପରିଚାଳକ"
 
-#: menu/desktop/kde-utilities-file.directory:4
+#: menu/desktop/kf5-utilities-file.directory:4
 msgctxt "Name"
 msgid "File"
 msgstr "ଫାଇଲ"
 
-#: menu/desktop/kde-utilities-file.directory:35
+#: menu/desktop/kf5-utilities-file.directory:35
 msgctxt "Comment"
 msgid "File"
 msgstr "ଫାଇଲ"
 
-#: menu/desktop/kde-utilities-peripherals.directory:4
+#: menu/desktop/kf5-utilities-peripherals.directory:4
 msgctxt "Name"
 msgid "Peripherals"
 msgstr "ପେରିଫେରାଲ"
 
-#: menu/desktop/kde-utilities-peripherals.directory:93
+#: menu/desktop/kf5-utilities-peripherals.directory:93
 msgctxt "Comment"
 msgid "Peripherals"
 msgstr "ପେରିଫେରାଲ"
 
-#: menu/desktop/kde-utilities-pim.directory:4
+#: menu/desktop/kf5-utilities-pim.directory:4
 msgctxt "Name"
 msgid "PIM"
 msgstr "PIM"
 
-#: menu/desktop/kde-utilities-pim.directory:90
+#: menu/desktop/kf5-utilities-pim.directory:90
 msgctxt "Comment"
 msgid "PIM"
 msgstr "PIM"
 
-#: menu/desktop/kde-utilities-xutils.directory:5
+#: menu/desktop/kf5-utilities-xutils.directory:5
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Service Manager"
@@ -1743,7 +1743,7 @@ msgctxt "Name"
 msgid "X-Utilities"
 msgstr "ସର୍ଭିସ ପରିଚାଳକ"
 
-#: menu/desktop/kde-utilities-xutils.directory:33
+#: menu/desktop/kf5-utilities-xutils.directory:33
 msgctxt "Comment"
 msgid "X Window Utilities"
 msgstr "X ୱିଣ୍ଡୋ ଉପଯୋଗିତା"
@@ -1779,6 +1779,16 @@ msgctxt "Comment"
 msgid "Notification when audio output device has automatically changed"
 msgstr ""
 
+#: plasma.desktop.cmake:7
+msgctxt "Name"
+msgid "Plasma"
+msgstr ""
+
+#: plasma.desktop.cmake:8
+msgctxt "Comment"
+msgid "Plasma by KDE"
+msgstr ""
+
 #: runners/activities/plasma-runner-activityrunner.desktop:2
 #, fuzzy
 #| msgctxt "Name"
@@ -1803,7 +1813,7 @@ msgctxt "Name"
 msgid "Desktop Search"
 msgstr "ଡ଼େସ୍କଟପ ଅଧିବେଶନଗୁଡ଼ିକ"
 
-#: runners/baloo/plasma-runner-baloosearch.desktop:10
+#: runners/baloo/plasma-runner-baloosearch.desktop:13
 msgctxt "Comment"
 msgid "Runner which searches through files, emails and contacts"
 msgstr ""
