@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmfonts\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-06-11 07:50+0000\n"
+"POT-Creation-Date: 2014-06-23 08:07+0000\n"
 "PO-Revision-Date: 2009-01-02 11:44+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -20,23 +20,23 @@ msgstr ""
 "\n"
 "\n"
 
-#: fonts.cpp:251
+#: fonts.cpp:252
 msgid "Configure Anti-Alias Settings"
 msgstr ""
 
-#: fonts.cpp:259
+#: fonts.cpp:260
 msgid "E&xclude range:"
 msgstr ""
 
-#: fonts.cpp:262 fonts.cpp:267
+#: fonts.cpp:263 fonts.cpp:268
 msgid " pt"
 msgstr ""
 
-#: fonts.cpp:264
+#: fonts.cpp:265
 msgid " to "
 msgstr ""
 
-#: fonts.cpp:271
+#: fonts.cpp:272
 msgid ""
 "<p>If you have a TFT or LCD screen you can further improve the quality of "
 "displayed fonts by selecting this option.<br />Sub-pixel rendering is also "
@@ -48,120 +48,120 @@ msgid ""
 "</p>"
 msgstr ""
 
-#: fonts.cpp:282
+#: fonts.cpp:283
 msgid "&Use sub-pixel rendering:"
 msgstr ""
 
-#: fonts.cpp:295
+#: fonts.cpp:296
 msgid "Hinting style: "
 msgstr ""
 
-#: fonts.cpp:303
+#: fonts.cpp:304
 msgid ""
 "Hinting is a process used to enhance the quality of fonts at small sizes."
 msgstr ""
 
-#: fonts.cpp:526
+#: fonts.cpp:527
 msgctxt "font usage"
 msgid "General"
 msgstr ""
 
-#: fonts.cpp:527
+#: fonts.cpp:528
 msgctxt "font usage"
 msgid "Fixed width"
 msgstr ""
 
-#: fonts.cpp:528
+#: fonts.cpp:529
 msgctxt "font usage"
 msgid "Small"
 msgstr ""
 
-#: fonts.cpp:529
+#: fonts.cpp:530
 msgctxt "font usage"
 msgid "Toolbar"
 msgstr ""
 
-#: fonts.cpp:530
+#: fonts.cpp:531
 msgctxt "font usage"
 msgid "Menu"
 msgstr ""
 
-#: fonts.cpp:531
+#: fonts.cpp:532
 msgctxt "font usage"
 msgid "Window title"
 msgstr ""
 
-#: fonts.cpp:568
+#: fonts.cpp:569
 msgid "Used for normal text (e.g. button labels, list items)."
 msgstr ""
 
-#: fonts.cpp:569
+#: fonts.cpp:570
 msgid "A non-proportional font (i.e. typewriter font)."
 msgstr ""
 
-#: fonts.cpp:570
+#: fonts.cpp:571
 msgid "Smallest font that is still readable well."
 msgstr ""
 
-#: fonts.cpp:571
+#: fonts.cpp:572
 msgid "Used to display text beside toolbar icons."
 msgstr ""
 
-#: fonts.cpp:572
+#: fonts.cpp:573
 msgid "Used by menu bars and popup menus."
 msgstr ""
 
-#: fonts.cpp:573
+#: fonts.cpp:574
 msgid "Used by the window titlebar."
 msgstr ""
 
-#: fonts.cpp:612
+#: fonts.cpp:613
 #, kde-format
 msgctxt "Font role"
 msgid "%1: "
 msgstr ""
 
-#: fonts.cpp:625
+#: fonts.cpp:626
 msgid "Ad&just All Fonts..."
 msgstr ""
 
-#: fonts.cpp:626
+#: fonts.cpp:627
 msgid "Click to change all fonts"
 msgstr ""
 
-#: fonts.cpp:637
+#: fonts.cpp:638
 msgid "Use a&nti-aliasing:"
-msgstr ""
-
-#: fonts.cpp:641
-msgctxt "Use anti-aliasing"
-msgid "Enabled"
 msgstr ""
 
 #: fonts.cpp:642
 msgctxt "Use anti-aliasing"
-msgid "System Settings"
+msgid "Enabled"
 msgstr ""
 
 #: fonts.cpp:643
 msgctxt "Use anti-aliasing"
-msgid "Disabled"
+msgid "System Settings"
 msgstr ""
 
 #: fonts.cpp:644
+msgctxt "Use anti-aliasing"
+msgid "Disabled"
+msgstr ""
+
+#: fonts.cpp:645
 msgid ""
 "If this option is selected, KDE will smooth the edges of curves in fonts."
 msgstr ""
 
-#: fonts.cpp:646
+#: fonts.cpp:647
 msgid "Configure..."
 msgstr ""
 
-#: fonts.cpp:654
+#: fonts.cpp:655
 msgid "Force fonts DPI:"
 msgstr ""
 
-#: fonts.cpp:660
+#: fonts.cpp:661
 msgid ""
 "<p>This option forces a specific DPI value for fonts. It may be useful when "
 "the real DPI of the hardware is not detected properly and it is also often "
@@ -174,17 +174,17 @@ msgid ""
 "fonts should be used or configuration of font hinting should be checked.</p>"
 msgstr ""
 
-#: fonts.cpp:811
+#: fonts.cpp:812
 msgid ""
 "<p>Some changes such as anti-aliasing or DPI will only affect newly started "
 "applications.</p>"
 msgstr ""
 
-#: fonts.cpp:812 fonts.cpp:822
+#: fonts.cpp:813 fonts.cpp:823
 msgid "Font Settings Changed"
 msgstr ""
 
-#: fonts.cpp:821
+#: fonts.cpp:822
 msgid ""
 "<p>Some changes such as DPI will only affect newly started applications.</p>"
 msgstr ""
