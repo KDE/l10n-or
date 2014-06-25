@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-06-22 06:04+0000\n"
+"POT-Creation-Date: 2014-06-25 06:03+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -382,7 +382,7 @@ msgctxt "Name"
 msgid "Display"
 msgstr "ପ୍ରଦର୍ଶକ"
 
-#: kcontrol/hardware/display/display.desktop:99
+#: kcontrol/hardware/display/display.desktop:100
 #: systemsettings/categories/settings-display.desktop:70
 msgctxt "Comment"
 msgid "Display Settings"
@@ -2951,7 +2951,7 @@ msgctxt "Name"
 msgid "Logout"
 msgstr "ଲଗଆଉଟ"
 
-#: kwin/effects/logout/logout.desktop:85
+#: kwin/effects/logout/logout.desktop:86
 msgctxt "Comment"
 msgid "Desaturate the desktop when displaying the logout dialog"
 msgstr ""
@@ -3307,7 +3307,7 @@ msgctxt "Comment"
 msgid "Configure the look and feel of window titles"
 msgstr ""
 
-#: kwin/kcmkwin/kwindecoration/kwindecoration.desktop:161
+#: kwin/kcmkwin/kwindecoration/kwindecoration.desktop:162
 msgctxt "X-KDE-Keywords"
 msgid ""
 "kwin,window,manager,border,style,theme,look,feel,layout,button,handle,edge,"
@@ -3327,7 +3327,7 @@ msgctxt "Comment"
 msgid "You can configure how many virtual desktops there are."
 msgstr ""
 
-#: kwin/kcmkwin/kwindesktop/desktop.desktop:163
+#: kwin/kcmkwin/kwindesktop/desktop.desktop:164
 msgctxt "X-KDE-Keywords"
 msgid ""
 "desktop,desktops,number,virtual desktop,multiple desktops,pager,pager widget,"
@@ -3347,7 +3347,7 @@ msgctxt "Comment"
 msgid "Configure mouse actions on windows"
 msgstr "ଆବର୍ଜନା ପାତ୍ର ସଂରଚନାକୁ ବିନ୍ୟାସ କରନ୍ତୁ "
 
-#: kwin/kcmkwin/kwinoptions/kwinactions.desktop:143
+#: kwin/kcmkwin/kwinoptions/kwinactions.desktop:144
 msgctxt "X-KDE-Keywords"
 msgid ""
 "shade,maximise,maximize,minimize,minimise,lower,operations menu,titlebar,"
@@ -3364,7 +3364,7 @@ msgctxt "Comment"
 msgid "Configure advanced window management features"
 msgstr ""
 
-#: kwin/kcmkwin/kwinoptions/kwinadvanced.desktop:186
+#: kwin/kcmkwin/kwinoptions/kwinadvanced.desktop:187
 msgctxt "X-KDE-Keywords"
 msgid ""
 "shading,border,hover,active borders,tiling,tabs,tabbing,window tabbing,"
@@ -3382,7 +3382,7 @@ msgctxt "Comment"
 msgid "Configure the window focus policy"
 msgstr ""
 
-#: kwin/kcmkwin/kwinoptions/kwinfocus.desktop:183
+#: kwin/kcmkwin/kwinoptions/kwinfocus.desktop:184
 msgctxt "X-KDE-Keywords"
 msgid ""
 "focus,placement,auto raise,raise,click raise,keyboard,CDE,alt-tab,all "
@@ -3400,7 +3400,7 @@ msgctxt "Comment"
 msgid "Configure the way that windows are moved"
 msgstr ""
 
-#: kwin/kcmkwin/kwinoptions/kwinmoving.desktop:185
+#: kwin/kcmkwin/kwinoptions/kwinmoving.desktop:186
 msgctxt "X-KDE-Keywords"
 msgid "moving,smart,cascade,maximize,maximise,snap zone,snap,border"
 msgstr ""
@@ -3416,7 +3416,7 @@ msgctxt "Comment"
 msgid "Configure the window behavior"
 msgstr ""
 
-#: kwin/kcmkwin/kwinoptions/kwinoptions.desktop:189
+#: kwin/kcmkwin/kwinoptions/kwinoptions.desktop:190
 msgctxt "X-KDE-Keywords"
 msgid ""
 "focus,placement,window behavior,animation,raise,auto raise,windows,frame,"
@@ -3436,7 +3436,7 @@ msgctxt "Comment"
 msgid "Configure settings specifically for a window"
 msgstr ""
 
-#: kwin/kcmkwin/kwinrules/kwinrules.desktop:160
+#: kwin/kcmkwin/kwinrules/kwinrules.desktop:161
 msgctxt "X-KDE-Keywords"
 msgid ""
 "size,position,state,window behavior,windows,specific,workarounds,remember,"
@@ -3459,7 +3459,7 @@ msgctxt "Comment"
 msgid "Configure active screen edges"
 msgstr "ୱେବ କ୍ୟାଶେ ସଂରଚନାକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
 
-#: kwin/kcmkwin/kwinscreenedges/kwinscreenedges.desktop:150
+#: kwin/kcmkwin/kwinscreenedges/kwinscreenedges.desktop:151
 msgctxt "X-KDE-Keywords"
 msgid ""
 "kwin,window,manager,effect,edge,border,action,switch,desktop,kwin screen "
@@ -3501,7 +3501,7 @@ msgctxt "Comment"
 msgid "Configure the behavior for navigating through windows"
 msgstr "Java ଏବଂ JavaScriptର ଆଚରଣକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
 
-#: kwin/kcmkwin/kwintabbox/kwintabbox.desktop:125
+#: kwin/kcmkwin/kwintabbox/kwintabbox.desktop:126
 msgctxt "X-KDE-Keywords"
 msgid ""
 "window,windows,switcher,window switcher,switching,window switching,alttab,"
@@ -5764,22 +5764,22 @@ msgctxt "Name"
 msgid "Notification"
 msgstr "ବିଜ୍ଞପ୍ତି"
 
-#: powerdevil/powerdevil.notifyrc:353
+#: powerdevil/powerdevil.notifyrc:354
 msgctxt "Comment"
 msgid "Used for standard notifications"
 msgstr "ମାନକ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ ପାଇଁ ବ୍ୟବହୃତ ହୋଇଥାଏ"
 
-#: powerdevil/powerdevil.notifyrc:428
+#: powerdevil/powerdevil.notifyrc:429
 msgctxt "Name"
 msgid "Critical notification"
 msgstr "ଗମ୍ଭୀର ବିଜ୍ଞପ୍ତି"
 
-#: powerdevil/powerdevil.notifyrc:504
+#: powerdevil/powerdevil.notifyrc:505
 msgctxt "Comment"
 msgid "Notifies a critical event"
 msgstr "ଗୋଟିଏ ଗମ୍ଭୀର ସ୍ଥିତିକୁ ଜଣାଇଥାଏ"
 
-#: powerdevil/powerdevil.notifyrc:580
+#: powerdevil/powerdevil.notifyrc:581
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Low Battery"
@@ -5787,12 +5787,12 @@ msgctxt "Name"
 msgid "Battery Low"
 msgstr "ବ୍ୟାଟେରୀ ଶକ୍ତି କମ ଅଛି"
 
-#: powerdevil/powerdevil.notifyrc:626
+#: powerdevil/powerdevil.notifyrc:627
 msgctxt "Comment"
 msgid "Your battery has reached low level"
 msgstr "ଆପଣଙ୍କର ବ୍ୟାଟେରୀ ନିମ୍ନ ସ୍ତରରେ ପହଞ୍ଚିଯାଇଛି"
 
-#: powerdevil/powerdevil.notifyrc:708
+#: powerdevil/powerdevil.notifyrc:709
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Battery at critical level"
@@ -5800,7 +5800,7 @@ msgctxt "Name"
 msgid "Battery Critical"
 msgstr "ବ୍ୟାଟେରି ଗମ୍ଭୀର ସ୍ଥିତିରେ ଅଛି"
 
-#: powerdevil/powerdevil.notifyrc:754
+#: powerdevil/powerdevil.notifyrc:755
 msgctxt "Comment"
 msgid ""
 "Your battery has reached critical level. This notification triggers a "
@@ -5808,37 +5808,37 @@ msgid ""
 "to leave that on."
 msgstr ""
 
-#: powerdevil/powerdevil.notifyrc:828
+#: powerdevil/powerdevil.notifyrc:829
 msgctxt "Name"
 msgid "Charge Complete"
 msgstr ""
 
-#: powerdevil/powerdevil.notifyrc:874
+#: powerdevil/powerdevil.notifyrc:875
 msgctxt "Comment"
 msgid "The battery is fully charged"
 msgstr ""
 
-#: powerdevil/powerdevil.notifyrc:925
+#: powerdevil/powerdevil.notifyrc:926
 msgctxt "Name"
 msgid "AC adaptor plugged in"
 msgstr "AC ଏଡ଼ପଟର ପ୍ଲଗ ହୋଇଛି"
 
-#: powerdevil/powerdevil.notifyrc:1001
+#: powerdevil/powerdevil.notifyrc:1002
 msgctxt "Comment"
 msgid "The power adaptor has been plugged in"
 msgstr "ଶକ୍ତି ଏଡ଼ପଟରକୁ ପ୍ଲଗରେ ଲଗାହୋଇଛି"
 
-#: powerdevil/powerdevil.notifyrc:1083
+#: powerdevil/powerdevil.notifyrc:1084
 msgctxt "Name"
 msgid "AC adaptor unplugged"
 msgstr "AC ଏଡ଼ପଟର ପ୍ଲଗ ହୋଇନାହିଁ"
 
-#: powerdevil/powerdevil.notifyrc:1159
+#: powerdevil/powerdevil.notifyrc:1160
 msgctxt "Comment"
 msgid "The power adaptor has been unplugged"
 msgstr "ଶକ୍ତି ଏଡ଼ପଟରଟି ପ୍ଲଗ ହୋଇନାହିଁ"
 
-#: powerdevil/powerdevil.notifyrc:1241
+#: powerdevil/powerdevil.notifyrc:1242
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Fatal Error"
@@ -5846,7 +5846,7 @@ msgctxt "Name"
 msgid "Internal Error"
 msgstr "ମାରାତ୍ମକ ତ୍ରୁଟି"
 
-#: powerdevil/powerdevil.notifyrc:1287
+#: powerdevil/powerdevil.notifyrc:1288
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "PowerDevil has triggered an internal error"
@@ -5854,17 +5854,17 @@ msgctxt "Comment"
 msgid "The KDE Power Management System has triggered an internal error"
 msgstr "PowerDevil ଗୋଟିଏ ଆଭ୍ୟନ୍ତରୀଣ ତ୍ରୁଟିକୁ ଆରମ୍ଭ କରିଛି"
 
-#: powerdevil/powerdevil.notifyrc:1347
+#: powerdevil/powerdevil.notifyrc:1348
 msgctxt "Name"
 msgid "Suspension inhibited"
 msgstr ""
 
-#: powerdevil/powerdevil.notifyrc:1417
+#: powerdevil/powerdevil.notifyrc:1418
 msgctxt "Comment"
 msgid "The suspension has been inhibited because an application requested it"
 msgstr ""
 
-#: powerdevil/powerdevil.notifyrc:1491
+#: powerdevil/powerdevil.notifyrc:1492
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Browser Identification"
@@ -5872,7 +5872,7 @@ msgctxt "Name"
 msgid "Broken battery notification"
 msgstr "ବ୍ରାଉଜର ପରିଚୟ"
 
-#: powerdevil/powerdevil.notifyrc:1547
+#: powerdevil/powerdevil.notifyrc:1548
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "PowerDevil has triggered an internal error"
