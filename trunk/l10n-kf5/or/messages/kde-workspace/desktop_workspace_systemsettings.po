@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-07-01 12:12+0000\n"
+"POT-Creation-Date: 2014-07-02 08:12+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -108,7 +108,7 @@ msgid "Customize the appearance of your desktop"
 msgstr "ବ୍ୟକ୍ତିଗତ ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବସ୍ତୁଗୁଡ଼ିକୁ ଇଚ୍ଛାରୂପଣ କରୁଅଛି"
 
 #: categories/old/settings-display.desktop:8
-#: categories/settings-hardware-display.desktop:8
+#: categories/settings-hardware-display.desktop:9
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "File Management"
@@ -117,7 +117,7 @@ msgid "Display and Monitor"
 msgstr "ଫାଇଲ ପରିଚାଳନା"
 
 #: categories/old/settings-display.desktop:70
-#: categories/settings-hardware-display.desktop:70
+#: categories/settings-hardware-display.desktop:71
 msgctxt "Comment"
 msgid "Display Settings"
 msgstr "ପ୍ରଦର୍ଶକ ସଂରଚନା"
@@ -223,7 +223,6 @@ msgid "System Administration"
 msgstr "SAM ତନ୍ତ୍ର-ପ୍ରଶାସନ"
 
 #: categories/old/settings-window-behaviour.desktop:8
-#: categories/settings-workspace-windowmanagement.desktop:9
 msgctxt "Name"
 msgid "Window Behavior"
 msgstr ""
@@ -369,6 +368,14 @@ msgstr "ୱେବ ଆଚରଣ"
 msgctxt "Name"
 msgid "Shortcuts"
 msgstr ""
+
+#: categories/settings-workspace-windowmanagement.desktop:9
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Power Management"
+msgctxt "Name"
+msgid "Window Management"
+msgstr "ଶକ୍ତି ପରିଚାଳନା"
 
 #: categories/systemsettingscategory.desktop:4
 msgctxt "Name"
