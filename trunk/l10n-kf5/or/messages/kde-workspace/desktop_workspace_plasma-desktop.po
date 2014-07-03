@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-07-02 08:12+0000\n"
+"POT-Creation-Date: 2014-07-03 08:04+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -98,19 +98,6 @@ msgstr "MS Windows 9x"
 #: applets/window-list/metadata.desktop:42
 msgctxt "Comment"
 msgid "Plasmoid to show list of opened windows."
-msgstr ""
-
-#: attica-kde/kcm/kcm_attica.desktop:13
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Desktop"
-msgctxt "Name"
-msgid "Social Desktop"
-msgstr "ଡ଼େସ୍କଟପ"
-
-#: attica-kde/kcm/kcm_attica.desktop:43
-msgctxt "Comment"
-msgid "Manage Social Desktop Providers"
 msgstr ""
 
 #: containments/desktop/package/metadata.desktop:2
@@ -962,7 +949,7 @@ msgctxt "Name"
 msgid "Plasma Search"
 msgstr ""
 
-#: kcms/runners/kcm_plasmasearch.desktop:13
+#: kcms/runners/kcm_plasmasearch.desktop:20
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure the spell checker"
@@ -970,7 +957,7 @@ msgctxt "Comment"
 msgid "Configure Search"
 msgstr "ବନାନ ଯାଞ୍ଚକାରୀକୁ ସଂରଚନା କରନ୍ତୁ"
 
-#: kcms/runners/kcm_plasmasearch.desktop:14
+#: kcms/runners/kcm_plasmasearch.desktop:28
 msgctxt "X-KDE-Keywords"
 msgid "Search, File, Baloo, Runner, krunner"
 msgstr ""
@@ -1044,12 +1031,12 @@ msgctxt "Name"
 msgid "Widget Style"
 msgstr ""
 
-#: kcms/style/style.desktop:16
+#: kcms/style/style.desktop:23
 msgctxt "Comment"
 msgid "Widget Style and Behavior"
 msgstr ""
 
-#: kcms/style/style.desktop:37
+#: kcms/style/style.desktop:44
 msgctxt "X-KDE-Keywords"
 msgid ""
 "style,styles,look,widget,icons,toolbars,text,highlight,apps,KDE applications,"
@@ -1470,6 +1457,13 @@ msgstr "ପ୍ଲାଜମା ଡ଼େସ୍କଟପ କାର୍ଯ୍ୟସ�
 msgctxt "Name"
 msgid "Panel toolbox"
 msgstr "ନେଟୱର୍କ ସାଧନ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Desktop"
+#~ msgctxt "Name"
+#~ msgid "Social Desktop"
+#~ msgstr "ଡ଼େସ୍କଟପ"
 
 #~ msgctxt "Name"
 #~ msgid "Style"
