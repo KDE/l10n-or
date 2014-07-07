@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-07-04 08:27+0000\n"
+"POT-Creation-Date: 2014-07-07 08:10+0000\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -35,160 +35,160 @@ msgstr "ସଂଯୋଗ ପାଠ୍ୟ:"
 msgid "Link URL:"
 msgstr "ସଂଯୋଗ URL:"
 
-#: findreplace/kfind.cpp:61
+#: findreplace/kfind.cpp:60
 msgid "Find Next"
 msgstr "ପରବର୍ତ୍ତୀ ଉପସ୍ଥିତିକୁ ଖୋଜନ୍ତୁ"
 
-#: findreplace/kfind.cpp:66
+#: findreplace/kfind.cpp:65
 #, kde-format
 msgid "<qt>Find next occurrence of '<b>%1</b>'?</qt>"
 msgstr "<qt>'<b>%1</b>' ର ପରବର୍ତ୍ତୀ ଘଟଣା ଖୋଜିବେ କି?</qt>"
 
-#: findreplace/kfind.cpp:625 findreplace/kfind.cpp:644
+#: findreplace/kfind.cpp:624 findreplace/kfind.cpp:643
 #, kde-format
 msgid "1 match found."
 msgid_plural "%1 matches found."
 msgstr[0] "1 ମେଳକ ମିଳିଗଲା।ିଁ"
 msgstr[1] "%1 ି ମେଗୁଡିଏଳକ ମିଗଲାିଁ।"
 
-#: findreplace/kfind.cpp:627
+#: findreplace/kfind.cpp:626
 #, kde-format
 msgid "<qt>No matches found for '<b>%1</b>'.</qt>"
 msgstr "<qt>'<b>%1</b>'ପାଇଁ କୌଣସି ମେଳକ ମିଳିଲା ନାହିଁ।</qt>"
 
-#: findreplace/kfind.cpp:646
+#: findreplace/kfind.cpp:645
 #, kde-format
 msgid "No matches found for '<b>%1</b>'."
 msgstr "'<b>%1</b>'ପାଇଁ କୌଣସି ମେଳକ ମିଳିଲା ନାହିଁ।"
 
-#: findreplace/kfind.cpp:650 findreplace/kreplace.cpp:387
+#: findreplace/kfind.cpp:649 findreplace/kreplace.cpp:387
 msgid "Beginning of document reached."
 msgstr "ତଥ୍ୟର ଆରମ୍ଭ ପହଞ୍ଚିଗଲା।"
 
-#: findreplace/kfind.cpp:652 findreplace/kreplace.cpp:389
+#: findreplace/kfind.cpp:651 findreplace/kreplace.cpp:389
 msgid "End of document reached."
 msgstr "ତଥ୍ୟର ଶେଷଭାଗ ପହଞ୍ଚିଗଲା।"
 
-#: findreplace/kfind.cpp:660
+#: findreplace/kfind.cpp:659
 msgid "Continue from the end?"
 msgstr "ଶେଷଭାଗରୁ ଚାଲୁ କରିବେକି?"
 
-#: findreplace/kfind.cpp:661
+#: findreplace/kfind.cpp:660
 msgid "Continue from the beginning?"
 msgstr "ଆରମ୍ଭରୁ ଚାଲୁ କରିବେକି?"
 
-#: findreplace/kfinddialog.cpp:50
+#: findreplace/kfinddialog.cpp:49
 msgid "Find Text"
 msgstr "ପାଠ୍ୟ ଖୋଜନ୍ତୁ"
 
-#: findreplace/kfinddialog.cpp:85
+#: findreplace/kfinddialog.cpp:84
 msgctxt "@title:group"
 msgid "Find"
 msgstr "ଖୋଜନ୍ତୁ"
 
-#: findreplace/kfinddialog.cpp:88
+#: findreplace/kfinddialog.cpp:87
 msgid "&Text to find:"
 msgstr "ଖୋଜିବା ପାଇଁ ପାଠ୍ୟ (&T):"
 
-#: findreplace/kfinddialog.cpp:92
+#: findreplace/kfinddialog.cpp:91
 msgid "Regular e&xpression"
 msgstr "ନିୟମିତ ଅଭିବ୍ୟକ୍ତି (&x)"
 
-#: findreplace/kfinddialog.cpp:93
+#: findreplace/kfinddialog.cpp:92
 msgid "&Edit..."
 msgstr "ସମ୍ପାଦନ କରନ୍ତୁ (&E)..."
 
-#: findreplace/kfinddialog.cpp:102
+#: findreplace/kfinddialog.cpp:101
 msgid "Replace With"
 msgstr "ସହିତ ବଦଳାନ୍ତୁ"
 
-#: findreplace/kfinddialog.cpp:105
+#: findreplace/kfinddialog.cpp:104
 msgid "Replace&ment text:"
 msgstr "ପ୍ରତିସ୍ଥାପନ ପାଠ୍ୟ (&m):"
 
-#: findreplace/kfinddialog.cpp:109
+#: findreplace/kfinddialog.cpp:108
 msgid "Use p&laceholders"
 msgstr "ସ୍ଥାନ ଧାରଣକାରୀକୁ ବ୍ୟବହାର କରନ୍ତୁ (&l)"
 
-#: findreplace/kfinddialog.cpp:110
+#: findreplace/kfinddialog.cpp:109
 msgid "Insert Place&holder"
 msgstr "ସ୍ଥାନ ଧାରଣକାରୀକୁ ଭର୍ତ୍ତିକରନ୍ତୁ (&h)"
 
-#: findreplace/kfinddialog.cpp:119
+#: findreplace/kfinddialog.cpp:118
 msgid "Options"
 msgstr "ବିକଳ୍ପଗୁଡିକ"
 
-#: findreplace/kfinddialog.cpp:122
+#: findreplace/kfinddialog.cpp:121
 msgid "C&ase sensitive"
 msgstr "ଅକ୍ଷର ନିର୍ଦ୍ଦିଷ୍ଟ (&a)"
 
-#: findreplace/kfinddialog.cpp:123
+#: findreplace/kfinddialog.cpp:122
 msgid "&Whole words only"
 msgstr "ସମ୍ପୂର୍ଣ୍ଣ ଶବ୍ଦଗୁଡିକ କେବଳ (&W)"
 
-#: findreplace/kfinddialog.cpp:124
+#: findreplace/kfinddialog.cpp:123
 msgid "From c&ursor"
 msgstr "ଦର୍ଶିକାରୁ (&u)"
 
-#: findreplace/kfinddialog.cpp:125
+#: findreplace/kfinddialog.cpp:124
 msgid "Find &backwards"
 msgstr "ପଛୁଆ ମାନଙ୍କୁ ଖୋଜନ୍ତୁ (&b)"
 
-#: findreplace/kfinddialog.cpp:126
+#: findreplace/kfinddialog.cpp:125
 msgid "&Selected text"
 msgstr "ବଚ୍ଛିତ ପାଠ୍ୟ (&S)"
 
-#: findreplace/kfinddialog.cpp:133
+#: findreplace/kfinddialog.cpp:132
 msgid "&Prompt on replace"
 msgstr "ବଦଳାଇବା ସମୟରେ ପଚାରନ୍ତୁ (&P)"
 
-#: findreplace/kfinddialog.cpp:200
+#: findreplace/kfinddialog.cpp:199
 msgid "&Replace"
 msgstr "ବଦଳାନ୍ତୁ (&R)"
 
-#: findreplace/kfinddialog.cpp:201
+#: findreplace/kfinddialog.cpp:200
 msgid "Start replace"
 msgstr "ବଦଳାଇବା ଆରମ୍ଭ କରନ୍ତୁ"
 
-#: findreplace/kfinddialog.cpp:202
+#: findreplace/kfinddialog.cpp:201
 msgid ""
 "<qt>If you press the <b>Replace</b> button, the text you entered above is "
 "searched for within the document and any occurrence is replaced with the "
 "replacement text.</qt>"
 msgstr ""
 
-#: findreplace/kfinddialog.cpp:206
+#: findreplace/kfinddialog.cpp:205
 msgid "&Find"
 msgstr "ଖୋଜନ୍ତୁ (&F)"
 
-#: findreplace/kfinddialog.cpp:207
+#: findreplace/kfinddialog.cpp:206
 msgid "Start searching"
 msgstr "ଖୋଜିବା ଆରମ୍ଭ କରନ୍ତୁ"
 
-#: findreplace/kfinddialog.cpp:208
+#: findreplace/kfinddialog.cpp:207
 msgid ""
 "<qt>If you press the <b>Find</b> button, the text you entered above is "
 "searched for within the document.</qt>"
 msgstr ""
 
-#: findreplace/kfinddialog.cpp:214
+#: findreplace/kfinddialog.cpp:213
 msgid ""
 "Enter a pattern to search for, or select a previous pattern from the list."
 msgstr ""
 
-#: findreplace/kfinddialog.cpp:217
+#: findreplace/kfinddialog.cpp:216
 msgid "If enabled, search for a regular expression."
 msgstr "ଯଦି ସକ୍ରିୟ ଅଛି, ଗୋଟିଏ ନିୟମିତ ଅଭିବ୍ୟକ୍ତି ଖୋଜନ୍ତୁ"
 
-#: findreplace/kfinddialog.cpp:219
+#: findreplace/kfinddialog.cpp:218
 msgid "Click here to edit your regular expression using a graphical editor."
 msgstr ""
 
-#: findreplace/kfinddialog.cpp:221
+#: findreplace/kfinddialog.cpp:220
 msgid "Enter a replacement string, or select a previous one from the list."
 msgstr ""
 
-#: findreplace/kfinddialog.cpp:223
+#: findreplace/kfinddialog.cpp:222
 msgid ""
 "<qt>If enabled, any occurrence of <code><b>\\N</b></code>, where <code><b>N</"
 "b></code> is an integer number, will be replaced with the corresponding "
@@ -197,102 +197,102 @@ msgid ""
 "in front of it, like <code><b>\\\\N</b></code>.</p></qt>"
 msgstr ""
 
-#: findreplace/kfinddialog.cpp:230
+#: findreplace/kfinddialog.cpp:229
 msgid "Click for a menu of available captures."
 msgstr "ଉପଲବ୍ଧ ଅଧିକୃତମାନଙ୍କ ତାଲିକା ପାଇଁ ଦବାନ୍ତୁ।"
 
-#: findreplace/kfinddialog.cpp:232
+#: findreplace/kfinddialog.cpp:231
 msgid "Require word boundaries in both ends of a match to succeed."
 msgstr ""
 
-#: findreplace/kfinddialog.cpp:234
+#: findreplace/kfinddialog.cpp:233
 msgid "Start searching at the current cursor location rather than at the top."
 msgstr ""
 
-#: findreplace/kfinddialog.cpp:236
+#: findreplace/kfinddialog.cpp:235
 msgid "Only search within the current selection."
 msgstr "କେବଳ ଏହି ଚୟନ ମଧ୍ଯରେ ସନ୍ଧାନ କରନ୍ତୁ।"
 
-#: findreplace/kfinddialog.cpp:238
+#: findreplace/kfinddialog.cpp:237
 msgid ""
 "Perform a case sensitive search: entering the pattern 'Joe' will not match "
 "'joe' or 'JOE', only 'Joe'."
 msgstr ""
 
-#: findreplace/kfinddialog.cpp:241
+#: findreplace/kfinddialog.cpp:240
 msgid "Search backwards."
 msgstr "ପଛୁଆମାନଙ୍କୁ ଖୋଜନ୍ତୁ।"
 
-#: findreplace/kfinddialog.cpp:243
+#: findreplace/kfinddialog.cpp:242
 msgid "Ask before replacing each match found."
 msgstr "ମିଳିଥିବା ପ୍ରତ୍ୟେକ ମେଳକକୁ ବଦଳାଇବା ପୂର୍ବରୁ ପଚାରନ୍ତୁ।"
 
-#: findreplace/kfinddialog.cpp:455
+#: findreplace/kfinddialog.cpp:454
 msgid "Any Character"
 msgstr "ଯେକୌଣସି ଅକ୍ଷର"
 
-#: findreplace/kfinddialog.cpp:456
+#: findreplace/kfinddialog.cpp:455
 msgid "Start of Line"
 msgstr "ଧାଡିର ଆରମ୍ଭ"
 
-#: findreplace/kfinddialog.cpp:457
+#: findreplace/kfinddialog.cpp:456
 msgid "End of Line"
 msgstr "ଧାଡିର ସମାପ୍ତି"
 
-#: findreplace/kfinddialog.cpp:458
+#: findreplace/kfinddialog.cpp:457
 msgid "Set of Characters"
 msgstr "ଅକ୍ଷରମାନଙ୍କର ସେଟ"
 
-#: findreplace/kfinddialog.cpp:459
+#: findreplace/kfinddialog.cpp:458
 msgid "Repeats, Zero or More Times"
 msgstr "ପୁନରାବୃତ୍ତି କରନ୍ତୁ, ଶୂନ୍ୟ କିମ୍ବା ଅଧିକ ଥର"
 
-#: findreplace/kfinddialog.cpp:460
+#: findreplace/kfinddialog.cpp:459
 msgid "Repeats, One or More Times"
 msgstr "ବାରମ୍ବାରତାଗୁଡିକ, ଥରେ ବା ଅଧିକ ଥର"
 
-#: findreplace/kfinddialog.cpp:461
+#: findreplace/kfinddialog.cpp:460
 msgid "Optional"
 msgstr "ଇଚ୍ଛାଧୀନ"
 
-#: findreplace/kfinddialog.cpp:462
+#: findreplace/kfinddialog.cpp:461
 msgid "Escape"
 msgstr "ବାହାରକୁ ଯାଆନ୍ତୁ (Escape)"
 
-#: findreplace/kfinddialog.cpp:463
+#: findreplace/kfinddialog.cpp:462
 msgid "TAB"
 msgstr "TAB"
 
-#: findreplace/kfinddialog.cpp:464
+#: findreplace/kfinddialog.cpp:463
 msgid "Newline"
 msgstr "ନୂତନ ଧାଡି"
 
-#: findreplace/kfinddialog.cpp:465
+#: findreplace/kfinddialog.cpp:464
 msgid "Carriage Return"
 msgstr ""
 
-#: findreplace/kfinddialog.cpp:466
+#: findreplace/kfinddialog.cpp:465
 msgid "White Space"
 msgstr "ଧଳା ସ୍ଥାନ"
 
-#: findreplace/kfinddialog.cpp:467
+#: findreplace/kfinddialog.cpp:466
 msgid "Digit"
 msgstr "ସଂଖ୍ୟା"
 
-#: findreplace/kfinddialog.cpp:569
+#: findreplace/kfinddialog.cpp:568
 msgid "Complete Match"
 msgstr "ମେଳନ ସମ୍ପୂର୍ଣ୍ଣ ହେଲା"
 
-#: findreplace/kfinddialog.cpp:574
+#: findreplace/kfinddialog.cpp:573
 #, kde-format
 msgid "Captured Text (%1)"
 msgstr "ପାଠ୍ୟ (%1) କୁ ଅଧିକାର କରନ୍ତୁ"
 
-#: findreplace/kfinddialog.cpp:582
+#: findreplace/kfinddialog.cpp:581
 msgid "You must enter some text to search for."
 msgstr "ଖୋଜିବା ପାଇଁ ଆପଣ କିଛି ପାଠ୍ୟ ଭରଣ କରନ୍ତୁ।"
 
-#: findreplace/kfinddialog.cpp:591
+#: findreplace/kfinddialog.cpp:590
 msgid "Invalid regular expression."
 msgstr "ଅବୈଧ ନିୟମିତ ଅଭିବ୍ୟକ୍ତି।"
 
@@ -343,23 +343,23 @@ msgctxt "@action:button Stop find & replace"
 msgid "Stop"
 msgstr "ବିରାମ କରନ୍ତୁ"
 
-#: findreplace/kreplacedialog.cpp:152
+#: findreplace/kreplacedialog.cpp:151
 #, kde-format
 msgid "Your replacement string is referencing a capture greater than '\\%1', "
 msgstr ""
 
-#: findreplace/kreplacedialog.cpp:154
+#: findreplace/kreplacedialog.cpp:153
 #, kde-format
 msgid "but your pattern only defines 1 capture."
 msgid_plural "but your pattern only defines %1 captures."
 msgstr[0] ""
 msgstr[1] ""
 
-#: findreplace/kreplacedialog.cpp:156
+#: findreplace/kreplacedialog.cpp:155
 msgid "but your pattern defines no captures."
 msgstr ""
 
-#: findreplace/kreplacedialog.cpp:157
+#: findreplace/kreplacedialog.cpp:156
 msgid ""
 "\n"
 "Please correct."
@@ -562,29 +562,29 @@ msgctxt "@action"
 msgid "Superscript"
 msgstr "ଉର୍ଦ୍ଧଲିପି"
 
-#: widgets/ktextedit.cpp:151
+#: widgets/ktextedit.cpp:150
 msgid "Nothing to spell check."
 msgstr "ବନାନ ଯାଞ୍ଚ କରିବାକୁ କିଛିନାହିଁ।"
 
-#: widgets/ktextedit.cpp:543
+#: widgets/ktextedit.cpp:542
 msgid "Check Spelling..."
 msgstr "ବନାନ ଯାଞ୍ଚକରନ୍ତୁ..."
 
-#: widgets/ktextedit.cpp:547
+#: widgets/ktextedit.cpp:546
 msgid "Auto Spell Check"
 msgstr "ସ୍ୱୟଂ ବନାନ ଯାଞ୍ଚ"
 
-#: widgets/ktextedit.cpp:552
+#: widgets/ktextedit.cpp:551
 msgid "Allow Tabulations"
 msgstr "ସାରଣୀକରଣକୁ ଅନୁମତି ଦିଅନ୍ତୁ"
 
-#: widgets/ktextedit.cpp:580
+#: widgets/ktextedit.cpp:579
 #, fuzzy
 #| msgid "Speak custom text"
 msgid "Speak Text"
 msgstr "ଇଚ୍ଛାରୂପୀ ପାଠ୍ୟ କୁହନ୍ତୁ"
 
-#: widgets/ktextedit.cpp:594
+#: widgets/ktextedit.cpp:593
 msgid "Starting Jovie Text-to-Speech Service Failed"
 msgstr ""
 
