@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_folderview\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-07-25 09:44+0000\n"
+"POT-Creation-Date: 2014-07-30 08:02+0000\n"
 "PO-Revision-Date: 2009-01-02 11:50+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -19,6 +19,19 @@ msgstr ""
 "\n"
 "\n"
 "X-Generator: KBabel 1.11.4\n"
+
+#: package/contents/config/config.qml:26
+#: package/contents/ui/ConfigLocation.qml:69
+msgid "Location"
+msgstr ""
+
+#: package/contents/config/config.qml:32
+msgid "Icons"
+msgstr ""
+
+#: package/contents/config/config.qml:38
+msgid "Filter"
+msgstr ""
 
 #: package/contents/ui/ConfigFilter.qml:54
 msgid "Show All Files"
@@ -158,10 +171,6 @@ msgstr ""
 
 #: package/contents/ui/ConfigIcons.qml:216
 msgid "More Preview Options..."
-msgstr ""
-
-#: package/contents/ui/ConfigLocation.qml:69
-msgid "Location"
 msgstr ""
 
 #: package/contents/ui/ConfigLocation.qml:87
