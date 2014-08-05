@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_wallpaper_image\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-08-01 08:48+0000\n"
+"POT-Creation-Date: 2014-08-05 10:27+0000\n"
 "PO-Revision-Date: 2009-01-02 11:50+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -20,16 +20,20 @@ msgstr ""
 "\n"
 "\n"
 
-#: backgroundlistmodel.cpp:360
+#: backgroundlistmodel.cpp:356
 msgctxt "Unknown Author"
 msgid "Unknown"
 msgstr ""
 
-#: image.cpp:521
+#: image.cpp:254
+msgid "Directory with the wallpaper to show slides from"
+msgstr ""
+
+#: image.cpp:519
 msgid "Open Image"
 msgstr ""
 
-#: image.cpp:523
+#: image.cpp:521
 msgid "Image Files (*.png *.jpg *.jpeg *.bmp *.svg *.svgz *.xcf)"
 msgstr ""
 
