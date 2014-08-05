@@ -1,0 +1,334 @@
+# translation of kcmcomponentchooser.po to Oriya
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Manoj Kumar Giri <mgiri@redhat.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmcomponentchooser\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2014-07-25 09:44+0000\n"
+"PO-Revision-Date: 2009-01-05 16:52+0530\n"
+"Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
+"Language-Team: Oriya <oriya-it@googlegroups.com>\n"
+"Language: or\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"\n"
+"\n"
+"\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ମନୋଜ କୁମାର ଗିରି"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "mgiri@redhat.com"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: browserconfig_ui.ui:12
+msgid "<qt>Open <b>http</b> and <b>https</b> URLs</qt>"
+msgstr "<qt>ଖୋଲନ୍ତୁ <b>http</b> ଏବଂ <b>https</b> URLs</qt>"
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioKIO)
+#: browserconfig_ui.ui:19
+msgid "in an application based on the contents of the URL"
+msgstr "URL ବିଷୟବସ୍ତୁ ଉପରେ ଆଧାରିତ ଗୋଟିଏ ପ୍ରୟୋଗରେ"
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioExec)
+#: browserconfig_ui.ui:29
+msgid "in the following browser:"
+msgstr "ନିମ୍ନଲିଖିତ ବ୍ରାଉଜରରେ:"
+
+#. i18n: ectx: property (text), widget (QToolButton, btnSelectBrowser)
+#. i18n: ectx: property (text), widget (QToolButton, btnSelectEmail)
+#. i18n: ectx: property (text), widget (QToolButton, btnSelectFileManager)
+#. i18n: ectx: property (text), widget (QToolButton, btnSelectTerminal)
+#: browserconfig_ui.ui:64 emailclientconfig_ui.ui:69
+#: filemanagerconfig_ui.ui:41 terminalemulatorconfig_ui.ui:60
+msgid "..."
+msgstr "..."
+
+#: componentchooser.cpp:139
+msgid "Unknown"
+msgstr "ଅଜଣା"
+
+#: componentchooser.cpp:155
+msgid ""
+"<qt>You changed the default component of your choice, do want to save that "
+"change now ?</qt>"
+msgstr ""
+"<qt>ଆପଣ ନିଜ ପସନ୍ଦରେ ପୂର୍ବନିର୍ଦ୍ଧାରିତ ଉପାଦାନକୁ ପରିବର୍ତ୍ତନ କରିଛନ୍ତି, ସେହି ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ସଂରକ୍ଷଣ "
+"କରିବାକୁ ଚାହୁଁଛନ୍ତି କି ?</qt>"
+
+#: componentchooser.cpp:159
+msgid "No description available"
+msgstr "କୌଣସି ବର୍ଣ୍ଣନା ଉପଲବ୍ଧ ନାହିଁ"
+
+#: componentchooser.cpp:170 componentchooser.cpp:175
+#, kde-format
+msgid ""
+"Choose from the list below which component should be used by default for the "
+"%1 service."
+msgstr ""
+"%1 ସର୍ଭିସ ପାଇଁ କେଉଁ ଉପାଦାନଗୁଡ଼ିକୁ ପୂର୍ବନିର୍ଦ୍ଧାରିତ ଭାବେ ବ୍ୟବହାର କରିବା ଉଚିତ ତାହା ନିମ୍ନଲିଖିତ ତାଲିକାରୁ "
+"ବାଛନ୍ତୁ।"
+
+#. i18n: ectx: property (whatsThis), widget (QGroupBox, GroupBox1)
+#: componentchooser_ui.ui:26
+msgid ""
+"Here you can change the component program. Components are programs that "
+"handle basic tasks, like the terminal emulator, the text editor and the "
+"email client. Different KDE applications sometimes need to invoke a console "
+"emulator, send a mail or display some text. To do so consistently, these "
+"applications always call the same components. You can choose here which "
+"programs these components are."
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, GroupBox1)
+#: componentchooser_ui.ui:29
+msgid "Default Component"
+msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ ଉପାଦାନ"
+
+#. i18n: ectx: property (whatsThis), widget (KListWidget, ServiceChooser)
+#: componentchooser_ui.ui:44
+msgid ""
+"<qt>\n"
+"<p>This list shows the configurable component types. Click the component you "
+"want to configure.</p>\n"
+"<p>In this dialog you can change KDE default components. Components are "
+"programs that handle basic tasks, like the terminal emulator, the text "
+"editor and the email client. Different KDE applications sometimes need to "
+"invoke a console emulator, send a mail or display some text. To do so "
+"consistently, these applications always call the same components. Here you "
+"can select which programs these components are.</p>\n"
+"</qt>"
+msgstr ""
+
+#: componentchooserbrowser.cpp:105
+msgid "Select preferred Web browser application:"
+msgstr "ପସନ୍ଦ ଯୋଗ୍ୟ ୱେବ ବ୍ରାଉଜର ପ୍ରୟୋଗକୁ ବାଛନ୍ତୁ:"
+
+#: componentchooseremail.cpp:83
+msgid "Select preferred email client:"
+msgstr "ପସନ୍ଦ ଯୋଗ୍ୟ ଇମେଲ କ୍ଲାଏଣ୍ଟକୁ ବାଛନ୍ତୁ:"
+
+#: componentchooserterminal.cpp:101
+msgid "Select preferred terminal application:"
+msgstr "ପସନ୍ଦ ଯୋଗ୍ୟ ଟର୍ମିନାଲ ପ୍ରୟୋଗକୁ ବାଛନ୍ତୁ:"
+
+#: componentchooserwm.cpp:92
+msgid "The new window manager will be used when KDE is started the next time."
+msgstr "ନୂତନ ୱିଣ୍ଡୋ ପରିଚାଳକକୁ ବ୍ୟବହାର କରାଯିବ ଯେତେବେଳେ KDE ପରବର୍ତ୍ତି ସମୟରେ ଆରମ୍ଭ ହେବ।"
+
+#: componentchooserwm.cpp:93 componentchooserwm.cpp:146
+msgid "Window Manager Change"
+msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ ପରିବର୍ତ୍ତନ"
+
+#: componentchooserwm.cpp:106
+msgid ""
+"A new window manager is running.\n"
+"It is still recommended to restart this KDE session to make sure all running "
+"applications adjust for this change."
+msgstr ""
+"ଗୋଟିଏ ନୂତନ ୱିଣ୍ଡୋ ପରିଚାଳକ ଚାଲୁଅଛି।\n"
+"KDE ଅଧିବେଶନକୁ ପ୍ରାରମ୍ଭ କରିବା ପାଇଁ ଏହା ଏପର୍ଯ୍ୟନ୍ତ ପରାମର୍ଶିତ ଯେ ସମସ୍ତ ଚାଲୁଥିବା ପ୍ରୟୋଗ ଏହି "
+"ପରିବର୍ତ୍ତନ ସହିତ ଖାପ ଖାଉଛି କି ନାହିଁ ନିଶ୍ଚିତ କରନ୍ତୁ।"
+
+#: componentchooserwm.cpp:109
+msgid "Window Manager Replaced"
+msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ ପରିବର୍ତ୍ତିତ"
+
+#: componentchooserwm.cpp:145
+msgid ""
+"Your running window manager will be now replaced with the configured one."
+msgstr ""
+
+#: componentchooserwm.cpp:154
+msgid "Config Window Manager Change"
+msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ ପରିବର୍ତ୍ତନକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
+
+#: componentchooserwm.cpp:156
+msgid "&Accept Change"
+msgstr "ପରିବର୍ତ୍ତନକୁ ଗ୍ରହଣ କରନ୍ତୁ (&A)"
+
+#: componentchooserwm.cpp:157
+msgid "&Revert to Previous"
+msgstr "ପୂର୍ବକୁ ପ୍ରତ୍ୟାବୃତ କରନ୍ତୁ (&R)"
+
+#: componentchooserwm.cpp:159
+msgid ""
+"The configured window manager is being launched.\n"
+"Please check it has started properly and confirm the change.\n"
+"The launch will be automatically reverted in 20 seconds."
+msgstr ""
+
+#: componentchooserwm.cpp:174
+msgid ""
+"The running window manager has been reverted to the default KDE window "
+"manager KWin."
+msgstr "ଚାଲୁଥିବା ୱିଣ୍ଡୋ ପରିଚାଳକ ପୂର୍ବନିର୍ଦ୍ଧାରିତ KDE ୱିଣ୍ଡୋ ପରିଚାଳକ KWin କୁ ପ୍ରତ୍ୟାବୃତ ହୋଇଛି।"
+
+#: componentchooserwm.cpp:181
+msgid ""
+"The new window manager has failed to start.\n"
+"The running window manager has been reverted to the default KDE window "
+"manager KWin."
+msgstr ""
+"ନୂତନ ୱିଣ୍ଡୋ ପରିଚାଳକ ଆରମ୍ଭ ହେବାରେ ବିଫଳ।\n"
+"ଚାଲୁଥିବା ୱିଣ୍ଡୋ ପରିଚାଳକ ପୂର୍ବନିର୍ଦ୍ଧାରିତ KDE ୱିଣ୍ଡୋ ପରିଚାଳକ KWin କୁ ପ୍ରତ୍ୟାବୃତ ହୋଇଛି।"
+
+#: componentchooserwm.cpp:303
+msgid "Running the configuration tool failed"
+msgstr "ବିନ୍ୟାସିତ ଉପକରଣକୁ ଚଲାଇବାରେ ବିଫଳ"
+
+#. i18n: ectx: property (whatsThis), widget (QRadioButton, kmailCB)
+#: emailclientconfig_ui.ui:12
+msgid "Kmail is the standard Mail program for the KDE desktop."
+msgstr "Kmail KDE ଡ଼େସ୍କଟପ ପାଇଁ ଗୋଟିଏ ମାନକ ମେଲ ପ୍ରଗ୍ରାମ।"
+
+#. i18n: ectx: property (text), widget (QRadioButton, kmailCB)
+#: emailclientconfig_ui.ui:15
+msgid "&Use KMail as preferred email client"
+msgstr "KMailକୁ ପସନ୍ଦ ଯୋଗ୍ୟ ଇମେଲ କ୍ଲାଏଣ୍ଟ ପରି ବ୍ୟବହାର କରନ୍ତୁ (&U)"
+
+#. i18n: ectx: property (whatsThis), widget (QRadioButton, otherCB)
+#: emailclientconfig_ui.ui:22
+msgid "Select this option if you want to use any other mail program."
+msgstr "ଏହି ବିକଳ୍ପକୁ ବାଛନ୍ତୁ ଯଦି ଆପଣ ଅନ୍ୟ କୌଣସି ମେଲ ପ୍ରଗ୍ରାମକୁ ବ୍ୟବହାର କରିବାକୁ ଚାହୁଁଛନ୍ତି।"
+
+#. i18n: ectx: property (text), widget (QRadioButton, otherCB)
+#: emailclientconfig_ui.ui:25
+msgid "Use a different &email client:"
+msgstr "ଭିନ୍ନ ଏକ ଇମେଲ କ୍ଲାଏଣ୍ଟକୁ ବ୍ୟବହାର କରନ୍ତୁ (&e):"
+
+#. i18n: ectx: property (toolTip), widget (KLineEdit, txtEMailClient)
+#: emailclientconfig_ui.ui:53
+#, no-c-format
+msgid ""
+"<ul> <li>%t: Recipient's address</li> <li>%s: Subject</li> <li>%c: Carbon "
+"Copy (CC)</li> <li>%b: Blind Carbon Copy (BCC)</li> <li>%B: Template body "
+"text</li> <li>%A: Attachment </li> <li>%u: Full mailto: URL </li></ul>"
+msgstr ""
+"<ul> <li>%t: ପ୍ରାପ୍ତକାରୀଙ୍କ ଠିକଣା</li> <li>%s: ବସ୍ତୁ</li> <li>%c: କାର୍ବନ କପି (CC)</"
+"li> <li>%b: Blind Carbon Copy (BCC)</li> <li>%B: ଢ଼ାଞ୍ଚା ପାଠ୍ୟ </li> <li>%A: "
+"ସଂଲଗ୍ନ </li> <li>%u: ସମ୍ପୂର୍ଣ୍ଣ mailto: URL </li></ul>"
+
+#. i18n: ectx: property (whatsThis), widget (KLineEdit, txtEMailClient)
+#: emailclientconfig_ui.ui:56
+#, no-c-format
+msgid ""
+"Press this button to select your favorite email client. Please note that the "
+"file you select has to have the executable attribute set in order to be "
+"accepted.<br/> You can also use several placeholders which will be replaced "
+"with the actual values when the email client is called:<ul> <li>%t: "
+"Recipient's address</li> <li>%s: Subject</li> <li>%c: Carbon Copy (CC)</li> "
+"<li>%b: Blind Carbon Copy (BCC)</li> <li>%B: Template body text</li> <li>%A: "
+"Attachment </li> </ul>"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QToolButton, btnSelectEmail)
+#: emailclientconfig_ui.ui:66
+msgid "Click here to browse for the mail program file."
+msgstr "ମେଲ ପ୍ରଗ୍ରାମ ଫାଇଲକୁ ବ୍ରାଉଜ କରିବା ପାଇଁ ଏଠାରେ କ୍ଲିକ କରନ୍ତୁ।"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, chkRunTerminal)
+#: emailclientconfig_ui.ui:99
+msgid ""
+"Activate this option if you want the selected email client to be executed in "
+"a terminal (e.g. <em>Konsole</em>)."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, chkRunTerminal)
+#: emailclientconfig_ui.ui:102
+msgid "&Run in terminal"
+msgstr "ଟର୍ମିନାଲରେ ଚଲାନ୍ତୁ (&R)"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: filemanagerconfig_ui.ui:12
+#, fuzzy
+#| msgid "Browse directories using the following file manager "
+msgid "Browse directories using the following file manager:"
+msgstr "ନିମ୍ନଲିଖିତ ଫାଇଲ ପରିଚାଳକକୁ ବ୍ୟବହାର କରି ଡ଼ିରେକ୍ଟୋରୀ ବ୍ରାଉଜ କରନ୍ତୁ"
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioExec)
+#: filemanagerconfig_ui.ui:24
+msgid "Other: click Add... in the dialog shown here:"
+msgstr ""
+
+#: kcm_componentchooser.cpp:44
+msgid "Component Chooser"
+msgstr "ଉପାଦାନ ଚୟନକର୍ତ୍ତା"
+
+#: kcm_componentchooser.cpp:46
+msgid "(c), 2002 Joseph Wenninger"
+msgstr "(c), 2002 Joseph Wenninger"
+
+#: kcm_componentchooser.cpp:48
+msgid "Joseph Wenninger"
+msgstr "Joseph Wenninger"
+
+#: ktimerdialog.cpp:164
+#, kde-format
+msgid "1 second remaining:"
+msgid_plural "%1 seconds remaining:"
+msgstr[0] "1 ସେକଣ୍ଡ ବଳିଅଛି:"
+msgstr[1] "%1 ସେକଣ୍ଡ ବଳିଅଛି:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, terminalCB)
+#: terminalemulatorconfig_ui.ui:12
+msgid "&Use Konsole as terminal application"
+msgstr "କୋନସୋଲକୁ ଟର୍ମିନାଲ ପ୍ରୟୋଗ ଭାବରେ ବ୍ୟବହାର କରନ୍ତୁ (&U)"
+
+#. i18n: ectx: property (text), widget (QRadioButton, otherCB)
+#: terminalemulatorconfig_ui.ui:19
+msgid "Use a different &terminal program:"
+msgstr "ଭିନ୍ନ ଏକ ଟର୍ମିନାଲ ପ୍ରଗ୍ରାମ ବ୍ୟବହାର କରନ୍ତୁ (&t):"
+
+#. i18n: ectx: property (whatsThis), widget (KLineEdit, terminalLE)
+#: terminalemulatorconfig_ui.ui:47
+msgid ""
+"Press this button to select your favorite terminal client. Please note that "
+"the file you select has to have the executable attribute set in order to be "
+"accepted.<br/> Also note that some programs that utilize Terminal Emulator "
+"will not work if you add command line arguments (Example: konsole -ls)."
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QToolButton, btnSelectTerminal)
+#: terminalemulatorconfig_ui.ui:57
+msgid "Click here to browse for terminal program."
+msgstr "ଟର୍ମିନାଲ ପ୍ରଗ୍ରାମ ବ୍ରାଉଜ କରିବା ପାଇଁ ଏଠାରେ କ୍ଲିକ କରନ୍ତୁ।"
+
+#. i18n: ectx: property (text), widget (QRadioButton, kwinRB)
+#: wmconfig_ui.ui:12
+msgid "&Use the default KDE window manager (KWin)"
+msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ KDE ୱିଣ୍ଡୋ ପରିଚାଳକ (KWin)କୁ ବ୍ୟବହାର କରନ୍ତୁ (&U)"
+
+#. i18n: ectx: property (text), widget (QRadioButton, differentRB)
+#: wmconfig_ui.ui:19
+msgid "Use a different &window manager:"
+msgstr "ଭିନ୍ନ ଏକ ୱିଣ୍ଡୋ ପରିଚାଳକକୁ ବ୍ୟବହାର କରନ୍ତୁ (&w):"
+
+#. i18n: ectx: property (text), widget (KPushButton, configureButton)
+#: wmconfig_ui.ui:60
+msgid "Configure"
+msgstr "ବିନ୍ୟାସ କରନ୍ତୁ"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: wmconfig_ui.ui:87
+msgid ""
+"Note: Most window managers have their own configuration and do not follow "
+"KDE settings."
+msgstr ""
+"ମନେରଖନ୍ତୁ: ଅଧିକାଂଶ ୱିଣ୍ଡୋ ପରିଚାଳକମାନଙ୍କର ନିଜର ସଂରଚନା ଥାଏ ଏବଂ KDE ବିନ୍ୟାସକୁ ଅନୁସରଣ "
+"କରିନଥାନ୍ତି।"
+
+#~ msgid "kcmcomponentchooser"
+#~ msgstr "kcmcomponentchooser"
+
+#~ msgid "Component Description"
+#~ msgstr "ଉପାଦାନ ବର୍ଣ୍ଣନା"
