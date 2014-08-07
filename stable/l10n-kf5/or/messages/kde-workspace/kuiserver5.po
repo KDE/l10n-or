@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kuiserver\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-08-05 10:27+0000\n"
+"POT-Creation-Date: 2014-08-07 08:45+0000\n"
 "PO-Revision-Date: 2009-01-02 11:49+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -20,124 +20,64 @@ msgstr ""
 "\n"
 "X-Generator: KBabel 1.11.4\n"
 
-#. i18n: ectx: property (title), widget (QGroupBox, groupFinishedJobs)
-#: configdialog.ui:31
-msgid "Finished Jobs"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QRadioButton, kcfg_radioMove)
-#: configdialog.ui:43
-msgid "Move them to a different list"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QRadioButton, kcfg_radioRemove)
-#: configdialog.ui:50
-msgid "Remove them"
-msgstr ""
-
-#. i18n: ectx: property (title), widget (QGroupBox, groupAppearance)
-#: configdialog.ui:60
-msgid "Appearance"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QRadioButton, kcfg_radioList)
-#: configdialog.ui:72
-msgid "Show all jobs in a list"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QRadioButton, kcfg_radioTree)
-#: configdialog.ui:79
-msgid "Show all jobs in a tree"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QCheckBox, kcfg_checkShowSeparateWindows)
-#: configdialog.ui:86
-msgid "Show separate windows"
-msgstr ""
-
-#: jobview.cpp:123 jobview.cpp:151
+#: jobview.cpp:124 jobview.cpp:152
 #, kde-format
 msgid "%1 file"
 msgid_plural "%1 files"
 msgstr[0] ""
 msgstr[1] ""
 
-#: jobview.cpp:126 jobview.cpp:154
+#: jobview.cpp:127 jobview.cpp:155
 #, kde-format
 msgid "%1 folder"
 msgid_plural "%1 folders"
 msgstr[0] ""
 msgstr[1] ""
 
-#. i18n: ectx: label, entry, group (Configuration)
-#: kuiserversettings.kcfg:8
-msgid "Move them to a different list."
-msgstr ""
-
-#. i18n: ectx: label, entry, group (Configuration)
-#: kuiserversettings.kcfg:12
-msgid "Remove them."
-msgstr ""
-
-#. i18n: ectx: label, entry, group (Configuration)
-#: kuiserversettings.kcfg:16
-msgid "Show all jobs in a list."
-msgstr ""
-
-#. i18n: ectx: label, entry, group (Configuration)
-#: kuiserversettings.kcfg:20
-msgid "Show all jobs in a tree."
-msgstr ""
-
-#. i18n: ectx: label, entry, group (Configuration)
-#: kuiserversettings.kcfg:24
-msgid "Show separate windows."
-msgstr ""
-
-#: progresslistdelegate.cpp:145
+#: progresslistdelegate.cpp:148
 #, kde-format
 msgid "%1 of %2 processed at %3/s"
 msgstr ""
 
-#: progresslistdelegate.cpp:147
+#: progresslistdelegate.cpp:150
 #, kde-format
 msgid "%1 of %2 processed"
 msgstr ""
 
-#: progresslistdelegate.cpp:149
+#: progresslistdelegate.cpp:152
 #, kde-format
 msgid "%1 processed at %2/s"
 msgstr ""
 
-#: progresslistdelegate.cpp:151
+#: progresslistdelegate.cpp:154
 #, kde-format
 msgid "%1 processed"
 msgstr ""
 
-#: progresslistdelegate.cpp:240
+#: progresslistdelegate.cpp:243
 msgid "Clear"
 msgstr ""
 
-#: progresslistdelegate.cpp:268
+#: progresslistdelegate.cpp:271
 msgid "Cancel"
 msgstr ""
 
-#: progresslistdelegate.cpp:287
+#: progresslistdelegate.cpp:290
 msgid "Pause"
 msgstr ""
 
-#: progresslistdelegate.cpp:291
+#: progresslistdelegate.cpp:294
 msgid "Resume"
 msgstr ""
 
-#: uiserver.cpp:46
+#: uiserver.cpp:50
 msgid "Configure..."
 msgstr ""
 
-#: uiserver.cpp:82
+#: uiserver.cpp:86
 msgid "List of running file transfers/jobs (kuiserver)"
 msgstr ""
 
-#: uiserver.cpp:128
+#: uiserver.cpp:132
 msgid "Behavior"
 msgstr ""
