@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-08-07 07:57+0000\n"
+"POT-Creation-Date: 2014-08-08 08:32+0000\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -663,7 +663,8 @@ msgctxt ""
 msgid "Hold %1, then push %2"
 msgstr "%1 କୁ ଧରନ୍ତୁ, ତାପରେ %2 କୁ ଠେଲନ୍ତୁ"
 
-#: khelpmenu.cpp:169
+#. i18n: ectx: Menu (help)
+#: khelpmenu.cpp:169 ui_standards.rc:177
 msgid "&Help"
 msgstr "ସହାୟତା (&H)"
 
@@ -932,6 +933,61 @@ msgstr "ମୂଦ୍ରଣ କରନ୍ତୁ"
 msgid "Reset to Defaults"
 msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ ଭାବରେ ପୁନର୍ବିନ୍ୟାସ କରନ୍ତୁ"
 
+#. i18n: ectx: property (whatsThis), widget (KTreeWidgetSearchLineWidget, searchFilter)
+#: kshortcutsdialog.ui:16
+msgid ""
+"Search interactively for shortcut names (e.g. Copy) or combination of keys "
+"(e.g. Ctrl+C) by typing them here."
+msgstr ""
+"ନାମଗୁଡିକର ସଂକ୍ଷିପ୍ତପଥ ପାଇଁ ପାରସ୍ପରିକ କ୍ରିୟାକ୍ଷମ ଭାବେ ଖୋଜନ୍ତୁ (e.g. ନକଲ କରନ୍ତୁ) କିମ୍ୱା କି ଗୁଡିକର "
+"ସଂଯୋଗ (e.g. Ctrl+C) ସେମାନଙ୍କୁ ଏଠାରେ ଟାଇପ କରିବା ଦ୍ୱାରା।"
+
+#. i18n: ectx: property (whatsThis), widget (QTreeWidget, list)
+#: kshortcutsdialog.ui:23
+msgid ""
+"Here you can see a list of key bindings, i.e. associations between actions "
+"(e.g. 'Copy') shown in the left column and keys or combination of keys (e.g. "
+"Ctrl+V) shown in the right column."
+msgstr ""
+"ଏଠାରେ ଆପଣ କି ବନ୍ଧନଗୁଡିକର ଗୋଟିଏ ତାଲିକା ଦେଖିପାରିବେ, ଯେପରିକି ବାମ ସ୍ତମ୍ଭ ଏବଂ କିରେ ଦର୍ଶାଇଥିବା "
+"କାମଗୁଡିକ ମଧ୍ଯରେ ସାହଚର୍ଯ୍ୟ (ଯେପରିକି 'ନକଲ କରନ୍ତୁ') କିମ୍ୱା ଡାହାଣ ସ୍ତମ୍ଭରେ ଦର୍ଶାଇଥିବା କିଗୁଡିକର "
+"ସଂଯୋଗ (ଯେପରିକି Ctrl+V)।"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, list)
+#: kshortcutsdialog.ui:33
+msgid "Action"
+msgstr "କାମ"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, list)
+#: kshortcutsdialog.ui:38
+msgid "Shortcut"
+msgstr "ସଂକ୍ଷିପ୍ତ ପଥ"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, list)
+#: kshortcutsdialog.ui:43
+msgid "Alternate"
+msgstr "ବିକଳ୍ପ"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, list)
+#: kshortcutsdialog.ui:48
+msgid "Global"
+msgstr "ସାମଗ୍ରିକ"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, list)
+#: kshortcutsdialog.ui:53
+msgid "Global Alternate"
+msgstr "ସାମଗ୍ରିକ ବିକଳ୍ପ"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, list)
+#: kshortcutsdialog.ui:58
+msgid "Mouse Button Gesture"
+msgstr "ମାଉସ ବଟନ ହାବଭାବ"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, list)
+#: kshortcutsdialog.ui:63
+msgid "Mouse Shape Gesture"
+msgstr "ମାଉସ ଆକାର ହାବଭାବ"
+
 #: kshortcutseditor.cpp:614 kshortcutseditor.cpp:632
 msgid "Key Conflict"
 msgstr "କି ଦ୍ୱନ୍ଦ"
@@ -956,11 +1012,13 @@ msgctxt "header for an applications shortcut list"
 msgid "Shortcuts for %1"
 msgstr "%1 ପାଇଁ ସଂକ୍ଷିପ୍ତ ପଥ"
 
-#: kshortcutseditor.cpp:698
+#. i18n: ectx: property (text), widget (QLabel, priLabel)
+#: kshortcutseditor.cpp:698 kshortcutwidget.ui:22
 msgid "Main:"
 msgstr "ମୁଖ୍ୟ:"
 
-#: kshortcutseditor.cpp:699
+#. i18n: ectx: property (text), widget (QLabel, altLabel)
+#: kshortcutseditor.cpp:699 kshortcutwidget.ui:52
 msgid "Alternate:"
 msgstr "ବିକଳ୍ପ:"
 
@@ -1164,75 +1222,58 @@ msgstr "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ"
 msgid "No text"
 msgstr "ପାଠ୍ୟ ନାହିଁ"
 
-#~ msgid ""
-#~ "Search interactively for shortcut names (e.g. Copy) or combination of "
-#~ "keys (e.g. Ctrl+C) by typing them here."
-#~ msgstr ""
-#~ "ନାମଗୁଡିକର ସଂକ୍ଷିପ୍ତପଥ ପାଇଁ ପାରସ୍ପରିକ କ୍ରିୟାକ୍ଷମ ଭାବେ ଖୋଜନ୍ତୁ (e.g. ନକଲ କରନ୍ତୁ) କିମ୍ୱା କି "
-#~ "ଗୁଡିକର ସଂଯୋଗ (e.g. Ctrl+C) ସେମାନଙ୍କୁ ଏଠାରେ ଟାଇପ କରିବା ଦ୍ୱାରା।"
+#. i18n: ectx: Menu (file)
+#: ui_standards.rc:5
+msgid "&File"
+msgstr "ଫାଇଲ (&F)"
 
-#~ msgid ""
-#~ "Here you can see a list of key bindings, i.e. associations between "
-#~ "actions (e.g. 'Copy') shown in the left column and keys or combination of "
-#~ "keys (e.g. Ctrl+V) shown in the right column."
-#~ msgstr ""
-#~ "ଏଠାରେ ଆପଣ କି ବନ୍ଧନଗୁଡିକର ଗୋଟିଏ ତାଲିକା ଦେଖିପାରିବେ, ଯେପରିକି ବାମ ସ୍ତମ୍ଭ ଏବଂ କିରେ ଦର୍ଶାଇଥିବା "
-#~ "କାମଗୁଡିକ ମଧ୍ଯରେ ସାହଚର୍ଯ୍ୟ (ଯେପରିକି 'ନକଲ କରନ୍ତୁ') କିମ୍ୱା ଡାହାଣ ସ୍ତମ୍ଭରେ ଦର୍ଶାଇଥିବା କିଗୁଡିକର "
-#~ "ସଂଯୋଗ (ଯେପରିକି Ctrl+V)।"
+#. i18n: ectx: Menu (game)
+#: ui_standards.rc:34
+msgid "&Game"
+msgstr "ଖେଳ (&G)"
 
-#~ msgid "Action"
-#~ msgstr "କାମ"
+#. i18n: ectx: Menu (edit)
+#: ui_standards.rc:61
+msgid "&Edit"
+msgstr "ସମ୍ପାଦନ କରନ୍ତୁ (&E)"
 
-#~ msgid "Shortcut"
-#~ msgstr "ସଂକ୍ଷିପ୍ତ ପଥ"
+#. i18n: ectx: Menu (move)
+#: ui_standards.rc:84
+msgctxt "@title:menu Game move"
+msgid "&Move"
+msgstr "ଗତି କରନ୍ତୁ (&M)"
 
-#~ msgid "Alternate"
-#~ msgstr "ବିକଳ୍ପ"
+#. i18n: ectx: Menu (view)
+#: ui_standards.rc:101
+msgid "&View"
+msgstr "ଦୃଶ୍ୟ (&V)"
 
-#~ msgid "Global"
-#~ msgstr "ସାମଗ୍ରିକ"
+#. i18n: ectx: Menu (go)
+#: ui_standards.rc:117
+msgid "&Go"
+msgstr "ଯାଆନ୍ତୁ (&G)"
 
-#~ msgid "Global Alternate"
-#~ msgstr "ସାମଗ୍ରିକ ବିକଳ୍ପ"
-
-#~ msgid "Mouse Button Gesture"
-#~ msgstr "ମାଉସ ବଟନ ହାବଭାବ"
-
-#~ msgid "Mouse Shape Gesture"
-#~ msgstr "ମାଉସ ଆକାର ହାବଭାବ"
-
-#~ msgid "&File"
-#~ msgstr "ଫାଇଲ (&F)"
-
-#~ msgid "&Game"
-#~ msgstr "ଖେଳ (&G)"
-
-#~ msgid "&Edit"
-#~ msgstr "ସମ୍ପାଦନ କରନ୍ତୁ (&E)"
-
-#~ msgctxt "@title:menu Game move"
-#~ msgid "&Move"
-#~ msgstr "ଗତି କରନ୍ତୁ (&M)"
-
-#~ msgid "&View"
-#~ msgstr "ଦୃଶ୍ୟ (&V)"
-
-#~ msgid "&Go"
-#~ msgstr "ଯାଆନ୍ତୁ (&G)"
-
+#. i18n: ectx: Menu (bookmarks)
+#: ui_standards.rc:138
 #, fuzzy
-#~| msgid "&Edit Bookmarks"
-#~ msgid "&Bookmarks"
-#~ msgstr "ଚିହ୍ନିତ ସ୍ଥାନଗୁଡିକୁ ସମ୍ପାଦନ କରନ୍ତୁ (&E)"
+#| msgid "&Edit Bookmarks"
+msgid "&Bookmarks"
+msgstr "ଚିହ୍ନିତ ସ୍ଥାନଗୁଡିକୁ ସମ୍ପାଦନ କରନ୍ତୁ (&E)"
 
-#~ msgid "&Tools"
-#~ msgstr "ସାଧନ (&T)"
+#. i18n: ectx: Menu (tools)
+#: ui_standards.rc:144
+msgid "&Tools"
+msgstr "ସାଧନ (&T)"
 
-#~ msgid "&Settings"
-#~ msgstr "ବିନ୍ୟାସ (&S)"
+#. i18n: ectx: Menu (settings)
+#: ui_standards.rc:148
+msgid "&Settings"
+msgstr "ବିନ୍ୟାସ (&S)"
 
-#~ msgid "Main Toolbar"
-#~ msgstr "ମୁଖ୍ୟ ସାଧନପଟି"
+#. i18n: ectx: ToolBar (mainToolBar)
+#: ui_standards.rc:194
+msgid "Main Toolbar"
+msgstr "ମୁଖ୍ୟ ସାଧନପଟି"
 
 #~ msgid "Name"
 #~ msgstr "ନାମ"

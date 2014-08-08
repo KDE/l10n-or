@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-08-07 07:59+0000\n"
+"POT-Creation-Date: 2014-08-08 08:34+0000\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -289,13 +289,113 @@ msgstr "ପ୍ରଦାତା: %1"
 msgid "All Categories"
 msgstr "ପୃଷ୍ଠାଗୁଡିକ"
 
+#. i18n: ectx: property (text), widget (QLabel, label_9)
+#. i18n: ectx: property (text), widget (QLabel, m_providerLabel)
+#: downloadwidget.ui:54 uploaddialog.ui:127
+#, fuzzy
+#| msgid "Provider: %1"
+msgid "Provider:"
+msgstr "ପ୍ରଦାତା: %1"
+
+#. i18n: ectx: property (text), widget (QLabel, mCategoryLabel)
+#. i18n: ectx: property (text), widget (QLabel, m_categoryLabel)
+#: downloadwidget.ui:71 uploaddialog.ui:304
+#, fuzzy
+#| msgid "Character:"
+msgid "Category:"
+msgstr "ଅକ୍ଷର:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, newestRadio)
+#: downloadwidget.ui:90
+#, fuzzy
+#| msgctxt "@action"
+#| msgid "New"
+msgid "Newest"
+msgstr "ନୂତନ"
+
+#. i18n: ectx: property (text), widget (QRadioButton, ratingRadio)
+#: downloadwidget.ui:103
+#, fuzzy
+#| msgid "Rating: "
+msgid "Rating"
+msgstr "ଆକଳନ: "
+
+#. i18n: ectx: property (text), widget (QRadioButton, mostDownloadsRadio)
+#: downloadwidget.ui:110
+#, fuzzy
+#| msgid "Most Downloads"
+msgid "Most downloads"
+msgstr "ଅଧିକାଂଶ ଆହରଣଗୁଡିକ"
+
+#. i18n: ectx: property (text), widget (QRadioButton, installedRadio)
+#: downloadwidget.ui:117
+#, fuzzy
+#| msgid "Install"
+msgid "Installed"
+msgstr "ସ୍ଥାପନ କରନ୍ତୁ"
+
+#. i18n: ectx: property (text), widget (QLabel, orderLabel)
+#: downloadwidget.ui:175
+#, fuzzy
+#| msgid "&Order by:"
+msgid "Order by:"
+msgstr "ଆଦେଶ ଦ୍ୱାରା (&O):"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: downloadwidget.ui:185
+#, fuzzy
+#| msgid "S&earch:"
+msgid "Search:"
+msgstr "ଖୋଜନ୍ତୁ (&e):"
+
+#. i18n: ectx: property (placeholderText), widget (KLineEdit, m_searchEdit)
+#: downloadwidget.ui:211
+msgid "Enter search phrase here"
+msgstr "ଏଠାରେ ସନ୍ଧାନ ବାକ୍ୟାଂଶ ଭରଣ କରନ୍ତୁ"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: downloadwidget.ui:366
+msgid "Author:"
+msgstr "ଲେଖକ:"
+
+#. i18n: ectx: property (text), widget (QLabel, homepageLabel)
+#: downloadwidget.ui:391
+msgid "<a href=\"http://opendesktop.org\">Homepage</a>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioUpdate)
+#. i18n: ectx: property (text), widget (QPushButton, updateButton)
+#: downloadwidget.ui:567 ui/itemsgridviewdelegate.cpp:329
+#: ui/itemsviewdelegate.cpp:123 uploaddialog.ui:171
+msgid "Update"
+msgstr "ଅଦ୍ୟତନ"
+
+#. i18n: ectx: property (text), widget (QPushButton, uninstallButton)
+#: downloadwidget.ui:577 ui/itemsgridviewdelegate.cpp:325
+#: ui/itemsviewdelegate.cpp:119
+msgid "Uninstall"
+msgstr "ଅପସାରଣ କରନ୍ତୁ"
+
+#. i18n: ectx: property (text), widget (QPushButton, becomeFanButton)
+#: downloadwidget.ui:584
+msgid "Become a Fan"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, installButton)
+#: downloadwidget.ui:591 ui/itemsgridviewdelegate.cpp:344
+#: ui/itemsgridviewdelegate.cpp:354 ui/itemsviewdelegate.cpp:138
+#: ui/itemsviewdelegate.cpp:148
+msgid "Install"
+msgstr "ସ୍ଥାପନ କରନ୍ତୁ"
+
 #: ui/entrydetailsdialog.cpp:91
 #, fuzzy, kde-format
 #| msgid "Suggestions"
 msgid "Details for %1"
 msgstr "ପ୍ରସ୍ତାବଗୁଡ଼ିକ"
 
-#: ui/entrydetailsdialog.cpp:105
+#. i18n: ectx: property (text), widget (QLabel, priceLabel_2)
+#: ui/entrydetailsdialog.cpp:105 uploaddialog.ui:230
 #, fuzzy
 #| msgid "Changelog"
 msgid "Changelog:"
@@ -371,24 +471,11 @@ msgstr "ପ୍ରାକଦର୍ଶନ ଧାରଣ କରୁଅଛି"
 msgid "Details"
 msgstr "ବିସ୍ତ୍ରୁତ ବିବରଣୀ"
 
-#: ui/itemsgridviewdelegate.cpp:325 ui/itemsviewdelegate.cpp:119
-msgid "Uninstall"
-msgstr "ଅପସାରଣ କରନ୍ତୁ"
-
-#: ui/itemsgridviewdelegate.cpp:329 ui/itemsviewdelegate.cpp:123
-msgid "Update"
-msgstr "ଅଦ୍ୟତନ"
-
 #: ui/itemsgridviewdelegate.cpp:339 ui/itemsviewdelegate.cpp:133
 #, fuzzy
 #| msgid "Update"
 msgid "Updating"
 msgstr "ଅଦ୍ୟତନ"
-
-#: ui/itemsgridviewdelegate.cpp:344 ui/itemsgridviewdelegate.cpp:354
-#: ui/itemsviewdelegate.cpp:138 ui/itemsviewdelegate.cpp:148
-msgid "Install"
-msgstr "ସ୍ଥାପନ କରନ୍ତୁ"
 
 #: ui/itemsgridviewdelegate.cpp:349 ui/itemsviewdelegate.cpp:143
 #, fuzzy
@@ -448,7 +535,8 @@ msgctxt "A link to the website where the get hot new stuff upload can be seen"
 msgid "Visit website"
 msgstr ""
 
-#: uploaddialog.cpp:441
+#. i18n: ectx: property (windowTitle), widget (QWidget, UploadDialog)
+#: uploaddialog.cpp:441 uploaddialog.ui:14
 msgid "Share Hot New Stuff"
 msgstr "ନୂତନ ଉପାଦାନକୁ ସହଭାଗ କରନ୍ତୁ"
 
@@ -520,147 +608,186 @@ msgstr "ସଞ୍ଚାର ତ୍ରୁଟି"
 msgid "Upload failed: %1"
 msgstr "ଆହରଣ"
 
+#. i18n: ectx: property (text), widget (QLabel, label_11)
+#: uploaddialog.ui:89
+msgid "Password:"
+msgstr "ପ୍ରବେଶ ସଂକେତ:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_10)
+#: uploaddialog.ui:105
+msgid "Username:"
+msgstr "ଚାଳକନାମ:"
+
+#. i18n: ectx: property (text), widget (QLabel, uploadFileLabel)
+#: uploaddialog.ui:148
 #, fuzzy
-#~| msgid "Provider: %1"
-#~ msgid "Provider:"
-#~ msgstr "ପ୍ରଦାତା: %1"
+#| msgid "Page loaded."
+msgid "File to upload:"
+msgstr "ପୃଷ୍ଠା ଧାରଣକରାସରିଛି।"
 
+#. i18n: ectx: property (text), widget (QRadioButton, radioNewUpload)
+#: uploaddialog.ui:158
 #, fuzzy
-#~| msgid "Character:"
-#~ msgid "Category:"
-#~ msgstr "ଅକ୍ଷର:"
+#| msgctxt "Reload KDE configuration messagebox"
+#| msgid "Reload"
+msgid "New Upload"
+msgstr "ପୁନର୍ଧାରଣ କରନ୍ତୁ"
 
+#. i18n: ectx: property (text), item, widget (KComboBox, mLicenseCombo)
+#: uploaddialog.ui:196
+msgid "GPL"
+msgstr "GPL"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, mLicenseCombo)
+#: uploaddialog.ui:201
+msgid "LGPL"
+msgstr "LGPL"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, mLicenseCombo)
+#: uploaddialog.ui:206
+msgid "BSD"
+msgstr "BSD"
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#: uploaddialog.ui:214
+msgid "Description:"
+msgstr "ବର୍ଣ୍ଣନା:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: uploaddialog.ui:240
+msgid "Version:"
+msgstr "ସଂସ୍କରଣ:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: uploaddialog.ui:253
+msgid "License:"
+msgstr "ଅନୁମତି ପତ୍ର:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_12)
+#: uploaddialog.ui:266
 #, fuzzy
-#~| msgctxt "@action"
-#~| msgid "New"
-#~ msgid "Newest"
-#~ msgstr "ନୂତନ"
+#| msgid "Please give some information about yourself."
+msgid "Please fill out the information about your upload in English."
+msgstr "ଦୟାକରି ଆପଣଙ୍କ ବିଷୟରେ କିଛି ସୂଚନା ଦିଅନ୍ତୁ।"
 
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: uploaddialog.ui:282
+msgid "Title:"
+msgstr "ଶୀର୍ଷକ:"
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, mNameEdit)
+#: uploaddialog.ui:317
+msgid "Name of the file as it will appear on the website"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QLineEdit, mNameEdit)
+#: uploaddialog.ui:320
+msgid ""
+"This should clearly describe the file content. It can be the same text as "
+"the title of the kvtml file."
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: uploaddialog.ui:334
 #, fuzzy
-#~| msgid "Rating: "
-#~ msgid "Rating"
-#~ msgstr "ଆକଳନ: "
+#| msgid "Preview URL:"
+msgid "Preview Images"
+msgstr "ପ୍ରାକଦର୍ଶନ URL:"
 
+#. i18n: ectx: property (text), widget (QPushButton, changePreview1Button)
+#. i18n: ectx: property (text), widget (QPushButton, changePreview3Button)
+#. i18n: ectx: property (text), widget (QPushButton, changePreview2Button)
+#: uploaddialog.ui:343 uploaddialog.ui:350 uploaddialog.ui:357
 #, fuzzy
-#~| msgid "Most Downloads"
-#~ msgid "Most downloads"
-#~ msgstr "ଅଧିକାଂଶ ଆହରଣଗୁଡିକ"
+#| msgid "Select Files..."
+msgid "Select Preview..."
+msgstr "ଫାଇଲ ଚୟନ କରନ୍ତୁ..."
 
+#. i18n: ectx: property (text), widget (QCheckBox, priceCheckBox)
+#: uploaddialog.ui:433
 #, fuzzy
-#~| msgid "Install"
-#~ msgid "Installed"
-#~ msgstr "ସ୍ଥାପନ କରନ୍ତୁ"
+#| msgid "Ne&ver for This Site"
+msgid "Set a price for this item"
+msgstr "ଏହି କାର୍ଯ୍ୟସ୍ଥଳ ପାଇଁ କଦାପି ନୁହଁ (&v)"
 
+#. i18n: ectx: property (title), widget (QGroupBox, priceGroupBox)
+#: uploaddialog.ui:443
 #, fuzzy
-#~| msgid "&Order by:"
-#~ msgid "Order by:"
-#~ msgstr "ଆଦେଶ ଦ୍ୱାରା (&O):"
+#| msgctxt "The source url of a job"
+#| msgid "Source:"
+msgid "Price"
+msgstr "ଉତ୍ସ:"
 
+#. i18n: ectx: property (text), widget (QLabel, priceLabel)
+#: uploaddialog.ui:452
 #, fuzzy
-#~| msgid "S&earch:"
-#~ msgid "Search:"
-#~ msgstr "ଖୋଜନ୍ତୁ (&e):"
+#| msgctxt "The source url of a job"
+#| msgid "Source:"
+msgid "Price:"
+msgstr "ଉତ୍ସ:"
 
-#~ msgid "Enter search phrase here"
-#~ msgstr "ଏଠାରେ ସନ୍ଧାନ ବାକ୍ୟାଂଶ ଭରଣ କରନ୍ତୁ"
+#. i18n: ectx: property (text), widget (QLabel, priceReasonLabel)
+#: uploaddialog.ui:479
+msgid "Reason for price:"
+msgstr ""
 
-#~ msgid "Author:"
-#~ msgstr "ଲେଖକ:"
+#. i18n: ectx: property (text), widget (QLabel, contentWebsiteLinkLabel)
+#: uploaddialog.ui:596
+msgid "Fetch content link from server"
+msgstr ""
 
-#~ msgid "Password:"
-#~ msgstr "ପ୍ରବେଶ ସଂକେତ:"
+#. i18n: ectx: property (text), widget (QLabel, creatingContentLabel)
+#: uploaddialog.ui:609
+msgid "Create content on server"
+msgstr ""
 
-#~ msgid "Username:"
-#~ msgstr "ଚାଳକନାମ:"
-
+#. i18n: ectx: property (text), widget (QLabel, creatingContentLabel_2)
+#: uploaddialog.ui:622
 #, fuzzy
-#~| msgid "Page loaded."
-#~ msgid "File to upload:"
-#~ msgstr "ପୃଷ୍ଠା ଧାରଣକରାସରିଛି।"
+#| msgid "Loading Preview"
+msgid "Upload content"
+msgstr "ପ୍ରାକଦର୍ଶନ ଧାରଣ କରୁଅଛି"
 
+#. i18n: ectx: property (text), widget (QLabel, uploadPreview1Label)
+#: uploaddialog.ui:635
 #, fuzzy
-#~| msgctxt "Reload KDE configuration messagebox"
-#~| msgid "Reload"
-#~ msgid "New Upload"
-#~ msgstr "ପୁନର୍ଧାରଣ କରନ୍ତୁ"
+#| msgid "Loading Preview"
+msgid "Upload first preview"
+msgstr "ପ୍ରାକଦର୍ଶନ ଧାରଣ କରୁଅଛି"
 
-#~ msgid "GPL"
-#~ msgstr "GPL"
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: uploaddialog.ui:665
+msgid "Note: You can edit, update and delete your content on the website."
+msgstr ""
 
-#~ msgid "LGPL"
-#~ msgstr "LGPL"
-
-#~ msgid "BSD"
-#~ msgstr "BSD"
-
-#~ msgid "Description:"
-#~ msgstr "ବର୍ଣ୍ଣନା:"
-
-#~ msgid "Version:"
-#~ msgstr "ସଂସ୍କରଣ:"
-
-#~ msgid "License:"
-#~ msgstr "ଅନୁମତି ପତ୍ର:"
-
+#. i18n: ectx: property (text), widget (QLabel, uploadPreview2Label)
+#: uploaddialog.ui:681
 #, fuzzy
-#~| msgid "Please give some information about yourself."
-#~ msgid "Please fill out the information about your upload in English."
-#~ msgstr "ଦୟାକରି ଆପଣଙ୍କ ବିଷୟରେ କିଛି ସୂଚନା ଦିଅନ୍ତୁ।"
+#| msgid "Loading Preview"
+msgid "Upload second preview"
+msgstr "ପ୍ରାକଦର୍ଶନ ଧାରଣ କରୁଅଛି"
 
-#~ msgid "Title:"
-#~ msgstr "ଶୀର୍ଷକ:"
-
+#. i18n: ectx: property (text), widget (QLabel, uploadPreview3Label)
+#: uploaddialog.ui:694
 #, fuzzy
-#~| msgid "Preview URL:"
-#~ msgid "Preview Images"
-#~ msgstr "ପ୍ରାକଦର୍ଶନ URL:"
+#| msgid "Loading Preview"
+msgid "Upload third preview"
+msgstr "ପ୍ରାକଦର୍ଶନ ଧାରଣ କରୁଅଛି"
 
-#, fuzzy
-#~| msgid "Select Files..."
-#~ msgid "Select Preview..."
-#~ msgstr "ଫାଇଲ ଚୟନ କରନ୍ତୁ..."
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: uploaddialog.ui:739
+msgid ""
+"I ensure that this content does not violate any existing copyright, law or "
+"trademark. I agree for my IP address to be logged. (Distributing content "
+"without the permission of the copyright holder is illegal.)"
+msgstr ""
 
+#. i18n: ectx: property (text), widget (QPushButton, uploadButton)
+#: uploaddialog.ui:764
 #, fuzzy
-#~| msgid "Ne&ver for This Site"
-#~ msgid "Set a price for this item"
-#~ msgstr "ଏହି କାର୍ଯ୍ୟସ୍ଥଳ ପାଇଁ କଦାପି ନୁହଁ (&v)"
-
-#, fuzzy
-#~| msgctxt "The source url of a job"
-#~| msgid "Source:"
-#~ msgid "Price"
-#~ msgstr "ଉତ୍ସ:"
-
-#, fuzzy
-#~| msgctxt "The source url of a job"
-#~| msgid "Source:"
-#~ msgid "Price:"
-#~ msgstr "ଉତ୍ସ:"
-
-#, fuzzy
-#~| msgid "Loading Preview"
-#~ msgid "Upload content"
-#~ msgstr "ପ୍ରାକଦର୍ଶନ ଧାରଣ କରୁଅଛି"
-
-#, fuzzy
-#~| msgid "Loading Preview"
-#~ msgid "Upload first preview"
-#~ msgstr "ପ୍ରାକଦର୍ଶନ ଧାରଣ କରୁଅଛି"
-
-#, fuzzy
-#~| msgid "Loading Preview"
-#~ msgid "Upload second preview"
-#~ msgstr "ପ୍ରାକଦର୍ଶନ ଧାରଣ କରୁଅଛି"
-
-#, fuzzy
-#~| msgid "Loading Preview"
-#~ msgid "Upload third preview"
-#~ msgstr "ପ୍ରାକଦର୍ଶନ ଧାରଣ କରୁଅଛି"
-
-#, fuzzy
-#~| msgid "Start replace"
-#~ msgid "Start Upload"
-#~ msgstr "ବଦଳାଇବା ଆରମ୍ଭ କରନ୍ତୁ"
+#| msgid "Start replace"
+msgid "Start Upload"
+msgstr "ବଦଳାଇବା ଆରମ୍ଭ କରନ୍ତୁ"
 
 #~ msgctxt "NAME OF TRANSLATORS"
 #~ msgid "Your names"
