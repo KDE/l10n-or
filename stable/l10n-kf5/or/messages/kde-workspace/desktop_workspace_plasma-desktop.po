@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-09-08 09:09+0000\n"
+"POT-Creation-Date: 2014-09-20 09:20+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -152,7 +152,7 @@ msgctxt "Name"
 msgid "Empty Panel"
 msgstr "ଫଳକ"
 
-#: containments/panel/plasma-containment-panel.desktop:46
+#: containments/panel/plasma-containment-panel.desktop:47
 msgctxt "Comment"
 msgid "A simple linear panel"
 msgstr ""
@@ -365,7 +365,7 @@ msgctxt "Name"
 msgid "Default Applications"
 msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ ପ୍ରୟୋଗଗୁଡ଼ିକ"
 
-#: kcms/componentchooser/componentchooser.desktop:97
+#: kcms/componentchooser/componentchooser.desktop:96
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Default Applications"
@@ -373,7 +373,7 @@ msgctxt "Comment"
 msgid "Default Applications"
 msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ ପ୍ରୟୋଗଗୁଡ଼ିକ"
 
-#: kcms/componentchooser/componentchooser.desktop:127
+#: kcms/componentchooser/componentchooser.desktop:126
 msgctxt "X-KDE-Keywords"
 msgid ""
 "default applications,components,component chooser,resources,e-mail,email "
@@ -389,7 +389,7 @@ msgctxt "Name|standard desktop component"
 msgid "Web Browser"
 msgstr "ୱେବ ବ୍ରାଉଜର"
 
-#: kcms/componentchooser/componentservices/kcm_browser.desktop:74
+#: kcms/componentchooser/componentservices/kcm_browser.desktop:73
 msgctxt "Comment"
 msgid ""
 "Here you can configure your default web browser. All KDE applications in "
@@ -422,7 +422,7 @@ msgctxt "Name|standard desktop component"
 msgid "Email Client"
 msgstr "ଇମେଲ କ୍ଲାଏଣ୍ଟ"
 
-#: kcms/componentchooser/componentservices/kcm_kemail.desktop:74
+#: kcms/componentchooser/componentservices/kcm_kemail.desktop:73
 msgctxt "Comment"
 msgid ""
 "This service allows you to configure your default email client. All KDE "
@@ -438,7 +438,7 @@ msgctxt "Name|standard desktop component"
 msgid "Terminal Emulator"
 msgstr "ଟର୍ମିନାଲ ଯାନ୍ତ୍ରାନୁକରଣ"
 
-#: kcms/componentchooser/componentservices/kcm_terminal.desktop:74
+#: kcms/componentchooser/componentservices/kcm_terminal.desktop:73
 msgctxt "Comment"
 msgid ""
 "This service allows you to configure your default terminal emulator. All KDE "
@@ -464,7 +464,7 @@ msgctxt "Name"
 msgid "A nice name you have chosen for your interface"
 msgstr "ଆପଣ ଆପଣଙ୍କର ଅନ୍ତରାପୃଷ୍ଠ ପାଇଁ ପସନ୍ଦ କରିଥିବା ଗୋଟିଏ ସୁନ୍ଦର ନାମ"
 
-#: kcms/componentchooser/EXAMPLE.desktop:88
+#: kcms/componentchooser/EXAMPLE.desktop:87
 msgctxt "Comment"
 msgid "A helpful description of the interface for the top right info box"
 msgstr "ଡ଼ାହାଣ ପାଖ ଉପର ଅଂଶ ସୂଚନା ବାକ୍ସ ପାଇଁ ଅନ୍ତରାପୃଷ୍ଠର ଗୋଟିଏ ସହାୟକ ବର୍ଣ୍ଣନା"
@@ -576,7 +576,7 @@ msgctxt "Name"
 msgid "Emoticons"
 msgstr "Emoticons"
 
-#: kcms/emoticons/emoticons.desktop:95
+#: kcms/emoticons/emoticons.desktop:94
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Emoticons Themes Manager"
@@ -584,7 +584,7 @@ msgctxt "Comment"
 msgid "Emoticon Theme"
 msgstr "Emoticons ପ୍ରସଙ୍ଗ ପରିଚାଳକ"
 
-#: kcms/emoticons/emoticons.desktop:123
+#: kcms/emoticons/emoticons.desktop:122
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Emoticons"
@@ -655,7 +655,7 @@ msgctxt "Name"
 msgid "Icons"
 msgstr "ଚିତ୍ର ସଂକେତଗୁଡ଼ିକ"
 
-#: kcms/icons/icons.desktop:104
+#: kcms/icons/icons.desktop:103
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Cursor Files"
@@ -663,7 +663,7 @@ msgctxt "Comment"
 msgid "Icon Theme"
 msgstr "ସୂଚକ ଫାଇଲଗୁଡ଼ିକ"
 
-#: kcms/icons/icons.desktop:134
+#: kcms/icons/icons.desktop:133
 msgctxt "X-KDE-Keywords"
 msgid "icons,effects,size,hicolor,locolor"
 msgstr ""
@@ -1085,7 +1085,7 @@ msgctxt "Name"
 msgid "KNetAttach"
 msgstr "KNetAttach"
 
-#: knetattach/knetattach.desktop:87
+#: knetattach/knetattach.desktop:86
 msgctxt "GenericName"
 msgid "Network Folder Wizard"
 msgstr "ନେଟୱର୍କ ଫୋଲଡ଼ର ୱିଜାର୍ଡ଼"
