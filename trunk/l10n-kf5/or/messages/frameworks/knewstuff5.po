@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-08-08 08:34+0000\n"
+"POT-Creation-Date: 2014-09-29 07:45+0000\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -139,63 +139,63 @@ msgstr[1] "ପ୍ରାକଦର୍ଶନ ଧାରଣ କରୁଅଛି"
 msgid "Installing"
 msgstr "ସ୍ଥାପନ କରନ୍ତୁ"
 
-#: core/installation.cpp:176
+#: core/installation.cpp:175
 msgid "Invalid item."
 msgstr ""
 
-#: core/installation.cpp:183
+#: core/installation.cpp:182
 #, kde-format
 msgid "Download of item failed: no download URL for \"%1\"."
 msgstr ""
 
-#: core/installation.cpp:222
+#: core/installation.cpp:221
 #, kde-format
 msgid "Download of \"%1\" failed, error: %2"
 msgstr ""
 
-#: core/installation.cpp:231
+#: core/installation.cpp:230
 msgid ""
 "The downloaded file is a html file. This indicates a link to a website "
 "instead of the actual download. Would you like to open the site with a "
 "browser instead?"
 msgstr ""
 
-#: core/installation.cpp:231
+#: core/installation.cpp:230
 #, fuzzy
 #| msgid "Could not create temporary file."
 msgid "Possibly bad download link"
 msgstr "ଅସ୍ଥାୟୀ ଫାଇଲ ନିର୍ମାଣ କରିହେଲା ନାହିଁ।"
 
-#: core/installation.cpp:234
+#: core/installation.cpp:233
 msgid "Downloaded file was a HTML file. Opened in browser."
 msgstr ""
 
-#: core/installation.cpp:297
+#: core/installation.cpp:296
 #, fuzzy, kde-format
 #| msgid "Could not install %1"
 msgid "Could not install \"%1\": file not found."
 msgstr "%1କୁ ସ୍ଥାପନ କରିପାରିଲା ନାହିଁ"
 
-#: core/installation.cpp:543
+#: core/installation.cpp:542
 #, fuzzy
 #| msgid "Overwrite File?"
 msgid "Overwrite existing file?"
 msgstr "ଫାଇଲ ନବଲିଖନ କରିବେକି? "
 
-#: core/installation.cpp:543
+#: core/installation.cpp:542
 #, fuzzy
 #| msgid "Download"
 msgid "Download File"
 msgstr "ଆହରଣ"
 
-#: core/security.cpp:87
+#: core/security.cpp:86
 msgid ""
 "<qt>Cannot start <i>gpg</i> and retrieve the available keys. Make sure that "
 "<i>gpg</i> is installed, otherwise verification of downloaded resources will "
 "not be possible.</qt>"
 msgstr ""
 
-#: core/security.cpp:211
+#: core/security.cpp:210
 #, kde-format
 msgid ""
 "<qt>Enter passphrase for key <b>0x%1</b>, belonging to<br /><i>%2&lt;%3&gt;</"
@@ -204,22 +204,22 @@ msgstr ""
 "<qt>କି ପାଇଁ ପ୍ରବେଶ ସଂକେତ ଭରଣ କରନ୍ତୁ <b>0x%1</b>, <br /><i>%2&lt;%3&gt;</i><br />:"
 "</qt> ର ଅଂଶଭୁକ୍ତ ଅଟେ"
 
-#: core/security.cpp:291
+#: core/security.cpp:290
 msgid ""
 "<qt>Cannot start <i>gpg</i> and check the validity of the file. Make sure "
 "that <i>gpg</i> is installed, otherwise verification of downloaded resources "
 "will not be possible.</qt>"
 msgstr ""
 
-#: core/security.cpp:346
+#: core/security.cpp:345
 msgid "Select Signing Key"
 msgstr "ହସ୍ତାକ୍ଷର କି ଚୟନ କରନ୍ତୁ"
 
-#: core/security.cpp:346
+#: core/security.cpp:345
 msgid "Key used for signing:"
 msgstr "ହସ୍ତାକ୍ଷର ପାଇଁ ବ୍ୟବହାର ହେଉଥିବା କି:"
 
-#: core/security.cpp:379
+#: core/security.cpp:378
 msgid ""
 "<qt>Cannot start <i>gpg</i> and sign the file. Make sure that <i>gpg</i> is "
 "installed, otherwise signing of the resources will not be possible.</qt>"
