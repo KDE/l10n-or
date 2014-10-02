@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-09-29 07:55+0000\n"
+"POT-Creation-Date: 2014-10-02 08:09+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -75,12 +75,41 @@ msgctxt "Name"
 msgid "KTelnetService"
 msgstr "ସର୍ଭିସଗୁଡ଼ିକ"
 
+#: src/ioslaves/trash/kcmtrash.desktop:1
+#: src/ioslaves/trash/kcmtrash.desktop:172
+msgctxt "Name"
+msgid "Trash"
+msgstr "ଆବର୍ଜନା ପାତ୍ର"
+
+#: src/ioslaves/trash/kcmtrash.desktop:82
+msgctxt "Comment"
+msgid "This service allows configuration of the trash."
+msgstr "ଏହି ସର୍ଭିସ ଆବର୍ଜନା ପାତ୍ରର ବିନ୍ୟାସ ପାଇଁ ଅନୁମତି ଦେଇଥାଏ।"
+
+#: src/ioslaves/trash/kcmtrash.desktop:253
+msgctxt "Comment"
+msgid "Configure trash settings"
+msgstr "ଆବର୍ଜନା ପାତ୍ର ସଂରଚନାକୁ ବିନ୍ୟାସ କରନ୍ତୁ "
+
+#: src/ioslaves/trash/kcmtrash.desktop:333
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Trash"
+msgctxt "X-KDE-Keywords"
+msgid "trash"
+msgstr "ଆବର୍ଜନା ପାତ୍ର"
+
+#: src/ioslaves/trash/trash.protocol:25
+msgctxt "ExtraNames"
+msgid "Original Path,Deletion Date"
+msgstr "ପ୍ରକୃତ ପଥ, ଅପସାରଣ ତାରିଖ"
+
 #: src/kcms/webshortcuts/webshortcuts.desktop:14
 msgctxt "Name"
 msgid "Web Shortcuts"
 msgstr "ୱେବ ସଂକ୍ଷିପ୍ତ ପଥଗୁଡ଼ିକ"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:92
+#: src/kcms/webshortcuts/webshortcuts.desktop:93
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure web cache settings"
@@ -88,7 +117,7 @@ msgctxt "Comment"
 msgid "Configure web shortcuts"
 msgstr "ୱେବ କ୍ୟାଶେ ସଂରଚନାକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:120
+#: src/kcms/webshortcuts/webshortcuts.desktop:122
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Shortcuts,Browsing,WWW,Internet,Internet Filters,Network,Search Engines,"
@@ -1436,7 +1465,7 @@ msgctxt "Name"
 msgid "Qwant"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant.desktop:25
+#: src/urifilters/ikws/searchproviders/qwant.desktop:27
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1452,7 +1481,7 @@ msgctxt "Name"
 msgid "Qwant Images"
 msgstr "ପ୍ରତିଛବିଗୁଡ଼ିକ"
 
-#: src/urifilters/ikws/searchproviders/qwant_images.desktop:25
+#: src/urifilters/ikws/searchproviders/qwant_images.desktop:27
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1465,7 +1494,7 @@ msgctxt "Name"
 msgid "Qwant News"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant_news.desktop:25
+#: src/urifilters/ikws/searchproviders/qwant_news.desktop:27
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1481,7 +1510,7 @@ msgctxt "Name"
 msgid "Qwant Shopping"
 msgstr "Google Groups"
 
-#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:25
+#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:27
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1494,7 +1523,7 @@ msgctxt "Name"
 msgid "Qwant Social"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant_social.desktop:24
+#: src/urifilters/ikws/searchproviders/qwant_social.desktop:26
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1507,7 +1536,7 @@ msgctxt "Name"
 msgid "Qwant Videos"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:25
+#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:27
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -2254,10 +2283,6 @@ msgstr "Tabbed ବ୍ରାଉଜିଙ୍ଗ"
 #~ msgid "Directory Watcher"
 #~ msgstr "ନେଟୱର୍କ ବିଶ୍ଳେଷକ"
 
-#~ msgctxt "Name"
-#~ msgid "Trash"
-#~ msgstr "ଆବର୍ଜନା ପାତ୍ର"
-
 #~ msgctxt "Comment"
 #~ msgid "Contains removed files"
 #~ msgstr "ଅପସାରିତ ଫାଇଲଗୁଡ଼ିକୁ ଧାରଣ କରିଥାଏ"
@@ -2383,25 +2408,6 @@ msgstr "Tabbed ବ୍ରାଉଜିଙ୍ଗ"
 #~ msgctxt "Comment"
 #~ msgid "Thumbnail Handler"
 #~ msgstr "କ୍ଷୁଦ୍ରଚିତ୍ର ନିୟନ୍ତ୍ରକ"
-
-#~ msgctxt "Comment"
-#~ msgid "This service allows configuration of the trash."
-#~ msgstr "ଏହି ସର୍ଭିସ ଆବର୍ଜନା ପାତ୍ରର ବିନ୍ୟାସ ପାଇଁ ଅନୁମତି ଦେଇଥାଏ।"
-
-#~ msgctxt "Comment"
-#~ msgid "Configure trash settings"
-#~ msgstr "ଆବର୍ଜନା ପାତ୍ର ସଂରଚନାକୁ ବିନ୍ୟାସ କରନ୍ତୁ "
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Trash"
-#~ msgctxt "X-KDE-Keywords"
-#~ msgid "trash"
-#~ msgstr "ଆବର୍ଜନା ପାତ୍ର"
-
-#~ msgctxt "ExtraNames"
-#~ msgid "Original Path,Deletion Date"
-#~ msgstr "ପ୍ରକୃତ ପଥ, ଅପସାରଣ ତାରିଖ"
 
 #~ msgctxt "Name"
 #~ msgid "KNetAttach"
