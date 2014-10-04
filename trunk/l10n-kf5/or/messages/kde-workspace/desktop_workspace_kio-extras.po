@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-09-29 07:56+0000\n"
+"POT-Creation-Date: 2014-10-04 08:19+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -36,8 +36,7 @@ msgctxt "Comment"
 msgid "Monitors directories for changes"
 msgstr ""
 
-#: desktop/./directory.trash:3 trash/kcmtrash.desktop:1
-#: trash/kcmtrash.desktop:172
+#: desktop/./directory.trash:3
 msgctxt "Name"
 msgid "Trash"
 msgstr "ଆବର୍ଜନା ପାତ୍ର"
@@ -212,28 +211,24 @@ msgctxt "Name"
 msgid "Microsoft Windows Images"
 msgstr ""
 
-#: trash/kcmtrash.desktop:82
-msgctxt "Comment"
-msgid "This service allows configuration of the trash."
-msgstr "ଏହି ସର୍ଭିସ ଆବର୍ଜନା ପାତ୍ରର ବିନ୍ୟାସ ପାଇଁ ଅନୁମତି ଦେଇଥାଏ।"
+#~ msgctxt "Comment"
+#~ msgid "This service allows configuration of the trash."
+#~ msgstr "ଏହି ସର୍ଭିସ ଆବର୍ଜନା ପାତ୍ରର ବିନ୍ୟାସ ପାଇଁ ଅନୁମତି ଦେଇଥାଏ।"
 
-#: trash/kcmtrash.desktop:253
-msgctxt "Comment"
-msgid "Configure trash settings"
-msgstr "ଆବର୍ଜନା ପାତ୍ର ସଂରଚନାକୁ ବିନ୍ୟାସ କରନ୍ତୁ "
+#~ msgctxt "Comment"
+#~ msgid "Configure trash settings"
+#~ msgstr "ଆବର୍ଜନା ପାତ୍ର ସଂରଚନାକୁ ବିନ୍ୟାସ କରନ୍ତୁ "
 
-#: trash/kcmtrash.desktop:333
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Trash"
-msgctxt "X-KDE-Keywords"
-msgid "trash"
-msgstr "ଆବର୍ଜନା ପାତ୍ର"
+#~| msgctxt "Name"
+#~| msgid "Trash"
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "trash"
+#~ msgstr "ଆବର୍ଜନା ପାତ୍ର"
 
-#: trash/trash.protocol:25
-msgctxt "ExtraNames"
-msgid "Original Path,Deletion Date"
-msgstr "ପ୍ରକୃତ ପଥ, ଅପସାରଣ ତାରିଖ"
+#~ msgctxt "ExtraNames"
+#~ msgid "Original Path,Deletion Date"
+#~ msgstr "ପ୍ରକୃତ ପଥ, ଅପସାରଣ ତାରିଖ"
 
 #~ msgctxt "Name"
 #~ msgid "CGI Scripts"
