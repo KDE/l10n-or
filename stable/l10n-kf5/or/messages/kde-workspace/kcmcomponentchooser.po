@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmcomponentchooser\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-08-08 09:23+0000\n"
+"POT-Creation-Date: 2014-10-17 09:34+0000\n"
 "PO-Revision-Date: 2009-01-05 16:52+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -53,11 +53,11 @@ msgstr "ନିମ୍ନଲିଖିତ ବ୍ରାଉଜରରେ:"
 msgid "..."
 msgstr "..."
 
-#: componentchooser.cpp:139
+#: componentchooser.cpp:138
 msgid "Unknown"
 msgstr "ଅଜଣା"
 
-#: componentchooser.cpp:155
+#: componentchooser.cpp:154
 msgid ""
 "<qt>You changed the default component of your choice, do want to save that "
 "change now ?</qt>"
@@ -65,11 +65,11 @@ msgstr ""
 "<qt>ଆପଣ ନିଜ ପସନ୍ଦରେ ପୂର୍ବନିର୍ଦ୍ଧାରିତ ଉପାଦାନକୁ ପରିବର୍ତ୍ତନ କରିଛନ୍ତି, ସେହି ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ସଂରକ୍ଷଣ "
 "କରିବାକୁ ଚାହୁଁଛନ୍ତି କି ?</qt>"
 
-#: componentchooser.cpp:159
+#: componentchooser.cpp:158
 msgid "No description available"
 msgstr "କୌଣସି ବର୍ଣ୍ଣନା ଉପଲବ୍ଧ ନାହିଁ"
 
-#: componentchooser.cpp:170 componentchooser.cpp:175
+#: componentchooser.cpp:169 componentchooser.cpp:174
 #, kde-format
 msgid ""
 "Choose from the list below which component should be used by default for the "
@@ -117,19 +117,19 @@ msgstr "ପସନ୍ଦ ଯୋଗ୍ୟ ୱେବ ବ୍ରାଉଜର ପ୍�
 msgid "Select preferred email client:"
 msgstr "ପସନ୍ଦ ଯୋଗ୍ୟ ଇମେଲ କ୍ଲାଏଣ୍ଟକୁ ବାଛନ୍ତୁ:"
 
-#: componentchooserterminal.cpp:101
+#: componentchooserterminal.cpp:100
 msgid "Select preferred terminal application:"
 msgstr "ପସନ୍ଦ ଯୋଗ୍ୟ ଟର୍ମିନାଲ ପ୍ରୟୋଗକୁ ବାଛନ୍ତୁ:"
 
-#: componentchooserwm.cpp:92
+#: componentchooserwm.cpp:91
 msgid "The new window manager will be used when KDE is started the next time."
 msgstr "ନୂତନ ୱିଣ୍ଡୋ ପରିଚାଳକକୁ ବ୍ୟବହାର କରାଯିବ ଯେତେବେଳେ KDE ପରବର୍ତ୍ତି ସମୟରେ ଆରମ୍ଭ ହେବ।"
 
-#: componentchooserwm.cpp:93 componentchooserwm.cpp:146
+#: componentchooserwm.cpp:92 componentchooserwm.cpp:145
 msgid "Window Manager Change"
 msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ ପରିବର୍ତ୍ତନ"
 
-#: componentchooserwm.cpp:106
+#: componentchooserwm.cpp:105
 msgid ""
 "A new window manager is running.\n"
 "It is still recommended to restart this KDE session to make sure all running "
@@ -139,41 +139,41 @@ msgstr ""
 "KDE ଅଧିବେଶନକୁ ପ୍ରାରମ୍ଭ କରିବା ପାଇଁ ଏହା ଏପର୍ଯ୍ୟନ୍ତ ପରାମର୍ଶିତ ଯେ ସମସ୍ତ ଚାଲୁଥିବା ପ୍ରୟୋଗ ଏହି "
 "ପରିବର୍ତ୍ତନ ସହିତ ଖାପ ଖାଉଛି କି ନାହିଁ ନିଶ୍ଚିତ କରନ୍ତୁ।"
 
-#: componentchooserwm.cpp:109
+#: componentchooserwm.cpp:108
 msgid "Window Manager Replaced"
 msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ ପରିବର୍ତ୍ତିତ"
 
-#: componentchooserwm.cpp:145
+#: componentchooserwm.cpp:144
 msgid ""
 "Your running window manager will be now replaced with the configured one."
 msgstr ""
 
-#: componentchooserwm.cpp:154
+#: componentchooserwm.cpp:153
 msgid "Config Window Manager Change"
 msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ ପରିବର୍ତ୍ତନକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
 
-#: componentchooserwm.cpp:156
+#: componentchooserwm.cpp:155
 msgid "&Accept Change"
 msgstr "ପରିବର୍ତ୍ତନକୁ ଗ୍ରହଣ କରନ୍ତୁ (&A)"
 
-#: componentchooserwm.cpp:157
+#: componentchooserwm.cpp:156
 msgid "&Revert to Previous"
 msgstr "ପୂର୍ବକୁ ପ୍ରତ୍ୟାବୃତ କରନ୍ତୁ (&R)"
 
-#: componentchooserwm.cpp:159
+#: componentchooserwm.cpp:158
 msgid ""
 "The configured window manager is being launched.\n"
 "Please check it has started properly and confirm the change.\n"
 "The launch will be automatically reverted in 20 seconds."
 msgstr ""
 
-#: componentchooserwm.cpp:174
+#: componentchooserwm.cpp:173
 msgid ""
 "The running window manager has been reverted to the default KDE window "
 "manager KWin."
 msgstr "ଚାଲୁଥିବା ୱିଣ୍ଡୋ ପରିଚାଳକ ପୂର୍ବନିର୍ଦ୍ଧାରିତ KDE ୱିଣ୍ଡୋ ପରିଚାଳକ KWin କୁ ପ୍ରତ୍ୟାବୃତ ହୋଇଛି।"
 
-#: componentchooserwm.cpp:181
+#: componentchooserwm.cpp:180
 msgid ""
 "The new window manager has failed to start.\n"
 "The running window manager has been reverted to the default KDE window "
@@ -182,7 +182,7 @@ msgstr ""
 "ନୂତନ ୱିଣ୍ଡୋ ପରିଚାଳକ ଆରମ୍ଭ ହେବାରେ ବିଫଳ।\n"
 "ଚାଲୁଥିବା ୱିଣ୍ଡୋ ପରିଚାଳକ ପୂର୍ବନିର୍ଦ୍ଧାରିତ KDE ୱିଣ୍ଡୋ ପରିଚାଳକ KWin କୁ ପ୍ରତ୍ୟାବୃତ ହୋଇଛି।"
 
-#: componentchooserwm.cpp:303
+#: componentchooserwm.cpp:302
 msgid "Running the configuration tool failed"
 msgstr "ବିନ୍ୟାସିତ ଉପକରଣକୁ ଚଲାଇବାରେ ବିଫଳ"
 
@@ -272,7 +272,7 @@ msgstr "(c), 2002 Joseph Wenninger"
 msgid "Joseph Wenninger"
 msgstr "Joseph Wenninger"
 
-#: ktimerdialog.cpp:164
+#: ktimerdialog.cpp:163
 #, kde-format
 msgid "1 second remaining:"
 msgid_plural "%1 seconds remaining:"
@@ -289,7 +289,7 @@ msgstr "କୋନସୋଲକୁ ଟର୍ମିନାଲ ପ୍ରୟୋଗ ଭ
 msgid "Use a different &terminal program:"
 msgstr "ଭିନ୍ନ ଏକ ଟର୍ମିନାଲ ପ୍ରଗ୍ରାମ ବ୍ୟବହାର କରନ୍ତୁ (&t):"
 
-#. i18n: ectx: property (whatsThis), widget (KLineEdit, terminalLE)
+#. i18n: ectx: property (whatsThis), widget (QLineEdit, terminalLE)
 #: terminalemulatorconfig_ui.ui:47
 msgid ""
 "Press this button to select your favorite terminal client. Please note that "
@@ -313,7 +313,7 @@ msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ KDE ୱିଣ୍ଡୋ 
 msgid "Use a different &window manager:"
 msgstr "ଭିନ୍ନ ଏକ ୱିଣ୍ଡୋ ପରିଚାଳକକୁ ବ୍ୟବହାର କରନ୍ତୁ (&w):"
 
-#. i18n: ectx: property (text), widget (KPushButton, configureButton)
+#. i18n: ectx: property (text), widget (QPushButton, configureButton)
 #: wmconfig_ui.ui:60
 msgid "Configure"
 msgstr "ବିନ୍ୟାସ କରନ୍ତୁ"
