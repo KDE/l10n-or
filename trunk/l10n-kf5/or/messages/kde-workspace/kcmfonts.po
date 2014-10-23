@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmfonts\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-09-30 10:11+0000\n"
+"POT-Creation-Date: 2014-10-23 08:06+0000\n"
 "PO-Revision-Date: 2009-01-02 11:44+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -20,23 +20,23 @@ msgstr ""
 "\n"
 "\n"
 
-#: fonts.cpp:252
+#: fonts.cpp:251
 msgid "Configure Anti-Alias Settings"
 msgstr ""
 
-#: fonts.cpp:260
+#: fonts.cpp:259
 msgid "E&xclude range:"
 msgstr ""
 
-#: fonts.cpp:263 fonts.cpp:268
+#: fonts.cpp:262 fonts.cpp:267
 msgid " pt"
 msgstr ""
 
-#: fonts.cpp:265
+#: fonts.cpp:264
 msgid " to "
 msgstr ""
 
-#: fonts.cpp:272
+#: fonts.cpp:271
 msgid ""
 "<p>If you have a TFT or LCD screen you can further improve the quality of "
 "displayed fonts by selecting this option.<br />Sub-pixel rendering is also "
@@ -48,120 +48,120 @@ msgid ""
 "</p>"
 msgstr ""
 
-#: fonts.cpp:283
+#: fonts.cpp:282
 msgid "Sub-pixel rendering type: "
 msgstr ""
 
-#: fonts.cpp:296
+#: fonts.cpp:295
 msgid "Hinting style: "
 msgstr ""
 
-#: fonts.cpp:304
+#: fonts.cpp:303
 msgid ""
 "Hinting is a process used to enhance the quality of fonts at small sizes."
 msgstr ""
 
-#: fonts.cpp:520
+#: fonts.cpp:519
 msgctxt "font usage"
 msgid "General"
 msgstr ""
 
-#: fonts.cpp:521
+#: fonts.cpp:520
 msgctxt "font usage"
 msgid "Fixed width"
 msgstr ""
 
-#: fonts.cpp:522
+#: fonts.cpp:521
 msgctxt "font usage"
 msgid "Small"
 msgstr ""
 
-#: fonts.cpp:523
+#: fonts.cpp:522
 msgctxt "font usage"
 msgid "Toolbar"
 msgstr ""
 
-#: fonts.cpp:524
+#: fonts.cpp:523
 msgctxt "font usage"
 msgid "Menu"
 msgstr ""
 
-#: fonts.cpp:525
+#: fonts.cpp:524
 msgctxt "font usage"
 msgid "Window title"
 msgstr ""
 
-#: fonts.cpp:562
+#: fonts.cpp:561
 msgid "Used for normal text (e.g. button labels, list items)."
 msgstr ""
 
-#: fonts.cpp:563
+#: fonts.cpp:562
 msgid "A non-proportional font (i.e. typewriter font)."
 msgstr ""
 
-#: fonts.cpp:564
+#: fonts.cpp:563
 msgid "Smallest font that is still readable well."
 msgstr ""
 
-#: fonts.cpp:565
+#: fonts.cpp:564
 msgid "Used to display text beside toolbar icons."
 msgstr ""
 
-#: fonts.cpp:566
+#: fonts.cpp:565
 msgid "Used by menu bars and popup menus."
 msgstr ""
 
-#: fonts.cpp:567
+#: fonts.cpp:566
 msgid "Used by the window titlebar."
 msgstr ""
 
-#: fonts.cpp:606
+#: fonts.cpp:605
 #, kde-format
 msgctxt "Font role"
 msgid "%1: "
 msgstr ""
 
-#: fonts.cpp:619
+#: fonts.cpp:618
 msgid "Ad&just All Fonts..."
 msgstr ""
 
-#: fonts.cpp:620
+#: fonts.cpp:619
 msgid "Click to change all fonts"
 msgstr ""
 
-#: fonts.cpp:631
+#: fonts.cpp:630
 msgid "Use a&nti-aliasing:"
 msgstr ""
 
-#: fonts.cpp:635
+#: fonts.cpp:634
 msgctxt "Use anti-aliasing"
 msgid "Enabled"
 msgstr ""
 
-#: fonts.cpp:636
+#: fonts.cpp:635
 msgctxt "Use anti-aliasing"
 msgid "System Settings"
 msgstr ""
 
-#: fonts.cpp:637
+#: fonts.cpp:636
 msgctxt "Use anti-aliasing"
 msgid "Disabled"
 msgstr ""
 
-#: fonts.cpp:638
+#: fonts.cpp:637
 msgid ""
 "If this option is selected, KDE will smooth the edges of curves in fonts."
 msgstr ""
 
-#: fonts.cpp:639
+#: fonts.cpp:638
 msgid "Configure..."
 msgstr ""
 
-#: fonts.cpp:650
+#: fonts.cpp:649
 msgid "Force fonts DPI:"
 msgstr ""
 
-#: fonts.cpp:656
+#: fonts.cpp:655
 msgid ""
 "<p>This option forces a specific DPI value for fonts. It may be useful when "
 "the real DPI of the hardware is not detected properly and it is also often "
@@ -174,17 +174,17 @@ msgid ""
 "fonts should be used or configuration of font hinting should be checked.</p>"
 msgstr ""
 
-#: fonts.cpp:813
+#: fonts.cpp:812
 msgid ""
 "<p>Some changes such as anti-aliasing or DPI will only affect newly started "
 "applications.</p>"
 msgstr ""
 
-#: fonts.cpp:814 fonts.cpp:824
+#: fonts.cpp:813 fonts.cpp:823
 msgid "Font Settings Changed"
 msgstr ""
 
-#: fonts.cpp:823
+#: fonts.cpp:822
 msgid ""
 "<p>Some changes such as DPI will only affect newly started applications.</p>"
 msgstr ""
