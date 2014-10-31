@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-10-28 10:10+0000\n"
+"POT-Creation-Date: 2014-10-31 08:56+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -31,7 +31,7 @@ msgctxt "Name"
 msgid "Icons-only Task Manager"
 msgstr "କାର୍ଯ୍ୟ ପରିଚାଳକ"
 
-#: applets/icontasks/plasma-applet-org.kde.plasma.icontasks.desktop:31
+#: applets/icontasks/plasma-applet-org.kde.plasma.icontasks.desktop:32
 #: applets/taskmanager/package/metadata.desktop:83
 msgctxt "Comment"
 msgid "Switch between running applications"
@@ -45,7 +45,7 @@ msgctxt "Name"
 msgid "Application Menu"
 msgstr "ପ୍ରୟୋଗ ଆରମ୍ଭକର୍ତ୍ତା"
 
-#: applets/kicker/package/metadata.desktop:39
+#: applets/kicker/package/metadata.desktop:40
 msgctxt "Comment"
 msgid "A launcher based on cascading popup menus"
 msgstr ""
@@ -104,7 +104,7 @@ msgctxt "Name"
 msgid "Window list"
 msgstr "MS Windows 9x"
 
-#: applets/window-list/metadata.desktop:44
+#: applets/window-list/metadata.desktop:45
 msgctxt "Comment"
 msgid "Plasmoid to show list of opened windows."
 msgstr ""
@@ -146,7 +146,7 @@ msgctxt "Name"
 msgid "Empty Panel"
 msgstr "ଫଳକ"
 
-#: containments/panel/plasma-containment-panel.desktop:48
+#: containments/panel/plasma-containment-panel.desktop:49
 msgctxt "Comment"
 msgid "A simple linear panel"
 msgstr ""
@@ -290,7 +290,7 @@ msgctxt "Comment"
 msgid "Accessibility Options"
 msgstr "ଅଭିଗମ୍ୟତା"
 
-#: kcms/access/kcmaccess.desktop:139
+#: kcms/access/kcmaccess.desktop:140
 msgctxt "X-KDE-Keywords"
 msgid ""
 "access,accessibility,deaf,impaired,hearing,hearing loss,bell,audible bell,"
@@ -309,7 +309,7 @@ msgctxt "Comment"
 msgid "Automatically Started Applications"
 msgstr ""
 
-#: kcms/autostart/autostart.desktop:138
+#: kcms/autostart/autostart.desktop:139
 msgctxt "X-KDE-Keywords"
 msgid "Autostart Manager,autostart,startup,system startup,kde start,cron"
 msgstr ""
@@ -322,7 +322,7 @@ msgctxt "Name"
 msgid "File Search"
 msgstr "ଅଂଶ ଖୋଜନ୍ତୁ"
 
-#: kcms/baloo/kcm_baloofile.desktop:36
+#: kcms/baloo/kcm_baloofile.desktop:39
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure the spell checker"
@@ -330,7 +330,7 @@ msgctxt "Comment"
 msgid "Configure File Search"
 msgstr "ବନାନ ଯାଞ୍ଚକାରୀକୁ ସଂରଚନା କରନ୍ତୁ"
 
-#: kcms/baloo/kcm_baloofile.desktop:57
+#: kcms/baloo/kcm_baloofile.desktop:63
 msgctxt "X-KDE-Keywords"
 msgid "Search, File, Baloo"
 msgstr ""
@@ -348,7 +348,7 @@ msgctxt "Comment"
 msgid "System Bell"
 msgstr "ତନ୍ତ୍ର ଘଣ୍ଟି"
 
-#: kcms/bell/bell.desktop:144
+#: kcms/bell/bell.desktop:145
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Bell,Audio,Sound,Volume,Pitch,Duration,PC Speaker,Internal Speaker,Speaker,"
@@ -368,7 +368,7 @@ msgctxt "Comment"
 msgid "Application Color Scheme"
 msgstr "ପ୍ରୟୋଗ ଆରମ୍ଭକର୍ତ୍ତା"
 
-#: kcms/colors/colors.desktop:141
+#: kcms/colors/colors.desktop:142
 msgctxt "X-KDE-Keywords"
 msgid ""
 "colors,colours,scheme,contrast,Widget colors,Color Scheme,color style,color "
@@ -388,7 +388,7 @@ msgctxt "Comment"
 msgid "Default Applications"
 msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ ପ୍ରୟୋଗଗୁଡ଼ିକ"
 
-#: kcms/componentchooser/componentchooser.desktop:132
+#: kcms/componentchooser/componentchooser.desktop:133
 msgctxt "X-KDE-Keywords"
 msgid ""
 "default applications,components,component chooser,resources,e-mail,email "
@@ -421,7 +421,7 @@ msgctxt "Name|standard desktop component"
 msgid "File Manager"
 msgstr "କାର୍ଯ୍ୟ ପରିଚାଳକ"
 
-#: kcms/componentchooser/componentservices/kcm_filemanager.desktop:41
+#: kcms/componentchooser/componentservices/kcm_filemanager.desktop:42
 msgctxt "Comment"
 msgid ""
 "Here you can configure your default file manager. The entries in the K menu "
@@ -469,7 +469,7 @@ msgctxt "Name|standard desktop component"
 msgid "Window Manager"
 msgstr "କାର୍ଯ୍ୟ ପରିଚାଳକ"
 
-#: kcms/componentchooser/componentservices/kcm_wm.desktop:42
+#: kcms/componentchooser/componentservices/kcm_wm.desktop:43
 msgctxt "Comment"
 msgid "Here you can select the window manager to be run in your KDE session."
 msgstr "ଆପଣଙ୍କର KDE ଅଧିବେଶନରେ ଚଲାଇବା ପାଇଁ ୱିଣ୍ଡୋ ପରିଚାଳକଙ୍କୁ ଏଠାରେ ଚୟନ କରିପାରିବେ।"
@@ -518,7 +518,7 @@ msgctxt "Comment"
 msgid "Date and Time"
 msgstr "ତାରିଖ ଏବଂ ସମୟ"
 
-#: kcms/dateandtime/clock.desktop:144
+#: kcms/dateandtime/clock.desktop:145
 msgctxt "X-KDE-Keywords"
 msgid ""
 "clock,date,time,time zone,ntp,synchronize,calendar,local time,region time"
@@ -578,7 +578,7 @@ msgctxt "Comment"
 msgid "Desktop Theme"
 msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବିବରଣୀ"
 
-#: kcms/desktoptheme/desktoptheme.desktop:112
+#: kcms/desktoptheme/desktoptheme.desktop:113
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Desktop Theme Details"
@@ -599,7 +599,7 @@ msgctxt "Comment"
 msgid "Emoticon Theme"
 msgstr "Emoticons ପ୍ରସଙ୍ଗ ପରିଚାଳକ"
 
-#: kcms/emoticons/emoticons.desktop:128
+#: kcms/emoticons/emoticons.desktop:129
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Emoticons"
@@ -620,7 +620,7 @@ msgctxt "Comment"
 msgid "Fonts"
 msgstr "ଅକ୍ଷର ରୂପ"
 
-#: kcms/fonts/fonts.desktop:142
+#: kcms/fonts/fonts.desktop:143
 msgctxt "X-KDE-Keywords"
 msgid ""
 "fonts,font size,styles,charsets,character sets,panel,control panel,desktops,"
@@ -655,12 +655,12 @@ msgctxt "Comment"
 msgid "Joystick"
 msgstr "Joystick"
 
-#: kcms/hardware/joystick/joystick.desktop:52
+#: kcms/hardware/joystick/joystick.desktop:53
 msgctxt "Name"
 msgid "Joystick"
 msgstr "Joystick"
 
-#: kcms/hardware/joystick/joystick.desktop:144
+#: kcms/hardware/joystick/joystick.desktop:145
 msgctxt "X-KDE-Keywords"
 msgid "joystick,gamepad,controller"
 msgstr ""
@@ -678,7 +678,7 @@ msgctxt "Comment"
 msgid "Icon Theme"
 msgstr "ସୂଚକ ଫାଇଲଗୁଡ଼ିକ"
 
-#: kcms/icons/icons.desktop:140
+#: kcms/icons/icons.desktop:141
 msgctxt "X-KDE-Keywords"
 msgid "icons,effects,size,hicolor,locolor"
 msgstr ""
@@ -699,7 +699,7 @@ msgctxt "Comment"
 msgid "Mouse Cursor Theme"
 msgstr "ସୂଚକ ଫାଇଲଗୁଡ଼ିକ"
 
-#: kcms/input/cursortheme.desktop:109
+#: kcms/input/cursortheme.desktop:110
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Mouse,Cursor,Theme,Cursor Appearance,Cursor Color,Cursor Theme,Mouse Theme,"
@@ -757,7 +757,7 @@ msgctxt "Comment"
 msgid "Keyboard Hardware and Layout"
 msgstr "କିବୋର୍ଡ଼ ବିନ୍ୟାସ"
 
-#: kcms/keyboard/kcm_keyboard.desktop:144
+#: kcms/keyboard/kcm_keyboard.desktop:145
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Keyboard,Keyboard repeat,Click volume,Input Devices,repeat,volume,NumLock,"
@@ -787,7 +787,7 @@ msgctxt "Comment"
 msgid "Global Keyboard Shortcuts"
 msgstr "ଜାଗତିକ କିବୋର୍ଡ଼ ସଂକ୍ଷିପ୍ତ ପଥ"
 
-#: kcms/keys/keys.desktop:131
+#: kcms/keys/keys.desktop:132
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Keys,Global key bindings,Key scheme,Key bindings,shortcuts,application "
@@ -860,7 +860,7 @@ msgctxt "Name"
 msgid "Notifications"
 msgstr "ବିଜ୍ଞପ୍ତି"
 
-#: kcms/knotify/kcmnotify.desktop:50
+#: kcms/knotify/kcmnotify.desktop:51
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "System Bell Configuration"
@@ -868,7 +868,7 @@ msgctxt "Comment"
 msgid "Event Notifications and Actions"
 msgstr "ତନ୍ତ୍ର ଘଣ୍ଟି ସଂରଚନା"
 
-#: kcms/knotify/kcmnotify.desktop:84
+#: kcms/knotify/kcmnotify.desktop:86
 msgctxt "X-KDE-Keywords"
 msgid "System sounds,Audio,Sound,Notify,Alerts,Notification,popups"
 msgstr ""
@@ -919,7 +919,7 @@ msgctxt "Comment"
 msgid "Application Launch Feedback"
 msgstr "ପ୍ରୟୋଗ ଆରମ୍ଭକର୍ତ୍ତା"
 
-#: kcms/launch/kcmlaunch.desktop:135
+#: kcms/launch/kcmlaunch.desktop:136
 msgctxt "X-KDE-Keywords"
 msgid ""
 "application,start,launch,busy,cursor,feedback,mouse,pointer,bouncing,"
@@ -965,7 +965,7 @@ msgctxt "Name"
 msgid "Audio and Video"
 msgstr "ତାରିଖ ଏବଂ ସମୟ ସଂରଚନା"
 
-#: kcms/phonon/kcm_phonon.desktop:47
+#: kcms/phonon/kcm_phonon.desktop:48
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Date and time settings"
@@ -973,7 +973,7 @@ msgctxt "Comment"
 msgid "Phonon Audio and Video"
 msgstr "ତାରିଖ ଏବଂ ସମୟ ସଂରଚନା"
 
-#: kcms/phonon/kcm_phonon.desktop:81
+#: kcms/phonon/kcm_phonon.desktop:83
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Sound,Phonon,Audio,Video,Output,Device,Notification,Music,Communication,"
@@ -993,7 +993,7 @@ msgctxt "Comment"
 msgid "Configure Search"
 msgstr "ବନାନ ଯାଞ୍ଚକାରୀକୁ ସଂରଚନା କରନ୍ତୁ"
 
-#: kcms/runners/kcm_plasmasearch.desktop:79
+#: kcms/runners/kcm_plasmasearch.desktop:80
 msgctxt "X-KDE-Keywords"
 msgid "Search, File, Baloo, Runner, krunner"
 msgstr ""
@@ -1006,12 +1006,12 @@ msgctxt "Name"
 msgid "Spell Check"
 msgstr "ବନାନ ଯାଞ୍ଚକାରୀ"
 
-#: kcms/spellchecking/spellchecking.desktop:50
+#: kcms/spellchecking/spellchecking.desktop:51
 msgctxt "Comment"
 msgid "Spell Checker Dictionaries and Options"
 msgstr ""
 
-#: kcms/spellchecking/spellchecking.desktop:84
+#: kcms/spellchecking/spellchecking.desktop:85
 msgctxt "X-KDE-Keywords"
 msgid "Spell"
 msgstr ""
@@ -1024,7 +1024,7 @@ msgctxt "Name"
 msgid "Application Keyboard Shortcuts"
 msgstr "ଜାଗତିକ କିବୋର୍ଡ଼ ସଂକ୍ଷିପ୍ତ ପଥ"
 
-#: kcms/standard_actions/standard_actions.desktop:49
+#: kcms/standard_actions/standard_actions.desktop:50
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Standard Keyboard Shortcuts"
@@ -1032,7 +1032,7 @@ msgctxt "Comment"
 msgid "Standard Keyboard Shortcuts for Applications"
 msgstr "ମାନକ କିବୋର୍ଡ଼ ସଂକ୍ଷିପ୍ତ ପଥଗୁଡ଼ିକ"
 
-#: kcms/standard_actions/standard_actions.desktop:82
+#: kcms/standard_actions/standard_actions.desktop:84
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Keys,Global key bindings,Key scheme,Key bindings,shortcuts,application "
@@ -1478,7 +1478,7 @@ msgctxt "Name"
 msgid "Panel Toolbox"
 msgstr "ନେଟୱର୍କ ସାଧନ"
 
-#: toolboxes/paneltoolbox/metadata.desktop:43
+#: toolboxes/paneltoolbox/metadata.desktop:44
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Plasma Manual"
