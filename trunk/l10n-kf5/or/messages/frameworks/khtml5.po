@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-10-26 07:52+0000\n"
+"POT-Creation-Date: 2014-11-26 07:34+0000\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -187,7 +187,7 @@ msgstr "ମୁକ୍ତ ସ୍କ୍ରିପ୍ଟ"
 msgid "Parse error at %1 line %2"
 msgstr ""
 
-#: ecma/kjs_html.cpp:2231 ecma/kjs_window.cpp:1949
+#: ecma/kjs_html.cpp:2231 ecma/kjs_window.cpp:1946
 msgid "Confirmation: JavaScript Popup"
 msgstr "ନିଶ୍ଚତତା: JavaScript ପପ୍ ଅପ୍"
 
@@ -206,58 +206,58 @@ msgid ""
 "submitted?</qt>"
 msgstr ""
 
-#: ecma/kjs_html.cpp:2238 ecma/kjs_window.cpp:1957
+#: ecma/kjs_html.cpp:2238 ecma/kjs_window.cpp:1954
 msgid "Allow"
 msgstr "ସ୍ବୀକାର କରନ୍ତୁ"
 
-#: ecma/kjs_html.cpp:2238 ecma/kjs_window.cpp:1957
+#: ecma/kjs_html.cpp:2238 ecma/kjs_window.cpp:1954
 msgid "Do Not Allow"
 msgstr "ଅନୁମତି ଦିଅନ୍ତୁନାହିଁ"
 
-#: ecma/kjs_window.cpp:1952
+#: ecma/kjs_window.cpp:1949
 msgid ""
 "This site is requesting to open up a new browser window via JavaScript.\n"
 "Do you want to allow this?"
 msgstr ""
 
-#: ecma/kjs_window.cpp:1955
+#: ecma/kjs_window.cpp:1952
 #, kde-format
 msgid ""
 "<qt>This site is requesting to open<p>%1</p>in a new browser window via "
 "JavaScript.<br />Do you want to allow this?</qt>"
 msgstr ""
 
-#: ecma/kjs_window.cpp:2288
+#: ecma/kjs_window.cpp:2285
 msgid "Close window?"
 msgstr "ୱିଣ୍ଡୋ ବନ୍ଦ କରିବେ କି?"
 
-#: ecma/kjs_window.cpp:2288
+#: ecma/kjs_window.cpp:2285
 msgid "Confirmation Required"
 msgstr "ନିଶ୍ଚିତତା ଆବଶ୍ୟକ"
 
-#: ecma/kjs_window.cpp:3237
+#: ecma/kjs_window.cpp:3235
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" to be added to your "
 "collection?"
 msgstr ""
 
-#: ecma/kjs_window.cpp:3240
+#: ecma/kjs_window.cpp:3238
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
 "added to your collection?"
 msgstr ""
 
-#: ecma/kjs_window.cpp:3249
+#: ecma/kjs_window.cpp:3247
 msgid "JavaScript Attempted Bookmark Insert"
 msgstr ""
 
-#: ecma/kjs_window.cpp:3253
+#: ecma/kjs_window.cpp:3251
 msgid "Insert"
 msgstr "ଭର୍ତ୍ତୀ କରନ୍ତୁ"
 
-#: ecma/kjs_window.cpp:3253
+#: ecma/kjs_window.cpp:3251
 msgid "Disallow"
 msgstr "ଅସ୍ବୀକାର କରନ୍ତୁ"
 
@@ -298,7 +298,7 @@ msgid_plural "&Send Files"
 msgstr[0] "ଫାଇଲ ପଠାନ୍ତୁ (&S)"
 msgstr[1] "ଫାଇଲ ପଠାନ୍ତୁ (&S)"
 
-#: html/html_formimpl.cpp:1687 html/html_formimpl.cpp:1908 khtml_part.cpp:4966
+#: html/html_formimpl.cpp:1687 html/html_formimpl.cpp:1908 khtml_part.cpp:4969
 #: khtmlview.cpp:2879 khtmlview.cpp:2923
 msgid "Submit"
 msgstr "ଦାଖଲ କରନ୍ତୁ"
@@ -387,7 +387,7 @@ msgstr "ଅସମର୍ଥିତ କି"
 msgid "KDE SSL Information"
 msgstr "ସୂଚନା"
 
-#: html/ksslkeygen.cpp:132 khtml_part.cpp:5021
+#: html/ksslkeygen.cpp:132 khtml_part.cpp:5024
 msgid "KDE"
 msgstr "KDE"
 
@@ -519,7 +519,7 @@ msgstr "ଦ୍ୱାରା ଦସ୍ତଖତ କୃତ (ବିଧିସଙ୍�
 msgid "Certificate (validation: %1)"
 msgstr "ପ୍ରମାଣପତ୍ର (ବିଧିସଙ୍ଗତ: %1)"
 
-#: java/kjavaappletserver.cpp:812 khtml_part.cpp:7051
+#: java/kjavaappletserver.cpp:812 khtml_part.cpp:7054
 msgid "Security Alert"
 msgstr "ସୁରକ୍ଷା ସଚେତନତା"
 
@@ -773,7 +773,7 @@ msgstr "ଦଲିଲ ସୂଚନା ଦେଖନ୍ତୁ"
 msgid "Save &Background Image As..."
 msgstr "ପୃଷ୍ଠଭୂମୀ ପ୍ରତିଛବିକୁ ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ (&B)..."
 
-#: khtml_part.cpp:312 khtml_part.cpp:4193
+#: khtml_part.cpp:312 khtml_part.cpp:4196
 msgid "SSL"
 msgstr "SSL"
 
@@ -871,115 +871,115 @@ msgstr ""
 msgid "Toggle Caret Mode"
 msgstr ""
 
-#: khtml_part.cpp:767
+#: khtml_part.cpp:770
 #, kde-format
 msgid "The fake user-agent '%1' is in use."
 msgstr "ଏହି ନକଲି ଚାଳକ '%1'ଟି ବ୍ୟବହାରରେ ହେଉଛି।"
 
-#: khtml_part.cpp:1271
+#: khtml_part.cpp:1274
 msgid "This web page contains coding errors."
 msgstr "ଏହି ୱେବ ପୃଷ୍ଠା ସାଂକେତିକରଣ ତ୍ରୁଟି ଧାରଣକରିଛି।"
 
-#: khtml_part.cpp:1316
+#: khtml_part.cpp:1319
 msgid "&Hide Errors"
 msgstr "ତ୍ରୁଟିଗୁଡିକୁ ଲୁଚାନ୍ତୁ (&H)"
 
-#: khtml_part.cpp:1317
+#: khtml_part.cpp:1320
 msgid "&Disable Error Reporting"
 msgstr "ତ୍ରୁଟି ଖବର କରିବାକୁ ନିଷ୍କ୍ରିୟ କରନ୍ତୁ (&D)"
 
-#: khtml_part.cpp:1360
+#: khtml_part.cpp:1363
 #, kde-format
 msgid "<qt><b>Error</b>: %1: %2</qt>"
 msgstr "<qt><b>ତ୍ରୁଟି</b>: %1: %2</qt>"
 
-#: khtml_part.cpp:1409
+#: khtml_part.cpp:1412
 #, kde-format
 msgid "<qt><b>Error</b>: node %1: %2</qt>"
 msgstr "<qt><b>ତ୍ରୁଟି</b>: ନୋଡ %1: %2</qt>"
 
-#: khtml_part.cpp:1531
+#: khtml_part.cpp:1534
 msgid "Display Images on Page"
 msgstr "ପୃଷ୍ଠା ଉପରେ ପ୍ରତିଛବି ପ୍ରଦର୍ଶନ କରନ୍ତୁ"
 
-#: khtml_part.cpp:1915
+#: khtml_part.cpp:1918
 #, kde-format
 msgid "Error: %1 - %2"
 msgstr "ତ୍ରୁଟି: %1 - %2"
 
-#: khtml_part.cpp:1920
+#: khtml_part.cpp:1923
 msgid "The requested operation could not be completed"
 msgstr "ଅନୁରୋଧ କରାଯାଇଥିବା ପ୍ରଚାଳନଟି ସମ୍ପୂର୍ଣ୍ଣ ହୋଇପାରିଲା ନାହିଁ"
 
-#: khtml_part.cpp:1926
+#: khtml_part.cpp:1929
 msgid "Technical Reason: "
 msgstr "ଯାନ୍ତ୍ରିକ କାରଣ: "
 
-#: khtml_part.cpp:1932
+#: khtml_part.cpp:1935
 msgid "Details of the Request:"
 msgstr "ଅନୁରୋଧର ବିସ୍ତୃତ ବିବରଣୀ:"
 
-#: khtml_part.cpp:1934
+#: khtml_part.cpp:1937
 #, kde-format
 msgid "URL: %1"
 msgstr "URL: %1"
 
-#: khtml_part.cpp:1937
+#: khtml_part.cpp:1940
 #, kde-format
 msgid "Protocol: %1"
 msgstr "ପ୍ରୋଟୋକଲ: %1"
 
-#: khtml_part.cpp:1940
+#: khtml_part.cpp:1943
 #, kde-format
 msgid "Date and Time: %1"
 msgstr "ତାରିଖ ଏବଂ ସମୟ: %1"
 
-#: khtml_part.cpp:1942
+#: khtml_part.cpp:1945
 #, kde-format
 msgid "Additional Information: %1"
 msgstr "ଅତିରିକ୍ତ ସୂଚନା: %1"
 
-#: khtml_part.cpp:1944
+#: khtml_part.cpp:1947
 msgid "Description:"
 msgstr "ବର୍ଣ୍ଣନା:"
 
-#: khtml_part.cpp:1950
+#: khtml_part.cpp:1953
 msgid "Possible Causes:"
 msgstr "ସମ୍ଭାବ୍ୟ କାରଣଗୁଡିକ:"
 
-#: khtml_part.cpp:1957
+#: khtml_part.cpp:1960
 msgid "Possible Solutions:"
 msgstr "ସମ୍ଭାବ୍ୟ ସମାଧାନଗୁଡିକ:"
 
-#: khtml_part.cpp:2405
+#: khtml_part.cpp:2408
 msgid "Page loaded."
 msgstr "ପୃଷ୍ଠା ଧାରଣକରାସରିଛି।"
 
-#: khtml_part.cpp:2407
+#: khtml_part.cpp:2410
 #, kde-format
 msgid "%1 Image of %2 loaded."
 msgid_plural "%1 Images of %2 loaded."
 msgstr[0] ""
 msgstr[1] ""
 
-#: khtml_part.cpp:2585
+#: khtml_part.cpp:2588
 msgid "Automatic Detection"
 msgstr "ସ୍ୱୟଂଚାଳିତ ଅନୁସନ୍ଧାନ"
 
-#: khtml_part.cpp:3716 khtml_part.cpp:3780 khtml_part.cpp:3790
+#: khtml_part.cpp:3719 khtml_part.cpp:3783 khtml_part.cpp:3793
 msgid " (In new window)"
 msgstr " (ନୂତନ ୱିଣ୍ଡୋରେ)"
 
-#: khtml_part.cpp:3744
+#: khtml_part.cpp:3747
 msgid "Symbolic Link"
 msgstr "ପ୍ରତୀକାତ୍ମକ ସମ୍ପର୍କ"
 
-#: khtml_part.cpp:3746
+#: khtml_part.cpp:3749
 #, kde-format
 msgid "%1 (Link)"
 msgstr "%1 (ସଂଯୋଗ)"
 
-#: khtml_part.cpp:3762
+#: khtml_part.cpp:3765
 #, fuzzy, kde-format
 #| msgid "%2 (%1 bytes)"
 msgid "%2 (%1 byte)"
@@ -987,37 +987,37 @@ msgid_plural "%2 (%1 bytes)"
 msgstr[0] "%2 (%1 ବାଇଟ)"
 msgstr[1] "%2 (%1 ବାଇଟ)"
 
-#: khtml_part.cpp:3765
+#: khtml_part.cpp:3768
 #, kde-format
 msgid "%2 (%1 K)"
 msgstr "%2 (%1 K)"
 
-#: khtml_part.cpp:3792
+#: khtml_part.cpp:3795
 msgid " (In other frame)"
 msgstr " (ଅନ୍ୟ ଏକ ଫ୍ରେମରେ)"
 
-#: khtml_part.cpp:3798
+#: khtml_part.cpp:3801
 msgid "Email to: "
 msgstr "କୁ ଇମେଲ କରନ୍ତୁ: "
 
-#: khtml_part.cpp:3804
+#: khtml_part.cpp:3807
 msgid " - Subject: "
 msgstr " - ବିଷୟ: "
 
-#: khtml_part.cpp:3806
+#: khtml_part.cpp:3809
 msgid " - CC: "
 msgstr " - CC: "
 
-#: khtml_part.cpp:3808
+#: khtml_part.cpp:3811
 msgid " - BCC: "
 msgstr " - BCC: "
 
-#: khtml_part.cpp:3889 khtml_part.cpp:4111 khtml_part.cpp:4547
+#: khtml_part.cpp:3892 khtml_part.cpp:4114 khtml_part.cpp:4550
 #: khtml_run.cpp:106
 msgid "Save As"
 msgstr "ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ"
 
-#: khtml_part.cpp:3894
+#: khtml_part.cpp:3897
 #, kde-format
 msgid ""
 "<qt>This untrusted page links to<br /><b>%1</b>.<br />Do you want to follow "
@@ -1026,20 +1026,20 @@ msgstr ""
 "<qt>ଏହି ଅବିଶ୍ୱସ୍ତ ପୃଷ୍ଠାଟି<br /><b>%1</b>ସହିତ ସଂଯୁକ୍ତ।<br />ଆପଣ ଏହି ସଂଯୋଗକୁ ଅନୁସରଣ କରିବାକୁ "
 "ଚାହୁଁଛନ୍ତି କି?</qt>"
 
-#: khtml_part.cpp:3895
+#: khtml_part.cpp:3898
 msgid "Follow"
 msgstr "ଅନୁସରଣ କରନ୍ତୁ"
 
-#: khtml_part.cpp:3990
+#: khtml_part.cpp:3993
 msgid "Frame Information"
 msgstr "ଫ୍ରେମ ସୂଚନା"
 
-#: khtml_part.cpp:3996
+#: khtml_part.cpp:3999
 #, kde-format
 msgid "   <a href=\"%1\">[Properties]</a>"
 msgstr "   <a href=\"%1\">[ଗୁଣଧର୍ମ]</a>"
 
-#: khtml_part.cpp:4022
+#: khtml_part.cpp:4025
 #, fuzzy
 #| msgctxt "@item Text character set"
 #| msgid "Turkish"
@@ -1047,39 +1047,39 @@ msgctxt "HTML rendering mode (see http://en.wikipedia.org/wiki/Quirks_mode)"
 msgid "Quirks"
 msgstr "ତୁର୍କିଶ"
 
-#: khtml_part.cpp:4025
+#: khtml_part.cpp:4028
 msgctxt "HTML rendering mode (see http://en.wikipedia.org/wiki/Quirks_mode)"
 msgid "Almost standards"
 msgstr ""
 
-#: khtml_part.cpp:4029
+#: khtml_part.cpp:4032
 #, fuzzy
 #| msgid "Start"
 msgctxt "HTML rendering mode (see http://en.wikipedia.org/wiki/Quirks_mode)"
 msgid "Strict"
 msgstr "ପ୍ରାରମ୍ଭ"
 
-#: khtml_part.cpp:4098
+#: khtml_part.cpp:4101
 msgid "Save Background Image As"
 msgstr "ପୃଷ୍ଠଭୂମି ପ୍ରତିଛବିକୁ ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ"
 
-#: khtml_part.cpp:4191
+#: khtml_part.cpp:4194
 msgid "The peer SSL certificate chain appears to be corrupt."
 msgstr "ସାଥି SSL ପ୍ରମାଣପତ୍ର ଶୃଙ୍ଖଳଟି ନଷ୍ଟ ହୋଇଗଲାପରି ଦେଖାଯାଉଛି।"
 
-#: khtml_part.cpp:4212
+#: khtml_part.cpp:4215
 msgid "Save Frame As"
 msgstr "ଫ୍ରେମକୁ ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ"
 
-#: khtml_part.cpp:4256
+#: khtml_part.cpp:4259
 msgid "&Find in Frame..."
 msgstr "ଫ୍ରେମରେ ଖୋଜନ୍ତୁ (&F)..."
 
-#: khtml_part.cpp:4258
+#: khtml_part.cpp:4261
 msgid "&Find..."
 msgstr "ଖୋଜନ୍ତୁ (&F)..."
 
-#: khtml_part.cpp:4905
+#: khtml_part.cpp:4908
 msgid ""
 "Warning:  This is a secure form but it is attempting to send your data back "
 "unencrypted.\n"
@@ -1091,15 +1091,15 @@ msgstr ""
 "ଜଣେ ତୃତୀୟ ପକ୍ଷ ଏହାକୁ ବାଟରେ ଧରିବାକୁ ସମର୍ଥ ହେବ ଏବଂ ଏହି ସୂଚନାକୁ ଦେଖିପାରିବ।\n"
 "ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ଆଗକୁ ବଢିବାକୁ ଚାହୁଁଛନ୍ତି?"
 
-#: khtml_part.cpp:4908 khtml_part.cpp:4918 khtml_part.cpp:4943
+#: khtml_part.cpp:4911 khtml_part.cpp:4921 khtml_part.cpp:4946
 msgid "Network Transmission"
 msgstr "ନେଟୱର୍କ ସଞ୍ଚାର"
 
-#: khtml_part.cpp:4908 khtml_part.cpp:4919
+#: khtml_part.cpp:4911 khtml_part.cpp:4922
 msgid "&Send Unencrypted"
 msgstr "ଅସଂଗୁପ୍ତ ଭାବେ ପଠାନ୍ତୁ (&S)"
 
-#: khtml_part.cpp:4916
+#: khtml_part.cpp:4919
 msgid ""
 "Warning: Your data is about to be transmitted across the network "
 "unencrypted.\n"
@@ -1108,7 +1108,7 @@ msgstr ""
 "ଚେତାବନୀ: ଆପଣଙ୍କର ତଥ୍ୟ ନେଟୱର୍କରେ ଅସଂଗୁପ୍ତ ଭାବରେ ସଞ୍ଚାର ହେବାକୁ ଯାଉଛି।\n"
 "ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ଆଗକୁ ବଢିବାକୁ ଚାହୁଁଛନ୍ତି?"
 
-#: khtml_part.cpp:4941
+#: khtml_part.cpp:4944
 msgid ""
 "This site is attempting to submit form data via email.\n"
 "Do you want to continue?"
@@ -1116,11 +1116,11 @@ msgstr ""
 "ଏହି ସାଇଟଟି ଫର୍ମ ତଥ୍ୟକୁ ଇମେଲ ମାଧ୍ଯମରେ ଦାଖଲ କରିବାକୁ ଚେଷ୍ଟା କରୁଅଛି।\n"
 "ଆପଣ ଆଗକୁ ବଢିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
 
-#: khtml_part.cpp:4944
+#: khtml_part.cpp:4947
 msgid "&Send Email"
 msgstr "ଇମେଲ ପଠାନ୍ତୁ (&S)"
 
-#: khtml_part.cpp:4965
+#: khtml_part.cpp:4968
 #, kde-format
 msgid ""
 "<qt>The form will be submitted to <br /><b>%1</b><br />on your local "
@@ -1129,75 +1129,75 @@ msgstr ""
 "<qt>ଏହି ଫର୍ମଟି ଦାଖଲ ହେବ <br /><b>%1</b><br />ଆପଣଙ୍କର ସ୍ଥାନୀୟ ଫାଇଲତନ୍ତ୍ରରେ।<br />ଆପଣ "
 "ଏହି ଫର୍ମକୁ ଦାଖଲ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?</qt>"
 
-#: khtml_part.cpp:5021
+#: khtml_part.cpp:5024
 msgid ""
 "This site attempted to attach a file from your computer in the form "
 "submission. The attachment was removed for your protection."
 msgstr ""
 
-#: khtml_part.cpp:6115
+#: khtml_part.cpp:6118
 #, kde-format
 msgid "(%1/s)"
 msgstr "(%1/s)"
 
-#: khtml_part.cpp:7043
+#: khtml_part.cpp:7046
 msgid "Security Warning"
 msgstr "ସୁରକ୍ଷା ଚେତାବନୀ"
 
-#: khtml_part.cpp:7050
+#: khtml_part.cpp:7053
 #, kde-format
 msgid "<qt>Access by untrusted page to<br /><b>%1</b><br /> denied.</qt>"
 msgstr "<qt>ଅବିଶ୍ୱସ୍ତ ପୃଷ୍ଠାକୁ ପ୍ରବେଶାନୁମତୀ<br /><b>%1</b><br /> ବାରଣ କରାଯାଇଛି।</qt>"
 
-#: khtml_part.cpp:7421
+#: khtml_part.cpp:7424
 #, kde-format
 msgid "The wallet '%1' is open and being used for form data and passwords."
 msgstr "ୱାଲେଟ '%1' ଟି ଖୋଲାଅଛି ଏବଂ ଫର୍ମ ତଥ୍ୟ ଏବଂ ପ୍ରବେଶ ସଂକେତ ପାଇଁ ବ୍ୟବହୃତ ହେଉଛି।"
 
-#: khtml_part.cpp:7480
+#: khtml_part.cpp:7483
 msgid "&Close Wallet"
 msgstr "ୱାଲେଟ ବନ୍ଦକରନ୍ତୁ (&C)"
 
-#: khtml_part.cpp:7483
+#: khtml_part.cpp:7486
 msgid "&Allow storing passwords for this site"
 msgstr ""
 
-#: khtml_part.cpp:7488
+#: khtml_part.cpp:7491
 #, kde-format
 msgid "Remove password for form %1"
 msgstr ""
 
-#: khtml_part.cpp:7603
+#: khtml_part.cpp:7606
 msgid "JavaScript &Debugger"
 msgstr "JavaScript ତ୍ରୁଟିନିବାରକ (&D)"
 
-#: khtml_part.cpp:7636
+#: khtml_part.cpp:7639
 msgid "This page was prevented from opening a new window via JavaScript."
 msgstr ""
 
-#: khtml_part.cpp:7642
+#: khtml_part.cpp:7645
 msgid "Popup Window Blocked"
 msgstr "ପପ୍ ଅପ୍ ୱିଣ୍ଡୋ ବନ୍ଦ ହୋଇଯାଇଛି"
 
-#: khtml_part.cpp:7642
+#: khtml_part.cpp:7645
 msgid ""
 "This page has attempted to open a popup window but was blocked.\n"
 "You can click on this icon in the status bar to control this behavior\n"
 "or to open the popup."
 msgstr ""
 
-#: khtml_part.cpp:7656
+#: khtml_part.cpp:7659
 #, kde-format
 msgid "&Show Blocked Popup Window"
 msgid_plural "&Show %1 Blocked Popup Windows"
 msgstr[0] ""
 msgstr[1] ""
 
-#: khtml_part.cpp:7658
+#: khtml_part.cpp:7661
 msgid "Show Blocked Window Passive Popup &Notification"
 msgstr ""
 
-#: khtml_part.cpp:7660
+#: khtml_part.cpp:7663
 msgid "&Configure JavaScript New Window Policies..."
 msgstr ""
 
@@ -1537,7 +1537,7 @@ msgstr "ଏହି କାର୍ଯ୍ୟସ୍ଥଳ ପାଇଁ କଦାପି
 msgid "Do &not store this time"
 msgstr "ଏହି ସନ୍ଦେଶକୁ ପୁଣିଥରେ ଦର୍ଶାନ୍ତୁ ନାହିଁ"
 
-#: xml/dom_docimpl.cpp:2365
+#: xml/dom_docimpl.cpp:2366
 msgid "Basic Page Style"
 msgstr "ମୌଳିକ ପୃଷ୍ଠା ଶୈଳୀ"
 
