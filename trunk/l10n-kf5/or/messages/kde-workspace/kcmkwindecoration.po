@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmkwindecoration\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-06-11 07:50+0000\n"
+"POT-Creation-Date: 2014-12-02 09:57+0000\n"
 "PO-Revision-Date: 2009-01-02 11:45+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -19,14 +19,6 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 "\n"
 "\n"
-
-msgctxt "NAME OF TRANSLATORS"
-msgid "Your names"
-msgstr ""
-
-msgctxt "EMAIL OF TRANSLATORS"
-msgid "Your emails"
-msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: auroraeconfig.ui:23
@@ -239,7 +231,7 @@ msgctxt "@item:inlistbox Border size:"
 msgid "No Border"
 msgstr ""
 
-#: configdialog.cpp:81 kwindecoration.cpp:375
+#: configdialog.cpp:81
 msgid "Decoration Options"
 msgstr ""
 
@@ -268,58 +260,4 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QPushButton, ghnsButton)
 #: decoration.ui:72
 msgid "Get New Decorations..."
-msgstr ""
-
-#: kwindecoration.cpp:99
-msgid "Window Decoration Control Module"
-msgstr ""
-
-#: kwindecoration.cpp:101
-msgid "(c) 2001 Karol Szwed"
-msgstr ""
-
-#: kwindecoration.cpp:102
-msgid "Karol Szwed"
-msgstr ""
-
-#: kwindecoration.cpp:127
-msgid ""
-"<h1>Installation error</h1>The resource<h2>kwin/kcm_kwindecoration/main.qml</"
-"h2>could not be located in any application data path.<h2>Please contact your "
-"distribution</h2>The application will now abort"
-msgstr ""
-
-#: kwindecoration.cpp:130
-msgid "Installation Error"
-msgstr ""
-
-#: kwindecoration.cpp:301
-msgid "Oxygen"
-msgstr ""
-
-#: kwindecoration.cpp:314
-msgid ""
-"<h1>Window Manager Decoration</h1><p>This module allows you to choose the "
-"window border decorations, as well as titlebar button positions and custom "
-"decoration options.</p>To choose a theme for your window decoration click on "
-"its name and apply your choice by clicking the \"Apply\" button below. If "
-"you do not want to apply your choice you can click the \"Reset\" button to "
-"discard your changes.<p>You can configure each theme. There are different "
-"options specific for each theme.</p><p>On the \"Buttons\" tab check the "
-"\"Use custom titlebar button positions\" box and you can change the "
-"positions of the buttons to your liking.</p>"
-msgstr ""
-
-#: kwindecoration.cpp:389
-msgid ""
-"Close by double clicking:\n"
-" To open the menu, keep the button pressed until it appears."
-msgstr ""
-
-#: preview.cpp:373
-msgid "Active Window"
-msgstr ""
-
-#: preview.cpp:373
-msgid "Inactive Window"
 msgstr ""
