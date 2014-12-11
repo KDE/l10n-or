@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-10-04 08:19+0000\n"
+"POT-Creation-Date: 2014-12-11 07:57+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -70,6 +70,22 @@ msgstr "ସନ୍ନିବେଶଯୋଗ୍ୟ Troff ପ୍ରଦର୍ଶକ"
 msgctxt "Name"
 msgid "KManPart"
 msgstr "KManPart"
+
+#: mtp/mtp-network.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Devices"
+msgctxt "Name"
+msgid "MTP Devices"
+msgstr "ଉପକରଣଗୁଡ଼ିକ"
+
+#: mtp/solid_mtp.desktop:9
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Open with Dolphin"
+msgctxt "Name"
+msgid "Open with File Manager"
+msgstr "ଡ଼ଲଫିନ ସହିତ ଖୋଲନ୍ତୁ"
 
 #: network/ioslave/network.desktop:7
 #: network/ioslave/virtualfolder_network.desktop:7
@@ -6806,13 +6822,6 @@ msgstr ""
 #~ msgid "Panel toolbox"
 #~ msgstr "ନେଟୱର୍କ ସାଧନ"
 
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Open with Dolphin"
-#~ msgctxt "Name"
-#~ msgid "Open with File Manager"
-#~ msgstr "ଡ଼ଲଫିନ ସହିତ ଖୋଲନ୍ତୁ"
-
 #~ msgctxt "Name"
 #~ msgid "Digital Clock"
 #~ msgstr "ସାଂଖିକ ଘଡ଼ି"
@@ -7239,13 +7248,6 @@ msgstr ""
 #~ msgctxt "Comment"
 #~ msgid "Executes shell commands"
 #~ msgstr "ସେଲ ନିର୍ଦ୍ଦେଶଗୁଡ଼ିକୁ ନିଷ୍ପାଦନ କରନ୍ତୁ"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Devices"
-#~ msgctxt "Name|plasma runner"
-#~ msgid "Devices"
-#~ msgstr "ଉପକରଣଗୁଡ଼ିକ"
 
 #, fuzzy
 #~| msgctxt "Name"
