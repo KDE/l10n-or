@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-12-30 09:58+0000\n"
+"POT-Creation-Date: 2014-12-31 08:02+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -28,7 +28,7 @@ msgctxt "Name"
 msgid "HTTP Cache Cleaner"
 msgstr ""
 
-#: src/ioslaves/http/http_cache_cleaner.desktop:48
+#: src/ioslaves/http/http_cache_cleaner.desktop:49
 msgctxt "Comment"
 msgid "Cleans up old entries from the HTTP cache"
 msgstr ""
@@ -41,7 +41,7 @@ msgctxt "Name"
 msgid "Cookie Jar"
 msgstr "କୁକିଗୁଡ଼ିକ"
 
-#: src/ioslaves/http/kcookiejar/kcookiejar.desktop:44
+#: src/ioslaves/http/kcookiejar/kcookiejar.desktop:45
 msgctxt "Comment"
 msgid "Stores network cookies"
 msgstr ""
@@ -117,7 +117,7 @@ msgctxt "Comment"
 msgid "Configure web cache settings"
 msgstr "ଆବର୍ଜନା ପାତ୍ର ସଂରଚନାକୁ ବିନ୍ୟାସ କରନ୍ତୁ "
 
-#: src/kcms/kio/cache.desktop:112
+#: src/kcms/kio/cache.desktop:114
 msgctxt "X-KDE-Keywords"
 msgid "Cache,History,Browsing History,Ports,Size"
 msgstr ""
@@ -130,12 +130,12 @@ msgctxt "Name"
 msgid "Cookies"
 msgstr "କୁକିଗୁଡ଼ିକ"
 
-#: src/kcms/kio/cookies.desktop:37
+#: src/kcms/kio/cookies.desktop:39
 msgctxt "Comment"
 msgid "Configure the way cookies work"
 msgstr "କୁକିଗୁଡ଼ିକ ଯେଉଁ ଉପାୟରେ କାର୍ଯ୍ୟକରନ୍ତି ତାହା ବିନ୍ୟାସ କରନ୍ତୁ"
 
-#: src/kcms/kio/cookies.desktop:110
+#: src/kcms/kio/cookies.desktop:112
 msgctxt "X-KDE-Keywords"
 msgid "Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
 msgstr ""
@@ -487,7 +487,7 @@ msgctxt "Comment"
 msgid "Configure web shortcuts"
 msgstr "ୱେବ କ୍ୟାଶେ ସଂରଚନାକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:129
+#: src/kcms/webshortcuts/webshortcuts.desktop:130
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Shortcuts,Browsing,WWW,Internet,Internet Filters,Network,Search Engines,"
@@ -502,7 +502,7 @@ msgctxt "Name"
 msgid "Network Proxy Configuration"
 msgstr "Nepomuk/Strigi ସର୍ଭର ବିନ୍ୟାସ"
 
-#: src/kpac/proxyscout.desktop:44
+#: src/kpac/proxyscout.desktop:45
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Fetchmail Configuration"
@@ -518,32 +518,32 @@ msgctxt "Comment"
 msgid "Network Proxy Configuration"
 msgstr "Nepomuk/Strigi ସର୍ଭର ବିନ୍ୟାସ"
 
-#: src/kpac/proxyscout.notifyrc:46
+#: src/kpac/proxyscout.notifyrc:47
 msgctxt "Name"
 msgid "Invalid Proxy Script"
 msgstr ""
 
-#: src/kpac/proxyscout.notifyrc:88
+#: src/kpac/proxyscout.notifyrc:90
 msgctxt "Comment"
 msgid "The downloaded proxy configuration script is invalid"
 msgstr ""
 
-#: src/kpac/proxyscout.notifyrc:134
+#: src/kpac/proxyscout.notifyrc:137
 msgctxt "Name"
 msgid "Script Download Error"
 msgstr ""
 
-#: src/kpac/proxyscout.notifyrc:176
+#: src/kpac/proxyscout.notifyrc:180
 msgctxt "Comment"
 msgid "The proxy configuration script could not be downloaded"
 msgstr ""
 
-#: src/kpac/proxyscout.notifyrc:223
+#: src/kpac/proxyscout.notifyrc:228
 msgctxt "Name"
 msgid "Script Evaluation Error"
 msgstr ""
 
-#: src/kpac/proxyscout.notifyrc:263
+#: src/kpac/proxyscout.notifyrc:269
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "There was a serious error causing the program to exit"
@@ -572,7 +572,7 @@ msgctxt "Name"
 msgid "SSL Certificate Policy"
 msgstr ""
 
-#: src/kssld/kssld.desktop:48
+#: src/kssld/kssld.desktop:49
 msgctxt "Comment"
 msgid "Provides SSL certificate policy to applications"
 msgstr ""
@@ -1369,7 +1369,7 @@ msgctxt "Name"
 msgid "Great Dictionary of the Catalan Language (GRan Enciclopèdia Catalana)"
 msgstr "କାଟାଲାନ ଭାଷାର ସୁନାମଧନ୍ୟ ଅଭିଧାନ (GRan Enciclopèdia  Catalana)"
 
-#: src/urifilters/ikws/searchproviders/grec.desktop:25
+#: src/urifilters/ikws/searchproviders/grec.desktop:27
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.grec.net/cgibin/lexicx.pgm?GECART=\\\\{@}"
@@ -1839,7 +1839,7 @@ msgctxt "Name"
 msgid "Qwant"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant.desktop:35
+#: src/urifilters/ikws/searchproviders/qwant.desktop:36
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1855,7 +1855,7 @@ msgctxt "Name"
 msgid "Qwant Images"
 msgstr "ପ୍ରତିଛବିଗୁଡ଼ିକ"
 
-#: src/urifilters/ikws/searchproviders/qwant_images.desktop:35
+#: src/urifilters/ikws/searchproviders/qwant_images.desktop:36
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1868,7 +1868,7 @@ msgctxt "Name"
 msgid "Qwant News"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant_news.desktop:35
+#: src/urifilters/ikws/searchproviders/qwant_news.desktop:36
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1884,7 +1884,7 @@ msgctxt "Name"
 msgid "Qwant Shopping"
 msgstr "Google Groups"
 
-#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:35
+#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:36
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1897,7 +1897,7 @@ msgctxt "Name"
 msgid "Qwant Social"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant_social.desktop:35
+#: src/urifilters/ikws/searchproviders/qwant_social.desktop:36
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1910,7 +1910,7 @@ msgctxt "Name"
 msgid "Qwant Videos"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:35
+#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:36
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
