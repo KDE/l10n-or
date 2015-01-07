@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-01-06 10:02+0000\n"
+"POT-Creation-Date: 2015-01-07 08:06+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -109,7 +109,7 @@ msgctxt "Name"
 msgid "Cache"
 msgstr "କ୍ୟାଶେ"
 
-#: src/kcms/kio/cache.desktop:95
+#: src/kcms/kio/cache.desktop:96
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure trash settings"
@@ -117,7 +117,7 @@ msgctxt "Comment"
 msgid "Configure web cache settings"
 msgstr "ଆବର୍ଜନା ପାତ୍ର ସଂରଚନାକୁ ବିନ୍ୟାସ କରନ୍ତୁ "
 
-#: src/kcms/kio/cache.desktop:124
+#: src/kcms/kio/cache.desktop:126
 msgctxt "X-KDE-Keywords"
 msgid "Cache,History,Browsing History,Ports,Size"
 msgstr ""
@@ -130,12 +130,12 @@ msgctxt "Name"
 msgid "Cookies"
 msgstr "କୁକିଗୁଡ଼ିକ"
 
-#: src/kcms/kio/cookies.desktop:44
+#: src/kcms/kio/cookies.desktop:45
 msgctxt "Comment"
 msgid "Configure the way cookies work"
 msgstr "କୁକିଗୁଡ଼ିକ ଯେଉଁ ଉପାୟରେ କାର୍ଯ୍ୟକରନ୍ତି ତାହା ବିନ୍ୟାସ କରନ୍ତୁ"
 
-#: src/kcms/kio/cookies.desktop:122
+#: src/kcms/kio/cookies.desktop:124
 msgctxt "X-KDE-Keywords"
 msgid "Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
 msgstr ""
@@ -145,12 +145,12 @@ msgctxt "Name"
 msgid "Connection Preferences"
 msgstr "ସଂଯୋଗ ପସନ୍ଦ"
 
-#: src/kcms/kio/netpref.desktop:92
+#: src/kcms/kio/netpref.desktop:93
 msgctxt "Comment"
 msgid "Configure generic network preferences, like timeout values"
 msgstr "ବର୍ଗୀୟ ନେଟୱର୍କ ପସନ୍ଦଗୁଡ଼ିକୁ ବିନ୍ୟାସ କରନ୍ତୁ, ସମୟ ସମାପ୍ତ ମୂଲ୍ୟଗୁଡ଼ିକ ପରି"
 
-#: src/kcms/kio/netpref.desktop:169
+#: src/kcms/kio/netpref.desktop:171
 msgctxt "X-KDE-Keywords"
 msgid "timeout,iopref,netpref,network preferences,ftp"
 msgstr ""
@@ -160,12 +160,12 @@ msgctxt "Name"
 msgid "Proxy"
 msgstr "ପ୍ରକ୍ସି"
 
-#: src/kcms/kio/proxy.desktop:95
+#: src/kcms/kio/proxy.desktop:96
 msgctxt "Comment"
 msgid "Configure the proxy servers used"
 msgstr "ବ୍ୟବହୃତ ପ୍ରକ୍ସି ସର୍ଭରକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
 
-#: src/kcms/kio/proxy.desktop:174
+#: src/kcms/kio/proxy.desktop:176
 msgctxt "X-KDE-Keywords"
 msgid "Proxy,Proxy server,Firewall,Squid"
 msgstr ""
@@ -175,13 +175,13 @@ msgctxt "Name"
 msgid "Windows Shares"
 msgstr "ୱିଣ୍ଡୋର ସହଭାଗ"
 
-#: src/kcms/kio/smb.desktop:90
+#: src/kcms/kio/smb.desktop:91
 msgctxt "Comment"
 msgid "Use to configure which windows (SMB) filesystems you can browse"
 msgstr ""
 "ଆପଣ ବ୍ରାଉଜ କରିପାରୁଥିବା ଯେଉଁ ୱିଣ୍ଡୋର (SMB) ଫାଇଲତନ୍ତ୍ରକୁ ବିନ୍ୟାସ କରିବା ପାଇଁ ବ୍ୟବହୃତ ହୋଇଥାଏ"
 
-#: src/kcms/kio/smb.desktop:166
+#: src/kcms/kio/smb.desktop:168
 msgctxt "X-KDE-Keywords"
 msgid ""
 "SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,"
@@ -464,12 +464,12 @@ msgctxt "Name"
 msgid "Browser Identification"
 msgstr "ବ୍ରାଉଜର ପରିଚୟ"
 
-#: src/kcms/kio/useragent.desktop:91
+#: src/kcms/kio/useragent.desktop:92
 msgctxt "Comment"
 msgid "Configure the way Konqueror reports itself"
 msgstr "Konqueror ନିଜକୁ ଖବର କରୁଥିବା ପଥକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
 
-#: src/kcms/kio/useragent.desktop:167
+#: src/kcms/kio/useragent.desktop:169
 msgctxt "X-KDE-Keywords"
 msgid "User Agent,Browser,Internet,WWW,Network,agent,bindings,server,login"
 msgstr ""
@@ -479,7 +479,7 @@ msgctxt "Name"
 msgid "Web Shortcuts"
 msgstr "ୱେବ ସଂକ୍ଷିପ୍ତ ପଥଗୁଡ଼ିକ"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:95
+#: src/kcms/webshortcuts/webshortcuts.desktop:96
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure web cache settings"
@@ -487,7 +487,7 @@ msgctxt "Comment"
 msgid "Configure web shortcuts"
 msgstr "ୱେବ କ୍ୟାଶେ ସଂରଚନାକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:130
+#: src/kcms/webshortcuts/webshortcuts.desktop:131
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Shortcuts,Browsing,WWW,Internet,Internet Filters,Network,Search Engines,"
