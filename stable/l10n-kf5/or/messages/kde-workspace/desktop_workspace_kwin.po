@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-11-07 09:42+0000\n"
+"POT-Creation-Date: 2014-12-02 10:05+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -23,15 +23,8 @@ msgstr ""
 "\n"
 "\n"
 
-#: clients/aurorae/src/aurorae.desktop:2
-msgctxt "Name"
-msgid "Aurorae Decoration Theme Engine"
-msgstr ""
-
 #: clients/aurorae/src/kwindecoration.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Window Information"
 msgctxt "Comment"
 msgid "KWin Window Decoration"
 msgstr "ୱିଣ୍ଡୋ ସୂଚନା"
@@ -63,8 +56,6 @@ msgstr ""
 
 #: effects/cube/cubeslide_config.desktop:8
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Desktop Publishing"
 msgctxt "Name"
 msgid "Desktop Cube Animation"
 msgstr "ଡ଼େସ୍କଟପ ପ୍ରକାଶନ"
@@ -96,8 +87,6 @@ msgstr ""
 
 #: effects/fadedesktop/package/metadata.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "SaverDesktop"
 msgctxt "Name"
 msgid "Fade Desktop"
 msgstr "ସର୍ଭର ଡ଼େସ୍କଟପ"
@@ -124,8 +113,6 @@ msgstr ""
 
 #: effects/glide/glide_config.desktop:8
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Glines"
 msgctxt "Name"
 msgid "Glide"
 msgstr "ଗ୍ଲିନସ"
@@ -170,15 +157,13 @@ msgctxt "Comment"
 msgid "Animation for a window going to maximize/restore from maximize"
 msgstr ""
 
-#: effects/maximize/package/metadata.desktop:47
+#: effects/maximize/package/metadata.desktop:48
 msgctxt "Name"
 msgid "Maximize"
 msgstr ""
 
 #: effects/mouseclick/mouseclick_config.desktop:8
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "More Applications"
 msgctxt "Name"
 msgid "Mouse Click Animation"
 msgstr "ଅଧିକ ପ୍ରୟୋଗ"
@@ -235,8 +220,6 @@ msgstr ""
 
 #: effects/windowgeometry/windowgeometry_config.desktop:8
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "MS Windows 9x"
 msgctxt "Name"
 msgid "WindowGeometry"
 msgstr "MS Windows 9x"
@@ -261,7 +244,7 @@ msgctxt "Comment"
 msgid "Desktop Effects"
 msgstr ""
 
-#: kcmkwin/kwincompositing/kcmkwineffects.desktop:89
+#: kcmkwin/kwincompositing/kcmkwineffects.desktop:91
 msgctxt "X-KDE-Keywords"
 msgid ""
 "kwin,window,manager,compositing,effect,3D effects,2D effects,OpenGL,XRender,"
@@ -288,12 +271,12 @@ msgctxt "Name"
 msgid "Compositor"
 msgstr ""
 
-#: kcmkwin/kwincompositing/kwincompositing.desktop:51
+#: kcmkwin/kwincompositing/kwincompositing.desktop:52
 msgctxt "Comment"
 msgid "Compositor Settings for Desktop Effects"
 msgstr ""
 
-#: kcmkwin/kwincompositing/kwincompositing.desktop:83
+#: kcmkwin/kwincompositing/kwincompositing.desktop:87
 msgctxt "X-KDE-Keywords"
 msgid ""
 "kwin,window,manager,compositing,effect,3D effects,2D effects,OpenGL,XRender,"
@@ -302,8 +285,6 @@ msgstr ""
 
 #: kcmkwin/kwindecoration/kwindecoration.desktop:14
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Window Information"
 msgctxt "Name"
 msgid "Window Decorations"
 msgstr "ୱିଣ୍ଡୋ ସୂଚନା"
@@ -313,7 +294,7 @@ msgctxt "Comment"
 msgid "Look and Feel of Window Titles"
 msgstr ""
 
-#: kcmkwin/kwindecoration/kwindecoration.desktop:108
+#: kcmkwin/kwindecoration/kwindecoration.desktop:110
 msgctxt "X-KDE-Keywords"
 msgid ""
 "kwin,window,manager,border,style,theme,look,feel,layout,button,handle,edge,"
@@ -322,8 +303,6 @@ msgstr ""
 
 #: kcmkwin/kwindesktop/desktop.desktop:14
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Desktop"
 msgctxt "Name"
 msgid "Virtual Desktops"
 msgstr "ଡ଼େସ୍କଟପ"
@@ -333,7 +312,7 @@ msgctxt "Comment"
 msgid "Navigation, Number and Layout of Virtual Desktops"
 msgstr ""
 
-#: kcmkwin/kwindesktop/desktop.desktop:108
+#: kcmkwin/kwindesktop/desktop.desktop:111
 msgctxt "X-KDE-Keywords"
 msgid ""
 "desktop,desktops,number,virtual desktop,multiple desktops,pager,pager widget,"
@@ -347,13 +326,11 @@ msgstr ""
 
 #: kcmkwin/kwinoptions/kwinactions.desktop:103
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Configure trash settings"
 msgctxt "Comment"
 msgid "Mouse Actions on Windows"
 msgstr "ଆବର୍ଜନା ପାତ୍ର ସଂରଚନାକୁ ବିନ୍ୟାସ କରନ୍ତୁ "
 
-#: kcmkwin/kwinoptions/kwinactions.desktop:135
+#: kcmkwin/kwinoptions/kwinactions.desktop:137
 msgctxt "X-KDE-Keywords"
 msgid ""
 "shade,maximise,maximize,minimize,minimise,lower,operations menu,titlebar,"
@@ -370,7 +347,7 @@ msgctxt "Comment"
 msgid "Advanced Window Management Features"
 msgstr ""
 
-#: kcmkwin/kwinoptions/kwinadvanced.desktop:134
+#: kcmkwin/kwinoptions/kwinadvanced.desktop:136
 msgctxt "X-KDE-Keywords"
 msgid ""
 "shading,border,hover,active borders,tiling,tabs,tabbing,window tabbing,"
@@ -388,7 +365,7 @@ msgctxt "Comment"
 msgid "Active Window Policy"
 msgstr ""
 
-#: kcmkwin/kwinoptions/kwinfocus.desktop:131
+#: kcmkwin/kwinoptions/kwinfocus.desktop:133
 msgctxt "X-KDE-Keywords"
 msgid ""
 "focus,placement,auto raise,raise,click raise,keyboard,CDE,alt-tab,all "
@@ -403,13 +380,11 @@ msgstr ""
 
 #: kcmkwin/kwinoptions/kwinmoving.desktop:101
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Window Information"
 msgctxt "Comment"
 msgid "Window Moving"
 msgstr "ୱିଣ୍ଡୋ ସୂଚନା"
 
-#: kcmkwin/kwinoptions/kwinmoving.desktop:133
+#: kcmkwin/kwinoptions/kwinmoving.desktop:136
 msgctxt "X-KDE-Keywords"
 msgid "moving,smart,cascade,maximize,maximise,snap zone,snap,border"
 msgstr ""
@@ -424,7 +399,7 @@ msgctxt "Comment"
 msgid "Window Actions and Behavior"
 msgstr ""
 
-#: kcmkwin/kwinoptions/kwinoptions.desktop:136
+#: kcmkwin/kwinoptions/kwinoptions.desktop:138
 msgctxt "X-KDE-Keywords"
 msgid ""
 "focus,placement,window behavior,window actions,animation,raise,auto raise,"
@@ -433,8 +408,6 @@ msgstr ""
 
 #: kcmkwin/kwinrules/kwinrules.desktop:14
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "MS Windows 9x"
 msgctxt "Name"
 msgid "Window Rules"
 msgstr "MS Windows 9x"
@@ -444,7 +417,7 @@ msgctxt "Comment"
 msgid "Individual Window Behavior"
 msgstr ""
 
-#: kcmkwin/kwinrules/kwinrules.desktop:109
+#: kcmkwin/kwinrules/kwinrules.desktop:111
 msgctxt "X-KDE-Keywords"
 msgid ""
 "size,position,state,window behavior,windows,specific,workarounds,remember,"
@@ -453,8 +426,6 @@ msgstr ""
 
 #: kcmkwin/kwinscreenedges/kwinscreenedges.desktop:14
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Screen Saver"
 msgctxt "Name"
 msgid "Screen Edges"
 msgstr "ପରଦା ସଂରକ୍ଷକ"
@@ -464,7 +435,7 @@ msgctxt "Comment"
 msgid "Active Screen Corners and Edges"
 msgstr ""
 
-#: kcmkwin/kwinscreenedges/kwinscreenedges.desktop:115
+#: kcmkwin/kwinscreenedges/kwinscreenedges.desktop:117
 msgctxt "X-KDE-Keywords"
 msgid ""
 "kwin,window,manager,effect,corner,edge,border,action,switch,desktop,kwin "
@@ -474,16 +445,12 @@ msgstr ""
 
 #: kcmkwin/kwinscripts/kwinscripts.desktop:11
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "CGI Scripts"
 msgctxt "X-KDE-Keywords"
 msgid "kwin script"
 msgstr "CGI ସ୍କ୍ରିପ୍ଟଗୁଡ଼ିକ"
 
 #: kcmkwin/kwinscripts/kwinscripts.desktop:61
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "CGI Scripts"
 msgctxt "Name"
 msgid "KWin Scripts"
 msgstr "CGI ସ୍କ୍ରିପ୍ଟଗୁଡ଼ିକ"
@@ -503,7 +470,7 @@ msgctxt "Comment"
 msgid "Navigation Through Windows"
 msgstr ""
 
-#: kcmkwin/kwintabbox/kwintabbox.desktop:104
+#: kcmkwin/kwintabbox/kwintabbox.desktop:107
 msgctxt "X-KDE-Keywords"
 msgid ""
 "window,windows,switcher,window switcher,switching,window switching,alttab,"
@@ -512,16 +479,12 @@ msgstr ""
 
 #: kwin.notifyrc:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Window Manager"
 msgctxt "Comment"
 msgid "KWin Window Manager"
 msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ"
 
 #: kwin.notifyrc:69
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Strigi file indexing has been suspended"
 msgctxt "Name"
 msgid "Compositing has been suspended"
 msgstr "Strigi ଫାଇଲ ଅନୁକ୍ରମଣ କ୍ରିୟାକୁ ନିଲମ୍ବିତ କରାଯାଇଛି"
@@ -533,8 +496,6 @@ msgstr ""
 
 #: kwin.notifyrc:199
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Graphics"
 msgctxt "Name"
 msgid "Graphics Reset"
 msgstr "ଆଲେଖି"
@@ -546,16 +507,12 @@ msgstr ""
 
 #: scripting/kwinscript.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "CGI Scripts"
 msgctxt "Comment"
 msgid "KWin Script"
 msgstr "CGI ସ୍କ୍ରିପ୍ଟଗୁଡ଼ିକ"
 
 #: scripts/desktopchangeosd/metadata.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Desktop Theme Details"
 msgctxt "Name"
 msgid "Desktop Change OSD"
 msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବିବରଣୀ"
@@ -567,13 +524,11 @@ msgstr ""
 
 #: scripts/enforcedeco/metadata.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Window Information"
 msgctxt "Name"
 msgid "Enforces Window Decorations on GTK+ window"
 msgstr "ୱିଣ୍ଡୋ ସୂଚନା"
 
-#: scripts/enforcedeco/metadata.desktop:33
+#: scripts/enforcedeco/metadata.desktop:35
 msgctxt "Comment"
 msgid "Fixes functional deficits for client side decorated windows."
 msgstr ""
@@ -592,8 +547,6 @@ msgstr ""
 
 #: scripts/videowall/metadata.desktop:2
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Video Player"
 msgctxt "Name"
 msgid "Video Wall"
 msgstr "ଭିଡ଼ଓ ଚାଳକ"
@@ -607,153 +560,67 @@ msgstr ""
 
 #: tabbox/kwindesktopswitcher.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Window Manager"
 msgctxt "Comment"
 msgid "KWin Desktop Switcher Layout"
 msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ"
 
 #: tabbox/kwinwindowswitcher.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Window Manager"
 msgctxt "Comment"
 msgid "KWin Window Switcher Layout"
 msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ"
 
-#: tabbox/qml/clients/big_icons/metadata.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Icons"
-msgctxt "Name"
-msgid "Large Icons"
-msgstr "ଚିତ୍ର ସଂକେତଗୁଡ଼ିକ"
-
-#: tabbox/qml/clients/big_icons/metadata.desktop:51
-msgctxt "Comment"
-msgid "A window switcher layout using large icons to represent the window"
-msgstr ""
-
-#: tabbox/qml/clients/compact/metadata.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Compiz"
-msgctxt "Name"
-msgid "Compact"
-msgstr "Compiz"
-
-#: tabbox/qml/clients/compact/metadata.desktop:51
-msgctxt "Comment"
-msgid "A compact window switcher layout"
-msgstr ""
-
-#: tabbox/qml/clients/informative/metadata.desktop:2
-#: tabbox/qml/desktops/informative/metadata.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Information"
-msgctxt "Name"
-msgid "Informative"
-msgstr "ସୂଚନା"
-
-#: tabbox/qml/clients/informative/metadata.desktop:51
-msgctxt "Comment"
-msgid "An informative window switcher layout including desktop name"
-msgstr ""
-
-#: tabbox/qml/clients/present_windows/metadata.desktop:2
-msgctxt "Name"
-msgid "Grid"
-msgstr ""
-
-#: tabbox/qml/clients/present_windows/metadata.desktop:52
-msgctxt "Comment"
-msgid "A Window Switcher layout showing all windows as thumbnails in a grid"
-msgstr ""
-
-#: tabbox/qml/clients/sidebar/metadata.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "History Sidebar"
-msgctxt "Name"
-msgid "Sidebar"
-msgstr "ପୁରୁଣା ତଥ୍ୟ ପାର୍ଶ୍ୱପଟି"
-
-#: tabbox/qml/clients/sidebar/metadata.desktop:64
-msgctxt "Comment"
-msgid "A window switcher with live thumbnails on the screen side"
-msgstr ""
-
-#: tabbox/qml/clients/small_icons/metadata.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Icons"
-msgctxt "Name"
-msgid "Small Icons"
-msgstr "ଚିତ୍ର ସଂକେତଗୁଡ଼ିକ"
-
-#: tabbox/qml/clients/small_icons/metadata.desktop:50
-msgctxt "Comment"
-msgid "A window switcher layout using small icons to represent the window"
-msgstr ""
-
-#: tabbox/qml/clients/text/metadata.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Desktop Sessions"
-msgctxt "Name"
-msgid "Text Only"
-msgstr "ଡ଼େସ୍କଟପ ଅଧିବେଶନଗୁଡ଼ିକ"
-
-#: tabbox/qml/clients/text/metadata.desktop:39
-msgctxt "Comment"
-msgid "A window switcher layout only showing window captions"
-msgstr ""
-
-#: tabbox/qml/clients/thumbnails/metadata.desktop:2
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Thumbnail Handler"
-msgctxt "Name"
-msgid "Thumbnails"
-msgstr "କ୍ଷୁଦ୍ରଚିତ୍ର ନିୟନ୍ତ୍ରକ"
-
-#: tabbox/qml/clients/thumbnails/metadata.desktop:49
-msgctxt "Comment"
-msgid "A window switcher layout using live thumbnails"
-msgstr ""
-
-#: tabbox/qml/desktops/informative/metadata.desktop:51
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Window Manager"
-msgctxt "Comment"
-msgid "An informative desktop switcher layout"
-msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ"
-
-#: tabbox/qml/desktops/previews/metadata.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "File Preview"
-msgctxt "Name"
-msgid "Previews"
-msgstr "ଫାଇଲ ପ୍ରାକଦର୍ଶନ"
-
-#: tabbox/qml/desktops/previews/metadata.desktop:45
-msgctxt "Comment"
-msgid "A desktop switcher layout with previews of the desktops"
-msgstr ""
+#~ msgctxt "Name"
+#~ msgid "Large Icons"
+#~ msgstr "ଚିତ୍ର ସଂକେତଗୁଡ଼ିକ"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Configure web cache settings"
+#~ msgctxt "Name"
+#~ msgid "Compact"
+#~ msgstr "Compiz"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Informative"
+#~ msgstr "ସୂଚନା"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Small Icons"
+#~ msgstr "ଚିତ୍ର ସଂକେତଗୁଡ଼ିକ"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Text Only"
+#~ msgstr "ଡ଼େସ୍କଟପ ଅଧିବେଶନଗୁଡ଼ିକ"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Thumbnails"
+#~ msgstr "କ୍ଷୁଦ୍ରଚିତ୍ର ନିୟନ୍ତ୍ରକ"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "An informative desktop switcher layout"
+#~ msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Previews"
+#~ msgstr "ଫାଇଲ ପ୍ରାକଦର୍ଶନ"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Sidebar"
+#~ msgstr "ପୁରୁଣା ତଥ୍ୟ ପାର୍ଶ୍ୱପଟି"
+
+#, fuzzy
 #~ msgctxt "Comment"
 #~ msgid "Configure active screen edges"
 #~ msgstr "ୱେବ କ୍ୟାଶେ ସଂରଚନାକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Configure the behavior of Java and JavaScript"
 #~ msgctxt "Comment"
 #~ msgid "Configure the behavior for navigating through windows"
 #~ msgstr "Java ଏବଂ JavaScriptର ଆଚରଣକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
@@ -763,36 +630,26 @@ msgstr ""
 #~ msgstr "ଲଗଆଉଟ"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Screen Saver"
 #~ msgctxt "Name"
 #~ msgid "Screen Edge"
 #~ msgstr "ପରଦା ସଂରକ୍ଷକ"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Screen Saver"
 #~ msgctxt "Name"
 #~ msgid "Screenshot"
 #~ msgstr "ପରଦା ସଂରକ୍ଷକ"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Stylesheets"
 #~ msgctxt "Name"
 #~ msgid "Sheet"
 #~ msgstr "Stylesheets"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "System information for Plasmoids"
 #~ msgctxt "Comment"
 #~ msgid "Sliding animation for Plasma popups"
 #~ msgstr "ପ୍ଲାଜମଏଡ଼ ପାଇଁ ତନ୍ତ୍ର ସୂଚନା"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Saint Helena"
 #~ msgctxt "Name"
 #~ msgid "Snap Helper"
 #~ msgstr "ସେଣ୍ଟ ହେଲେନା"

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-01-03 09:51+0000\n"
+"POT-Creation-Date: 2015-01-09 08:40+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -25,13 +25,11 @@ msgstr ""
 
 #: applets/icontasks/plasma-applet-org.kde.plasma.icontasks.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Task Manager"
 msgctxt "Name"
 msgid "Icons-only Task Manager"
 msgstr "କାର୍ଯ୍ୟ ପରିଚାଳକ"
 
-#: applets/icontasks/plasma-applet-org.kde.plasma.icontasks.desktop:27
+#: applets/icontasks/plasma-applet-org.kde.plasma.icontasks.desktop:35
 #: applets/taskmanager/package/metadata.desktop:83
 msgctxt "Comment"
 msgid "Switch between running applications"
@@ -39,13 +37,11 @@ msgstr "ଚାଲୁଥିବା ପ୍ରୟୋଗଗୁଡ଼ିକ ମଧ୍�
 
 #: applets/kicker/package/metadata.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Application Launcher"
 msgctxt "Name"
 msgid "Application Menu"
 msgstr "ପ୍ରୟୋଗ ଆରମ୍ଭକର୍ତ୍ତା"
 
-#: applets/kicker/package/metadata.desktop:36
+#: applets/kicker/package/metadata.desktop:41
 msgctxt "Comment"
 msgid "A launcher based on cascading popup menus"
 msgstr ""
@@ -65,23 +61,19 @@ msgctxt "Name"
 msgid "Pager"
 msgstr "ପେଜର"
 
-#: applets/pager/package/metadata.desktop:84
+#: applets/pager/package/metadata.desktop:85
 msgctxt "Comment"
 msgid "Switch between virtual desktops"
 msgstr "ଆଭାସୀ ଡ଼େସ୍କଟପଗୁଡ଼ିକ ମଧ୍ଯରେ ଅଦଳ ବଦଳ କରନ୍ତୁ"
 
 #: applets/showActivityManager/package/metadata.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Service Manager"
 msgctxt "Name"
 msgid "Activities"
 msgstr "ସର୍ଭିସ ପରିଚାଳକ"
 
 #: applets/showActivityManager/package/metadata.desktop:59
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Service Manager"
 msgctxt "Comment"
 msgid "Shows the activity manager"
 msgstr "ସର୍ଭିସ ପରିଚାଳକ"
@@ -98,19 +90,17 @@ msgstr "Trashcan"
 
 #: applets/window-list/metadata.desktop:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "MS Windows 9x"
 msgctxt "Name"
 msgid "Window list"
 msgstr "MS Windows 9x"
 
-#: applets/window-list/metadata.desktop:45
+#: applets/window-list/metadata.desktop:46
 msgctxt "Comment"
 msgid "Plasmoid to show list of opened windows."
 msgstr ""
 
 #: containments/desktop/package/metadata.desktop:2
-#: desktoppackage/metadata.desktop:41
+#: desktoppackage/metadata.desktop:42
 msgctxt "Name"
 msgid "Desktop"
 msgstr "ଡ଼େସ୍କଟପ"
@@ -125,36 +115,30 @@ msgctxt "Name"
 msgid "Folder"
 msgstr ""
 
-#: containments/folder/package/metadata.desktop:40
+#: containments/folder/package/metadata.desktop:42
 msgctxt "Comment"
 msgid "Display the contents of folders"
 msgstr ""
 
 #: containments/panel/metadata.desktop:4
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Panel"
 msgctxt "Name"
 msgid "Panel"
 msgstr "ଫଳକ"
 
 #: containments/panel/plasma-containment-panel.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Panel"
 msgctxt "Name"
 msgid "Empty Panel"
 msgstr "ଫଳକ"
 
-#: containments/panel/plasma-containment-panel.desktop:49
+#: containments/panel/plasma-containment-panel.desktop:50
 msgctxt "Comment"
 msgid "A simple linear panel"
 msgstr ""
 
 #: desktoppackage/metadata.desktop:2
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Desktop Magnifier"
 msgctxt "Comment"
 msgid "Desktop view furniture"
 msgstr "ଡେସ୍କଟପ ଆକାର ବୃଦ୍ଧିକାରୀ"
@@ -284,13 +268,11 @@ msgstr "ଅଭିଗମ୍ୟତା"
 
 #: kcms/access/kcmaccess.desktop:110
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Accessibility"
 msgctxt "Comment"
 msgid "Accessibility Options"
 msgstr "ଅଭିଗମ୍ୟତା"
 
-#: kcms/access/kcmaccess.desktop:136
+#: kcms/access/kcmaccess.desktop:143
 msgctxt "X-KDE-Keywords"
 msgid ""
 "access,accessibility,deaf,impaired,hearing,hearing loss,bell,audible bell,"
@@ -309,9 +291,26 @@ msgctxt "Comment"
 msgid "Automatically Started Applications"
 msgstr ""
 
-#: kcms/autostart/autostart.desktop:136
+#: kcms/autostart/autostart.desktop:140
 msgctxt "X-KDE-Keywords"
 msgid "Autostart Manager,autostart,startup,system startup,kde start,cron"
+msgstr ""
+
+#: kcms/baloo/kcm_baloofile.desktop:15
+#, fuzzy
+msgctxt "Name"
+msgid "File Search"
+msgstr "ଅଂଶ ଖୋଜନ୍ତୁ"
+
+#: kcms/baloo/kcm_baloofile.desktop:45
+#, fuzzy
+msgctxt "Comment"
+msgid "Configure File Search"
+msgstr "ବନାନ ଯାଞ୍ଚକାରୀକୁ ସଂରଚନା କରନ୍ତୁ"
+
+#: kcms/baloo/kcm_baloofile.desktop:75
+msgctxt "X-KDE-Keywords"
+msgid "Search, File, Baloo"
 msgstr ""
 
 #: kcms/bell/bell.desktop:17
@@ -321,13 +320,11 @@ msgstr "ତନ୍ତ୍ର ଘଣ୍ଟି"
 
 #: kcms/bell/bell.desktop:109
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "System Bell"
 msgctxt "Comment"
 msgid "System Bell"
 msgstr "ତନ୍ତ୍ର ଘଣ୍ଟି"
 
-#: kcms/bell/bell.desktop:143
+#: kcms/bell/bell.desktop:146
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Bell,Audio,Sound,Volume,Pitch,Duration,PC Speaker,Internal Speaker,Speaker,"
@@ -341,13 +338,11 @@ msgstr "ରଙ୍ଗ"
 
 #: kcms/colors/colors.desktop:107
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Application Launcher"
 msgctxt "Comment"
 msgid "Application Color Scheme"
 msgstr "ପ୍ରୟୋଗ ଆରମ୍ଭକର୍ତ୍ତା"
 
-#: kcms/colors/colors.desktop:139
+#: kcms/colors/colors.desktop:144
 msgctxt "X-KDE-Keywords"
 msgid ""
 "colors,colours,scheme,contrast,Widget colors,Color Scheme,color style,color "
@@ -359,15 +354,13 @@ msgctxt "Name"
 msgid "Default Applications"
 msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ ପ୍ରୟୋଗଗୁଡ଼ିକ"
 
-#: kcms/componentchooser/componentchooser.desktop:96
+#: kcms/componentchooser/componentchooser.desktop:97
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Default Applications"
 msgctxt "Comment"
 msgid "Default Applications"
 msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ ପ୍ରୟୋଗଗୁଡ଼ିକ"
 
-#: kcms/componentchooser/componentchooser.desktop:129
+#: kcms/componentchooser/componentchooser.desktop:134
 msgctxt "X-KDE-Keywords"
 msgid ""
 "default applications,components,component chooser,resources,e-mail,email "
@@ -377,13 +370,11 @@ msgstr ""
 
 #: kcms/componentchooser/componentservices/kcm_browser.desktop:4
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Web Browser"
 msgctxt "Name|standard desktop component"
 msgid "Web Browser"
 msgstr "ୱେବ ବ୍ରାଉଜର"
 
-#: kcms/componentchooser/componentservices/kcm_browser.desktop:73
+#: kcms/componentchooser/componentservices/kcm_browser.desktop:74
 msgctxt "Comment"
 msgid ""
 "Here you can configure your default web browser. All KDE applications in "
@@ -394,13 +385,11 @@ msgstr ""
 
 #: kcms/componentchooser/componentservices/kcm_filemanager.desktop:4
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Task Manager"
 msgctxt "Name|standard desktop component"
 msgid "File Manager"
 msgstr "କାର୍ଯ୍ୟ ପରିଚାଳକ"
 
-#: kcms/componentchooser/componentservices/kcm_filemanager.desktop:41
+#: kcms/componentchooser/componentservices/kcm_filemanager.desktop:43
 msgctxt "Comment"
 msgid ""
 "Here you can configure your default file manager. The entries in the K menu "
@@ -410,13 +399,11 @@ msgstr ""
 
 #: kcms/componentchooser/componentservices/kcm_kemail.desktop:4
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Email Client"
 msgctxt "Name|standard desktop component"
 msgid "Email Client"
 msgstr "ଇମେଲ କ୍ଲାଏଣ୍ଟ"
 
-#: kcms/componentchooser/componentservices/kcm_kemail.desktop:73
+#: kcms/componentchooser/componentservices/kcm_kemail.desktop:74
 msgctxt "Comment"
 msgid ""
 "This service allows you to configure your default email client. All KDE "
@@ -426,13 +413,11 @@ msgstr ""
 
 #: kcms/componentchooser/componentservices/kcm_terminal.desktop:4
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Terminal Emulator"
 msgctxt "Name|standard desktop component"
 msgid "Terminal Emulator"
 msgstr "ଟର୍ମିନାଲ ଯାନ୍ତ୍ରାନୁକରଣ"
 
-#: kcms/componentchooser/componentservices/kcm_terminal.desktop:73
+#: kcms/componentchooser/componentservices/kcm_terminal.desktop:74
 msgctxt "Comment"
 msgid ""
 "This service allows you to configure your default terminal emulator. All KDE "
@@ -442,13 +427,11 @@ msgstr ""
 
 #: kcms/componentchooser/componentservices/kcm_wm.desktop:4
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Task Manager"
 msgctxt "Name|standard desktop component"
 msgid "Window Manager"
 msgstr "କାର୍ଯ୍ୟ ପରିଚାଳକ"
 
-#: kcms/componentchooser/componentservices/kcm_wm.desktop:41
+#: kcms/componentchooser/componentservices/kcm_wm.desktop:44
 msgctxt "Comment"
 msgid "Here you can select the window manager to be run in your KDE session."
 msgstr "ଆପଣଙ୍କର KDE ଅଧିବେଶନରେ ଚଲାଇବା ପାଇଁ ୱିଣ୍ଡୋ ପରିଚାଳକଙ୍କୁ ଏଠାରେ ଚୟନ କରିପାରିବେ।"
@@ -458,7 +441,7 @@ msgctxt "Name"
 msgid "A nice name you have chosen for your interface"
 msgstr "ଆପଣ ଆପଣଙ୍କର ଅନ୍ତରାପୃଷ୍ଠ ପାଇଁ ପସନ୍ଦ କରିଥିବା ଗୋଟିଏ ସୁନ୍ଦର ନାମ"
 
-#: kcms/componentchooser/EXAMPLE.desktop:87
+#: kcms/componentchooser/EXAMPLE.desktop:88
 msgctxt "Comment"
 msgid "A helpful description of the interface for the top right info box"
 msgstr "ଡ଼ାହାଣ ପାଖ ଉପର ଅଂଶ ସୂଚନା ବାକ୍ସ ପାଇଁ ଅନ୍ତରାପୃଷ୍ଠର ଗୋଟିଏ ସହାୟକ ବର୍ଣ୍ଣନା"
@@ -491,13 +474,11 @@ msgstr "ତାରିଖ ଏବଂ ସମୟ"
 
 #: kcms/dateandtime/clock.desktop:109
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Date & Time"
 msgctxt "Comment"
 msgid "Date and Time"
 msgstr "ତାରିଖ ଏବଂ ସମୟ"
 
-#: kcms/dateandtime/clock.desktop:142
+#: kcms/dateandtime/clock.desktop:146
 msgctxt "X-KDE-Keywords"
 msgid ""
 "clock,date,time,time zone,ntp,synchronize,calendar,local time,region time"
@@ -505,16 +486,12 @@ msgstr ""
 
 #: kcms/dateandtime/kcmclock_actions.actions:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Date and Time"
 msgctxt "Name"
 msgid "Date and Time Control Module"
 msgstr "ତାରିଖ ଏବଂ ସମୟ"
 
 #: kcms/dateandtime/kcmclock_actions.actions:75
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Date and time settings"
 msgctxt "Name"
 msgid "Save the date/time settings"
 msgstr "ତାରିଖ ଏବଂ ସମୟ ସଂରଚନା"
@@ -534,7 +511,7 @@ msgctxt "Comment"
 msgid "Paths to Personal Files"
 msgstr ""
 
-#: kcms/desktoppaths/desktoppath.desktop:138
+#: kcms/desktoppaths/desktoppath.desktop:142
 msgctxt "X-KDE-Keywords"
 msgid ""
 "konqueror,dolphin,files,filemanager,path, paths,desktop,directories,"
@@ -543,24 +520,18 @@ msgstr ""
 
 #: kcms/desktoptheme/desktoptheme.desktop:13
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Desktop Theme Details"
 msgctxt "Name"
 msgid "Desktop Theme"
 msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବିବରଣୀ"
 
 #: kcms/desktoptheme/desktoptheme.desktop:78
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Desktop Theme Details"
 msgctxt "Comment"
 msgid "Desktop Theme"
 msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବିବରଣୀ"
 
-#: kcms/desktoptheme/desktoptheme.desktop:111
+#: kcms/desktoptheme/desktoptheme.desktop:114
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Desktop Theme Details"
 msgctxt "X-KDE-Keywords"
 msgid "Desktop Theme"
 msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବିବରଣୀ"
@@ -570,18 +541,14 @@ msgctxt "Name"
 msgid "Emoticons"
 msgstr "Emoticons"
 
-#: kcms/emoticons/emoticons.desktop:94
+#: kcms/emoticons/emoticons.desktop:95
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Emoticons Themes Manager"
 msgctxt "Comment"
 msgid "Emoticon Theme"
 msgstr "Emoticons ପ୍ରସଙ୍ଗ ପରିଚାଳକ"
 
-#: kcms/emoticons/emoticons.desktop:125
+#: kcms/emoticons/emoticons.desktop:130
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Emoticons"
 msgctxt "X-KDE-Keywords"
 msgid "Emoticons"
 msgstr "Emoticons"
@@ -593,13 +560,11 @@ msgstr "ଅକ୍ଷର ରୂପ"
 
 #: kcms/fonts/fonts.desktop:107
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Fonts"
 msgctxt "Comment"
 msgid "Fonts"
 msgstr "ଅକ୍ଷର ରୂପ"
 
-#: kcms/fonts/fonts.desktop:141
+#: kcms/fonts/fonts.desktop:144
 msgctxt "X-KDE-Keywords"
 msgid ""
 "fonts,font size,styles,charsets,character sets,panel,control panel,desktops,"
@@ -612,12 +577,12 @@ msgctxt "Name"
 msgid "Formats"
 msgstr ""
 
-#: kcms/formats/formats.desktop:47
+#: kcms/formats/formats.desktop:50
 msgctxt "Comment"
 msgid "Numeric, Currency and Time Formats"
 msgstr ""
 
-#: kcms/formats/formats.desktop:79
+#: kcms/formats/formats.desktop:86
 msgctxt "X-KDE-Keywords"
 msgid ""
 "language,translation,number format,locale,Country,charsets,character sets,"
@@ -628,18 +593,16 @@ msgstr ""
 
 #: kcms/hardware/joystick/joystick.desktop:17
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Joystick"
 msgctxt "Comment"
 msgid "Joystick"
 msgstr "Joystick"
 
-#: kcms/hardware/joystick/joystick.desktop:50
+#: kcms/hardware/joystick/joystick.desktop:54
 msgctxt "Name"
 msgid "Joystick"
 msgstr "Joystick"
 
-#: kcms/hardware/joystick/joystick.desktop:142
+#: kcms/hardware/joystick/joystick.desktop:146
 msgctxt "X-KDE-Keywords"
 msgid "joystick,gamepad,controller"
 msgstr ""
@@ -649,36 +612,30 @@ msgctxt "Name"
 msgid "Icons"
 msgstr "ଚିତ୍ର ସଂକେତଗୁଡ଼ିକ"
 
-#: kcms/icons/icons.desktop:104
+#: kcms/icons/icons.desktop:105
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Cursor Files"
 msgctxt "Comment"
 msgid "Icon Theme"
 msgstr "ସୂଚକ ଫାଇଲଗୁଡ଼ିକ"
 
-#: kcms/icons/icons.desktop:137
+#: kcms/icons/icons.desktop:142
 msgctxt "X-KDE-Keywords"
 msgid "icons,effects,size,hicolor,locolor"
 msgstr ""
 
 #: kcms/input/cursortheme.desktop:13
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Cursor Files"
 msgctxt "Name"
 msgid "Cursor Theme"
 msgstr "ସୂଚକ ଫାଇଲଗୁଡ଼ିକ"
 
 #: kcms/input/cursortheme.desktop:75
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Cursor Files"
 msgctxt "Comment"
 msgid "Mouse Cursor Theme"
 msgstr "ସୂଚକ ଫାଇଲଗୁଡ଼ିକ"
 
-#: kcms/input/cursortheme.desktop:107
+#: kcms/input/cursortheme.desktop:111
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Mouse,Cursor,Theme,Cursor Appearance,Cursor Color,Cursor Theme,Mouse Theme,"
@@ -695,7 +652,7 @@ msgctxt "Comment"
 msgid "Mouse Controls"
 msgstr ""
 
-#: kcms/input/mouse.desktop:141
+#: kcms/input/mouse.desktop:144
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Mouse,Mouse acceleration,Mouse threshold,Mouse buttons,Selection,Cursor "
@@ -710,15 +667,13 @@ msgctxt "Name"
 msgid "Background Services"
 msgstr ""
 
-#: kcms/kded/kcmkded.desktop:45
+#: kcms/kded/kcmkded.desktop:48
 msgctxt "Comment"
 msgid "Background Services"
 msgstr ""
 
-#: kcms/kded/kcmkded.desktop:76
+#: kcms/kded/kcmkded.desktop:83
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Dolphin View"
 msgctxt "X-KDE-Keywords"
 msgid "KDED,Daemon,Services"
 msgstr "ଡଲଫିନ ଦୃଶ୍ୟ"
@@ -730,13 +685,11 @@ msgstr "କିବୋର୍ଡ଼"
 
 #: kcms/keyboard/kcm_keyboard.desktop:110
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Keyboard Layout"
 msgctxt "Comment"
 msgid "Keyboard Hardware and Layout"
 msgstr "କିବୋର୍ଡ଼ ବିନ୍ୟାସ"
 
-#: kcms/keyboard/kcm_keyboard.desktop:142
+#: kcms/keyboard/kcm_keyboard.desktop:146
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Keyboard,Keyboard repeat,Click volume,Input Devices,repeat,volume,NumLock,"
@@ -747,8 +700,6 @@ msgstr ""
 
 #: kcms/keyboard/keyboard.desktop:12
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Keyboard Layout"
 msgctxt "Name"
 msgid "Keyboard Daemon"
 msgstr "କିବୋର୍ଡ଼ ବିନ୍ୟାସ"
@@ -760,13 +711,11 @@ msgstr "ଜାଗତିକ କିବୋର୍ଡ଼ ସଂକ୍ଷିପ୍ତ 
 
 #: kcms/keys/keys.desktop:95
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Global Keyboard Shortcuts"
 msgctxt "Comment"
 msgid "Global Keyboard Shortcuts"
 msgstr "ଜାଗତିକ କିବୋର୍ଡ଼ ସଂକ୍ଷିପ୍ତ ପଥ"
 
-#: kcms/keys/keys.desktop:130
+#: kcms/keys/keys.desktop:133
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Keys,Global key bindings,Key scheme,Key bindings,shortcuts,application "
@@ -805,8 +754,6 @@ msgstr ""
 
 #: kcms/kfontinst/kcmfontinst/fontinst.desktop:13
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "File Management"
 msgctxt "Name"
 msgid "Font Management"
 msgstr "ଫାଇଲ ପରିଚାଳନା"
@@ -816,7 +763,7 @@ msgctxt "Comment"
 msgid "Font Installation, Preview and Removal"
 msgstr ""
 
-#: kcms/kfontinst/kcmfontinst/fontinst.desktop:100
+#: kcms/kfontinst/kcmfontinst/fontinst.desktop:103
 msgctxt "X-KDE-Keywords"
 msgid "font,fonts,installer,truetype,type1,bitmap"
 msgstr ""
@@ -833,54 +780,50 @@ msgstr "ଅକ୍ଷରରୂପ ପ୍ରଦର୍ଶକ"
 
 #: kcms/knotify/kcmnotify.desktop:14
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Notifications"
 msgctxt "Name"
 msgid "Notifications"
 msgstr "ବିଜ୍ଞପ୍ତି"
 
-#: kcms/knotify/kcmnotify.desktop:48
+#: kcms/knotify/kcmnotify.desktop:52
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "System Bell Configuration"
 msgctxt "Comment"
 msgid "Event Notifications and Actions"
 msgstr "ତନ୍ତ୍ର ଘଣ୍ଟି ସଂରଚନା"
 
-#: kcms/knotify/kcmnotify.desktop:80
+#: kcms/knotify/kcmnotify.desktop:89
 msgctxt "X-KDE-Keywords"
 msgid "System sounds,Audio,Sound,Notify,Alerts,Notification,popups"
 msgstr ""
 
 #: kcms/ksmserver/kcmsmserver.desktop:14
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Desktop Theme Details"
 msgctxt "Name"
 msgid "Desktop Session"
 msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବିବରଣୀ"
 
-#: kcms/ksmserver/kcmsmserver.desktop:47
+#: kcms/ksmserver/kcmsmserver.desktop:50
 msgctxt "Comment"
 msgid "Desktop Session Login and Logout"
 msgstr ""
 
-#: kcms/ksmserver/kcmsmserver.desktop:79
+#: kcms/ksmserver/kcmsmserver.desktop:85
 msgctxt "X-KDE-Keywords"
 msgid "ksmserver,session,logout,confirmation,save,restore"
 msgstr ""
 
-#: kcms/ksplash/ksplashthememgr.desktop:15
+#: kcms/ksplash/kcm_splashscreen.desktop:15
+#: kcms/ksplash/package/metadata.desktop:2
 msgctxt "Name"
 msgid "Splash Screen"
 msgstr ""
 
-#: kcms/ksplash/ksplashthememgr.desktop:49
+#: kcms/ksplash/kcm_splashscreen.desktop:53
+#: kcms/ksplash/package/metadata.desktop:40
 msgctxt "Comment"
 msgid "Splash Screen Theme"
 msgstr ""
 
-#: kcms/ksplash/ksplashthememgr.desktop:79
+#: kcms/ksplash/kcm_splashscreen.desktop:87
 msgctxt "X-KDE-Keywords"
 msgid "splash screen,splash theme,startup"
 msgstr ""
@@ -892,13 +835,11 @@ msgstr ""
 
 #: kcms/launch/kcmlaunch.desktop:102
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Application Launcher"
 msgctxt "Comment"
 msgid "Application Launch Feedback"
 msgstr "ପ୍ରୟୋଗ ଆରମ୍ଭକର୍ତ୍ତା"
 
-#: kcms/launch/kcmlaunch.desktop:133
+#: kcms/launch/kcmlaunch.desktop:137
 msgctxt "X-KDE-Keywords"
 msgid ""
 "application,start,launch,busy,cursor,feedback,mouse,pointer,bouncing,"
@@ -910,7 +851,7 @@ msgctxt "Comment"
 msgid "Test Look and Feel package"
 msgstr ""
 
-#: kcms/lookandfeel/autotests/lookandfeel/metadata.desktop:28
+#: kcms/lookandfeel/autotests/lookandfeel/metadata.desktop:34
 msgctxt "Name"
 msgid "Test"
 msgstr ""
@@ -921,38 +862,34 @@ msgctxt "Name"
 msgid "Look And Feel"
 msgstr ""
 
-#: kcms/lookandfeel/kcm_lookandfeel.desktop:40
+#: kcms/lookandfeel/kcm_lookandfeel.desktop:47
 msgctxt "Comment"
 msgid "Look And Feel"
 msgstr ""
 
-#: kcms/lookandfeel/kcm_lookandfeel.desktop:65
+#: kcms/lookandfeel/kcm_lookandfeel.desktop:79
 msgctxt "X-KDE-Keywords"
 msgid "theme, look, feel"
 msgstr ""
 
-#: kcms/lookandfeel/package/metadata.desktop:27
+#: kcms/lookandfeel/package/metadata.desktop:34
 msgctxt "Comment"
 msgid "Configure The Look And feel of the Desktop"
 msgstr ""
 
 #: kcms/phonon/kcm_phonon.desktop:13
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Date and time settings"
 msgctxt "Name"
 msgid "Audio and Video"
 msgstr "ତାରିଖ ଏବଂ ସମୟ ସଂରଚନା"
 
-#: kcms/phonon/kcm_phonon.desktop:45
+#: kcms/phonon/kcm_phonon.desktop:49
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Date and time settings"
 msgctxt "Comment"
 msgid "Phonon Audio and Video"
 msgstr "ତାରିଖ ଏବଂ ସମୟ ସଂରଚନା"
 
-#: kcms/phonon/kcm_phonon.desktop:77
+#: kcms/phonon/kcm_phonon.desktop:85
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Sound,Phonon,Audio,Video,Output,Device,Notification,Music,Communication,"
@@ -964,54 +901,46 @@ msgctxt "Name"
 msgid "Plasma Search"
 msgstr ""
 
-#: kcms/runners/kcm_plasmasearch.desktop:44
+#: kcms/runners/kcm_plasmasearch.desktop:48
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Configure the spell checker"
 msgctxt "Comment"
 msgid "Configure Search"
 msgstr "ବନାନ ଯାଞ୍ଚକାରୀକୁ ସଂରଚନା କରନ୍ତୁ"
 
-#: kcms/runners/kcm_plasmasearch.desktop:75
+#: kcms/runners/kcm_plasmasearch.desktop:84
 msgctxt "X-KDE-Keywords"
 msgid "Search, File, Baloo, Runner, krunner"
 msgstr ""
 
 #: kcms/spellchecking/spellchecking.desktop:14
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Spell Checker"
 msgctxt "Name"
 msgid "Spell Check"
 msgstr "ବନାନ ଯାଞ୍ଚକାରୀ"
 
-#: kcms/spellchecking/spellchecking.desktop:48
+#: kcms/spellchecking/spellchecking.desktop:52
 msgctxt "Comment"
 msgid "Spell Checker Dictionaries and Options"
 msgstr ""
 
-#: kcms/spellchecking/spellchecking.desktop:80
+#: kcms/spellchecking/spellchecking.desktop:87
 msgctxt "X-KDE-Keywords"
 msgid "Spell"
 msgstr ""
 
 #: kcms/standard_actions/standard_actions.desktop:15
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Global Keyboard Shortcuts"
 msgctxt "Name"
 msgid "Application Keyboard Shortcuts"
 msgstr "ଜାଗତିକ କିବୋର୍ଡ଼ ସଂକ୍ଷିପ୍ତ ପଥ"
 
-#: kcms/standard_actions/standard_actions.desktop:47
+#: kcms/standard_actions/standard_actions.desktop:51
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Standard Keyboard Shortcuts"
 msgctxt "Comment"
 msgid "Standard Keyboard Shortcuts for Applications"
 msgstr "ମାନକ କିବୋର୍ଡ଼ ସଂକ୍ଷିପ୍ତ ପଥଗୁଡ଼ିକ"
 
-#: kcms/standard_actions/standard_actions.desktop:78
+#: kcms/standard_actions/standard_actions.desktop:86
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Keys,Global key bindings,Key scheme,Key bindings,shortcuts,application "
@@ -1020,8 +949,6 @@ msgstr ""
 
 #: kcms/style/kcmstyle.notifyrc:3
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Calendar Manager"
 msgctxt "Name"
 msgid "Menubar manager"
 msgstr "କ୍ୟାଲେଣ୍ଡର ପରିଚାଳକ"
@@ -1041,17 +968,17 @@ msgctxt "Comment"
 msgid "Settings changes will take effect only on application restart"
 msgstr ""
 
-#: kcms/style/style.desktop:15
+#: kcms/style/style.desktop:16
 msgctxt "Name"
 msgid "Widget Style"
 msgstr ""
 
-#: kcms/style/style.desktop:46
+#: kcms/style/style.desktop:50
 msgctxt "Comment"
 msgid "Widget Style and Behavior"
 msgstr ""
 
-#: kcms/style/style.desktop:78
+#: kcms/style/style.desktop:85
 msgctxt "X-KDE-Keywords"
 msgid ""
 "style,styles,look,widget,icons,toolbars,text,highlight,apps,KDE applications,"
@@ -1065,15 +992,15 @@ msgstr ""
 
 #: kcms/useraccount/kcm_useraccount.desktop:14
 msgctxt "Name"
-msgid "Password & User Account"
+msgid "Password and User Account"
 msgstr ""
 
-#: kcms/useraccount/kcm_useraccount.desktop:45
+#: kcms/useraccount/kcm_useraccount.desktop:36
 msgctxt "X-KDE-Keywords"
 msgid "password,email,name,organization,realname,login image,face,echo mode"
 msgstr ""
 
-#: kcms/useraccount/kcm_useraccount.desktop:66
+#: kcms/useraccount/kcm_useraccount.desktop:60
 msgctxt "Comment"
 msgid "User information such as password, name and email"
 msgstr ""
@@ -1083,24 +1010,24 @@ msgctxt "Name"
 msgid "Workspace"
 msgstr ""
 
-#: kcms/workspaceoptions/workspaceoptions.desktop:52
+#: kcms/workspaceoptions/workspaceoptions.desktop:53
 msgctxt "Comment"
 msgid "Workspace Behavior"
 msgstr ""
 
-#: kcms/workspaceoptions/workspaceoptions.desktop:85
+#: kcms/workspaceoptions/workspaceoptions.desktop:89
 msgctxt "X-KDE-Keywords"
 msgid ""
 "plasma,workspace,shell,formfactor,dashboard,tooltips,informational tips,"
 "tooltips"
 msgstr ""
 
-#: knetattach/knetattach.desktop:2
+#: knetattach/org.kde.knetattach.desktop:2
 msgctxt "Name"
 msgid "KNetAttach"
 msgstr "KNetAttach"
 
-#: knetattach/knetattach.desktop:87
+#: knetattach/org.kde.knetattach.desktop:88
 msgctxt "GenericName"
 msgid "Network Folder Wizard"
 msgstr "ନେଟୱର୍କ ଫୋଲଡ଼ର ୱିଜାର୍ଡ଼"
@@ -1117,16 +1044,12 @@ msgstr ""
 
 #: layout-templates/org.kde.plasma.desktop.defaultPanel/metadata.desktop:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Default Applications"
 msgctxt "Name"
 msgid "Default Panel"
 msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ ପ୍ରୟୋଗଗୁଡ଼ିକ"
 
 #: runners/plasma-desktop/plasma-runner-plasma-desktop.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Plasma Desktop Workspace"
 msgctxt "Name"
 msgid "Plasma Desktop Shell"
 msgstr "ପ୍ଲାଜମା ଡ଼େସ୍କଟପ କାର୍ଯ୍ୟସ୍ଥଳ"
@@ -1156,48 +1079,40 @@ msgctxt "Name"
 msgid "Rechargeable"
 msgstr ""
 
-#: solid-actions-kcm/device-actions/solid-device-Battery.desktop:265
+#: solid-actions-kcm/device-actions/solid-device-Battery.desktop:266
 msgctxt "Name"
 msgid "Type"
 msgstr ""
 
-#: solid-actions-kcm/device-actions/solid-device-Battery.desktop:340
+#: solid-actions-kcm/device-actions/solid-device-Battery.desktop:342
 #: solid-actions-kcm/device-actions/solid-device-Block.desktop:214
-#: solid-actions-kcm/device-actions/solid-device-Camera.desktop:146
-#: solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:871
-#: solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:653
-#: solid-actions-kcm/device-actions/solid-device-PortableMediaPlayer.desktop:146
-#: solid-actions-kcm/device-actions/solid-device-Processor.desktop:285
+#: solid-actions-kcm/device-actions/solid-device-Camera.desktop:147
+#: solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:875
+#: solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:659
+#: solid-actions-kcm/device-actions/solid-device-PortableMediaPlayer.desktop:147
+#: solid-actions-kcm/device-actions/solid-device-Processor.desktop:287
 #: solid-actions-kcm/device-actions/solid-device-StorageAccess.desktop:148
-#: solid-actions-kcm/device-actions/solid-device-StorageDrive.desktop:364
-#: solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:437
+#: solid-actions-kcm/device-actions/solid-device-StorageDrive.desktop:367
+#: solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:440
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "USB Devices"
 msgctxt "Name"
 msgid "Solid Device"
 msgstr "USB ଉପକରଣ"
 
 #: solid-actions-kcm/device-actions/solid-device-Block.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Devices"
 msgctxt "Name"
 msgid "Device"
 msgstr "ଉପକରଣଗୁଡ଼ିକ"
 
 #: solid-actions-kcm/device-actions/solid-device-Block.desktop:75
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Moria"
 msgctxt "Name"
 msgid "Major"
 msgstr "ମୋରିଆ"
 
 #: solid-actions-kcm/device-actions/solid-device-Block.desktop:144
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Moria"
 msgctxt "Name"
 msgid "Minor"
 msgstr "ମୋରିଆ"
@@ -1211,16 +1126,12 @@ msgstr ""
 #: solid-actions-kcm/device-actions/solid-device-Camera.desktop:74
 #: solid-actions-kcm/device-actions/solid-device-PortableMediaPlayer.desktop:74
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Protocols"
 msgctxt "Name"
 msgid "Supported Protocols"
 msgstr "ପ୍ରୋଟୋକଲଗୁଡ଼ିକ"
 
 #: solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Appearance"
 msgctxt "Name"
 msgid "Appendable"
 msgstr "ଦୃଶ୍ୟ"
@@ -1232,16 +1143,12 @@ msgstr ""
 
 #: solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:146
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Plan"
 msgctxt "Name"
 msgid "Blank"
 msgstr "ଯୋଜନା"
 
 #: solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:218
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Audacity"
 msgctxt "Name"
 msgid "Capacity"
 msgstr "Audacity"
@@ -1260,8 +1167,6 @@ msgstr ""
 #: solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:438
 #: solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:75
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Iagno"
 msgctxt "Name"
 msgid "Ignored"
 msgstr "Iagno"
@@ -1269,8 +1174,6 @@ msgstr "Iagno"
 #: solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:510
 #: solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:147
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Panel"
 msgctxt "Name"
 msgid "Label"
 msgstr "ଫଳକ"
@@ -1280,28 +1183,24 @@ msgctxt "Name"
 msgid "Rewritable"
 msgstr ""
 
-#: solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:654
-#: solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:361
-#: solid-actions-kcm/device-actions/solid-device-StorageDrive.desktop:290
+#: solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:655
+#: solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:364
+#: solid-actions-kcm/device-actions/solid-device-StorageDrive.desktop:292
 #: solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:220
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Belize"
 msgctxt "Name"
 msgid "Size"
 msgstr "ବେଲିଜ"
 
-#: solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:727
-#: solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:293
+#: solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:729
+#: solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:294
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Pager"
 msgctxt "Name"
 msgid "Usage"
 msgstr "ପେଜର"
 
-#: solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:799
-#: solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:365
+#: solid-actions-kcm/device-actions/solid-device-OpticalDisc.desktop:802
+#: solid-actions-kcm/device-actions/solid-device-StorageVolume.desktop:367
 msgctxt "Name"
 msgid "Uuid"
 msgstr ""
@@ -1309,52 +1208,46 @@ msgstr ""
 #: solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:2
 #: solid-actions-kcm/device-actions/solid-device-StorageDrive.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Belarus"
 msgctxt "Name"
 msgid "Bus"
 msgstr "ବେଲାରୁସ"
 
-#: solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:75
-#: solid-actions-kcm/device-actions/solid-device-StorageDrive.desktop:75
+#: solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:76
+#: solid-actions-kcm/device-actions/solid-device-StorageDrive.desktop:76
 msgctxt "Name"
 msgid "Drive Type"
 msgstr ""
 
-#: solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:149
-#: solid-actions-kcm/device-actions/solid-device-StorageDrive.desktop:149
+#: solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:150
+#: solid-actions-kcm/device-actions/solid-device-StorageDrive.desktop:150
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Portugal"
 msgctxt "Name"
 msgid "Hotpluggable"
 msgstr "ପର୍ତ୍ତୁଗାଲ"
 
-#: solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:217
+#: solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:218
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Spread Sheet"
 msgctxt "Name"
 msgid "Read Speed"
 msgstr "ସ୍ପ୍ରେଡ଼ ସୀଟ"
 
-#: solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:288
-#: solid-actions-kcm/device-actions/solid-device-StorageDrive.desktop:217
+#: solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:290
+#: solid-actions-kcm/device-actions/solid-device-StorageDrive.desktop:218
 msgctxt "Name"
 msgid "Removable"
 msgstr ""
 
-#: solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:434
+#: solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:438
 msgctxt "Name"
 msgid "Supported Media"
 msgstr ""
 
-#: solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:506
+#: solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:510
 msgctxt "Name"
 msgid "Write Speed"
 msgstr ""
 
-#: solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:579
+#: solid-actions-kcm/device-actions/solid-device-OpticalDrive.desktop:584
 msgctxt "Name"
 msgid "Write Speeds"
 msgstr ""
@@ -1366,48 +1259,36 @@ msgstr ""
 
 #: solid-actions-kcm/device-actions/solid-device-Processor.desktop:72
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Illegal instruction."
 msgctxt "Name"
 msgid "Instruction Sets"
 msgstr "ଅବୈଧ ନିର୍ଦ୍ଦେଶ।"
 
 #: solid-actions-kcm/device-actions/solid-device-Processor.desktop:141
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Mac Scheme"
 msgctxt "Name"
 msgid "Max Speed"
 msgstr "Mac ଯୋଜନା"
 
-#: solid-actions-kcm/device-actions/solid-device-Processor.desktop:213
+#: solid-actions-kcm/device-actions/solid-device-Processor.desktop:214
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Niue"
 msgctxt "Name"
 msgid "Number"
 msgstr "ନିଉ"
 
 #: solid-actions-kcm/device-actions/solid-device-StorageAccess.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Accessibility"
 msgctxt "Name"
 msgid "Accessible"
 msgstr "ଅଭିଗମ୍ୟତା"
 
 #: solid-actions-kcm/device-actions/solid-device-StorageAccess.desktop:74
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Find Part"
 msgctxt "Name"
 msgid "File Path"
 msgstr "ଅଂଶ ଖୋଜନ୍ତୁ"
 
 #: solid-actions-kcm/solid-actions.desktop:13
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Device Information"
 msgctxt "Name"
 msgid "Device Actions"
 msgstr "ଯନ୍ତ୍ର ସୂଚନା"
@@ -1417,73 +1298,55 @@ msgctxt "Comment"
 msgid "Manage actions available to the user when connecting new devices"
 msgstr ""
 
-#: solid-actions-kcm/solid-actions.desktop:133
+#: solid-actions-kcm/solid-actions.desktop:134
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Device Information"
 msgctxt "X-KDE-Keywords"
 msgid "Solid Devices Actions"
 msgstr "ଯନ୍ତ୍ର ସୂଚନା"
 
 #: solid-actions-kcm/solid-device-type.desktop:4
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Devices"
 msgctxt "Name"
 msgid "Solid Device Type"
 msgstr "ଉପକରଣଗୁଡ଼ିକ"
 
 #: toolboxes/desktoptoolbox/metadata.desktop:2
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Network Tool"
 msgctxt "Name"
 msgid "Declarative Toolbox"
 msgstr "ନେଟୱର୍କ ସାଧନ"
 
-#: toolboxes/desktoptoolbox/metadata.desktop:41
+#: toolboxes/desktoptoolbox/metadata.desktop:42
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Panama"
 msgctxt "Comment"
 msgid "Manage Plasma"
 msgstr "ପାନାମା"
 
 #: toolboxes/paneltoolbox/metadata.desktop:2
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Network Tool"
 msgctxt "Name"
 msgid "Panel Toolbox"
 msgstr "ନେଟୱର୍କ ସାଧନ"
 
-#: toolboxes/paneltoolbox/metadata.desktop:43
+#: toolboxes/paneltoolbox/metadata.desktop:45
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Plasma Manual"
 msgctxt "Comment"
 msgid "Manage Plasma panel"
 msgstr "ପ୍ଲାଜମା ସହାୟକ ପୁସ୍ତକ"
 
 #: toolboxes/plasma-toolbox-paneltoolbox.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Plasma Desktop Workspace"
 msgctxt "Comment"
 msgid "Default panel toolbox for the Plasma desktop shell"
 msgstr "ପ୍ଲାଜମା ଡ଼େସ୍କଟପ କାର୍ଯ୍ୟସ୍ଥଳ"
 
 #: toolboxes/plasma-toolbox-paneltoolbox.desktop:59
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Network Tool"
 msgctxt "Name"
 msgid "Panel toolbox"
 msgstr "ନେଟୱର୍କ ସାଧନ"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Improve accessibility for disabled persons"
 #~ msgctxt "Comment"
 #~ msgid "Accessibility Improvements for Disabled Persons"
 #~ msgstr "ନିଷ୍କ୍ରିୟ ବ୍ୟକ୍ତିମାନଙ୍କ ପାଇଁ ଅଭିଗମ୍ୟତା ଉନ୍ନତ କରନ୍ତୁ"
@@ -1493,15 +1356,11 @@ msgstr "ନେଟୱର୍କ ସାଧନ"
 #~ msgstr "କିବୋର୍ଡ଼ ବିନ୍ୟାସ"
 
 #, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "Strategy Game"
 #~ msgctxt "Name"
 #~ msgid "State Value"
 #~ msgstr "ଯୁକ୍ତି ଖେଳ"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Desktop"
 #~ msgctxt "Name"
 #~ msgid "Social Desktop"
 #~ msgstr "ଡ଼େସ୍କଟପ"
@@ -1515,8 +1374,6 @@ msgstr "ନେଟୱର୍କ ସାଧନ"
 #~ msgstr "ପ୍ରଦର୍ଶକ"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "A configuration tool for managing which programs start up with KDE."
 #~ msgctxt "Comment"
 #~ msgid "Manage which programs start up automatically with KDE."
 #~ msgstr ""
@@ -1528,8 +1385,6 @@ msgstr "ନେଟୱର୍କ ସାଧନ"
 #~ msgstr "ତନ୍ତ୍ର ଘଣ୍ଟି ସଂରଚନା"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Switch between running applications"
 #~ msgctxt "Comment"
 #~ msgid "Change the colors used in applications"
 #~ msgstr "ଚାଲୁଥିବା ପ୍ରୟୋଗଗୁଡ଼ିକ ମଧ୍ଯରେ ଅଦଳ ବଦଳ କରନ୍ତୁ"
@@ -1539,8 +1394,6 @@ msgstr "ନେଟୱର୍କ ସାଧନ"
 #~ msgstr "ବିଭିନ୍ନ ପ୍ରକାର ସର୍ଭିସଗୁଡ଼ିକ ପାଇଁ ପୂର୍ବନିର୍ଦ୍ଧାରିତ ଉପାଦାନଗୁଡ଼ିକୁ ପସନ୍ଦ କରନ୍ତୁ"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Date and time settings"
 #~ msgctxt "Comment"
 #~ msgid "Configure date and time settings"
 #~ msgstr "ତାରିଖ ଏବଂ ସମୟ ସଂରଚନା"
@@ -1550,8 +1403,6 @@ msgstr "ନେଟୱର୍କ ସାଧନ"
 #~ msgstr "ଦରକାରି ଫାଇଲଗୁଡ଼ିକୁ ସଂରକ୍ଷିତ କରାଯାଇଥିବା ସ୍ଥାନକୁ ପରିବର୍ତ୍ତନ କରନ୍ତୁ"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Customize individual desktop theme items"
 #~ msgctxt "Comment"
 #~ msgid "Customize the desktop theme"
 #~ msgstr "ବ୍ୟକ୍ତିଗତ ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବସ୍ତୁଗୁଡ଼ିକୁ ଇଚ୍ଛାରୂପଣ କରୁଅଛି"
@@ -1561,8 +1412,6 @@ msgstr "ନେଟୱର୍କ ସାଧନ"
 #~ msgstr "ଅକ୍ଷର ରୂପ ସଂଚଚନା"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Language, numeric, and time settings for your particular region"
 #~ msgctxt "Comment"
 #~ msgid ""
 #~ "Numeric, currency and time formatting settings for your particular region"
@@ -1581,8 +1430,6 @@ msgstr "ନେଟୱର୍କ ସାଧନ"
 #~ msgstr "KDE ଚିତ୍ରସଂକେତଗୁଡ଼ିକୁ ପସନ୍ଦମୁତାବକ କରନ୍ତୁ"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Customize individual desktop theme items"
 #~ msgctxt "Comment"
 #~ msgid "Customize the mouse cursor appearance"
 #~ msgstr "ବ୍ୟକ୍ତିଗତ ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବସ୍ତୁଗୁଡ଼ିକୁ ଇଚ୍ଛାରୂପଣ କରୁଅଛି"
@@ -1592,15 +1439,11 @@ msgstr "ନେଟୱର୍କ ସାଧନ"
 #~ msgstr "ମାଉସ ବିନ୍ୟାସ"
 
 #, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "Calendar Manager"
 #~ msgctxt "Name"
 #~ msgid "Service Manager"
 #~ msgstr "କ୍ୟାଲେଣ୍ଡର ପରିଚାଳକ"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "System Bell Configuration"
 #~ msgctxt "Comment"
 #~ msgid "KDE Services Configuration"
 #~ msgstr "ତନ୍ତ୍ର ଘଣ୍ଟି ସଂରଚନା"
@@ -1618,15 +1461,11 @@ msgstr "ନେଟୱର୍କ ସାଧନ"
 #~ msgstr "ଅକ୍ଷରରୂପଗୁଡ଼ିକୁ ସ୍ଥାପନ କରନ୍ତୁ, ପରିଚାଳନ କରନ୍ତୁ, ଏବଂ ପ୍ରାକଦର୍ଶନ କରନ୍ତୁ"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "File Management"
 #~ msgctxt "Name"
 #~ msgid "Session Management"
 #~ msgstr "ଫାଇଲ ପରିଚାଳନା"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Date and time settings"
 #~ msgctxt "Comment"
 #~ msgid "Configure the session manager and logout settings"
 #~ msgstr "ତାରିଖ ଏବଂ ସମୟ ସଂରଚନା"
