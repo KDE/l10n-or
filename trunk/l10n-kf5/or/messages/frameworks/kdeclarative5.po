@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-27 20:57+0000\n"
+"POT-Creation-Date: 2015-01-15 07:48+0000\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -75,6 +75,44 @@ msgstr ""
 #: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:407
 msgid "Unsupported Key"
 msgstr "ଅସମର୍ଥିତ କି"
+
+#: qmlcontrols/kquickcontrols/private/TextMenu.qml:37
+msgid "Undo"
+msgstr "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ"
+
+#: qmlcontrols/kquickcontrols/private/TextMenu.qml:45
+msgid "Redo"
+msgstr "ପୂର୍ବ ପଦକ୍ଷେପ"
+
+#: qmlcontrols/kquickcontrols/private/TextMenu.qml:54
+msgid "Cut"
+msgstr "କାଟନ୍ତୁ"
+
+#: qmlcontrols/kquickcontrols/private/TextMenu.qml:62
+msgid "Copy"
+msgstr "ନକଲ କରନ୍ତୁ"
+
+#: qmlcontrols/kquickcontrols/private/TextMenu.qml:70
+msgid "Paste"
+msgstr "ଲଗାନ୍ତୁ"
+
+#: qmlcontrols/kquickcontrols/private/TextMenu.qml:78
+msgid "Delete"
+msgstr "ଲିଭାନ୍ତୁ"
+
+#: qmlcontrols/kquickcontrols/private/TextMenu.qml:91
+#, fuzzy
+#| msgctxt "@action"
+#| msgid "Clear"
+msgid "Clear"
+msgstr "ସଫା କରନ୍ତୁ"
+
+#: qmlcontrols/kquickcontrols/private/TextMenu.qml:100
+#, fuzzy
+#| msgctxt "@action"
+#| msgid "Select All"
+msgid "Select All"
+msgstr "ସମସ୍ତଙ୍କୁ ଚୟନ କରନ୍ତୁ"
 
 #~ msgctxt "NAME OF TRANSLATORS"
 #~ msgid "Your names"
@@ -3434,9 +3472,6 @@ msgstr "ଅସମର୍ଥିତ କି"
 #~ msgid "New..."
 #~ msgstr "ନୂତନ..."
 
-#~ msgid "Delete"
-#~ msgstr "ଲିଭାନ୍ତୁ"
-
 #~ msgid "More Actions"
 #~ msgstr "ଅଧିକ କାର୍ଯ୍ୟ"
 
@@ -4154,10 +4189,6 @@ msgstr "ଅସମର୍ଥିତ କି"
 #~ msgstr "ବଚ୍ଛିତକୁ ଲଗାନ୍ତୁ"
 
 #~ msgctxt "@action"
-#~ msgid "Select All"
-#~ msgstr "ସମସ୍ତଙ୍କୁ ଚୟନ କରନ୍ତୁ"
-
-#~ msgctxt "@action"
 #~ msgid "Deselect"
 #~ msgstr "ନାପସନ୍ଦ କରନ୍ତୁ"
 
@@ -4316,10 +4347,6 @@ msgstr "ଅସମର୍ଥିତ କି"
 #~ msgctxt "@action"
 #~ msgid "Mail"
 #~ msgstr "ମେଲ"
-
-#~ msgctxt "@action"
-#~ msgid "Clear"
-#~ msgstr "ସଫା କରନ୍ତୁ"
 
 #~ msgctxt "@action"
 #~ msgid "Actual Size"
@@ -4510,26 +4537,14 @@ msgstr "ଅସମର୍ଥିତ କି"
 #~ msgid "Props"
 #~ msgstr "Props"
 
-#~ msgid "Undo"
-#~ msgstr "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ"
-
 #~ msgid "Front"
 #~ msgstr "ଆଗ"
-
-#~ msgid "Copy"
-#~ msgstr "ନକଲ କରନ୍ତୁ"
 
 #~ msgid "Open"
 #~ msgstr "ଖୋଲନ୍ତୁ"
 
-#~ msgid "Paste"
-#~ msgstr "ଲଗାନ୍ତୁ"
-
 #~ msgid "Find"
 #~ msgstr "ଖୋଜନ୍ତୁ"
-
-#~ msgid "Cut"
-#~ msgstr "କାଟନ୍ତୁ"
 
 #~ msgid "&OK"
 #~ msgstr "ଠିକ ଅଛି (&O)"
@@ -4673,9 +4688,6 @@ msgstr "ଅସମର୍ଥିତ କି"
 
 #~ msgid "&Overwrite"
 #~ msgstr "ନବଲିଖନ (&O)"
-
-#~ msgid "Redo"
-#~ msgstr "ପୂର୍ବ ପଦକ୍ଷେପ"
 
 #~ msgid "&Available:"
 #~ msgstr "ଉପଲବ୍ଧ (&A):"
