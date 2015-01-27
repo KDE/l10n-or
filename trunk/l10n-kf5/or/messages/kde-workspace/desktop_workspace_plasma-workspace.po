@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-01-20 10:25+0000\n"
+"POT-Creation-Date: 2015-01-27 10:21+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -183,6 +183,21 @@ msgctxt "Comment"
 msgid "Launch your favourite Applications"
 msgstr "ଆପଣଙ୍କର ପ୍ରିୟ ପ୍ରୟୋଗଗୁଡ଼ିକୁ ଆରମ୍ଭ କରନ୍ତୁ"
 
+#: applets/systemmonitor/metadata.desktop:3
+#: applets/system-monitor/plasma-applet-sm_net.desktop:3
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Network Tool"
+msgctxt "Name"
+msgid "Network Monitor"
+msgstr "ନେଟୱର୍କ ସାଧନ"
+
+#: applets/systemmonitor/metadata.desktop:67
+#: applets/system-monitor/plasma-applet-sm_net.desktop:67
+msgctxt "Comment"
+msgid "A network usage monitor"
+msgstr "ଗୋଟିଏ ନେଟୱର୍କ ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
+
 #: applets/system-monitor/plasma-applet-sm_cpu.desktop:3
 #, fuzzy
 #| msgctxt "Comment"
@@ -231,19 +246,6 @@ msgstr "ହାର୍ଡୱେର"
 msgctxt "Comment"
 msgid "Show hardware info"
 msgstr "ହାର୍ଡ଼ୱେର ସୂଚନା ଦର୍ଶାନ୍ତୁ"
-
-#: applets/system-monitor/plasma-applet-sm_net.desktop:3
-#, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Network Tool"
-msgctxt "Name"
-msgid "Network Monitor"
-msgstr "ନେଟୱର୍କ ସାଧନ"
-
-#: applets/system-monitor/plasma-applet-sm_net.desktop:67
-msgctxt "Comment"
-msgid "A network usage monitor"
-msgstr "ଗୋଟିଏ ନେଟୱର୍କ ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
 
 #: applets/system-monitor/plasma-applet-sm_ram.desktop:3
 #, fuzzy
