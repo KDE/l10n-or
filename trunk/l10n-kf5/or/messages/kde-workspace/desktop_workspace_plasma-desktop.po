@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-02-07 08:20+0000\n"
+"POT-Creation-Date: 2015-02-09 10:22+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -128,7 +128,7 @@ msgctxt "Name"
 msgid "Folder View"
 msgstr "ଅକ୍ଷରରୂପ ପ୍ରଦର୍ଶକ"
 
-#: containments/folder/package/metadata.desktop:15
+#: containments/folder/package/metadata.desktop:20
 msgctxt "Comment"
 msgid "Display the contents of folders"
 msgstr ""
@@ -338,26 +338,6 @@ msgctxt "X-KDE-Keywords"
 msgid "Search, File, Baloo"
 msgstr ""
 
-#: kcms/bell/bell.desktop:18
-msgctxt "Name"
-msgid "System Bell"
-msgstr "ତନ୍ତ୍ର ଘଣ୍ଟି"
-
-#: kcms/bell/bell.desktop:110
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "System Bell"
-msgctxt "Comment"
-msgid "System Bell"
-msgstr "ତନ୍ତ୍ର ଘଣ୍ଟି"
-
-#: kcms/bell/bell.desktop:147
-msgctxt "X-KDE-Keywords"
-msgid ""
-"Bell,Audio,Sound,Volume,Pitch,Duration,PC Speaker,Internal Speaker,Speaker,"
-"System Bell,System Speaker,Internal PC Speaker"
-msgstr ""
-
 #: kcms/colors/colors.desktop:14
 msgctxt "Name"
 msgid "Colors"
@@ -549,13 +529,16 @@ msgid "System policies prevent you from saving the date/time settings."
 msgstr ""
 
 #: kcms/desktoppaths/desktoppath.desktop:13
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Notifications"
 msgctxt "Name"
-msgid "Paths"
-msgstr "ପଥଗୁଡ଼ିକ"
+msgid "Locations"
+msgstr "ବିଜ୍ଞପ୍ତି"
 
 #: kcms/desktoppaths/desktoppath.desktop:107
 msgctxt "Comment"
-msgid "Paths to Personal Files"
+msgid "Location for Personal Files"
 msgstr ""
 
 #: kcms/desktoppaths/desktoppath.desktop:142
@@ -1506,6 +1489,21 @@ msgstr "ପ୍ଲାଜମା ଡ଼େସ୍କଟପ କାର୍ଯ୍ୟସ�
 msgctxt "Name"
 msgid "Panel toolbox"
 msgstr "ନେଟୱର୍କ ସାଧନ"
+
+#~ msgctxt "Name"
+#~ msgid "System Bell"
+#~ msgstr "ତନ୍ତ୍ର ଘଣ୍ଟି"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "System Bell"
+#~ msgctxt "Comment"
+#~ msgid "System Bell"
+#~ msgstr "ତନ୍ତ୍ର ଘଣ୍ଟି"
+
+#~ msgctxt "Name"
+#~ msgid "Paths"
+#~ msgstr "ପଥଗୁଡ଼ିକ"
 
 #, fuzzy
 #~| msgctxt "Comment"
