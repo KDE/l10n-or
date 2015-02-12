@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-02-10 10:18+0000\n"
+"POT-Creation-Date: 2015-02-12 08:23+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -183,7 +183,65 @@ msgctxt "Comment"
 msgid "Launch your favourite Applications"
 msgstr "ଆପଣଙ୍କର ପ୍ରିୟ ପ୍ରୟୋଗଗୁଡ଼ିକୁ ଆରମ୍ଭ କରନ୍ତୁ"
 
-#: applets/systemmonitor/metadata.desktop:3
+#: applets/systemmonitor/cpu/metadata.desktop:3
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "A CPU usage monitor"
+msgctxt "Name"
+msgid "CPU Load Monitor"
+msgstr "ଗୋଟିଏ CPU ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
+
+#: applets/systemmonitor/cpu/metadata.desktop:4
+msgctxt "Comment"
+msgid "Monitor the load of the CPUs"
+msgstr ""
+
+#: applets/systemmonitor/diskactivity/metadata.desktop:3
+#: applets/system-monitor/plasma-applet-sm_hdd_activity.desktop:3
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "A hard disk usage monitor"
+msgctxt "Name"
+msgid "Hard Disk I/O Monitor"
+msgstr "ଗୋଟିଏ ହାର୍ଡ଼ଡ଼ିସ୍କ ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
+
+#: applets/systemmonitor/diskactivity/metadata.desktop:4
+#: applets/system-monitor/plasma-applet-sm_hdd_activity.desktop:53
+msgctxt "Comment"
+msgid "An applet that monitors hard disk throughput and input/output"
+msgstr ""
+
+#: applets/systemmonitor/diskusage/metadata.desktop:3
+#: applets/system-monitor/plasma-applet-sm_hdd.desktop:3
+msgctxt "Name"
+msgid "Hard Disk Space Usage"
+msgstr ""
+
+#: applets/systemmonitor/diskusage/metadata.desktop:4
+#: applets/system-monitor/plasma-applet-sm_hdd.desktop:51
+msgctxt "Comment"
+msgid "An applet that monitors hard disk space usage and percentage"
+msgstr ""
+
+#: applets/systemmonitor/memory/metadata.desktop:3
+#: applets/system-monitor/plasma-applet-sm_ram.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Samba Status"
+msgctxt "Name"
+msgid "Memory Status"
+msgstr "ସାମ୍ବା ସ୍ଥିତି"
+
+#: applets/systemmonitor/memory/metadata.desktop:4
+#: applets/system-monitor/plasma-applet-sm_ram.desktop:65
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "A CPU usage monitor"
+msgctxt "Comment"
+msgid "A RAM usage monitor"
+msgstr "ଗୋଟିଏ CPU ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
+
+#: applets/systemmonitor/net/metadata.desktop:3
 #: applets/system-monitor/plasma-applet-sm_net.desktop:3
 #, fuzzy
 #| msgctxt "GenericName"
@@ -192,7 +250,7 @@ msgctxt "Name"
 msgid "Network Monitor"
 msgstr "ନେଟୱର୍କ ସାଧନ"
 
-#: applets/systemmonitor/metadata.desktop:67
+#: applets/systemmonitor/net/metadata.desktop:67
 #: applets/system-monitor/plasma-applet-sm_net.desktop:67
 msgctxt "Comment"
 msgid "A network usage monitor"
@@ -211,29 +269,6 @@ msgctxt "Comment"
 msgid "A CPU usage monitor"
 msgstr "ଗୋଟିଏ CPU ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
 
-#: applets/system-monitor/plasma-applet-sm_hdd_activity.desktop:3
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "A hard disk usage monitor"
-msgctxt "Name"
-msgid "Hard Disk I/O Monitor"
-msgstr "ଗୋଟିଏ ହାର୍ଡ଼ଡ଼ିସ୍କ ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
-
-#: applets/system-monitor/plasma-applet-sm_hdd_activity.desktop:53
-msgctxt "Comment"
-msgid "An applet that monitors hard disk throughput and input/output"
-msgstr ""
-
-#: applets/system-monitor/plasma-applet-sm_hdd.desktop:3
-msgctxt "Name"
-msgid "Hard Disk Space Usage"
-msgstr ""
-
-#: applets/system-monitor/plasma-applet-sm_hdd.desktop:51
-msgctxt "Comment"
-msgid "An applet that monitors hard disk space usage and percentage"
-msgstr ""
-
 #: applets/system-monitor/plasma-applet-sm_hwinfo.desktop:3
 #, fuzzy
 #| msgctxt "Name"
@@ -246,22 +281,6 @@ msgstr "ହାର୍ଡୱେର"
 msgctxt "Comment"
 msgid "Show hardware info"
 msgstr "ହାର୍ଡ଼ୱେର ସୂଚନା ଦର୍ଶାନ୍ତୁ"
-
-#: applets/system-monitor/plasma-applet-sm_ram.desktop:3
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Samba Status"
-msgctxt "Name"
-msgid "Memory Status"
-msgstr "ସାମ୍ବା ସ୍ଥିତି"
-
-#: applets/system-monitor/plasma-applet-sm_ram.desktop:65
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "A CPU usage monitor"
-msgctxt "Comment"
-msgid "A RAM usage monitor"
-msgstr "ଗୋଟିଏ CPU ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
 
 #: applets/system-monitor/plasma-applet-sm_temperature.desktop:3
 msgctxt "Name"
