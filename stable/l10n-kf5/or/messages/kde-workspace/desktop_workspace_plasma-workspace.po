@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-02-24 15:21+0000\n"
+"POT-Creation-Date: 2015-02-26 11:38+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -49,12 +49,12 @@ msgctxt "Name"
 msgid "Battery and Brightness"
 msgstr "ପ୍ରଦର୍ଶକ ସଂରଚନା"
 
-#: applets/batterymonitor/package/metadata.desktop:26
+#: applets/batterymonitor/package/metadata.desktop:27
 msgctxt "Comment"
 msgid "See the power status of your battery"
 msgstr ""
 
-#: applets/batterymonitor/package/metadata.desktop:100
+#: applets/batterymonitor/package/metadata.desktop:101
 #, fuzzy
 msgctxt "Keywords"
 msgid "Power Management;Battery;System;Energy;"
@@ -72,7 +72,7 @@ msgctxt "Name"
 msgid "Clipboard"
 msgstr ""
 
-#: applets/clipboard/metadata.desktop:33
+#: applets/clipboard/metadata.desktop:34
 msgctxt "Comment"
 msgid "Provides access to the clipboard history."
 msgstr ""
@@ -883,7 +883,7 @@ msgid "Low Disk Space"
 msgstr ""
 
 #: freespacenotifier/freespacenotifier.notifyrc:134
-#: ksmserver/plasma_workspace.notifyrc:501
+#: ksmserver/plasma_workspace.notifyrc:514
 msgctxt "Name"
 msgid "Warning"
 msgstr "ଚେତାବନୀ"
@@ -1026,7 +1026,7 @@ msgctxt "Comment"
 msgid "A cut & paste history utility"
 msgstr ""
 
-#: klipper/plasma-dataengine-clipboard.desktop:33
+#: klipper/plasma-dataengine-clipboard.desktop:34
 msgctxt "Comment"
 msgid "Clipboard Tool."
 msgstr ""
@@ -1042,171 +1042,171 @@ msgctxt "Comment"
 msgid "Plasma Workspace"
 msgstr "ପ୍ଲାଜମା ଡ଼େସ୍କଟପ କାର୍ଯ୍ୟସ୍ଥଳ"
 
-#: ksmserver/plasma_workspace.notifyrc:40
+#: ksmserver/plasma_workspace.notifyrc:41
 msgctxt "Name"
 msgid "Trash: Emptied"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:77
+#: ksmserver/plasma_workspace.notifyrc:79
 #, fuzzy
 msgctxt "Comment"
 msgid "The trash has been emptied"
 msgstr "ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି ଅପରିବର୍ତ୍ତିତ ହୋଇଯାଇଛି"
 
-#: ksmserver/plasma_workspace.notifyrc:118
+#: ksmserver/plasma_workspace.notifyrc:121
 msgctxt "Name"
 msgid "Textcompletion: Rotation"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:153
+#: ksmserver/plasma_workspace.notifyrc:157
 msgctxt "Comment"
 msgid "The end of the list of matches has been reached"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:194
+#: ksmserver/plasma_workspace.notifyrc:199
 msgctxt "Name"
 msgid "Textcompletion: No Match"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:229
+#: ksmserver/plasma_workspace.notifyrc:235
 msgctxt "Comment"
 msgid "No matching completion was found"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:269
+#: ksmserver/plasma_workspace.notifyrc:276
 msgctxt "Name"
 msgid "Textcompletion: Partial Match"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:304
+#: ksmserver/plasma_workspace.notifyrc:312
 msgctxt "Comment"
 msgid "There is more than one possible match"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:345
+#: ksmserver/plasma_workspace.notifyrc:354
 msgctxt "Name"
 msgid "Fatal Error"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:381
+#: ksmserver/plasma_workspace.notifyrc:391
 msgctxt "Comment"
 msgid "There was a serious error causing the program to exit"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:423
+#: ksmserver/plasma_workspace.notifyrc:434
 #, fuzzy
 msgctxt "Name"
 msgid "Notification"
 msgstr "ବିଜ୍ଞପ୍ତି"
 
-#: ksmserver/plasma_workspace.notifyrc:460
+#: ksmserver/plasma_workspace.notifyrc:472
 msgctxt "Comment"
 msgid "Something special happened in the program"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:588
+#: ksmserver/plasma_workspace.notifyrc:601
 msgctxt "Comment"
 msgid "There was an error in the program which may cause problems"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:629
+#: ksmserver/plasma_workspace.notifyrc:643
 msgctxt "Name"
 msgid "Catastrophe"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:666
+#: ksmserver/plasma_workspace.notifyrc:681
 msgctxt "Comment"
 msgid "A very serious error occurred, at least causing the program to exit"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:707
+#: ksmserver/plasma_workspace.notifyrc:723
 msgctxt "Name"
 msgid "Login"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:744
+#: ksmserver/plasma_workspace.notifyrc:761
 msgctxt "Comment"
 msgid "A new session is starting"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:784
+#: ksmserver/plasma_workspace.notifyrc:802
 #, fuzzy
 msgctxt "Name"
 msgid "Logout"
 msgstr "ଅପରିବର୍ତ୍ତନୀୟ/ଲଗଆଉଟ କରନ୍ତୁ"
 
-#: ksmserver/plasma_workspace.notifyrc:821
+#: ksmserver/plasma_workspace.notifyrc:840
 msgctxt "Comment"
 msgid "Session is exiting"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:861
+#: ksmserver/plasma_workspace.notifyrc:881
 msgctxt "Name"
 msgid "Logout Canceled"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:898
+#: ksmserver/plasma_workspace.notifyrc:919
 msgctxt "Comment"
 msgid "Plasma logout was canceled"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:936
+#: ksmserver/plasma_workspace.notifyrc:958
 msgctxt "Name"
 msgid "Print Error"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:973
+#: ksmserver/plasma_workspace.notifyrc:996
 msgctxt "Comment"
 msgid "A print error has occurred"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:1014
+#: ksmserver/plasma_workspace.notifyrc:1038
 msgctxt "Name"
 msgid "Information Message"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:1051
+#: ksmserver/plasma_workspace.notifyrc:1076
 msgctxt "Comment"
 msgid "An information message is being shown"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:1092
+#: ksmserver/plasma_workspace.notifyrc:1118
 #, fuzzy
 msgctxt "Name"
 msgid "Warning Message"
 msgstr "ଚେତାବନୀ"
 
-#: ksmserver/plasma_workspace.notifyrc:1129
+#: ksmserver/plasma_workspace.notifyrc:1156
 msgctxt "Comment"
 msgid "A warning message is being shown"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:1170
+#: ksmserver/plasma_workspace.notifyrc:1198
 msgctxt "Name"
 msgid "Critical Message"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:1206
+#: ksmserver/plasma_workspace.notifyrc:1235
 msgctxt "Comment"
 msgid "A critical message is being shown"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:1246
+#: ksmserver/plasma_workspace.notifyrc:1276
 msgctxt "Name"
 msgid "Question"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:1283
+#: ksmserver/plasma_workspace.notifyrc:1314
 msgctxt "Comment"
 msgid "A question is being asked"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:1325
+#: ksmserver/plasma_workspace.notifyrc:1357
 msgctxt "Name"
 msgid "Beep"
 msgstr ""
 
-#: ksmserver/plasma_workspace.notifyrc:1361
+#: ksmserver/plasma_workspace.notifyrc:1394
 msgctxt "Comment"
 msgid "Sound bell"
 msgstr ""
@@ -1231,13 +1231,13 @@ msgctxt "Name"
 msgid "Screen Locking"
 msgstr "ପରଦା ସଂରକ୍ଷକ"
 
-#: ksmserver/screenlocker/kcm/package/metadata.desktop:37
+#: ksmserver/screenlocker/kcm/package/metadata.desktop:38
 #, fuzzy
 msgctxt "Comment"
 msgid "Screen Locking Themes"
 msgstr "ପରଦା ସଂରକ୍ଷକ"
 
-#: ksmserver/screenlocker/kcm/screenlocker.desktop:47
+#: ksmserver/screenlocker/kcm/screenlocker.desktop:48
 #, fuzzy
 msgctxt "Comment"
 msgid "Screen Locking Timeouts"
@@ -1348,12 +1348,12 @@ msgid "KDE's Progress Info UI server"
 msgstr "KDEର ଉନ୍ନତି ସୂଟନା UI ସର୍ଭର"
 
 #: lookandfeel/contents/loginmanager/metadata.desktop:2
-#: lookandfeel/metadata.desktop:57
+#: lookandfeel/metadata.desktop:59
 msgctxt "Name"
 msgid "Breeze"
 msgstr ""
 
-#: lookandfeel/contents/loginmanager/metadata.desktop:37
+#: lookandfeel/contents/loginmanager/metadata.desktop:38
 msgctxt "Description"
 msgid "Breeze Theme"
 msgstr ""
@@ -1364,7 +1364,7 @@ msgctxt "Comment"
 msgid "Breeze Desktop Design Language by the KDE VDG"
 msgstr "ଡ଼େସ୍କଟପ ଅଧିବେଶନଗୁଡ଼ିକ"
 
-#: lookandfeel/metadata.desktop:33
+#: lookandfeel/metadata.desktop:34
 msgctxt "Keywords"
 msgid ""
 "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;"
@@ -1641,7 +1641,7 @@ msgctxt "Name"
 msgid "Plasma"
 msgstr ""
 
-#: plasma.desktop.cmake:42
+#: plasma.desktop.cmake:43
 msgctxt "Comment"
 msgid "Plasma by KDE"
 msgstr ""
@@ -1652,7 +1652,7 @@ msgctxt "Name"
 msgid "Plasma Windowed"
 msgstr "ପ୍ଲାଜମା ଡ଼େସ୍କଟପ କାର୍ଯ୍ୟସ୍ଥଳ"
 
-#: plasma-windowed/plasma-windowed.desktop:32
+#: plasma-windowed/plasma-windowed.desktop:33
 msgctxt "Comment"
 msgid "Run Plasmoids as simple applications"
 msgstr ""
@@ -1675,7 +1675,7 @@ msgctxt "Name"
 msgid "Desktop Search"
 msgstr "ଡ଼େସ୍କଟପ ଅଧିବେଶନଗୁଡ଼ିକ"
 
-#: runners/baloo/plasma-runner-baloosearch.desktop:38
+#: runners/baloo/plasma-runner-baloosearch.desktop:39
 msgctxt "Comment"
 msgid "Runner which searches through files, emails and contacts"
 msgstr ""
@@ -1872,7 +1872,7 @@ msgctxt "Name"
 msgid "Hardware Detection"
 msgstr "ହାର୍ଡୱେର"
 
-#: soliduiserver/soliduiserver.desktop:46
+#: soliduiserver/soliduiserver.desktop:47
 msgctxt "Comment"
 msgid "Provides a user interface for hardware events"
 msgstr ""
@@ -1893,7 +1893,7 @@ msgctxt "Name"
 msgid "KSysguard"
 msgstr ""
 
-#: systemmonitor/ksysguard.desktop:48
+#: systemmonitor/ksysguard.desktop:49
 msgctxt "Comment"
 msgid "Launches KSysguard on Ctrl + Escape"
 msgstr ""
