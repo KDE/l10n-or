@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-01-31 08:03+0000\n"
+"POT-Creation-Date: 2015-03-05 09:24+0000\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -22,6 +22,24 @@ msgstr ""
 "\n"
 "\n"
 "X-Generator: KBabel 1.11.4\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ମନୋଜ କୁମାର ଗିରି"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "mgiri@redhat.com"
+
+#: kpackagelauncherqml/main.cpp:42
+msgid "KPackage QML application shell"
+msgstr ""
+
+#: kpackagelauncherqml/main.cpp:50
+#, fuzzy
+#| msgid "defines the application font"
+msgid "The unique name of the application (mandatory)"
+msgstr "ପ୍ରୟୋଗ ଅକ୍ଷରରୂପକୁ ବ୍ୟାଖ୍ୟା କରିଥାଏ"
 
 #: qmlcontrols/kquickcontrols/KeySequenceItem.qml:38
 msgid ""
@@ -105,14 +123,6 @@ msgstr "ଅସମର୍ଥିତ କି"
 #~| msgid "Select All"
 #~ msgid "Select All"
 #~ msgstr "ସମସ୍ତଙ୍କୁ ଚୟନ କରନ୍ତୁ"
-
-#~ msgctxt "NAME OF TRANSLATORS"
-#~ msgid "Your names"
-#~ msgstr "ମନୋଜ କୁମାର ଗିରି"
-
-#~ msgctxt "EMAIL OF TRANSLATORS"
-#~ msgid "Your emails"
-#~ msgstr "mgiri@redhat.com"
 
 #~ msgid "Name"
 #~ msgstr "ନାମ"
@@ -964,9 +974,6 @@ msgstr "ଅସମର୍ଥିତ କି"
 
 #~ msgid "switches to synchronous mode for debugging"
 #~ msgstr "ତ୍ରୁଟିମୁକ୍ତ କରିବା ପାଇଁ ସମକାଳିନ ଅବସ୍ଥାକୁ ପରିବର୍ତ୍ତନ କରନ୍ତୁ"
-
-#~ msgid "defines the application font"
-#~ msgstr "ପ୍ରୟୋଗ ଅକ୍ଷରରୂପକୁ ବ୍ୟାଖ୍ୟା କରିଥାଏ"
 
 #~ msgid ""
 #~ "sets the default background color and an\n"
