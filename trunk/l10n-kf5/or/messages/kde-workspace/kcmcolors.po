@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmcolors\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-01-30 08:23+0000\n"
+"POT-Creation-Date: 2015-03-06 08:50+0000\n"
 "PO-Revision-Date: 2009-01-05 15:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -271,7 +271,9 @@ msgstr "ତାଲିକାରେ ଛାୟା ସଜ୍ଜିତ ସ୍ତମ୍
 
 #. i18n: ectx: property (text), widget (QCheckBox, applyToAlien)
 #: colorsettings.ui:181
-msgid "Apply colors to &non-KDE4 applications"
+#, fuzzy
+#| msgid "Apply colors to &non-KDE4 applications"
+msgid "Apply colors to &non-Qt applications"
 msgstr "KDE4 ରହିତ ପ୍ରୟୋଗଗୁଡ଼ିକର ରଙ୍ଗଗୁଡ଼ିକ ସହିତ ପ୍ରୟୋଗ କରନ୍ତୁ"
 
 #. i18n: ectx: property (toolTip), widget (QGroupBox, groupBox_5)
