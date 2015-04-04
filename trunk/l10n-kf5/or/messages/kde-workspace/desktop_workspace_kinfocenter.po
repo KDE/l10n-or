@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-02-23 09:42+0000\n"
+"POT-Creation-Date: 2015-04-04 09:35+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -68,6 +68,24 @@ msgctxt "Name"
 msgid "Information"
 msgstr "PCI ସୂଚନା"
 
+#: Modules/about-distro/src/about-distro.desktop:11
+msgctxt "X-KDE-Keywords"
+msgid "information,distribution,distro,system,kernel,qt,kde"
+msgstr ""
+
+#: Modules/about-distro/src/about-distro.desktop:41
+msgctxt "Name"
+msgid "About System"
+msgstr ""
+
+#: Modules/about-distro/src/about-distro.desktop:69
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Files and Directories"
+msgctxt "Comment"
+msgid "Information About This System"
+msgstr "ଫାଇଲ ଏବଂ ଡ଼ିରେକ୍ଟୋରୀଗୁଡ଼ିକ"
+
 #: Modules/devinfo/devinfo.desktop:13
 #, fuzzy
 #| msgctxt "GenericName"
@@ -85,7 +103,6 @@ msgid "Device Viewer"
 msgstr "ଛବି ପ୍ରଦର୍ଶକ"
 
 #: Modules/devinfo/devinfo.desktop:141
-#: Modules/infosummary/kcm_infosummary.desktop:144
 msgctxt "X-KDE-Keywords"
 msgid "device,devices"
 msgstr ""
@@ -155,19 +172,6 @@ msgstr "SCSI ସୂଚନା"
 msgctxt "X-KDE-Keywords"
 msgid "SCSI,SCSI-Bus,System Information"
 msgstr "SCSI ସୂଚନା"
-
-#: Modules/infosummary/kcm_infosummary.desktop:11
-msgctxt "Name"
-msgid "Summary"
-msgstr ""
-
-#: Modules/infosummary/kcm_infosummary.desktop:79
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Hardware"
-msgctxt "Comment"
-msgid "Hardware Information Summary"
-msgstr "ହାର୍ଡୱେର"
 
 #: Modules/info/wayland.desktop:12
 #, fuzzy
@@ -318,3 +322,10 @@ msgstr "KInfoCenter"
 msgctxt "GenericName"
 msgid "Info Center"
 msgstr "ସୂଚନା କେନ୍ଦ୍ର"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Hardware"
+#~ msgctxt "Comment"
+#~ msgid "Hardware Information Summary"
+#~ msgstr "ହାର୍ଡୱେର"
