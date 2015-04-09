@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcm_desktopthemedetails\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-01-13 12:18+0000\n"
+"POT-Creation-Date: 2014-11-21 08:23+0000\n"
 "PO-Revision-Date: 2009-01-05 18:10+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -32,6 +32,7 @@ msgstr "mgiri@redhat.com"
 #. i18n: ectx: attribute (title), widget (QWidget, tab)
 #: DesktopTheme.ui:21
 #, fuzzy
+#| msgid "Theme Item"
 msgid "Theme"
 msgstr "ପ୍ରସଙ୍ଗ ବସ୍ତୁ"
 
@@ -43,6 +44,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QPushButton, m_newThemeButton)
 #: DesktopTheme.ui:43
 #, fuzzy
+#| msgid "Get New Theme..."
 msgid "Get New Themes..."
 msgstr "ନୂତନ ପ୍ରସଙ୍ଗ ଗ୍ରହଣ କରନ୍ତୁ..."
 
@@ -142,6 +144,7 @@ msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗକୁ କାଢ଼ିଦ�
 
 #: desktopthemedetails.cpp:263
 #, fuzzy
+#| msgid "Removal of the default KDE theme is not allowed."
 msgid "Removal of the default desktop theme is not allowed."
 msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ KDE ପ୍ରସଙ୍ଗକୁ କାଢ଼ିବା ଅନୁମୋଦିତ ନୁହଁ।"
 
@@ -239,6 +242,7 @@ msgstr "ଅଧିକ"
 #. i18n: ectx: property (toolTip), widget (QPushButton, m_removeThemeButton)
 #: DesktopThemeDetails.ui:90
 #, fuzzy
+#| msgid "Remove Desktop Theme"
 msgid "Remove the selected theme"
 msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗକୁ କାଢ଼ିଦିଅନ୍ତୁ"
 
@@ -279,6 +283,7 @@ msgstr "ନୂତନ ପ୍ରସଙ୍ଗ ନାମ:"
 #. i18n: ectx: property (toolTip), widget (KLineEdit, m_newThemeName)
 #: DesktopThemeDetails.ui:149
 #, fuzzy
+#| msgid "New theme name:"
 msgid "Custom theme name"
 msgstr "ନୂତନ ପ୍ରସଙ୍ଗ ନାମ:"
 
@@ -295,6 +300,7 @@ msgstr "ଲେଖକ:"
 #. i18n: ectx: property (toolTip), widget (KLineEdit, m_newThemeAuthor)
 #: DesktopThemeDetails.ui:172
 #, fuzzy
+#| msgid "Theme Author"
 msgid "Custom theme author "
 msgstr "ପ୍ରସଙ୍ଗ ଲେଖକ"
 
@@ -311,6 +317,7 @@ msgstr "ସଂସ୍କରଣ:"
 #. i18n: ectx: property (toolTip), widget (KLineEdit, m_newThemeVersion)
 #: DesktopThemeDetails.ui:195
 #, fuzzy
+#| msgid "New theme name:"
 msgid "Custom theme version number"
 msgstr "ନୂତନ ପ୍ରସଙ୍ଗ ନାମ:"
 
@@ -327,6 +334,7 @@ msgstr "ବର୍ଣ୍ଣନା:"
 #. i18n: ectx: property (toolTip), widget (KLineEdit, m_newThemeDescription)
 #: DesktopThemeDetails.ui:228
 #, fuzzy
+#| msgid "The theme description goes here..."
 msgid "Custom theme description"
 msgstr "ପ୍ରସଙ୍ଗ ବର୍ଣ୍ଣନାକୁ ଏଠାରେ ରଖାଯାଇଥାଏ..."
 
@@ -380,6 +388,7 @@ msgstr ""
 
 #: kcmdesktoptheme.cpp:62
 #, fuzzy
+#| msgid "Export Desktop Theme"
 msgid "KDE Desktop Theme Module"
 msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗକୁ ପଠାନ୍ତୁ "
 
@@ -389,6 +398,7 @@ msgstr ""
 
 #: kcmdesktoptheme.cpp:176
 #, fuzzy
+#| msgid "Theme Item"
 msgid "Open Theme"
 msgstr "ପ୍ରସଙ୍ଗ ବସ୍ତୁ"
 
@@ -410,10 +420,14 @@ msgid "Theme installation failed."
 msgstr ""
 
 #, fuzzy
+#~| msgid "Remove Desktop Theme"
 #~ msgid "KCMDesktopTheme"
 #~ msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗକୁ କାଢ଼ିଦିଅନ୍ତୁ"
 
 #, fuzzy
+#~| msgid ""
+#~| "To change your desktop theme to \"%1\", open\n"
+#~| "Desktop Settings and select \"%2\" from the droplist."
 #~ msgid ""
 #~ "To change your desktop theme to \"%1\", go back to the 'General' tab of "
 #~ "System Settings; choose 'Appearance', and then 'Style'; and finally "
@@ -426,6 +440,7 @@ msgstr ""
 #~ msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗକୁ କିପରି ପରିବର୍ତ୍ତନ କରିବେ"
 
 #, fuzzy
+#~| msgid "Removal of the default KDE theme is not allowed."
 #~ msgid "Removal of the active desktop theme is not allowed."
 #~ msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ KDE ପ୍ରସଙ୍ଗକୁ କାଢ଼ିବା ଅନୁମୋଦିତ ନୁହଁ।"
 

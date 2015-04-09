@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kinfocenter\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-01-13 12:16+0000\n"
+"POT-Creation-Date: 2015-04-09 08:40+0000\n"
 "PO-Revision-Date: 2009-01-02 11:47+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -33,60 +33,33 @@ msgctxt "Main window title"
 msgid "KInfocenter"
 msgstr ""
 
-#: infocenter.cpp:130
+#: infocenter.cpp:128
 msgctxt "Information about current module located in about menu"
 msgid "About Current Information Module"
 msgstr ""
 
-#: infocenter.cpp:135
-msgctxt "Export button label"
-msgid "Export"
-msgstr ""
-
-#: infocenter.cpp:139
+#: infocenter.cpp:133
 msgctxt "Module help button label"
 msgid "Module Help"
 msgstr ""
 
-#: infocenter.cpp:142
+#: infocenter.cpp:136
 msgctxt "Help button label"
 msgid "Help"
 msgstr ""
 
-#: infocenter.cpp:182
+#: infocenter.cpp:176
 msgctxt "Search Bar Click Message"
 msgid "Search"
 msgstr ""
 
-#: infocenter.cpp:187
+#: infocenter.cpp:181
 msgctxt "Kaction search label"
 msgid "Search Modules"
 msgstr ""
 
-#: infocenter.cpp:249
-msgid "Export of the module has produced no output."
-msgstr ""
-
-#: infocenter.cpp:259
-msgid "Unable to open file to write export information"
-msgstr ""
-
-#: infocenter.cpp:264
-#, kde-format
-msgid "Export information for %1"
-msgstr ""
-
-#: infocenter.cpp:268
-msgid "Information exported"
-msgstr ""
-
 #: infokcmmodel.cpp:32
 msgid "Information Modules"
-msgstr ""
-
-#: kcmcontainer.cpp:108
-#, kde-format
-msgid "%1  ( %2 )"
 msgstr ""
 
 #. i18n: ectx: ToolBar (mainToolBar)
@@ -143,14 +116,14 @@ msgstr ""
 msgid "Nicolas Ternisien"
 msgstr ""
 
-#: sidepanel.cpp:102
+#: sidepanel.cpp:103
 msgid "Clear Search"
 msgstr ""
 
-#: sidepanel.cpp:105
+#: sidepanel.cpp:106
 msgid "Expand All Categories"
 msgstr ""
 
-#: sidepanel.cpp:108
+#: sidepanel.cpp:109
 msgid "Collapse All Categories"
 msgstr ""
