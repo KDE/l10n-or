@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-04-19 06:46+0000\n"
+"POT-Creation-Date: 2015-04-20 05:59+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -323,12 +323,12 @@ msgctxt "Name"
 msgid "Paths"
 msgstr "ପଥଗୁଡ଼ିକ"
 
-#: kcontrol/desktoppaths/desktoppath.desktop:106
+#: kcontrol/desktoppaths/desktoppath.desktop:105
 msgctxt "Comment"
 msgid "Change the location important files are stored"
 msgstr "ଦରକାରି ଫାଇଲଗୁଡ଼ିକୁ ସଂରକ୍ଷିତ କରାଯାଇଥିବା ସ୍ଥାନକୁ ପରିବର୍ତ୍ତନ କରନ୍ତୁ"
 
-#: kcontrol/desktoppaths/desktoppath.desktop:195
+#: kcontrol/desktoppaths/desktoppath.desktop:194
 msgctxt "X-KDE-Keywords"
 msgid ""
 "konqueror,dolphin,files,filemanager,path, paths,desktop,directories,"
@@ -1946,7 +1946,7 @@ msgid "Device Viewer"
 msgstr "ଛବି ପ୍ରଦର୍ଶକ"
 
 #: kinfocenter/Modules/devinfo/devinfo.desktop:141
-#: kinfocenter/Modules/infosummary/kcm_infosummary.desktop:139
+#: kinfocenter/Modules/infosummary/kcm_infosummary.desktop:137
 msgctxt "X-KDE-Keywords"
 msgid "device,devices"
 msgstr ""
@@ -2022,7 +2022,7 @@ msgctxt "Name"
 msgid "Summary"
 msgstr ""
 
-#: kinfocenter/Modules/infosummary/kcm_infosummary.desktop:76
+#: kinfocenter/Modules/infosummary/kcm_infosummary.desktop:75
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Hardware"
@@ -2349,7 +2349,7 @@ msgctxt "Name"
 msgid "Screen saver started"
 msgstr "ପରଦା ସଂରକ୍ଷକ"
 
-#: ksmserver/screenlocker/kscreenlocker.notifyrc:135
+#: ksmserver/screenlocker/kscreenlocker.notifyrc:134
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "The trash has been emptied"
@@ -2357,7 +2357,7 @@ msgctxt "Comment"
 msgid "The screen saver has been started"
 msgstr "ଆବର୍ଜନାପାତ୍ରକୁ ଖାଲିକରାଯାଇଛି"
 
-#: ksmserver/screenlocker/kscreenlocker.notifyrc:203
+#: ksmserver/screenlocker/kscreenlocker.notifyrc:201
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Screen Saver"
@@ -2365,7 +2365,7 @@ msgctxt "Name"
 msgid "Screen locked"
 msgstr "ପରଦା ସଂରକ୍ଷକ"
 
-#: ksmserver/screenlocker/kscreenlocker.notifyrc:271
+#: ksmserver/screenlocker/kscreenlocker.notifyrc:269
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "A modifier key has been locked"
@@ -2373,7 +2373,7 @@ msgctxt "Comment"
 msgid "The screen has been locked"
 msgstr "ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି ଅପରିବର୍ତ୍ତିତ ହୋଇଯାଇଛି"
 
-#: ksmserver/screenlocker/kscreenlocker.notifyrc:342
+#: ksmserver/screenlocker/kscreenlocker.notifyrc:340
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Screen Saver"
@@ -2381,17 +2381,17 @@ msgctxt "Name"
 msgid "Screen saver exited"
 msgstr "ପରଦା ସଂରକ୍ଷକ"
 
-#: ksmserver/screenlocker/kscreenlocker.notifyrc:408
+#: ksmserver/screenlocker/kscreenlocker.notifyrc:405
 msgctxt "Comment"
 msgid "The screen saver has finished"
 msgstr ""
 
-#: ksmserver/screenlocker/kscreenlocker.notifyrc:476
+#: ksmserver/screenlocker/kscreenlocker.notifyrc:472
 msgctxt "Name"
 msgid "Screen unlocked"
 msgstr ""
 
-#: ksmserver/screenlocker/kscreenlocker.notifyrc:544
+#: ksmserver/screenlocker/kscreenlocker.notifyrc:540
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "A modifier key has been locked"
@@ -2399,12 +2399,12 @@ msgctxt "Comment"
 msgid "The screen has been unlocked"
 msgstr "ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି ଅପରିବର୍ତ୍ତିତ ହୋଇଯାଇଛି"
 
-#: ksmserver/screenlocker/kscreenlocker.notifyrc:613
+#: ksmserver/screenlocker/kscreenlocker.notifyrc:609
 msgctxt "Name"
 msgid "Screen unlock failed"
 msgstr ""
 
-#: ksmserver/screenlocker/kscreenlocker.notifyrc:680
+#: ksmserver/screenlocker/kscreenlocker.notifyrc:675
 msgctxt "Comment"
 msgid "Failed attempt to unlock the screen"
 msgstr ""
@@ -2478,7 +2478,7 @@ msgctxt "Name"
 msgid "KDE Classic"
 msgstr "KDE ଉତ୍କୃଷ୍ଠ"
 
-#: kstyles/themes/default.themerc:84
+#: kstyles/themes/default.themerc:83
 msgctxt "Comment"
 msgid "Classic KDE style"
 msgstr "ଉତ୍କୃଷ୍ଠ KDE ଶୈଳୀ"
