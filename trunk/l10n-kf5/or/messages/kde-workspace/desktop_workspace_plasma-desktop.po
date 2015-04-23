@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-04-15 08:34+0000\n"
+"POT-Creation-Date: 2015-04-23 09:04+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -508,6 +508,29 @@ msgctxt "Name"
 msgid "Openbox"
 msgstr "Openbox"
 
+#: kcms/cursortheme/cursortheme.desktop:13
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Cursor Files"
+msgctxt "Name"
+msgid "Cursor Theme"
+msgstr "ସୂଚକ ଫାଇଲଗୁଡ଼ିକ"
+
+#: kcms/cursortheme/cursortheme.desktop:74
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Cursor Files"
+msgctxt "Comment"
+msgid "Mouse Cursor Theme"
+msgstr "ସୂଚକ ଫାଇଲଗୁଡ଼ିକ"
+
+#: kcms/cursortheme/cursortheme.desktop:113
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Mouse,Cursor,Theme,Cursor Appearance,Cursor Color,Cursor Theme,Mouse Theme,"
+"Mouse Appearance,Mouse Skins,Pointer Colors,Pointer Appearance"
+msgstr ""
+
 #: kcms/dateandtime/clock.desktop:16
 msgctxt "Name"
 msgid "Date & Time"
@@ -687,29 +710,6 @@ msgstr "ସୂଚକ ଫାଇଲଗୁଡ଼ିକ"
 #: kcms/icons/icons.desktop:144
 msgctxt "X-KDE-Keywords"
 msgid "icons,effects,size,hicolor,locolor"
-msgstr ""
-
-#: kcms/input/cursortheme.desktop:13
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Cursor Files"
-msgctxt "Name"
-msgid "Cursor Theme"
-msgstr "ସୂଚକ ଫାଇଲଗୁଡ଼ିକ"
-
-#: kcms/input/cursortheme.desktop:74
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Cursor Files"
-msgctxt "Comment"
-msgid "Mouse Cursor Theme"
-msgstr "ସୂଚକ ଫାଇଲଗୁଡ଼ିକ"
-
-#: kcms/input/cursortheme.desktop:113
-msgctxt "X-KDE-Keywords"
-msgid ""
-"Mouse,Cursor,Theme,Cursor Appearance,Cursor Color,Cursor Theme,Mouse Theme,"
-"Mouse Appearance,Mouse Skins,Pointer Colors,Pointer Appearance"
 msgstr ""
 
 #: kcms/input/mouse.desktop:17
