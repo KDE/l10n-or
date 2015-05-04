@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-04-30 08:33+0000\n"
+"POT-Creation-Date: 2015-05-04 08:29+0000\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -2811,40 +2811,12 @@ msgctxt "@action:inmenu"
 msgid "Show Space Information"
 msgstr "ସ୍ଥାନ ସୂଚନା ଦର୍ଶାନ୍ତୁ"
 
-#: statusbar/spaceinfotoolsmenu.cpp:42
-#, kde-format
-msgctxt "@action:inmenu %1 service name"
-msgid "%1 - current folder"
-msgstr ""
-
-#: statusbar/spaceinfotoolsmenu.cpp:53
-#, kde-format
-msgctxt "@action:inmenu %1 service name"
-msgid "%1 - current device"
-msgstr ""
-
-#: statusbar/spaceinfotoolsmenu.cpp:64
-#, kde-format
-msgctxt "@action:inmenu %1 service name"
-msgid "%1 - all devices"
-msgstr ""
-
-#: statusbar/spaceinfotoolsmenu.cpp:71
-msgctxt "@action:inmenu"
-msgid "Filelight [not installed]"
-msgstr ""
-
-#: statusbar/spaceinfotoolsmenu.cpp:89
-msgctxt "@action:inmenu"
-msgid "KDiskFree [not installed]"
-msgstr ""
-
-#: statusbar/statusbarspaceinfo.cpp:84
+#: statusbar/statusbarspaceinfo.cpp:92
 msgctxt "@info:status"
 msgid "Unknown size"
 msgstr "ଅଜଣା ଆକାର"
 
-#: statusbar/statusbarspaceinfo.cpp:92
+#: statusbar/statusbarspaceinfo.cpp:100
 #, kde-format
 msgctxt "@info:status Free disk space"
 msgid "%1 free"

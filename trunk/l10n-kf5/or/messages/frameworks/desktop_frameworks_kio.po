@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-05-02 09:54+0000\n"
+"POT-Creation-Date: 2015-05-04 08:58+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -666,6 +666,22 @@ msgstr "ସମସ୍ତ ସଙ୍ଗୀତ ପଥ ପ୍ରଦର୍ଶକ"
 msgctxt "Query"
 msgid "http://www.allmusic.com/search/all/\\\\{@}"
 msgstr "http://info.alexa.com/search?q=\\\\{@}"
+
+#: src/urifilters/ikws/searchproviders/archpkg.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Debian Package Search"
+msgctxt "Name"
+msgid "Arch Linux Package Search"
+msgstr "Debian ପ୍ୟାକେଜ ସନ୍ଧାନ"
+
+#: src/urifilters/ikws/searchproviders/archpkg.desktop:4
+#, fuzzy
+#| msgctxt "Query"
+#| msgid "http://www.backports.org/package.php?search=\\\\{@}"
+msgctxt "Query"
+msgid "http://www.archlinux.org/packages/?q=\\\\{@}"
+msgstr "http://www.backports.org/package.php?search=\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/backports.desktop:3
 msgctxt "Name"
@@ -5287,10 +5303,6 @@ msgstr "Tabbed ବ୍ରାଉଜିଙ୍ଗ"
 #~ msgctxt "Query"
 #~ msgid "http://austronaut.at/page.php?begriff=\\\\{@}&wo=at"
 #~ msgstr "http://austronaut.at/page.php?begriff=\\\\{@}&wo=at"
-
-#~ msgctxt "Query"
-#~ msgid "http://www.backports.org/package.php?search=\\\\{@}"
-#~ msgstr "http://www.backports.org/package.php?search=\\\\{@}"
 
 #~ msgctxt "Query"
 #~ msgid ""
