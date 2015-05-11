@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-04-28 12:21+0000\n"
+"POT-Creation-Date: 2015-05-11 09:29+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -197,7 +197,6 @@ msgid "Monitor the load of the CPUs"
 msgstr ""
 
 #: applets/systemmonitor/diskactivity/metadata.desktop:3
-#: applets/system-monitor/plasma-applet-sm_hdd_activity.desktop:3
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "A hard disk usage monitor"
@@ -206,25 +205,21 @@ msgid "Hard Disk I/O Monitor"
 msgstr "ଗୋଟିଏ ହାର୍ଡ଼ଡ଼ିସ୍କ ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
 
 #: applets/systemmonitor/diskactivity/metadata.desktop:52
-#: applets/system-monitor/plasma-applet-sm_hdd_activity.desktop:53
 msgctxt "Comment"
 msgid "An applet that monitors hard disk throughput and input/output"
 msgstr ""
 
 #: applets/systemmonitor/diskusage/metadata.desktop:3
-#: applets/system-monitor/plasma-applet-sm_hdd.desktop:3
 msgctxt "Name"
 msgid "Hard Disk Space Usage"
 msgstr ""
 
 #: applets/systemmonitor/diskusage/metadata.desktop:51
-#: applets/system-monitor/plasma-applet-sm_hdd.desktop:51
 msgctxt "Comment"
 msgid "An applet that monitors hard disk space usage and percentage"
 msgstr ""
 
 #: applets/systemmonitor/memory/metadata.desktop:3
-#: applets/system-monitor/plasma-applet-sm_ram.desktop:3
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Samba Status"
@@ -233,7 +228,6 @@ msgid "Memory Status"
 msgstr "ସାମ୍ବା ସ୍ଥିତି"
 
 #: applets/systemmonitor/memory/metadata.desktop:64
-#: applets/system-monitor/plasma-applet-sm_ram.desktop:64
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "A CPU usage monitor"
@@ -242,7 +236,6 @@ msgid "A RAM usage monitor"
 msgstr "ଗୋଟିଏ CPU ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
 
 #: applets/systemmonitor/net/metadata.desktop:3
-#: applets/system-monitor/plasma-applet-sm_net.desktop:3
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Network Tool"
@@ -251,57 +244,9 @@ msgid "Network Monitor"
 msgstr "ନେଟୱର୍କ ସାଧନ"
 
 #: applets/systemmonitor/net/metadata.desktop:66
-#: applets/system-monitor/plasma-applet-sm_net.desktop:66
 msgctxt "Comment"
 msgid "A network usage monitor"
 msgstr "ଗୋଟିଏ ନେଟୱର୍କ ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
-
-#: applets/system-monitor/plasma-applet-sm_cpu.desktop:3
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "A CPU usage monitor"
-msgctxt "Name"
-msgid "CPU Monitor"
-msgstr "ଗୋଟିଏ CPU ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
-
-#: applets/system-monitor/plasma-applet-sm_cpu.desktop:65
-msgctxt "Comment"
-msgid "A CPU usage monitor"
-msgstr "ଗୋଟିଏ CPU ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
-
-#: applets/system-monitor/plasma-applet-sm_hwinfo.desktop:3
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Hardware"
-msgctxt "Name"
-msgid "Hardware Info"
-msgstr "ହାର୍ଡୱେର"
-
-#: applets/system-monitor/plasma-applet-sm_hwinfo.desktop:65
-msgctxt "Comment"
-msgid "Show hardware info"
-msgstr "ହାର୍ଡ଼ୱେର ସୂଚନା ଦର୍ଶାନ୍ତୁ"
-
-#: applets/system-monitor/plasma-applet-sm_temperature.desktop:3
-msgctxt "Name"
-msgid "Hardware Temperature"
-msgstr ""
-
-#: applets/system-monitor/plasma-applet-sm_temperature.desktop:64
-msgctxt "Comment"
-msgid "A system temperature monitor"
-msgstr "ତନ୍ତ୍ର ଉତ୍ତାପ ନିରିକ୍ଷକ"
-
-#: applets/system-monitor/plasma-applet-system-monitor.desktop:2
-#: dataengines/systemmonitor/plasma-dataengine-systemmonitor.desktop:3
-msgctxt "Name"
-msgid "System Monitor"
-msgstr ""
-
-#: applets/system-monitor/plasma-applet-system-monitor.desktop:85
-msgctxt "Comment"
-msgid "System monitoring applet"
-msgstr "ତନ୍ତ୍ର ନିରିକ୍ଷଣ ଆପଲେଟ"
 
 #: applets/systemtray/package/metadata.desktop:2
 msgctxt "Name"
@@ -839,6 +784,11 @@ msgctxt "Comment"
 msgid ""
 "Engine for applications' status information, based on the Status Notifier "
 "protocol."
+msgstr ""
+
+#: dataengines/systemmonitor/plasma-dataengine-systemmonitor.desktop:3
+msgctxt "Name"
+msgid "System Monitor"
 msgstr ""
 
 #: dataengines/systemmonitor/plasma-dataengine-systemmonitor.desktop:86
@@ -2111,6 +2061,36 @@ msgstr "ପ୍ରତିଛବି"
 msgctxt "Name"
 msgid "Slideshow"
 msgstr "ସ୍ଲାଇଡ଼ ଦୃଶ୍ୟ"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "A CPU usage monitor"
+#~ msgctxt "Name"
+#~ msgid "CPU Monitor"
+#~ msgstr "ଗୋଟିଏ CPU ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
+
+#~ msgctxt "Comment"
+#~ msgid "A CPU usage monitor"
+#~ msgstr "ଗୋଟିଏ CPU ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Hardware"
+#~ msgctxt "Name"
+#~ msgid "Hardware Info"
+#~ msgstr "ହାର୍ଡୱେର"
+
+#~ msgctxt "Comment"
+#~ msgid "Show hardware info"
+#~ msgstr "ହାର୍ଡ଼ୱେର ସୂଚନା ଦର୍ଶାନ୍ତୁ"
+
+#~ msgctxt "Comment"
+#~ msgid "A system temperature monitor"
+#~ msgstr "ତନ୍ତ୍ର ଉତ୍ତାପ ନିରିକ୍ଷକ"
+
+#~ msgctxt "Comment"
+#~ msgid "System monitoring applet"
+#~ msgstr "ତନ୍ତ୍ର ନିରିକ୍ଷଣ ଆପଲେଟ"
 
 #~ msgctxt "Name"
 #~ msgid "KDED Global Shortcuts Server"
