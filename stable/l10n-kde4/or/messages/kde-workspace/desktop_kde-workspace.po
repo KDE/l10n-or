@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-05-15 06:11+0000\n"
+"POT-Creation-Date: 2015-06-02 09:05+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -538,12 +538,12 @@ msgctxt "Name"
 msgid "Font Management"
 msgstr "ଫାଇଲ ପରିଚାଳନା"
 
-#: kcontrol/kfontinst/kcmfontinst/fontinst.desktop:65
+#: kcontrol/kfontinst/kcmfontinst/fontinst.desktop:66
 msgctxt "Comment"
 msgid "Install, manage, and preview fonts"
 msgstr "ଅକ୍ଷରରୂପଗୁଡ଼ିକୁ ସ୍ଥାପନ କରନ୍ତୁ, ପରିଚାଳନ କରନ୍ତୁ, ଏବଂ ପ୍ରାକଦର୍ଶନ କରନ୍ତୁ"
 
-#: kcontrol/kfontinst/kcmfontinst/fontinst.desktop:148
+#: kcontrol/kfontinst/kcmfontinst/fontinst.desktop:149
 msgctxt "X-KDE-Keywords"
 msgid "font,fonts,installer,truetype,type1,bitmap"
 msgstr ""
@@ -676,17 +676,17 @@ msgctxt "Name"
 msgid "Menubar manager"
 msgstr "କ୍ୟାଲେଣ୍ଡର ପରିଚାଳକ"
 
-#: kcontrol/style/kcmstyle.notifyrc:47
+#: kcontrol/style/kcmstyle.notifyrc:48
 msgctxt "Comment"
 msgid "Menubar exporter"
 msgstr ""
 
-#: kcontrol/style/kcmstyle.notifyrc:93
+#: kcontrol/style/kcmstyle.notifyrc:94
 msgctxt "Name"
 msgid "Menubar changed"
 msgstr ""
 
-#: kcontrol/style/kcmstyle.notifyrc:137
+#: kcontrol/style/kcmstyle.notifyrc:138
 msgctxt "Comment"
 msgid "Settings changes will take effect only on application restart"
 msgstr ""
@@ -715,12 +715,12 @@ msgctxt "Name"
 msgid "Workspace"
 msgstr ""
 
-#: kcontrol/workspaceoptions/workspaceoptions.desktop:82
+#: kcontrol/workspaceoptions/workspaceoptions.desktop:83
 msgctxt "Comment"
 msgid "Global options for the Plasma Workspace"
 msgstr ""
 
-#: kcontrol/workspaceoptions/workspaceoptions.desktop:144
+#: kcontrol/workspaceoptions/workspaceoptions.desktop:145
 msgctxt "X-KDE-Keywords"
 msgid "plasma,workspace,shell,formfactor,dashboard,tooltips,informational tips"
 msgstr ""
@@ -1188,7 +1188,7 @@ msgctxt "Name"
 msgid "Openbox"
 msgstr "Openbox"
 
-#: kdm/kfrontend/sessions/openbox.desktop:95
+#: kdm/kfrontend/sessions/openbox.desktop:96
 msgctxt "Comment"
 msgid "A lightweight window manager based on Blackbox"
 msgstr ""
@@ -3018,7 +3018,7 @@ msgctxt "Name"
 msgid "Mouse Click Animation"
 msgstr "ଅଧିକ ପ୍ରୟୋଗ"
 
-#: kwin/effects/mouseclick/mouseclick.desktop:49
+#: kwin/effects/mouseclick/mouseclick.desktop:50
 msgctxt "Comment"
 msgid ""
 "Creates an animation whenever a mouse button is clicked. This is useful for "
@@ -3475,7 +3475,7 @@ msgctxt "X-KDE-Keywords"
 msgid "kwin script"
 msgstr "CGI ସ୍କ୍ରିପ୍ଟଗୁଡ଼ିକ"
 
-#: kwin/kcmkwin/kwinscripts/kwinscripts.desktop:59
+#: kwin/kcmkwin/kwinscripts/kwinscripts.desktop:60
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "CGI Scripts"
@@ -3483,7 +3483,7 @@ msgctxt "Name"
 msgid "KWin Scripts"
 msgstr "CGI ସ୍କ୍ରିପ୍ଟଗୁଡ଼ିକ"
 
-#: kwin/kcmkwin/kwinscripts/kwinscripts.desktop:106
+#: kwin/kcmkwin/kwinscripts/kwinscripts.desktop:108
 msgctxt "Comment"
 msgid "Manage KWin scripts"
 msgstr ""
@@ -3558,7 +3558,7 @@ msgctxt "Name"
 msgid "Desktop Change OSD"
 msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବିବରଣୀ"
 
-#: kwin/scripts/desktopchangeosd/metadata.desktop:46
+#: kwin/scripts/desktopchangeosd/metadata.desktop:47
 msgctxt "Comment"
 msgid "An on screen display indicating the desktop change"
 msgstr ""
@@ -4028,7 +4028,7 @@ msgctxt "Comment"
 msgid "Plasma Desktop Shell"
 msgstr "ପ୍ଲାଜମା ଡ଼େସ୍କଟପ କାର୍ଯ୍ୟସ୍ଥଳ"
 
-#: plasma/desktop/shell/data/plasma-desktop.notifyrc:139
+#: plasma/desktop/shell/data/plasma-desktop.notifyrc:140
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Web widget style"
@@ -4036,7 +4036,7 @@ msgctxt "Name"
 msgid "New widget published"
 msgstr "ୱେବ ୱିଜେଟ ଶୈଳୀ"
 
-#: plasma/desktop/shell/data/plasma-desktop.notifyrc:204
+#: plasma/desktop/shell/data/plasma-desktop.notifyrc:205
 msgctxt "Comment"
 msgid "A new widget has become available on the network."
 msgstr ""
@@ -4984,7 +4984,7 @@ msgctxt "Name"
 msgid "Locations"
 msgstr "ସ୍ଥାନଗୁଡ଼ିକ"
 
-#: plasma/generic/runners/locations/plasma-runner-locations.desktop:77
+#: plasma/generic/runners/locations/plasma-runner-locations.desktop:78
 msgctxt "Comment"
 msgid "File and URL opener"
 msgstr "ଫାଇଲ ଏବଂ URL ଖୋଲା"
@@ -5889,7 +5889,7 @@ msgstr ""
 
 #: solid-actions-kcm/device-actions/solid-device-AcAdapter.desktop:52
 #: solid-actions-kcm/device-actions/solid-device-AudioInterface.desktop:366
-#: solid-actions-kcm/device-actions/solid-device-Battery.desktop:338
+#: solid-actions-kcm/device-actions/solid-device-Battery.desktop:339
 #: solid-actions-kcm/device-actions/solid-device-Block.desktop:217
 #: solid-actions-kcm/device-actions/solid-device-Button.desktop:212
 #: solid-actions-kcm/device-actions/solid-device-Camera.desktop:146
@@ -5963,12 +5963,12 @@ msgctxt "Name|battery plugged in"
 msgid "Plugged"
 msgstr ""
 
-#: solid-actions-kcm/device-actions/solid-device-Battery.desktop:195
+#: solid-actions-kcm/device-actions/solid-device-Battery.desktop:196
 msgctxt "Name"
 msgid "Rechargeable"
 msgstr ""
 
-#: solid-actions-kcm/device-actions/solid-device-Battery.desktop:263
+#: solid-actions-kcm/device-actions/solid-device-Battery.desktop:264
 #: solid-actions-kcm/device-actions/solid-device-Button.desktop:137
 msgctxt "Name"
 msgid "Type"
@@ -6291,7 +6291,7 @@ msgctxt "Comment"
 msgid "Manage actions available to the user when connecting new devices"
 msgstr ""
 
-#: solid-actions-kcm/solid-actions.desktop:131
+#: solid-actions-kcm/solid-actions.desktop:132
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Device Information"
@@ -6328,7 +6328,7 @@ msgctxt "GenericName"
 msgid "KDE System Settings"
 msgstr "ତନ୍ତ୍ର ବିନ୍ୟାସ"
 
-#: systemsettings/app/kdesystemsettings.desktop:60
+#: systemsettings/app/kdesystemsettings.desktop:61
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "System Settings"
@@ -6529,12 +6529,12 @@ msgctxt "X-KDE-Keywords"
 msgid "System Settings"
 msgstr "ତନ୍ତ୍ର ବିନ୍ୟାସ"
 
-#: systemsettings/classic/settings-classic-view.desktop:60
+#: systemsettings/classic/settings-classic-view.desktop:61
 msgctxt "Name"
 msgid "Classic Tree View"
 msgstr ""
 
-#: systemsettings/classic/settings-classic-view.desktop:130
+#: systemsettings/classic/settings-classic-view.desktop:131
 msgctxt "Comment"
 msgid "A Classic KDE 3 KControl style system settings view."
 msgstr ""
@@ -6555,7 +6555,7 @@ msgctxt "Name"
 msgid "System Settings View"
 msgstr "ତନ୍ତ୍ର ବିନ୍ୟାସ"
 
-#: systemsettings/icons/settings-icon-view.desktop:60
+#: systemsettings/icons/settings-icon-view.desktop:61
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Font Viewer"
@@ -6563,7 +6563,7 @@ msgctxt "Name"
 msgid "Icon View"
 msgstr "ଅକ୍ଷରରୂପ ପ୍ରଦର୍ଶକ"
 
-#: systemsettings/icons/settings-icon-view.desktop:138
+#: systemsettings/icons/settings-icon-view.desktop:139
 msgctxt "Comment"
 msgid "The KDE 4 icon view style"
 msgstr ""
