@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-04-13 08:36+0000\n"
+"POT-Creation-Date: 2015-07-08 08:49+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -22,39 +22,6 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-
-#: desktop/desktopnotifier.desktop:3
-#, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Network Analyzer"
-msgctxt "Name"
-msgid "Directory Watcher"
-msgstr "ନେଟୱର୍କ ବିଶ୍ଳେଷକ"
-
-#: desktop/desktopnotifier.desktop:78
-msgctxt "Comment"
-msgid "Monitors directories for changes"
-msgstr ""
-
-#: desktop/./directory.trash:3
-msgctxt "Name"
-msgid "Trash"
-msgstr "ଆବର୍ଜନା ପାତ୍ର"
-
-#: desktop/./directory.trash:83
-msgctxt "Comment"
-msgid "Contains removed files"
-msgstr "ଅପସାରିତ ଫାଇଲଗୁଡ଼ିକୁ ଧାରଣ କରିଥାଏ"
-
-#: desktop/Home.desktop:3
-msgctxt "Name"
-msgid "Home"
-msgstr "ଘର"
-
-#: desktop/Home.desktop:95
-msgctxt "GenericName"
-msgid "Personal Files"
-msgstr "ବ୍ୟକ୍ତିଗତ ଫାଇଲଗୁଡ଼ିକ"
 
 #: fish/fish.protocol:16
 msgctxt "Description"
@@ -226,6 +193,29 @@ msgstr ""
 msgctxt "Name"
 msgid "Microsoft Windows Images"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Network Analyzer"
+#~ msgctxt "Name"
+#~ msgid "Directory Watcher"
+#~ msgstr "ନେଟୱର୍କ ବିଶ୍ଳେଷକ"
+
+#~ msgctxt "Name"
+#~ msgid "Trash"
+#~ msgstr "ଆବର୍ଜନା ପାତ୍ର"
+
+#~ msgctxt "Comment"
+#~ msgid "Contains removed files"
+#~ msgstr "ଅପସାରିତ ଫାଇଲଗୁଡ଼ିକୁ ଧାରଣ କରିଥାଏ"
+
+#~ msgctxt "Name"
+#~ msgid "Home"
+#~ msgstr "ଘର"
+
+#~ msgctxt "GenericName"
+#~ msgid "Personal Files"
+#~ msgstr "ବ୍ୟକ୍ତିଗତ ଫାଇଲଗୁଡ଼ିକ"
 
 #~ msgctxt "Comment"
 #~ msgid "This service allows configuration of the trash."
