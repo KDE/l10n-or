@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_trash\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-06-20 09:58+0000\n"
+"POT-Creation-Date: 2015-08-14 08:24+0000\n"
 "PO-Revision-Date: 2009-01-02 11:50+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -20,23 +20,27 @@ msgstr ""
 "\n"
 "X-Generator: KBabel 1.11.4\n"
 
-#: contents/ui/main.qml:86
+#: contents/ui/main.qml:92
 msgctxt "a verb"
 msgid "Open"
 msgstr ""
 
-#: contents/ui/main.qml:87
+#: contents/ui/main.qml:93
 msgctxt "a verb"
 msgid "Empty"
 msgstr ""
 
-#: contents/ui/main.qml:116
+#: contents/ui/main.qml:94
+msgid "Trash Settings"
+msgstr ""
+
+#: contents/ui/main.qml:123
 msgid ""
 "Trash\n"
 "Empty"
 msgstr ""
 
-#: contents/ui/main.qml:116
+#: contents/ui/main.qml:123
 #, kde-format
 msgid ""
 "Trash\n"
@@ -47,15 +51,15 @@ msgid_plural ""
 msgstr[0] ""
 msgstr[1] ""
 
-#: contents/ui/main.qml:124
+#: contents/ui/main.qml:131
 msgid "Trash"
 msgstr ""
 
-#: contents/ui/main.qml:125
+#: contents/ui/main.qml:132
 msgid "Empty"
 msgstr ""
 
-#: contents/ui/main.qml:125
+#: contents/ui/main.qml:132
 #, kde-format
 msgid "One item"
 msgid_plural "%1 items"
