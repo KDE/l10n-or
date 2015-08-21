@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-15 09:10+0000\n"
+"POT-Creation-Date: 2015-08-21 08:45+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1496,6 +1496,34 @@ msgstr "ପ୍ଲାଜମା ଡ଼େସ୍କଟପ କାର୍ଯ୍ୟସ�
 #: runners/plasma-desktop/plasma-runner-plasma-desktop.desktop:67
 msgctxt "Comment"
 msgid "Interact with the Plasma desktop shell"
+msgstr ""
+
+#: solid-device-automounter/kcm/device_automounter_kcm.desktop:9
+msgctxt "X-KDE-Keywords"
+msgid "Mount,Removable,Devices,Automatic"
+msgstr ""
+
+#: solid-device-automounter/kcm/device_automounter_kcm.desktop:73
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "USB Devices"
+msgctxt "Name"
+msgid "Removable Devices"
+msgstr "USB ଉପକରଣ"
+
+#: solid-device-automounter/kcm/device_automounter_kcm.desktop:144
+msgctxt "Comment"
+msgid "Configure automatic handling of removable storage media"
+msgstr ""
+
+#: solid-device-automounter/kded/device_automounter.desktop:9
+msgctxt "Name"
+msgid "Removable Device Automounter"
+msgstr ""
+
+#: solid-device-automounter/kded/device_automounter.desktop:79
+msgctxt "Comment"
+msgid "Automatically mounts devices as needed"
 msgstr ""
 
 #: toolboxes/desktoptoolbox/metadata.desktop:2
