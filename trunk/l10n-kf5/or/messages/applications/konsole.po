@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-13 08:01+0000\n"
+"POT-Creation-Date: 2015-09-17 09:01+0000\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -179,52 +179,52 @@ msgstr ""
 msgid "Un-named Color Scheme"
 msgstr ""
 
-#: ColorSchemeEditor.cpp:114
+#: ColorSchemeEditor.cpp:112
 msgctxt "@label:listbox Column header text for color names"
 msgid "Name"
 msgstr ""
 
-#: ColorSchemeEditor.cpp:115
+#: ColorSchemeEditor.cpp:113
 msgctxt "@label:listbox Column header text for the actual colors"
 msgid "Color"
 msgstr ""
 
-#: ColorSchemeEditor.cpp:116
+#: ColorSchemeEditor.cpp:114
 msgctxt "@label:listbox Column header text for the actual intense colors"
 msgid "Intense color"
 msgstr ""
 
-#: ColorSchemeEditor.cpp:140
+#: ColorSchemeEditor.cpp:138
 msgctxt "@info:status"
 msgid ""
 "The background transparency setting will not be used because your desktop "
 "does not appear to support transparent windows."
 msgstr ""
 
-#: ColorSchemeEditor.cpp:186
+#: ColorSchemeEditor.cpp:184
 msgctxt "@title:window"
 msgid "Select wallpaper image file"
 msgstr ""
 
-#: ColorSchemeEditor.cpp:188
+#: ColorSchemeEditor.cpp:186
 msgctxt "Filter in file open dialog"
 msgid "Supported Images"
 msgstr ""
 
-#: ColorSchemeEditor.cpp:232 ColorSchemeEditor.cpp:233
+#: ColorSchemeEditor.cpp:230 ColorSchemeEditor.cpp:231
 msgid "New Color Scheme"
 msgstr ""
 
-#: ColorSchemeEditor.cpp:235
+#: ColorSchemeEditor.cpp:233
 msgid "Edit Color Scheme"
 msgstr ""
 
-#: ColorSchemeEditor.cpp:267
+#: ColorSchemeEditor.cpp:265
 msgctxt "@info:tooltip"
 msgid "Click to choose color"
 msgstr ""
 
-#: ColorSchemeEditor.cpp:272
+#: ColorSchemeEditor.cpp:270
 msgctxt "@info:tooltip"
 msgid "Click to choose intense color"
 msgstr ""
@@ -271,7 +271,7 @@ msgstr ""
 msgid "..."
 msgstr ""
 
-#: CopyInputDialog.cpp:40
+#: CopyInputDialog.cpp:39
 msgid "Copy Input"
 msgstr ""
 
@@ -290,79 +290,79 @@ msgstr ""
 msgid "Deselect All"
 msgstr ""
 
-#: EditProfileDialog.cpp:77
+#: EditProfileDialog.cpp:74
 msgid "Edit Profile"
 msgstr ""
 
-#: EditProfileDialog.cpp:152
+#: EditProfileDialog.cpp:149
 msgid "<p>Each profile must have a name before it can be saved into disk.</p>"
 msgstr ""
 
-#: EditProfileDialog.cpp:183
+#: EditProfileDialog.cpp:180
 #, kde-format
 msgid "Editing profile: %2"
 msgid_plural "Editing %1 profiles: %2"
 msgstr[0] ""
 msgstr[1] ""
 
-#: EditProfileDialog.cpp:188
+#: EditProfileDialog.cpp:185
 #, kde-format
 msgid "Edit Profile \"%1\""
 msgstr ""
 
-#: EditProfileDialog.cpp:264
+#: EditProfileDialog.cpp:261
 msgid "Profile name is empty."
 msgstr ""
 
-#: EditProfileDialog.cpp:338
+#: EditProfileDialog.cpp:335
 msgid "Edit Environment"
 msgstr ""
 
-#: EditProfileDialog.cpp:339
+#: EditProfileDialog.cpp:336
 msgid "One environment variable per line"
 msgstr ""
 
-#: EditProfileDialog.cpp:360
+#: EditProfileDialog.cpp:357
 msgctxt "Unit of time"
 msgid " second"
 msgid_plural " seconds"
 msgstr[0] ""
 msgstr[1] ""
 
-#: EditProfileDialog.cpp:426
+#: EditProfileDialog.cpp:423
 msgid "Select Initial Directory"
 msgstr ""
 
-#: EditProfileDialog.cpp:594
+#: EditProfileDialog.cpp:591
 #, kde-format
 msgid "%1"
 msgstr ""
 
-#: EditProfileDialog.cpp:782
+#: EditProfileDialog.cpp:779
 msgid ""
 "This color scheme uses a transparent background which does not appear to be "
 "supported on your desktop"
 msgstr ""
 
-#: EditProfileDialog.cpp:787
+#: EditProfileDialog.cpp:784
 msgid ""
 "Konsole was started before desktop effects were enabled. You need to restart "
 "Konsole to see transparent background."
 msgstr ""
 
-#: EditProfileDialog.cpp:891 EditProfileDialog.cpp:901
+#: EditProfileDialog.cpp:888 EditProfileDialog.cpp:898
 msgid "New Key Binding List"
 msgstr ""
 
-#: EditProfileDialog.cpp:893
+#: EditProfileDialog.cpp:890
 msgid "Edit Key Binding List"
 msgstr ""
 
-#: EditProfileDialog.cpp:1231
+#: EditProfileDialog.cpp:1228
 msgid "Select Fixed Width Font"
 msgstr ""
 
-#: EditProfileDialog.cpp:1279
+#: EditProfileDialog.cpp:1276
 msgid "AaZz09..."
 msgstr ""
 
@@ -1001,12 +1001,12 @@ msgstr ""
 msgid "Copy Email Address"
 msgstr ""
 
-#: HistorySizeDialog.cpp:38
+#: HistorySizeDialog.cpp:37
 msgctxt "@title:window"
 msgid "Adjust Scrollback"
 msgstr ""
 
-#: HistorySizeDialog.cpp:61
+#: HistorySizeDialog.cpp:60
 msgctxt "@info:status"
 msgid "Any adjustments are only temporary to this session."
 msgstr ""
@@ -1615,7 +1615,7 @@ msgctxt "Name of the default/builtin profile"
 msgid "Default"
 msgstr ""
 
-#: ProfileList.cpp:47
+#: ProfileList.cpp:46
 msgid "Default profile"
 msgstr ""
 
@@ -1625,7 +1625,7 @@ msgctxt "The default name of a profile"
 msgid "Profile #%1"
 msgstr ""
 
-#: RenameTabDialog.cpp:37
+#: RenameTabDialog.cpp:36
 msgid "Rename Tab"
 msgstr ""
 
@@ -2333,38 +2333,38 @@ msgctxt "@info:tooltip"
 msgid "Insert remote title format"
 msgstr ""
 
-#: TerminalDisplay.cpp:1257 TerminalDisplay.cpp:1258
+#: TerminalDisplay.cpp:1256 TerminalDisplay.cpp:1257
 msgid "Size: XXX x XXX"
 msgstr ""
 
-#: TerminalDisplay.cpp:1269
+#: TerminalDisplay.cpp:1268
 #, kde-format
 msgid "Size: %1 x %2"
 msgstr ""
 
-#: TerminalDisplay.cpp:2822
+#: TerminalDisplay.cpp:2821
 #, kde-format
 msgid "Are you sure you want to paste %1 character?"
 msgid_plural "Are you sure you want to paste %1 characters?"
 msgstr[0] ""
 msgstr[1] ""
 
-#: TerminalDisplay.cpp:2825
+#: TerminalDisplay.cpp:2824
 msgid "Confirm Paste"
 msgstr ""
 
-#: TerminalDisplay.cpp:3014
+#: TerminalDisplay.cpp:3013
 msgid ""
 "<qt>Output has been <a href=\"http://en.wikipedia.org/wiki/"
 "Software_flow_control\">suspended</a> by pressing Ctrl+S.  Press <b>Ctrl+Q</"
 "b> to resume.  This message will be dismissed in 10 seconds.</qt>"
 msgstr ""
 
-#: TerminalDisplay.cpp:3282
+#: TerminalDisplay.cpp:3281
 msgid "&Paste Location"
 msgstr ""
 
-#: TerminalDisplay.cpp:3299
+#: TerminalDisplay.cpp:3298
 msgid "Change &Directory To"
 msgstr ""
 
@@ -2410,72 +2410,72 @@ msgid ""
 "You can double-click a tab to change its name.</para>"
 msgstr ""
 
-#: ViewManager.cpp:132
+#: ViewManager.cpp:131
 msgctxt "@action Shortcut entry"
 msgid "Next Tab"
 msgstr ""
 
-#: ViewManager.cpp:133
+#: ViewManager.cpp:132
 msgctxt "@action Shortcut entry"
 msgid "Previous Tab"
 msgstr ""
 
-#: ViewManager.cpp:134
+#: ViewManager.cpp:133
 msgctxt "@action Shortcut entry"
 msgid "Switch to Last Tab"
 msgstr ""
 
-#: ViewManager.cpp:135
+#: ViewManager.cpp:134
 msgctxt "@action Shortcut entry"
 msgid "Next View Container"
 msgstr ""
 
-#: ViewManager.cpp:137
+#: ViewManager.cpp:136
 msgctxt "@action Shortcut entry"
 msgid "Move Tab Left"
 msgstr ""
 
-#: ViewManager.cpp:138
+#: ViewManager.cpp:137
 msgctxt "@action Shortcut entry"
 msgid "Move Tab Right"
 msgstr ""
 
-#: ViewManager.cpp:147
+#: ViewManager.cpp:146
 msgctxt "@action:inmenu"
 msgid "Split View Left/Right"
 msgstr ""
 
-#: ViewManager.cpp:154
+#: ViewManager.cpp:153
 msgctxt "@action:inmenu"
 msgid "Split View Top/Bottom"
 msgstr ""
 
-#: ViewManager.cpp:159
+#: ViewManager.cpp:158
 msgctxt "@action:inmenu Close Active View"
 msgid "Close Active"
 msgstr ""
 
-#: ViewManager.cpp:168
+#: ViewManager.cpp:167
 msgctxt "@action:inmenu Close Other Views"
 msgid "Close Others"
 msgstr ""
 
-#: ViewManager.cpp:177
+#: ViewManager.cpp:176
 msgctxt "@action:inmenu"
 msgid "Expand View"
 msgstr ""
 
-#: ViewManager.cpp:185
+#: ViewManager.cpp:184
 msgctxt "@action:inmenu"
 msgid "Shrink View"
 msgstr ""
 
-#: ViewManager.cpp:196
+#: ViewManager.cpp:195
 msgctxt "@action:inmenu"
 msgid "D&etach Current Tab"
 msgstr ""
 
-#: ViewManager.cpp:218
+#: ViewManager.cpp:217
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Switch to Tab %1"
@@ -2487,6 +2487,6 @@ msgid ""
 "presses into characters to send to the terminal is missing."
 msgstr ""
 
-#: ZModemDialog.cpp:48
+#: ZModemDialog.cpp:47
 msgid "&Stop"
 msgstr ""
