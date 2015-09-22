@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-25 10:49+0000\n"
+"POT-Creation-Date: 2015-09-22 09:57+0000\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -878,23 +878,29 @@ msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ ଯୋଜନା ପର�
 msgid "Export Scheme..."
 msgstr "ଯୋଜନା ପଠାନ୍ତୁ..."
 
-#: kshortcutschemeseditor.cpp:101
+#: kshortcutschemeseditor.cpp:86
+#, fuzzy
+#| msgid "Export Scheme..."
+msgid "Import Scheme..."
+msgstr "ଯୋଜନା ପଠାନ୍ତୁ..."
+
+#: kshortcutschemeseditor.cpp:102
 msgid "Name for New Scheme"
 msgstr "ନୂତନ ଯୋଜନା ପାଇଁ ନାମ"
 
-#: kshortcutschemeseditor.cpp:102
+#: kshortcutschemeseditor.cpp:103
 msgid "Name for new scheme:"
 msgstr "ନୂତନ ଯୋଜନା ପାଇଁ ନାମ:"
 
-#: kshortcutschemeseditor.cpp:102
+#: kshortcutschemeseditor.cpp:103
 msgid "New Scheme"
 msgstr "ନୂତନ ଯୋଜନା"
 
-#: kshortcutschemeseditor.cpp:108
+#: kshortcutschemeseditor.cpp:109
 msgid "A scheme with this name already exists."
 msgstr "ଏହି ନାମ ବିଶିଷ୍ଟ ଗୋଟିଏ ଯୋଜନା ପୂର୍ବରୁ ରହିଅଛି।"
 
-#: kshortcutschemeseditor.cpp:137
+#: kshortcutschemeseditor.cpp:138
 #, kde-format
 msgid ""
 "Do you really want to delete the scheme %1?\n"
@@ -903,13 +909,23 @@ msgstr ""
 "କଣ ଆପଣ ନିଶ୍ଚିତ ଭାବରେ ଯୋଜନା %1କୁ ଅପସାରଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?\n"
 "ମନେରଖନ୍ତୁ ଯେ ଏହା କୌଣସି ତନ୍ତ୍ରମୟ ସଂକ୍ଷିପ୍ତ ପଥ ଯୋଜନାଗୁଡ଼ିକୁ ଅପସାରଣ କରିବ ନାହିଁ।"
 
-#: kshortcutschemeseditor.cpp:167
-msgid "Export to Location"
-msgstr "ଏହି ସ୍ଥାନକୁ ପଠାନ୍ତୁ"
+#: kshortcutschemeseditor.cpp:168
+#, fuzzy
+#| msgid "Shortcuts"
+msgid "Export Shortcuts"
+msgstr "ସଂକ୍ଷିପ୍ତ ପଥ"
 
-#: kshortcutschemeseditor.cpp:175
-msgid "Could not export shortcuts scheme because the location is invalid."
-msgstr "ସଂକ୍ଷିପ୍ତ ପଥ ଯୋଜନାକୁ ପଠାଇବ ନାହିଁ କାରଣ ସ୍ଥାନଟି ଅବୈଧ ଅଟେ।"
+#: kshortcutschemeseditor.cpp:168 kshortcutschemeseditor.cpp:179
+#, fuzzy
+#| msgid "Shortcut Conflict(s)"
+msgid "Shortcuts (*.shortcuts)"
+msgstr "ସଂକ୍ଷିପ୍ତ ପଥ ଦ୍ୱନ୍ଦ(ଗୁଡ଼ିକ)"
+
+#: kshortcutschemeseditor.cpp:179
+#, fuzzy
+#| msgid "Shortcuts"
+msgid "Import Shortcuts"
+msgstr "ସଂକ୍ଷିପ୍ତ ପଥ"
 
 #: kshortcutsdialog.cpp:85
 msgid ""
@@ -1272,6 +1288,12 @@ msgstr "ବିନ୍ୟାସ (&S)"
 #: ui_standards.rc:194
 msgid "Main Toolbar"
 msgstr "ମୁଖ୍ୟ ସାଧନପଟି"
+
+#~ msgid "Export to Location"
+#~ msgstr "ଏହି ସ୍ଥାନକୁ ପଠାନ୍ତୁ"
+
+#~ msgid "Could not export shortcuts scheme because the location is invalid."
+#~ msgstr "ସଂକ୍ଷିପ୍ତ ପଥ ଯୋଜନାକୁ ପଠାଇବ ନାହିଁ କାରଣ ସ୍ଥାନଟି ଅବୈଧ ଅଟେ।"
 
 #, fuzzy
 #~| msgid ""
@@ -11172,9 +11194,6 @@ msgstr "ମୁଖ୍ୟ ସାଧନପଟି"
 
 #~ msgid "Conflict With Registered Global Shortcut(s)"
 #~ msgstr "ଜାଗତିକ ସଂକ୍ଷିପ୍ତ ପଥ(ଗୁଡ଼ିକ) ସହିତ ଦ୍ୱନ୍ଦ"
-
-#~ msgid "Shortcut Conflict(s)"
-#~ msgstr "ସଂକ୍ଷିପ୍ତ ପଥ ଦ୍ୱନ୍ଦ(ଗୁଡ଼ିକ)"
 
 #~ msgid "tagcloudtest"
 #~ msgstr "tagcloudtest"
