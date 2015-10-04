@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-19 08:44+0000\n"
+"POT-Creation-Date: 2015-10-04 08:15+0000\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1711,62 +1711,62 @@ msgstr ""
 msgid "DEC VT420 Terminal"
 msgstr ""
 
-#: Session.cpp:372
+#: Session.cpp:376
 msgid "Could not find binary: "
 msgstr ""
 
-#: Session.cpp:381
+#: Session.cpp:385
 msgctxt "@info:shell Alert the user with red color text"
 msgid "Warning: "
 msgstr ""
 
-#: Session.cpp:438
+#: Session.cpp:442
 #, kde-format
 msgid ""
 "Could not find '%1', starting '%2' instead.  Please check your profile "
 "settings."
 msgstr ""
 
-#: Session.cpp:441
+#: Session.cpp:445
 msgid "Could not find an interactive shell to start."
 msgstr ""
 
-#: Session.cpp:479
+#: Session.cpp:483
 #, kde-format
 msgid "Could not start program '%1' with arguments '%2'."
 msgstr ""
 
-#: Session.cpp:586
+#: Session.cpp:590
 #, kde-format
 msgid "Silence in session '%1'"
 msgstr ""
 
-#: Session.cpp:627
+#: Session.cpp:641
 #, kde-format
 msgid "Bell in session '%1'"
 msgstr ""
 
-#: Session.cpp:630
+#: Session.cpp:644
 #, kde-format
 msgid "Activity in session '%1'"
 msgstr ""
 
-#: Session.cpp:812
+#: Session.cpp:837
 msgctxt "@info:shell This session is done"
 msgid "Finished"
 msgstr ""
 
-#: Session.cpp:826 Session.cpp:838
+#: Session.cpp:851 Session.cpp:863
 #, kde-format
 msgid "Program '%1' crashed."
 msgstr ""
 
-#: Session.cpp:828
+#: Session.cpp:853
 #, kde-format
 msgid "Program '%1' exited with status %2."
 msgstr ""
 
-#: Session.cpp:1180
+#: Session.cpp:1205
 msgid "ZModem Progress"
 msgstr ""
 
@@ -1774,227 +1774,227 @@ msgstr ""
 msgid "Konsole"
 msgstr ""
 
-#: SessionController.cpp:340
+#: SessionController.cpp:344
 msgid "Konsole does not know how to open the bookmark: "
 msgstr ""
 
-#: SessionController.cpp:398
+#: SessionController.cpp:402
 #, kde-format
 msgid "Search for '%1' with"
 msgstr ""
 
-#: SessionController.cpp:412
+#: SessionController.cpp:416
 msgid "Configure Web Shortcuts..."
 msgstr ""
 
-#: SessionController.cpp:548
+#: SessionController.cpp:558
 msgid "&Close Session"
 msgstr ""
 
-#: SessionController.cpp:550
+#: SessionController.cpp:560
 msgid "&Close Tab"
 msgstr ""
 
-#: SessionController.cpp:557
+#: SessionController.cpp:567
 msgid "Open File Manager"
 msgstr ""
 
-#: SessionController.cpp:573
+#: SessionController.cpp:583
 msgid "Paste Selection"
 msgstr ""
 
-#: SessionController.cpp:576
+#: SessionController.cpp:586
 msgid "Web Search"
 msgstr ""
 
-#: SessionController.cpp:583
+#: SessionController.cpp:593
 msgid "&Select All"
 msgstr ""
 
-#: SessionController.cpp:587
+#: SessionController.cpp:597
 msgid "Select &Line"
 msgstr ""
 
-#: SessionController.cpp:590
+#: SessionController.cpp:600
 msgid "Save Output &As..."
 msgstr ""
 
-#: SessionController.cpp:593
+#: SessionController.cpp:603
 msgid "&Print Screen..."
 msgstr ""
 
-#: SessionController.cpp:597
+#: SessionController.cpp:607
 msgid "Adjust Scrollback..."
 msgstr ""
 
-#: SessionController.cpp:601
+#: SessionController.cpp:611
 msgid "Clear Scrollback"
 msgstr ""
 
-#: SessionController.cpp:605
+#: SessionController.cpp:615
 msgid "Clear Scrollback and Reset"
 msgstr ""
 
-#: SessionController.cpp:611
+#: SessionController.cpp:621
 msgid "Edit Current Profile..."
 msgstr ""
 
-#: SessionController.cpp:614
+#: SessionController.cpp:624
 msgid "Switch Profile"
 msgstr ""
 
-#: SessionController.cpp:631
+#: SessionController.cpp:641
 msgid "Set &Encoding"
 msgstr ""
 
-#: SessionController.cpp:646
+#: SessionController.cpp:656
 msgid "&Rename Tab..."
 msgstr ""
 
-#: SessionController.cpp:652
+#: SessionController.cpp:662
 msgid "&All Tabs in Current Window"
 msgstr ""
 
-#: SessionController.cpp:659
+#: SessionController.cpp:669
 msgid "&Select Tabs..."
 msgstr ""
 
-#: SessionController.cpp:665
+#: SessionController.cpp:675
 msgctxt "@action:inmenu Do not select any tabs"
 msgid "&None"
 msgstr ""
 
-#: SessionController.cpp:673
+#: SessionController.cpp:683
 msgid "Copy Input To"
 msgstr ""
 
-#: SessionController.cpp:680
+#: SessionController.cpp:690
 msgid "&ZModem Upload..."
 msgstr ""
 
-#: SessionController.cpp:685
+#: SessionController.cpp:695
 msgid "Monitor for &Activity"
 msgstr ""
 
-#: SessionController.cpp:690
+#: SessionController.cpp:700
 msgid "Monitor for &Silence"
 msgstr ""
 
-#: SessionController.cpp:697
+#: SessionController.cpp:707
 msgid "Enlarge Font"
 msgstr ""
 
-#: SessionController.cpp:705
+#: SessionController.cpp:715
 msgid "Shrink Font"
 msgstr ""
 
-#: SessionController.cpp:712
+#: SessionController.cpp:722
 msgid "Send Signal"
 msgstr ""
 
-#: SessionController.cpp:716
+#: SessionController.cpp:726
 msgid "&Suspend Task"
 msgstr ""
 
-#: SessionController.cpp:721
+#: SessionController.cpp:731
 msgid "&Continue Task"
 msgstr ""
 
-#: SessionController.cpp:726
+#: SessionController.cpp:736
 msgid "&Hangup"
 msgstr ""
 
-#: SessionController.cpp:731
+#: SessionController.cpp:741
 msgid "&Interrupt Task"
 msgstr ""
 
-#: SessionController.cpp:736
+#: SessionController.cpp:746
 msgid "&Terminate Task"
 msgstr ""
 
-#: SessionController.cpp:741
+#: SessionController.cpp:751
 msgid "&Kill Task"
 msgstr ""
 
-#: SessionController.cpp:746
+#: SessionController.cpp:756
 msgid "User Signal &1"
 msgstr ""
 
-#: SessionController.cpp:751
+#: SessionController.cpp:761
 msgid "User Signal &2"
 msgstr ""
 
-#: SessionController.cpp:855
+#: SessionController.cpp:865
 msgid ""
 "A program is currently running in this session.  Are you sure you want to "
 "close it?"
 msgstr ""
 
-#: SessionController.cpp:858
+#: SessionController.cpp:868
 #, kde-format
 msgid ""
 "The program '%1' is currently running in this session.  Are you sure you "
 "want to close it?"
 msgstr ""
 
-#: SessionController.cpp:861 SessionController.cpp:886
+#: SessionController.cpp:871 SessionController.cpp:896
 msgid "Confirm Close"
 msgstr ""
 
-#: SessionController.cpp:880
+#: SessionController.cpp:890
 msgid ""
 "A program in this session would not die.  Are you sure you want to kill it "
 "by force?"
 msgstr ""
 
-#: SessionController.cpp:883
+#: SessionController.cpp:893
 #, kde-format
 msgid ""
 "The program '%1' is in this session would not die.  Are you sure you want to "
 "kill it by force?"
 msgstr ""
 
-#: SessionController.cpp:1377
+#: SessionController.cpp:1387
 msgid "Print Shell"
 msgstr ""
 
-#: SessionController.cpp:1579
+#: SessionController.cpp:1589
 msgid "Save ZModem Download to..."
 msgstr ""
 
-#: SessionController.cpp:1589
+#: SessionController.cpp:1599
 msgid ""
 "<p>A ZModem file transfer attempt has been detected, but no suitable ZModem "
 "software was found on this system.</p><p>You may wish to install the 'rzsz' "
 "or 'lrzsz' package.</p>"
 msgstr ""
 
-#: SessionController.cpp:1601
+#: SessionController.cpp:1611
 msgid ""
 "<p>The current session already has a ZModem file transfer in progress.</p>"
 msgstr ""
 
-#: SessionController.cpp:1610
+#: SessionController.cpp:1620
 msgid ""
 "<p>No suitable ZModem software was found on this system.</p><p>You may wish "
 "to install the 'rzsz' or 'lrzsz' package.</p>"
 msgstr ""
 
-#: SessionController.cpp:1616
+#: SessionController.cpp:1626
 msgid "Select Files for ZModem Upload"
 msgstr ""
 
-#: SessionController.cpp:1682
+#: SessionController.cpp:1692
 #, kde-format
 msgid "Save Output From %1"
 msgstr ""
 
-#: SessionController.cpp:1693
+#: SessionController.cpp:1703
 #, kde-format
 msgid "%1 is an invalid URL, the output could not be saved."
 msgstr ""
 
-#: SessionController.cpp:1767
+#: SessionController.cpp:1777
 #, kde-format
 msgid ""
 "A problem occurred when saving the output.\n"
@@ -2342,29 +2342,29 @@ msgstr ""
 msgid "Size: %1 x %2"
 msgstr ""
 
-#: TerminalDisplay.cpp:2821
+#: TerminalDisplay.cpp:2825
 #, kde-format
 msgid "Are you sure you want to paste %1 character?"
 msgid_plural "Are you sure you want to paste %1 characters?"
 msgstr[0] ""
 msgstr[1] ""
 
-#: TerminalDisplay.cpp:2824
+#: TerminalDisplay.cpp:2828
 msgid "Confirm Paste"
 msgstr ""
 
-#: TerminalDisplay.cpp:3013
+#: TerminalDisplay.cpp:3017
 msgid ""
 "<qt>Output has been <a href=\"http://en.wikipedia.org/wiki/"
 "Software_flow_control\">suspended</a> by pressing Ctrl+S.  Press <b>Ctrl+Q</"
 "b> to resume.  This message will be dismissed in 10 seconds.</qt>"
 msgstr ""
 
-#: TerminalDisplay.cpp:3281
+#: TerminalDisplay.cpp:3285
 msgid "&Paste Location"
 msgstr ""
 
-#: TerminalDisplay.cpp:3298
+#: TerminalDisplay.cpp:3302
 msgid "Change &Directory To"
 msgstr ""
 
@@ -2481,7 +2481,7 @@ msgctxt "@action Shortcut entry"
 msgid "Switch to Tab %1"
 msgstr ""
 
-#: Vt102Emulation.cpp:1060
+#: Vt102Emulation.cpp:1096
 msgid ""
 "No keyboard translator available.  The information needed to convert key "
 "presses into characters to send to the terminal is missing."
