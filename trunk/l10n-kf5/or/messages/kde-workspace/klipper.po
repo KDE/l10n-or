@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: klipper\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-05-12 12:39+0000\n"
+"POT-Creation-Date: 2016-01-12 09:05+0000\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -19,14 +19,6 @@ msgstr ""
 "\n"
 "\n"
 "X-Generator: KBabel 1.11.4\n"
-
-msgctxt "NAME OF TRANSLATORS"
-msgid "Your names"
-msgstr ""
-
-msgctxt "EMAIL OF TRANSLATORS"
-msgid "Your emails"
-msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_ReplayActionInHistory)
 #: actionsconfig.ui:17
@@ -553,6 +545,16 @@ msgstr ""
 
 #: main.cpp:69
 msgid "Maintainer"
+msgstr ""
+
+#: main.cpp:72
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#: main.cpp:72
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
 msgstr ""
 
 #: popupproxy.cpp:168
