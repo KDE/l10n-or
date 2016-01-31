@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-14 08:37+0000\n"
+"POT-Creation-Date: 2016-01-31 08:02+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -27,6 +27,11 @@ msgstr ""
 msgctxt "Name"
 msgid "Open Terminal Here"
 msgstr "ଏଠାରେ ଟର୍ମିନାଲ ଖୋଲନ୍ତୁ"
+
+#: desktop/konsolehere.desktop:105
+msgctxt "Comment"
+msgid "Opens a terminal at the current folder"
+msgstr ""
 
 #: desktop/konsole.notifyrc:3
 msgctxt "Comment"
@@ -88,12 +93,29 @@ msgctxt "Name"
 msgid "Terminal Emulator"
 msgstr "ଟର୍ମିନାଲ ଯାନ୍ତ୍ରାନୁକରଣ"
 
+#: desktop/konsolepart.desktop:107 desktop/org.kde.konsole.desktop:191
+#: desktop/terminalemulator.desktop:98
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Command Line"
+msgctxt "Comment"
+msgid "Command line access"
+msgstr "ନିର୍ଦ୍ଦେଶନାମା"
+
 #: desktop/konsolerun.desktop:13
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Konsole"
 msgctxt "Name"
 msgid "Run In Konsole"
+msgstr "କୋଲସୋଲ"
+
+#: desktop/konsolerun.desktop:60
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Konsole"
+msgctxt "Comment"
+msgid "Run within Konsole"
 msgstr "କୋଲସୋଲ"
 
 #: desktop/org.kde.konsole.desktop:14
@@ -106,9 +128,14 @@ msgctxt "GenericName"
 msgid "Terminal"
 msgstr "ଟର୍ମିନାଲ"
 
-#: desktop/org.kde.konsole.desktop:192
+#: desktop/org.kde.konsole.desktop:194
 msgctxt "Name"
 msgid "Open a New Window"
+msgstr ""
+
+#: desktop/org.kde.konsole.desktop:243
+msgctxt "Name"
+msgid "Open a New Tab"
 msgstr ""
 
 #~ msgctxt "Name"
@@ -6849,10 +6876,6 @@ msgstr ""
 #~ msgctxt "Comment"
 #~ msgid "Fast user switching"
 #~ msgstr "ପ୍ରଥମ ଚାଳକ ପରିବର୍ତ୍ତନ ହେଉଅଛି"
-
-#~ msgctxt "Name"
-#~ msgid "Command Line"
-#~ msgstr "ନିର୍ଦ୍ଦେଶନାମା"
 
 #~ msgctxt "Comment"
 #~ msgid "Executes shell commands"
