@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-11-27 03:25+0000\n"
+"POT-Creation-Date: 2016-02-04 07:18+0000\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -660,12 +660,12 @@ msgstr "%1 କୁ ଧରନ୍ତୁ, ତାପରେ %2 କୁ ଠେଲନ୍�
 msgid "&Help"
 msgstr "ସହାୟତା (&H)"
 
-#: kkeysequencewidget.cpp:128
+#: kkeysequencewidget.cpp:133
 #, kde-format
 msgid "Shortcut '%1' in Application %2 for action %3\n"
 msgstr ""
 
-#: kkeysequencewidget.cpp:138
+#: kkeysequencewidget.cpp:143
 #, kde-format
 msgctxt ""
 "%1 is the number of conflicts (hidden), %2 is the key sequence of the "
@@ -676,7 +676,7 @@ msgid_plural ""
 msgstr[0] ""
 msgstr[1] ""
 
-#: kkeysequencewidget.cpp:144
+#: kkeysequencewidget.cpp:149
 #, fuzzy
 #| msgid "Conflict With Registered Global Shortcut"
 msgctxt "%1 is the number of shortcuts with which there is a conflict"
@@ -685,13 +685,13 @@ msgid_plural "Conflict with Registered Global Shortcuts"
 msgstr[0] "ଜାଗତିକ ସଂକ୍ଷିପ୍ତ ପଥ ସହିତ ଦ୍ୱନ୍ଦ"
 msgstr[1] "ଜାଗତିକ ସଂକ୍ଷିପ୍ତ ପଥ ସହିତ ଦ୍ୱନ୍ଦ"
 
-#: kkeysequencewidget.cpp:146 kkeysequencewidget.cpp:233
-#: kkeysequencewidget.cpp:619 kshortcutseditor.cpp:624
-#: kshortcutseditor.cpp:642
+#: kkeysequencewidget.cpp:151 kkeysequencewidget.cpp:239
+#: kkeysequencewidget.cpp:630 kshortcutseditor.cpp:635
+#: kshortcutseditor.cpp:653
 msgid "Reassign"
 msgstr "ପୁନଃ ନିରୂପଣ କରିବା"
 
-#: kkeysequencewidget.cpp:214
+#: kkeysequencewidget.cpp:220
 #, fuzzy
 #| msgid "Shortcut conflict"
 msgctxt "%1 is the number of conflicts"
@@ -700,13 +700,13 @@ msgid_plural "Shortcut Conflicts"
 msgstr[0] "ସଂକ୍ଷିପ୍ତ ପଥ ଦ୍ୱନ୍ଦ"
 msgstr[1] "ସଂକ୍ଷିପ୍ତ ପଥ ଦ୍ୱନ୍ଦ"
 
-#: kkeysequencewidget.cpp:218
+#: kkeysequencewidget.cpp:224
 #, fuzzy, kde-format
 #| msgid "Shortcut(s) '%1' for action '%2'\n"
 msgid "Shortcut '%1' for action '%2'\n"
 msgstr "ସଂକ୍ଷିପ୍ତ ପଥ(ଗୁଡ଼ିକ) %1 କାର୍ଯ୍ୟ '%2' ପାଇଁ\n"
 
-#: kkeysequencewidget.cpp:223
+#: kkeysequencewidget.cpp:229
 #, kde-format
 msgctxt "%1 is the number of ambigious shortcut clashes (hidden)"
 msgid ""
@@ -720,41 +720,41 @@ msgid_plural ""
 msgstr[0] ""
 msgstr[1] ""
 
-#: kkeysequencewidget.cpp:242
+#: kkeysequencewidget.cpp:248
 msgid "Shortcut conflict"
 msgstr "ସଂକ୍ଷିପ୍ତ ପଥ ଦ୍ୱନ୍ଦ"
 
-#: kkeysequencewidget.cpp:243
+#: kkeysequencewidget.cpp:249
 #, kde-format
 msgid ""
 "<qt>The '%1' key combination is already used by the <b>%2</b> action."
 "<br>Please select a different one.</qt>"
 msgstr ""
 
-#: kkeysequencewidget.cpp:273
+#: kkeysequencewidget.cpp:279
 msgid ""
 "Click on the button, then enter the shortcut like you would in the program.\n"
 "Example for Ctrl+A: hold the Ctrl key and press A."
 msgstr ""
 
-#: kkeysequencewidget.cpp:465
+#: kkeysequencewidget.cpp:471
 #, fuzzy
 #| msgid "New Web Shortcut"
 msgid "Reserved Shortcut"
 msgstr "ନୂତନ ୱେବ ସଂକ୍ଷିପ୍ତ ପଥ"
 
-#: kkeysequencewidget.cpp:466
+#: kkeysequencewidget.cpp:472
 msgid ""
 "The F12 key is reserved on Windows, so cannot be used for a global "
 "shortcut.\n"
 "Please choose another one."
 msgstr ""
 
-#: kkeysequencewidget.cpp:613
+#: kkeysequencewidget.cpp:624
 msgid "Conflict with Standard Application Shortcut"
 msgstr "ମାନକ ପ୍ରୟୋଗ ସଂକ୍ଷିପ୍ତ ପଥ ସହିତ ଦ୍ୱନ୍ଦ"
 
-#: kkeysequencewidget.cpp:614
+#: kkeysequencewidget.cpp:625
 #, kde-format
 msgid ""
 "The '%1' key combination is also used for the standard action \"%2\" that "
@@ -762,22 +762,22 @@ msgid ""
 "Do you really want to use it as a global shortcut as well?"
 msgstr ""
 
-#: kkeysequencewidget.cpp:659
+#: kkeysequencewidget.cpp:670
 msgctxt "What the user inputs now will be taken as the new shortcut"
 msgid "Input"
 msgstr "ନିବେଶ"
 
-#: kkeysequencewidget.cpp:666 kshortcuteditwidget.cpp:63
-#: kshortcuteditwidget.cpp:66
+#: kkeysequencewidget.cpp:677 kshortcuteditwidget.cpp:66
+#: kshortcuteditwidget.cpp:69
 msgctxt "No shortcut defined"
 msgid "None"
 msgstr "କେହିନୁହଁ"
 
-#: kkeysequencewidget.cpp:712
+#: kkeysequencewidget.cpp:723
 msgid "The key you just pressed is not supported by Qt."
 msgstr ""
 
-#: kkeysequencewidget.cpp:713
+#: kkeysequencewidget.cpp:724
 msgid "Unsupported Key"
 msgstr "ଅସମର୍ଥିତ କି"
 
@@ -844,11 +844,11 @@ msgstr "ସଂଳାପର ଆକାର"
 msgid "The email address to send the bug report to."
 msgstr "ଏହି ତ୍ରୁଟି ବିବରଣୀ ପଠାଇଥିବା ଇମେଲ ଠିକଣା।"
 
-#: kshortcuteditwidget.cpp:62
+#: kshortcuteditwidget.cpp:65
 msgid "Default:"
 msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ:"
 
-#: kshortcuteditwidget.cpp:70
+#: kshortcuteditwidget.cpp:73
 msgid "Custom:"
 msgstr "ଇଚ୍ଛାରୂପଣ:"
 
@@ -998,63 +998,63 @@ msgstr "ମାଉସ ବଟନ ହାବଭାବ"
 msgid "Mouse Shape Gesture"
 msgstr "ମାଉସ ଆକାର ହାବଭାବ"
 
-#: kshortcutseditor.cpp:619 kshortcutseditor.cpp:637
+#: kshortcutseditor.cpp:630 kshortcutseditor.cpp:648
 msgid "Key Conflict"
 msgstr "କି ଦ୍ୱନ୍ଦ"
 
-#: kshortcutseditor.cpp:620
+#: kshortcutseditor.cpp:631
 #, kde-format
 msgid ""
 "The '%1' shape gesture has already been allocated to the \"%2\" action.\n"
 "Do you want to reassign it from that action to the current one?"
 msgstr ""
 
-#: kshortcutseditor.cpp:638
+#: kshortcutseditor.cpp:649
 #, kde-format
 msgid ""
 "The '%1' rocker gesture has already been allocated to the \"%2\" action.\n"
 "Do you want to reassign it from that action to the current one?"
 msgstr ""
 
-#: kshortcutseditor.cpp:685
+#: kshortcutseditor.cpp:696
 #, kde-format
 msgctxt "header for an applications shortcut list"
 msgid "Shortcuts for %1"
 msgstr "%1 ପାଇଁ ସଂକ୍ଷିପ୍ତ ପଥ"
 
 #. i18n: ectx: property (text), widget (QLabel, priLabel)
-#: kshortcutseditor.cpp:703 kshortcutwidget.ui:22
+#: kshortcutseditor.cpp:714 kshortcutwidget.ui:22
 msgid "Main:"
 msgstr "ମୁଖ୍ୟ:"
 
 #. i18n: ectx: property (text), widget (QLabel, altLabel)
-#: kshortcutseditor.cpp:704 kshortcutwidget.ui:52
+#: kshortcutseditor.cpp:715 kshortcutwidget.ui:52
 msgid "Alternate:"
 msgstr "ବିକଳ୍ପ:"
 
-#: kshortcutseditor.cpp:705
+#: kshortcutseditor.cpp:716
 msgid "Global:"
 msgstr "ଜାଗତିକ:"
 
-#: kshortcutseditor.cpp:706
+#: kshortcutseditor.cpp:717
 #, fuzzy
 #| msgid "Global Alternate"
 msgid "Global alternate:"
 msgstr "ସାମଗ୍ରିକ ବିକଳ୍ପ"
 
-#: kshortcutseditor.cpp:721
+#: kshortcutseditor.cpp:732
 msgid "Action Name"
 msgstr "କାର୍ଯ୍ୟ ନାମ"
 
-#: kshortcutseditor.cpp:725
+#: kshortcutseditor.cpp:736
 msgid "Shortcuts"
 msgstr "ସଂକ୍ଷିପ୍ତ ପଥ"
 
-#: kshortcutseditor.cpp:729
+#: kshortcutseditor.cpp:740
 msgid "Description"
 msgstr "ବର୍ଣ୍ଣନା"
 
-#: kshortcutseditoritem.cpp:51
+#: kshortcutseditoritem.cpp:54
 #, kde-format
 msgctxt "@item:intable Action name in shortcuts configuration"
 msgid "%1"
