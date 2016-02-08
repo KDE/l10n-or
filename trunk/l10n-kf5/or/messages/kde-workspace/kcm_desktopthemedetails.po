@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcm_desktopthemedetails\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-12-12 07:39+0000\n"
+"POT-Creation-Date: 2016-02-08 11:24+0000\n"
 "PO-Revision-Date: 2009-01-05 18:10+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -29,360 +29,17 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "mgiri@redhat.com"
 
-#. i18n: ectx: attribute (title), widget (QWidget, tab)
-#: DesktopTheme.ui:21
-#, fuzzy
-#| msgid "Theme Item"
-msgid "Theme"
-msgstr "ପ୍ରସଙ୍ଗ ବସ୍ତୁ"
-
 #. i18n: ectx: property (text), widget (QPushButton, m_fileInstallButton)
-#: DesktopTheme.ui:27
+#: DesktopTheme.ui:35
 msgid "Insta&ll from File"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, m_newThemeButton)
-#: DesktopTheme.ui:43
+#: DesktopTheme.ui:49
 #, fuzzy
 #| msgid "Get New Theme..."
 msgid "Get New Themes..."
 msgstr "ନୂତନ ପ୍ରସଙ୍ଗ ଗ୍ରହଣ କରନ୍ତୁ..."
-
-#. i18n: ectx: attribute (title), widget (QWidget, tab_2)
-#: DesktopTheme.ui:77
-msgid "Details"
-msgstr ""
-
-#: desktopthemedetails.cpp:45
-msgctxt "plasma name"
-msgid "Color Scheme"
-msgstr "ରଙ୍ଗ ଯୋଜନା"
-
-#: desktopthemedetails.cpp:46
-msgctxt "plasma name"
-msgid "Panel Background"
-msgstr "ପ୍ୟାନେଲ ପୃଷ୍ଠଭୂମି"
-
-#: desktopthemedetails.cpp:47
-msgctxt "plasma name"
-msgid "Kickoff"
-msgstr "Kickoff"
-
-#: desktopthemedetails.cpp:48
-msgctxt "plasma name"
-msgid "Task Items"
-msgstr "କାର୍ଯ୍ୟ ବସ୍ତୁଗୁଡ଼ିକ"
-
-#: desktopthemedetails.cpp:49
-msgctxt "plasma name"
-msgid "Widget Background"
-msgstr "ୱିଜେଟ ପୃଷ୍ଠଭୂମି"
-
-#: desktopthemedetails.cpp:50
-msgctxt "plasma name"
-msgid "Translucent Background"
-msgstr "Translucent ପୃଷ୍ଠଭୂମି"
-
-#: desktopthemedetails.cpp:51
-msgctxt "plasma name"
-msgid "Dialog Background"
-msgstr "ସଂଳାପ ପୃଷ୍ଠଭୂମି"
-
-#: desktopthemedetails.cpp:52
-msgctxt "plasma name"
-msgid "Analog Clock"
-msgstr "ଅନୁରୂପ ଘଡ଼ି"
-
-#: desktopthemedetails.cpp:53
-msgctxt "plasma name"
-msgid "Notes"
-msgstr "ଟିପ୍ପଣୀ"
-
-#: desktopthemedetails.cpp:54
-msgctxt "plasma name"
-msgid "Tooltip"
-msgstr "ଉପକରଣ ସୂଚନା"
-
-#: desktopthemedetails.cpp:55
-msgctxt "plasma name"
-msgid "Pager"
-msgstr "ପେଜର"
-
-#: desktopthemedetails.cpp:56
-msgctxt "plasma name"
-msgid "Run Command Dialog"
-msgstr "ନିର୍ଦ୍ଦେଶନାମା ସଂଳାପ ଚଲାନ୍ତୁ"
-
-#: desktopthemedetails.cpp:57
-msgctxt "plasma name"
-msgid "Shutdown Dialog"
-msgstr "ସଂଳାପ ବନ୍ଦ କରନ୍ତୁ"
-
-#: desktopthemedetails.cpp:58
-msgctxt "plasma name"
-msgid "Icons"
-msgstr ""
-
-#: desktopthemedetails.cpp:227
-msgid "(Customized)"
-msgstr "(ଇଚ୍ଛାମୁତାବକ)"
-
-#: desktopthemedetails.cpp:228
-msgid "User customized theme"
-msgstr "ଚାଳକ ଇଚ୍ଛାମୁତାବକ ପ୍ରସଙ୍ଗ"
-
-#: desktopthemedetails.cpp:260
-#, kde-format
-msgid ""
-"Theme items have been changed.  Do you still wish remove the \"%1\" theme?"
-msgstr "ପ୍ରସଙ୍ଗ ବସ୍ତୁଗୁଡ଼ିକ ପରିବର୍ତ୍ତିତ ହୋଇଛି।  ଆପଣ ଏପର୍ଯ୍ୟନ୍ତ \"%1\" ପ୍ରସଙ୍ଗକୁ କାଢ଼ିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
-
-#: desktopthemedetails.cpp:260 desktopthemedetails.cpp:265
-#: desktopthemedetails.cpp:268
-msgid "Remove Desktop Theme"
-msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗକୁ କାଢ଼ିଦିଅନ୍ତୁ"
-
-#: desktopthemedetails.cpp:265
-#, fuzzy
-#| msgid "Removal of the default KDE theme is not allowed."
-msgid "Removal of the default desktop theme is not allowed."
-msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ KDE ପ୍ରସଙ୍ଗକୁ କାଢ଼ିବା ଅନୁମୋଦିତ ନୁହଁ।"
-
-#: desktopthemedetails.cpp:268
-#, kde-format
-msgid "Are you sure you wish remove the \"%1\" theme?"
-msgstr "ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ \"%1\" ପ୍ରସଙ୍ଗକୁ କାଢ଼ିବାକୁ ଚାହୁଁଛନ୍ତି?"
-
-#: desktopthemedetails.cpp:296
-msgid ""
-"Please apply theme item changes (with a new theme name) before attempting to "
-"export theme."
-msgstr ""
-"ଦୟାକରି ପ୍ରସଙ୍ଗ ବସ୍ତୁ ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ପ୍ରୟୋଗ କରନ୍ତୁ (ଗୋଟିଏ ନୂତନ ପ୍ରସଙ୍ଗ ନାମ ସହିତ) ପ୍ରସଙ୍ଗ ପଠାଇବା "
-"ପୂର୍ବରୁ।"
-
-#: desktopthemedetails.cpp:296
-msgid "Export Desktop Theme"
-msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗକୁ ପଠାନ୍ତୁ "
-
-#: desktopthemedetails.cpp:302
-msgid "Export theme to file"
-msgstr "ପ୍ରସଙ୍ଗକୁ ଫାଇଲ ମଧ୍ୟକୁ ପଠାନ୍ତୁ"
-
-#: desktopthemedetails.cpp:302
-msgid "Archive (*.zip)"
-msgstr ""
-
-#: desktopthemedetails.cpp:398
-msgid "Theme Item"
-msgstr "ପ୍ରସଙ୍ଗ ବସ୍ତୁ"
-
-#: desktopthemedetails.cpp:398
-msgid "Source"
-msgstr "ଉତ୍ସ"
-
-#: desktopthemedetails.cpp:429
-#, fuzzy, kde-format
-#| msgid "%1 %2"
-msgctxt ""
-"%1 is the name of the theme, %2 is the type of the element (background, "
-"icon, note, etc)"
-msgid "%1 %2"
-msgstr "%1 %2"
-
-#: desktopthemedetails.cpp:432 desktopthemedetails.cpp:458
-msgid "File..."
-msgstr "ଫାଇଲ..."
-
-#: desktopthemedetails.cpp:461
-#, kde-format
-msgid "Select File to Use for %1"
-msgstr "%1 ପାଇଁ ବ୍ୟବହାର କରିବାକୁ ଫାଇଲ ବାଛନ୍ତୁ "
-
-#: desktopthemedetails.cpp:504
-#, kde-format
-msgid " Author: %1"
-msgstr " ଲେଖକ: %1"
-
-#: desktopthemedetails.cpp:510
-#, kde-format
-msgid "Version: %1"
-msgstr "ସଂସ୍କରଣ: %1"
-
-#. i18n: ectx: property (windowTitle), widget (QWidget, DesktopThemeItems)
-#: DesktopThemeDetails.ui:26
-msgid "Desktop Theme Details"
-msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବିବରଣୀ"
-
-#. i18n: ectx: property (toolTip), widget (QTableWidget, m_themeItemList)
-#: DesktopThemeDetails.ui:41
-msgid "Choose an item and customize it by assigning it a theme"
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (QTableWidget, m_themeItemList)
-#: DesktopThemeDetails.ui:44
-msgid ""
-"You can set any theme to any item. The available themes for the item are in "
-"the dropdown box on the right."
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (QCheckBox, m_enableAdvanced)
-#: DesktopThemeDetails.ui:72
-msgid "Enable more options"
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (QCheckBox, m_enableAdvanced)
-#: DesktopThemeDetails.ui:75
-msgid ""
-"This will expand the dialog and give you options to export your custom theme "
-"as well as to remove a theme."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QCheckBox, m_enableAdvanced)
-#: DesktopThemeDetails.ui:78
-msgid "More"
-msgstr "ଅଧିକ"
-
-#. i18n: ectx: property (toolTip), widget (QPushButton, m_removeThemeButton)
-#: DesktopThemeDetails.ui:90
-#, fuzzy
-#| msgid "Remove Desktop Theme"
-msgid "Remove the selected theme"
-msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗକୁ କାଢ଼ିଦିଅନ୍ତୁ"
-
-#. i18n: ectx: property (whatsThis), widget (QPushButton, m_removeThemeButton)
-#: DesktopThemeDetails.ui:93
-msgid ""
-"Clicking this button will remove the selected theme. You will be asked for "
-"confirmation."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QPushButton, m_removeThemeButton)
-#: DesktopThemeDetails.ui:96
-msgid "Remove Theme"
-msgstr "ପ୍ରସଙ୍ଗକୁ କାଢ଼ିଦିଅନ୍ତୁ"
-
-#. i18n: ectx: property (toolTip), widget (QPushButton, m_exportThemeButton)
-#: DesktopThemeDetails.ui:106
-msgid "Save your theme in a zip archive"
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (QPushButton, m_exportThemeButton)
-#: DesktopThemeDetails.ui:109
-msgid ""
-"You can save your theme in a zip archive in order to share it with the "
-"community."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QPushButton, m_exportThemeButton)
-#: DesktopThemeDetails.ui:112
-msgid "Export Theme to File..."
-msgstr "ପ୍ରସଙ୍ଗକୁ ଫାଇଲ ମଧ୍ୟକୁ ପଠାନ୍ତୁ..."
-
-#. i18n: ectx: property (text), widget (QLabel, m_newThemeNameLabel)
-#: DesktopThemeDetails.ui:136
-msgid "New theme name:"
-msgstr "ନୂତନ ପ୍ରସଙ୍ଗ ନାମ:"
-
-#. i18n: ectx: property (toolTip), widget (KLineEdit, m_newThemeName)
-#: DesktopThemeDetails.ui:149
-#, fuzzy
-#| msgid "New theme name:"
-msgid "Custom theme name"
-msgstr "ନୂତନ ପ୍ରସଙ୍ଗ ନାମ:"
-
-#. i18n: ectx: property (whatsThis), widget (KLineEdit, m_newThemeName)
-#: DesktopThemeDetails.ui:152
-msgid "Give a name to your custom theme."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, m_newThemeAuthorLabel)
-#: DesktopThemeDetails.ui:159
-msgid "Author:"
-msgstr "ଲେଖକ:"
-
-#. i18n: ectx: property (toolTip), widget (KLineEdit, m_newThemeAuthor)
-#: DesktopThemeDetails.ui:172
-#, fuzzy
-#| msgid "Theme Author"
-msgid "Custom theme author "
-msgstr "ପ୍ରସଙ୍ଗ ଲେଖକ"
-
-#. i18n: ectx: property (whatsThis), widget (KLineEdit, m_newThemeAuthor)
-#: DesktopThemeDetails.ui:175
-msgid "Enter the author name of your custom theme."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, m_newThemeVersionLabel)
-#: DesktopThemeDetails.ui:182
-msgid "Version:"
-msgstr "ସଂସ୍କରଣ:"
-
-#. i18n: ectx: property (toolTip), widget (KLineEdit, m_newThemeVersion)
-#: DesktopThemeDetails.ui:195
-#, fuzzy
-#| msgid "New theme name:"
-msgid "Custom theme version number"
-msgstr "ନୂତନ ପ୍ରସଙ୍ଗ ନାମ:"
-
-#. i18n: ectx: property (whatsThis), widget (KLineEdit, m_newThemeVersion)
-#: DesktopThemeDetails.ui:198
-msgid "Enter the version number of your custom theme."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, m_newThemeDescriptionLabel)
-#: DesktopThemeDetails.ui:209
-msgid "Description:"
-msgstr "ବର୍ଣ୍ଣନା:"
-
-#. i18n: ectx: property (toolTip), widget (KLineEdit, m_newThemeDescription)
-#: DesktopThemeDetails.ui:228
-#, fuzzy
-#| msgid "The theme description goes here..."
-msgid "Custom theme description"
-msgstr "ପ୍ରସଙ୍ଗ ବର୍ଣ୍ଣନାକୁ ଏଠାରେ ରଖାଯାଇଥାଏ..."
-
-#. i18n: ectx: property (whatsThis), widget (KLineEdit, m_newThemeDescription)
-#: DesktopThemeDetails.ui:231
-msgid "Enter a description which will explain your custom theme."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, label)
-#: DesktopThemeDetails.ui:250
-msgid "Select theme from above to customize"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, m_themeInfoAuthor)
-#: DesktopThemeDetails.ui:268
-msgid "Theme Author"
-msgstr "ପ୍ରସଙ୍ଗ ଲେଖକ"
-
-#. i18n: ectx: property (text), widget (QLabel, m_themeInfoName)
-#: DesktopThemeDetails.ui:284
-msgid "Theme Name"
-msgstr "ପ୍ରସଙ୍ଗ ନାମ"
-
-#. i18n: ectx: property (text), widget (QLabel, m_themeInfoVersion)
-#: DesktopThemeDetails.ui:294
-msgid "Theme Version"
-msgstr "ପ୍ରସଙ୍ଗ ସଂସ୍କରଣ"
-
-#. i18n: ectx: property (text), widget (QLabel, m_themeInfoDescription)
-#: DesktopThemeDetails.ui:306
-msgid "The theme description goes here..."
-msgstr "ପ୍ରସଙ୍ଗ ବର୍ଣ୍ଣନାକୁ ଏଠାରେ ରଖାଯାଇଥାଏ..."
-
-#. i18n: ectx: property (toolTip), widget (QListView, m_theme)
-#: DesktopThemeDetails.ui:368
-msgid "Available themes"
-msgstr ""
-
-#. i18n: ectx: property (whatsThis), widget (QListView, m_theme)
-#: DesktopThemeDetails.ui:371
-msgid ""
-"Choose a start theme in this list then customize some items below. All less "
-"important items not listed below will use this start theme."
-msgstr ""
 
 #: kcmdesktoptheme.cpp:52
 msgid ""
@@ -390,38 +47,217 @@ msgid ""
 "of the desktop."
 msgstr ""
 
-#: kcmdesktoptheme.cpp:62
+#: kcmdesktoptheme.cpp:61
 #, fuzzy
 #| msgid "Export Desktop Theme"
 msgid "KDE Desktop Theme Module"
 msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗକୁ ପଠାନ୍ତୁ "
 
-#: kcmdesktoptheme.cpp:64
+#: kcmdesktoptheme.cpp:63
 msgid "(c) 2002 Karol Szwed, Daniel Molkentin"
 msgstr ""
 
-#: kcmdesktoptheme.cpp:176
+#: kcmdesktoptheme.cpp:161
 #, fuzzy
 #| msgid "Theme Item"
 msgid "Open Theme"
 msgstr "ପ୍ରସଙ୍ଗ ବସ୍ତୁ"
 
-#: kcmdesktoptheme.cpp:178
+#: kcmdesktoptheme.cpp:163
 msgid "Theme Files (*.zip *.tar.gz *.tar.bz2)"
 msgstr ""
 
-#: kcmdesktoptheme.cpp:223
+#: kcmdesktoptheme.cpp:209
 msgid "Theme installed successfully."
 msgstr ""
 
-#: kcmdesktoptheme.cpp:226
+#: kcmdesktoptheme.cpp:213
 #, kde-format
 msgid "Theme installation failed. (%1)"
 msgstr ""
 
-#: kcmdesktoptheme.cpp:234
+#: kcmdesktoptheme.cpp:225
 msgid "Theme installation failed."
 msgstr ""
+
+#, fuzzy
+#~| msgid "Theme Item"
+#~ msgid "Theme"
+#~ msgstr "ପ୍ରସଙ୍ଗ ବସ୍ତୁ"
+
+#~ msgctxt "plasma name"
+#~ msgid "Color Scheme"
+#~ msgstr "ରଙ୍ଗ ଯୋଜନା"
+
+#~ msgctxt "plasma name"
+#~ msgid "Panel Background"
+#~ msgstr "ପ୍ୟାନେଲ ପୃଷ୍ଠଭୂମି"
+
+#~ msgctxt "plasma name"
+#~ msgid "Kickoff"
+#~ msgstr "Kickoff"
+
+#~ msgctxt "plasma name"
+#~ msgid "Task Items"
+#~ msgstr "କାର୍ଯ୍ୟ ବସ୍ତୁଗୁଡ଼ିକ"
+
+#~ msgctxt "plasma name"
+#~ msgid "Widget Background"
+#~ msgstr "ୱିଜେଟ ପୃଷ୍ଠଭୂମି"
+
+#~ msgctxt "plasma name"
+#~ msgid "Translucent Background"
+#~ msgstr "Translucent ପୃଷ୍ଠଭୂମି"
+
+#~ msgctxt "plasma name"
+#~ msgid "Dialog Background"
+#~ msgstr "ସଂଳାପ ପୃଷ୍ଠଭୂମି"
+
+#~ msgctxt "plasma name"
+#~ msgid "Analog Clock"
+#~ msgstr "ଅନୁରୂପ ଘଡ଼ି"
+
+#~ msgctxt "plasma name"
+#~ msgid "Notes"
+#~ msgstr "ଟିପ୍ପଣୀ"
+
+#~ msgctxt "plasma name"
+#~ msgid "Tooltip"
+#~ msgstr "ଉପକରଣ ସୂଚନା"
+
+#~ msgctxt "plasma name"
+#~ msgid "Pager"
+#~ msgstr "ପେଜର"
+
+#~ msgctxt "plasma name"
+#~ msgid "Run Command Dialog"
+#~ msgstr "ନିର୍ଦ୍ଦେଶନାମା ସଂଳାପ ଚଲାନ୍ତୁ"
+
+#~ msgctxt "plasma name"
+#~ msgid "Shutdown Dialog"
+#~ msgstr "ସଂଳାପ ବନ୍ଦ କରନ୍ତୁ"
+
+#~ msgid "(Customized)"
+#~ msgstr "(ଇଚ୍ଛାମୁତାବକ)"
+
+#~ msgid "User customized theme"
+#~ msgstr "ଚାଳକ ଇଚ୍ଛାମୁତାବକ ପ୍ରସଙ୍ଗ"
+
+#~ msgid ""
+#~ "Theme items have been changed.  Do you still wish remove the \"%1\" theme?"
+#~ msgstr ""
+#~ "ପ୍ରସଙ୍ଗ ବସ୍ତୁଗୁଡ଼ିକ ପରିବର୍ତ୍ତିତ ହୋଇଛି।  ଆପଣ ଏପର୍ଯ୍ୟନ୍ତ \"%1\" ପ୍ରସଙ୍ଗକୁ କାଢ଼ିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
+
+#~ msgid "Remove Desktop Theme"
+#~ msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗକୁ କାଢ଼ିଦିଅନ୍ତୁ"
+
+#, fuzzy
+#~| msgid "Removal of the default KDE theme is not allowed."
+#~ msgid "Removal of the default desktop theme is not allowed."
+#~ msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ KDE ପ୍ରସଙ୍ଗକୁ କାଢ଼ିବା ଅନୁମୋଦିତ ନୁହଁ।"
+
+#~ msgid "Are you sure you wish remove the \"%1\" theme?"
+#~ msgstr "ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ \"%1\" ପ୍ରସଙ୍ଗକୁ କାଢ଼ିବାକୁ ଚାହୁଁଛନ୍ତି?"
+
+#~ msgid ""
+#~ "Please apply theme item changes (with a new theme name) before attempting "
+#~ "to export theme."
+#~ msgstr ""
+#~ "ଦୟାକରି ପ୍ରସଙ୍ଗ ବସ୍ତୁ ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ପ୍ରୟୋଗ କରନ୍ତୁ (ଗୋଟିଏ ନୂତନ ପ୍ରସଙ୍ଗ ନାମ ସହିତ) ପ୍ରସଙ୍ଗ "
+#~ "ପଠାଇବା ପୂର୍ବରୁ।"
+
+#~ msgid "Export Desktop Theme"
+#~ msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗକୁ ପଠାନ୍ତୁ "
+
+#~ msgid "Export theme to file"
+#~ msgstr "ପ୍ରସଙ୍ଗକୁ ଫାଇଲ ମଧ୍ୟକୁ ପଠାନ୍ତୁ"
+
+#~ msgid "Theme Item"
+#~ msgstr "ପ୍ରସଙ୍ଗ ବସ୍ତୁ"
+
+#~ msgid "Source"
+#~ msgstr "ଉତ୍ସ"
+
+#, fuzzy
+#~| msgid "%1 %2"
+#~ msgctxt ""
+#~ "%1 is the name of the theme, %2 is the type of the element (background, "
+#~ "icon, note, etc)"
+#~ msgid "%1 %2"
+#~ msgstr "%1 %2"
+
+#~ msgid "File..."
+#~ msgstr "ଫାଇଲ..."
+
+#~ msgid "Select File to Use for %1"
+#~ msgstr "%1 ପାଇଁ ବ୍ୟବହାର କରିବାକୁ ଫାଇଲ ବାଛନ୍ତୁ "
+
+#~ msgid " Author: %1"
+#~ msgstr " ଲେଖକ: %1"
+
+#~ msgid "Version: %1"
+#~ msgstr "ସଂସ୍କରଣ: %1"
+
+#~ msgid "Desktop Theme Details"
+#~ msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବିବରଣୀ"
+
+#~ msgid "More"
+#~ msgstr "ଅଧିକ"
+
+#, fuzzy
+#~| msgid "Remove Desktop Theme"
+#~ msgid "Remove the selected theme"
+#~ msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗକୁ କାଢ଼ିଦିଅନ୍ତୁ"
+
+#~ msgid "Remove Theme"
+#~ msgstr "ପ୍ରସଙ୍ଗକୁ କାଢ଼ିଦିଅନ୍ତୁ"
+
+#~ msgid "Export Theme to File..."
+#~ msgstr "ପ୍ରସଙ୍ଗକୁ ଫାଇଲ ମଧ୍ୟକୁ ପଠାନ୍ତୁ..."
+
+#~ msgid "New theme name:"
+#~ msgstr "ନୂତନ ପ୍ରସଙ୍ଗ ନାମ:"
+
+#, fuzzy
+#~| msgid "New theme name:"
+#~ msgid "Custom theme name"
+#~ msgstr "ନୂତନ ପ୍ରସଙ୍ଗ ନାମ:"
+
+#~ msgid "Author:"
+#~ msgstr "ଲେଖକ:"
+
+#, fuzzy
+#~| msgid "Theme Author"
+#~ msgid "Custom theme author "
+#~ msgstr "ପ୍ରସଙ୍ଗ ଲେଖକ"
+
+#~ msgid "Version:"
+#~ msgstr "ସଂସ୍କରଣ:"
+
+#, fuzzy
+#~| msgid "New theme name:"
+#~ msgid "Custom theme version number"
+#~ msgstr "ନୂତନ ପ୍ରସଙ୍ଗ ନାମ:"
+
+#~ msgid "Description:"
+#~ msgstr "ବର୍ଣ୍ଣନା:"
+
+#, fuzzy
+#~| msgid "The theme description goes here..."
+#~ msgid "Custom theme description"
+#~ msgstr "ପ୍ରସଙ୍ଗ ବର୍ଣ୍ଣନାକୁ ଏଠାରେ ରଖାଯାଇଥାଏ..."
+
+#~ msgid "Theme Author"
+#~ msgstr "ପ୍ରସଙ୍ଗ ଲେଖକ"
+
+#~ msgid "Theme Name"
+#~ msgstr "ପ୍ରସଙ୍ଗ ନାମ"
+
+#~ msgid "Theme Version"
+#~ msgstr "ପ୍ରସଙ୍ଗ ସଂସ୍କରଣ"
+
+#~ msgid "The theme description goes here..."
+#~ msgstr "ପ୍ରସଙ୍ଗ ବର୍ଣ୍ଣନାକୁ ଏଠାରେ ରଖାଯାଇଥାଏ..."
 
 #, fuzzy
 #~| msgid "Remove Desktop Theme"
