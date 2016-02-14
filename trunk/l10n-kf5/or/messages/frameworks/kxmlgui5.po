@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-02-10 07:26+0000\n"
+"POT-Creation-Date: 2016-02-14 07:17+0000\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -660,12 +660,12 @@ msgstr "%1 କୁ ଧରନ୍ତୁ, ତାପରେ %2 କୁ ଠେଲନ୍�
 msgid "&Help"
 msgstr "ସହାୟତା (&H)"
 
-#: kkeysequencewidget.cpp:133
+#: kkeysequencewidget.cpp:135
 #, kde-format
 msgid "Shortcut '%1' in Application %2 for action %3\n"
 msgstr ""
 
-#: kkeysequencewidget.cpp:143
+#: kkeysequencewidget.cpp:145
 #, kde-format
 msgctxt ""
 "%1 is the number of conflicts (hidden), %2 is the key sequence of the "
@@ -676,7 +676,7 @@ msgid_plural ""
 msgstr[0] ""
 msgstr[1] ""
 
-#: kkeysequencewidget.cpp:149
+#: kkeysequencewidget.cpp:151
 #, fuzzy
 #| msgid "Conflict With Registered Global Shortcut"
 msgctxt "%1 is the number of shortcuts with which there is a conflict"
@@ -685,13 +685,13 @@ msgid_plural "Conflict with Registered Global Shortcuts"
 msgstr[0] "ଜାଗତିକ ସଂକ୍ଷିପ୍ତ ପଥ ସହିତ ଦ୍ୱନ୍ଦ"
 msgstr[1] "ଜାଗତିକ ସଂକ୍ଷିପ୍ତ ପଥ ସହିତ ଦ୍ୱନ୍ଦ"
 
-#: kkeysequencewidget.cpp:151 kkeysequencewidget.cpp:239
-#: kkeysequencewidget.cpp:630 kshortcutseditor.cpp:635
+#: kkeysequencewidget.cpp:153 kkeysequencewidget.cpp:241
+#: kkeysequencewidget.cpp:632 kshortcutseditor.cpp:635
 #: kshortcutseditor.cpp:653
 msgid "Reassign"
 msgstr "ପୁନଃ ନିରୂପଣ କରିବା"
 
-#: kkeysequencewidget.cpp:220
+#: kkeysequencewidget.cpp:222
 #, fuzzy
 #| msgid "Shortcut conflict"
 msgctxt "%1 is the number of conflicts"
@@ -700,13 +700,13 @@ msgid_plural "Shortcut Conflicts"
 msgstr[0] "ସଂକ୍ଷିପ୍ତ ପଥ ଦ୍ୱନ୍ଦ"
 msgstr[1] "ସଂକ୍ଷିପ୍ତ ପଥ ଦ୍ୱନ୍ଦ"
 
-#: kkeysequencewidget.cpp:224
+#: kkeysequencewidget.cpp:226
 #, fuzzy, kde-format
 #| msgid "Shortcut(s) '%1' for action '%2'\n"
 msgid "Shortcut '%1' for action '%2'\n"
 msgstr "ସଂକ୍ଷିପ୍ତ ପଥ(ଗୁଡ଼ିକ) %1 କାର୍ଯ୍ୟ '%2' ପାଇଁ\n"
 
-#: kkeysequencewidget.cpp:229
+#: kkeysequencewidget.cpp:231
 #, kde-format
 msgctxt "%1 is the number of ambigious shortcut clashes (hidden)"
 msgid ""
@@ -720,41 +720,41 @@ msgid_plural ""
 msgstr[0] ""
 msgstr[1] ""
 
-#: kkeysequencewidget.cpp:248
+#: kkeysequencewidget.cpp:250
 msgid "Shortcut conflict"
 msgstr "ସଂକ୍ଷିପ୍ତ ପଥ ଦ୍ୱନ୍ଦ"
 
-#: kkeysequencewidget.cpp:249
+#: kkeysequencewidget.cpp:251
 #, kde-format
 msgid ""
 "<qt>The '%1' key combination is already used by the <b>%2</b> action."
 "<br>Please select a different one.</qt>"
 msgstr ""
 
-#: kkeysequencewidget.cpp:279
+#: kkeysequencewidget.cpp:281
 msgid ""
 "Click on the button, then enter the shortcut like you would in the program.\n"
 "Example for Ctrl+A: hold the Ctrl key and press A."
 msgstr ""
 
-#: kkeysequencewidget.cpp:471
+#: kkeysequencewidget.cpp:473
 #, fuzzy
 #| msgid "New Web Shortcut"
 msgid "Reserved Shortcut"
 msgstr "ନୂତନ ୱେବ ସଂକ୍ଷିପ୍ତ ପଥ"
 
-#: kkeysequencewidget.cpp:472
+#: kkeysequencewidget.cpp:474
 msgid ""
 "The F12 key is reserved on Windows, so cannot be used for a global "
 "shortcut.\n"
 "Please choose another one."
 msgstr ""
 
-#: kkeysequencewidget.cpp:624
+#: kkeysequencewidget.cpp:626
 msgid "Conflict with Standard Application Shortcut"
 msgstr "ମାନକ ପ୍ରୟୋଗ ସଂକ୍ଷିପ୍ତ ପଥ ସହିତ ଦ୍ୱନ୍ଦ"
 
-#: kkeysequencewidget.cpp:625
+#: kkeysequencewidget.cpp:627
 #, kde-format
 msgid ""
 "The '%1' key combination is also used for the standard action \"%2\" that "
@@ -762,22 +762,22 @@ msgid ""
 "Do you really want to use it as a global shortcut as well?"
 msgstr ""
 
-#: kkeysequencewidget.cpp:670
+#: kkeysequencewidget.cpp:672
 msgctxt "What the user inputs now will be taken as the new shortcut"
 msgid "Input"
 msgstr "ନିବେଶ"
 
-#: kkeysequencewidget.cpp:677 kshortcuteditwidget.cpp:66
+#: kkeysequencewidget.cpp:679 kshortcuteditwidget.cpp:66
 #: kshortcuteditwidget.cpp:69
 msgctxt "No shortcut defined"
 msgid "None"
 msgstr "କେହିନୁହଁ"
 
-#: kkeysequencewidget.cpp:723
+#: kkeysequencewidget.cpp:725
 msgid "The key you just pressed is not supported by Qt."
 msgstr ""
 
-#: kkeysequencewidget.cpp:724
+#: kkeysequencewidget.cpp:726
 msgid "Unsupported Key"
 msgstr "ଅସମର୍ଥିତ କି"
 
@@ -852,57 +852,59 @@ msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ:"
 msgid "Custom:"
 msgstr "ଇଚ୍ଛାରୂପଣ:"
 
-#: kshortcutschemeseditor.cpp:43
+#: kshortcutschemeseditor.cpp:44
 msgid "Shortcut Schemes"
 msgstr "ସଂକ୍ଷିପ୍ତ ପଥ ଯୋଜନାଗୁଡ଼ିକ"
 
-#: kshortcutschemeseditor.cpp:62
+#: kshortcutschemeseditor.cpp:65
 msgid "Current scheme:"
 msgstr "ସାମ୍ପ୍ରତିକ ଯୋଜନା:"
 
-#: kshortcutschemeseditor.cpp:72
+#: kshortcutschemeseditor.cpp:81
 msgid "New..."
 msgstr "ନୂତନ..."
 
-#: kshortcutschemeseditor.cpp:75
+#: kshortcutschemeseditor.cpp:84
 msgid "Delete"
 msgstr "ଲିଭାନ୍ତୁ"
 
-#: kshortcutschemeseditor.cpp:78
+#: kshortcutschemeseditor.cpp:87
 msgid "More Actions"
 msgstr "ଅଧିକ କାର୍ଯ୍ୟ"
 
-#: kshortcutschemeseditor.cpp:82
-msgid "Save as Scheme Defaults"
-msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ ଯୋଜନା ପରି ସଂରକ୍ଷଣ କରନ୍ତୁ"
+#: kshortcutschemeseditor.cpp:91
+#, fuzzy
+#| msgid "Shortcut Schemes"
+msgid "Save shortcuts to scheme"
+msgstr "ସଂକ୍ଷିପ୍ତ ପଥ ଯୋଜନାଗୁଡ଼ିକ"
 
-#: kshortcutschemeseditor.cpp:84
+#: kshortcutschemeseditor.cpp:93
 msgid "Export Scheme..."
 msgstr "ଯୋଜନା ପଠାନ୍ତୁ..."
 
-#: kshortcutschemeseditor.cpp:86
+#: kshortcutschemeseditor.cpp:95
 #, fuzzy
 #| msgid "Export Scheme..."
 msgid "Import Scheme..."
 msgstr "ଯୋଜନା ପଠାନ୍ତୁ..."
 
-#: kshortcutschemeseditor.cpp:102
+#: kshortcutschemeseditor.cpp:111
 msgid "Name for New Scheme"
 msgstr "ନୂତନ ଯୋଜନା ପାଇଁ ନାମ"
 
-#: kshortcutschemeseditor.cpp:103
+#: kshortcutschemeseditor.cpp:112
 msgid "Name for new scheme:"
 msgstr "ନୂତନ ଯୋଜନା ପାଇଁ ନାମ:"
 
-#: kshortcutschemeseditor.cpp:103
+#: kshortcutschemeseditor.cpp:112
 msgid "New Scheme"
 msgstr "ନୂତନ ଯୋଜନା"
 
-#: kshortcutschemeseditor.cpp:109
+#: kshortcutschemeseditor.cpp:118
 msgid "A scheme with this name already exists."
 msgstr "ଏହି ନାମ ବିଶିଷ୍ଟ ଗୋଟିଏ ଯୋଜନା ପୂର୍ବରୁ ରହିଅଛି।"
 
-#: kshortcutschemeseditor.cpp:138
+#: kshortcutschemeseditor.cpp:148
 #, kde-format
 msgid ""
 "Do you really want to delete the scheme %1?\n"
@@ -911,23 +913,33 @@ msgstr ""
 "କଣ ଆପଣ ନିଶ୍ଚିତ ଭାବରେ ଯୋଜନା %1କୁ ଅପସାରଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?\n"
 "ମନେରଖନ୍ତୁ ଯେ ଏହା କୌଣସି ତନ୍ତ୍ରମୟ ସଂକ୍ଷିପ୍ତ ପଥ ଯୋଜନାଗୁଡ଼ିକୁ ଅପସାରଣ କରିବ ନାହିଁ।"
 
-#: kshortcutschemeseditor.cpp:168
+#: kshortcutschemeseditor.cpp:178
 #, fuzzy
 #| msgid "Shortcuts"
 msgid "Export Shortcuts"
 msgstr "ସଂକ୍ଷିପ୍ତ ପଥ"
 
-#: kshortcutschemeseditor.cpp:168 kshortcutschemeseditor.cpp:179
+#: kshortcutschemeseditor.cpp:178 kshortcutschemeseditor.cpp:189
 #, fuzzy
 #| msgid "Shortcut Conflict(s)"
 msgid "Shortcuts (*.shortcuts)"
 msgstr "ସଂକ୍ଷିପ୍ତ ପଥ ଦ୍ୱନ୍ଦ(ଗୁଡ଼ିକ)"
 
-#: kshortcutschemeseditor.cpp:179
+#: kshortcutschemeseditor.cpp:189
 #, fuzzy
 #| msgid "Shortcuts"
 msgid "Import Shortcuts"
 msgstr "ସଂକ୍ଷିପ୍ତ ପଥ"
+
+#: kshortcutschemeseditor.cpp:200
+#, fuzzy
+#| msgid "The removal request was successfully registered."
+msgid "Shortcut scheme successfully saved."
+msgstr "ଅପସାରଣ ଅନୁରୋଧଟି ସଫଳତାର ସହିତ ପଞ୍ଜିକୃତ ହୋଇଗଲା।"
+
+#: kshortcutschemeseditor.cpp:203
+msgid "Error saving the shortcut scheme."
+msgstr ""
 
 #: kshortcutsdialog.cpp:85
 msgid ""
@@ -935,11 +947,13 @@ msgid ""
 "one?"
 msgstr ""
 
-#: kshortcutsdialog.cpp:130 kshortcutsdialog.cpp:165
-msgid "&Details"
-msgstr "ବିସ୍ତୃତ ବିବରଣୀ (&D)"
+#: kshortcutsdialog.cpp:135
+#, fuzzy
+#| msgid "New Scheme"
+msgid "Manage &Schemes"
+msgstr "ନୂତନ ଯୋଜନା"
 
-#: kshortcutsdialog.cpp:149
+#: kshortcutsdialog.cpp:154
 msgid "Configure Shortcuts"
 msgstr "ସଂକ୍ଷିପ୍ତ ପଥ ବିନ୍ୟାସ କରନ୍ତୁ"
 
@@ -1290,6 +1304,12 @@ msgstr "ବିନ୍ୟାସ (&S)"
 #: ui_standards.rc:194
 msgid "Main Toolbar"
 msgstr "ମୁଖ୍ୟ ସାଧନପଟି"
+
+#~ msgid "Save as Scheme Defaults"
+#~ msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ ଯୋଜନା ପରି ସଂରକ୍ଷଣ କରନ୍ତୁ"
+
+#~ msgid "&Details"
+#~ msgstr "ବିସ୍ତୃତ ବିବରଣୀ (&D)"
 
 #~ msgid "Export to Location"
 #~ msgstr "ଏହି ସ୍ଥାନକୁ ପଠାନ୍ତୁ"
@@ -8017,9 +8037,6 @@ msgstr "ମୁଖ୍ୟ ସାଧନପଟି"
 
 #~ msgid "Version: %1"
 #~ msgstr "ସଂସ୍କରଣ: %1"
-
-#~ msgid "The removal request was successfully registered."
-#~ msgstr "ଅପସାରଣ ଅନୁରୋଧଟି ସଫଳତାର ସହିତ ପଞ୍ଜିକୃତ ହୋଇଗଲା।"
 
 #~ msgid "Removal of entry"
 #~ msgstr "ଭରଣର ଅପସାରଣ"
