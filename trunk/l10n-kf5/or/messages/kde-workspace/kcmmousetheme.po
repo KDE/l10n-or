@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcminput\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-10-23 08:16+0000\n"
+"POT-Creation-Date: 2016-02-25 08:04+0000\n"
 "PO-Revision-Date: 2009-01-02 11:44+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -53,60 +53,61 @@ msgctxt "@item:inlistbox size"
 msgid "Resolution dependent"
 msgstr ""
 
-#: xcursor/themepage.cpp:311
-msgid "You have to restart KDE for these changes to take effect."
+#: xcursor/themepage.cpp:319
+msgid ""
+"You have to restart the Plasma session for these changes to take effect."
 msgstr ""
 
-#: xcursor/themepage.cpp:312
+#: xcursor/themepage.cpp:320
 msgid "Cursor Settings Changed"
 msgstr ""
 
-#: xcursor/themepage.cpp:430
+#: xcursor/themepage.cpp:438
 msgid "Drag or Type Theme URL"
 msgstr ""
 
-#: xcursor/themepage.cpp:441
+#: xcursor/themepage.cpp:449
 #, kde-format
 msgid "Unable to find the cursor theme archive %1."
 msgstr ""
 
-#: xcursor/themepage.cpp:444
+#: xcursor/themepage.cpp:452
 #, kde-format
 msgid ""
 "Unable to download the cursor theme archive; please check that the address "
 "%1 is correct."
 msgstr ""
 
-#: xcursor/themepage.cpp:453
+#: xcursor/themepage.cpp:461
 #, kde-format
 msgid "The file %1 does not appear to be a valid cursor theme archive."
 msgstr ""
 
-#: xcursor/themepage.cpp:468
+#: xcursor/themepage.cpp:476
 msgid ""
 "<qt>You cannot delete the theme you are currently using.<br />You have to "
 "switch to another theme first.</qt>"
 msgstr ""
 
-#: xcursor/themepage.cpp:474
+#: xcursor/themepage.cpp:482
 #, kde-format
 msgid ""
 "<qt>Are you sure you want to remove the <i>%1</i> cursor theme?<br />This "
 "will delete all the files installed by this theme.</qt>"
 msgstr ""
 
-#: xcursor/themepage.cpp:480
+#: xcursor/themepage.cpp:488
 msgid "Confirmation"
 msgstr ""
 
-#: xcursor/themepage.cpp:537
+#: xcursor/themepage.cpp:545
 #, kde-format
 msgid ""
 "A theme named %1 already exists in your icon theme folder. Do you want "
 "replace it with this one?"
 msgstr ""
 
-#: xcursor/themepage.cpp:541
+#: xcursor/themepage.cpp:549
 msgid "Overwrite Theme?"
 msgstr ""
 
@@ -141,7 +142,7 @@ msgctxt "@label:listbox cursor size"
 msgid "Size:"
 msgstr ""
 
-#: xcursor/xcursortheme.cpp:75
+#: xcursor/xcursortheme.cpp:77
 #, kde-format
 msgctxt ""
 "@info The argument is the list of available sizes (in pixel). Example: "
