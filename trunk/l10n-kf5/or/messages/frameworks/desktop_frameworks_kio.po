@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-02-25 08:16+0000\n"
+"POT-Creation-Date: 2016-03-08 08:58+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -85,11 +85,6 @@ msgstr "ଆବର୍ଜନା ପାତ୍ର ସଂରଚନାକୁ ବିନ
 msgctxt "X-KDE-Keywords"
 msgid "trash"
 msgstr "ଆବର୍ଜନା ପାତ୍ର"
-
-#: src/ioslaves/trash/trash.protocol:25
-msgctxt "ExtraNames"
-msgid "Original Path,Deletion Date"
-msgstr "ପ୍ରକୃତ ପଥ, ଅପସାରଣ ତାରିଖ"
 
 #: src/kcms/kio/cache.desktop:15
 msgctxt "Name"
@@ -2306,6 +2301,10 @@ msgstr ""
 msgctxt "Name"
 msgid "Enhanced Browsing Plugin"
 msgstr "Tabbed ବ୍ରାଉଜିଙ୍ଗ"
+
+#~ msgctxt "ExtraNames"
+#~ msgid "Original Path,Deletion Date"
+#~ msgstr "ପ୍ରକୃତ ପଥ, ଅପସାରଣ ତାରିଖ"
 
 #, fuzzy
 #~| msgctxt "Name"
