@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-04-08 08:39+0000\n"
+"POT-Creation-Date: 2016-03-09 07:42+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -59,9 +59,12 @@ msgid "KHelpCenter"
 msgstr "Kସହାୟତା କେନ୍ଦ୍ର"
 
 #: khelpcenter.desktop:93
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "More Applications"
 msgctxt "Comment"
-msgid "The KDE Help Center"
-msgstr "KDE ସହାୟତା କେନ୍ଦ୍ର"
+msgid "Help for applications"
+msgstr "ଅଧିକ ପ୍ରୟୋଗ"
 
 #: org.kde.Help.desktop:9
 msgctxt "Name"
@@ -91,7 +94,7 @@ msgstr "ଫାଇଲ ପରିଚାଳକ - ମୂଖ୍ୟ ଚାଳକ ସ୍
 #| msgctxt "Name"
 #| msgid "KDE Performance"
 msgctxt "Name"
-msgid "KDE Fundamentals"
+msgid "Fundamentals"
 msgstr "KDE କାର୍ଯଦକ୍ଷତା"
 
 #: plugins/info.desktop:2
@@ -201,20 +204,22 @@ msgctxt "Name"
 msgid "Plasma Manual"
 msgstr "ପ୍ଲାଜମା ସହାୟକ ପୁସ୍ତକ"
 
-#: plugins/quickstart.desktop:3
-msgctxt "Name"
-msgid "Quickstart Guide"
-msgstr "Quickstart ପଥ ପ୍ରଦର୍ଶକ"
-
 #: plugins/Scrollkeeper/.directory:2
 msgctxt "Name"
 msgid "Scrollkeeper"
 msgstr "Scrollkeeper"
 
-#: plugins/userguide.desktop:3
-msgctxt "Name"
-msgid "KDE Users' Manual"
-msgstr "KDE ଚାଳକ ସହାୟକ ପୁସ୍ତକ"
+#~ msgctxt "Comment"
+#~ msgid "The KDE Help Center"
+#~ msgstr "KDE ସହାୟତା କେନ୍ଦ୍ର"
+
+#~ msgctxt "Name"
+#~ msgid "Quickstart Guide"
+#~ msgstr "Quickstart ପଥ ପ୍ରଦର୍ଶକ"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Users' Manual"
+#~ msgstr "KDE ଚାଳକ ସହାୟକ ପୁସ୍ତକ"
 
 #, fuzzy
 #~| msgctxt "Name"
@@ -3979,10 +3984,6 @@ msgstr "KDE ଚାଳକ ସହାୟକ ପୁସ୍ତକ"
 #~ msgctxt "Name"
 #~ msgid "KDE Menu"
 #~ msgstr "KDE ତାଲିକା"
-
-#~ msgctxt "Name"
-#~ msgid "More Applications"
-#~ msgstr "ଅଧିକ ପ୍ରୟୋଗ"
 
 #~ msgctxt "Name"
 #~ msgid "Multimedia"

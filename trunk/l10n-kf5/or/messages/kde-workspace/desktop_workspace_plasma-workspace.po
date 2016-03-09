@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-03-02 08:00+0000\n"
+"POT-Creation-Date: 2016-03-09 07:42+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -238,15 +238,20 @@ msgctxt "Comment"
 msgid "A network usage monitor"
 msgstr "ଗୋଟିଏ ନେଟୱର୍କ ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
 
-#: applets/systemtray/package/metadata.desktop:2
+#: applets/systemtray/container/package/metadata.desktop:2
 msgctxt "Name"
 msgid "System Tray"
 msgstr "ତନ୍ତ୍ର ଧାରକ"
 
-#: applets/systemtray/package/metadata.desktop:90
+#: applets/systemtray/container/package/metadata.desktop:3
 msgctxt "Comment"
 msgid "Access hidden applications minimized in the system tray"
 msgstr "ତନ୍ତ୍ର ଟ୍ରେରେ ଆକାର ଛୋଟହୋଇ ଲୁକ୍କାୟିତ ପ୍ରୟୋଗଗୁଡ଼ିକୁ ବ୍ୟବହାର କରନ୍ତୁ"
+
+#: applets/systemtray/package/metadata.desktop:3
+msgctxt "Name"
+msgid "System tray (experimental)"
+msgstr ""
 
 #: appmenu/appmenu.desktop:3
 #, fuzzy

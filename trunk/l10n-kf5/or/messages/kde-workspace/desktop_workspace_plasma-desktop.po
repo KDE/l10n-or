@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-02-27 07:53+0000\n"
+"POT-Creation-Date: 2016-03-09 07:42+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -475,19 +475,6 @@ msgid ""
 "setting."
 msgstr ""
 
-#: kcms/componentchooser/componentservices/kcm_wm.desktop:4
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Task Manager"
-msgctxt "Name|standard desktop component"
-msgid "Window Manager"
-msgstr "କାର୍ଯ୍ୟ ପରିଚାଳକ"
-
-#: kcms/componentchooser/componentservices/kcm_wm.desktop:52
-msgctxt "Comment"
-msgid "Here you can select the window manager to be run in your KDE session."
-msgstr "ଆପଣଙ୍କର KDE ଅଧିବେଶନରେ ଚଲାଇବା ପାଇଁ ୱିଣ୍ଡୋ ପରିଚାଳକଙ୍କୁ ଏଠାରେ ଚୟନ କରିପାରିବେ।"
-
 #: kcms/componentchooser/EXAMPLE.desktop:1
 msgctxt "Name"
 msgid "A nice name you have chosen for your interface"
@@ -497,27 +484,6 @@ msgstr "ଆପଣ ଆପଣଙ୍କର ଅନ୍ତରାପୃଷ୍ଠ ପା
 msgctxt "Comment"
 msgid "A helpful description of the interface for the top right info box"
 msgstr "ଡ଼ାହାଣ ପାଖ ଉପର ଅଂଶ ସୂଚନା ବାକ୍ସ ପାଇଁ ଅନ୍ତରାପୃଷ୍ଠର ଗୋଟିଏ ସହାୟକ ବର୍ଣ୍ଣନା"
-
-#: kcms/componentchooser/windowmanagers/compiz-custom.desktop:2
-msgctxt "Name"
-msgid ""
-"Compiz custom (create wrapper script 'compiz-kde-launcher' to launch it)"
-msgstr ""
-
-#: kcms/componentchooser/windowmanagers/compiz.desktop:2
-msgctxt "Name"
-msgid "Compiz"
-msgstr "Compiz"
-
-#: kcms/componentchooser/windowmanagers/metacity.desktop:2
-msgctxt "Name"
-msgid "Metacity (GNOME)"
-msgstr "Metacity (GNOME)"
-
-#: kcms/componentchooser/windowmanagers/openbox.desktop:2
-msgctxt "Name"
-msgid "Openbox"
-msgstr "Openbox"
 
 #: kcms/cursortheme/cursortheme.desktop:13
 #, fuzzy
@@ -1599,6 +1565,30 @@ msgstr "ପ୍ଲାଜମା ଡ଼େସ୍କଟପ କାର୍ଯ୍ୟସ�
 msgctxt "Name"
 msgid "Panel toolbox"
 msgstr "ନେଟୱର୍କ ସାଧନ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Task Manager"
+#~ msgctxt "Name|standard desktop component"
+#~ msgid "Window Manager"
+#~ msgstr "କାର୍ଯ୍ୟ ପରିଚାଳକ"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Here you can select the window manager to be run in your KDE session."
+#~ msgstr "ଆପଣଙ୍କର KDE ଅଧିବେଶନରେ ଚଲାଇବା ପାଇଁ ୱିଣ୍ଡୋ ପରିଚାଳକଙ୍କୁ ଏଠାରେ ଚୟନ କରିପାରିବେ।"
+
+#~ msgctxt "Name"
+#~ msgid "Compiz"
+#~ msgstr "Compiz"
+
+#~ msgctxt "Name"
+#~ msgid "Metacity (GNOME)"
+#~ msgstr "Metacity (GNOME)"
+
+#~ msgctxt "Name"
+#~ msgid "Openbox"
+#~ msgstr "Openbox"
 
 #~ msgctxt "Name"
 #~ msgid "System Bell"

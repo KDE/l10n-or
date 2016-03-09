@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-01-11 09:14+0000\n"
+"POT-Creation-Date: 2016-03-09 07:42+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -24,12 +24,9 @@ msgstr ""
 "\n"
 
 #: Categories/deviceinfocategory.desktop:7
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Lost & Found"
 msgctxt "Name"
-msgid "Lost And Found"
-msgstr "ହଜିବା ଏବଂ ମିଳିବା"
+msgid "Device Information"
+msgstr "ଯନ୍ତ୍ର ସୂଚନା"
 
 #: Categories/graphicalinfocategory.desktop:7
 #, fuzzy
@@ -48,9 +45,12 @@ msgid "KInfoCenter Category"
 msgstr "KInfoCenter"
 
 #: Categories/lostfoundcategory.desktop:7
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Lost & Found"
 msgctxt "Name"
-msgid "Device Information"
-msgstr "ଯନ୍ତ୍ର ସୂଚନା"
+msgid "Lost And Found"
+msgstr "ହଜିବା ଏବଂ ମିଳିବା"
 
 #: Categories/networkinfocategory.desktop:7
 #, fuzzy
@@ -359,14 +359,21 @@ msgid "1394,Firewire,devices,viewer,control"
 msgstr ""
 
 #: org.kde.kinfocenter.desktop:9
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Info Center"
 msgctxt "Name"
-msgid "KInfoCenter"
-msgstr "KInfoCenter"
+msgid "Info Center"
+msgstr "ସୂଚନା କେନ୍ଦ୍ର"
 
 #: org.kde.kinfocenter.desktop:99
 msgctxt "GenericName"
 msgid "Info Center"
 msgstr "ସୂଚନା କେନ୍ଦ୍ର"
+
+#~ msgctxt "Name"
+#~ msgid "KInfoCenter"
+#~ msgstr "KInfoCenter"
 
 #, fuzzy
 #~| msgctxt "Name"
