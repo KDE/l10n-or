@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcm_memory\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-10-15 07:47+0000\n"
+"POT-Creation-Date: 2016-03-10 11:21+0000\n"
 "PO-Revision-Date: 2009-01-02 11:46+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -28,7 +28,7 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
-#: chartWidget.cpp:57 memory.cpp:271
+#: chartWidget.cpp:57 memory.cpp:270
 msgid "Not available."
 msgstr ""
 
@@ -37,88 +37,88 @@ msgstr ""
 msgid "%1 free"
 msgstr ""
 
-#: memory.cpp:65
+#: memory.cpp:64
 msgid "kcm_memory"
 msgstr ""
 
-#: memory.cpp:66
+#: memory.cpp:65
 msgid "KDE Panel Memory Information Control Module"
 msgstr ""
 
-#: memory.cpp:68
+#: memory.cpp:67
 msgid "(c) 1998 - 2002 Helge Deller"
 msgstr ""
 
-#: memory.cpp:70
+#: memory.cpp:69
 msgid "Helge Deller"
 msgstr ""
 
-#: memory.cpp:102
+#: memory.cpp:101
 msgid ""
 "This display shows you the current memory usage of your system. The values "
 "are updated on a regular basis and give you an overview of the physical and "
 "virtual memory being used."
 msgstr ""
 
-#: memory.cpp:108
+#: memory.cpp:107
 msgid "Memory"
 msgstr ""
 
-#: memory.cpp:126
+#: memory.cpp:125
 msgid "Total physical memory:"
 msgstr ""
 
-#: memory.cpp:129
+#: memory.cpp:128
 msgid "Free physical memory:"
 msgstr ""
 
-#: memory.cpp:134
+#: memory.cpp:133
 msgid "Shared memory:"
 msgstr ""
 
-#: memory.cpp:137
+#: memory.cpp:136
 msgid "Disk buffers:"
 msgstr ""
 
-#: memory.cpp:141
+#: memory.cpp:140
 msgid "Active memory:"
 msgstr ""
 
-#: memory.cpp:144
+#: memory.cpp:143
 msgid "Inactive memory:"
 msgstr ""
 
-#: memory.cpp:149
+#: memory.cpp:148
 msgid "Disk cache:"
 msgstr ""
 
-#: memory.cpp:153
+#: memory.cpp:152
 msgid "Total swap memory:"
 msgstr ""
 
-#: memory.cpp:156
+#: memory.cpp:155
 msgid "Free swap memory:"
 msgstr ""
 
-#: memory.cpp:197
+#: memory.cpp:196
 msgid "Charts"
 msgstr ""
 
-#: memory.cpp:207
+#: memory.cpp:206
 msgid "Total Memory"
 msgstr ""
 
-#: memory.cpp:208
+#: memory.cpp:207
 msgid ""
 "This graph gives you an overview of the <b>total sum of physical and virtual "
 "memory</b> in your system."
 msgstr ""
 
-#: memory.cpp:217
+#: memory.cpp:216
 msgid "Physical Memory"
 msgstr ""
 
-#: memory.cpp:218
+#: memory.cpp:217
 msgid ""
 "This graph gives you an overview of the <b>usage of physical memory</b> in "
 "your system.<p>Most operating systems (including Linux) will use as much of "
@@ -128,18 +128,18 @@ msgid ""
 "your system is well configured.</p>"
 msgstr ""
 
-#: memory.cpp:233
+#: memory.cpp:232
 msgid "Swap Space"
 msgstr ""
 
-#: memory.cpp:234
+#: memory.cpp:233
 msgid ""
 "<p>The swap space is the <b>virtual memory</b> available to the system.</p> "
 "<p>It will be used on demand and is provided through one or more swap "
 "partitions and/or swap files.</p>"
 msgstr ""
 
-#: memory.cpp:265
+#: memory.cpp:264
 #, kde-format
 msgid "1 byte ="
 msgid_plural "%1 bytes ="
