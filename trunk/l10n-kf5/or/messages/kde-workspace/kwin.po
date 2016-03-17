@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-02-25 08:03+0000\n"
+"POT-Creation-Date: 2016-03-17 08:06+0000\n"
 "PO-Revision-Date: 2009-01-02 11:49+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -54,6 +54,22 @@ msgstr ""
 
 #: compositingprefs.cpp:117
 msgid "GLX/OpenGL and XRender/XFixes are not available."
+msgstr ""
+
+#: debug_console.cpp:434
+msgid "X11 Client Windows"
+msgstr ""
+
+#: debug_console.cpp:436
+msgid "X11 Unmanaged Windows"
+msgstr ""
+
+#: debug_console.cpp:438
+msgid "Wayland Windows"
+msgstr ""
+
+#: debug_console.cpp:440
+msgid "Internal Windows"
 msgstr ""
 
 #: killer/killer.cpp:44
