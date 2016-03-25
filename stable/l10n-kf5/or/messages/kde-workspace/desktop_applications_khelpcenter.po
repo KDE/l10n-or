@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-03-09 10:39+0000\n"
+"POT-Creation-Date: 2016-03-25 11:49+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -23,50 +23,39 @@ msgstr ""
 "\n"
 "\n"
 
-#: htmlsearch/htmlsearch.desktop:12
-msgctxt "Name"
-msgid "Index"
-msgstr "ଅନୁକ୍ରମଣିକା"
-
-#: htmlsearch/htmlsearch.desktop:104
-msgctxt "Comment"
-msgid "Index generation"
-msgstr "ଅନୁକ୍ରମଣିକା ସୃଷ୍ଟି"
-
-#: htmlsearch/htmlsearch.desktop:195
-msgctxt "X-KDE-Keywords"
-msgid "Help,HTML,Search,Index,htdig,htsearch,htmerge,Scope,Language"
-msgstr ""
-
-#: kcmhelpcenter.desktop:12
-msgctxt "Name"
-msgid "Help Index"
-msgstr "ସହାୟତା ଅନୁକ୍ରମଣିକା"
-
-#: kcmhelpcenter.desktop:103
-msgctxt "Comment"
-msgid "Help center search index configuration and generation"
-msgstr "ସହାୟତା କେନ୍ଦ୍ର ଅନୁକ୍ରମଣିକା ସଂରଚନା ଏବଂ ସୃଷ୍ଟି"
-
-#: kcmhelpcenter.desktop:191
-msgctxt "X-KDE-Keywords"
-msgid "khelpcenter,help,index,search"
-msgstr ""
-
 #: khelpcenter.desktop:2
 msgctxt "Name"
 msgid "KHelpCenter"
 msgstr "Kସହାୟତା କେନ୍ଦ୍ର"
 
 #: khelpcenter.desktop:93
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "More Applications"
 msgctxt "Comment"
-msgid "The KDE Help Center"
-msgstr "KDE ସହାୟତା କେନ୍ଦ୍ର"
+msgid "Help for applications"
+msgstr "ଅଧିକ ପ୍ରୟୋଗ"
 
 #: org.kde.Help.desktop:9
 msgctxt "Name"
 msgid "Help"
 msgstr "ସହାୟତା"
+
+#: org.kde.Help.desktop:102
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "KHelpCenter"
+msgctxt "GenericName"
+msgid "Help Center"
+msgstr "Kସହାୟତା କେନ୍ଦ୍ର"
+
+#: org.kde.Help.desktop:103
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Browser Identification"
+msgctxt "Comment"
+msgid "Browse and search documentation"
+msgstr "ବ୍ରାଉଜର ପରିଚୟ"
 
 #: plugins/Applications/.directory:3
 msgctxt "Name"
@@ -91,7 +80,7 @@ msgstr "ଫାଇଲ ପରିଚାଳକ - ମୂଖ୍ୟ ଚାଳକ ସ୍
 #| msgctxt "Name"
 #| msgid "KDE Performance"
 msgctxt "Name"
-msgid "KDE Fundamentals"
+msgid "Fundamentals"
 msgstr "KDE କାର୍ଯଦକ୍ଷତା"
 
 #: plugins/info.desktop:2
@@ -205,6 +194,26 @@ msgstr "ପ୍ଲାଜମା ସହାୟକ ପୁସ୍ତକ"
 msgctxt "Name"
 msgid "Scrollkeeper"
 msgstr "Scrollkeeper"
+
+#~ msgctxt "Name"
+#~ msgid "Index"
+#~ msgstr "ଅନୁକ୍ରମଣିକା"
+
+#~ msgctxt "Comment"
+#~ msgid "Index generation"
+#~ msgstr "ଅନୁକ୍ରମଣିକା ସୃଷ୍ଟି"
+
+#~ msgctxt "Name"
+#~ msgid "Help Index"
+#~ msgstr "ସହାୟତା ଅନୁକ୍ରମଣିକା"
+
+#~ msgctxt "Comment"
+#~ msgid "Help center search index configuration and generation"
+#~ msgstr "ସହାୟତା କେନ୍ଦ୍ର ଅନୁକ୍ରମଣିକା ସଂରଚନା ଏବଂ ସୃଷ୍ଟି"
+
+#~ msgctxt "Comment"
+#~ msgid "The KDE Help Center"
+#~ msgstr "KDE ସହାୟତା କେନ୍ଦ୍ର"
 
 #~ msgctxt "Name"
 #~ msgid "Quickstart Guide"
@@ -3979,10 +3988,6 @@ msgstr "Scrollkeeper"
 #~ msgstr "KDE ତାଲିକା"
 
 #~ msgctxt "Name"
-#~ msgid "More Applications"
-#~ msgstr "ଅଧିକ ପ୍ରୟୋଗ"
-
-#~ msgctxt "Name"
 #~ msgid "Multimedia"
 #~ msgstr "ବହୁମାଧ୍ଯମ"
 
@@ -5205,10 +5210,6 @@ msgstr "Scrollkeeper"
 #~ msgctxt "Name"
 #~ msgid "UADescription (Wget 1.11.4)"
 #~ msgstr "UA ବର୍ଣ୍ଣନା (Wget 1.5.3)"
-
-#~ msgctxt "Name"
-#~ msgid "Browser Identification"
-#~ msgstr "ବ୍ରାଉଜର ପରିଚୟ"
 
 #~ msgctxt "Comment"
 #~ msgid "Configure the way Konqueror reports itself"
