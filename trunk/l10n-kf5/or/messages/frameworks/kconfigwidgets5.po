@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-10-26 07:54+0000\n"
+"POT-Creation-Date: 2016-06-01 07:19+0000\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -74,39 +74,31 @@ msgstr "କୌଣସି ଭରଣ ନାହିଁ"
 msgid "Clear List"
 msgstr "ନିବେଶ ସଫାକରନ୍ତୁ"
 
-#: kstandardaction.cpp:90
+#: kstandardaction.cpp:88
 msgctxt "go back"
 msgid "&Back"
 msgstr "କଳା (&B)"
 
-#: kstandardaction.cpp:97
+#: kstandardaction.cpp:95
 msgctxt "go forward"
 msgid "&Forward"
 msgstr "ଆଗକୁ (&F)"
 
-#: kstandardaction.cpp:104
+#: kstandardaction.cpp:102
 msgctxt "home page"
 msgid "&Home"
 msgstr "ମୂଳ ସ୍ଥାନ (&H)"
 
-#: kstandardaction.cpp:107
+#: kstandardaction.cpp:105
 msgctxt "show help"
 msgid "&Help"
 msgstr "ସହାୟତା (&H)"
 
-#: kstandardaction.cpp:526 kstandardaction_p.h:96
-msgid "Show &Menubar"
-msgstr "ତାଲିକା ପଟି ଦର୍ଶାନ୍ତୁ (&M)"
-
-#: kstandardaction.cpp:534
+#: kstandardaction.cpp:141
 msgid "Show Menubar<p>Shows the menubar again after it has been hidden</p>"
 msgstr "ତାଲିକା ପଟି ଦର୍ଶାନ୍ତୁ<p>ଏହା ଲୁଚିଗଲାପରେ ତାଲିକା ପଟିକୁ ପୁଣିଥରେ ଦର୍ଶାନ୍ତୁ</p>"
 
-#: kstandardaction.cpp:552 kstandardaction_p.h:98
-msgid "Show St&atusbar"
-msgstr "ଅବସ୍ଥିତି ପଟି ଦର୍ଶାନ୍ତୁ (&a)"
-
-#: kstandardaction.cpp:555
+#: kstandardaction.cpp:151
 #, fuzzy
 #| msgid ""
 #| "Show Statusbar<br /><br />Shows the statusbar, which is the bar at the "
@@ -464,6 +456,10 @@ msgid "Check spelling in document"
 msgstr "ବନାନ ଯାଞ୍ଚ କରନ୍ତୁ"
 
 #: kstandardaction_p.h:96
+msgid "Show &Menubar"
+msgstr "ତାଲିକା ପଟି ଦର୍ଶାନ୍ତୁ (&M)"
+
+#: kstandardaction_p.h:96
 #, fuzzy
 #| msgid "Show &Menubar"
 msgid "Show or hide menubar"
@@ -479,6 +475,10 @@ msgstr "ସାଧନପଟି ଦର୍ଶାନ୍ତୁ (&T) "
 #| msgid "Show Toolbar"
 msgid "Show or hide toolbar"
 msgstr "ସାଧନପଟି ଦର୍ଶାନ୍ତୁ"
+
+#: kstandardaction_p.h:98
+msgid "Show St&atusbar"
+msgstr "ଅବସ୍ଥିତି ପଟି ଦର୍ଶାନ୍ତୁ (&a)"
 
 #: kstandardaction_p.h:98
 #, fuzzy
