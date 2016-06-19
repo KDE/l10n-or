@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-05-19 08:16+0000\n"
+"POT-Creation-Date: 2016-06-19 08:06+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1985,6 +1985,22 @@ msgstr "Ruby ପ୍ରୟୋଗ ଅଭିଲେଖନ"
 msgctxt "Query"
 msgid "http://www.ruby-lang.org/en/raa-list.rhtml?name=\\\\{@}"
 msgstr "http://www.ruby-lang.org/en/raa-list.rhtml?name=\\\\{@}"
+
+#: src/urifilters/ikws/searchproviders/soundcloud.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Sound"
+msgctxt "Name"
+msgid "Soundcloud"
+msgstr "ଧ୍ୱନୀ"
+
+#: src/urifilters/ikws/searchproviders/soundcloud.desktop:6
+#, fuzzy
+#| msgctxt "Query"
+#| msgid "http://info.alexa.com/search?q=\\\\{@}"
+msgctxt "Query"
+msgid "https://soundcloud.com/search?q=\\\\{@}"
+msgstr "http://info.alexa.com/search?q=\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/sourceforge.desktop:3
 msgctxt "Name"
@@ -10940,10 +10956,6 @@ msgstr "Tabbed ବ୍ରାଉଜିଙ୍ଗ"
 #~ msgctxt "Comment"
 #~ msgid "A Laptop Power Management Daemon"
 #~ msgstr "ଲ୍ୟାପଟପ ଶକ୍ତି ପରିଚାଳନା ଡ଼େମନ"
-
-#~ msgctxt "Name"
-#~ msgid "Sound"
-#~ msgstr "ଧ୍ୱନୀ"
 
 #~ msgctxt "Comment"
 #~ msgid "Sound information"
