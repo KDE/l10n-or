@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwrite\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-06-16 07:42+0000\n"
+"POT-Creation-Date: 2016-07-03 07:15+0000\n"
 "PO-Revision-Date: 2009-01-02 11:49+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -378,12 +378,24 @@ msgstr ""
 msgid "Set encoding for the file to open."
 msgstr ""
 
+#: main.cpp:139
+msgid "encoding"
+msgstr ""
+
 #: main.cpp:143
 msgid "Navigate to this line."
 msgstr ""
 
+#: main.cpp:143
+msgid "line"
+msgstr ""
+
 #: main.cpp:147
 msgid "Navigate to this column."
+msgstr ""
+
+#: main.cpp:147
+msgid "column"
 msgstr ""
 
 #: main.cpp:151
@@ -396,6 +408,10 @@ msgstr ""
 
 #: main.cpp:159
 msgid "Documents to open."
+msgstr ""
+
+#: main.cpp:159
+msgid "[urls...]"
 msgstr ""
 
 #: main.cpp:242
