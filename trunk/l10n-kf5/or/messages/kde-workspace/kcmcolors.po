@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmcolors\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-03-01 08:48+0000\n"
+"POT-Creation-Date: 2016-07-06 07:37+0000\n"
 "PO-Revision-Date: 2009-01-05 15:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -30,7 +30,7 @@ msgid "Your emails"
 msgstr "mgiri@redhat.com"
 
 #. i18n: ectx: attribute (title), widget (QWidget, pageColors)
-#: colorscm.cpp:82 colorsettings.ui:267
+#: colorscm.cpp:82 colorsettings.ui:272
 msgid "Colors"
 msgstr "ରଙ୍ଗ"
 
@@ -137,47 +137,47 @@ msgid "Normal Text"
 msgstr "ସାଧାରଣ ପାଠ୍ୟ"
 
 #. i18n: ectx: property (text), item, widget (QTableWidget, commonColorTable)
-#: colorscm.cpp:806 colorsettings.ui:545
+#: colorscm.cpp:806 colorsettings.ui:559
 msgid "Inactive Text"
 msgstr "ନିଷ୍କ୍ରିୟ ପାଠ୍ୟ"
 
 #. i18n: ectx: property (text), item, widget (QTableWidget, commonColorTable)
-#: colorscm.cpp:807 colorsettings.ui:550
+#: colorscm.cpp:807 colorsettings.ui:564
 msgid "Active Text"
 msgstr "ସକ୍ରିୟ ପାଠ୍ୟ"
 
 #. i18n: ectx: property (text), item, widget (QTableWidget, commonColorTable)
-#: colorscm.cpp:808 colorsettings.ui:555
+#: colorscm.cpp:808 colorsettings.ui:569
 msgid "Link Text"
 msgstr "ସଂଯୋଗ ପାଠ୍ୟ"
 
 #. i18n: ectx: property (text), item, widget (QTableWidget, commonColorTable)
-#: colorscm.cpp:809 colorsettings.ui:560
+#: colorscm.cpp:809 colorsettings.ui:574
 msgid "Visited Text"
 msgstr "ପରିଦର୍ଶିତ ପାଠ୍ୟ"
 
 #. i18n: ectx: property (text), item, widget (QTableWidget, commonColorTable)
-#: colorscm.cpp:810 colorsettings.ui:565
+#: colorscm.cpp:810 colorsettings.ui:579
 msgid "Negative Text"
 msgstr "ଋଣାତ୍ମକ ପାଠ୍ୟ"
 
 #. i18n: ectx: property (text), item, widget (QTableWidget, commonColorTable)
-#: colorscm.cpp:811 colorsettings.ui:570
+#: colorscm.cpp:811 colorsettings.ui:584
 msgid "Neutral Text"
 msgstr "ନିରପେକ୍ଷ ପାଠ୍ୟ"
 
 #. i18n: ectx: property (text), item, widget (QTableWidget, commonColorTable)
-#: colorscm.cpp:812 colorsettings.ui:575
+#: colorscm.cpp:812 colorsettings.ui:589
 msgid "Positive Text"
 msgstr "ଯୁକ୍ତାତ୍ମକ ପାଠ୍ୟ"
 
 #. i18n: ectx: property (text), item, widget (QTableWidget, commonColorTable)
-#: colorscm.cpp:813 colorsettings.ui:580
+#: colorscm.cpp:813 colorsettings.ui:594
 msgid "Focus Decoration"
 msgstr "କେନ୍ଦ୍ରୀଭୂତ ସାଜସଜ୍ଜା"
 
 #. i18n: ectx: property (text), item, widget (QTableWidget, commonColorTable)
-#: colorscm.cpp:814 colorsettings.ui:585
+#: colorscm.cpp:814 colorsettings.ui:599
 msgid "Hover Decoration"
 msgstr "ଆଖପାଖ ସାଜସଜ୍ଜା"
 
@@ -188,142 +188,142 @@ msgid "Inactive"
 msgstr "ନିଷ୍କ୍ରିୟ"
 
 #. i18n: ectx: attribute (title), widget (QWidget, pageScheme)
-#: colorsettings.ui:24
+#: colorsettings.ui:33
 msgid "&Scheme"
 msgstr "ଯୋଜନା (&S)"
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, schemeKnsButton)
-#: colorsettings.ui:48
+#: colorsettings.ui:55
 msgid "Get new color schemes from the Internet"
 msgstr "ଇଣ୍ଟରନେଟରୁ ନୂତନ ରଙ୍ଗ ଯୋଜନା ଆଣନ୍ତୁ"
 
 #. i18n: ectx: property (text), widget (QPushButton, schemeKnsButton)
-#: colorsettings.ui:51
+#: colorsettings.ui:58
 msgid "Get &New Schemes..."
 msgstr "ନୂତନ ରଙ୍ଗ ଯୋଜନା ଆଣନ୍ତୁ (&N)..."
 
+#. i18n: ectx: property (toolTip), widget (QPushButton, schemeImportButton)
+#: colorsettings.ui:65
+msgid "Import a color scheme from a file"
+msgstr "ଗୋଟିଏ ଫାଇଲରୁ ରଙ୍ଗ ଯୋଜନା ଆମଦାନୀ କରନ୍ତୁ"
+
+#. i18n: ectx: property (text), widget (QPushButton, schemeImportButton)
+#: colorsettings.ui:68
+msgid "Import Scheme..."
+msgstr "ଯୋଜନା ଆମଦାନୀ କରନ୍ତୁ..."
+
 #. i18n: ectx: property (toolTip), widget (QPushButton, schemeKnsUploadButton)
-#: colorsettings.ui:61
+#: colorsettings.ui:78
 #, fuzzy
 #| msgid "Get new color schemes from the Internet"
 msgid "Share the selected scheme on the Internet"
 msgstr "ଇଣ୍ଟରନେଟରୁ ନୂତନ ରଙ୍ଗ ଯୋଜନା ଆଣନ୍ତୁ"
 
 #. i18n: ectx: property (text), widget (QPushButton, schemeKnsUploadButton)
-#: colorsettings.ui:64
+#: colorsettings.ui:81
 #, fuzzy
 #| msgid "Import Scheme..."
 msgid "&Upload Scheme..."
 msgstr "ଯୋଜନା ଆମଦାନୀ କରନ୍ତୁ..."
 
-#. i18n: ectx: property (toolTip), widget (QPushButton, schemeImportButton)
-#: colorsettings.ui:71
-msgid "Import a color scheme from a file"
-msgstr "ଗୋଟିଏ ଫାଇଲରୁ ରଙ୍ଗ ଯୋଜନା ଆମଦାନୀ କରନ୍ତୁ"
-
-#. i18n: ectx: property (text), widget (QPushButton, schemeImportButton)
-#: colorsettings.ui:74
-msgid "Import Scheme..."
-msgstr "ଯୋଜନା ଆମଦାନୀ କରନ୍ତୁ..."
-
-#. i18n: ectx: property (toolTip), widget (QPushButton, schemeSaveButton)
-#: colorsettings.ui:81
-msgid "Save the current color scheme"
-msgstr "ପ୍ରଚଳିତ ରଙ୍ଗ ଯୋଜନାକୁ ସଂରକ୍ଷଣ କରନ୍ତୁ"
-
-#. i18n: ectx: property (text), widget (QPushButton, schemeSaveButton)
-#: colorsettings.ui:84
-msgid "Save Scheme..."
-msgstr "ଯୋଜନାକୁ ସଂରକ୍ଷଣ କରନ୍ତୁ..."
-
-#. i18n: ectx: property (toolTip), widget (QPushButton, schemeRemoveButton)
-#: colorsettings.ui:94
-msgid "Remove the selected scheme"
-msgstr "ବଚ୍ଛିତ ଯୋଜନାକୁ କାଢ଼ିଦିଅନ୍ତୁ"
-
-#. i18n: ectx: property (text), widget (QPushButton, schemeRemoveButton)
-#: colorsettings.ui:97
-msgid "Remove Scheme"
-msgstr "ଯୋଜନାକୁ କାଢ଼ିଦିଅନ୍ତୁ"
-
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_4)
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
-#: colorsettings.ui:125 colorsettings.ui:677 colorsettings.ui:964
-#: colorsettings.ui:1214
+#: colorsettings.ui:107 colorsettings.ui:700 colorsettings.ui:1005
+#: colorsettings.ui:1255
 msgid "Preview"
 msgstr "ପ୍ରାକଦର୍ଶନ"
 
+#. i18n: ectx: property (toolTip), widget (QPushButton, schemeSaveButton)
+#: colorsettings.ui:132
+msgid "Save the current color scheme"
+msgstr "ପ୍ରଚଳିତ ରଙ୍ଗ ଯୋଜନାକୁ ସଂରକ୍ଷଣ କରନ୍ତୁ"
+
+#. i18n: ectx: property (text), widget (QPushButton, schemeSaveButton)
+#: colorsettings.ui:135
+msgid "Save Scheme..."
+msgstr "ଯୋଜନାକୁ ସଂରକ୍ଷଣ କରନ୍ତୁ..."
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, schemeRemoveButton)
+#: colorsettings.ui:145
+msgid "Remove the selected scheme"
+msgstr "ବଚ୍ଛିତ ଯୋଜନାକୁ କାଢ଼ିଦିଅନ୍ତୁ"
+
+#. i18n: ectx: property (text), widget (QPushButton, schemeRemoveButton)
+#: colorsettings.ui:148
+msgid "Remove Scheme"
+msgstr "ଯୋଜନାକୁ କାଢ଼ିଦିଅନ୍ତୁ"
+
 #. i18n: ectx: attribute (title), widget (QWidget, pageOptions)
-#: colorsettings.ui:151
+#: colorsettings.ui:156
 msgid "Options"
 msgstr "ବିକଳ୍ପଗୁଡ଼ିକ"
 
 #. i18n: ectx: property (text), widget (QCheckBox, useInactiveEffects)
-#: colorsettings.ui:157
+#: colorsettings.ui:162
 msgid "Apply inactive window color &effects"
 msgstr "ନିଷ୍କ୍ରିୟ ୱିଣ୍ଡୋ ଗଙ୍ଗ ପ୍ରଭାବଗୁଡ଼ିକୁ ପ୍ରୟୋଗ କରନ୍ତୁ (&e)"
 
 #. i18n: ectx: property (text), widget (QCheckBox, inactiveSelectionEffect)
-#: colorsettings.ui:164
+#: colorsettings.ui:169
 msgid "In&active selection changes color"
 msgstr "ନିଷ୍କ୍ରିୟ ଚୟନ ରଙ୍ଗ ପରିବର୍ତ୍ତନ କରିଥାଏ (&a)"
 
 #. i18n: ectx: property (text), widget (QCheckBox, shadeSortedColumn)
-#: colorsettings.ui:171
+#: colorsettings.ui:176
 msgid "Shade sorted column &in lists"
 msgstr "ତାଲିକାରେ ଛାୟା ସଜ୍ଜିତ ସ୍ତମ୍ଭ (&i)"
 
 #. i18n: ectx: property (text), widget (QCheckBox, applyToAlien)
-#: colorsettings.ui:181
+#: colorsettings.ui:186
 #, fuzzy
 #| msgid "Apply colors to &non-KDE4 applications"
 msgid "Apply colors to &non-Qt applications"
 msgstr "KDE4 ରହିତ ପ୍ରୟୋଗଗୁଡ଼ିକର ରଙ୍ଗଗୁଡ଼ିକ ସହିତ ପ୍ରୟୋଗ କରନ୍ତୁ"
 
 #. i18n: ectx: property (toolTip), widget (QGroupBox, groupBox_5)
-#: colorsettings.ui:188
+#: colorsettings.ui:193
 msgid "Shading of frames and lighting (\"3D\") effects"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_5)
-#: colorsettings.ui:191
+#: colorsettings.ui:196
 #, fuzzy
 #| msgid "Shade"
 msgid "Shading"
 msgstr "ଛାୟା"
 
 #. i18n: ectx: property (text), widget (QLabel, label_9)
-#: colorsettings.ui:203
+#: colorsettings.ui:208
 msgid "Minimum"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_10)
-#: colorsettings.ui:223
+#: colorsettings.ui:228
 msgid "Maximum"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_8)
-#: colorsettings.ui:230
+#: colorsettings.ui:235
 msgid "Contrast"
 msgstr "ପ୍ରଭେଦ"
 
 #. i18n: ectx: property (text), widget (QLabel, label_7)
-#: colorsettings.ui:279
+#: colorsettings.ui:284
 #, fuzzy
 #| msgid "Color Set:"
 msgid "Color set:"
 msgstr "ରଙ୍ଗ ସେଟ:"
 
 #. i18n: ectx: property (toolTip), widget (QComboBox, colorSet)
-#: colorsettings.ui:292
+#: colorsettings.ui:297
 msgid "Colorset to view/modify"
 msgstr "ଦେଖିବା/ପରିବର୍ତ୍ତନ କରିବା ପାଇଁ ରଙ୍ଗ ସେଟ"
 
 #. i18n: 'Common' here means &quot;frequent/not rare&quot;, not &quot;shared&quot;
 #. i18n: ectx: property (text), item, widget (QComboBox, colorSet)
-#: colorsettings.ui:296
+#: colorsettings.ui:301
 #, fuzzy
 #| msgid "Common Colors"
 msgctxt "color-sets"
@@ -332,7 +332,7 @@ msgstr "ସାଧାରଣ ରଙ୍ଗ"
 
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
 #. i18n: ectx: property (text), item, widget (QComboBox, colorSet)
-#: colorsettings.ui:301
+#: colorsettings.ui:306
 #, fuzzy
 #| msgid "View"
 msgctxt "color-sets"
@@ -341,7 +341,7 @@ msgstr "ଦୃଶ୍ୟ"
 
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
 #. i18n: ectx: property (text), item, widget (QComboBox, colorSet)
-#: colorsettings.ui:306
+#: colorsettings.ui:311
 #, fuzzy
 #| msgid "Window"
 msgctxt "color-sets"
@@ -350,7 +350,7 @@ msgstr "ୱିଣ୍ଡୋ"
 
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
 #. i18n: ectx: property (text), item, widget (QComboBox, colorSet)
-#: colorsettings.ui:311
+#: colorsettings.ui:316
 #, fuzzy
 #| msgid "Button"
 msgctxt "color-sets"
@@ -359,7 +359,7 @@ msgstr "ବଟନ"
 
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
 #. i18n: ectx: property (text), item, widget (QComboBox, colorSet)
-#: colorsettings.ui:316
+#: colorsettings.ui:321
 #, fuzzy
 #| msgid "Selection"
 msgctxt "color-sets"
@@ -368,7 +368,7 @@ msgstr "ଚୟନ"
 
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
 #. i18n: ectx: property (text), item, widget (QComboBox, colorSet)
-#: colorsettings.ui:321
+#: colorsettings.ui:326
 #, fuzzy
 #| msgid "Tooltip"
 msgctxt "color-sets"
@@ -377,125 +377,125 @@ msgstr "ଉପକରଣ ସୂଚନା"
 
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
 #. i18n: ectx: property (text), item, widget (QComboBox, colorSet)
-#: colorsettings.ui:326
+#: colorsettings.ui:331
 msgctxt "color-sets"
 msgid "Complementary"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QTableWidget, commonColorTable)
-#: colorsettings.ui:360 colorsettings.ui:365 colorsettings.ui:370
-#: colorsettings.ui:375 colorsettings.ui:380 colorsettings.ui:385
-#: colorsettings.ui:390 colorsettings.ui:395 colorsettings.ui:400
-#: colorsettings.ui:405 colorsettings.ui:410 colorsettings.ui:415
-#: colorsettings.ui:420 colorsettings.ui:425 colorsettings.ui:430
-#: colorsettings.ui:435 colorsettings.ui:440 colorsettings.ui:445
-#: colorsettings.ui:450 colorsettings.ui:455 colorsettings.ui:460
-#: colorsettings.ui:465 colorsettings.ui:470 colorsettings.ui:475
-#: colorsettings.ui:480 colorsettings.ui:485
+#: colorsettings.ui:374 colorsettings.ui:379 colorsettings.ui:384
+#: colorsettings.ui:389 colorsettings.ui:394 colorsettings.ui:399
+#: colorsettings.ui:404 colorsettings.ui:409 colorsettings.ui:414
+#: colorsettings.ui:419 colorsettings.ui:424 colorsettings.ui:429
+#: colorsettings.ui:434 colorsettings.ui:439 colorsettings.ui:444
+#: colorsettings.ui:449 colorsettings.ui:454 colorsettings.ui:459
+#: colorsettings.ui:464 colorsettings.ui:469 colorsettings.ui:474
+#: colorsettings.ui:479 colorsettings.ui:484 colorsettings.ui:489
+#: colorsettings.ui:494 colorsettings.ui:499
 msgid "New Row"
 msgstr "ନୂତନ ଧାଡ଼ି"
 
 #. i18n: ectx: property (text), widget (QTableWidget, commonColorTable)
-#: colorsettings.ui:490
+#: colorsettings.ui:504
 msgid "0"
 msgstr "0"
 
 #. i18n: ectx: property (text), widget (QTableWidget, commonColorTable)
-#: colorsettings.ui:495
+#: colorsettings.ui:509
 msgid "1"
 msgstr "1"
 
 #. i18n: ectx: property (text), item, widget (QTableWidget, commonColorTable)
-#: colorsettings.ui:500
+#: colorsettings.ui:514
 msgid "View Background"
 msgstr "ପୃଷ୍ଠଭୂମୀ ଦେଖନ୍ତୁ"
 
 #. i18n: ectx: property (text), item, widget (QTableWidget, commonColorTable)
-#: colorsettings.ui:505
+#: colorsettings.ui:519
 msgid "View Text"
 msgstr "ପାଠ୍ୟ ଦେଖନ୍ତୁ"
 
 #. i18n: ectx: property (text), item, widget (QTableWidget, commonColorTable)
-#: colorsettings.ui:510
+#: colorsettings.ui:524
 msgid "Window Background"
 msgstr "ୱିଣ୍ଡୋ ପୃଷ୍ଠଭୂମୀ"
 
 #. i18n: ectx: property (text), item, widget (QTableWidget, commonColorTable)
-#: colorsettings.ui:515
+#: colorsettings.ui:529
 msgid "Window Text"
 msgstr "ୱିଣ୍ଡୋ ପାଠ୍ୟ"
 
 #. i18n: ectx: property (text), item, widget (QTableWidget, commonColorTable)
-#: colorsettings.ui:520
+#: colorsettings.ui:534
 msgid "Button Background"
 msgstr "ବଟନ ପୃଷ୍ଠଭୂମୀ"
 
 #. i18n: ectx: property (text), item, widget (QTableWidget, commonColorTable)
-#: colorsettings.ui:525
+#: colorsettings.ui:539
 msgid "Button Text"
 msgstr "ବଟନ ପାଠ୍ୟ"
 
 #. i18n: ectx: property (text), item, widget (QTableWidget, commonColorTable)
-#: colorsettings.ui:530
+#: colorsettings.ui:544
 msgid "Selection Background"
 msgstr "ଚୟନ ପୃଷ୍ଠଭୂମୀ"
 
 #. i18n: ectx: property (text), item, widget (QTableWidget, commonColorTable)
-#: colorsettings.ui:535
+#: colorsettings.ui:549
 msgid "Selection Text"
 msgstr "ଚୟନ ପାଠ୍ଯ"
 
 #. i18n: ectx: property (text), item, widget (QTableWidget, commonColorTable)
-#: colorsettings.ui:540
+#: colorsettings.ui:554
 msgid "Selection Inactive Text"
 msgstr "ଚୟନ ନିଷ୍କ୍ରିୟ ପାଠ୍ଯ"
 
 #. i18n: ectx: property (text), item, widget (QTableWidget, commonColorTable)
-#: colorsettings.ui:590
+#: colorsettings.ui:604
 msgid "Tooltip Background"
 msgstr "ଉପକରଣ ସୂଚନା ପୃଷ୍ଠଭୂମୀ"
 
 #. i18n: ectx: property (text), item, widget (QTableWidget, commonColorTable)
-#: colorsettings.ui:595
+#: colorsettings.ui:609
 msgid "Tooltip Text"
 msgstr "ଉପକରଣ ସୂଚନା ପାଠ୍ୟ"
 
 #. i18n: ectx: property (text), item, widget (QTableWidget, commonColorTable)
-#: colorsettings.ui:600
+#: colorsettings.ui:614
 msgid "Active Titlebar"
 msgstr "ସକ୍ରିୟ ଶୀର୍ଷକ ପଟି"
 
 #. i18n: ectx: property (text), item, widget (QTableWidget, commonColorTable)
-#: colorsettings.ui:605
+#: colorsettings.ui:619
 msgid "Active Titlebar Text"
 msgstr "ସକ୍ରିୟ ଶୀର୍ଷକ ପଟି ପାଠ୍ୟ"
 
 #. i18n: ectx: property (text), item, widget (QTableWidget, commonColorTable)
-#: colorsettings.ui:610
+#: colorsettings.ui:624
 #, fuzzy
 #| msgid "Active Titlebar Text"
 msgid "Active Titlebar Secondary"
 msgstr "ସକ୍ରିୟ ଶୀର୍ଷକ ପଟି ପାଠ୍ୟ"
 
 #. i18n: ectx: property (text), item, widget (QTableWidget, commonColorTable)
-#: colorsettings.ui:615
+#: colorsettings.ui:629
 msgid "Inactive Titlebar"
 msgstr "ନିଷ୍କ୍ରିୟ ଉପକରଣ ପଟି"
 
 #. i18n: ectx: property (text), item, widget (QTableWidget, commonColorTable)
-#: colorsettings.ui:620
+#: colorsettings.ui:634
 msgid "Inactive Titlebar Text"
 msgstr "ନିଷ୍କ୍ରିୟ ଉପକରଣ ପଟି ପାଠ୍ୟ"
 
 #. i18n: ectx: property (text), item, widget (QTableWidget, commonColorTable)
-#: colorsettings.ui:625
+#: colorsettings.ui:639
 #, fuzzy
 #| msgid "Inactive Titlebar Text"
 msgid "Inactive Titlebar Secondary"
 msgstr "ନିଷ୍କ୍ରିୟ ଉପକରଣ ପଟି ପାଠ୍ୟ"
 
 #. i18n: ectx: attribute (title), widget (QWidget, pageDisabled)
-#: colorsettings.ui:740
+#: colorsettings.ui:781
 #, fuzzy
 #| msgid "Disabled"
 msgctxt "@title:tab color transformations on disabled elements"
@@ -504,17 +504,17 @@ msgstr "ନିଷ୍କ୍ରିୟ ଅଛି"
 
 #. i18n: ectx: property (text), widget (QLabel, label_5)
 #. i18n: ectx: property (text), widget (QLabel, label)
-#: colorsettings.ui:746 colorsettings.ui:996
+#: colorsettings.ui:787 colorsettings.ui:1037
 msgid "Intensity:"
 msgstr "ତୀବ୍ରତା:"
 
 #. i18n: ectx: property (toolTip), widget (QComboBox, disabledIntensityBox)
-#: colorsettings.ui:756
+#: colorsettings.ui:797
 msgid "Disabled intensity effect type"
 msgstr "ନିଷ୍କ୍ରିୟ ତୀବ୍ରତା ପ୍ରଭାବ ପ୍ରକାର"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, disabledIntensityBox)
-#: colorsettings.ui:760
+#: colorsettings.ui:801
 #, fuzzy
 #| msgid "None"
 msgctxt "no disabled intensity effect"
@@ -522,7 +522,7 @@ msgid "None"
 msgstr "କିଛିନୁହଁ"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, disabledIntensityBox)
-#: colorsettings.ui:765
+#: colorsettings.ui:806
 #, fuzzy
 #| msgid "Shade"
 msgctxt "disabled intensity effect"
@@ -530,7 +530,7 @@ msgid "Shade"
 msgstr "ଛାୟା"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, disabledIntensityBox)
-#: colorsettings.ui:770
+#: colorsettings.ui:811
 #, fuzzy
 #| msgid "Darken"
 msgctxt "disabled intensity effect"
@@ -538,7 +538,7 @@ msgid "Darken"
 msgstr "ଅନ୍ଧାର"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, disabledIntensityBox)
-#: colorsettings.ui:775
+#: colorsettings.ui:816
 #, fuzzy
 #| msgid "Lighten"
 msgctxt "disabled intensity effect"
@@ -546,23 +546,23 @@ msgid "Lighten"
 msgstr "ଆଲୋକିତ"
 
 #. i18n: ectx: property (toolTip), widget (QSlider, disabledIntensitySlider)
-#: colorsettings.ui:786
+#: colorsettings.ui:827
 msgid "Disabled intensity effect amount"
 msgstr "ନିଷ୍କ୍ରିୟ ତୀବ୍ରତା ପ୍ରଭାବ ପରିମାଣ"
 
 #. i18n: ectx: property (text), widget (QLabel, label_4)
 #. i18n: ectx: property (text), widget (QLabel, label_2)
-#: colorsettings.ui:818 colorsettings.ui:1068
+#: colorsettings.ui:859 colorsettings.ui:1109
 msgid "Color:"
 msgstr "ରଙ୍ଗ:"
 
 #. i18n: ectx: property (toolTip), widget (QComboBox, disabledColorBox)
-#: colorsettings.ui:828
+#: colorsettings.ui:869
 msgid "Disabled color effect type"
 msgstr "ନିଷ୍କ୍ରିୟ ରଙ୍ଗ ପ୍ରଭାବ ପ୍ରକାର"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, disabledColorBox)
-#: colorsettings.ui:832
+#: colorsettings.ui:873
 #, fuzzy
 #| msgid "None"
 msgctxt "no disabled color effect"
@@ -570,7 +570,7 @@ msgid "None"
 msgstr "କିଛିନୁହଁ"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, disabledColorBox)
-#: colorsettings.ui:837
+#: colorsettings.ui:878
 #, fuzzy
 #| msgid "Desaturate"
 msgctxt "disabled color effect"
@@ -578,7 +578,7 @@ msgid "Desaturate"
 msgstr "ଅପରିପୃକ୍ତ"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, disabledColorBox)
-#: colorsettings.ui:842
+#: colorsettings.ui:883
 #, fuzzy
 #| msgid "Fade"
 msgctxt "disabled color effect"
@@ -586,7 +586,7 @@ msgid "Fade"
 msgstr "ବିବର୍ଣ୍ଣ ହେବା"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, disabledColorBox)
-#: colorsettings.ui:847
+#: colorsettings.ui:888
 #, fuzzy
 #| msgid "Tint"
 msgctxt "disabled color effect"
@@ -594,28 +594,28 @@ msgid "Tint"
 msgstr "ହାଲୁକା ରଙ୍ଗ"
 
 #. i18n: ectx: property (toolTip), widget (QSlider, disabledColorSlider)
-#: colorsettings.ui:858
+#: colorsettings.ui:899
 msgid "Disabled color effect amount"
 msgstr "ନିଷ୍କ୍ରିୟ ତୀବ୍ରତା ପ୍ରଭାବ ପରିମାଣ"
 
 #. i18n: ectx: property (toolTip), widget (KColorButton, disabledColorButton)
-#: colorsettings.ui:877
+#: colorsettings.ui:918
 msgid "Disabled color"
 msgstr "ନିଷ୍କ୍ରିୟ ରଙ୍ଗ"
 
 #. i18n: ectx: property (text), widget (QLabel, label_6)
 #. i18n: ectx: property (text), widget (QLabel, label_3)
-#: colorsettings.ui:884 colorsettings.ui:1134
+#: colorsettings.ui:925 colorsettings.ui:1175
 msgid "Contrast:"
 msgstr "ପ୍ରଭେଦ:"
 
 #. i18n: ectx: property (toolTip), widget (QComboBox, disabledContrastBox)
-#: colorsettings.ui:894
+#: colorsettings.ui:935
 msgid "Disabled contrast type"
 msgstr "ନିଷ୍କ୍ରିୟ ପ୍ରଭେଦ ପ୍ରକାର"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, disabledContrastBox)
-#: colorsettings.ui:898
+#: colorsettings.ui:939
 #, fuzzy
 #| msgid "None"
 msgctxt "no disabled contrast"
@@ -623,7 +623,7 @@ msgid "None"
 msgstr "କିଛିନୁହଁ"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, disabledContrastBox)
-#: colorsettings.ui:903
+#: colorsettings.ui:944
 #, fuzzy
 #| msgid "Fade"
 msgctxt "disabled contrast"
@@ -631,7 +631,7 @@ msgid "Fade"
 msgstr "ବିବର୍ଣ୍ଣ ହେବା"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, disabledContrastBox)
-#: colorsettings.ui:908
+#: colorsettings.ui:949
 #, fuzzy
 #| msgid "Tint"
 msgctxt "disabled contrast"
@@ -639,12 +639,12 @@ msgid "Tint"
 msgstr "ହାଲୁକା ରଙ୍ଗ"
 
 #. i18n: ectx: property (toolTip), widget (QSlider, disabledContrastSlider)
-#: colorsettings.ui:919
+#: colorsettings.ui:960
 msgid "Disabled contrast amount"
 msgstr "ନିଷ୍କ୍ରିୟ ପ୍ରଭେଦ ପରିମାଣ"
 
 #. i18n: ectx: attribute (title), widget (QWidget, pageInactive)
-#: colorsettings.ui:990
+#: colorsettings.ui:1031
 #, fuzzy
 #| msgid "Inactive"
 msgctxt "@title:tab color transformations on inactive elements"
@@ -652,12 +652,12 @@ msgid "Inactive"
 msgstr "ନିଷ୍କ୍ରିୟ"
 
 #. i18n: ectx: property (toolTip), widget (QComboBox, inactiveIntensityBox)
-#: colorsettings.ui:1006
+#: colorsettings.ui:1047
 msgid "Inactive intensity effect type"
 msgstr "ନିଷ୍କ୍ରିୟ ତୀବ୍ରତା ପ୍ରଭାବ ପ୍ରକାର"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, inactiveIntensityBox)
-#: colorsettings.ui:1010
+#: colorsettings.ui:1051
 #, fuzzy
 #| msgid "None"
 msgctxt "no inactive intensity effect"
@@ -665,7 +665,7 @@ msgid "None"
 msgstr "କିଛିନୁହଁ"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, inactiveIntensityBox)
-#: colorsettings.ui:1015
+#: colorsettings.ui:1056
 #, fuzzy
 #| msgid "Shade"
 msgctxt "inactive intensity effect"
@@ -673,7 +673,7 @@ msgid "Shade"
 msgstr "ଛାୟା"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, inactiveIntensityBox)
-#: colorsettings.ui:1020
+#: colorsettings.ui:1061
 #, fuzzy
 #| msgid "Darken"
 msgctxt "inactive intensity effect"
@@ -681,7 +681,7 @@ msgid "Darken"
 msgstr "ଅନ୍ଧାର"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, inactiveIntensityBox)
-#: colorsettings.ui:1025
+#: colorsettings.ui:1066
 #, fuzzy
 #| msgid "Lighten"
 msgctxt "inactive intensity effect"
@@ -689,17 +689,17 @@ msgid "Lighten"
 msgstr "ଆଲୋକିତ"
 
 #. i18n: ectx: property (toolTip), widget (QSlider, inactiveIntensitySlider)
-#: colorsettings.ui:1036
+#: colorsettings.ui:1077
 msgid "Inactive intensity effect amount"
 msgstr "ନିଷ୍କ୍ରିୟ ତୀବ୍ରତା ପ୍ରଭାବ ପରିମାଣ"
 
 #. i18n: ectx: property (toolTip), widget (QComboBox, inactiveColorBox)
-#: colorsettings.ui:1078
+#: colorsettings.ui:1119
 msgid "Inactive color effect type"
 msgstr "ନିଷ୍କ୍ରିୟ ରଙ୍ଗ ପ୍ରଭାବ ପ୍ରକାର"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, inactiveColorBox)
-#: colorsettings.ui:1082
+#: colorsettings.ui:1123
 #, fuzzy
 #| msgid "None"
 msgctxt "no inactive color effect"
@@ -707,7 +707,7 @@ msgid "None"
 msgstr "କିଛିନୁହଁ"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, inactiveColorBox)
-#: colorsettings.ui:1087
+#: colorsettings.ui:1128
 #, fuzzy
 #| msgid "Desaturate"
 msgctxt "inactive color effect"
@@ -715,7 +715,7 @@ msgid "Desaturate"
 msgstr "ଅପରିପୃକ୍ତ"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, inactiveColorBox)
-#: colorsettings.ui:1092
+#: colorsettings.ui:1133
 #, fuzzy
 #| msgid "Fade"
 msgctxt "inactive color effect"
@@ -723,7 +723,7 @@ msgid "Fade"
 msgstr "ବିବର୍ଣ୍ଣ ହେବା"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, inactiveColorBox)
-#: colorsettings.ui:1097
+#: colorsettings.ui:1138
 #, fuzzy
 #| msgid "Tint"
 msgctxt "inactive color effect"
@@ -731,22 +731,22 @@ msgid "Tint"
 msgstr "ହାଲୁକା ରଙ୍ଗ"
 
 #. i18n: ectx: property (toolTip), widget (QSlider, inactiveColorSlider)
-#: colorsettings.ui:1108
+#: colorsettings.ui:1149
 msgid "Inactive color amount"
 msgstr "ନିଷ୍କ୍ରିୟ ରଙ୍ଗ ପରିମାଣ"
 
 #. i18n: ectx: property (toolTip), widget (KColorButton, inactiveColorButton)
-#: colorsettings.ui:1127
+#: colorsettings.ui:1168
 msgid "Inactive color"
 msgstr "ନିଷ୍କ୍ରିୟ ରଙ୍ଗ"
 
 #. i18n: ectx: property (toolTip), widget (QComboBox, inactiveContrastBox)
-#: colorsettings.ui:1144
+#: colorsettings.ui:1185
 msgid "Inactive contrast effect type"
 msgstr "ନିଷ୍କ୍ରିୟ ପ୍ରଭେଦ ପ୍ରଭାବ ପ୍ରକାର"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, inactiveContrastBox)
-#: colorsettings.ui:1148
+#: colorsettings.ui:1189
 #, fuzzy
 #| msgid "None"
 msgctxt "no inactive contrast effect"
@@ -754,7 +754,7 @@ msgid "None"
 msgstr "କିଛିନୁହଁ"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, inactiveContrastBox)
-#: colorsettings.ui:1153
+#: colorsettings.ui:1194
 #, fuzzy
 #| msgid "Fade"
 msgctxt "inactive contrast effect"
@@ -762,7 +762,7 @@ msgid "Fade"
 msgstr "ବିବର୍ଣ୍ଣ ହେବା"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, inactiveContrastBox)
-#: colorsettings.ui:1158
+#: colorsettings.ui:1199
 #, fuzzy
 #| msgid "Tint"
 msgctxt "inactive contrast effect"
@@ -770,172 +770,12 @@ msgid "Tint"
 msgstr "ହାଲୁକା ରଙ୍ଗ"
 
 #. i18n: ectx: property (toolTip), widget (QSlider, inactiveContrastSlider)
-#: colorsettings.ui:1169
+#: colorsettings.ui:1210
 msgid "Inactive contrast effect amount"
 msgstr "ନିଷ୍କ୍ରିୟ ପ୍ରଭେଦ ପ୍ରଭାବ ପରିମାଣ"
 
-#. i18n: ectx: property (toolTip), widget (QLabel, label)
-#: preview.ui:29
-#, fuzzy
-#| msgid "Window Background"
-msgid "Window text on Window Background"
-msgstr "ୱିଣ୍ଡୋ ପୃଷ୍ଠଭୂମୀ"
-
-#. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
-#. i18n: ectx: property (text), widget (QLabel, label)
-#: preview.ui:32
-#, fuzzy
-#| msgid "Window text"
-msgctxt "color-kcm-preview"
-msgid "Window text"
-msgstr "ୱିଣ୍ଡୋ ପାଠ୍ୟ"
-
-#. i18n: ectx: property (toolTip), widget (QLabel, labelView0)
-#: preview.ui:63
-#, fuzzy
-#| msgid "Normal Background"
-msgid "View Normal Text against View Normal Background"
-msgstr "ସାଧାରଣ ପୃଷ୍ଠଭୂମି"
-
-#. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
-#. i18n: ectx: property (text), widget (QLabel, labelView0)
-#: preview.ui:66
-#, fuzzy
-#| msgid "Normal text"
-msgctxt "color-kcm-preview"
-msgid "Normal text"
-msgstr "ସାଧାରଣ ପାଠ୍ୟ"
-
-#. i18n: ectx: property (toolTip), widget (QLabel, labelView3)
-#: preview.ui:78
-#, fuzzy
-#| msgid "Normal Background"
-msgid "View Link Text against View Normal Background"
-msgstr "ସାଧାରଣ ପୃଷ୍ଠଭୂମି"
-
-#. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
-#. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
-#. i18n: ectx: property (text), widget (QLabel, labelView3)
-#. i18n: ectx: property (text), widget (QLabel, labelSelection3)
-#: preview.ui:81 preview.ui:199
-#, fuzzy
-#| msgid "link"
-msgctxt "color-kcm-preview"
-msgid "link"
-msgstr "ସଂଯୋଗ"
-
-#. i18n: ectx: property (toolTip), widget (QLabel, labelView4)
-#: preview.ui:93
-#, fuzzy
-#| msgid "Normal Background"
-msgid "View Visited Text against View Normal Background"
-msgstr "ସାଧାରଣ ପୃଷ୍ଠଭୂମି"
-
-#. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
-#. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
-#. i18n: ectx: property (text), widget (QLabel, labelView4)
-#. i18n: ectx: property (text), widget (QLabel, labelSelection4)
-#: preview.ui:96 preview.ui:214
-#, fuzzy
-#| msgid "visited"
-msgctxt "color-kcm-preview"
-msgid "visited"
-msgstr "ପରିଦର୍ଶିତ"
-
-#. i18n: ectx: property (toolTip), widget (QLabel, labelView2)
-#: preview.ui:103
-#, fuzzy
-#| msgid "Normal Background"
-msgid "View Active Text against View Normal Background"
-msgstr "ସାଧାରଣ ପୃଷ୍ଠଭୂମି"
-
-#. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
-#. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
-#. i18n: ectx: property (text), widget (QLabel, labelView2)
-#. i18n: ectx: property (text), widget (QLabel, labelSelection2)
-#: preview.ui:106 preview.ui:224
-#, fuzzy
-#| msgctxt "active (abbreviate)"
-#| msgid "a"
-msgctxt "color-kcm-preview"
-msgid "a"
-msgstr "a"
-
-#. i18n: ectx: property (toolTip), widget (QLabel, labelView1)
-#: preview.ui:113
-#, fuzzy
-#| msgid "Normal Background"
-msgid "View Inactive Text against View Normal Background"
-msgstr "ସାଧାରଣ ପୃଷ୍ଠଭୂମି"
-
-#. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
-#. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
-#. i18n: ectx: property (text), widget (QLabel, labelView1)
-#. i18n: ectx: property (text), widget (QLabel, labelSelection1)
-#: preview.ui:116 preview.ui:234
-#, fuzzy
-#| msgctxt "inactive (abbreviate)"
-#| msgid "i"
-msgctxt "color-kcm-preview"
-msgid "i"
-msgstr "i"
-
-#. i18n: ectx: property (toolTip), widget (QLabel, labelView5)
-#: preview.ui:123
-#, fuzzy
-#| msgid "Normal Background"
-msgid "View Negative Text against View Normal Background"
-msgstr "ସାଧାରଣ ପୃଷ୍ଠଭୂମି"
-
-#. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
-#. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
-#. i18n: ectx: property (text), widget (QLabel, labelView5)
-#. i18n: ectx: property (text), widget (QLabel, labelSelection5)
-#: preview.ui:126 preview.ui:244
-#, fuzzy
-#| msgid "!"
-msgctxt "color-kcm-preview"
-msgid "!"
-msgstr "!"
-
-#. i18n: ectx: property (toolTip), widget (QLabel, labelView6)
-#: preview.ui:133
-#, fuzzy
-#| msgid "Normal Background"
-msgid "View Neutral Text against View Normal Background"
-msgstr "ସାଧାରଣ ପୃଷ୍ଠଭୂମି"
-
-#. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
-#. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
-#. i18n: ectx: property (text), widget (QLabel, labelView6)
-#. i18n: ectx: property (text), widget (QLabel, labelSelection6)
-#: preview.ui:136 preview.ui:254
-#, fuzzy
-#| msgid "="
-msgctxt "color-kcm-preview"
-msgid "="
-msgstr "="
-
-#. i18n: ectx: property (toolTip), widget (QLabel, labelView7)
-#: preview.ui:143
-#, fuzzy
-#| msgid "Normal Background"
-msgid "View Positive Text against View Normal Background"
-msgstr "ସାଧାରଣ ପୃଷ୍ଠଭୂମି"
-
-#. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
-#. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
-#. i18n: ectx: property (text), widget (QLabel, labelView7)
-#. i18n: ectx: property (text), widget (QLabel, labelSelection7)
-#: preview.ui:146 preview.ui:264
-#, fuzzy
-#| msgid "+"
-msgctxt "color-kcm-preview"
-msgid "+"
-msgstr "+"
-
 #. i18n: ectx: property (toolTip), widget (QLabel, labelSelection0)
-#: preview.ui:181
+#: preview.ui:74
 #, fuzzy
 #| msgid "Normal Background"
 msgid "Selection Normal Text against Selection Normal Background"
@@ -943,7 +783,7 @@ msgstr "ସାଧାରଣ ପୃଷ୍ଠଭୂମି"
 
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
 #. i18n: ectx: property (text), widget (QLabel, labelSelection0)
-#: preview.ui:184
+#: preview.ui:77
 #, fuzzy
 #| msgid "Selected text"
 msgctxt "color-kcm-preview"
@@ -951,56 +791,216 @@ msgid "Selected text"
 msgstr "ବଚ୍ଛିତ ପାଠ୍ୟ"
 
 #. i18n: ectx: property (toolTip), widget (QLabel, labelSelection3)
-#: preview.ui:196
+#: preview.ui:89
 #, fuzzy
 #| msgid "Normal Background"
 msgid "Selection Link Text against Selection Normal Background"
 msgstr "ସାଧାରଣ ପୃଷ୍ଠଭୂମି"
 
+#. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
+#. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
+#. i18n: ectx: property (text), widget (QLabel, labelSelection3)
+#. i18n: ectx: property (text), widget (QLabel, labelView3)
+#: preview.ui:92 preview.ui:216
+#, fuzzy
+#| msgid "link"
+msgctxt "color-kcm-preview"
+msgid "link"
+msgstr "ସଂଯୋଗ"
+
 #. i18n: ectx: property (toolTip), widget (QLabel, labelSelection4)
-#: preview.ui:211
+#: preview.ui:104
 #, fuzzy
 #| msgid "Normal Background"
 msgid "Selection Visited Text against Selection Normal Background"
 msgstr "ସାଧାରଣ ପୃଷ୍ଠଭୂମି"
 
+#. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
+#. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
+#. i18n: ectx: property (text), widget (QLabel, labelSelection4)
+#. i18n: ectx: property (text), widget (QLabel, labelView4)
+#: preview.ui:107 preview.ui:231
+#, fuzzy
+#| msgid "visited"
+msgctxt "color-kcm-preview"
+msgid "visited"
+msgstr "ପରିଦର୍ଶିତ"
+
 #. i18n: ectx: property (toolTip), widget (QLabel, labelSelection2)
-#: preview.ui:221
+#: preview.ui:114
 #, fuzzy
 #| msgid "Normal Background"
 msgid "Selection Active Text against Selection Normal Background"
 msgstr "ସାଧାରଣ ପୃଷ୍ଠଭୂମି"
 
+#. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
+#. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
+#. i18n: ectx: property (text), widget (QLabel, labelSelection2)
+#. i18n: ectx: property (text), widget (QLabel, labelView2)
+#: preview.ui:117 preview.ui:241
+#, fuzzy
+#| msgctxt "active (abbreviate)"
+#| msgid "a"
+msgctxt "color-kcm-preview"
+msgid "a"
+msgstr "a"
+
 #. i18n: ectx: property (toolTip), widget (QLabel, labelSelection1)
-#: preview.ui:231
+#: preview.ui:124
 #, fuzzy
 #| msgid "Normal Background"
 msgid "Selection Inactive Text against Selection Normal Background"
 msgstr "ସାଧାରଣ ପୃଷ୍ଠଭୂମି"
 
+#. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
+#. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
+#. i18n: ectx: property (text), widget (QLabel, labelSelection1)
+#. i18n: ectx: property (text), widget (QLabel, labelView1)
+#: preview.ui:127 preview.ui:251
+#, fuzzy
+#| msgctxt "inactive (abbreviate)"
+#| msgid "i"
+msgctxt "color-kcm-preview"
+msgid "i"
+msgstr "i"
+
 #. i18n: ectx: property (toolTip), widget (QLabel, labelSelection5)
-#: preview.ui:241
+#: preview.ui:134
 #, fuzzy
 #| msgid "Normal Background"
 msgid "Selection Negative Text against Selection Normal Background"
 msgstr "ସାଧାରଣ ପୃଷ୍ଠଭୂମି"
 
+#. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
+#. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
+#. i18n: ectx: property (text), widget (QLabel, labelSelection5)
+#. i18n: ectx: property (text), widget (QLabel, labelView5)
+#: preview.ui:137 preview.ui:261
+#, fuzzy
+#| msgid "!"
+msgctxt "color-kcm-preview"
+msgid "!"
+msgstr "!"
+
 #. i18n: ectx: property (toolTip), widget (QLabel, labelSelection6)
-#: preview.ui:251
+#: preview.ui:144
 #, fuzzy
 #| msgid "Normal Background"
 msgid "Selection Neutral Text against Selection Normal Background"
 msgstr "ସାଧାରଣ ପୃଷ୍ଠଭୂମି"
 
+#. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
+#. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
+#. i18n: ectx: property (text), widget (QLabel, labelSelection6)
+#. i18n: ectx: property (text), widget (QLabel, labelView6)
+#: preview.ui:147 preview.ui:271
+#, fuzzy
+#| msgid "="
+msgctxt "color-kcm-preview"
+msgid "="
+msgstr "="
+
 #. i18n: ectx: property (toolTip), widget (QLabel, labelSelection7)
-#: preview.ui:261
+#: preview.ui:154
 #, fuzzy
 #| msgid "Normal Background"
 msgid "Selection Positive Text against Selection Normal Background"
 msgstr "ସାଧାରଣ ପୃଷ୍ଠଭୂମି"
 
+#. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
+#. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
+#. i18n: ectx: property (text), widget (QLabel, labelSelection7)
+#. i18n: ectx: property (text), widget (QLabel, labelView7)
+#: preview.ui:157 preview.ui:281
+#, fuzzy
+#| msgid "+"
+msgctxt "color-kcm-preview"
+msgid "+"
+msgstr "+"
+
+#. i18n: ectx: property (toolTip), widget (QLabel, labelView0)
+#: preview.ui:198
+#, fuzzy
+#| msgid "Normal Background"
+msgid "View Normal Text against View Normal Background"
+msgstr "ସାଧାରଣ ପୃଷ୍ଠଭୂମି"
+
+#. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
+#. i18n: ectx: property (text), widget (QLabel, labelView0)
+#: preview.ui:201
+#, fuzzy
+#| msgid "Normal text"
+msgctxt "color-kcm-preview"
+msgid "Normal text"
+msgstr "ସାଧାରଣ ପାଠ୍ୟ"
+
+#. i18n: ectx: property (toolTip), widget (QLabel, labelView3)
+#: preview.ui:213
+#, fuzzy
+#| msgid "Normal Background"
+msgid "View Link Text against View Normal Background"
+msgstr "ସାଧାରଣ ପୃଷ୍ଠଭୂମି"
+
+#. i18n: ectx: property (toolTip), widget (QLabel, labelView4)
+#: preview.ui:228
+#, fuzzy
+#| msgid "Normal Background"
+msgid "View Visited Text against View Normal Background"
+msgstr "ସାଧାରଣ ପୃଷ୍ଠଭୂମି"
+
+#. i18n: ectx: property (toolTip), widget (QLabel, labelView2)
+#: preview.ui:238
+#, fuzzy
+#| msgid "Normal Background"
+msgid "View Active Text against View Normal Background"
+msgstr "ସାଧାରଣ ପୃଷ୍ଠଭୂମି"
+
+#. i18n: ectx: property (toolTip), widget (QLabel, labelView1)
+#: preview.ui:248
+#, fuzzy
+#| msgid "Normal Background"
+msgid "View Inactive Text against View Normal Background"
+msgstr "ସାଧାରଣ ପୃଷ୍ଠଭୂମି"
+
+#. i18n: ectx: property (toolTip), widget (QLabel, labelView5)
+#: preview.ui:258
+#, fuzzy
+#| msgid "Normal Background"
+msgid "View Negative Text against View Normal Background"
+msgstr "ସାଧାରଣ ପୃଷ୍ଠଭୂମି"
+
+#. i18n: ectx: property (toolTip), widget (QLabel, labelView6)
+#: preview.ui:268
+#, fuzzy
+#| msgid "Normal Background"
+msgid "View Neutral Text against View Normal Background"
+msgstr "ସାଧାରଣ ପୃଷ୍ଠଭୂମି"
+
+#. i18n: ectx: property (toolTip), widget (QLabel, labelView7)
+#: preview.ui:278
+#, fuzzy
+#| msgid "Normal Background"
+msgid "View Positive Text against View Normal Background"
+msgstr "ସାଧାରଣ ପୃଷ୍ଠଭୂମି"
+
+#. i18n: ectx: property (toolTip), widget (QLabel, label)
+#: preview.ui:294
+#, fuzzy
+#| msgid "Window Background"
+msgid "Window text on Window Background"
+msgstr "ୱିଣ୍ଡୋ ପୃଷ୍ଠଭୂମୀ"
+
+#. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: preview.ui:297
+#, fuzzy
+#| msgid "Window text"
+msgctxt "color-kcm-preview"
+msgid "Window text"
+msgstr "ୱିଣ୍ଡୋ ପାଠ୍ୟ"
+
 #. i18n: ectx: property (toolTip), widget (QPushButton, pushButton)
-#: preview.ui:293
+#: preview.ui:304
 #, fuzzy
 #| msgid "Button Background"
 msgid "Button text on Button Background"
@@ -1008,7 +1008,7 @@ msgstr "ବଟନ ପୃଷ୍ଠଭୂମୀ"
 
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
 #. i18n: ectx: property (text), widget (QPushButton, pushButton)
-#: preview.ui:296
+#: preview.ui:307
 #, fuzzy
 #| msgid "Push Button"
 msgctxt "color-kcm-preview"
