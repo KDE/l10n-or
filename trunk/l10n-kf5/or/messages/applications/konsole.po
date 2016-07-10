@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-07-09 07:29+0000\n"
+"POT-Creation-Date: 2016-07-10 07:10+0000\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -2354,11 +2354,11 @@ msgstr ""
 msgid "Current Directory (Long): %D"
 msgstr ""
 
-#: TabTitleFormatButton.cpp:36 TabTitleFormatButton.cpp:48
+#: TabTitleFormatButton.cpp:36 TabTitleFormatButton.cpp:50
 msgid "Window Title Set by Shell: %w"
 msgstr ""
 
-#: TabTitleFormatButton.cpp:37 TabTitleFormatButton.cpp:49
+#: TabTitleFormatButton.cpp:37 TabTitleFormatButton.cpp:51
 msgid "Session Number: %#"
 msgstr ""
 
@@ -2372,23 +2372,32 @@ msgid "Local Host: %h"
 msgstr ""
 
 #: TabTitleFormatButton.cpp:46
-msgid "Remote Host (Short): %h"
+msgid "User Name@ (if given): %U"
 msgstr ""
 
 #: TabTitleFormatButton.cpp:47
+msgid "Remote Host (Short): %h"
+msgstr ""
+
+#: TabTitleFormatButton.cpp:48
 msgid "Remote Host (Long): %H"
 msgstr ""
 
-#: TabTitleFormatButton.cpp:58
+#: TabTitleFormatButton.cpp:49
+#, c-format
+msgid "Command and arguments: %c"
+msgstr ""
+
+#: TabTitleFormatButton.cpp:60
 msgid "Insert"
 msgstr ""
 
-#: TabTitleFormatButton.cpp:83
+#: TabTitleFormatButton.cpp:85
 msgctxt "@info:tooltip"
 msgid "Insert title format"
 msgstr ""
 
-#: TabTitleFormatButton.cpp:87
+#: TabTitleFormatButton.cpp:89
 msgctxt "@info:tooltip"
 msgid "Insert remote title format"
 msgstr ""
