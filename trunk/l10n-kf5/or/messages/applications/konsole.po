@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-07-10 07:10+0000\n"
+"POT-Creation-Date: 2016-07-12 09:19+0000\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1768,7 +1768,7 @@ msgstr ""
 msgid "Activity in session '%1'"
 msgstr ""
 
-#: Session.cpp:859
+#: Session.cpp:868
 msgid ""
 "The D-Bus methods sendText/runCommand were just used.  There are security "
 "concerns about allowing these methods to be public.  If desired, these "
@@ -1776,22 +1776,22 @@ msgid ""
 "warning will only show once for this Konsole instance.</p>"
 msgstr ""
 
-#: Session.cpp:886
+#: Session.cpp:895
 msgctxt "@info:shell This session is done"
 msgid "Finished"
 msgstr ""
 
-#: Session.cpp:900 Session.cpp:912
+#: Session.cpp:909 Session.cpp:921
 #, kde-format
 msgid "Program '%1' crashed."
 msgstr ""
 
-#: Session.cpp:902
+#: Session.cpp:911
 #, kde-format
 msgid "Program '%1' exited with status %2."
 msgstr ""
 
-#: Session.cpp:1261
+#: Session.cpp:1270
 msgid "ZModem Progress"
 msgstr ""
 
