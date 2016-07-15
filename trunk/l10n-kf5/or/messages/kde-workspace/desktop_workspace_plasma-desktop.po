@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-07-09 08:08+0000\n"
+"POT-Creation-Date: 2016-07-15 08:02+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -765,8 +765,11 @@ msgid "Enables switching keyboard layout through shortcuts or system tray"
 msgstr ""
 
 #: kcms/keys/keys.desktop:14
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Global Keyboard Shortcuts"
 msgctxt "Name"
-msgid "Global Keyboard Shortcuts"
+msgid "Global Shortcuts"
 msgstr "ଜାଗତିକ କିବୋର୍ଡ଼ ସଂକ୍ଷିପ୍ତ ପଥ"
 
 #: kcms/keys/keys.desktop:95
@@ -1300,7 +1303,7 @@ msgstr ""
 #| msgctxt "Name"
 #| msgid "Global Keyboard Shortcuts"
 msgctxt "Name"
-msgid "Application Keyboard Shortcuts"
+msgid "Standard Shortcuts"
 msgstr "ଜାଗତିକ କିବୋର୍ଡ଼ ସଂକ୍ଷିପ୍ତ ପଥ"
 
 #: kcms/standard_actions/standard_actions.desktop:62
@@ -1426,7 +1429,7 @@ msgstr ""
 
 #: kcms/translations/translations.desktop:14
 msgctxt "Name"
-msgid "Translations"
+msgid "Language"
 msgstr ""
 
 #: kcms/useraccount/kcm_useraccount.desktop:14
@@ -1577,6 +1580,13 @@ msgstr "ପ୍ଲାଜମା ଡ଼େସ୍କଟପ କାର୍ଯ୍ୟସ�
 msgctxt "Name"
 msgid "Panel toolbox"
 msgstr "ନେଟୱର୍କ ସାଧନ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Global Keyboard Shortcuts"
+#~ msgctxt "Name"
+#~ msgid "Application Keyboard Shortcuts"
+#~ msgstr "ଜାଗତିକ କିବୋର୍ଡ଼ ସଂକ୍ଷିପ୍ତ ପଥ"
 
 #, fuzzy
 #~| msgctxt "Name"
