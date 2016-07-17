@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-11-17 10:55+0000\n"
+"POT-Creation-Date: 2016-07-17 08:28+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -188,14 +188,6 @@ msgctxt "Name"
 msgid "Power Management"
 msgstr "ଶକ୍ତି ପରିଚାଳନା"
 
-#: categories/old/settings-removable-devices.desktop:8
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "USB Devices"
-msgctxt "Name"
-msgid "Removable Devices"
-msgstr "USB ଉପକରଣ"
-
 #: categories/old/settings-sharing.desktop:8
 msgctxt "Name"
 msgid "Sharing"
@@ -287,6 +279,14 @@ msgstr "ପ୍ରୟୋଗ ଆରମ୍ଭକର୍ତ୍ତା"
 msgctxt "Name"
 msgid "Peripherals"
 msgstr ""
+
+#: categories/settings-hardware-removable-storage.desktop:8
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "USB Devices"
+msgctxt "Name"
+msgid "Removable Storage"
+msgstr "USB ଉପକରଣ"
 
 #: categories/settings-network-connectivity.desktop:9
 #, fuzzy
