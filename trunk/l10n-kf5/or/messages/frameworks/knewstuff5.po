@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-07-05 08:03+0000\n"
+"POT-Creation-Date: 2016-07-20 07:58+0000\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -669,7 +669,7 @@ msgstr ""
 msgid "Fetching content data from server finished."
 msgstr ""
 
-#: uploaddialog.cpp:397 uploaddialog.cpp:836
+#: uploaddialog.cpp:397 uploaddialog.cpp:837
 msgctxt "A link to the website where the get hot new stuff upload can be seen"
 msgid "Visit website"
 msgstr ""
@@ -687,13 +687,13 @@ msgctxt "Program name followed by 'Add On Uploader'"
 msgid "%1 Add-On Uploader"
 msgstr "%1 ଅତିରିକ୍ତ ସ୍ଥାପନକାରୀ"
 
-#: uploaddialog.cpp:486 uploaddialog.cpp:761
+#: uploaddialog.cpp:486 uploaddialog.cpp:762
 #, fuzzy, kde-format
 #| msgid "File %1 not found."
 msgid "File not found: %1"
 msgstr "ଫାଇଲ %1 ମିଳୁନାହିଁ।"
 
-#: uploaddialog.cpp:486 uploaddialog.cpp:612 uploaddialog.cpp:761
+#: uploaddialog.cpp:486 uploaddialog.cpp:613 uploaddialog.cpp:762
 #, fuzzy
 #| msgid "Download"
 msgid "Upload Failed"
@@ -714,34 +714,34 @@ msgstr[1] ""
 msgid "Error"
 msgstr "ତ୍ରୁଟି"
 
-#: uploaddialog.cpp:612
+#: uploaddialog.cpp:613
 #, kde-format
 msgid "The selected category \"%1\" is invalid."
 msgstr ""
 
-#: uploaddialog.cpp:661 uploaddialog.cpp:676 uploaddialog.cpp:690
+#: uploaddialog.cpp:662 uploaddialog.cpp:677 uploaddialog.cpp:691
 #, fuzzy
 #| msgid "Select Region of Image"
 msgid "Select preview image"
 msgstr "ପ୍ରତିଛବିର ଅଞ୍ଚଳ ଚୟନ କରନ୍ତୁ"
 
-#: uploaddialog.cpp:705
+#: uploaddialog.cpp:706
 msgid "There was a network error."
 msgstr ""
 
-#: uploaddialog.cpp:705 uploaddialog.cpp:710
+#: uploaddialog.cpp:706 uploaddialog.cpp:711
 #, fuzzy
 #| msgid "Download"
 msgid "Uploading Failed"
 msgstr "ଆହରଣ"
 
-#: uploaddialog.cpp:710
+#: uploaddialog.cpp:711
 #, fuzzy
 #| msgid "Communication error"
 msgid "Authentication error."
 msgstr "ସଞ୍ଚାର ତ୍ରୁଟି"
 
-#: uploaddialog.cpp:720
+#: uploaddialog.cpp:721
 #, fuzzy, kde-format
 #| msgid "Download"
 msgid "Upload failed: %1"
