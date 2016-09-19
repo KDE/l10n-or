@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-09-18 06:59+0000\n"
+"POT-Creation-Date: 2016-09-19 06:46+0000\n"
 "PO-Revision-Date: 2008-12-26 16:53+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -72,8 +72,8 @@ msgstr "ପ୍ରାକ ସୂଚନା"
 msgid "Specifications"
 msgstr "ନିର୍ଦ୍ଦିଷ୍ଟକ ସୂଚନା"
 
-#: about/konq_aboutpage.cpp:94 src/konqmainwindow.cpp:2166
-#: src/konqmainwindow.cpp:2172
+#: about/konq_aboutpage.cpp:94 src/konqmainwindow.cpp:2083
+#: src/konqmainwindow.cpp:2089
 msgid "Home Folder"
 msgstr "ମୂଳସ୍ଥାନ ଫୋଲଡ଼ର"
 
@@ -174,7 +174,7 @@ msgid ""
 "<A HREF=\"%1\">XBEL bookmarks</A>, Konqueror also implements:"
 msgstr ""
 
-#: about/konq_aboutpage.cpp:209 src/konqmainwindow.cpp:1899
+#: about/konq_aboutpage.cpp:209 src/konqmainwindow.cpp:1816
 msgid "Web Browsing"
 msgstr "ୱେବ ବ୍ରାଉଜିଙ୍ଗ"
 
@@ -859,11 +859,11 @@ msgid "&Open Link"
 msgstr "ସଂଯୋଗ ଖୋଲନ୍ତୁ (&O)"
 
 #: sidebar/web_module/web_module.cpp:59 src/konqhistoryview.cpp:62
-#: src/konqmainwindow.cpp:4709
+#: src/konqmainwindow.cpp:4603
 msgid "Open in New &Window"
 msgstr "ନୂତନ ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ (&W)"
 
-#: sidebar/web_module/web_module.cpp:65 src/konqmainwindow.cpp:3822
+#: sidebar/web_module/web_module.cpp:65 src/konqmainwindow.cpp:3736
 msgid "&Reload"
 msgstr "ପୁନର୍ଧାରଣ କରନ୍ତୁ (&R)"
 
@@ -925,8 +925,8 @@ msgstr "ଦୃଶ୍ୟ ବନ୍ଦକରନ୍ତୁ"
 msgid "Error: %1"
 msgstr ""
 
-#: src/konqclosedwindowsmanager.cpp:415 src/konqmainwindow.cpp:5183
-#: src/konqmainwindow.cpp:5237
+#: src/konqclosedwindowsmanager.cpp:415 src/konqmainwindow.cpp:5075
+#: src/konqmainwindow.cpp:5129
 msgid "no name"
 msgstr "କୌଣସି ନାମ ନାହିଁ"
 
@@ -1339,20 +1339,20 @@ msgstr ""
 msgid "Location to open"
 msgstr "ଖୋଲିବା ପାଇଁ ସ୍ଥାନ"
 
-#: src/konqmainwindow.cpp:607
+#: src/konqmainwindow.cpp:603
 msgctxt "@title:tab"
 msgid "Loading..."
 msgstr "ଧାରଣ କରୁଅଛି..."
 
-#: src/konqmainwindow.cpp:792
+#: src/konqmainwindow.cpp:788
 msgid "Access denied"
 msgstr ""
 
-#: src/konqmainwindow.cpp:1733
+#: src/konqmainwindow.cpp:1650
 msgid "Canceled."
 msgstr "ବାତିଲ ହୋଇଛି।"
 
-#: src/konqmainwindow.cpp:1769
+#: src/konqmainwindow.cpp:1686
 msgid ""
 "This page contains changes that have not been submitted.\n"
 "Reloading the page will discard these changes."
@@ -1360,51 +1360,51 @@ msgstr ""
 "ଏହି ପୃଷ୍ଠାରେ ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ଧାରଣ କରାଯାଇଛି ଯାହାକୁ ଦାଖଲ କରାଯାଇନାହିଁ।\n"
 "ଏହି ପୃଷ୍ଠାକୁ ପୁନର୍ଧାରଣ କରିବା ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ପ୍ରତ୍ୟାଖ୍ଯାନ କରିଦେବ।"
 
-#: src/konqmainwindow.cpp:1770 src/konqmainwindow.cpp:2517
-#: src/konqmainwindow.cpp:2610 src/konqmainwindow.cpp:2642
-#: src/konqmainwindow.cpp:2685 src/konqmainwindow.cpp:2707
-#: src/konqmainwindow.cpp:5144
+#: src/konqmainwindow.cpp:1687 src/konqmainwindow.cpp:2434
+#: src/konqmainwindow.cpp:2527 src/konqmainwindow.cpp:2559
+#: src/konqmainwindow.cpp:2602 src/konqmainwindow.cpp:2624
+#: src/konqmainwindow.cpp:5036
 #, fuzzy
 #| msgid "Discard Changes?"
 msgctxt "@title:window"
 msgid "Discard Changes?"
 msgstr "ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ପ୍ରତ୍ୟାଖ୍ଯାନ କରିବେ କି?"
 
-#: src/konqmainwindow.cpp:1770 src/konqmainwindow.cpp:2517
-#: src/konqmainwindow.cpp:2610 src/konqmainwindow.cpp:2642
-#: src/konqmainwindow.cpp:2685 src/konqmainwindow.cpp:2708
-#: src/konqmainwindow.cpp:5144
+#: src/konqmainwindow.cpp:1687 src/konqmainwindow.cpp:2434
+#: src/konqmainwindow.cpp:2527 src/konqmainwindow.cpp:2559
+#: src/konqmainwindow.cpp:2602 src/konqmainwindow.cpp:2625
+#: src/konqmainwindow.cpp:5036
 msgid "&Discard Changes"
 msgstr "ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ପ୍ରତ୍ୟାଖ୍ଯାନ କରନ୍ତୁ (&D)"
 
-#: src/konqmainwindow.cpp:1878
+#: src/konqmainwindow.cpp:1795
 msgid "File Management"
 msgstr "ଫାଇଲ ପରିଚାଳନା"
 
-#: src/konqmainwindow.cpp:2167 src/konqmainwindow.cpp:3678
+#: src/konqmainwindow.cpp:2084 src/konqmainwindow.cpp:3592
 #, fuzzy
 #| msgid "Home Page"
 msgid "Home"
 msgstr "ମୂଳସ୍ଥାନ ପୃଷ୍ଠା"
 
-#: src/konqmainwindow.cpp:2173
+#: src/konqmainwindow.cpp:2090
 msgid "Navigate to your 'Home Folder'"
 msgstr "ଆପଣଙ୍କର 'ମୂଳସ୍ଥାନ ଫୋଲଡ଼ର'କୁ ପଥପ୍ରଦର୍ଶନ କରନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:2174
+#: src/konqmainwindow.cpp:2091
 msgid "Navigate to your local 'Home Folder'"
 msgstr "ଆପଣଙ୍କର ସ୍ଥାନୀୟ 'ମୂଳସ୍ଥାନ ଫୋଲଡ଼ର'କୁ ପଥପ୍ରଦର୍ଶନ କରନ୍ତୁ"
 
 #. i18n: ectx: label, entry, group (UserSettings)
-#: src/konqmainwindow.cpp:2177 src/konqueror.kcfg:11
+#: src/konqmainwindow.cpp:2094 src/konqueror.kcfg:11
 msgid "Home Page"
 msgstr "ମୂଳସ୍ଥାନ ପୃଷ୍ଠା"
 
-#: src/konqmainwindow.cpp:2179
+#: src/konqmainwindow.cpp:2096
 msgid "Navigate to your 'Home Page'"
 msgstr "ଆପଣଙ୍କର 'ମୂଳସ୍ଥାନ ପୃଷ୍ଠା'କୁ ପଥପ୍ରଦର୍ଶନ କରନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:2180
+#: src/konqmainwindow.cpp:2097
 msgid ""
 "<html>Navigate to your 'Home Page'<br /><br />You can configure the location "
 "where this button takes you under <b>Settings -> Configure Konqueror -> "
@@ -1414,7 +1414,7 @@ msgstr ""
 "ନେବ ତାହାର ସ୍ଥାନ ବିନ୍ୟାସ କରିପାରିବେ <b>ବିନ୍ୟାସ -> Konqueror ବିନ୍ୟାସ କରନ୍ତୁ -> ସାଧାରଣ</b>."
 "</html>"
 
-#: src/konqmainwindow.cpp:2516
+#: src/konqmainwindow.cpp:2433
 msgid ""
 "This tab contains changes that have not been submitted.\n"
 "Detaching the tab will discard these changes."
@@ -1422,7 +1422,7 @@ msgstr ""
 "ଏହି ଟ୍ୟାବ ଦାଖଲ ହୋଇନଥିବା ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ଧାରଣ କରିଥାଏ।\n"
 "ଏହି ଟ୍ୟାବକୁ ପୃଥକ କରାଗଲେ ତାହା ପରିବର୍ତ୍ତନଗୁଡ଼ିକ ପରିତ୍ୟାଗ କରିଦେବ।"
 
-#: src/konqmainwindow.cpp:2609
+#: src/konqmainwindow.cpp:2526
 msgid ""
 "This view contains changes that have not been submitted.\n"
 "Closing the view will discard these changes."
@@ -1430,7 +1430,7 @@ msgstr ""
 "ଏହି ଦୃଶ୍ଯ ଦାଖଲ ହୋଇନଥିବା ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ଧାରଣ କରିଥାଏ।\n"
 "ଏହି ଦୃଶ୍ଯକୁ ବନ୍ଦ କରାଗଲେ ତାହା ପରିବର୍ତ୍ତନଗୁଡ଼ିକ ପରିତ୍ୟାଗ କରିଦେବ।"
 
-#: src/konqmainwindow.cpp:2641
+#: src/konqmainwindow.cpp:2558
 msgid ""
 "This tab contains changes that have not been submitted.\n"
 "Closing the tab will discard these changes."
@@ -1438,23 +1438,23 @@ msgstr ""
 "ଏହି ଟ୍ୟାବ ଦାଖଲ ହୋଇନଥିବା ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ଧାରଣ କରିଥାଏ।\n"
 "ଏହି ଟ୍ୟାବକୁ ବନ୍ଦ କରାଗଲେ ତାହା ପରିବର୍ତ୍ତନଗୁଡ଼ିକ ପରିତ୍ୟାଗ କରିଦେବ।"
 
-#: src/konqmainwindow.cpp:2667
+#: src/konqmainwindow.cpp:2584
 msgid "Do you really want to close all other tabs?"
 msgstr "କଣ ଆପଣ ପ୍ରକୃତରେ ଅନ୍ୟ ସମସ୍ତ ଟ୍ଯାବଗୁଡ଼ିକୁ ବନ୍ଦ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
 
-#: src/konqmainwindow.cpp:2668 src/konqmainwindow.cpp:3770
+#: src/konqmainwindow.cpp:2585 src/konqmainwindow.cpp:3684
 #: src/konqtabs.cpp:357
 msgid "Close &Other Tabs"
 msgstr "ଅନ୍ୟାନ୍ୟ ଟ୍ୟାବଗୁଡ଼ିକୁ ବନ୍ଦକରନ୍ତୁ (&O)"
 
-#: src/konqmainwindow.cpp:2668
+#: src/konqmainwindow.cpp:2585
 #, fuzzy
 #| msgid "Close Other Tabs Confirmation"
 msgctxt "@title:window"
 msgid "Close Other Tabs Confirmation"
 msgstr "ଅନ୍ୟାନ୍ୟ ଟ୍ୟାବଗୁଡ଼ିକୁ ବନ୍ଦକରିବାର ନିଶ୍ଚିତକରଣ"
 
-#: src/konqmainwindow.cpp:2684
+#: src/konqmainwindow.cpp:2601
 msgid ""
 "This tab contains changes that have not been submitted.\n"
 "Closing other tabs will discard these changes."
@@ -1462,7 +1462,7 @@ msgstr ""
 "ଏହି ଟ୍ୟାବ ଦାଖଲ ହୋଇନଥିବା ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ଧାରଣ କରିଥାଏ।\n"
 "ଅନ୍ୟାନ୍ୟ ଟ୍ୟାବଗୁଡ଼ିକୁ ବନ୍ଦ କରାଗଲେ ତାହା ଏହି ପରିବର୍ତ୍ତନଗୁଡ଼ିକ ପରିତ୍ୟାଗ କରିଦେବ।"
 
-#: src/konqmainwindow.cpp:2706
+#: src/konqmainwindow.cpp:2623
 msgid ""
 "This tab contains changes that have not been submitted.\n"
 "Reloading all tabs will discard these changes."
@@ -1470,232 +1470,228 @@ msgstr ""
 "ଏହି ଟ୍ୟାବ ଦାଖଲ ହୋଇନଥିବା ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ଧାରଣ କରିଥାଏ।\n"
 "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ପୁନର୍ଧାରଣ କରାଗଲେ ତାହା ଏହି ପରିବର୍ତ୍ତନଗୁଡ଼ିକ ପରିତ୍ୟାଗ କରିଦେବ।"
 
-#: src/konqmainwindow.cpp:2748
+#: src/konqmainwindow.cpp:2665
 #, fuzzy
 #| msgid "Enter Target"
 msgctxt "@title:window"
 msgid "Enter Target"
 msgstr "ଲକ୍ଷ୍ଯସ୍ଥଳ ଭରଣକରନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:2755
+#: src/konqmainwindow.cpp:2672
 #, kde-format
 msgid "<qt><b>%1</b> is not valid</qt>"
 msgstr "<qt><b>%1</b> ଟି ବୈଧନୁହଁ</qt>"
 
-#: src/konqmainwindow.cpp:2765
+#: src/konqmainwindow.cpp:2682
 #, kde-format
 msgid "Copy selected files from %1 to:"
 msgstr "%1ରୁ ବଚ୍ଛିତ ଫାଇଲଗୁଡ଼ିକୁ ନକଲ କରନ୍ତୁ:"
 
-#: src/konqmainwindow.cpp:2778
+#: src/konqmainwindow.cpp:2695
 #, kde-format
 msgid "Move selected files from %1 to:"
 msgstr "%1ରୁ ବଚ୍ଛିତ ଫାଇଲଗୁଡ଼ିକୁ ଘୁଞ୍ଚାନ୍ତୁ:"
 
-#: src/konqmainwindow.cpp:2952
+#: src/konqmainwindow.cpp:2869
 msgctxt "This menu entry empties the closed items history"
 msgid "Empty Closed Items History"
 msgstr "ବନ୍ଦ ହୋଇଥିବା ବସ୍ତୁଗୁଡ଼ିକର ପୁରୁଣା ତଥ୍ୟକୁ ଖାଲିକରନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:2975
+#: src/konqmainwindow.cpp:2892
 msgid "Save As..."
 msgstr "ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ..."
 
-#: src/konqmainwindow.cpp:2977
+#: src/konqmainwindow.cpp:2894
 msgid "Manage..."
 msgstr "ପରିଚାଳନା କରନ୍ତୁ..."
 
-#: src/konqmainwindow.cpp:3584
+#: src/konqmainwindow.cpp:3501
 msgid "New &Window"
 msgstr "ନୂତନ ୱିଣ୍ଡୋ (&W)"
 
-#: src/konqmainwindow.cpp:3589
+#: src/konqmainwindow.cpp:3506
 msgid "&Duplicate Window"
 msgstr "ନକଲି ୱିଣ୍ଡୋ (&D)"
 
-#: src/konqmainwindow.cpp:3594
+#: src/konqmainwindow.cpp:3511
 msgid "Send &Link Address..."
 msgstr "ସଂଯୋଗ ଠିକଣା ପଠାନ୍ତୁ (&L)..."
 
-#: src/konqmainwindow.cpp:3598
+#: src/konqmainwindow.cpp:3515
 msgid "S&end File..."
 msgstr "ଫାଇଲ ପଠାନ୍ତୁ (&e)..."
 
-#: src/konqmainwindow.cpp:3602
+#: src/konqmainwindow.cpp:3519
 msgid "&Open Location"
 msgstr "ନିରୂପଣ କରାଯାଇଥିବା ସ୍ଥାନକୁ ଖୋଲନ୍ତୁ (&O)"
 
-#: src/konqmainwindow.cpp:3608
+#: src/konqmainwindow.cpp:3525
 msgid "&Open File..."
 msgstr "ଫାଇଲ ଖୋଲନ୍ତୁ (&O)..."
 
-#: src/konqmainwindow.cpp:3613
+#: src/konqmainwindow.cpp:3530
 msgid "&Find File..."
 msgstr "ଫାଇଲ ଖୋଜନ୍ତୁ (&F)..."
 
-#: src/konqmainwindow.cpp:3622
-msgid "&Use index.html"
-msgstr "index.htmlକୁ ବ୍ୟବହାର କରନ୍ତୁ (&U)"
-
-#: src/konqmainwindow.cpp:3625
+#: src/konqmainwindow.cpp:3539
 msgid "Lock to Current Location"
 msgstr "ପ୍ରଚଳିତ ସ୍ଥାନରେ ଅପରିବର୍ତ୍ତିତ ରଖନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:3628
+#: src/konqmainwindow.cpp:3542
 msgctxt "This option links konqueror views"
 msgid "Lin&k View"
 msgstr "ସଂଯୋଗ ଦୃଶ୍ୟ (&k)"
 
-#: src/konqmainwindow.cpp:3633
+#: src/konqmainwindow.cpp:3547
 msgid "&Up"
 msgstr "ଉପରକୁ (&U)"
 
-#: src/konqmainwindow.cpp:3643
+#: src/konqmainwindow.cpp:3557
 msgid "Closed Items"
 msgstr "ବନ୍ଦଥିବା ବସ୍ତୁଗୁଡ଼ିକ"
 
-#: src/konqmainwindow.cpp:3656
+#: src/konqmainwindow.cpp:3570
 msgid "Sessions"
 msgstr "ଅଧିବେଶନଗୁଡ଼ିକ"
 
-#: src/konqmainwindow.cpp:3683
+#: src/konqmainwindow.cpp:3597
 msgctxt "@action:inmenu Go"
 msgid "Most Often Visited"
 msgstr "ଅଧିକାଂଶ ଥର ପରିଦର୍ଶିତ"
 
-#: src/konqmainwindow.cpp:3687
+#: src/konqmainwindow.cpp:3601
 msgctxt "@action:inmenu Go"
 msgid "Recently Visited"
 msgstr "ନିକଟରେ ପରିଦର୍ଶିତ"
 
-#: src/konqmainwindow.cpp:3696
+#: src/konqmainwindow.cpp:3610
 #, fuzzy
 #| msgid "Show History Sidebar"
 msgctxt "@action:inmenu Go"
 msgid "Show History"
 msgstr "ପୁରୁଣା ତଥ୍ୟ ପାର୍ଶ୍ୱପଟିକୁ ଦର୍ଶାନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:3720
+#: src/konqmainwindow.cpp:3634
 msgid "Configure Extensions..."
 msgstr "ଅନୁଲଗ୍ନଗୁଡ଼ିକୁ ବିନ୍ୟାସ କରନ୍ତୁ..."
 
-#: src/konqmainwindow.cpp:3724
+#: src/konqmainwindow.cpp:3638
 msgid "Configure Spell Checking..."
 msgstr "ବନାନ ଯାଞ୍ଚ ବିନ୍ୟାସ କରନ୍ତୁ..."
 
-#: src/konqmainwindow.cpp:3730
+#: src/konqmainwindow.cpp:3644
 msgid "Split View &Left/Right"
 msgstr "ବିଭାଜିତ ଦୃଶ୍ୟ ବାମ/ଡ଼ାହାଣ (&L)"
 
-#: src/konqmainwindow.cpp:3735
+#: src/konqmainwindow.cpp:3649
 msgid "Split View &Top/Bottom"
 msgstr "ବିଭାଜିତ ଦୃଶ୍ୟ ଉପର/ତଳ (&T)"
 
-#: src/konqmainwindow.cpp:3740 src/konqtabs.cpp:468
+#: src/konqmainwindow.cpp:3654 src/konqtabs.cpp:468
 msgid "&New Tab"
 msgstr "ନୂତନ ଟ୍ୟାବ (&N)"
 
-#: src/konqmainwindow.cpp:3749
+#: src/konqmainwindow.cpp:3663
 msgid "&Duplicate Current Tab"
 msgstr "ନକଲି ପ୍ରଚଳିତ ଟ୍ୟାବ (&D)"
 
-#: src/konqmainwindow.cpp:3754
+#: src/konqmainwindow.cpp:3668
 msgid "Detach Current Tab"
 msgstr "ପ୍ରଚଳିତ ଟ୍ୟାବକୁ ପୃଥକ କରନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:3759
+#: src/konqmainwindow.cpp:3673
 msgid "&Close Active View"
 msgstr "ସକ୍ରିୟ ଦୃଶ୍ୟକୁ ବନ୍ଦକରନ୍ତୁ (&C)"
 
-#: src/konqmainwindow.cpp:3764
+#: src/konqmainwindow.cpp:3678
 msgid "Close Current Tab"
 msgstr "ପ୍ରଚଳିତ ଟ୍ୟାବକୁ ବନ୍ଦକରନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:3774
+#: src/konqmainwindow.cpp:3688
 msgid "Activate Next Tab"
 msgstr "ସକ୍ରିୟ ପରବର୍ତ୍ତି ଟ୍ୟାବ"
 
-#: src/konqmainwindow.cpp:3778
+#: src/konqmainwindow.cpp:3692
 msgid "Activate Previous Tab"
 msgstr "ସକ୍ରିୟ ପୂର୍ବବର୍ତ୍ତି ଟ୍ୟାବ"
 
-#: src/konqmainwindow.cpp:3786
+#: src/konqmainwindow.cpp:3700
 #, kde-format
 msgid "Activate Tab %1"
 msgstr "ସକ୍ରିୟ ଟ୍ୟାବ %1"
 
-#: src/konqmainwindow.cpp:3791
+#: src/konqmainwindow.cpp:3705
 msgid "Move Tab Left"
 msgstr "ଟ୍ୟାବକୁ ବାମକୁ ଘୁଞ୍ଚାନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:3796
+#: src/konqmainwindow.cpp:3710
 msgid "Move Tab Right"
 msgstr "ଟ୍ୟାବକୁ ଡ଼ାହାଣକୁ ଘୁଞ୍ଚାନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:3804
+#: src/konqmainwindow.cpp:3718
 msgid "Dump Debug Info"
 msgstr "ତ୍ରୁଟି ନିବାରଣ ସୂଚନାକୁ ନିର୍ବୋଧ କରନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:3827 src/konqtabs.cpp:335
+#: src/konqmainwindow.cpp:3741 src/konqtabs.cpp:335
 msgid "&Reload All Tabs"
 msgstr "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ (&R)"
 
-#: src/konqmainwindow.cpp:3835
+#: src/konqmainwindow.cpp:3749
 msgid "&Force Reload"
 msgstr "ପୁନର୍ଧାରଣକୁ ବାଧ୍ଯକରନ୍ତୁ (&F)"
 
-#: src/konqmainwindow.cpp:3861
+#: src/konqmainwindow.cpp:3775
 msgid "&Stop"
 msgstr "ବନ୍ଦକରନ୍ତୁ (&S)"
 
-#: src/konqmainwindow.cpp:3870
+#: src/konqmainwindow.cpp:3784
 msgid "Throbber"
 msgstr ""
 
-#: src/konqmainwindow.cpp:3874 src/konqmainwindow.cpp:3877
+#: src/konqmainwindow.cpp:3788 src/konqmainwindow.cpp:3791
 msgid "L&ocation: "
 msgstr "ଅବସ୍ଥାନ (&o): "
 
-#: src/konqmainwindow.cpp:3884
+#: src/konqmainwindow.cpp:3798
 msgid "Location Bar"
 msgstr "ଅବସ୍ଥାନ ପଟି"
 
-#: src/konqmainwindow.cpp:3890
+#: src/konqmainwindow.cpp:3804
 msgid ""
 "<html>Location Bar<br /><br />Enter a web address or search term.</html>"
 msgstr ""
 "<html>ଅବସ୍ଥାନ ପଟି<br /><br />ଗୋଟିଏ ୱେବ ଠିକଣା କିମ୍ବା ସନ୍ଧାନ ବସ୍ତୁ ଭରଣ କରନ୍ତୁ।</html>"
 
-#: src/konqmainwindow.cpp:3894
+#: src/konqmainwindow.cpp:3808
 msgid "Clear Location Bar"
 msgstr "ଅବସ୍ଥାନ ପଟି ସଫାକରନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:3898
+#: src/konqmainwindow.cpp:3812
 msgid ""
 "<html>Clear Location bar<br /><br />Clears the contents of the location bar."
 "</html>"
 msgstr ""
 "<html>ଅବସ୍ଥାନ ପଟି ସଫାକରନ୍ତୁ<br /><br />ଅବସ୍ଥାନ ପଟିର ସମସ୍ତ ବିଷୟବସ୍ତୁକୁ ସଫାକରନ୍ତୁ।</html>"
 
-#: src/konqmainwindow.cpp:3903
+#: src/konqmainwindow.cpp:3817
 msgid "&Bookmarks"
 msgstr "ଚିହ୍ନିତ ସ୍ଥାନ (&B)"
 
-#: src/konqmainwindow.cpp:3931
+#: src/konqmainwindow.cpp:3845
 msgid "Kon&queror Introduction"
 msgstr "Konqueror ବର୍ଣ୍ଣନା (&q)"
 
-#: src/konqmainwindow.cpp:3936
+#: src/konqmainwindow.cpp:3850
 msgid "Go"
 msgstr "ଯାଆନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:3938
+#: src/konqmainwindow.cpp:3852
 msgid ""
 "<html>Go<br /><br />Goes to the page that has been entered into the location "
 "bar.</html>"
 msgstr "<html>ଯାଆନ୍ତୁ<br /><br />ଅବସ୍ଥାନ ପଟିରେ ଭରଣ ହୋଇଥିବା ପୃଷ୍ଠାକୁ ଯାଇଥାଏ।</html>"
 
-#: src/konqmainwindow.cpp:3944
+#: src/konqmainwindow.cpp:3858
 #, kde-format
 msgid ""
 "<html>Enter the parent folder<br /><br />For instance, if the current "
@@ -1706,23 +1702,23 @@ msgstr ""
 "ଫାଇଲ ହୋଇଥାଏ:/home/%1 ଏହି ବଟନକୁ କ୍ଲିକ କରିବା ଦ୍ୱାରା ଆପଣଙ୍କୁ:/home ଫାଇଲକୁ ନେଇଯାଇଥାଏ।</"
 "html>"
 
-#: src/konqmainwindow.cpp:3947
+#: src/konqmainwindow.cpp:3861
 msgid "Enter the parent folder"
 msgstr "ମୂଖ୍ୟ ଫୋଲଡ଼ରକୁ ଭରଣ କରନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:3949 src/konqmainwindow.cpp:3950
+#: src/konqmainwindow.cpp:3863 src/konqmainwindow.cpp:3864
 msgid "Move backwards one step in the browsing history"
 msgstr "ବ୍ରାଉଜିଙ୍ଗ ପୁରୁଣା ତଥ୍ୟରେ ଗୋଟିଏ ପାଦ ପଛକୁ ଯାଆନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:3952 src/konqmainwindow.cpp:3953
+#: src/konqmainwindow.cpp:3866 src/konqmainwindow.cpp:3867
 msgid "Move forward one step in the browsing history"
 msgstr "ବ୍ରାଉଜିଙ୍ଗ ପୁରୁଣା ତଥ୍ୟରେ ଗୋଟିଏ ପାଦ ଆଗକୁ ଯାଆନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:3955 src/konqmainwindow.cpp:3956
+#: src/konqmainwindow.cpp:3869 src/konqmainwindow.cpp:3870
 msgid "Move backwards one step in the closed tabs history"
 msgstr "ବନ୍ଦ ଥିବା ପୁରୁଣା ତଥ୍ୟରେ ଗୋଟିଏ ପାଦ ପଛକୁ ଯାଆନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:3958
+#: src/konqmainwindow.cpp:3872
 msgid ""
 "<html>Reload the currently displayed document<br /><br />This may, for "
 "example, be needed to refresh web pages that have been modified since they "
@@ -1732,11 +1728,11 @@ msgstr ""
 "ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ଦୃଶ୍ୟମାନ କରିବା ପାଇଁ, ଧାରଣ ହେବା ପରଠୁଁ ପରିବର୍ତ୍ତିତ ହୋଇୱନଥିବା ୱେବ ପୃଷ୍ଠାଗୁଡ଼ିକୁ ସତେଜନ "
 "କରିବା ପାଇଁ ଆବଶ୍ୟକ ହୋଇପାରେ।</html>"
 
-#: src/konqmainwindow.cpp:3961
+#: src/konqmainwindow.cpp:3875
 msgid "Reload the currently displayed document"
 msgstr "ବର୍ତ୍ତମାନ ପ୍ରଦର୍ଶିତ ଦଲିଲକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:3963
+#: src/konqmainwindow.cpp:3877
 msgid ""
 "<html>Reload all currently displayed documents in tabs<br /><br />This may, "
 "for example, be needed to refresh web pages that have been modified since "
@@ -1746,11 +1742,11 @@ msgstr ""
 "ସ୍ୱରୂପ, ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ଦୃଶ୍ୟମାନ କରିବା ପାଇଁ, ଧାରଣ ହେବା ପରଠୁଁ ପରିବର୍ତ୍ତିତ ହୋଇୱନଥିବା ୱେବ ପୃଷ୍ଠାଗୁଡ଼ିକୁ "
 "ସତେଜନ କରିବା ପାଇଁ ଆବଶ୍ୟକ ହୋଇପାରେ।</html>"
 
-#: src/konqmainwindow.cpp:3966
+#: src/konqmainwindow.cpp:3880
 msgid "Reload all currently displayed document in tabs"
 msgstr "ବର୍ତ୍ତମାନ ପ୍ରଦର୍ଶିତ ସମସ୍ତ ଦଲିଲକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:3968
+#: src/konqmainwindow.cpp:3882
 msgid ""
 "<html>Stop loading the document<br /><br />All network transfers will be "
 "stopped and Konqueror will display the content that has been received so far."
@@ -1759,7 +1755,7 @@ msgstr ""
 "<html>ଦଲିଲ ଧାରଣ କରିବା ବନ୍ଦ କରନ୍ତୁ<br /><br />ସମସ୍ତ ନେଟୱର୍କ ସ୍ଥାନାନ୍ତରଣ ବନ୍ଦ ହୋଇଥିଲା ଏବଂ "
 "ଏପର୍ଯ୍ୟନ୍ତ ଗ୍ରହଣ କରାଯାଇଥିବା Konqueror ବିଷୟବସ୍ତୁକୁ ଦର୍ଶାଇଥାଏ।</html>"
 
-#: src/konqmainwindow.cpp:3972
+#: src/konqmainwindow.cpp:3886
 #, fuzzy
 #| msgid ""
 #| "<html>Reload the currently displayed document<br /><br />This may, for "
@@ -1777,18 +1773,18 @@ msgstr ""
 "କରିବା ପାଇଁ ଆବଶ୍ୟକ ହୋଇପାରେ।  ସେହି ପୃଷ୍ଠାରେ ଥିବା ଯେକୌଣସି ପ୍ରତିଛବିକୁ ପୁଣିଥରେ ଆହରଣ କରାଯାଇଥାଏ, "
 "ଯଦିଚ କ୍ୟାଶେ ନକଲଗୁଡ଼ିକ ଅବସ୍ଥିତ ଥାଏ।</html>"
 
-#: src/konqmainwindow.cpp:3976
+#: src/konqmainwindow.cpp:3890
 msgid ""
 "Force a reload of the currently displayed document and any contained images"
 msgstr ""
 "ବର୍ତ୍ତମାନ ଦର୍ଶାଯାଇଥିବା ଦଲିଲ ଏବଂ ଯେକୌଣସି ଧାରଣ କରାଯାଇଥିବା ପ୍ରତିଛବିଗୁଡ଼ିକୁ ପୁନର୍ଧାରଣ କରିବାକୁ "
 "ବାଧ୍ଯକରନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:3978
+#: src/konqmainwindow.cpp:3892
 msgid "Stop loading the document"
 msgstr "ଦଲିଲ ଧାରଣ କରିବା ବନ୍ଦ କରନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:3980
+#: src/konqmainwindow.cpp:3894
 msgid ""
 "<html>Cut the currently selected text or item(s) and move it to the system "
 "clipboard<br /><br />This makes it available to the <b>Paste</b> command in "
@@ -1798,11 +1794,11 @@ msgstr ""
 "><br />ଏହା<b>ଲଗାନ୍ତୁ</b> ନିର୍ଦ୍ଦେଶକୁ Konqueror ଏବଂ ଅନ୍ୟାନ୍ୟ KDE ପ୍ରୟୋଗଗୁଡ଼ିକରେ ଉପଲବ୍ଧ "
 "କରିଥାଏ।</html>"
 
-#: src/konqmainwindow.cpp:3984
+#: src/konqmainwindow.cpp:3898
 msgid "Move the selected text or item(s) to the clipboard"
 msgstr "ବଚ୍ଛିତ ପାଠ୍ୟ ଏବଂ ବସ୍ତୁ(ଗୁଡ଼ିକୁ) କ୍ଲିପବୋର୍ଡ଼କୁ ପଠାନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:3986
+#: src/konqmainwindow.cpp:3900
 msgid ""
 "<html>Copy the currently selected text or item(s) to the system "
 "clipboard<br /><br />This makes it available to the <b>Paste</b> command in "
@@ -1812,11 +1808,11 @@ msgstr ""
 "ପଠାନ୍ତୁ<br /><br />ଏହା<b>ଲଗାନ୍ତୁ</b> ନିର୍ଦ୍ଦେଶକୁ Konqueror ଏବଂ ଅନ୍ୟାନ୍ୟ KDE ପ୍ରୟୋଗଗୁଡ଼ିକରେ "
 "ଉପଲବ୍ଧ କରିଥାଏ।</html>"
 
-#: src/konqmainwindow.cpp:3990
+#: src/konqmainwindow.cpp:3904
 msgid "Copy the selected text or item(s) to the clipboard"
 msgstr "ବଚ୍ଛିତ ପାଠ୍ୟ କିମ୍ବା ବସ୍ତୁ(ଗୁଡ଼ିକୁ) କ୍ଲିପବୋର୍ଡ଼ରେ ନକଲ କରନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:3992
+#: src/konqmainwindow.cpp:3906
 msgid ""
 "<html>Paste the previously cut or copied clipboard contents<br /><br />This "
 "also works for text copied or cut from other KDE applications.</html>"
@@ -1824,11 +1820,11 @@ msgstr ""
 "<html>ପୂର୍ବୂରୁ କଟାଯାଇଥିବା କିମ୍ବା ନକଲ କରାଯାଇଥିବା କ୍ଲିପବୋର୍ଡ଼ ବିଷୟବସ୍ତୁଗୁଡ଼ିକୁ ଲଗାନ୍ତୁ<br /><br /"
 ">ଏହା ଅନ୍ୟାନ୍ୟ KDE ପ୍ରୟୋଗଗୁଡ଼ିକରୁ ନକଲ କିମ୍ବା କଟାଯାଇଥିବା ପାଠ୍ୟ ପାଇଁ ମଧ୍ଯ କାମ କରିଥାଏ।</html>"
 
-#: src/konqmainwindow.cpp:3995
+#: src/konqmainwindow.cpp:3909
 msgid "Paste the clipboard contents"
 msgstr "କ୍ଲିପବୋର୍ଡ଼ ବିଷୟବସ୍ତୁଗୁଡ଼ିକୁ ଲଗାନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:3997
+#: src/konqmainwindow.cpp:3911
 msgid ""
 "<html>Print the currently displayed document<br /><br />You will be "
 "presented with a dialog where you can set various options, such as the "
@@ -1837,15 +1833,11 @@ msgid ""
 "file from the current document.</html>"
 msgstr ""
 
-#: src/konqmainwindow.cpp:4003
+#: src/konqmainwindow.cpp:3917
 msgid "Print the current document"
 msgstr "ପ୍ରଚଳିତ ଦଲିଲକୁ ମୁଦ୍ରଣ କରନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:4007
-msgid "If present, open index.html when entering a folder."
-msgstr "ଯଦି ଉପସ୍ଥିତ ଅଛି, ତେବେ ଫୋଲଡ଼ର ଭିତରେ ପ୍ରବେଶ କରିବା ସମୟରେ index.html କୁ ଖୋଲନ୍ତୁ।"
-
-#: src/konqmainwindow.cpp:4008
+#: src/konqmainwindow.cpp:3919
 msgid ""
 "A locked view cannot change folders. Use in combination with 'link view' to "
 "explore many files from one folder"
@@ -1853,7 +1845,7 @@ msgstr ""
 "ଗୋଟିଏ ଅପରିବର୍ତ୍ତିତ ଦୃଶ୍ଯ ଫୋଲଡ଼ରକୁ ପରିବର୍ତ୍ତନ କରିପାରିବ ନାହିଁ। ଗୋଟିଏ ଫୋଲଡ଼ରରୁ ଅନେକ ଫାଇଲ ଖୋଲିବା ପାଇଁ "
 "'ସଂଯୋଗ ଦୃଶ୍ୟ' ସହିତ ବ୍ୟବହାର କରନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:4009
+#: src/konqmainwindow.cpp:3920
 msgid ""
 "Sets the view as 'linked'. A linked view follows folder changes made in "
 "other linked views."
@@ -1861,15 +1853,15 @@ msgstr ""
 "ଦୃଶ୍ୟକୁ 'ସଂଯୁକ୍ତ' ଆକାରରେ ସେଟ କରନ୍ତୁ। ଗୋଟିଏ ସଂଯୁକ୍ତ ଦୃଶ୍ୟ ଅନ୍ୟ ସଂଯୁକ୍ତ ଦୃଶ୍ୟଗୁଡ଼ିକରେ ଫୋଲଡ଼ର "
 "ପରିବର୍ତ୍ତନକୁ ଅନୁସରଣ କରିଥାଏ।"
 
-#: src/konqmainwindow.cpp:4186
+#: src/konqmainwindow.cpp:4081
 msgid "Copy &Files..."
 msgstr "ଫାଇଲଗୁଡ଼ିକୁ ନକଲ କରନ୍ତୁ (&F)..."
 
-#: src/konqmainwindow.cpp:4190
+#: src/konqmainwindow.cpp:4085
 msgid "M&ove Files..."
 msgstr "ଫାଇଲଗୁଡ଼ିକୁ ଗତିକରାନ୍ତୁ (&M)..."
 
-#: src/konqmainwindow.cpp:4520
+#: src/konqmainwindow.cpp:4414
 msgid ""
 "You have requested to open more than 20 bookmarks in tabs. This might take a "
 "while. Continue?"
@@ -1877,64 +1869,64 @@ msgstr ""
 "ଆପଣ ଟ୍ୟାବରେ 20ରୁ ଅଧିକ ଚିହ୍ନିତ ସ୍ଥାନ ଖୋଲିବା ପାଇଁ ଅନୁରୋଧ କରିଥିଲେ। ଏଥିପାଇଁହୁଏତ କିଛି ସମୟ ଲାଗିପାରେ। "
 "ଆଗକୁ ବଢ଼ିବେ କି?"
 
-#: src/konqmainwindow.cpp:4522
+#: src/konqmainwindow.cpp:4416
 #, fuzzy
 #| msgid "Open bookmarks folder in new tabs"
 msgctxt "@title:window"
 msgid "Open bookmarks folder in new tabs"
 msgstr "ନୂତନ ଟ୍ୟାବଗୁଡ଼ିକରେ ଚିହ୍ନିତ ସ୍ଥାନ ଫୋଲଡ଼ର ଖୋଲନ୍ତୁ "
 
-#: src/konqmainwindow.cpp:4702
+#: src/konqmainwindow.cpp:4596
 msgid "Open in T&his Window"
 msgstr "ଏହି ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ (&h)"
 
-#: src/konqmainwindow.cpp:4703
+#: src/konqmainwindow.cpp:4597
 msgid "Open the document in current window"
 msgstr "ଦଲିଲକୁ ପ୍ରଚଳିତ ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:4710
+#: src/konqmainwindow.cpp:4604
 msgid "Open the document in a new window"
 msgstr "ଦଲିଲକୁ ଗୋଟିଏ ନୂତନ ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:4716
+#: src/konqmainwindow.cpp:4610
 msgid "Open in &New Tab"
 msgstr "ନୂତନ ଟ୍ୟାବରେ ଖୋଲନ୍ତୁ (&N)"
 
-#: src/konqmainwindow.cpp:4718
+#: src/konqmainwindow.cpp:4612
 msgid "Open the document in a new tab"
 msgstr "ଦଲିଲକୁ ଗୋଟିଏ ନୂତନ ଟ୍ୟାବରେ ଖୋଲନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:4924
+#: src/konqmainwindow.cpp:4816
 msgid "&Open With"
 msgstr "ଏହା ସହିତ ଖୋଲନ୍ତୁ (&O)"
 
-#: src/konqmainwindow.cpp:4937
+#: src/konqmainwindow.cpp:4829
 #, kde-format
 msgid "Open with %1"
 msgstr "%1 ସହିତ ଖୋଲନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:4985
+#: src/konqmainwindow.cpp:4877
 msgctxt "@action:inmenu View"
 msgid "&View Mode"
 msgstr "ଦୃଶ୍ୟ ଅବସ୍ଥା (&V)"
 
-#: src/konqmainwindow.cpp:5112
+#: src/konqmainwindow.cpp:5004
 msgid ""
 "You have multiple tabs open in this window, are you sure you want to quit?"
 msgstr "ଏହି ୱିଣ୍ଡୋରେ ଏକାଧିକ ଟ୍ୟାବ ଖୋଲାଅଛି, ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ବିଦାୟ ନେବାକୁ ଚାହୁଁଛନ୍ତି?"
 
-#: src/konqmainwindow.cpp:5114
+#: src/konqmainwindow.cpp:5006
 #, fuzzy
 #| msgid "Confirmation"
 msgctxt "@title:window"
 msgid "Confirmation"
 msgstr "ନିଶ୍ଚିତକରଣ"
 
-#: src/konqmainwindow.cpp:5116
+#: src/konqmainwindow.cpp:5008
 msgid "C&lose Current Tab"
 msgstr "ପ୍ରଚଳିତ ଟ୍ୟାବକୁ ଖୋଲନ୍ତୁ (&l)"
 
-#: src/konqmainwindow.cpp:5140
+#: src/konqmainwindow.cpp:5032
 msgid ""
 "This tab contains changes that have not been submitted.\n"
 "Closing the window will discard these changes."
@@ -1942,7 +1934,7 @@ msgstr ""
 "ଏହି ଟ୍ୟାବରେ ଦାଖଲ ହୋଇନଥିବା ପରିବର୍ତ୍ତନଗୁଡ଼ିକ ସଂରକ୍ଷିତ ଅଛି।\n"
 "ବନ୍ଦ କରିବା ଦ୍ୱାରା ଏହି ପରିବର୍ତ୍ତନଗୁଡ଼ିକ ବାତିଲ ହୋଇଯିବ।"
 
-#: src/konqmainwindow.cpp:5141
+#: src/konqmainwindow.cpp:5033
 msgid ""
 "This page contains changes that have not been submitted.\n"
 "Closing the window will discard these changes."
@@ -1950,32 +1942,32 @@ msgstr ""
 "ଏହି ପୃଷ୍ଠା ଦାଖଲ ହୋଇନଥିବା ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ଧାରଣ କରିଥାଏ\n"
 "ୱିଣ୍ଡୋକୁ ବନ୍ଦ କରିବା ଦ୍ୱାରା ଏହି ପରିବର୍ତ୍ତନଗୁଡ଼ିକ ବାତିଲ ହୋଇଯିବ।"
 
-#: src/konqmainwindow.cpp:5312
+#: src/konqmainwindow.cpp:5204
 msgid ""
 "Your sidebar is not functional or unavailable. A new entry cannot be added."
 msgstr "ଆପଣଙ୍କର ପାର୍ଶ୍ୱପଟି କାମ କରୁନାହିଁ କିମ୍ୱା ଉପଲବ୍ଧ ନାହିଁ। ନୂତନ ଭରଣ ଯୋଗକରାଯାଇ ପାରିବ ନାହିଁ।"
 
-#: src/konqmainwindow.cpp:5312 src/konqmainwindow.cpp:5319
+#: src/konqmainwindow.cpp:5204 src/konqmainwindow.cpp:5211
 #, fuzzy
 #| msgid "Web Sidebar"
 msgctxt "@title:window"
 msgid "Web Sidebar"
 msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି"
 
-#: src/konqmainwindow.cpp:5317
+#: src/konqmainwindow.cpp:5209
 #, kde-format
 msgid "Add new web extension \"%1\" to your sidebar?"
 msgstr "ଆପଣଙ୍କ ପାର୍ଶ୍ୱପଟିରେ ନୂତନ ୱେବ ଅନୁଲଗ୍ନ ଯୋଗକରିବେ କି \"%1\"?"
 
-#: src/konqmainwindow.cpp:5319
+#: src/konqmainwindow.cpp:5211
 msgid "Add"
 msgstr "ଯୋଗ କରନ୍ତୁ"
 
-#: src/konqmainwindow.cpp:5319
+#: src/konqmainwindow.cpp:5211
 msgid "Do Not Add"
 msgstr "ଯୋଗ କରନ୍ତୁ ନାହିଁ"
 
-#: src/konqmainwindow.cpp:5671
+#: src/konqmainwindow.cpp:5563
 #, kde-format
 msgid ""
 "There appears to be a configuration error. You have associated Konqueror "
@@ -2058,7 +2050,7 @@ msgstr "ଅପସାରଣ କରନ୍ତୁ"
 
 #. i18n: ectx: property (text), widget (QCheckBox, m_pOpenTabsInsideCurrentWindow)
 #. i18n: ectx: label, entry, group (Trash)
-#: src/konqsessiondlg_base.ui:72 src/konqueror.kcfg:531
+#: src/konqsessiondlg_base.ui:72 src/konqueror.kcfg:524
 msgid "Open tabs inside current window"
 msgstr "ଏହି ୱିଣ୍ଡୋ ଭିତରେ ଟ୍ୟାବଗୁଡ଼ିକୁ ଖୋଲନ୍ତୁ"
 
@@ -2241,17 +2233,17 @@ msgid "This is the font used to display text in Konqueror windows."
 msgstr ""
 
 #. i18n: ectx: label, entry, group (HistorySettings)
-#: src/konqueror.kcfg:317
+#: src/konqueror.kcfg:310
 msgid "Maximum number of history items per view"
 msgstr ""
 
 #. i18n: ectx: label, entry, group (Trash)
-#: src/konqueror.kcfg:518
+#: src/konqueror.kcfg:511
 msgid "Ask confirmation for deleting a file."
 msgstr ""
 
 #. i18n: ectx: whatsthis, entry, group (Trash)
-#: src/konqueror.kcfg:519
+#: src/konqueror.kcfg:512
 msgid ""
 "This option tells Konqueror whether to ask for a confirmation when you "
 "delete a file without using the trash folder. Warning, deleted files can not "
@@ -2259,19 +2251,19 @@ msgid ""
 msgstr ""
 
 #. i18n: ectx: label, entry, group (Trash)
-#: src/konqueror.kcfg:524
+#: src/konqueror.kcfg:517
 msgid "Ask confirmation for move to trash"
 msgstr ""
 
 #. i18n: ectx: whatsthis, entry, group (Trash)
-#: src/konqueror.kcfg:525
+#: src/konqueror.kcfg:518
 msgid ""
 "This option tells Konqueror whether to ask for a confirmation when you move "
 "the file to your trash folder, from where it can be recovered very easily."
 msgstr ""
 
 #. i18n: ectx: whatsthis, entry, group (Trash)
-#: src/konqueror.kcfg:532
+#: src/konqueror.kcfg:525
 msgid ""
 "If true, when opening a session from within the sessions dialog the tabs "
 "will be opened inside current window."
@@ -2345,23 +2337,29 @@ msgstr "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ (&o): ବନ୍
 msgid "Und&o"
 msgstr ""
 
-#: src/konqview.cpp:1264
+#: src/konqview.cpp:1263
 msgid ""
 "The page you are trying to view is the result of posted form data. If you "
 "resend the data, any action the form carried out (such as search or online "
 "purchase) will be repeated. "
 msgstr ""
 
-#: src/konqview.cpp:1266
+#: src/konqview.cpp:1265
 #, fuzzy
 #| msgid "Warning"
 msgctxt "@title:window"
 msgid "Warning"
 msgstr "ଚେତାବନି"
 
-#: src/konqview.cpp:1266
+#: src/konqview.cpp:1265
 msgid "Resend"
 msgstr "ପୁଣି ପଠାନ୍ତୁ"
+
+#~ msgid "&Use index.html"
+#~ msgstr "index.htmlକୁ ବ୍ୟବହାର କରନ୍ତୁ (&U)"
+
+#~ msgid "If present, open index.html when entering a folder."
+#~ msgstr "ଯଦି ଉପସ୍ଥିତ ଅଛି, ତେବେ ଫୋଲଡ଼ର ଭିତରେ ପ୍ରବେଶ କରିବା ସମୟରେ index.html କୁ ଖୋଲନ୍ତୁ।"
 
 #, fuzzy
 #~| msgid "Faster Startup?"
