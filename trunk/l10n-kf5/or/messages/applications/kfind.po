@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kfindpart\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-08-04 07:31+0000\n"
+"POT-Creation-Date: 2016-09-23 07:02+0000\n"
 "PO-Revision-Date: 2009-01-02 11:47+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -57,61 +57,61 @@ msgstr ""
 msgid "Could not find the specified folder."
 msgstr ""
 
-#: kfindtreeview.cpp:54
+#: kfindtreeview.cpp:55
 msgid "Read-write"
 msgstr ""
 
-#: kfindtreeview.cpp:55
+#: kfindtreeview.cpp:56
 msgid "Read-only"
 msgstr ""
 
-#: kfindtreeview.cpp:56
+#: kfindtreeview.cpp:57
 msgid "Write-only"
 msgstr ""
 
-#: kfindtreeview.cpp:57
+#: kfindtreeview.cpp:58
 msgid "Inaccessible"
 msgstr ""
 
-#: kfindtreeview.cpp:76
+#: kfindtreeview.cpp:77
 msgctxt "file name column"
 msgid "Name"
 msgstr ""
 
-#: kfindtreeview.cpp:78
+#: kfindtreeview.cpp:79
 msgctxt "name of the containing folder"
 msgid "In Subfolder"
 msgstr ""
 
-#: kfindtreeview.cpp:80
+#: kfindtreeview.cpp:81
 msgctxt "file size column"
 msgid "Size"
 msgstr ""
 
-#: kfindtreeview.cpp:82
+#: kfindtreeview.cpp:83
 msgctxt "modified date column"
 msgid "Modified"
 msgstr ""
 
-#: kfindtreeview.cpp:84
+#: kfindtreeview.cpp:85
 msgctxt "file permissions column"
 msgid "Permissions"
 msgstr ""
 
-#: kfindtreeview.cpp:86
+#: kfindtreeview.cpp:87
 msgctxt "first matching line of the query string in this file"
 msgid "First Matching Line"
 msgstr ""
 
-#: kfindtreeview.cpp:354
+#: kfindtreeview.cpp:355
 msgid "&Open containing folder(s)"
 msgstr ""
 
-#: kfindtreeview.cpp:358
+#: kfindtreeview.cpp:359
 msgid "&Delete"
 msgstr ""
 
-#: kfindtreeview.cpp:362
+#: kfindtreeview.cpp:363
 msgid "&Move to Trash"
 msgstr ""
 
@@ -140,6 +140,10 @@ msgstr ""
 #, kde-format
 msgctxt "%1=filename"
 msgid "Results were saved to: %1"
+msgstr ""
+
+#: kfindtreeview.cpp:585 kftabdlg.cpp:406
+msgid "&Properties"
 msgstr ""
 
 #: kftabdlg.cpp:78
@@ -349,10 +353,6 @@ msgstr ""
 #: kftabdlg.cpp:405
 msgctxt "tab name: search by contents"
 msgid "C&ontents"
-msgstr ""
-
-#: kftabdlg.cpp:406
-msgid "&Properties"
 msgstr ""
 
 #: kftabdlg.cpp:411
