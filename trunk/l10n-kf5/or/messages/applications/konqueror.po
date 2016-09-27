@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-09-23 07:02+0000\n"
+"POT-Creation-Date: 2016-09-27 07:48+0000\n"
 "PO-Revision-Date: 2008-12-26 16:53+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -407,12 +407,10 @@ msgstr ""
 msgid ""
 "Divide et impera (lat. \"Divide and conquer\") - by splitting a window into "
 "two parts (e.g. Window -> <img width='16' height='16' src=\"%1\" /> Split "
-"View Left/Right) you can make Konqueror appear the way you like. You can "
-"even load some example view-profiles (e.g. Midnight Commander), or create "
-"your own ones."
+"View Left/Right) you can make Konqueror appear the way you like."
 msgstr ""
 
-#: about/konq_aboutpage.cpp:325
+#: about/konq_aboutpage.cpp:323
 #, kde-format
 msgid ""
 "Use the <a href=\"%1\">user-agent</a> feature if the website you are "
@@ -420,7 +418,7 @@ msgid ""
 "complaint to the webmaster!)"
 msgstr ""
 
-#: about/konq_aboutpage.cpp:328
+#: about/konq_aboutpage.cpp:326
 #, fuzzy, kde-format
 #| msgid ""
 #| "The <img width='16' height='16' src=\"%1\"></img> History in your SideBar "
@@ -432,7 +430,7 @@ msgstr ""
 "ଆପଣଙ୍କ ପାର୍ଶ୍ୱପଟିରେ <img ଓସାର='16' ଉଚ୍ଚତା='16' src=\"%1\"></img> ପୁରୁଣା ତଥ୍ୟ ନିଶ୍ଚିତ ଯେ "
 "ଆପଣ ନିକଟରେ ପରିଦର୍ଶନ କରିଥିବା ପୃଷ୍ଠାଗୁଡ଼ିକୁ ମନେରଖିପାରିବେ।"
 
-#: about/konq_aboutpage.cpp:330
+#: about/konq_aboutpage.cpp:328
 #, kde-format
 msgid ""
 "Use a caching <a href=\"%1\">proxy</a> to speed up your Internet connection."
@@ -440,7 +438,7 @@ msgstr ""
 "ଆପଣଙ୍କ ଇଣ୍ଟରନେଟ ସଂଯୋଗକୁ ତୀବ୍ର କରିବା ପାଇଁ ଗୋଟିଏ କ୍ୟାଶିଙ୍ଗ <a href=\"%1\">ପ୍ରକ୍ସି</a>କୁ "
 "ବ୍ୟବହାର କରନ୍ତୁ।"
 
-#: about/konq_aboutpage.cpp:332
+#: about/konq_aboutpage.cpp:330
 #, kde-format
 msgid ""
 "Advanced users will appreciate the Konsole which you can embed into "
@@ -448,23 +446,23 @@ msgid ""
 "Terminal Emulator)."
 msgstr ""
 
-#: about/konq_aboutpage.cpp:336
+#: about/konq_aboutpage.cpp:334
 msgid "Next: Specifications"
 msgstr "ପରବର୍ତ୍ତ: ନିର୍ଦ୍ଧିଷ୍ଟକ ସୂଚନାଗୁଡ଼ିକ"
 
-#: about/konq_aboutpage.cpp:350
+#: about/konq_aboutpage.cpp:348
 msgid "Installed Plugins"
 msgstr "ସ୍ଥାପିତ ପ୍ଲଗଇନଗୁଡ଼ିକ"
 
-#: about/konq_aboutpage.cpp:351
+#: about/konq_aboutpage.cpp:349
 msgid "<td>Plugin</td><td>Description</td><td>File</td><td>Types</td>"
 msgstr "<td>ପ୍ଲଗଇନ</td><td>ବର୍ଣ୍ଣନା</td><td>ପାଇଲ</td><td>ପ୍ରକାର</td>"
 
-#: about/konq_aboutpage.cpp:352
+#: about/konq_aboutpage.cpp:350
 msgid "Installed"
 msgstr "ସ୍ଥାପିତ"
 
-#: about/konq_aboutpage.cpp:353
+#: about/konq_aboutpage.cpp:351
 msgid "<td>Mime Type</td><td>Description</td><td>Suffixes</td><td>Plugin</td>"
 msgstr "<td>ମାଇମ ପ୍ରକାର</td><td>ବର୍ଣ୍ଣନା</td><td>ଉପସର୍ଗଗୁଡ଼ିକ</td><td>ପ୍ଲଗଇନ</td>"
 
