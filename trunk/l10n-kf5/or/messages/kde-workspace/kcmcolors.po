@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmcolors\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-08-31 07:16+0000\n"
+"POT-Creation-Date: 2016-10-15 07:47+0000\n"
 "PO-Revision-Date: 2009-01-05 15:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -45,41 +45,41 @@ msgstr "Matthew Woehlke"
 msgid "Jeremy Whiting"
 msgstr "Jeremy Whiting"
 
-#: colorscm.cpp:127 colorscm.cpp:161 colorscm.cpp:409
+#: colorscm.cpp:127 colorscm.cpp:161 colorscm.cpp:402
 msgctxt "Default color scheme"
 msgid "Default"
 msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ"
 
-#: colorscm.cpp:212
+#: colorscm.cpp:211
 msgid "You do not have permission to delete that scheme"
 msgstr "ସେହି ଯୋଜନାକୁ ଅପସାରଣ କରିବା ପାଇଁ ଆପଣଙ୍କ ପାଖରେ ଅନୁମତି ନାହିଁ"
 
-#: colorscm.cpp:212 scmeditordialog.cpp:190
+#: colorscm.cpp:211 scmeditordialog.cpp:194
 msgid "Error"
 msgstr "ତ୍ରୁଟି"
 
-#: colorscm.cpp:220
+#: colorscm.cpp:219
 msgid "Import Color Scheme"
 msgstr "ରଙ୍ଗ ଯୋଜନା ଆମଦାନୀ କରନ୍ତୁ"
 
-#: colorscm.cpp:235
+#: colorscm.cpp:234
 msgid ""
 "The scheme you have selected appears to be a KDE3 scheme.\n"
 "\n"
 "This is not supported anymore."
 msgstr ""
 
-#: colorscm.cpp:237
+#: colorscm.cpp:236
 #, fuzzy
 #| msgid "None"
 msgid "Notice"
 msgstr "କିଛିନୁହଁ"
 
-#: colorscm.cpp:434
+#: colorscm.cpp:427
 msgid "This scheme was not found."
 msgstr ""
 
-#: colorscm.cpp:434
+#: colorscm.cpp:427
 msgid "File not found"
 msgstr ""
 
@@ -681,15 +681,15 @@ msgstr ""
 msgid "Unsaved changes"
 msgstr ""
 
-#: scmeditordialog.cpp:129 scmeditordialog.cpp:156
+#: scmeditordialog.cpp:131 scmeditordialog.cpp:158
 msgid "Save Color Scheme"
 msgstr "ରଙ୍ଗ ଯୋଜନାକୁ ସଂରକ୍ଷଣ କରନ୍ତୁ"
 
-#: scmeditordialog.cpp:130
+#: scmeditordialog.cpp:132
 msgid "&Enter a name for the color scheme:"
 msgstr "ରଙ୍ଗ ଯୋଜନା ପାଇଁ ଗୋଟିଏ ନାମ ଭରଣ କରନ୍ତୁ (&E):"
 
-#: scmeditordialog.cpp:155
+#: scmeditordialog.cpp:157
 msgid ""
 "A color scheme with that name already exists.\n"
 "Do you want to overwrite it?"
@@ -697,11 +697,11 @@ msgstr ""
 "ସେହି ନାମ ବିଶିଷ୍ଟ ଗୋଟିଏ ରଙ୍ଗ ଯୋଜନା ପୂର୍ବରୁ ଅବସ୍ଥିତ ଅଛି।\n"
 "ଆପଣ ଏହାର ନବଲିଖନ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
 
-#: scmeditordialog.cpp:190
+#: scmeditordialog.cpp:194
 msgid "You do not have permission to overwrite that scheme"
 msgstr "ସେହି ଯୋଜନାର ନବଲିଖନ କରିବା ପାଇଁ ଆପଣଙ୍କ ପାଖରେ ଅନୁମତି ନାହିଁ"
 
-#: scmeditordialog.cpp:204
+#: scmeditordialog.cpp:208
 #, fuzzy
 #| msgid "Inactive"
 msgid "Inactive"
