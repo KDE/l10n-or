@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-10-15 08:01+0000\n"
+"POT-Creation-Date: 2016-10-23 07:34+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -741,6 +741,19 @@ msgstr "ସେଟିଙ୍ଗଗୁଡ଼ିକ"
 msgctxt "Name"
 msgid "Web SideBar Module"
 msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି ଏକକାଂଶ"
+
+#: konqueror/webenginepart/src/webenginepart.desktop:3
+msgctxt "Comment"
+msgid "Embeddable HTML component"
+msgstr ""
+
+#: konqueror/webenginepart/src/webenginepart.desktop:6
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Search Engine"
+msgctxt "Name"
+msgid "WebEngine"
+msgstr "ସନ୍ଧାନ ଯନ୍ତ୍ର"
 
 #, fuzzy
 #~| msgctxt "Name"
@@ -2114,10 +2127,6 @@ msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି ଏକକାଂଶ"
 #~ msgctxt "Name"
 #~ msgid "SearchKeywordsFilter"
 #~ msgstr "SearchKeywordsFilter"
-
-#~ msgctxt "Comment"
-#~ msgid "Search Engine"
-#~ msgstr "ସନ୍ଧାନ ଯନ୍ତ୍ର"
 
 #, fuzzy
 #~| msgctxt "Name"

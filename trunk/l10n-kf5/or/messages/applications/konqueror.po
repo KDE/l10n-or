@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-10-21 06:54+0000\n"
+"POT-Creation-Date: 2016-10-23 06:55+0000\n"
 "PO-Revision-Date: 2008-12-26 16:53+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -291,8 +291,7 @@ msgstr "ସାଧାରଣ"
 msgid "Feature"
 msgstr "ବିଶେଷ ଗୁଣ"
 
-#. i18n: ectx: property (title), widget (QGroupBox, gbDetails)
-#: about/konq_aboutpage.cpp:239 sidebar/history_module/history_dlg.ui:128
+#: about/konq_aboutpage.cpp:239
 msgid "Details"
 msgstr "ବିବରଣୀ"
 
@@ -466,445 +465,6 @@ msgstr "ସ୍ଥାପିତ"
 msgid "<td>Mime Type</td><td>Description</td><td>Suffixes</td><td>Plugin</td>"
 msgstr "<td>ମାଇମ ପ୍ରକାର</td><td>ବର୍ଣ୍ଣନା</td><td>ଉପସର୍ଗଗୁଡ଼ିକ</td><td>ପ୍ଲଗଇନ</td>"
 
-#. i18n: ectx: property (title), widget (QGroupBox, gbLimits)
-#: sidebar/history_module/history_dlg.ui:16
-msgid "Limits"
-msgstr "ସୀମା"
-
-#. i18n: ectx: property (text), widget (QCheckBox, cbExpire)
-#: sidebar/history_module/history_dlg.ui:38
-msgid "URLs e&xpire after"
-msgstr "URLଗୁଡ଼ିକ ପରେ ସମୟ ସମାପ୍ତ ହୋଇଥାଏ (&x)"
-
-#. i18n: ectx: property (text), widget (QLabel, lEntries)
-#: sidebar/history_module/history_dlg.ui:48
-msgid "Maximum &number of URLs:"
-msgstr "ସର୍ବାଧିକ ସଂଖ୍ଯକ URL (&n):"
-
-#. i18n: ectx: property (title), widget (QGroupBox, gbFonts)
-#: sidebar/history_module/history_dlg.ui:67
-msgid "Custom Fonts For"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, lbNewer)
-#: sidebar/history_module/history_dlg.ui:82
-msgid "URLs newer than"
-msgstr "URLଗୁଡ଼ିକ ନୂତନତର"
-
-#. i18n: ectx: property (text), widget (QPushButton, btnFontOlder)
-#. i18n: ectx: property (text), widget (QPushButton, btnFontNewer)
-#: sidebar/history_module/history_dlg.ui:98
-#: sidebar/history_module/history_dlg.ui:118
-msgid "Choose Font..."
-msgstr "ଅକ୍ଷରରୂପ ବାଛନ୍ତୁ..."
-
-#. i18n: ectx: property (text), widget (QLabel, lbOlder)
-#: sidebar/history_module/history_dlg.ui:105
-msgid "URLs older than"
-msgstr "URLଗୁଡ଼ିକ ପୁରୁଣା"
-
-#. i18n: ectx: property (toolTip), widget (QCheckBox, cbDetailedTips)
-#: sidebar/history_module/history_dlg.ui:134
-msgid ""
-"Shows the number of times visited and the dates of the first and last "
-"visits, in addition to the URL"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QCheckBox, cbDetailedTips)
-#: sidebar/history_module/history_dlg.ui:137
-msgid "Detailed tooltips"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QPushButton, btnClearHistory)
-#: sidebar/history_module/history_dlg.ui:149
-msgid "Clear History"
-msgstr "ପୁରୁଣା ତଥ୍ୟ ସଫାକରନ୍ତୁ"
-
-#: sidebar/history_module/history_module.cpp:126
-#, fuzzy
-#| msgid "Web Sidebar"
-msgctxt "@action:inmenu Add"
-msgid "History Sidebar Module"
-msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି"
-
-#: sidebar/history_module/history_module.cpp:149
-#, fuzzy
-#| msgid "Clear History"
-msgctxt "@title:tab"
-msgid "History"
-msgstr "ପୁରୁଣା ତଥ୍ୟ ସଫାକରନ୍ତୁ"
-
-#: sidebar/history_module/kcmhistory.cpp:68
-msgid "days"
-msgstr ""
-
-#: sidebar/history_module/kcmhistory.cpp:74
-#: sidebar/history_module/kcmhistory.cpp:79
-#: sidebar/history_module/kcmhistory.cpp:212
-#: sidebar/history_module/kcmhistory.cpp:225
-msgid "Minute"
-msgid_plural "Minutes"
-msgstr[0] "ମିନଟ"
-msgstr[1] "ମିନଟ"
-
-#: sidebar/history_module/kcmhistory.cpp:76
-#: sidebar/history_module/kcmhistory.cpp:81
-#: sidebar/history_module/kcmhistory.cpp:210
-#: sidebar/history_module/kcmhistory.cpp:223
-msgid "Day"
-msgid_plural "Days"
-msgstr[0] "ଦିନ"
-msgstr[1] "ଦିନ"
-
-#: sidebar/history_module/kcmhistory.cpp:195
-msgid "<h1>History Sidebar</h1> You can configure the history sidebar here."
-msgstr "<h1>ପୁରୁଣା ତଥ୍ୟ ପାର୍ଶ୍ୱପଟି</h1> ଆପଣ ଏଠାରେ ପୁରୁଣା ତଥ୍ୟ ପାର୍ଶ୍ୱପଟିକୁ ବିନ୍ୟାସ କରିପାରିବେ। "
-
-#: sidebar/history_module/kcmhistory.cpp:257 src/konqhistoryview.cpp:171
-msgid "Do you really want to clear the entire history?"
-msgstr "ଆପଣ ସମ୍ପୂର୍ଣ୍ଣ ପୁରୁଣା ତଥ୍ଯକୁ ଅପସାରଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
-
-#: sidebar/history_module/kcmhistory.cpp:259 src/konqhistoryview.cpp:172
-#, fuzzy
-#| msgid "Clear History?"
-msgctxt "@title:window"
-msgid "Clear History?"
-msgstr "ପୁରୁଣା ତଥ୍ଯକୁ ଅପସାରଣ କରିବେ କି?"
-
-#: sidebar/places_module/places_module.cpp:116
-#, fuzzy
-#| msgid "Web Sidebar"
-msgctxt "@action:inmenu Add"
-msgid "Places Sidebar Module"
-msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି"
-
-#: sidebar/places_module/places_module.cpp:139
-msgctxt "@title:tab"
-msgid "Places"
-msgstr ""
-
-#: sidebar/sidebar_part.cpp:34
-msgid "Extended Sidebar"
-msgstr "ଅନୁଲମ୍ବିତ ପାର୍ଶ୍ୱପଟି"
-
-#: sidebar/sidebar_part.cpp:35 src/konqfactory.cpp:269
-msgid "Joseph Wenninger"
-msgstr "Joseph Wenninger"
-
-#: sidebar/sidebar_part.cpp:36 src/konqfactory.cpp:236
-msgid "David Faure"
-msgstr "David Faure"
-
-#: sidebar/sidebar_widget.cpp:98
-msgid "Rollback to System Default"
-msgstr "ତନ୍ତ୍ର ପୂର୍ବନିର୍ଦ୍ଧାରିତକୁ ପ୍ରତ୍ୟାବର୍ତ୍ତନ କରନ୍ତୁ"
-
-#: sidebar/sidebar_widget.cpp:159 sidebar/sidebar_widget.cpp:428
-msgid "Configure Sidebar"
-msgstr "ପାର୍ଶ୍ୱପଟି ବିନ୍ୟାସ କରନ୍ତୁ"
-
-#: sidebar/sidebar_widget.cpp:161
-msgid "Add New"
-msgstr "ନୂତନ ଯୋଗ କରନ୍ତୁ"
-
-#: sidebar/sidebar_widget.cpp:165
-msgid "Multiple Views"
-msgstr "ଏକାଧିକ ଦୃଶ୍ୟଗୁଡ଼ିକ"
-
-#: sidebar/sidebar_widget.cpp:167 sidebar/sidebar_widget.cpp:280
-msgid "Show Tabs Left"
-msgstr "ବଳକା ଥିବା ଟ୍ୟାବ ଦର୍ଶାନ୍ତୁ"
-
-#: sidebar/sidebar_widget.cpp:168
-msgid "Show Configuration Button"
-msgstr "ସଂରଚନା ବଟନ ଦର୍ଶାନ୍ତୁ"
-
-#: sidebar/sidebar_widget.cpp:171
-#, fuzzy
-#| msgid "Web Sidebar"
-msgid "Close Sidebar"
-msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି"
-
-#: sidebar/sidebar_widget.cpp:228
-msgid "This entry already exists."
-msgstr "ଏହି ଭରଣଟି ପୂର୍ବରୁ ଅବସ୍ଥିତ ଅଛି।"
-
-#: sidebar/sidebar_widget.cpp:238
-msgid ""
-"<qt>This removes all your entries from the sidebar and adds the system "
-"default ones.<br /><b>This procedure is irreversible</b><br />Do you want to "
-"proceed?</qt>"
-msgstr ""
-
-#: sidebar/sidebar_widget.cpp:280
-msgid "Show Tabs Right"
-msgstr "ଡ଼ାହାଣରେ ଟ୍ୟାବ ଦର୍ଶାନ୍ତୁ"
-
-#: sidebar/sidebar_widget.cpp:290
-#, fuzzy
-#| msgid "Set Name"
-msgctxt "@title:window"
-msgid "Set Name"
-msgstr "ନାମ ସେଟ କରନ୍ତୁ"
-
-#: sidebar/sidebar_widget.cpp:290
-msgid "Enter the name:"
-msgstr "ନାମ ଭରଣ କରନ୍ତୁ:"
-
-#: sidebar/sidebar_widget.cpp:307
-msgid "Enter a URL:"
-msgstr "URL ଭରଣ କରନ୍ତୁ:"
-
-#: sidebar/sidebar_widget.cpp:329
-#, kde-format
-msgid "<qt>Do you really want to remove the <b>%1</b> tab?</qt>"
-msgstr "<qt>କଣ ଆପଣ ନିଶ୍ଚିତ ଭାବରେ<b>%1</b> ଟ୍ୟାବକୁ କାଢ଼ିବାକୁ ଚାହୁଁଛନ୍ତି?</qt>"
-
-#: sidebar/sidebar_widget.cpp:370
-msgid ""
-"You have hidden the sidebar configuration button. To make it visible again, "
-"click the right mouse button on any of the sidebar buttons and select \"Show "
-"Configuration Button\"."
-msgstr ""
-
-#: sidebar/sidebar_widget.cpp:537
-msgid "Set Name..."
-msgstr "ନାମ ସେଟ କରନ୍ତୁ..."
-
-#: sidebar/sidebar_widget.cpp:538
-msgid "Set URL..."
-msgstr "URL ସେଟକରନ୍ତୁ..."
-
-#: sidebar/sidebar_widget.cpp:539
-msgid "Set Icon..."
-msgstr "ଚିତ୍ର ସଂକେତ ସେଟକରନ୍ତୁ..."
-
-#: sidebar/sidebar_widget.cpp:541
-msgid "Remove"
-msgstr "କାଢ଼ି ଦିଅନ୍ତୁ"
-
-#: sidebar/sidebar_widget.cpp:840
-#, fuzzy
-#| msgid "Web Sidebar"
-msgid "Web module"
-msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି"
-
-#: sidebar/trees/bookmark_module/bookmark_module.cpp:75
-msgid "&Create New Folder"
-msgstr "ନୂତନ ଫୋଲଡ଼ର ନିର୍ମାଣ କରନ୍ତୁ (&C)"
-
-#: sidebar/trees/bookmark_module/bookmark_module.cpp:79
-#: sidebar/trees/konq_sidebartree.cpp:197
-msgid "Delete Folder"
-msgstr "ଫୋଲଡ଼ର ଅପସାରଣ କରନ୍ତୁ"
-
-#: sidebar/trees/bookmark_module/bookmark_module.cpp:83
-msgid "Delete Bookmark"
-msgstr "ଚିହ୍ନିତ ସ୍ଥାନ ଅପସାରଣ କରନ୍ତୁ"
-
-#: sidebar/trees/bookmark_module/bookmark_module.cpp:87
-#: sidebar/trees/konq_sidebartree.cpp:214
-msgid "Properties"
-msgstr "ଗୁଣ ଧର୍ମ"
-
-#: sidebar/trees/bookmark_module/bookmark_module.cpp:91
-#: sidebar/trees/konq_sidebartree.cpp:218
-msgid "Open in New Window"
-msgstr "ନୂତନ ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ"
-
-#: sidebar/trees/bookmark_module/bookmark_module.cpp:95
-#: sidebar/trees/konq_sidebartree.cpp:222 src/konqhistoryview.cpp:67
-msgid "Open in New Tab"
-msgstr "ନୂତନ ଟ୍ୟାବରେ ଖୋଲନ୍ତୁ"
-
-#: sidebar/trees/bookmark_module/bookmark_module.cpp:99
-msgid "Open Folder in Tabs"
-msgstr "ଟ୍ୟାବଗୁଡ଼ିକରେ ଫୋଲଡ଼ର ଖୋଲନ୍ତୁ"
-
-#: sidebar/trees/bookmark_module/bookmark_module.cpp:103
-#: sidebar/trees/konq_sidebartree.cpp:226
-msgid "Copy Link Address"
-msgstr "ସଂଯୋଗ ଠିକଣା ନକଲ କରନ୍ତୁ"
-
-#: sidebar/trees/bookmark_module/bookmark_module.cpp:323
-#, fuzzy
-#| msgid "Create New Folder"
-msgctxt "@title:window"
-msgid "Create New Bookmark Folder"
-msgstr "ନୂତନ ଫୋଲଡ଼ର ନିର୍ମାଣ କରନ୍ତୁ"
-
-#: sidebar/trees/bookmark_module/bookmark_module.cpp:324
-#, fuzzy
-#| msgid "New Folder"
-msgid "New folder:"
-msgstr "ନୂତନ ଫୋଲଡ଼ର"
-
-#: sidebar/trees/bookmark_module/bookmark_module.cpp:348
-#, kde-format
-msgid ""
-"Are you sure you wish to remove the bookmark folder\n"
-"\"%1\"?"
-msgstr ""
-"ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ଚିହ୍ନିତ ସ୍ଥାନ ଫୋଲଡ଼ରକୁ ଅପସାରଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି\n"
-"\"%1\"?"
-
-#: sidebar/trees/bookmark_module/bookmark_module.cpp:349
-#, kde-format
-msgid ""
-"Are you sure you wish to remove the bookmark\n"
-"\"%1\"?"
-msgstr ""
-"ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ଚିହ୍ନିତ ସ୍ଥାନକୁ ଅପସାରଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି\n"
-"\"%1\"?"
-
-#: sidebar/trees/bookmark_module/bookmark_module.cpp:350
-#, fuzzy
-#| msgid "Bookmark Folder Deletion"
-msgctxt "@title:window"
-msgid "Bookmark Folder Deletion"
-msgstr "ଚିହ୍ନିତ ସ୍ଥାନ ଫୋଲଡ଼ର ଅପସାରଣ"
-
-#: sidebar/trees/bookmark_module/bookmark_module.cpp:351
-#, fuzzy
-#| msgid "Bookmark Deletion"
-msgctxt "@title:window"
-msgid "Bookmark Deletion"
-msgstr "ଚିହ୍ନିତ ସ୍ଥାନ ଅପସାରଣ"
-
-#: sidebar/trees/bookmark_module/bookmark_module.cpp:396
-#, fuzzy
-#| msgid "Bookmark Properties"
-msgctxt "@title:window"
-msgid "Bookmark Properties"
-msgstr "ଚିହ୍ନିତ ସ୍ଥାନ ଗୁଣଧର୍ମ"
-
-#: sidebar/trees/bookmark_module/bookmark_module.cpp:582
-msgid "&Update"
-msgstr "ଅଦ୍ୟତନ କରନ୍ତୁ (&U)"
-
-#: sidebar/trees/bookmark_module/bookmark_module.cpp:590
-msgid "Name:"
-msgstr "ନାମ:"
-
-#: sidebar/trees/bookmark_module/bookmark_module.cpp:598
-msgid "Location:"
-msgstr "ସ୍ଥାନ:"
-
-#: sidebar/trees/bookmark_module/bookmark_module.h:86
-#, fuzzy
-#| msgid "Add Bookmark"
-msgctxt "@title:window"
-msgid "Add Bookmark"
-msgstr "ଚିହ୍ନିତ ସ୍ଥାନ ଯୋଗକରନ୍ତୁ"
-
-#: sidebar/trees/dirtree_module/dirtree_module.cpp:407
-#, kde-format
-msgid "Cannot find parent item %1 in the tree. Internal error."
-msgstr ""
-
-#: sidebar/trees/konq_sidebartree.cpp:193
-msgid "&Create New Folder..."
-msgstr "ନୂତନ ଫୋଲଡ଼ର ନିର୍ମାଣ କରନ୍ତୁ (&C)..."
-
-#: sidebar/trees/konq_sidebartree.cpp:201
-msgid "Move to Trash"
-msgstr ""
-
-#: sidebar/trees/konq_sidebartree.cpp:205
-msgid "Rename"
-msgstr "ପୁନଃ ନାମକରଣ କରନ୍ତୁ"
-
-#: sidebar/trees/konq_sidebartree.cpp:210
-msgid "Delete Link"
-msgstr "ସଂଯୋଗ ଅପସାରଣ କରନ୍ତୁ"
-
-#: sidebar/trees/konq_sidebartree.cpp:933
-msgid "New Folder"
-msgstr "ନୂତନ ଫୋଲଡ଼ର"
-
-#: sidebar/trees/konq_sidebartree.cpp:936
-#, fuzzy
-#| msgid "Create New Folder"
-msgctxt "@title:window"
-msgid "Create New Folder"
-msgstr "ନୂତନ ଫୋଲଡ଼ର ନିର୍ମାଣ କରନ୍ତୁ"
-
-#: sidebar/trees/konq_sidebartree.cpp:937
-msgid "Enter folder name:"
-msgstr "ଫୋଲଡ଼ର ନାମ ଭରଣ କରନ୍ତୁ:"
-
-#: sidebar/trees/konqsidebar_oldtreemodule.cpp:184
-#: sidebar/web_module/web_module.cpp:298
-#, fuzzy
-#| msgid "Name:"
-msgctxt "@label"
-msgid "Name:"
-msgstr "ନାମ:"
-
-#: sidebar/trees/konqsidebar_oldtreemodule.cpp:184
-#: sidebar/web_module/web_module.cpp:298
-msgctxt "@label"
-msgid "Path or URL:"
-msgstr ""
-
-#: sidebar/trees/konqsidebar_oldtreemodule.cpp:185
-msgctxt "@title:window"
-msgid "Add folder sidebar module"
-msgstr ""
-
-#: sidebar/web_module/web_module.cpp:55
-msgid "&Open Link"
-msgstr "ସଂଯୋଗ ଖୋଲନ୍ତୁ (&O)"
-
-#: sidebar/web_module/web_module.cpp:59 src/konqhistoryview.cpp:62
-#: src/konqmainwindow.cpp:4524
-msgid "Open in New &Window"
-msgstr "ନୂତନ ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ (&W)"
-
-#: sidebar/web_module/web_module.cpp:65 src/konqmainwindow.cpp:3673
-msgid "&Reload"
-msgstr "ପୁନର୍ଧାରଣ କରନ୍ତୁ (&R)"
-
-#: sidebar/web_module/web_module.cpp:70
-msgid "Set &Automatic Reload"
-msgstr "ସ୍ୱୟଂଚାଳିତ ପୁନର୍ଧାରଣ ସେଟକରନ୍ତୁ (&A)"
-
-#: sidebar/web_module/web_module.cpp:134
-#, fuzzy
-#| msgid "Set Refresh Timeout (0 disables)"
-msgctxt "@title:window"
-msgid "Set Refresh Timeout (0 disables)"
-msgstr "ସତେଜନ ସମୟ ସମାପ୍ତ ସେଟକରନ୍ତୁ (0 ନିଷ୍କ୍ରିୟ ହୋଇଛି)"
-
-#: sidebar/web_module/web_module.cpp:142
-#, fuzzy
-#| msgid "Minute"
-#| msgid_plural "Minutes"
-msgid " minute"
-msgid_plural " minutes"
-msgstr[0] "ମିନଟ"
-msgstr[1] "ମିନଟ"
-
-#: sidebar/web_module/web_module.cpp:145
-#, fuzzy
-#| msgid " sec"
-msgid " second"
-msgid_plural " seconds"
-msgstr[0] " ସେକଣ୍ଡ"
-msgstr[1] " ସେକଣ୍ଡ"
-
-#: sidebar/web_module/web_module.cpp:278
-#, fuzzy
-#| msgid "Web Sidebar"
-msgctxt "@action:inmenu Add"
-msgid "Web Sidebar Module"
-msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି"
-
-#: sidebar/web_module/web_module.cpp:299
-msgctxt "@title:window"
-msgid "Add web sidebar module"
-msgstr ""
-
 #: src/konq_statusbarmessagelabel.cpp:82
 #, fuzzy
 #| msgid "Close View"
@@ -962,6 +522,10 @@ msgstr "(C) 1999-2008, Konqueror ବିକାଶକାରୀମାନେ"
 #: src/konqfactory.cpp:235
 msgid "http://konqueror.kde.org"
 msgstr "http://konqueror.kde.org"
+
+#: src/konqfactory.cpp:236
+msgid "David Faure"
+msgstr "David Faure"
 
 #: src/konqfactory.cpp:236
 msgid "Developer (framework, parts, JavaScript, I/O library) and maintainer"
@@ -1180,6 +744,10 @@ msgid "KFM author"
 msgstr "KFM ଲେଖକ"
 
 #: src/konqfactory.cpp:269
+msgid "Joseph Wenninger"
+msgstr "Joseph Wenninger"
+
+#: src/konqfactory.cpp:269
 msgid "Developer (navigation panel framework)"
 msgstr "ବିକାଶକାରୀ (ପଥପ୍ରଦର୍ଶନ ଫଳକ ଫ୍ରେମୱର୍କ)"
 
@@ -1264,6 +832,14 @@ msgstr ""
 msgid "Miscellaneous"
 msgstr "ମିଶ୍ରିତ"
 
+#: src/konqhistoryview.cpp:62 src/konqmainwindow.cpp:4524
+msgid "Open in New &Window"
+msgstr "ନୂତନ ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ (&W)"
+
+#: src/konqhistoryview.cpp:67
+msgid "Open in New Tab"
+msgstr "ନୂତନ ଟ୍ୟାବରେ ଖୋଲନ୍ତୁ"
+
 #: src/konqhistoryview.cpp:71
 #, fuzzy
 #| msgid "Copy Link Address"
@@ -1295,6 +871,17 @@ msgstr "ତାରିଖ ଦ୍ୱାରା (&D)"
 #| msgid "Clear History"
 msgid "Search in history"
 msgstr "ପୁରୁଣା ତଥ୍ୟ ସଫାକରନ୍ତୁ"
+
+#: src/konqhistoryview.cpp:171
+msgid "Do you really want to clear the entire history?"
+msgstr "ଆପଣ ସମ୍ପୂର୍ଣ୍ଣ ପୁରୁଣା ତଥ୍ଯକୁ ଅପସାରଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
+
+#: src/konqhistoryview.cpp:172
+#, fuzzy
+#| msgid "Clear History?"
+msgctxt "@title:window"
+msgid "Clear History?"
+msgstr "ପୁରୁଣା ତଥ୍ଯକୁ ଅପସାରଣ କରିବେ କି?"
 
 #: src/konqmain.cpp:62
 #, fuzzy
@@ -1629,6 +1216,10 @@ msgstr "ଟ୍ୟାବକୁ ଡ଼ାହାଣକୁ ଘୁଞ୍ଚାନ୍�
 #: src/konqmainwindow.cpp:3655
 msgid "Dump Debug Info"
 msgstr "ତ୍ରୁଟି ନିବାରଣ ସୂଚନାକୁ ନିର୍ବୋଧ କରନ୍ତୁ"
+
+#: src/konqmainwindow.cpp:3673
+msgid "&Reload"
+msgstr "ପୁନର୍ଧାରଣ କରନ୍ତୁ (&R)"
 
 #: src/konqmainwindow.cpp:3678 src/konqtabs.cpp:334
 msgid "&Reload All Tabs"
@@ -2361,6 +1952,262 @@ msgstr "ଚେତାବନି"
 #: src/konqview.cpp:1251
 msgid "Resend"
 msgstr "ପୁଣି ପଠାନ୍ତୁ"
+
+#~ msgid "Limits"
+#~ msgstr "ସୀମା"
+
+#~ msgid "URLs e&xpire after"
+#~ msgstr "URLଗୁଡ଼ିକ ପରେ ସମୟ ସମାପ୍ତ ହୋଇଥାଏ (&x)"
+
+#~ msgid "Maximum &number of URLs:"
+#~ msgstr "ସର୍ବାଧିକ ସଂଖ୍ଯକ URL (&n):"
+
+#~ msgid "URLs newer than"
+#~ msgstr "URLଗୁଡ଼ିକ ନୂତନତର"
+
+#~ msgid "Choose Font..."
+#~ msgstr "ଅକ୍ଷରରୂପ ବାଛନ୍ତୁ..."
+
+#~ msgid "URLs older than"
+#~ msgstr "URLଗୁଡ଼ିକ ପୁରୁଣା"
+
+#~ msgid "Clear History"
+#~ msgstr "ପୁରୁଣା ତଥ୍ୟ ସଫାକରନ୍ତୁ"
+
+#, fuzzy
+#~| msgid "Web Sidebar"
+#~ msgctxt "@action:inmenu Add"
+#~ msgid "History Sidebar Module"
+#~ msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି"
+
+#, fuzzy
+#~| msgid "Clear History"
+#~ msgctxt "@title:tab"
+#~ msgid "History"
+#~ msgstr "ପୁରୁଣା ତଥ୍ୟ ସଫାକରନ୍ତୁ"
+
+#~ msgid "Minute"
+#~ msgid_plural "Minutes"
+#~ msgstr[0] "ମିନଟ"
+#~ msgstr[1] "ମିନଟ"
+
+#~ msgid "Day"
+#~ msgid_plural "Days"
+#~ msgstr[0] "ଦିନ"
+#~ msgstr[1] "ଦିନ"
+
+#~ msgid "<h1>History Sidebar</h1> You can configure the history sidebar here."
+#~ msgstr ""
+#~ "<h1>ପୁରୁଣା ତଥ୍ୟ ପାର୍ଶ୍ୱପଟି</h1> ଆପଣ ଏଠାରେ ପୁରୁଣା ତଥ୍ୟ ପାର୍ଶ୍ୱପଟିକୁ ବିନ୍ୟାସ କରିପାରିବେ। "
+
+#, fuzzy
+#~| msgid "Web Sidebar"
+#~ msgctxt "@action:inmenu Add"
+#~ msgid "Places Sidebar Module"
+#~ msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି"
+
+#~ msgid "Extended Sidebar"
+#~ msgstr "ଅନୁଲମ୍ବିତ ପାର୍ଶ୍ୱପଟି"
+
+#~ msgid "Rollback to System Default"
+#~ msgstr "ତନ୍ତ୍ର ପୂର୍ବନିର୍ଦ୍ଧାରିତକୁ ପ୍ରତ୍ୟାବର୍ତ୍ତନ କରନ୍ତୁ"
+
+#~ msgid "Configure Sidebar"
+#~ msgstr "ପାର୍ଶ୍ୱପଟି ବିନ୍ୟାସ କରନ୍ତୁ"
+
+#~ msgid "Add New"
+#~ msgstr "ନୂତନ ଯୋଗ କରନ୍ତୁ"
+
+#~ msgid "Multiple Views"
+#~ msgstr "ଏକାଧିକ ଦୃଶ୍ୟଗୁଡ଼ିକ"
+
+#~ msgid "Show Tabs Left"
+#~ msgstr "ବଳକା ଥିବା ଟ୍ୟାବ ଦର୍ଶାନ୍ତୁ"
+
+#~ msgid "Show Configuration Button"
+#~ msgstr "ସଂରଚନା ବଟନ ଦର୍ଶାନ୍ତୁ"
+
+#, fuzzy
+#~| msgid "Web Sidebar"
+#~ msgid "Close Sidebar"
+#~ msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି"
+
+#~ msgid "This entry already exists."
+#~ msgstr "ଏହି ଭରଣଟି ପୂର୍ବରୁ ଅବସ୍ଥିତ ଅଛି।"
+
+#~ msgid "Show Tabs Right"
+#~ msgstr "ଡ଼ାହାଣରେ ଟ୍ୟାବ ଦର୍ଶାନ୍ତୁ"
+
+#, fuzzy
+#~| msgid "Set Name"
+#~ msgctxt "@title:window"
+#~ msgid "Set Name"
+#~ msgstr "ନାମ ସେଟ କରନ୍ତୁ"
+
+#~ msgid "Enter the name:"
+#~ msgstr "ନାମ ଭରଣ କରନ୍ତୁ:"
+
+#~ msgid "Enter a URL:"
+#~ msgstr "URL ଭରଣ କରନ୍ତୁ:"
+
+#~ msgid "<qt>Do you really want to remove the <b>%1</b> tab?</qt>"
+#~ msgstr "<qt>କଣ ଆପଣ ନିଶ୍ଚିତ ଭାବରେ<b>%1</b> ଟ୍ୟାବକୁ କାଢ଼ିବାକୁ ଚାହୁଁଛନ୍ତି?</qt>"
+
+#~ msgid "Set Name..."
+#~ msgstr "ନାମ ସେଟ କରନ୍ତୁ..."
+
+#~ msgid "Set URL..."
+#~ msgstr "URL ସେଟକରନ୍ତୁ..."
+
+#~ msgid "Set Icon..."
+#~ msgstr "ଚିତ୍ର ସଂକେତ ସେଟକରନ୍ତୁ..."
+
+#~ msgid "Remove"
+#~ msgstr "କାଢ଼ି ଦିଅନ୍ତୁ"
+
+#, fuzzy
+#~| msgid "Web Sidebar"
+#~ msgid "Web module"
+#~ msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି"
+
+#~ msgid "&Create New Folder"
+#~ msgstr "ନୂତନ ଫୋଲଡ଼ର ନିର୍ମାଣ କରନ୍ତୁ (&C)"
+
+#~ msgid "Delete Folder"
+#~ msgstr "ଫୋଲଡ଼ର ଅପସାରଣ କରନ୍ତୁ"
+
+#~ msgid "Delete Bookmark"
+#~ msgstr "ଚିହ୍ନିତ ସ୍ଥାନ ଅପସାରଣ କରନ୍ତୁ"
+
+#~ msgid "Properties"
+#~ msgstr "ଗୁଣ ଧର୍ମ"
+
+#~ msgid "Open in New Window"
+#~ msgstr "ନୂତନ ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ"
+
+#~ msgid "Open Folder in Tabs"
+#~ msgstr "ଟ୍ୟାବଗୁଡ଼ିକରେ ଫୋଲଡ଼ର ଖୋଲନ୍ତୁ"
+
+#~ msgid "Copy Link Address"
+#~ msgstr "ସଂଯୋଗ ଠିକଣା ନକଲ କରନ୍ତୁ"
+
+#, fuzzy
+#~| msgid "Create New Folder"
+#~ msgctxt "@title:window"
+#~ msgid "Create New Bookmark Folder"
+#~ msgstr "ନୂତନ ଫୋଲଡ଼ର ନିର୍ମାଣ କରନ୍ତୁ"
+
+#, fuzzy
+#~| msgid "New Folder"
+#~ msgid "New folder:"
+#~ msgstr "ନୂତନ ଫୋଲଡ଼ର"
+
+#~ msgid ""
+#~ "Are you sure you wish to remove the bookmark folder\n"
+#~ "\"%1\"?"
+#~ msgstr ""
+#~ "ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ଚିହ୍ନିତ ସ୍ଥାନ ଫୋଲଡ଼ରକୁ ଅପସାରଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି\n"
+#~ "\"%1\"?"
+
+#~ msgid ""
+#~ "Are you sure you wish to remove the bookmark\n"
+#~ "\"%1\"?"
+#~ msgstr ""
+#~ "ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ଚିହ୍ନିତ ସ୍ଥାନକୁ ଅପସାରଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି\n"
+#~ "\"%1\"?"
+
+#, fuzzy
+#~| msgid "Bookmark Folder Deletion"
+#~ msgctxt "@title:window"
+#~ msgid "Bookmark Folder Deletion"
+#~ msgstr "ଚିହ୍ନିତ ସ୍ଥାନ ଫୋଲଡ଼ର ଅପସାରଣ"
+
+#, fuzzy
+#~| msgid "Bookmark Deletion"
+#~ msgctxt "@title:window"
+#~ msgid "Bookmark Deletion"
+#~ msgstr "ଚିହ୍ନିତ ସ୍ଥାନ ଅପସାରଣ"
+
+#, fuzzy
+#~| msgid "Bookmark Properties"
+#~ msgctxt "@title:window"
+#~ msgid "Bookmark Properties"
+#~ msgstr "ଚିହ୍ନିତ ସ୍ଥାନ ଗୁଣଧର୍ମ"
+
+#~ msgid "&Update"
+#~ msgstr "ଅଦ୍ୟତନ କରନ୍ତୁ (&U)"
+
+#~ msgid "Name:"
+#~ msgstr "ନାମ:"
+
+#~ msgid "Location:"
+#~ msgstr "ସ୍ଥାନ:"
+
+#, fuzzy
+#~| msgid "Add Bookmark"
+#~ msgctxt "@title:window"
+#~ msgid "Add Bookmark"
+#~ msgstr "ଚିହ୍ନିତ ସ୍ଥାନ ଯୋଗକରନ୍ତୁ"
+
+#~ msgid "&Create New Folder..."
+#~ msgstr "ନୂତନ ଫୋଲଡ଼ର ନିର୍ମାଣ କରନ୍ତୁ (&C)..."
+
+#~ msgid "Rename"
+#~ msgstr "ପୁନଃ ନାମକରଣ କରନ୍ତୁ"
+
+#~ msgid "Delete Link"
+#~ msgstr "ସଂଯୋଗ ଅପସାରଣ କରନ୍ତୁ"
+
+#~ msgid "New Folder"
+#~ msgstr "ନୂତନ ଫୋଲଡ଼ର"
+
+#, fuzzy
+#~| msgid "Create New Folder"
+#~ msgctxt "@title:window"
+#~ msgid "Create New Folder"
+#~ msgstr "ନୂତନ ଫୋଲଡ଼ର ନିର୍ମାଣ କରନ୍ତୁ"
+
+#~ msgid "Enter folder name:"
+#~ msgstr "ଫୋଲଡ଼ର ନାମ ଭରଣ କରନ୍ତୁ:"
+
+#, fuzzy
+#~| msgid "Name:"
+#~ msgctxt "@label"
+#~ msgid "Name:"
+#~ msgstr "ନାମ:"
+
+#~ msgid "&Open Link"
+#~ msgstr "ସଂଯୋଗ ଖୋଲନ୍ତୁ (&O)"
+
+#~ msgid "Set &Automatic Reload"
+#~ msgstr "ସ୍ୱୟଂଚାଳିତ ପୁନର୍ଧାରଣ ସେଟକରନ୍ତୁ (&A)"
+
+#, fuzzy
+#~| msgid "Set Refresh Timeout (0 disables)"
+#~ msgctxt "@title:window"
+#~ msgid "Set Refresh Timeout (0 disables)"
+#~ msgstr "ସତେଜନ ସମୟ ସମାପ୍ତ ସେଟକରନ୍ତୁ (0 ନିଷ୍କ୍ରିୟ ହୋଇଛି)"
+
+#, fuzzy
+#~| msgid "Minute"
+#~| msgid_plural "Minutes"
+#~ msgid " minute"
+#~ msgid_plural " minutes"
+#~ msgstr[0] "ମିନଟ"
+#~ msgstr[1] "ମିନଟ"
+
+#, fuzzy
+#~| msgid " sec"
+#~ msgid " second"
+#~ msgid_plural " seconds"
+#~ msgstr[0] " ସେକଣ୍ଡ"
+#~ msgstr[1] " ସେକଣ୍ଡ"
+
+#, fuzzy
+#~| msgid "Web Sidebar"
+#~ msgctxt "@action:inmenu Add"
+#~ msgid "Web Sidebar Module"
+#~ msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି"
 
 #~ msgid "&Use index.html"
 #~ msgstr "index.htmlକୁ ବ୍ୟବହାର କରନ୍ତୁ (&U)"
