@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-10-30 07:24+0000\n"
+"POT-Creation-Date: 2016-10-31 07:24+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -53,7 +53,7 @@ msgstr "Konqueror ପାଇଁ ବିବରଣୀ ପୃଷ୍ଠା"
 
 #: konqueror/kfmclient.desktop:10 konqueror/kfmclient_html.desktop:9
 #: konqueror/kfmclient_war.desktop:9 konqueror/konqbrowser.desktop:7
-#: konqueror/konqueror.desktop:4
+#: konqueror/org.kde.konqueror.desktop:4
 msgctxt "Name"
 msgid "Konqueror"
 msgstr "Konqueror"
@@ -62,11 +62,6 @@ msgstr "Konqueror"
 msgctxt "GenericName"
 msgid "Web Browser"
 msgstr "ୱେବ ବ୍ରାଉଜର"
-
-#: konqueror/konqueror.desktop:97
-msgctxt "Comment"
-msgid "KDE File Manager & Web Browser"
-msgstr "KDE ଫାଇଲ ପରିଚାଳକ ଏବଂ ୱେବ ବ୍ରାଉଜର"
 
 #: konqueror/konqy_preload.desktop:4
 msgctxt "Name"
@@ -77,6 +72,11 @@ msgstr "Preloading During KDE ଆରମ୍ଭ ସମୟରେ Konqueror ଧା�
 msgctxt "Name"
 msgid "Bookmark Toolbar"
 msgstr "ସାଧନପଟିକୁ ଚିହ୍ନଟ କରନ୍ତୁ"
+
+#: konqueror/org.kde.konqueror.desktop:97
+msgctxt "Comment"
+msgid "KDE File Manager & Web Browser"
+msgstr "KDE ଫାଇଲ ପରିଚାଳକ ଏବଂ ୱେବ ବ୍ରାଉଜର"
 
 #: konqueror/plugins/adblock/plugin_adblock.desktop:2
 #, fuzzy
@@ -747,7 +747,7 @@ msgctxt "Comment"
 msgid "Embeddable HTML component"
 msgstr ""
 
-#: konqueror/webenginepart/src/webenginepart.desktop:17
+#: konqueror/webenginepart/src/webenginepart.desktop:18
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Search Engine"
