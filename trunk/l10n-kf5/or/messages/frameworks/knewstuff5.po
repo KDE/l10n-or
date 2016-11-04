@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-10-25 07:39+0000\n"
+"POT-Creation-Date: 2016-11-04 07:09+0000\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -29,7 +29,7 @@ msgstr ""
 msgid "All categories are missing"
 msgstr "ପୃଷ୍ଠାଗୁଡିକ"
 
-#: attica/atticaprovider.cpp:309
+#: attica/atticaprovider.cpp:316
 #, kde-format
 msgctxt ""
 "the price of a download item, parameter 1 is the currency, 2 is the price"
@@ -38,7 +38,7 @@ msgid ""
 "Do you want to buy it?"
 msgstr ""
 
-#: attica/atticaprovider.cpp:323
+#: attica/atticaprovider.cpp:330
 #, kde-format
 msgid ""
 "Your account balance is too low:\n"
@@ -46,27 +46,27 @@ msgid ""
 "Price: %2"
 msgstr ""
 
-#: attica/atticaprovider.cpp:366
+#: attica/atticaprovider.cpp:373
 #, fuzzy
 #| msgid "No text was replaced."
 msgctxt "voting for an item (good/bad)"
 msgid "Your vote was recorded."
 msgstr "କୌଣସି ପାଠ୍ୟ ବଦଳାଯାଇନାହିଁ।"
 
-#: attica/atticaprovider.cpp:382
+#: attica/atticaprovider.cpp:389
 msgid "You are now a fan."
 msgstr ""
 
-#: attica/atticaprovider.cpp:393
+#: attica/atticaprovider.cpp:400
 #, kde-format
 msgid "Network error. (%1)"
 msgstr ""
 
-#: attica/atticaprovider.cpp:397
+#: attica/atticaprovider.cpp:404
 msgid "Too many requests to server. Please try again in a few minutes."
 msgstr ""
 
-#: attica/atticaprovider.cpp:399
+#: attica/atticaprovider.cpp:406
 #, kde-format
 msgid "Unknown Open Collaboration Service API error. (%1)"
 msgstr ""
@@ -110,7 +110,7 @@ msgstr ""
 msgid "Error initializing provider."
 msgstr ""
 
-#: core/engine.cpp:205 core/engine.cpp:522
+#: core/engine.cpp:205 core/engine.cpp:544
 #, fuzzy
 #| msgid "Loading Applet"
 msgid "Loading data"
@@ -125,12 +125,12 @@ msgstr ""
 msgid "Loading of providers from file: %1 failed"
 msgstr ""
 
-#: core/engine.cpp:482
+#: core/engine.cpp:504
 #, kde-format
 msgid "Re: %1"
 msgstr "Re: %1"
 
-#: core/engine.cpp:524
+#: core/engine.cpp:546
 #, fuzzy, kde-format
 #| msgid "Loading Preview"
 msgid "Loading one preview"
@@ -138,7 +138,7 @@ msgid_plural "Loading %1 previews"
 msgstr[0] "ପ୍ରାକଦର୍ଶନ ଧାରଣ କରୁଅଛି"
 msgstr[1] "ପ୍ରାକଦର୍ଶନ ଧାରଣ କରୁଅଛି"
 
-#: core/engine.cpp:526 ui/itemsgridviewdelegate.cpp:334
+#: core/engine.cpp:548 ui/itemsgridviewdelegate.cpp:334
 #: ui/itemsviewdelegate.cpp:128
 #, fuzzy
 #| msgid "Install"
@@ -231,7 +231,7 @@ msgid ""
 "installed, otherwise signing of the resources will not be possible.</qt>"
 msgstr ""
 
-#: downloaddialog.cpp:82 downloadwidget.cpp:207
+#: downloaddialog.cpp:82 downloadwidget.cpp:209
 msgid "Get Hot New Stuff"
 msgstr "ନୂତନ ଉପାଦାନ ଗ୍ରହଣକରନ୍ତୁ"
 
@@ -247,49 +247,49 @@ msgstr "%1 ଅତିରିକ୍ତ ସ୍ଥାପନକାରୀ"
 msgid "Timeout. Check Internet connection."
 msgstr "ସମୟ ସମାପ୍ତ. ଇଣ୍ଟରନେଟ ସଂଯୋଗକୁ ଯାଞ୍ଚକରନ୍ତୁ!"
 
-#: downloadwidget.cpp:179
+#: downloadwidget.cpp:181
 #, kde-format
 msgid "Server: %1"
 msgstr "ସର୍ଭର: %1"
 
-#: downloadwidget.cpp:180
+#: downloadwidget.cpp:182
 #, kde-format
 msgid "<br />Provider: %1"
 msgstr "<br />ପ୍ରଦାତା: %1"
 
-#: downloadwidget.cpp:181
+#: downloadwidget.cpp:183
 #, kde-format
 msgid "<br />Version: %1"
 msgstr "<br />ସଂସ୍କରଣ: %1"
 
-#: downloadwidget.cpp:185
+#: downloadwidget.cpp:187
 msgid "Provider information"
 msgstr "ସୂଚନା ପ୍ରଦାତା"
 
-#: downloadwidget.cpp:196
+#: downloadwidget.cpp:198
 #, kde-format
 msgid "Could not install %1"
 msgstr "%1କୁ ସ୍ଥାପନ କରିପାରିଲା ନାହିଁ"
 
-#: downloadwidget.cpp:197
+#: downloadwidget.cpp:199
 msgid "Get Hot New Stuff!"
 msgstr "ନୂତନ ଉପାଦାନ ଗ୍ରହଣକରନ୍ତୁ!"
 
-#: downloadwidget.cpp:249
+#: downloadwidget.cpp:251
 msgid "Icons view mode"
 msgstr ""
 
-#: downloadwidget.cpp:251
+#: downloadwidget.cpp:253
 msgid "Details view mode"
 msgstr ""
 
-#: downloadwidget.cpp:266
+#: downloadwidget.cpp:268
 #, fuzzy
 #| msgid "Provider: %1"
 msgid "All Providers"
 msgstr "ପ୍ରଦାତା: %1"
 
-#: downloadwidget.cpp:273
+#: downloadwidget.cpp:275
 #, fuzzy
 #| msgid "Pages"
 msgid "All Categories"
