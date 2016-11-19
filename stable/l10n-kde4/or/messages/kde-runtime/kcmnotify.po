@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmnotify\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-12-05 01:58+0000\n"
+"POT-Creation-Date: 2016-11-19 18:41+0100\n"
 "PO-Revision-Date: 2009-01-02 11:46+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -20,15 +20,18 @@ msgstr ""
 "\n"
 "\n"
 
+#, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr ""
 
+#, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
 #: knotify.cpp:55
+#, kde-format
 msgid ""
 "<h1>System Notifications</h1>KDE allows for a great deal of control over how "
 "you will be notified when certain events occur. There are several choices as "
@@ -39,78 +42,93 @@ msgid ""
 msgstr ""
 
 #: knotify.cpp:74
+#, kde-format
 msgid "Event source:"
 msgstr ""
 
 #: knotify.cpp:101
+#, kde-format
 msgid "&Applications"
 msgstr ""
 
 #: knotify.cpp:102
+#, kde-format
 msgid "&Player Settings"
 msgstr ""
 
 #: knotify.cpp:110
+#, kde-format
 msgid "KNotify"
 msgstr ""
 
 #: knotify.cpp:111
+#, kde-format
 msgid "System Notification Control Panel Module"
 msgstr ""
 
 #: knotify.cpp:112
+#, kde-format
 msgid "(c) 2002-2006 KDE Team"
 msgstr ""
 
 #: knotify.cpp:114
+#, kde-format
 msgid "Olivier Goffart"
 msgstr ""
 
 #: knotify.cpp:115
+#, kde-format
 msgid "Carsten Pfeiffer"
 msgstr ""
 
 #: knotify.cpp:116
+#, kde-format
 msgid "Charles Samuels"
 msgstr ""
 
 #: knotify.cpp:116
+#, kde-format
 msgid "Original implementation"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QRadioButton, cbSoundSystem)
 #: playersettings.ui:17
+#, kde-format
 msgid "Use the &KDE sound system"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel3)
 #: playersettings.ui:36
-#, no-c-format
+#, no-c-format, kde-format
 msgid "100%"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel2)
 #: playersettings.ui:62
-#, no-c-format
+#, no-c-format, kde-format
 msgid "0%"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, cbVolume)
 #: playersettings.ui:69
+#, kde-format
 msgid "Force &Volume:"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QRadioButton, cbExternal)
 #: playersettings.ui:114
+#, kde-format
 msgid "&Use an external player"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel5)
 #: playersettings.ui:145
+#, kde-format
 msgid "&Player:"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QRadioButton, cbNone)
 #: playersettings.ui:170
+#, kde-format
 msgid "&No audio output"
 msgstr ""

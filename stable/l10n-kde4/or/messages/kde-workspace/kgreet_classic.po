@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kgreet_classic\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-11-05 11:50+0000\n"
+"POT-Creation-Date: 2016-11-19 18:41+0100\n"
 "PO-Revision-Date: 2009-01-02 11:47+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -21,26 +21,32 @@ msgstr ""
 "\n"
 
 #: kgreet_classic.cpp:92
+#, kde-format
 msgid "&Username:"
 msgstr ""
 
 #: kgreet_classic.cpp:97
+#, kde-format
 msgid "Username:"
 msgstr ""
 
 #: kgreet_classic.cpp:109
+#, kde-format
 msgid "&Password:"
 msgstr ""
 
 #: kgreet_classic.cpp:110
+#, kde-format
 msgid "Current &password:"
 msgstr ""
 
 #: kgreet_classic.cpp:122
+#, kde-format
 msgid "&New password:"
 msgstr ""
 
 #: kgreet_classic.cpp:125
+#, kde-format
 msgid "Con&firm password:"
 msgstr ""
 
@@ -50,6 +56,7 @@ msgid "Unrecognized prompt \"%1\""
 msgstr ""
 
 #: kgreet_classic.cpp:475
+#, kde-format
 msgctxt "@item:inmenu authentication method"
 msgid "Username + password (classic)"
 msgstr ""

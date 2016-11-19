@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kioexec\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-08-20 04:51+0200\n"
+"POT-Creation-Date: 2016-11-19 18:41+0100\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -20,19 +20,23 @@ msgstr ""
 "\n"
 "\n"
 
+#, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr ""
 
+#, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
 #: main.cpp:44
+#, kde-format
 msgid "KIO Exec - Opens remote files, watches modifications, asks for upload"
 msgstr ""
 
 #: main.cpp:52
+#, kde-format
 msgid "'command' expected.\n"
 msgstr ""
 
@@ -60,10 +64,12 @@ msgid ""
 msgstr ""
 
 #: main.cpp:217 main.cpp:224
+#, kde-format
 msgid "File Changed"
 msgstr ""
 
 #: main.cpp:217
+#, kde-format
 msgid "Do Not Delete"
 msgstr ""
 
@@ -77,53 +83,66 @@ msgid ""
 msgstr ""
 
 #: main.cpp:224
+#, kde-format
 msgid "Upload"
 msgstr ""
 
 #: main.cpp:224
+#, kde-format
 msgid "Do Not Upload"
 msgstr ""
 
 #: main.cpp:253
+#, kde-format
 msgid "KIOExec"
 msgstr ""
 
 #: main.cpp:255
+#, kde-format
 msgid "(c) 1998-2000,2003 The KFM/Konqueror Developers"
 msgstr ""
 
 #: main.cpp:256
+#, kde-format
 msgid "David Faure"
 msgstr ""
 
 #: main.cpp:257
+#, kde-format
 msgid "Stephan Kulow"
 msgstr ""
 
 #: main.cpp:258
+#, kde-format
 msgid "Bernhard Rosenkraenzer"
 msgstr ""
 
 #: main.cpp:259
+#, kde-format
 msgid "Waldo Bastian"
 msgstr ""
 
 #: main.cpp:260
+#, kde-format
 msgid "Oswald Buddenhagen"
 msgstr ""
 
 #: main.cpp:265
+#, kde-format
 msgid "Treat URLs as local files and delete them afterwards"
 msgstr ""
 
 #: main.cpp:266
+#, kde-format
 msgid "Suggested file name for the downloaded file"
 msgstr ""
 
 #: main.cpp:267
+#, kde-format
 msgid "Command to execute"
 msgstr ""
 
 #: main.cpp:268
+#, kde-format
 msgid "URL(s) or local file(s) used for 'command'"
 msgstr ""

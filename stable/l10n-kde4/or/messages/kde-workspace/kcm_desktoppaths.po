@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmkonq\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-11-05 11:50+0000\n"
+"POT-Creation-Date: 2016-11-19 18:41+0100\n"
 "PO-Revision-Date: 2009-01-02 11:45+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -21,6 +21,7 @@ msgstr ""
 "\n"
 
 #: globalpaths.cpp:76
+#, kde-format
 msgid ""
 "<h1>Paths</h1>\n"
 "This module allows you to choose where in the filesystem the files on your "
@@ -29,10 +30,12 @@ msgid ""
 msgstr ""
 
 #: globalpaths.cpp:81
+#, kde-format
 msgid "Desktop path:"
 msgstr ""
 
 #: globalpaths.cpp:82
+#, kde-format
 msgid ""
 "This folder contains all the files which you see on your desktop. You can "
 "change the location of this folder if you want to, and the contents will "
@@ -40,10 +43,12 @@ msgid ""
 msgstr ""
 
 #: globalpaths.cpp:87
+#, kde-format
 msgid "Autostart path:"
 msgstr ""
 
 #: globalpaths.cpp:88
+#, kde-format
 msgid ""
 "This folder contains applications or links to applications (shortcuts) that "
 "you want to have started automatically whenever KDE starts. You can change "
@@ -52,72 +57,89 @@ msgid ""
 msgstr ""
 
 #: globalpaths.cpp:94
+#, kde-format
 msgid "Documents path:"
 msgstr ""
 
 #: globalpaths.cpp:95
+#, kde-format
 msgid ""
 "This folder will be used by default to load or save documents from or to."
 msgstr ""
 
 #: globalpaths.cpp:98
+#, kde-format
 msgid "Downloads path:"
 msgstr ""
 
 #: globalpaths.cpp:99
+#, kde-format
 msgid "This folder will be used by default to save your downloaded items."
 msgstr ""
 
 #: globalpaths.cpp:102
+#, kde-format
 msgid "Movies path:"
 msgstr ""
 
 #: globalpaths.cpp:103
+#, kde-format
 msgid "This folder will be used by default to load or save movies from or to."
 msgstr ""
 
 #: globalpaths.cpp:106
+#, kde-format
 msgid "Pictures path:"
 msgstr ""
 
 #: globalpaths.cpp:107
+#, kde-format
 msgid ""
 "This folder will be used by default to load or save pictures from or to."
 msgstr ""
 
 #: globalpaths.cpp:110
+#, kde-format
 msgid "Music path:"
 msgstr ""
 
 #: globalpaths.cpp:111
+#, kde-format
 msgid "This folder will be used by default to load or save music from or to."
 msgstr ""
 
 #: globalpaths.cpp:241 globalpaths.cpp:259
+#, kde-format
 msgid "Autostart"
 msgstr ""
 
 #: globalpaths.cpp:245
+#, kde-format
 msgid "Desktop"
 msgstr ""
 
 #: globalpaths.cpp:269
+#, kde-format
 msgid "Documents"
 msgstr ""
 
 #: globalpaths.cpp:272
+#, kde-format
 msgid "Downloads"
 msgstr ""
 
 #: globalpaths.cpp:275
+#, kde-format
 msgid "Movies"
 msgstr ""
 
 #: globalpaths.cpp:278
+#, kde-format
 msgid "Pictures"
 msgstr ""
 
 #: globalpaths.cpp:281
+#, kde-format
 msgid "Music"
 msgstr ""
 
@@ -129,11 +151,13 @@ msgid ""
 msgstr ""
 
 #: globalpaths.cpp:343
+#, kde-format
 msgctxt "Move files from old to new place"
 msgid "Move"
 msgstr ""
 
 #: globalpaths.cpp:344
+#, kde-format
 msgctxt "Use the new directory but do not move files"
 msgid "Do not Move"
 msgstr ""
@@ -146,15 +170,18 @@ msgid ""
 msgstr ""
 
 #: globalpaths.cpp:349
+#, kde-format
 msgctxt "Move the directory"
 msgid "Move"
 msgstr ""
 
 #: globalpaths.cpp:350
+#, kde-format
 msgctxt "Use the new directory but do not move anything"
 msgid "Do not Move"
 msgstr ""
 
 #: globalpaths.cpp:354
+#, kde-format
 msgid "Confirmation Required"
 msgstr ""

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kinfocenter\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-02-08 05:23+0000\n"
+"POT-Creation-Date: 2016-11-19 18:41+0100\n"
 "PO-Revision-Date: 2009-01-02 11:47+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -20,54 +20,65 @@ msgstr ""
 "\n"
 "\n"
 
+#, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr ""
 
+#, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
 #: infocenter.cpp:57
+#, kde-format
 msgctxt "Main window title"
 msgid "KInfocenter"
 msgstr ""
 
 #: infocenter.cpp:136
+#, kde-format
 msgctxt "Information about current module located in about menu"
 msgid "About Current Information Module"
 msgstr ""
 
 #: infocenter.cpp:141
+#, kde-format
 msgctxt "Export button label"
 msgid "Export"
 msgstr ""
 
 #: infocenter.cpp:145
+#, kde-format
 msgctxt "Module help button label"
 msgid "Module Help"
 msgstr ""
 
 #: infocenter.cpp:148
+#, kde-format
 msgctxt "Help button label"
 msgid "Help"
 msgstr ""
 
 #: infocenter.cpp:188
+#, kde-format
 msgctxt "Search Bar Click Message"
 msgid "Search"
 msgstr ""
 
 #: infocenter.cpp:194
+#, kde-format
 msgctxt "Kaction search label"
 msgid "Search Modules"
 msgstr ""
 
 #: infocenter.cpp:250
+#, kde-format
 msgid "Export of the module has produced no output."
 msgstr ""
 
 #: infocenter.cpp:261
+#, kde-format
 msgid "Unable to open file to write export information"
 msgstr ""
 
@@ -77,10 +88,12 @@ msgid "Export information for %1"
 msgstr ""
 
 #: infocenter.cpp:270
+#, kde-format
 msgid "Information exported"
 msgstr ""
 
 #: infokcmmodel.cpp:31
+#, kde-format
 msgid "Information Modules"
 msgstr ""
 
@@ -91,66 +104,82 @@ msgstr ""
 
 #. i18n: ectx: ToolBar (mainToolBar)
 #: kinfocenterui.rc:16
+#, kde-format
 msgctxt "@title:menu"
 msgid "Main Toolbar"
 msgstr ""
 
 #: main.cpp:41
+#, kde-format
 msgid "KDE Info Center"
 msgstr ""
 
 #: main.cpp:42
+#, kde-format
 msgid "The KDE Info Center"
 msgstr ""
 
 #: main.cpp:43
+#, kde-format
 msgid "(c) 2009-2010, The KDE SC KInfocenter Development Team"
 msgstr ""
 
 #: main.cpp:48
+#, kde-format
 msgid "David Hubner"
 msgstr ""
 
 #: main.cpp:48
+#, kde-format
 msgid "Current Maintainer"
 msgstr ""
 
 #: main.cpp:49
+#, kde-format
 msgid "Helge Deller"
 msgstr ""
 
 #: main.cpp:49
+#, kde-format
 msgid "Previous Maintainer"
 msgstr ""
 
 #: main.cpp:50
+#, kde-format
 msgid "Matthias Hoelzer-Kluepfel"
 msgstr ""
 
 #: main.cpp:51
+#, kde-format
 msgid "Matthias Elter"
 msgstr ""
 
 #: main.cpp:52
+#, kde-format
 msgid "Matthias Ettrich"
 msgstr ""
 
 #: main.cpp:53
+#, kde-format
 msgid "Waldo Bastian"
 msgstr ""
 
 #: main.cpp:54
+#, kde-format
 msgid "Nicolas Ternisien"
 msgstr ""
 
 #: sidepanel.cpp:99
+#, kde-format
 msgid "Clear Search"
 msgstr ""
 
 #: sidepanel.cpp:102
+#, kde-format
 msgid "Expand All Categories"
 msgstr ""
 
 #: sidepanel.cpp:105
+#, kde-format
 msgid "Collapse All Categories"
 msgstr ""
