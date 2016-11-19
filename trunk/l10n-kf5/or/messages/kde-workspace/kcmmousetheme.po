@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcminput\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-09-15 07:39+0000\n"
+"POT-Creation-Date: 2016-11-19 20:21+0100\n"
 "PO-Revision-Date: 2009-01-02 11:44+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -20,49 +20,60 @@ msgstr ""
 "\n"
 "X-Generator: KBabel 1.11.4\n"
 
+#, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr ""
 
+#, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
 #: kcmcursortheme.cpp:43
+#, kde-format
 msgid "Cursor Theme"
 msgstr ""
 
 #: kcmcursortheme.cpp:44
+#, kde-format
 msgid "(c) 2003-2007 Fredrik Höglund"
 msgstr ""
 
 #: kcmcursortheme.cpp:45
+#, kde-format
 msgid "Fredrik Höglund"
 msgstr ""
 
 #: xcursor/thememodel.cpp:67
+#, kde-format
 msgid "Name"
 msgstr ""
 
 #: xcursor/thememodel.cpp:70
+#, kde-format
 msgid "Description"
 msgstr ""
 
 #: xcursor/themepage.cpp:154
+#, kde-format
 msgctxt "@item:inlistbox size"
 msgid "Resolution dependent"
 msgstr ""
 
 #: xcursor/themepage.cpp:317
+#, kde-format
 msgid ""
 "You have to restart the Plasma session for these changes to take effect."
 msgstr ""
 
 #: xcursor/themepage.cpp:318
+#, kde-format
 msgid "Cursor Settings Changed"
 msgstr ""
 
 #: xcursor/themepage.cpp:436
+#, kde-format
 msgid "Drag or Type Theme URL"
 msgstr ""
 
@@ -84,6 +95,7 @@ msgid "The file %1 does not appear to be a valid cursor theme archive."
 msgstr ""
 
 #: xcursor/themepage.cpp:474
+#, kde-format
 msgid ""
 "<qt>You cannot delete the theme you are currently using.<br />You have to "
 "switch to another theme first.</qt>"
@@ -97,6 +109,7 @@ msgid ""
 msgstr ""
 
 #: xcursor/themepage.cpp:486
+#, kde-format
 msgid "Confirmation"
 msgstr ""
 
@@ -108,26 +121,31 @@ msgid ""
 msgstr ""
 
 #: xcursor/themepage.cpp:547
+#, kde-format
 msgid "Overwrite Theme?"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, installKnsButton)
 #: xcursor/themepage.ui:49
+#, kde-format
 msgid "Get new color schemes from the Internet"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, installKnsButton)
 #: xcursor/themepage.ui:52
+#, kde-format
 msgid "Get new Theme"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, removeButton)
 #: xcursor/themepage.ui:59
+#, kde-format
 msgid "Remove Theme"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, installButton)
 #: xcursor/themepage.ui:85
+#, kde-format
 msgid "Install from File"
 msgstr ""
 
