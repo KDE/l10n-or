@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: audiorename_plugin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-08-02 05:32+0200\n"
+"POT-Creation-Date: 2016-11-19 11:45+0100\n"
 "PO-Revision-Date: 2009-01-02 11:51+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -37,18 +37,22 @@ msgid "A newer file named '%1' already exists.\n"
 msgstr "'%1' ନାମକ ଗୋଟିଏ ନୂତନ ଫାଇଲ ପୂର୍ବରୁ ଅବସ୍ଥିତ ଅଛି।\n"
 
 #: audio_plugin.cpp:80
+#, kde-format
 msgid "Source File"
 msgstr "ଉତ୍ସ ଫାଇଲ"
 
 #: audio_plugin.cpp:81
+#, kde-format
 msgid "Existing File"
 msgstr "ସ୍ଥିତବାନ ଫାଇଲ"
 
 #: audio_plugin.cpp:82
+#, kde-format
 msgid "Would you like to replace the existing file with the one on the right?"
 msgstr "ଡ଼ାହାଣରେ ଥିବା ଫାଇଲ ସହିତ ଆପଣ ଏହି ସ୍ଥିତବାନ ଫାଇକୁ ସ୍ଥାନାନ୍ତରିତ କରିବାକୁ ପସନ୍ଦ କରିବେ କି?"
 
 #: audiopreview.cpp:51
+#, kde-format
 msgid ""
 "This audio file is not stored\n"
 "on the local host.\n"
@@ -59,6 +63,7 @@ msgstr ""
 "ଏହାକୁ ଧାରଣ କରିବା ପାଇଁ ଏହି ନାମପଟିରେ ଦବାନ୍ତୁ।\n"
 
 #: audiopreview.cpp:57
+#, kde-format
 msgid "Unable to load audio file"
 msgstr "ଧ୍ୱନୀ ଫାଇଲ ଧାରଣ କରିବାରେ ଅସମର୍ଥ"
 
@@ -89,5 +94,6 @@ msgid "Sample rate: %1 %2\n"
 msgstr "ନମୁନା ହାର: %1 %2\n"
 
 #: audiopreview.cpp:99
+#, kde-format
 msgid "Length: "
 msgstr "ଲମ୍ବ:"

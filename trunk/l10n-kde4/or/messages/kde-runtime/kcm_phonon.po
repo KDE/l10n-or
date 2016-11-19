@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcm_phonon\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-10-27 01:35+0000\n"
+"POT-Creation-Date: 2016-11-19 11:45+0100\n"
 "PO-Revision-Date: 2009-01-02 11:46+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -20,10 +20,12 @@ msgstr ""
 "\n"
 "\n"
 
+#, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr ""
 
+#, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
@@ -39,54 +41,65 @@ msgid "Recording (%1)"
 msgstr ""
 
 #: audiosetup.cpp:628
+#, kde-format
 msgid "Independent Devices"
 msgstr ""
 
 #: audiosetup.cpp:657
+#, kde-format
 msgid "KDE Audio Hardware Setup"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, hardwareGroupBox)
 #: audiosetup.ui:18
+#, kde-format
 msgid "Hardware"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, profileLabel)
 #: audiosetup.ui:44
+#, kde-format
 msgid "Profile"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, cardLabel)
 #: audiosetup.ui:54
+#, kde-format
 msgid "Sound Card"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, deviceGroupBox)
 #: audiosetup.ui:67
+#, kde-format
 msgid "Device Configuration"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, portLabel)
 #: audiosetup.ui:83
+#, kde-format
 msgid "Connector"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, deviceLabel)
 #: audiosetup.ui:103
+#, kde-format
 msgid "Sound Device"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, outputGroupBox)
 #: audiosetup.ui:144
+#, kde-format
 msgid "Speaker Placement and Testing"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, inputGroupBox)
 #: audiosetup.ui:181
+#, kde-format
 msgid "Input Levels"
 msgstr ""
 
 #: backendselection.cpp:45
+#, kde-format
 msgctxt "@info User changed Phonon backend"
 msgid "To apply the backend change you will have to log out and back in again."
 msgstr ""
@@ -94,6 +107,7 @@ msgstr ""
 #. i18n: ectx: property (toolTip), widget (QListWidget, m_select)
 #. i18n: ectx: property (whatsThis), widget (QListWidget, m_select)
 #: backendselection.ui:38 backendselection.ui:41
+#, kde-format
 msgid ""
 "A list of Phonon Backends found on your system.  The order here determines "
 "the order Phonon will use them in."
@@ -102,50 +116,61 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QToolButton, m_up)
 #. i18n: ectx: property (text), widget (QToolButton, preferButton)
 #: backendselection.ui:57 devicepreference.ui:190
+#, kde-format
 msgid "Prefer"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QToolButton, m_down)
 #. i18n: ectx: property (text), widget (QToolButton, deferButton)
 #: backendselection.ui:70 devicepreference.ui:206
+#, kde-format
 msgid "Defer"
 msgstr ""
 
 #: devicepreference.cpp:109
+#, kde-format
 msgid "Audio Playback"
 msgstr ""
 
 #: devicepreference.cpp:123
+#, kde-format
 msgid "Audio Recording"
 msgstr ""
 
 #: devicepreference.cpp:126
+#, kde-format
 msgid "Video Recording"
 msgstr ""
 
 #: devicepreference.cpp:129
+#, kde-format
 msgid "Invalid"
 msgstr ""
 
 #: devicepreference.cpp:169
+#, kde-format
 msgid "Test the selected device"
 msgstr ""
 
 #: devicepreference.cpp:193 devicepreference.cpp:200 devicepreference.cpp:207
+#, kde-format
 msgid ""
 "Defines the default ordering of devices which can be overridden by "
 "individual categories."
 msgstr ""
 
 #: devicepreference.cpp:326
+#, kde-format
 msgid "Default Audio Playback Device Preference"
 msgstr ""
 
 #: devicepreference.cpp:329
+#, kde-format
 msgid "Default Audio Recording Device Preference"
 msgstr ""
 
 #: devicepreference.cpp:332
+#, kde-format
 msgid "Default Video Recording Device Preference"
 msgstr ""
 
@@ -165,24 +190,29 @@ msgid "Video Recording Device Preference for the '%1' Category "
 msgstr ""
 
 #: devicepreference.cpp:779
+#, kde-format
 msgid ""
 "Apply the currently shown device preference list to the following other "
 "audio playback categories:"
 msgstr ""
 
 #: devicepreference.cpp:792 devicepreference.cpp:798
+#, kde-format
 msgid "Default/Unspecified Category"
 msgstr ""
 
 #: devicepreference.cpp:891
+#, kde-format
 msgid "Failed to set the selected audio output device"
 msgstr ""
 
 #: devicepreference.cpp:919
+#, kde-format
 msgid "Your backend may not support audio recording"
 msgstr ""
 
 #: devicepreference.cpp:940
+#, kde-format
 msgid "Your backend may not support video recording"
 msgstr ""
 
@@ -194,6 +224,7 @@ msgstr ""
 #. i18n: ectx: property (toolTip), widget (QTreeView, categoryTree)
 #. i18n: ectx: property (whatsThis), widget (QTreeView, categoryTree)
 #: devicepreference.ui:29 devicepreference.ui:32
+#, kde-format
 msgid ""
 "Various categories of media use cases.  For each category, you may choose "
 "what device you prefer to be used by the Phonon applications."
@@ -201,22 +232,26 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, showAdvancedDevicesCheckBox)
 #: devicepreference.ui:47
+#, kde-format
 msgid "Show advanced devices"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, applyPreferencesButton)
 #. i18n: ectx: property (whatsThis), widget (QPushButton, applyPreferencesButton)
 #: devicepreference.ui:77 devicepreference.ui:80
+#, kde-format
 msgid "Use the currently shown device list for more categories."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, applyPreferencesButton)
 #: devicepreference.ui:83
+#, kde-format
 msgid "Apply Device List To..."
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QTreeView, deviceList)
 #: devicepreference.ui:113
+#, kde-format
 msgid ""
 "Devices found on your system, suitable for the selected category.  Choose "
 "the device that you wish to be used by the applications."
@@ -224,6 +259,7 @@ msgstr ""
 
 #. i18n: ectx: property (whatsThis), widget (QTreeView, deviceList)
 #: devicepreference.ui:116
+#, kde-format
 msgid ""
 "The order determines the preference of the devices. If for some reason the "
 "first device cannot be used Phonon will try to use the second, and so on."
@@ -231,95 +267,118 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QToolButton, testPlaybackButton)
 #: devicepreference.ui:171
+#, kde-format
 msgid "Test"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, preferButton)
 #: devicepreference.ui:187
+#, kde-format
 msgid "prefer the selected device"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, deferButton)
 #: devicepreference.ui:203
+#, kde-format
 msgid "no preference for the selected device"
 msgstr ""
 
 #: main.cpp:46
+#, kde-format
 msgid "Phonon Configuration Module"
 msgstr ""
 
 #: main.cpp:48
+#, kde-format
 msgid "Copyright 2006 Matthias Kretz"
 msgstr ""
 
 #: main.cpp:49
+#, kde-format
 msgid "Matthias Kretz"
 msgstr ""
 
 #: main.cpp:50
+#, kde-format
 msgid "Colin Guthrie"
 msgstr ""
 
 #: main.cpp:61
+#, kde-format
 msgid "Device Preference"
 msgstr ""
 
 #: main.cpp:63
+#, kde-format
 msgid "Backend"
 msgstr ""
 
 #: main.cpp:99
+#, kde-format
 msgid "Audio Hardware Setup"
 msgstr ""
 
 #: testspeakerwidget.cpp:161
+#, kde-format
 msgid "Front Left"
 msgstr ""
 
 #: testspeakerwidget.cpp:164
+#, kde-format
 msgid "Front Left of Center"
 msgstr ""
 
 #: testspeakerwidget.cpp:167
+#, kde-format
 msgid "Front Center"
 msgstr ""
 
 #: testspeakerwidget.cpp:170
+#, kde-format
 msgid "Mono"
 msgstr ""
 
 #: testspeakerwidget.cpp:173
+#, kde-format
 msgid "Front Right of Center"
 msgstr ""
 
 #: testspeakerwidget.cpp:176
+#, kde-format
 msgid "Front Right"
 msgstr ""
 
 #: testspeakerwidget.cpp:179
+#, kde-format
 msgid "Side Left"
 msgstr ""
 
 #: testspeakerwidget.cpp:182
+#, kde-format
 msgid "Side Right"
 msgstr ""
 
 #: testspeakerwidget.cpp:185
+#, kde-format
 msgid "Rear Left"
 msgstr ""
 
 #: testspeakerwidget.cpp:188
+#, kde-format
 msgid "Rear Center"
 msgstr ""
 
 #: testspeakerwidget.cpp:191
+#, kde-format
 msgid "Rear Right"
 msgstr ""
 
 #: testspeakerwidget.cpp:194
+#, kde-format
 msgid "Subwoofer"
 msgstr ""
 
 #: testspeakerwidget.cpp:199
+#, kde-format
 msgid "Unknown Channel"
 msgstr ""
