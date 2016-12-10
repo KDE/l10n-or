@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-11-19 20:12+0100\n"
+"POT-Creation-Date: 2016-12-10 02:34+0100\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -31,11 +31,12 @@ msgstr "%1 ବିଷୟରେ"
 #: kaboutapplicationdialog.cpp:98
 #, fuzzy, kde-format
 #| msgid ""
-#| "<html><font size=\"5\">K Desktop Environment</font><br /><b>Version %1</"
-#| "b></html>"
-msgid "<html><font size=\"5\">%1</font></html>"
+#| "<html><font size=\"5\">%1</font><br /><b>Version %2</b><br />Using KDE "
+#| "%3</html>"
+msgid "<html><font size=\"5\">%1</font><br />Version %2</html>"
 msgstr ""
-"<html><font size=\"5\">K ଡେସ୍କଟପ ପରିବେଶ</font><br /><b>ସଂସ୍କରଣ %1</b></html>"
+"<html><ଅକ୍ଷରରୂପ ଆକାର=\"5\">%1</font><br /><b>ସଂସ୍କରଣ %2</b><br />KDE %3 ବ୍ୟବହାର "
+"କରି</html>"
 
 #: kaboutapplicationdialog.cpp:136
 #, kde-format
@@ -47,26 +48,20 @@ msgstr "ଅନୁମତି ପତ୍ର: %1"
 msgid "&About"
 msgstr "ବିଷୟରେ (&A)"
 
-#: kaboutapplicationdialog.cpp:153
-#, fuzzy, kde-format
-#| msgid "<br />Version: %1"
-msgid "<b>Version %1</b>"
-msgstr "<br />ସଂସ୍କରଣ: %1"
-
-#: kaboutapplicationdialog.cpp:158
+#: kaboutapplicationdialog.cpp:155
 #, kde-format
 msgid ""
-"Using:<ul><li>KDE Frameworks %1</li><li>Qt %2 (built against %3)</li><li>The "
-"<em>%4</em> windowing system</li></ul>"
+"<ul><li>KDE Frameworks %1</li><li>Qt %2 (built against %3)</li><li>The <em>"
+"%4</em> windowing system</li></ul>"
 msgstr ""
 
-#: kaboutapplicationdialog.cpp:168
+#: kaboutapplicationdialog.cpp:165
 #, fuzzy, kde-format
-#| msgid "Version:"
-msgid "&Version"
-msgstr "ସଂସ୍କରଣ:"
+#| msgid "Libraries"
+msgid "&Libraries"
+msgstr "ଲାଇବ୍ରେରୀଗୁଡିକ"
 
-#: kaboutapplicationdialog.cpp:188
+#: kaboutapplicationdialog.cpp:185
 #, kde-format
 msgid ""
 "Please use <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> to report "
@@ -75,32 +70,32 @@ msgstr ""
 "ଦୟାକରି <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> କୁ ତ୍ରୁଟି ଖବର କରିବା "
 "ପାଇଁ ବ୍ୟବହାର କରନ୍ତୁ।\n"
 
-#: kaboutapplicationdialog.cpp:192 kaboutapplicationdialog.cpp:196
+#: kaboutapplicationdialog.cpp:189 kaboutapplicationdialog.cpp:193
 #, kde-format
 msgid "Please report bugs to <a href=\"mailto:%1\">%2</a>.\n"
 msgstr "ଦୟାକରି <a href=\"mailto:%1\">%2</a>ରେ ତ୍ରୁଟି ଖବର କରନ୍ତୁ।\n"
 
-#: kaboutapplicationdialog.cpp:223
+#: kaboutapplicationdialog.cpp:220
 #, kde-format
 msgid "A&uthor"
 msgstr "ଲେଖକ (&u)"
 
-#: kaboutapplicationdialog.cpp:223
+#: kaboutapplicationdialog.cpp:220
 #, kde-format
 msgid "A&uthors"
 msgstr "ଲେଖକମାନେ (&u)"
 
-#: kaboutapplicationdialog.cpp:250
+#: kaboutapplicationdialog.cpp:247
 #, kde-format
 msgid "&Thanks To"
 msgstr "କୁ ଧନ୍ୟବାଦ (&T)"
 
-#: kaboutapplicationdialog.cpp:289
+#: kaboutapplicationdialog.cpp:286
 #, kde-format
 msgid "T&ranslation"
 msgstr "ଅନୁବାଦ (&r)"
 
-#: kaboutapplicationdialog.cpp:321
+#: kaboutapplicationdialog.cpp:318
 #, kde-format
 msgid "License Agreement"
 msgstr "ଲାଇସେନ୍ସ ରାଜିନାମା"
@@ -1458,6 +1453,24 @@ msgstr "ବିନ୍ୟାସ (&S)"
 msgid "Main Toolbar"
 msgstr "ମୁଖ୍ୟ ସାଧନପଟି"
 
+#, fuzzy
+#~| msgid ""
+#~| "<html><font size=\"5\">K Desktop Environment</font><br /><b>Version %1</"
+#~| "b></html>"
+#~ msgid "<html><font size=\"5\">%1</font></html>"
+#~ msgstr ""
+#~ "<html><font size=\"5\">K ଡେସ୍କଟପ ପରିବେଶ</font><br /><b>ସଂସ୍କରଣ %1</b></html>"
+
+#, fuzzy
+#~| msgid "<br />Version: %1"
+#~ msgid "<b>Version %1</b>"
+#~ msgstr "<br />ସଂସ୍କରଣ: %1"
+
+#, fuzzy
+#~| msgid "Version:"
+#~ msgid "&Version"
+#~ msgstr "ସଂସ୍କରଣ:"
+
 #~ msgid "Save as Scheme Defaults"
 #~ msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ ଯୋଜନା ପରି ସଂରକ୍ଷଣ କରନ୍ତୁ"
 
@@ -1469,16 +1482,6 @@ msgstr "ମୁଖ୍ୟ ସାଧନପଟି"
 
 #~ msgid "Could not export shortcuts scheme because the location is invalid."
 #~ msgstr "ସଂକ୍ଷିପ୍ତ ପଥ ଯୋଜନାକୁ ପଠାଇବ ନାହିଁ କାରଣ ସ୍ଥାନଟି ଅବୈଧ ଅଟେ।"
-
-#, fuzzy
-#~| msgid ""
-#~| "<html><font size=\"5\">%1</font><br /><b>Version %2</b><br />Using KDE "
-#~| "%3</html>"
-#~ msgid ""
-#~ "<html><font size=\"5\">%1</font><br /><b>Version %2</b><br />&nbsp;</html>"
-#~ msgstr ""
-#~ "<html><ଅକ୍ଷରରୂପ ଆକାର=\"5\">%1</font><br /><b>ସଂସ୍କରଣ %2</b><br />KDE %3 "
-#~ "ବ୍ୟବହାର କରି</html>"
 
 #, fuzzy
 #~| msgid ""
@@ -2158,9 +2161,6 @@ msgstr "ମୁଖ୍ୟ ସାଧନପଟି"
 
 #~ msgid "Configuration description files"
 #~ msgstr "ବିନ୍ୟାସ ବର୍ଣ୍ଣିତ ଫାଇଲଗୁଡିକ"
-
-#~ msgid "Libraries"
-#~ msgstr "ଲାଇବ୍ରେରୀଗୁଡିକ"
 
 #~ msgid "Includes/Headers"
 #~ msgstr "ଅନ୍ତର୍ଭୁକ୍ତ/ଶୀର୍ଷକ ଗୁଡିକ"
