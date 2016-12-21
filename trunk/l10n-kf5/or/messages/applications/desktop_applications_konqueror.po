@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-12-10 01:45+0000\n"
+"POT-Creation-Date: 2016-12-21 03:05+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -304,7 +304,7 @@ msgctxt "Name"
 msgid "Shell Command Plugin"
 msgstr "Shell ନିର୍ଦ୍ଦେଶ ପ୍ଲଗଇନ"
 
-#: plugins/shellcmdplugin/kshellcmdplugin.desktop:101
+#: plugins/shellcmdplugin/kshellcmdplugin.desktop:100
 msgctxt "Comment"
 msgid "Shell Command Plugin for Konqueror"
 msgstr "Konqueror ପାଇଁ Shell ନିର୍ଦ୍ଦେଶ ପ୍ଲଗଇନ"
@@ -314,7 +314,7 @@ msgctxt "Name"
 msgid "Text-to-Speech"
 msgstr "Text-to-Speech"
 
-#: plugins/ttsplugin/khtmltts.desktop:100
+#: plugins/ttsplugin/khtmltts.desktop:99
 msgctxt "Comment"
 msgid "Produces audio output for text in the current page"
 msgstr "ଏହି ପୃଷ୍ଠାରେ ପାଠ୍ଯ ପାଇଁ ଧ୍ୱନି ନିର୍ଗମ ହୋଇଥାଏ"
@@ -370,12 +370,12 @@ msgctxt "Name"
 msgid "Bookmarks"
 msgstr "ଚିହ୍ନିତ ସ୍ଥାନ"
 
-#: settings/bookmarks/bookmarks.desktop:104
+#: settings/bookmarks/bookmarks.desktop:103
 msgctxt "Comment"
 msgid "Configure the bookmarks home page"
 msgstr "ଚିହ୍ନିତ ସ୍ଥାନ ମୂଖ୍ୟ ପୃଷ୍ଠା ବିନ୍ୟାସ କରନ୍ତୁ"
 
-#: settings/bookmarks/bookmarks.desktop:182
+#: settings/bookmarks/bookmarks.desktop:180
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Bookmarks"
@@ -390,14 +390,14 @@ msgctxt "Name"
 msgid "Appearance"
 msgstr "ଦୃଶ୍ୟ"
 
-#: settings/konq/fileappearance.desktop:104
-#: settings/konq/webappearance.desktop:105
+#: settings/konq/fileappearance.desktop:103
+#: settings/konq/webappearance.desktop:104
 msgctxt "Comment"
 msgid "You can configure how Konqueror looks as a file manager here"
 msgstr "Konqueror ଏଠାରେ ଫାଇଲ ପରିଚାଳକ ପରି କେମିତି ଦେଖାଯାଉଛି ତାହାକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
 
-#: settings/konq/fileappearance.desktop:197
-#: settings/konq/webappearance.desktop:198
+#: settings/konq/fileappearance.desktop:195
+#: settings/konq/webappearance.desktop:196
 msgctxt "X-KDE-Keywords"
 msgid ""
 "konqueror,filemanager,word wrap,wrap,underline,display,filesize,bytes,font,"
@@ -409,12 +409,12 @@ msgctxt "Name"
 msgid "Behavior"
 msgstr "ଆଚରଣ"
 
-#: settings/konq/filebehavior.desktop:105 settings/konq/webbehavior.desktop:106
+#: settings/konq/filebehavior.desktop:104 settings/konq/webbehavior.desktop:105
 msgctxt "Comment"
 msgid "You can configure how Konqueror behaves as a file manager here"
 msgstr "Konqueror ଏଠାରେ ଫାଇଲ ପରିଚାଳକ ପରି କେମିତି ଆଚରଣ କରୁଛି ତାହାକୁ ବିନ୍ୟାସ କରିପାରିବେ"
 
-#: settings/konq/filebehavior.desktop:198
+#: settings/konq/filebehavior.desktop:196
 msgctxt "X-KDE-Keywords"
 msgid ""
 "konqueror,filemanager,kfm,tips,file tips,separate window,spawn windows,"
@@ -427,17 +427,17 @@ msgctxt "Name"
 msgid "Stylesheets"
 msgstr "Stylesheets"
 
-#: settings/konqhtml/css/kcmcss.desktop:104
+#: settings/konqhtml/css/kcmcss.desktop:103
 msgctxt "Comment"
 msgid "Configure the stylesheets used to render web pages"
 msgstr "ୱେବ ପୃଷ୍ଠାଗୁଡ଼ିକୁ ଚିତ୍ରଣ କରିବା ପାଇଁ ବ୍ୟବହୃତ ହେଉଥିବା stylesheet ଗୁଡ଼ିକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
 
-#: settings/konqhtml/css/kcmcss.desktop:197
+#: settings/konqhtml/css/kcmcss.desktop:195
 msgctxt "X-KDE-Keywords"
 msgid "CSS,HTML,style,stylesheet,accessibility"
 msgstr ""
 
-#: settings/konqhtml/khtml_appearance.desktop:107
+#: settings/konqhtml/khtml_appearance.desktop:106
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure the fonts used on web pages"
@@ -445,7 +445,7 @@ msgctxt "Comment"
 msgid "Configure how to display web pages"
 msgstr "ୱେବପୃଷ୍ଠାଗୁଡ଼ିକରେ ବ୍ୟବହୃତ ହେଉଥିବା ଅକ୍ଷରରୂପଗୁଡ଼ିକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
 
-#: settings/konqhtml/khtml_appearance.desktop:178
+#: settings/konqhtml/khtml_appearance.desktop:176
 msgctxt "X-KDE-Keywords"
 msgid ""
 "konqueror,kfm,browser,html,web,www,fonts,charsets,character sets,encoding"
@@ -456,12 +456,12 @@ msgctxt "Name"
 msgid "Web Behavior"
 msgstr "ୱେବ ଆଚରଣ"
 
-#: settings/konqhtml/khtml_behavior.desktop:102
+#: settings/konqhtml/khtml_behavior.desktop:101
 msgctxt "Comment"
 msgid "Configure the browser behavior"
 msgstr "ବ୍ରାଉଜର ଆଚରଣକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
 
-#: settings/konqhtml/khtml_behavior.desktop:193
+#: settings/konqhtml/khtml_behavior.desktop:191
 msgctxt "X-KDE-Keywords"
 msgid ""
 "konqueror,kfm,browser,html,web,www,fonts,colours,colors,java,javascript,"
@@ -473,7 +473,7 @@ msgctxt "Name"
 msgid "AdBlocK Filters"
 msgstr "AdBlocK ଛାଣକଗୁଡ଼ିକ"
 
-#: settings/konqhtml/khtml_filter.desktop:105
+#: settings/konqhtml/khtml_filter.desktop:104
 msgctxt "Comment"
 msgid "Configure Konqueror AdBlocK filters"
 msgstr "Konqueror AdBlocK ଛାଣକଗୁଡ଼ିକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
@@ -487,12 +487,12 @@ msgctxt ""
 msgid "General"
 msgstr "ସାଧାରଣ"
 
-#: settings/konqhtml/khtml_general.desktop:83
+#: settings/konqhtml/khtml_general.desktop:82
 msgctxt "Comment"
 msgid "Configure general Konqueror behavior"
 msgstr "ସାଧାରଣ Konqueror ଆଚରଣକୁ ବିନ୍ୟାସକରନ୍ତ"
 
-#: settings/konqhtml/khtml_general.desktop:164
+#: settings/konqhtml/khtml_general.desktop:162
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Konqueror"
@@ -505,17 +505,17 @@ msgctxt "Name"
 msgid "Java & JavaScript"
 msgstr "Java & JavaScript"
 
-#: settings/konqhtml/khtml_java_js.desktop:105
+#: settings/konqhtml/khtml_java_js.desktop:104
 msgctxt "Comment"
 msgid "Configure the behavior of Java and JavaScript"
 msgstr "Java ଏବଂ JavaScriptର ଆଚରଣକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
 
-#: settings/konqhtml/khtml_java_js.desktop:197
+#: settings/konqhtml/khtml_java_js.desktop:195
 msgctxt "X-KDE-Keywords"
 msgid "konqueror,kfm,browser,html,web,www,java,javascript"
 msgstr ""
 
-#: settings/konq/webbehavior.desktop:199
+#: settings/konq/webbehavior.desktop:197
 msgctxt "X-KDE-Keywords"
 msgid ""
 "konqueror,filemanager,kfm,tips,file tips,separate window,spawn windows,"
@@ -527,12 +527,12 @@ msgctxt "Name"
 msgid "Performance"
 msgstr "କାର୍ଯ୍ୟଦକ୍ଷତା"
 
-#: settings/performance/kcmkonqyperformance.desktop:103
+#: settings/performance/kcmkonqyperformance.desktop:102
 msgctxt "Comment"
 msgid "Configure settings that can improve Konqueror performance"
 msgstr "Konqueror କାର୍ଯ୍ୟଦକ୍ଷତା ବୃଦ୍ଧି କରିପାରୁଥିବା ସେଟିଙ୍ଗଗୁଡ଼ିକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
 
-#: settings/performance/kcmkonqyperformance.desktop:194
+#: settings/performance/kcmkonqyperformance.desktop:192
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "KDED Konqueror Preloader Module"
@@ -545,18 +545,18 @@ msgctxt "Name"
 msgid "KDE Performance"
 msgstr "KDE କାର୍ଯଦକ୍ଷତା"
 
-#: settings/performance/kcmperformance.desktop:102
+#: settings/performance/kcmperformance.desktop:101
 msgctxt "Comment"
 msgid "Configure settings that can improve KDE performance"
 msgstr "KDE କାର୍ଯ୍ୟଦକ୍ଷତା ବୃଦ୍ଧିକରିପାରୁଥିବା ସେଟିଙ୍ଗଗୁଡ଼ିକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
 
-#: settings/performance/kcmperformance.desktop:193
+#: settings/performance/kcmperformance.desktop:191
 msgctxt "X-KDE-Keywords"
 msgid "performance,speed,memory,improve"
 msgstr ""
 
-#: sidebar/default_entries/bookmarks.desktop:97
-#: sidebar/trees/init/bookmarks_module.desktop:97
+#: sidebar/default_entries/bookmarks.desktop:96
+#: sidebar/trees/init/bookmarks_module.desktop:96
 msgctxt "Comment"
 msgid "This is the list of your bookmarks, for a faster access"
 msgstr "ତୁରନ୍ତ ବ୍ୟବହାର ପାଇଁ, ଏହା ଆପଣଙ୍କର ଚିହ୍ନିତ ସ୍ଥାନର ତାଲିକା"
@@ -567,7 +567,7 @@ msgctxt "Name"
 msgid "History"
 msgstr "ପୁରୁଣା ତଥ୍ୟ"
 
-#: sidebar/default_entries/history.desktop:98
+#: sidebar/default_entries/history.desktop:97
 msgctxt "Comment"
 msgid ""
 "This is the history of the URLs you have recently visited. You can sort them "
@@ -581,7 +581,7 @@ msgctxt "Name"
 msgid "Home Folder"
 msgstr "ମୂଳ ସ୍ଥାନ ଫୋଲଡ଼ର"
 
-#: sidebar/default_entries/home.desktop:97
+#: sidebar/default_entries/home.desktop:96
 msgctxt "Comment"
 msgid "This folder contains your personal files"
 msgstr "ଏହା ଆପଣଙ୍କର ବ୍ୟକ୍ତିଗତ ଫାଇଲଗୁଡ଼ିକୁ ଧାରଣ କରିଥିବା ଫୋଲଡ଼ର"
@@ -591,7 +591,7 @@ msgctxt "Name"
 msgid "Places"
 msgstr "ସ୍ଥାନଗୁଡ଼ିକ"
 
-#: sidebar/default_entries/places.desktop:80
+#: sidebar/default_entries/places.desktop:79
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "This is the root of the filesystem"
@@ -610,7 +610,7 @@ msgctxt "Name"
 msgid "Root Folder"
 msgstr "ପ୍ରମୂଖ ଚାଳକ ଫୋଲଡ଼ର"
 
-#: sidebar/default_entries/root.desktop:96
+#: sidebar/default_entries/root.desktop:95
 msgctxt "Comment"
 msgid "This is the root of the filesystem"
 msgstr "ଏହା ଫାଇଲ ତନ୍ତ୍ରର ମୂଖ୍ୟଚାଳକ"
@@ -621,12 +621,12 @@ msgctxt "Name"
 msgid "Services"
 msgstr "ସର୍ଭିସଗୁଡ଼ିକ"
 
-#: sidebar/history_module/kcmhistory.desktop:104
+#: sidebar/history_module/kcmhistory.desktop:103
 msgctxt "Comment"
 msgid "Configure the history sidebar"
 msgstr "ପୁରୁଣା ତଥ୍ୟ ପାର୍ଶ୍ୱପଟିକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
 
-#: sidebar/history_module/kcmhistory.desktop:194
+#: sidebar/history_module/kcmhistory.desktop:192
 msgctxt "X-KDE-Keywords"
 msgid "history,expire"
 msgstr ""
