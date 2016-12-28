@@ -1,0 +1,158 @@
+# translation of kcminput.po to Oriya
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Manoj Kumar Giri <mgiri@redhat.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcminput\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2016-11-19 22:53+0100\n"
+"PO-Revision-Date: 2009-01-02 11:44+0530\n"
+"Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
+"Language-Team: Oriya <oriya-it@googlegroups.com>\n"
+"Language: or\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"\n"
+"\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: kcmcursortheme.cpp:43
+#, kde-format
+msgid "Cursor Theme"
+msgstr ""
+
+#: kcmcursortheme.cpp:44
+#, kde-format
+msgid "(c) 2003-2007 Fredrik Höglund"
+msgstr ""
+
+#: kcmcursortheme.cpp:45
+#, kde-format
+msgid "Fredrik Höglund"
+msgstr ""
+
+#: xcursor/thememodel.cpp:67
+#, kde-format
+msgid "Name"
+msgstr ""
+
+#: xcursor/thememodel.cpp:70
+#, kde-format
+msgid "Description"
+msgstr ""
+
+#: xcursor/themepage.cpp:154
+#, kde-format
+msgctxt "@item:inlistbox size"
+msgid "Resolution dependent"
+msgstr ""
+
+#: xcursor/themepage.cpp:317
+#, kde-format
+msgid ""
+"You have to restart the Plasma session for these changes to take effect."
+msgstr ""
+
+#: xcursor/themepage.cpp:318
+#, kde-format
+msgid "Cursor Settings Changed"
+msgstr ""
+
+#: xcursor/themepage.cpp:436
+#, kde-format
+msgid "Drag or Type Theme URL"
+msgstr ""
+
+#: xcursor/themepage.cpp:447
+#, kde-format
+msgid "Unable to find the cursor theme archive %1."
+msgstr ""
+
+#: xcursor/themepage.cpp:450
+#, kde-format
+msgid ""
+"Unable to download the cursor theme archive; please check that the address "
+"%1 is correct."
+msgstr ""
+
+#: xcursor/themepage.cpp:459
+#, kde-format
+msgid "The file %1 does not appear to be a valid cursor theme archive."
+msgstr ""
+
+#: xcursor/themepage.cpp:474
+#, kde-format
+msgid ""
+"<qt>You cannot delete the theme you are currently using.<br />You have to "
+"switch to another theme first.</qt>"
+msgstr ""
+
+#: xcursor/themepage.cpp:480
+#, kde-format
+msgid ""
+"<qt>Are you sure you want to remove the <i>%1</i> cursor theme?<br />This "
+"will delete all the files installed by this theme.</qt>"
+msgstr ""
+
+#: xcursor/themepage.cpp:486
+#, kde-format
+msgid "Confirmation"
+msgstr ""
+
+#: xcursor/themepage.cpp:543
+#, kde-format
+msgid ""
+"A theme named %1 already exists in your icon theme folder. Do you want "
+"replace it with this one?"
+msgstr ""
+
+#: xcursor/themepage.cpp:547
+#, kde-format
+msgid "Overwrite Theme?"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, installKnsButton)
+#: xcursor/themepage.ui:49
+#, kde-format
+msgid "Get new color schemes from the Internet"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, installKnsButton)
+#: xcursor/themepage.ui:52
+#, kde-format
+msgid "Get new Theme"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, removeButton)
+#: xcursor/themepage.ui:59
+#, kde-format
+msgid "Remove Theme"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, installButton)
+#: xcursor/themepage.ui:85
+#, kde-format
+msgid "Install from File"
+msgstr ""
+
+#: xcursor/xcursortheme.cpp:77
+#, kde-format
+msgctxt ""
+"@info The argument is the list of available sizes (in pixel). Example: "
+"'Available sizes: 24' or 'Available sizes: 24, 36, 48'"
+msgid "(Available sizes: %1)"
+msgstr ""
