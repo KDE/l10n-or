@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-01-04 03:43+0100\n"
+"POT-Creation-Date: 2017-01-13 03:38+0100\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1000,12 +1000,15 @@ msgid "Comment"
 msgstr "ଟିପ୍ପଣୀ ଯୋଗକରନ୍ତୁ..."
 
 #: kitemviews/kfileitemmodel.cpp:2228
-#, kde-format
+#, fuzzy, kde-format
+#| msgctxt "@label"
+#| msgid "Title:"
 msgctxt "@label"
-msgid "Word Count"
-msgstr ""
+msgid "Title"
+msgstr "ଶୀର୍ଷକ:"
 
 #: kitemviews/kfileitemmodel.cpp:2228 kitemviews/kfileitemmodel.cpp:2229
+#: kitemviews/kfileitemmodel.cpp:2230
 #, fuzzy, kde-format
 #| msgctxt "@info:credit"
 #| msgid "Documentation"
@@ -1016,10 +1019,16 @@ msgstr "ଦଲିଲିକରଣ"
 #: kitemviews/kfileitemmodel.cpp:2229
 #, kde-format
 msgctxt "@label"
-msgid "Line Count"
+msgid "Word Count"
 msgstr ""
 
 #: kitemviews/kfileitemmodel.cpp:2230
+#, kde-format
+msgctxt "@label"
+msgid "Line Count"
+msgstr ""
+
+#: kitemviews/kfileitemmodel.cpp:2231
 #, fuzzy, kde-format
 #| msgctxt "@title:group"
 #| msgid "File Previews"
@@ -1027,13 +1036,13 @@ msgctxt "@label"
 msgid "Image Size"
 msgstr "ଫାଇଲ ପ୍ରାକଦର୍ଶନ"
 
-#: kitemviews/kfileitemmodel.cpp:2230 kitemviews/kfileitemmodel.cpp:2231
+#: kitemviews/kfileitemmodel.cpp:2231 kitemviews/kfileitemmodel.cpp:2232
 #, kde-format
 msgctxt "@label"
 msgid "Image"
 msgstr ""
 
-#: kitemviews/kfileitemmodel.cpp:2231
+#: kitemviews/kfileitemmodel.cpp:2232
 #, fuzzy, kde-format
 #| msgctxt "@info:credit"
 #| msgid "Documentation"
@@ -1041,7 +1050,7 @@ msgctxt "@label"
 msgid "Orientation"
 msgstr "ଦଲିଲିକରଣ"
 
-#: kitemviews/kfileitemmodel.cpp:2232
+#: kitemviews/kfileitemmodel.cpp:2233
 #, fuzzy, kde-format
 #| msgctxt "@label"
 #| msgid "Artist:"
@@ -1049,14 +1058,14 @@ msgctxt "@label"
 msgid "Artist"
 msgstr "କଳାକାର:"
 
-#: kitemviews/kfileitemmodel.cpp:2232 kitemviews/kfileitemmodel.cpp:2233
-#: kitemviews/kfileitemmodel.cpp:2234 kitemviews/kfileitemmodel.cpp:2235
+#: kitemviews/kfileitemmodel.cpp:2233 kitemviews/kfileitemmodel.cpp:2234
+#: kitemviews/kfileitemmodel.cpp:2235 kitemviews/kfileitemmodel.cpp:2236
 #, kde-format
 msgctxt "@label"
 msgid "Audio"
 msgstr ""
 
-#: kitemviews/kfileitemmodel.cpp:2233
+#: kitemviews/kfileitemmodel.cpp:2234
 #, fuzzy, kde-format
 #| msgctxt "@label"
 #| msgid "Album:"
@@ -1064,7 +1073,7 @@ msgctxt "@label"
 msgid "Album"
 msgstr "ଆଲବମ:"
 
-#: kitemviews/kfileitemmodel.cpp:2234
+#: kitemviews/kfileitemmodel.cpp:2235
 #, fuzzy, kde-format
 #| msgctxt "@info:credit"
 #| msgid "Documentation"
@@ -1072,7 +1081,7 @@ msgctxt "@label"
 msgid "Duration"
 msgstr "ଦଲିଲିକରଣ"
 
-#: kitemviews/kfileitemmodel.cpp:2235
+#: kitemviews/kfileitemmodel.cpp:2236
 #, fuzzy, kde-format
 #| msgctxt "@label"
 #| msgid "Track:"
@@ -1080,7 +1089,7 @@ msgctxt "@label"
 msgid "Track"
 msgstr "ଅନୁସରଣ କରନ୍ତୁ:"
 
-#: kitemviews/kfileitemmodel.cpp:2236
+#: kitemviews/kfileitemmodel.cpp:2237
 #, fuzzy, kde-format
 #| msgctxt "@action:inmenu"
 #| msgid "Paste"
@@ -1088,9 +1097,9 @@ msgctxt "@label"
 msgid "Path"
 msgstr "ଲଗାନ୍ତୁ"
 
-#: kitemviews/kfileitemmodel.cpp:2236 kitemviews/kfileitemmodel.cpp:2237
-#: kitemviews/kfileitemmodel.cpp:2238 kitemviews/kfileitemmodel.cpp:2239
-#: kitemviews/kfileitemmodel.cpp:2240 kitemviews/kfileitemmodel.cpp:2241
+#: kitemviews/kfileitemmodel.cpp:2237 kitemviews/kfileitemmodel.cpp:2238
+#: kitemviews/kfileitemmodel.cpp:2239 kitemviews/kfileitemmodel.cpp:2240
+#: kitemviews/kfileitemmodel.cpp:2241 kitemviews/kfileitemmodel.cpp:2242
 #, fuzzy, kde-format
 #| msgctxt "@title:group Name"
 #| msgid "Others"
@@ -1098,7 +1107,7 @@ msgctxt "@label"
 msgid "Other"
 msgstr "ଅନ୍ୟମାନେ"
 
-#: kitemviews/kfileitemmodel.cpp:2237
+#: kitemviews/kfileitemmodel.cpp:2238
 #, fuzzy, kde-format
 #| msgctxt "@info:credit"
 #| msgid "Documentation"
@@ -1106,73 +1115,73 @@ msgctxt "@label"
 msgid "Link Destination"
 msgstr "ଦଲିଲିକରଣ"
 
-#: kitemviews/kfileitemmodel.cpp:2238
+#: kitemviews/kfileitemmodel.cpp:2239
 #, kde-format
 msgctxt "@label"
 msgid "Downloaded From"
 msgstr ""
 
-#: kitemviews/kfileitemmodel.cpp:2239
+#: kitemviews/kfileitemmodel.cpp:2240
 #, kde-format
 msgctxt "@label"
 msgid "Permissions"
 msgstr ""
 
-#: kitemviews/kfileitemmodel.cpp:2240
+#: kitemviews/kfileitemmodel.cpp:2241
 #, kde-format
 msgctxt "@label"
 msgid "Owner"
 msgstr ""
 
-#: kitemviews/kfileitemmodel.cpp:2241
+#: kitemviews/kfileitemmodel.cpp:2242
 #, kde-format
 msgctxt "@label"
 msgid "User Group"
 msgstr ""
 
-#: kitemviews/private/kbaloorolesprovider.cpp:168
+#: kitemviews/private/kbaloorolesprovider.cpp:169
 #, kde-format
 msgctxt "@item:intable Image orientation"
 msgid "Unchanged"
 msgstr ""
 
-#: kitemviews/private/kbaloorolesprovider.cpp:169
+#: kitemviews/private/kbaloorolesprovider.cpp:170
 #, kde-format
 msgctxt "@item:intable Image orientation"
 msgid "Horizontally flipped"
 msgstr ""
 
-#: kitemviews/private/kbaloorolesprovider.cpp:170
+#: kitemviews/private/kbaloorolesprovider.cpp:171
 #, kde-format
 msgctxt "@item:intable image orientation"
 msgid "180° rotated"
 msgstr ""
 
-#: kitemviews/private/kbaloorolesprovider.cpp:171
+#: kitemviews/private/kbaloorolesprovider.cpp:172
 #, kde-format
 msgctxt "@item:intable image orientation"
 msgid "Vertically flipped"
 msgstr ""
 
-#: kitemviews/private/kbaloorolesprovider.cpp:172
+#: kitemviews/private/kbaloorolesprovider.cpp:173
 #, kde-format
 msgctxt "@item:intable image orientation"
 msgid "Transposed"
 msgstr ""
 
-#: kitemviews/private/kbaloorolesprovider.cpp:173
+#: kitemviews/private/kbaloorolesprovider.cpp:174
 #, kde-format
 msgctxt "@item:intable image orientation"
 msgid "90° rotated"
 msgstr ""
 
-#: kitemviews/private/kbaloorolesprovider.cpp:174
+#: kitemviews/private/kbaloorolesprovider.cpp:175
 #, kde-format
 msgctxt "@item:intable image orientation"
 msgid "Transversed"
 msgstr ""
 
-#: kitemviews/private/kbaloorolesprovider.cpp:175
+#: kitemviews/private/kbaloorolesprovider.cpp:176
 #, kde-format
 msgctxt "@item:intable image orientation"
 msgid "270° rotated"
@@ -4076,13 +4085,6 @@ msgstr ""
 #~ msgctxt "@label"
 #~ msgid "MIME Type"
 #~ msgstr "ପ୍ରକାର:"
-
-#, fuzzy
-#~| msgctxt "@label"
-#~| msgid "Title:"
-#~ msgctxt "@label music title"
-#~ msgid "Title"
-#~ msgstr "ଶୀର୍ଷକ:"
 
 #, fuzzy
 #~| msgctxt "@label:textbox"
