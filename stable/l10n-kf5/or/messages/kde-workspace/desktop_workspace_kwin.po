@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-01-08 03:12+0000\n"
+"POT-Creation-Date: 2017-01-21 06:39+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -574,6 +574,22 @@ msgstr "ଆଲେଖି"
 msgctxt "Comment"
 msgid "A graphics reset event occurred"
 msgstr ""
+
+#: packageplugins/scripts/kwin-packagestructure-scripts.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "CGI Scripts"
+msgctxt "Name"
+msgid "KWin Script"
+msgstr "CGI ସ୍କ୍ରିପ୍ଟଗୁଡ଼ିକ"
+
+#: packageplugins/windowswitcher/kwin-packagestructure-windowswitcher.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Window Manager"
+msgctxt "Name"
+msgid "KWin Window Switcher"
+msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ"
 
 #: plugins/kdecorations/aurorae/src/aurorae.knsrc:2
 #, fuzzy
