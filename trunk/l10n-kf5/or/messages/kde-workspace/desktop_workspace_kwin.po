@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-02-14 09:04+0000\n"
+"POT-Creation-Date: 2017-03-16 02:40+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -130,9 +130,18 @@ msgid "Login"
 msgstr "ଲଗଇନ"
 
 #: effects/login/package/metadata.desktop:88
+#: effects/logout/package/metadata.desktop:4
 msgctxt "Comment"
 msgid "Smoothly fade to the desktop when logging in"
 msgstr ""
+
+#: effects/logout/package/metadata.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Logout"
+msgctxt "Name"
+msgid "logout"
+msgstr "ଲଗଆଉଟ"
 
 #: effects/lookingglass/lookingglass_config.desktop:8
 msgctxt "Name"
@@ -575,6 +584,19 @@ msgctxt "Comment"
 msgid "A graphics reset event occurred"
 msgstr ""
 
+#: packageplugins/aurorae/kwin-packagestructure-aurorae.desktop:2
+msgctxt "Name"
+msgid "KWin Aurorae"
+msgstr ""
+
+#: packageplugins/decoration/kwin-packagestructure-decoration.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Window Information"
+msgctxt "Name"
+msgid "KWin Decoration"
+msgstr "ୱିଣ୍ଡୋ ସୂଚନା"
+
 #: packageplugins/scripts/kwin-packagestructure-scripts.desktop:2
 #, fuzzy
 #| msgctxt "Name"
@@ -786,10 +808,6 @@ msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ"
 #~ msgctxt "Comment"
 #~ msgid "Configure the behavior for navigating through windows"
 #~ msgstr "Java ଏବଂ JavaScriptର ଆଚରଣକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
-
-#~ msgctxt "Name"
-#~ msgid "Logout"
-#~ msgstr "ଲଗଆଉଟ"
 
 #, fuzzy
 #~| msgctxt "Name"
