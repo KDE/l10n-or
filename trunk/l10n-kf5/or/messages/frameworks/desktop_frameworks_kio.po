@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-03-08 03:15+0000\n"
+"POT-Creation-Date: 2017-03-20 01:49+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -164,9 +164,8 @@ msgstr "ୱିଣ୍ଡୋର ସହଭାଗ"
 
 #: src/kcms/kio/smb.desktop:98
 msgctxt "Comment"
-msgid "Use to configure which windows (SMB) filesystems you can browse"
+msgid "Credentials used to access SMB shares"
 msgstr ""
-"ଆପଣ ବ୍ରାଉଜ କରିପାରୁଥିବା ଯେଉଁ ୱିଣ୍ଡୋର (SMB) ଫାଇଲତନ୍ତ୍ରକୁ ବିନ୍ୟାସ କରିବା ପାଇଁ ବ୍ୟବହୃତ ହୋଇଥାଏ"
 
 #: src/kcms/kio/smb.desktop:182
 msgctxt "X-KDE-Keywords"
@@ -228,6 +227,14 @@ msgctxt "Name"
 msgid "UADescription (Google Chrome 5.0)"
 msgstr "UA ବର୍ଣ୍ଣନା (Windows XP ଉପରେ Mozilla 1.7)"
 
+#: src/kcms/kio/uasproviders/chrome570oncurrent.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "UADescription (Mozilla 1.7 on Windows XP)"
+msgctxt "Name"
+msgid "UADescription (Google Chrome 57.0)"
+msgstr "UA ବର୍ଣ୍ଣନା (Windows XP ଉପରେ Mozilla 1.7)"
+
 #: src/kcms/kio/uasproviders/firefox15oncurrent.desktop:2
 #, fuzzy
 #| msgctxt "Name"
@@ -263,6 +270,14 @@ msgstr "UA ବର୍ଣ୍ଣନା (ପ୍ରଚଳିତ Firefox 2.0)"
 #| msgid "UADescription (Firefox 2.0 on current)"
 msgctxt "Name"
 msgid "UADescription (Firefox 3.6 on current)"
+msgstr "UA ବର୍ଣ୍ଣନା (ପ୍ରଚଳିତ Firefox 2.0)"
+
+#: src/kcms/kio/uasproviders/firefox520oncurrent.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "UADescription (Firefox 2.0 on current)"
+msgctxt "Name"
+msgid "UADescription (Firefox 52.0 on current)"
 msgstr "UA ବର୍ଣ୍ଣନା (ପ୍ରଚଳିତ Firefox 2.0)"
 
 #: src/kcms/kio/uasproviders/googlebot.desktop:2
@@ -453,8 +468,8 @@ msgstr "ବ୍ରାଉଜର ପରିଚୟ"
 
 #: src/kcms/kio/useragent.desktop:99
 msgctxt "Comment"
-msgid "Configure the way Konqueror reports itself"
-msgstr "Konqueror ନିଜକୁ ଖବର କରୁଥିବା ପଥକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
+msgid "Configure the User Agent exposed by the HTTP kioslave"
+msgstr ""
 
 #: src/kcms/kio/useragent.desktop:183
 msgctxt "X-KDE-Keywords"
@@ -2322,6 +2337,15 @@ msgstr ""
 msgctxt "Name"
 msgid "Enhanced Browsing Plugin"
 msgstr "Tabbed ବ୍ରାଉଜିଙ୍ଗ"
+
+#~ msgctxt "Comment"
+#~ msgid "Use to configure which windows (SMB) filesystems you can browse"
+#~ msgstr ""
+#~ "ଆପଣ ବ୍ରାଉଜ କରିପାରୁଥିବା ଯେଉଁ ୱିଣ୍ଡୋର (SMB) ଫାଇଲତନ୍ତ୍ରକୁ ବିନ୍ୟାସ କରିବା ପାଇଁ ବ୍ୟବହୃତ ହୋଇଥାଏ"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure the way Konqueror reports itself"
+#~ msgstr "Konqueror ନିଜକୁ ଖବର କରୁଥିବା ପଥକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
 
 #, fuzzy
 #~| msgctxt "Name"
