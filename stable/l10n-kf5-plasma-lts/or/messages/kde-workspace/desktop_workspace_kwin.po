@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-03-23 04:45+0000\n"
+"POT-Creation-Date: 2017-04-13 03:22+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -307,14 +307,6 @@ msgid ""
 "video settings,graphical effects,desktop effects,animation speed"
 msgstr ""
 
-#: kcmkwin/kwincompositing/kwineffect.knsrc:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Window Manager"
-msgctxt "Name"
-msgid "Window Manager Effects"
-msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ"
-
 #: kcmkwin/kwindecoration/kwindecoration.desktop:14
 #, fuzzy
 #| msgctxt "Name"
@@ -508,22 +500,6 @@ msgctxt "Comment"
 msgid "Manage KWin scripts"
 msgstr ""
 
-#: kcmkwin/kwinscripts/kwinscripts.knsrc:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Window Manager"
-msgctxt "Name"
-msgid "Window Manager Scripts"
-msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ"
-
-#: kcmkwin/kwintabbox/kwinswitcher.knsrc:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Window Manager"
-msgctxt "Name"
-msgid "Window Manager Switching Layouts"
-msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ"
-
 #: kcmkwin/kwintabbox/kwintabbox.desktop:13
 msgctxt "Name"
 msgid "Task Switcher"
@@ -574,30 +550,6 @@ msgstr "ଆଲେଖି"
 msgctxt "Comment"
 msgid "A graphics reset event occurred"
 msgstr ""
-
-#: packageplugins/scripts/kwin-packagestructure-scripts.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "CGI Scripts"
-msgctxt "Name"
-msgid "KWin Script"
-msgstr "CGI ସ୍କ୍ରିପ୍ଟଗୁଡ଼ିକ"
-
-#: packageplugins/windowswitcher/kwin-packagestructure-windowswitcher.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Window Manager"
-msgctxt "Name"
-msgid "KWin Window Switcher"
-msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ"
-
-#: plugins/kdecorations/aurorae/src/aurorae.knsrc:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Window Information"
-msgctxt "Name"
-msgid "Aurorae Window Decorations"
-msgstr "ୱିଣ୍ଡୋ ସୂଚନା"
 
 #: plugins/kdecorations/aurorae/src/kwindecoration.desktop:5
 #, fuzzy
@@ -705,6 +657,48 @@ msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ"
 msgctxt "Comment"
 msgid "KWin Window Switcher Layout"
 msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Window Manager"
+#~ msgctxt "Name"
+#~ msgid "Window Manager Effects"
+#~ msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Window Manager"
+#~ msgctxt "Name"
+#~ msgid "Window Manager Scripts"
+#~ msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Window Manager"
+#~ msgctxt "Name"
+#~ msgid "Window Manager Switching Layouts"
+#~ msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "CGI Scripts"
+#~ msgctxt "Name"
+#~ msgid "KWin Script"
+#~ msgstr "CGI ସ୍କ୍ରିପ୍ଟଗୁଡ଼ିକ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Window Manager"
+#~ msgctxt "Name"
+#~ msgid "KWin Window Switcher"
+#~ msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Window Information"
+#~ msgctxt "Name"
+#~ msgid "Aurorae Window Decorations"
+#~ msgstr "ୱିଣ୍ଡୋ ସୂଚନା"
 
 #~ msgctxt "Name"
 #~ msgid "Dashboard"
