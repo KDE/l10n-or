@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-08-09 05:22+0000\n"
+"POT-Creation-Date: 2017-08-28 01:12+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -596,21 +596,6 @@ msgstr "ପାଠ୍ୟ ଫାଇଲ..."
 msgctxt "Comment"
 msgid "Enter text filename:"
 msgstr "ପାଠ୍ୟ ଫାଇଲ ନାମ ଭରଣ କରନ୍ତୁ:"
-
-#: src/urifilters/fixhost/fixhosturifilter.desktop:3
-msgctxt "Name"
-msgid "FixHostFilter"
-msgstr "FixHostFilter"
-
-#: src/urifilters/ikws/kuriikwsfilter.desktop:3
-msgctxt "Name"
-msgid "InternetKeywordsFilter"
-msgstr "InternetKeywordsFilter"
-
-#: src/urifilters/ikws/kurisearchfilter.desktop:3
-msgctxt "Name"
-msgid "SearchKeywordsFilter"
-msgstr "SearchKeywordsFilter"
 
 #: src/urifilters/ikws/searchprovider.desktop:4
 msgctxt "Comment"
@@ -2291,16 +2276,6 @@ msgctxt "Query"
 msgid "https://www.youtube.com/results?search_query=\\\\{@}&search_type=&aq=f"
 msgstr ""
 
-#: src/urifilters/localdomain/localdomainurifilter.desktop:3
-msgctxt "Name"
-msgid "LocalDomainFilter"
-msgstr "LocalDomainFilter"
-
-#: src/urifilters/shorturi/kshorturifilter.desktop:3
-msgctxt "Name"
-msgid "ShortURIFilter"
-msgstr "ShortURIFilter"
-
 #: src/widgets/kfileitemactionplugin.desktop:4
 #, fuzzy
 #| msgctxt "Comment"
@@ -2337,6 +2312,26 @@ msgstr ""
 msgctxt "Name"
 msgid "Enhanced Browsing Plugin"
 msgstr "Tabbed ବ୍ରାଉଜିଙ୍ଗ"
+
+#~ msgctxt "Name"
+#~ msgid "FixHostFilter"
+#~ msgstr "FixHostFilter"
+
+#~ msgctxt "Name"
+#~ msgid "InternetKeywordsFilter"
+#~ msgstr "InternetKeywordsFilter"
+
+#~ msgctxt "Name"
+#~ msgid "SearchKeywordsFilter"
+#~ msgstr "SearchKeywordsFilter"
+
+#~ msgctxt "Name"
+#~ msgid "LocalDomainFilter"
+#~ msgstr "LocalDomainFilter"
+
+#~ msgctxt "Name"
+#~ msgid "ShortURIFilter"
+#~ msgstr "ShortURIFilter"
 
 #~ msgctxt "Comment"
 #~ msgid "Use to configure which windows (SMB) filesystems you can browse"
