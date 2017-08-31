@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-08-29 01:16+0000\n"
+"POT-Creation-Date: 2017-08-31 01:11+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -82,7 +82,7 @@ msgstr "ଅକ୍ସିଜେନ"
 
 #: kdecoration/config/oxygendecorationconfig.desktop:12
 msgctxt "Name"
-msgid "Window  Decoration"
+msgid "Oxygen Window Decoration"
 msgstr ""
 
 #: kdecoration/config/oxygendecorationconfig.desktop:50
@@ -96,9 +96,12 @@ msgid "oxygen,decoration"
 msgstr ""
 
 #: kstyle/config/oxygenstyleconfig.desktop:12
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Oxygen"
 msgctxt "Name"
-msgid "Widget Style"
-msgstr ""
+msgid "Oxygen Widget Style"
+msgstr "ଅକ୍ସିଜେନ"
 
 #: kstyle/config/oxygenstyleconfig.desktop:52
 msgctxt "Comment"
