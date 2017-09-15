@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: systemsettings\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-08-05 03:26+0200\n"
+"POT-Creation-Date: 2017-09-15 05:56+0200\n"
 "PO-Revision-Date: 2009-01-02 11:51+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -43,6 +43,7 @@ msgid "Show detailed tooltips"
 msgstr ""
 
 #: app/main.cpp:37 app/SettingsBase.cpp:55 classic/CategoryList.cpp:40
+#: sidebar/package/contents/ui/introPage.qml:41
 #, kde-format
 msgid "System Settings"
 msgstr ""
@@ -96,7 +97,7 @@ msgctxt "Search through a list of control modules"
 msgid "Search"
 msgstr ""
 
-#: app/SettingsBase.cpp:137
+#: app/SettingsBase.cpp:137 sidebar/package/contents/ui/CategoriesPage.qml:49
 #, kde-format
 msgid "Configure"
 msgstr ""
@@ -159,7 +160,7 @@ msgid "Internal name for the view used"
 msgstr ""
 
 #. i18n: ectx: ToolBar (mainToolBar)
-#: app/systemsettingsui.rc:16
+#: app/systemsettingsui.rc:16 sidebar/package/contents/ui/CategoriesPage.qml:59
 #, kde-format
 msgid "About System Settings"
 msgstr ""
@@ -256,6 +257,37 @@ msgstr ""
 #: icons/IconMode.cpp:68
 #, kde-format
 msgid "Keyboard Shortcut: %1"
+msgstr ""
+
+#: sidebar/package/contents/ui/CategoriesPage.qml:54
+#, kde-format
+msgid "System Settings Handbook"
+msgstr ""
+
+#: sidebar/package/contents/ui/CategoriesPage.qml:64
+#, kde-format
+msgid "About KDE"
+msgstr ""
+
+#: sidebar/package/contents/ui/CategoriesPage.qml:76
+#, kde-format
+msgid "Search..."
+msgstr ""
+
+#: sidebar/package/contents/ui/CategoriesPage.qml:119
+#, kde-format
+msgctxt "A search yelded no results"
+msgid "No items matching your search"
+msgstr ""
+
+#: sidebar/package/contents/ui/introPage.qml:60
+#, kde-format
+msgid "Frequently used:"
+msgstr ""
+
+#: sidebar/package/contents/ui/SubCategoryPage.qml:34
+#, kde-format
+msgid "Back"
 msgstr ""
 
 #: sidebar/SidebarMode.cpp:243
