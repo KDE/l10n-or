@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-07-29 05:15+0200\n"
+"POT-Creation-Date: 2017-09-18 05:32+0200\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -571,7 +571,7 @@ msgctxt "@action:inmenu"
 msgid "&Delete"
 msgstr "ଅପସାରଣ କରନ୍ତୁ"
 
-#: dolphinremoveaction.cpp:53
+#: dolphinremoveaction.cpp:58
 #, fuzzy, kde-format
 #| msgctxt "@action:inmenu"
 #| msgid "Move To Trash"
@@ -3281,14 +3281,14 @@ msgctxt "@info:status"
 msgid "0 Folders, 0 Files"
 msgstr "ଫୋଲଡ଼ରଗୁଡ଼ିକ"
 
-#: views/dolphinview.cpp:823
+#: views/dolphinview.cpp:826
 #, kde-format
 msgid "Are you sure you want to open 1 item?"
 msgid_plural "Are you sure you want to open %1 items?"
 msgstr[0] ""
 msgstr[1] ""
 
-#: views/dolphinview.cpp:933
+#: views/dolphinview.cpp:936
 #, fuzzy, kde-format
 #| msgctxt "@title:tab"
 #| msgid "Column"
@@ -3296,7 +3296,7 @@ msgctxt "@action:inmenu"
 msgid "Automatic Column Widths"
 msgstr "ସ୍ତମ୍ଭ"
 
-#: views/dolphinview.cpp:938
+#: views/dolphinview.cpp:941
 #, fuzzy, kde-format
 #| msgctxt "@title:tab"
 #| msgid "Column"
@@ -3304,7 +3304,7 @@ msgctxt "@action:inmenu"
 msgid "Custom Column Widths"
 msgstr "ସ୍ତମ୍ଭ"
 
-#: views/dolphinview.cpp:1406
+#: views/dolphinview.cpp:1407
 #, fuzzy, kde-format
 #| msgctxt "@info:status"
 #| msgid "Delete operation completed."
@@ -3312,19 +3312,19 @@ msgctxt "@info:status"
 msgid "Trash operation completed."
 msgstr "ଅପସାରଣ କ୍ରିୟା ସମାପ୍ତହୋଇଛି।"
 
-#: views/dolphinview.cpp:1415
+#: views/dolphinview.cpp:1416
 #, kde-format
 msgctxt "@info:status"
 msgid "Delete operation completed."
 msgstr "ଅପସାରଣ କ୍ରିୟା ସମାପ୍ତହୋଇଛି।"
 
-#: views/dolphinview.cpp:1558
+#: views/dolphinview.cpp:1561
 #, kde-format
 msgctxt "@info:status"
 msgid "The location is empty."
 msgstr "ସ୍ଥାନଟି ଖାଲିଅଛି।"
 
-#: views/dolphinview.cpp:1560
+#: views/dolphinview.cpp:1563
 #, kde-format
 msgctxt "@info:status"
 msgid "The location '%1' is invalid."
@@ -3354,13 +3354,13 @@ msgctxt "@action:inmenu File"
 msgid "Move to Trash"
 msgstr "ଆବର୍ଜନା ପାତ୍ର ମଧ୍ଯକୁ ପଠାନ୍ତୁ"
 
-#: views/dolphinviewactionhandler.cpp:131
+#: views/dolphinviewactionhandler.cpp:136
 #, kde-format
 msgctxt "@action \"Move to Trash\" for non-local files, etc."
 msgid "Delete (using shortcut for Trash)"
 msgstr ""
 
-#: views/dolphinviewactionhandler.cpp:138
+#: views/dolphinviewactionhandler.cpp:143
 #, fuzzy, kde-format
 #| msgctxt "@action:inmenu"
 #| msgid "Properties"
@@ -3368,7 +3368,7 @@ msgctxt "@action:inmenu File"
 msgid "Properties"
 msgstr "ଗୁଣଧର୍ମ"
 
-#: views/dolphinviewactionhandler.cpp:149
+#: views/dolphinviewactionhandler.cpp:154
 #, fuzzy, kde-format
 #| msgctxt "@title:menu"
 #| msgid "View Mode"
@@ -3376,7 +3376,7 @@ msgctxt "@action:intoolbar"
 msgid "View Mode"
 msgstr "ଦୃଶ୍ୟମାନ ଅବସ୍ଥା"
 
-#: views/dolphinviewactionhandler.cpp:165
+#: views/dolphinviewactionhandler.cpp:170
 #, fuzzy, kde-format
 #| msgctxt "@label:listbox"
 #| msgid "Preview:"
@@ -3384,7 +3384,7 @@ msgctxt "@action:intoolbar"
 msgid "Preview"
 msgstr "ପ୍ରାକଦର୍ଶନ:"
 
-#: views/dolphinviewactionhandler.cpp:166
+#: views/dolphinviewactionhandler.cpp:171
 #, fuzzy, kde-format
 #| msgctxt "@option:check Ask for Confirmation When"
 #| msgid "Deleting files or folders"
@@ -3392,13 +3392,13 @@ msgctxt "@info"
 msgid "Show preview of files and folders"
 msgstr "ଫାଇଲ କିମ୍ବା ଫୋଲଡ଼ରଗୁଡ଼ିକୁ ଅପସାରଣ କରୁଅଛି"
 
-#: views/dolphinviewactionhandler.cpp:171
+#: views/dolphinviewactionhandler.cpp:176
 #, kde-format
 msgctxt "@action:inmenu Sort"
 msgid "Descending"
 msgstr ""
 
-#: views/dolphinviewactionhandler.cpp:175
+#: views/dolphinviewactionhandler.cpp:180
 #, fuzzy, kde-format
 #| msgctxt "@title:group Size"
 #| msgid "Folders"
@@ -3406,13 +3406,13 @@ msgctxt "@action:inmenu Sort"
 msgid "Folders First"
 msgstr "ଫୋଲଡ଼ରଗୁଡ଼ିକ"
 
-#: views/dolphinviewactionhandler.cpp:182
+#: views/dolphinviewactionhandler.cpp:187
 #, kde-format
 msgctxt "@action:inmenu View"
 msgid "Sort By"
 msgstr ""
 
-#: views/dolphinviewactionhandler.cpp:196
+#: views/dolphinviewactionhandler.cpp:201
 #, fuzzy, kde-format
 #| msgctxt "@option:check"
 #| msgid "Show space information"
@@ -3420,13 +3420,13 @@ msgctxt "@action:inmenu View"
 msgid "Additional Information"
 msgstr "ସ୍ଥାନ ସୂଚନା ଦର୍ଶାନ୍ତୁ"
 
-#: views/dolphinviewactionhandler.cpp:205
+#: views/dolphinviewactionhandler.cpp:210
 #, kde-format
 msgctxt "@action:inmenu View"
 msgid "Show in Groups"
 msgstr ""
 
-#: views/dolphinviewactionhandler.cpp:209
+#: views/dolphinviewactionhandler.cpp:214
 #, fuzzy, kde-format
 #| msgctxt "@action:inmenu"
 #| msgid "Show Hidden Files"
@@ -3434,7 +3434,7 @@ msgctxt "@action:inmenu View"
 msgid "Hidden Files"
 msgstr "ଲୁକ୍କାୟିତ ଫାଇଲଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ"
 
-#: views/dolphinviewactionhandler.cpp:210
+#: views/dolphinviewactionhandler.cpp:215
 #, fuzzy, kde-format
 #| msgctxt "@option:check Ask for Confirmation When"
 #| msgid "Deleting files or folders"
@@ -3442,7 +3442,7 @@ msgctxt "@info"
 msgid "Visibility of hidden files and folders"
 msgstr "ଫାଇଲ କିମ୍ବା ଫୋଲଡ଼ରଗୁଡ଼ିକୁ ଅପସାରଣ କରୁଅଛି"
 
-#: views/dolphinviewactionhandler.cpp:215
+#: views/dolphinviewactionhandler.cpp:220
 #, fuzzy, kde-format
 #| msgctxt "@title:group"
 #| msgid "View Properties"
@@ -3450,7 +3450,7 @@ msgctxt "@action:inmenu View"
 msgid "Adjust View Properties..."
 msgstr "ଗୁଣଧର୍ମ ଦେଖନ୍ତୁ"
 
-#: views/dolphinviewactionhandler.cpp:499
+#: views/dolphinviewactionhandler.cpp:504
 #, fuzzy, kde-format
 #| msgctxt "@title:tab"
 #| msgid "Icons"
@@ -3458,19 +3458,19 @@ msgctxt "@action:inmenu View Mode"
 msgid "Icons"
 msgstr "ଚିତ୍ରସଂକେତ"
 
-#: views/dolphinviewactionhandler.cpp:500
+#: views/dolphinviewactionhandler.cpp:505
 #, kde-format
 msgctxt "@info"
 msgid "Icons view mode"
 msgstr ""
 
-#: views/dolphinviewactionhandler.cpp:510
+#: views/dolphinviewactionhandler.cpp:515
 #, kde-format
 msgctxt "@action:inmenu View Mode"
 msgid "Compact"
 msgstr ""
 
-#: views/dolphinviewactionhandler.cpp:511
+#: views/dolphinviewactionhandler.cpp:516
 #, fuzzy, kde-format
 #| msgctxt "@title:tab"
 #| msgid "Column"
@@ -3478,7 +3478,7 @@ msgctxt "@info"
 msgid "Compact view mode"
 msgstr "ସ୍ତମ୍ଭ"
 
-#: views/dolphinviewactionhandler.cpp:521
+#: views/dolphinviewactionhandler.cpp:526
 #, fuzzy, kde-format
 #| msgctxt "@title:tab"
 #| msgid "Details"
@@ -3486,7 +3486,7 @@ msgctxt "@action:inmenu View Mode"
 msgid "Details"
 msgstr "ବିବରଣୀ"
 
-#: views/dolphinviewactionhandler.cpp:522
+#: views/dolphinviewactionhandler.cpp:527
 #, kde-format
 msgctxt "@info"
 msgid "Details view mode"
