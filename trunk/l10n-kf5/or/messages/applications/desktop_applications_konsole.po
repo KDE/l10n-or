@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-11-06 02:15+0000\n"
+"POT-Creation-Date: 2017-12-24 02:23+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -39,23 +39,35 @@ msgid "Konsole"
 msgstr "କୋଲସୋଲ"
 
 #: desktop/konsole.notifyrc:95
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Bell in Visible Session"
 msgctxt "Name"
-msgid "Bell in Visible Session"
+msgid "Bell in Focused Session"
 msgstr "ଦୃଶ୍ୟମାନ ଅଧିବେଶନରେ ବେଲ"
 
 #: desktop/konsole.notifyrc:176
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Bell emitted within a visible session"
 msgctxt "Comment"
-msgid "Bell emitted within a visible session"
+msgid "Bell emitted within a focused session"
 msgstr "ଦୃଶ୍ୟମାନ ଅଧିବେଶନ ମଧ୍ଯରେ ବେଲ ବାହାରିଥାଏ"
 
 #: desktop/konsole.notifyrc:263
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Bell in Non-Visible Session"
 msgctxt "Name"
-msgid "Bell in Non-Visible Session"
+msgid "Bell in Non-Focused Session"
 msgstr "ଅଦୃଶ୍ୟମାନ ଅଧିବେଶନରେ ବେଲ"
 
 #: desktop/konsole.notifyrc:343
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Bell emitted within a non-visible session"
 msgctxt "Comment"
-msgid "Bell emitted within a non-visible session"
+msgid "Bell emitted within a non-focused session"
 msgstr "ଅଦୃଶ୍ୟମାନ ଅଧିବେଶନ ମଧ୍ଯରେ ବେଲ ବାହାରିଥାଏ"
 
 #: desktop/konsole.notifyrc:431
@@ -63,7 +75,7 @@ msgstr "ଅଦୃଶ୍ୟମାନ ଅଧିବେଶନ ମଧ୍ଯରେ ବ
 #| msgctxt "Name"
 #| msgid "Activity in Monitored Session"
 msgctxt "Name"
-msgid "Activity in Hidden Monitored Session"
+msgid "Activity in Non-Focused Monitored Session"
 msgstr "ଯାଞ୍ଚକୃତ ଅଧିବେଶନରେ କାର୍ଯ୍ୟକଳାପ"
 
 #: desktop/konsole.notifyrc:468
@@ -71,7 +83,7 @@ msgstr "ଯାଞ୍ଚକୃତ ଅଧିବେଶନରେ କାର୍ଯ୍�
 #| msgctxt "Comment"
 #| msgid "Activity detected in a monitored session"
 msgctxt "Comment"
-msgid "Activity detected in a hidden monitored session"
+msgid "Activity detected in a non-focused monitored session"
 msgstr "ଯାଞ୍ଚକୃତ ଅଧିବେଶନରେ ଚିହ୍ନଟ ହୋଇଥିବା କାର୍ଯ୍ୟକଳାପ"
 
 #: desktop/konsole.notifyrc:508
@@ -89,7 +101,7 @@ msgstr "ଯାଞ୍ଚକୃତ ଅଧିବେଶନରେ ଚିହ୍ନଟ 
 #| msgctxt "Name"
 #| msgid "Silence in Monitored Session"
 msgctxt "Name"
-msgid "Silence in Hidden Monitored Session"
+msgid "Silence in Non-Focused Monitored Session"
 msgstr "ଯାଞ୍ଚକୃତ ଅଧିବେଶନରେ ନିରବତା"
 
 #: desktop/konsole.notifyrc:710
@@ -97,7 +109,7 @@ msgstr "ଯାଞ୍ଚକୃତ ଅଧିବେଶନରେ ନିରବତା"
 #| msgctxt "Comment"
 #| msgid "Silence detected in a monitored session"
 msgctxt "Comment"
-msgid "Silence detected in a hidden monitored session"
+msgid "Silence detected in a non-focused monitored session"
 msgstr "ଯାଞ୍ଚକୃତ ଅଧିବେଶନରେ ଚିହ୍ନଟ ହୋଇଥିବା ନିରବତା"
 
 #: desktop/konsole.notifyrc:750
@@ -169,6 +181,34 @@ msgstr ""
 msgctxt "Name"
 msgid "Open a New Tab"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Activity in Monitored Session"
+#~ msgctxt "Name"
+#~ msgid "Activity in Hidden Monitored Session"
+#~ msgstr "ଯାଞ୍ଚକୃତ ଅଧିବେଶନରେ କାର୍ଯ୍ୟକଳାପ"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Activity detected in a monitored session"
+#~ msgctxt "Comment"
+#~ msgid "Activity detected in a hidden monitored session"
+#~ msgstr "ଯାଞ୍ଚକୃତ ଅଧିବେଶନରେ ଚିହ୍ନଟ ହୋଇଥିବା କାର୍ଯ୍ୟକଳାପ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Silence in Monitored Session"
+#~ msgctxt "Name"
+#~ msgid "Silence in Hidden Monitored Session"
+#~ msgstr "ଯାଞ୍ଚକୃତ ଅଧିବେଶନରେ ନିରବତା"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Silence detected in a monitored session"
+#~ msgctxt "Comment"
+#~ msgid "Silence detected in a hidden monitored session"
+#~ msgstr "ଯାଞ୍ଚକୃତ ଅଧିବେଶନରେ ଚିହ୍ନଟ ହୋଇଥିବା ନିରବତା"
 
 #~ msgctxt "Name"
 #~ msgid "Shell"
