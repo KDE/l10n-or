@@ -20,70 +20,7 @@ msgstr ""
 "X-Generator: KBabel 1.11.4\n"
 "X-Qt-Contexts: true\n"
 
-#: kjobtrackerformatters.cpp:32
-#, fuzzy, qt-format
-#| msgid "%1 B"
-msgctxt "KJobTrackerFormatters|"
-msgid "%1 B"
-msgstr "%1 B"
-
-#: kjobtrackerformatters.cpp:33
-#, fuzzy, qt-format
-#| msgid "%1 KiB"
-msgctxt "KJobTrackerFormatters|"
-msgid "%1 KiB"
-msgstr "%1 KiB"
-
-#: kjobtrackerformatters.cpp:34
-#, fuzzy, qt-format
-#| msgid "%1 MiB"
-msgctxt "KJobTrackerFormatters|"
-msgid "%1 MiB"
-msgstr "%1 MiB"
-
-#: kjobtrackerformatters.cpp:35
-#, fuzzy, qt-format
-#| msgid "%1 GiB"
-msgctxt "KJobTrackerFormatters|"
-msgid "%1 GiB"
-msgstr "%1 GiB"
-
-#: kjobtrackerformatters.cpp:36
-#, fuzzy, qt-format
-#| msgid "%1 TiB"
-msgctxt "KJobTrackerFormatters|"
-msgid "%1 TiB"
-msgstr "%1 TiB"
-
-#: kjobtrackerformatters.cpp:37
-#, fuzzy, qt-format
-#| msgid "%1 TiB"
-msgctxt "KJobTrackerFormatters|"
-msgid "%1 PiB"
-msgstr "%1 TiB"
-
-#: kjobtrackerformatters.cpp:38
-#, fuzzy, qt-format
-#| msgid "%1 TiB"
-msgctxt "KJobTrackerFormatters|"
-msgid "%1 EiB"
-msgstr "%1 TiB"
-
-#: kjobtrackerformatters.cpp:39
-#, fuzzy, qt-format
-#| msgid "%1 TiB"
-msgctxt "KJobTrackerFormatters|"
-msgid "%1 ZiB"
-msgstr "%1 TiB"
-
 #: kjobtrackerformatters.cpp:40
-#, fuzzy, qt-format
-#| msgid "%1 TiB"
-msgctxt "KJobTrackerFormatters|"
-msgid "%1 YiB"
-msgstr "%1 TiB"
-
-#: kjobtrackerformatters.cpp:62
 #, fuzzy, qt-format
 #| msgid "%1 days"
 msgctxt "KJobTrackerFormatters|@item:intext"
@@ -92,7 +29,7 @@ msgid_plural "%n day(s)"
 msgstr[0] "%1 ଦିନ"
 msgstr[1] "%1 ଦିନ"
 
-#: kjobtrackerformatters.cpp:69
+#: kjobtrackerformatters.cpp:47
 #, fuzzy, qt-format
 #| msgid "%1 hours"
 msgctxt "KJobTrackerFormatters|@item:intext"
@@ -101,7 +38,7 @@ msgid_plural "%n hour(s)"
 msgstr[0] "%1 ଘଣ୍ଟା"
 msgstr[1] "%1 ଘଣ୍ଟା"
 
-#: kjobtrackerformatters.cpp:76
+#: kjobtrackerformatters.cpp:54
 #, fuzzy, qt-format
 #| msgid "%1 minutes"
 msgctxt "KJobTrackerFormatters|@item:intext"
@@ -110,7 +47,7 @@ msgid_plural "%n minute(s)"
 msgstr[0] "%1 ମିନଟ"
 msgstr[1] "%1 ମିନଟ"
 
-#: kjobtrackerformatters.cpp:83
+#: kjobtrackerformatters.cpp:61
 #, fuzzy, qt-format
 #| msgid "%1 seconds"
 msgctxt "KJobTrackerFormatters|@item:intext"
@@ -119,7 +56,7 @@ msgid_plural "%n second(s)"
 msgstr[0] "%1 ସେକଣ୍ଡ"
 msgstr[1] "%1 ସେକଣ୍ଡ"
 
-#: kjobtrackerformatters.cpp:104
+#: kjobtrackerformatters.cpp:82
 #, fuzzy, qt-format
 #| msgctxt ""
 #| "@item:intext days and hours. This uses the previous item:intext messages. "
@@ -130,7 +67,7 @@ msgctxt "KJobTrackerFormatters|@item:intext days and hours."
 msgid "%1 and %2"
 msgstr "%1 ଏବଂ %2"
 
-#: kjobtrackerformatters.cpp:108
+#: kjobtrackerformatters.cpp:86
 #, fuzzy, qt-format
 #| msgctxt ""
 #| "@item:intext days and hours. This uses the previous item:intext messages. "
@@ -141,7 +78,7 @@ msgctxt "KJobTrackerFormatters|@item:intext hours and minutes."
 msgid "%1 and %2"
 msgstr "%1 ଏବଂ %2"
 
-#: kjobtrackerformatters.cpp:112
+#: kjobtrackerformatters.cpp:90
 #, fuzzy, qt-format
 #| msgctxt ""
 #| "@item:intext days and hours. This uses the previous item:intext messages. "
@@ -375,6 +312,60 @@ msgstr[1] "%1 ଫାଇଲଗୁଡିକ"
 msgctxt "KWidgetJobTracker|"
 msgid "Click this to collapse the dialog, to hide details"
 msgstr ""
+
+#, fuzzy
+#~| msgid "%1 B"
+#~ msgctxt "KJobTrackerFormatters|"
+#~ msgid "%1 B"
+#~ msgstr "%1 B"
+
+#, fuzzy
+#~| msgid "%1 KiB"
+#~ msgctxt "KJobTrackerFormatters|"
+#~ msgid "%1 KiB"
+#~ msgstr "%1 KiB"
+
+#, fuzzy
+#~| msgid "%1 MiB"
+#~ msgctxt "KJobTrackerFormatters|"
+#~ msgid "%1 MiB"
+#~ msgstr "%1 MiB"
+
+#, fuzzy
+#~| msgid "%1 GiB"
+#~ msgctxt "KJobTrackerFormatters|"
+#~ msgid "%1 GiB"
+#~ msgstr "%1 GiB"
+
+#, fuzzy
+#~| msgid "%1 TiB"
+#~ msgctxt "KJobTrackerFormatters|"
+#~ msgid "%1 TiB"
+#~ msgstr "%1 TiB"
+
+#, fuzzy
+#~| msgid "%1 TiB"
+#~ msgctxt "KJobTrackerFormatters|"
+#~ msgid "%1 PiB"
+#~ msgstr "%1 TiB"
+
+#, fuzzy
+#~| msgid "%1 TiB"
+#~ msgctxt "KJobTrackerFormatters|"
+#~ msgid "%1 EiB"
+#~ msgstr "%1 TiB"
+
+#, fuzzy
+#~| msgid "%1 TiB"
+#~ msgctxt "KJobTrackerFormatters|"
+#~ msgid "%1 ZiB"
+#~ msgstr "%1 TiB"
+
+#, fuzzy
+#~| msgid "%1 TiB"
+#~ msgctxt "KJobTrackerFormatters|"
+#~ msgid "%1 YiB"
+#~ msgstr "%1 TiB"
 
 #~ msgctxt "NAME OF TRANSLATORS"
 #~ msgid "Your names"
