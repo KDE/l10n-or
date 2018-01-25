@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmfonts\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-01-24 03:35+0100\n"
+"POT-Creation-Date: 2018-01-25 03:29+0100\n"
 "PO-Revision-Date: 2009-01-02 11:44+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -118,4 +118,99 @@ msgstr ""
 #, kde-format
 msgctxt "full hinting"
 msgid "Full"
+msgstr ""
+
+#: package/contents/ui/FontWidget.qml:54
+#, kde-format
+msgid "Choose..."
+msgstr ""
+
+#: package/contents/ui/main.qml:30
+#, kde-format
+msgid "Fonts"
+msgstr ""
+
+#: package/contents/ui/main.qml:39
+#, kde-format
+msgid "&Adjust All Fonts..."
+msgstr ""
+
+#: package/contents/ui/main.qml:46
+#, kde-format
+msgid "General:"
+msgstr ""
+
+#: package/contents/ui/main.qml:51
+#, kde-format
+msgid "Fixed width:"
+msgstr ""
+
+#: package/contents/ui/main.qml:56
+#, kde-format
+msgid "Small:"
+msgstr ""
+
+#: package/contents/ui/main.qml:61
+#, kde-format
+msgid "Toolbar:"
+msgstr ""
+
+#: package/contents/ui/main.qml:66
+#, kde-format
+msgid "Menu:"
+msgstr ""
+
+#: package/contents/ui/main.qml:71
+#, kde-format
+msgid "Window title:"
+msgstr ""
+
+#: package/contents/ui/main.qml:83
+#, kde-format
+msgid "Use anti-aliasing:"
+msgstr ""
+
+#: package/contents/ui/main.qml:85
+#, kde-format
+msgid "Enabled"
+msgstr ""
+
+#: package/contents/ui/main.qml:85
+#, kde-format
+msgid "Vendor Default"
+msgstr ""
+
+#: package/contents/ui/main.qml:85
+#, kde-format
+msgid "Disabled"
+msgstr ""
+
+#: package/contents/ui/main.qml:95
+#, kde-format
+msgid "Exclude range from anti-aliasing"
+msgstr ""
+
+#: package/contents/ui/main.qml:108 package/contents/ui/main.qml:122
+#, kde-format
+msgid "%1 pt"
+msgstr ""
+
+#: package/contents/ui/main.qml:115
+#, kde-format
+msgid "to"
+msgstr ""
+
+#: package/contents/ui/main.qml:135
+#, kde-format
+msgid "Sub-pixel rendering type:"
+msgstr ""
+
+#: package/contents/ui/main.qml:146
+#, kde-format
+msgid "Hinting style:"
+msgstr ""
+
+#: package/contents/ui/main.qml:158
+#, kde-format
+msgid "Force Fonts DPI:"
 msgstr ""
