@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-12-16 03:10+0100\n"
+"POT-Creation-Date: 2018-02-20 03:16+0100\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -62,11 +62,6 @@ msgstr "ସ୍ୱୟଂ ଅନୁସନ୍ଧାନ"
 msgctxt "@title:window"
 msgid "Configure"
 msgstr "ବିନ୍ଯାସ କରନ୍ତୁ"
-
-#: klanguagebutton.cpp:195
-#, kde-format
-msgid "without name"
-msgstr "ନାମ ବିନା"
 
 #: krecentfilesaction.cpp:78
 #, fuzzy, kde-format
@@ -674,6 +669,9 @@ msgstr "ପୂର୍ବବର୍ତ୍ତୀ (&P)"
 msgctxt "@action:button Goes to next tip, opposite to previous"
 msgid "&Next"
 msgstr "ପରବର୍ତ୍ତୀ (&N)"
+
+#~ msgid "without name"
+#~ msgstr "ନାମ ବିନା"
 
 #, fuzzy
 #~| msgid "&Delete"
