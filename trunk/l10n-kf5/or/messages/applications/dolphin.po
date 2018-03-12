@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-03-11 03:10+0100\n"
+"POT-Creation-Date: 2018-03-12 03:09+0100\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -30,31 +30,31 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
-#: dolphincontextmenu.cpp:141 panels/places/placespanel.cpp:199
+#: dolphincontextmenu.cpp:142 panels/places/placespanel.cpp:198
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Empty Trash"
 msgstr "ଖାଲି ଆବର୍ଜନା ପାତ୍ର"
 
-#: dolphincontextmenu.cpp:169
+#: dolphincontextmenu.cpp:163
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Restore"
 msgstr "ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ"
 
-#: dolphincontextmenu.cpp:214 dolphinmainwindow.cpp:1043
+#: dolphincontextmenu.cpp:208 dolphinmainwindow.cpp:1043
 #, kde-format
 msgctxt "@title:menu Create new folder, file, link, etc."
 msgid "Create New"
 msgstr "ନୂତନ ନିର୍ମାଣ କରନ୍ତୁ"
 
-#: dolphincontextmenu.cpp:227
+#: dolphincontextmenu.cpp:221
 #, kde-format
 msgctxt "@action:inmenu Add selected folder to places"
 msgid "Add to Places"
 msgstr "ସ୍ଥାନଗୁଡ଼ିକରେ ଯୋଗ କରନ୍ତୁ"
 
-#: dolphincontextmenu.cpp:234
+#: dolphincontextmenu.cpp:228
 #, fuzzy, kde-format
 #| msgctxt "@action:inmenu"
 #| msgid "Paste"
@@ -62,19 +62,19 @@ msgctxt "@action:inmenu"
 msgid "Open Path"
 msgstr "ଲଗାନ୍ତୁ"
 
-#: dolphincontextmenu.cpp:240
+#: dolphincontextmenu.cpp:234
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Open Path in New Window"
 msgstr ""
 
-#: dolphincontextmenu.cpp:246
+#: dolphincontextmenu.cpp:240
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Open Path in New Tab"
 msgstr ""
 
-#: dolphincontextmenu.cpp:338
+#: dolphincontextmenu.cpp:332
 #, kde-format
 msgctxt "@action:inmenu Add current folder to places"
 msgid "Add to Places"
@@ -609,48 +609,48 @@ msgctxt "@title:menu"
 msgid "Main Toolbar"
 msgstr ""
 
-#: dolphinviewcontainer.cpp:367 search/dolphinsearchbox.cpp:307
+#: dolphinviewcontainer.cpp:368 search/dolphinsearchbox.cpp:307
 #, kde-format
 msgid "Search for %1 in %2"
 msgstr ""
 
-#: dolphinviewcontainer.cpp:437
+#: dolphinviewcontainer.cpp:438
 #, kde-format
 msgctxt "@info:progress"
 msgid "Loading folder..."
 msgstr "ଫୋଲଡ଼ର ଧାରଣ କରୁଅଛି..."
 
-#: dolphinviewcontainer.cpp:445
+#: dolphinviewcontainer.cpp:446
 #, kde-format
 msgctxt "@info:progress"
 msgid "Sorting..."
 msgstr ""
 
-#: dolphinviewcontainer.cpp:456
+#: dolphinviewcontainer.cpp:457
 #, kde-format
 msgctxt "@info"
 msgid "Searching..."
 msgstr ""
 
-#: dolphinviewcontainer.cpp:476
+#: dolphinviewcontainer.cpp:477
 #, kde-format
 msgctxt "@info:status"
 msgid "No items found."
 msgstr ""
 
-#: dolphinviewcontainer.cpp:583
+#: dolphinviewcontainer.cpp:584
 #, kde-format
 msgctxt "@info:status"
 msgid "Dolphin does not support web pages, the web browser has been launched"
 msgstr "Dolphin ୱେବ ପୃଷ୍ଟାଗୁଡ଼ିକୁ ସମର୍ଥନ କରେନାହିଁ, ୱେବ ବ୍ରାଉଜର ଆରମ୍ଭ ହୋଇଛି"
 
-#: dolphinviewcontainer.cpp:597
+#: dolphinviewcontainer.cpp:598
 #, kde-format
 msgctxt "@info:status"
 msgid "Protocol not supported by Dolphin, Konqueror has been launched"
 msgstr ""
 
-#: dolphinviewcontainer.cpp:605
+#: dolphinviewcontainer.cpp:606
 #, kde-format
 msgctxt "@info:status"
 msgid "Invalid protocol"
@@ -1638,19 +1638,19 @@ msgctxt "@info"
 msgid "An error occurred while accessing '%1'"
 msgstr ""
 
-#: panels/places/placespanel.cpp:205
+#: panels/places/placespanel.cpp:204
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Open in New Window"
 msgstr ""
 
-#: panels/places/placespanel.cpp:206
+#: panels/places/placespanel.cpp:205
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Open in New Tab"
 msgstr ""
 
-#: panels/places/placespanel.cpp:212
+#: panels/places/placespanel.cpp:211
 #, fuzzy, kde-format
 #| msgctxt "@label"
 #| msgid "Add Comment..."
@@ -1658,7 +1658,7 @@ msgctxt "@item:inmenu"
 msgid "Edit..."
 msgstr "ଟିପ୍ପଣୀ ଯୋଗକରନ୍ତୁ..."
 
-#: panels/places/placespanel.cpp:217
+#: panels/places/placespanel.cpp:216
 #, fuzzy, kde-format
 #| msgctxt "@item:intext Access permission, concatenated"
 #| msgid "Read, "
@@ -1666,13 +1666,13 @@ msgctxt "@item:inmenu"
 msgid "Remove"
 msgstr "ପଢ଼ନ୍ତୁ, "
 
-#: panels/places/placespanel.cpp:220
+#: panels/places/placespanel.cpp:219
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Hide"
 msgstr ""
 
-#: panels/places/placespanel.cpp:267
+#: panels/places/placespanel.cpp:266
 #, fuzzy, kde-format
 #| msgctxt "@label"
 #| msgid "Add Comment..."
@@ -1680,7 +1680,7 @@ msgctxt "@item:inmenu"
 msgid "Add Entry..."
 msgstr "ଟିପ୍ପଣୀ ଯୋଗକରନ୍ତୁ..."
 
-#: panels/places/placespanel.cpp:271
+#: panels/places/placespanel.cpp:270
 #, fuzzy, kde-format
 #| msgctxt "@option:check"
 #| msgid "Show tooltips"
@@ -1688,7 +1688,7 @@ msgctxt "@item:inmenu"
 msgid "Show All Entries"
 msgstr "ଉପକରଣ ସୂଚନା ଦର୍ଶାନ୍ତୁ"
 
-#: panels/places/placespanel.cpp:278
+#: panels/places/placespanel.cpp:277
 #, fuzzy, kde-format
 #| msgctxt "@title:group"
 #| msgid "Icon Size"
@@ -1696,37 +1696,37 @@ msgctxt "@item:inmenu"
 msgid "Icon Size"
 msgstr "ଚିତ୍ରସଂକେତ ଆକାର"
 
-#: panels/places/placespanel.cpp:289
+#: panels/places/placespanel.cpp:288
 #, kde-format
 msgctxt "Small icon size"
 msgid "Small (%1x%2)"
 msgstr ""
 
-#: panels/places/placespanel.cpp:290
+#: panels/places/placespanel.cpp:289
 #, kde-format
 msgctxt "Medium icon size"
 msgid "Medium (%1x%2)"
 msgstr ""
 
-#: panels/places/placespanel.cpp:291
+#: panels/places/placespanel.cpp:290
 #, kde-format
 msgctxt "Large icon size"
 msgid "Large (%1x%2)"
 msgstr ""
 
-#: panels/places/placespanel.cpp:292
+#: panels/places/placespanel.cpp:291
 #, kde-format
 msgctxt "Huge icon size"
 msgid "Huge (%1x%2)"
 msgstr ""
 
-#: panels/places/placespanel.cpp:338
+#: panels/places/placespanel.cpp:337
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Hide Section '%1'"
 msgstr ""
 
-#: panels/places/placespanel.cpp:473
+#: panels/places/placespanel.cpp:452
 #, fuzzy, kde-format
 #| msgctxt "@action:inmenu Add current folder to places"
 #| msgid "Add to Places"
@@ -1734,10 +1734,22 @@ msgctxt "@title:window"
 msgid "Add Places Entry"
 msgstr "ସ୍ଥାନଗୁଡ଼ିକରେ ଯୋଗକରନ୍ତୁ"
 
-#: panels/places/placespanel.cpp:488
+#: panels/places/placespanel.cpp:467
 #, kde-format
 msgctxt "@title:window"
 msgid "Edit Places Entry"
+msgstr ""
+
+#: panels/terminal/terminalpanel.cpp:148
+#, kde-format
+msgid ""
+"Terminal cannot be shown because Konsole is not installed. Please install it "
+"and then reopen the panel."
+msgstr ""
+
+#: panels/terminal/terminalpanel.cpp:154
+#, kde-format
+msgid "Install Konsole"
 msgstr ""
 
 #. i18n: ectx: label, entry (Location), group (Search)
