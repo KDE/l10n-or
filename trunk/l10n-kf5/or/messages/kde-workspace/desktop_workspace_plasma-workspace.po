@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-03-27 01:39+0000\n"
+"POT-Creation-Date: 2018-03-30 01:43+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -75,7 +75,6 @@ msgid "Power Management;Battery;System;Energy;"
 msgstr "ଶକ୍ତି ପରିଚାଳନା"
 
 #: applets/calendar/package/metadata.desktop:2
-#: dataengines/calendar/plasma-dataengine-calendar.desktop:2
 msgctxt "Name"
 msgid "Calendar"
 msgstr ""
@@ -376,19 +375,6 @@ msgctxt "Comment"
 msgid "Information on Plasma Activities"
 msgstr "ଫାଇଲ ଏବଂ ଡ଼ିରେକ୍ଟୋରୀଗୁଡ଼ିକ"
 
-#: dataengines/akonadi/plasma-engine-akonadi.desktop:2
-msgctxt "Name"
-msgid "Akonadi"
-msgstr ""
-
-#: dataengines/akonadi/plasma-engine-akonadi.desktop:71
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Python data engine"
-msgctxt "Comment"
-msgid "Akonadi PIM data engine"
-msgstr "ପାଇଥନ ତଥ୍ୟ ମେସିନ"
-
 #: dataengines/applicationjobs/plasma-dataengine-applicationjobs.desktop:2
 msgctxt "Name"
 msgid "Application Job Information"
@@ -411,14 +397,6 @@ msgstr "ପ୍ରୟୋଗ କାର୍ଯ୍ୟ ସୂଚନା"
 msgctxt "Comment"
 msgid "Information and launching of all applications in the app menu."
 msgstr ""
-
-#: dataengines/calendar/plasma-dataengine-calendar.desktop:79
-#, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Calendar Manager"
-msgctxt "Comment"
-msgid "Calendar data engine"
-msgstr "କ୍ୟାଲେଣ୍ଡର ପରିଚାଳକ"
 
 #: dataengines/devicenotifications/plasma-dataengine-devicenotifications.desktop:2
 #, fuzzy
@@ -566,16 +544,6 @@ msgctxt "Comment"
 msgid "Provides information from and control over media players via MPRIS2"
 msgstr ""
 
-#: dataengines/network/plasma-dataengine-network.desktop:2
-msgctxt "Name"
-msgid "Networking"
-msgstr "ନେଟୱର୍କିଙ୍ଗ"
-
-#: dataengines/network/plasma-dataengine-network.desktop:77
-msgctxt "Comment"
-msgid "Network interface information"
-msgstr "ନେଟୱର୍କ ଅନ୍ତାରାପୃଷ୍ଠ ସୂଚନା"
-
 #: dataengines/notifications/plasma-dataengine-notifications.desktop:2
 msgctxt "Name"
 msgid "Application Notifications"
@@ -622,16 +590,6 @@ msgstr "ଶକ୍ତି ପରିଚାଳନା"
 msgctxt "Comment"
 msgid "Battery, AC, sleep and PowerDevil information."
 msgstr ""
-
-#: dataengines/rss/plasma-dataengine-rss.desktop:2
-msgctxt "Name"
-msgid "RSS"
-msgstr "RSS"
-
-#: dataengines/rss/plasma-dataengine-rss.desktop:77
-msgctxt "Comment"
-msgid "RSS News Data Engine"
-msgstr "RSS ଖବର ତଥ୍ୟ ଯନ୍ତ୍ର"
 
 #: dataengines/share/backends/im9/metadata.desktop:2
 msgctxt "Name"
@@ -1894,6 +1852,36 @@ msgstr ""
 msgctxt "Name"
 msgid "XembedSniProxy"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Python data engine"
+#~ msgctxt "Comment"
+#~ msgid "Akonadi PIM data engine"
+#~ msgstr "ପାଇଥନ ତଥ୍ୟ ମେସିନ"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Calendar Manager"
+#~ msgctxt "Comment"
+#~ msgid "Calendar data engine"
+#~ msgstr "କ୍ୟାଲେଣ୍ଡର ପରିଚାଳକ"
+
+#~ msgctxt "Name"
+#~ msgid "Networking"
+#~ msgstr "ନେଟୱର୍କିଙ୍ଗ"
+
+#~ msgctxt "Comment"
+#~ msgid "Network interface information"
+#~ msgstr "ନେଟୱର୍କ ଅନ୍ତାରାପୃଷ୍ଠ ସୂଚନା"
+
+#~ msgctxt "Name"
+#~ msgid "RSS"
+#~ msgstr "RSS"
+
+#~ msgctxt "Comment"
+#~ msgid "RSS News Data Engine"
+#~ msgstr "RSS ଖବର ତଥ୍ୟ ଯନ୍ତ୍ର"
 
 #~ msgctxt "Name"
 #~ msgid "B3/KDE"
