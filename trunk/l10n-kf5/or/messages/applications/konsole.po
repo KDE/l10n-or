@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-04-08 03:23+0200\n"
+"POT-Creation-Date: 2018-04-11 03:26+0200\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -2591,17 +2591,17 @@ msgid ""
 "kill it by force?"
 msgstr ""
 
-#: SessionController.cpp:1474
+#: SessionController.cpp:1472
 #, kde-format
 msgid "Print Shell"
 msgstr ""
 
-#: SessionController.cpp:1739
+#: SessionController.cpp:1737
 #, kde-format
 msgid "Save ZModem Download to..."
 msgstr ""
 
-#: SessionController.cpp:1749
+#: SessionController.cpp:1747
 #, kde-format
 msgid ""
 "<p>A ZModem file transfer attempt has been detected, but no suitable ZModem "
@@ -2609,35 +2609,35 @@ msgid ""
 "or 'lrzsz' package.</p>"
 msgstr ""
 
-#: SessionController.cpp:1761
+#: SessionController.cpp:1759
 #, kde-format
 msgid ""
 "<p>The current session already has a ZModem file transfer in progress.</p>"
 msgstr ""
 
-#: SessionController.cpp:1772
+#: SessionController.cpp:1770
 #, kde-format
 msgid ""
 "<p>No suitable ZModem software was found on this system.</p><p>You may wish "
 "to install the 'rzsz' or 'lrzsz' package.</p>"
 msgstr ""
 
-#: SessionController.cpp:1778
+#: SessionController.cpp:1776
 #, kde-format
 msgid "Select Files for ZModem Upload"
 msgstr ""
 
-#: SessionController.cpp:1839
+#: SessionController.cpp:1837
 #, kde-format
 msgid "Save Output From %1"
 msgstr ""
 
-#: SessionController.cpp:1851
+#: SessionController.cpp:1849
 #, kde-format
 msgid "%1 is an invalid URL, the output could not be saved."
 msgstr ""
 
-#: SessionController.cpp:1927
+#: SessionController.cpp:1925
 #, kde-format
 msgid ""
 "A problem occurred when saving the output.\n"
@@ -3226,19 +3226,19 @@ msgstr ""
 msgid "Size: %1 x %2"
 msgstr ""
 
-#: TerminalDisplay.cpp:3176
+#: TerminalDisplay.cpp:3187
 #, kde-format
 msgid "Are you sure you want to paste %1 character?"
 msgid_plural "Are you sure you want to paste %1 characters?"
 msgstr[0] ""
 msgstr[1] ""
 
-#: TerminalDisplay.cpp:3179
+#: TerminalDisplay.cpp:3190
 #, kde-format
 msgid "Confirm Paste"
 msgstr ""
 
-#: TerminalDisplay.cpp:3388
+#: TerminalDisplay.cpp:3399
 #, kde-format
 msgid ""
 "<qt>Output has been <a href=\"http://en.wikipedia.org/wiki/"
@@ -3246,17 +3246,17 @@ msgid ""
 "b> to resume.</qt>"
 msgstr ""
 
-#: TerminalDisplay.cpp:3426
+#: TerminalDisplay.cpp:3437
 #, kde-format
 msgid "This terminal is read-only."
 msgstr ""
 
-#: TerminalDisplay.cpp:3714
+#: TerminalDisplay.cpp:3725
 #, kde-format
 msgid "&Paste Location"
 msgstr ""
 
-#: TerminalDisplay.cpp:3731
+#: TerminalDisplay.cpp:3742
 #, kde-format
 msgid "Change &Directory To"
 msgstr ""
