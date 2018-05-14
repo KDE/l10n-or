@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-04-30 06:08+0200\n"
+"POT-Creation-Date: 2018-05-14 06:23+0200\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -624,6 +624,12 @@ msgstr "ସ୍ଥାନ:"
 msgctxt "@title:menu"
 msgid "Main Toolbar"
 msgstr ""
+
+#: dolphinviewcontainer.cpp:93
+#, kde-format
+msgctxt "@action:button"
+msgid "Empty Trash"
+msgstr "ଖାଲି ଆବର୍ଜନା ପାତ୍ର"
 
 #: dolphinviewcontainer.cpp:389 search/dolphinsearchbox.cpp:307
 #, kde-format
@@ -3639,10 +3645,6 @@ msgstr ""
 #~ "and %Y is full year number"
 #~ msgid "%B, %Y"
 #~ msgstr "%B, %Y"
-
-#~ msgctxt "@action:button"
-#~ msgid "Empty Trash"
-#~ msgstr "ଖାଲି ଆବର୍ଜନା ପାତ୍ର"
 
 #, fuzzy
 #~| msgctxt "@option:check Ask for Confirmation When"
