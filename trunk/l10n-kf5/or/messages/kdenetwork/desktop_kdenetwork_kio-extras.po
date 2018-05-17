@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-05-10 01:49+0000\n"
+"POT-Creation-Date: 2018-05-17 01:48+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -24,12 +24,9 @@ msgstr ""
 "\n"
 
 #: activities/fileitemplugin/kactivitymanagerd_fileitem_linking_plugin.desktop:4
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Service Manager"
 msgctxt "Name"
-msgid "File to activity linking plugin"
-msgstr "ସର୍ଭିସ ପରିଚାଳକ"
+msgid "Linking Files to Activities"
+msgstr ""
 
 #: filenamesearch/kded/filenamesearchmodule.desktop:12
 msgctxt "Name"
@@ -227,6 +224,13 @@ msgstr ""
 msgctxt "Name"
 msgid "Microsoft Windows Images"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Service Manager"
+#~ msgctxt "Name"
+#~ msgid "File to activity linking plugin"
+#~ msgstr "ସର୍ଭିସ ପରିଚାଳକ"
 
 #~ msgctxt "Name"
 #~ msgid "Samba Shares"
