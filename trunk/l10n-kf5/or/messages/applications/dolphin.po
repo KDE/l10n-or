@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-06-03 03:23+0200\n"
+"POT-Creation-Date: 2018-06-04 03:23+0200\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -630,48 +630,48 @@ msgstr "ଖାଲି ଆବର୍ଜନା ପାତ୍ର"
 msgid "Running Dolphin as root can be dangerous. Please be careful."
 msgstr ""
 
-#: dolphinviewcontainer.cpp:397 search/dolphinsearchbox.cpp:307
+#: dolphinviewcontainer.cpp:392 search/dolphinsearchbox.cpp:307
 #, kde-format
 msgid "Search for %1 in %2"
 msgstr ""
 
-#: dolphinviewcontainer.cpp:467
+#: dolphinviewcontainer.cpp:462
 #, kde-format
 msgctxt "@info:progress"
 msgid "Loading folder..."
 msgstr "ଫୋଲଡ଼ର ଧାରଣ କରୁଅଛି..."
 
-#: dolphinviewcontainer.cpp:475
+#: dolphinviewcontainer.cpp:470
 #, kde-format
 msgctxt "@info:progress"
 msgid "Sorting..."
 msgstr ""
 
-#: dolphinviewcontainer.cpp:486
+#: dolphinviewcontainer.cpp:481
 #, kde-format
 msgctxt "@info"
 msgid "Searching..."
 msgstr ""
 
-#: dolphinviewcontainer.cpp:506
+#: dolphinviewcontainer.cpp:501
 #, kde-format
 msgctxt "@info:status"
 msgid "No items found."
 msgstr ""
 
-#: dolphinviewcontainer.cpp:613
+#: dolphinviewcontainer.cpp:608
 #, kde-format
 msgctxt "@info:status"
 msgid "Dolphin does not support web pages, the web browser has been launched"
 msgstr "Dolphin ୱେବ ପୃଷ୍ଟାଗୁଡ଼ିକୁ ସମର୍ଥନ କରେନାହିଁ, ୱେବ ବ୍ରାଉଜର ଆରମ୍ଭ ହୋଇଛି"
 
-#: dolphinviewcontainer.cpp:627
+#: dolphinviewcontainer.cpp:622
 #, kde-format
 msgctxt "@info:status"
 msgid "Protocol not supported by Dolphin, Konqueror has been launched"
 msgstr ""
 
-#: dolphinviewcontainer.cpp:635
+#: dolphinviewcontainer.cpp:630
 #, kde-format
 msgctxt "@info:status"
 msgid "Invalid protocol"
@@ -3213,13 +3213,13 @@ msgctxt "@action:inmenu"
 msgid "Show Space Information"
 msgstr "ସ୍ଥାନ ସୂଚନା ଦର୍ଶାନ୍ତୁ"
 
-#: statusbar/statusbarspaceinfo.cpp:95
+#: statusbar/statusbarspaceinfo.cpp:93
 #, kde-format
 msgctxt "@info:status"
 msgid "Unknown size"
 msgstr "ଅଜଣା ଆକାର"
 
-#: statusbar/statusbarspaceinfo.cpp:103
+#: statusbar/statusbarspaceinfo.cpp:101
 #, kde-format
 msgctxt "@info:status Free disk space"
 msgid "%1 free"
