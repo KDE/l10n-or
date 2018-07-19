@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-07-17 03:30+0200\n"
+"POT-Creation-Date: 2018-07-19 03:25+0200\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -191,7 +191,7 @@ msgctxt "@info:shell"
 msgid "Arguments passed to command"
 msgstr ""
 
-#: Application.cpp:563
+#: Application.cpp:551
 #, kde-format
 msgctxt "@item"
 msgid "Toggle Background Window"
@@ -2299,50 +2299,50 @@ msgstr ""
 msgid "Solaris console"
 msgstr ""
 
-#: Session.cpp:388
+#: Session.cpp:386
 #, kde-format
 msgid "Could not find binary: "
 msgstr ""
 
-#: Session.cpp:397
+#: Session.cpp:395
 #, kde-format
 msgctxt "@info:shell Alert the user with red color text"
 msgid "Warning: "
 msgstr ""
 
-#: Session.cpp:455
+#: Session.cpp:453
 #, kde-format
 msgid ""
 "Could not find '%1', starting '%2' instead.  Please check your profile "
 "settings."
 msgstr ""
 
-#: Session.cpp:458
+#: Session.cpp:456
 #, kde-format
 msgid "Could not find an interactive shell to start."
 msgstr ""
 
-#: Session.cpp:496
+#: Session.cpp:494
 #, kde-format
 msgid "Could not start program '%1' with arguments '%2'."
 msgstr ""
 
-#: Session.cpp:639
+#: Session.cpp:637
 #, kde-format
 msgid "Silence in session '%1'"
 msgstr ""
 
-#: Session.cpp:694
+#: Session.cpp:692
 #, kde-format
 msgid "Bell in session '%1'"
 msgstr ""
 
-#: Session.cpp:707
+#: Session.cpp:705
 #, kde-format
 msgid "Activity in session '%1'"
 msgstr ""
 
-#: Session.cpp:914
+#: Session.cpp:912
 #, kde-format
 msgid ""
 "The D-Bus methods sendText/runCommand were just used.  There are security "
@@ -2351,23 +2351,23 @@ msgid ""
 "warning will only show once for this Konsole instance.</p>"
 msgstr ""
 
-#: Session.cpp:941
+#: Session.cpp:939
 #, kde-format
 msgctxt "@info:shell This session is done"
 msgid "Finished"
 msgstr ""
 
-#: Session.cpp:955 Session.cpp:968
+#: Session.cpp:953 Session.cpp:966
 #, kde-format
 msgid "Program '%1' crashed."
 msgstr ""
 
-#: Session.cpp:957
+#: Session.cpp:955
 #, kde-format
 msgid "Program '%1' exited with status %2."
 msgstr ""
 
-#: Session.cpp:1384
+#: Session.cpp:1382
 #, kde-format
 msgid "ZModem Progress"
 msgstr ""
@@ -3237,19 +3237,19 @@ msgstr ""
 msgid "Size: %1 x %2"
 msgstr ""
 
-#: TerminalDisplay.cpp:3277
+#: TerminalDisplay.cpp:3278
 #, kde-format
 msgid "Are you sure you want to paste %1 character?"
 msgid_plural "Are you sure you want to paste %1 characters?"
 msgstr[0] ""
 msgstr[1] ""
 
-#: TerminalDisplay.cpp:3280
+#: TerminalDisplay.cpp:3281
 #, kde-format
 msgid "Confirm Paste"
 msgstr ""
 
-#: TerminalDisplay.cpp:3492
+#: TerminalDisplay.cpp:3493
 #, kde-format
 msgid ""
 "<qt>Output has been <a href=\"http://en.wikipedia.org/wiki/"
@@ -3257,150 +3257,118 @@ msgid ""
 "b> to resume.</qt>"
 msgstr ""
 
-#: TerminalDisplay.cpp:3530
+#: TerminalDisplay.cpp:3531
 #, kde-format
 msgid "This terminal is read-only."
 msgstr ""
 
-#: TerminalDisplay.cpp:3818
+#: TerminalDisplay.cpp:3819
 #, kde-format
 msgid "&Paste Location"
 msgstr ""
 
-#: TerminalDisplay.cpp:3835
+#: TerminalDisplay.cpp:3836
 #, kde-format
 msgid "Change &Directory To"
 msgstr ""
 
-#: ViewContainer.cpp:328
+#: ViewContainer.cpp:101
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "&Detach Tab"
 msgstr ""
 
-#: ViewContainer.cpp:333
+#: ViewContainer.cpp:108
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "&Rename Tab..."
 msgstr ""
 
-#: ViewContainer.cpp:341
+#: ViewContainer.cpp:115
 #, kde-format
 msgctxt "@action:inmenu"
-msgid "&Close Tab"
+msgid "Close Tab"
 msgstr ""
 
-#: ViewContainer.cpp:347
-#, kde-format
-msgctxt "@info:tooltip"
-msgid "Create new tab"
-msgstr ""
-
-#: ViewContainer.cpp:349
-#, kde-format
-msgctxt "@info:whatsthis"
-msgid "Create a new tab. Press and hold to select profile from menu"
-msgstr ""
-
-#: ViewContainer.cpp:363
-#, kde-format
-msgctxt "@info:tooltip"
-msgid "Close tab"
-msgstr ""
-
-#: ViewContainer.cpp:364
-#, kde-format
-msgctxt "@info:whatsthis"
-msgid "Close the active tab"
-msgstr ""
-
-#: ViewContainerTabBar.cpp:63
-#, kde-kuit-format
-msgctxt "@info:whatsthis"
-msgid ""
-"<title>Tab Bar</title><para>The tab bar allows you to switch and move tabs. "
-"You can double-click a tab to change its name.</para>"
-msgstr ""
-
-#: ViewManager.cpp:134
+#: ViewManager.cpp:128
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Next Tab"
 msgstr ""
 
-#: ViewManager.cpp:135
+#: ViewManager.cpp:129
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Previous Tab"
 msgstr ""
 
-#: ViewManager.cpp:137
+#: ViewManager.cpp:131
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Switch to Last Tab"
 msgstr ""
 
-#: ViewManager.cpp:139
+#: ViewManager.cpp:133
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Next View Container"
 msgstr ""
 
-#: ViewManager.cpp:141
+#: ViewManager.cpp:135
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Move Tab Left"
 msgstr ""
 
-#: ViewManager.cpp:143
+#: ViewManager.cpp:137
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Move Tab Right"
 msgstr ""
 
-#: ViewManager.cpp:151
+#: ViewManager.cpp:145
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Split View Left/Right"
 msgstr ""
 
-#: ViewManager.cpp:159
+#: ViewManager.cpp:153
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Split View Top/Bottom"
 msgstr ""
 
-#: ViewManager.cpp:164
+#: ViewManager.cpp:158
 #, kde-format
 msgctxt "@action:inmenu Close Active View"
 msgid "Close Active"
 msgstr ""
 
-#: ViewManager.cpp:175
+#: ViewManager.cpp:169
 #, kde-format
 msgctxt "@action:inmenu Close Other Views"
 msgid "Close Others"
 msgstr ""
 
-#: ViewManager.cpp:185
+#: ViewManager.cpp:179
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Expand View"
 msgstr ""
 
-#: ViewManager.cpp:195
+#: ViewManager.cpp:189
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Shrink View"
 msgstr ""
 
-#: ViewManager.cpp:208
+#: ViewManager.cpp:203
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "D&etach Current Tab"
 msgstr ""
 
-#: ViewManager.cpp:229
+#: ViewManager.cpp:223
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Switch to Tab %1"
