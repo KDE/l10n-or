@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-21 03:31+0200\n"
+"POT-Creation-Date: 2018-08-23 03:29+0200\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -386,43 +386,43 @@ msgctxt "@action:inmenu View"
 msgid "Panels"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1448
+#: dolphinmainwindow.cpp:1450
 #, kde-format
 msgctxt "@action"
 msgid "Control"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1564
+#: dolphinmainwindow.cpp:1566
 #, kde-format
 msgctxt "@action:intoolbar Close left view"
 msgid "Close"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1565
+#: dolphinmainwindow.cpp:1567
 #, kde-format
 msgctxt "@info"
 msgid "Close left view"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1568
+#: dolphinmainwindow.cpp:1570
 #, kde-format
 msgctxt "@action:intoolbar Close right view"
 msgid "Close"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1569
+#: dolphinmainwindow.cpp:1571
 #, kde-format
 msgctxt "@info"
 msgid "Close right view"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1573
+#: dolphinmainwindow.cpp:1575
 #, kde-format
 msgctxt "@action:intoolbar Split view"
 msgid "Split"
 msgstr ""
 
-#: dolphinmainwindow.cpp:1574
+#: dolphinmainwindow.cpp:1576
 #, kde-format
 msgctxt "@info"
 msgid "Split view"
@@ -2554,6 +2554,7 @@ msgid "Show tooltips"
 msgstr "ଉପକରଣ ସୂଚନା ଦର୍ଶାନ୍ତୁ"
 
 #: settings/general/behaviorsettingspage.cpp:84
+#: settings/general/behaviorsettingspage.cpp:92
 #, kde-format
 msgctxt "@title:group"
 msgid "Miscellaneous: "
@@ -2565,7 +2566,7 @@ msgctxt "@option:check"
 msgid "Show selection marker"
 msgstr ""
 
-#: settings/general/behaviorsettingspage.cpp:92
+#: settings/general/behaviorsettingspage.cpp:96
 #, fuzzy, kde-format
 #| msgctxt "@title:window"
 #| msgid "Rename Item"
@@ -2573,7 +2574,7 @@ msgctxt "option:check"
 msgid "Rename inline"
 msgstr "ବସ୍ତୁର ପୁନଃ ନାମକରଣ କରନ୍ତୁ"
 
-#: settings/general/behaviorsettingspage.cpp:96
+#: settings/general/behaviorsettingspage.cpp:100
 #, kde-format
 msgctxt "option:check"
 msgid "Switch between split views with tab key"

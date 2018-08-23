@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-07-18 01:47+0000\n"
+"POT-Creation-Date: 2018-08-23 01:51+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -123,6 +123,14 @@ msgstr "sftp ପାଇଁ kioslave"
 msgctxt "Name"
 msgid "Shared Folders (SMB)"
 msgstr ""
+
+#: thumbnail/appimagethumbnail.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Image"
+msgctxt "Name"
+msgid "AppImage"
+msgstr "ପ୍ରତିଛବି"
 
 #: thumbnail/audiothumbnail.desktop:3
 #, fuzzy
@@ -7384,10 +7392,6 @@ msgstr ""
 #~ msgctxt "Name"
 #~ msgid "Color"
 #~ msgstr "ରଙ୍ଗ"
-
-#~ msgctxt "Name"
-#~ msgid "Image"
-#~ msgstr "ପ୍ରତିଛବି"
 
 #~ msgctxt "Name"
 #~ msgid "Slideshow"
