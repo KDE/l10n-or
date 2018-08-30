@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: klipper\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:16+0200\n"
+"POT-Creation-Date: 2018-08-30 03:58+0200\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -566,11 +566,6 @@ msgstr ""
 msgid "<no matches>"
 msgstr ""
 
-#: klipperpopup.cpp:73 main.cpp:43
-#, kde-format
-msgid "KDE cut & paste history utility"
-msgstr ""
-
 #: klipperpopup.cpp:118
 #, kde-format
 msgid "Klipper - Clipboard Tool"
@@ -579,6 +574,11 @@ msgstr ""
 #: klipperpopup.cpp:122
 #, kde-format
 msgid "Search..."
+msgstr ""
+
+#: klipperpopup.cpp:132 main.cpp:43
+#, kde-format
+msgid "KDE cut & paste history utility"
 msgstr ""
 
 #: main.cpp:41 tray.cpp:35
