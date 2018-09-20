@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-09-19 03:41+0200\n"
+"POT-Creation-Date: 2018-09-20 03:37+0200\n"
 "PO-Revision-Date: 2008-12-26 16:53+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -578,7 +578,7 @@ msgctxt "@title:window"
 msgid "History"
 msgstr "ପୁରୁଣା ତଥ୍ୟ ସଫାକରନ୍ତୁ"
 
-#: src/konqhistorydialog.cpp:63 src/konqhistoryview.cpp:143
+#: src/konqhistorydialog.cpp:63 src/konqhistoryview.cpp:145
 #, kde-format
 msgctxt "@action:inmenu Parent of 'By Name' and 'By Date'"
 msgid "Sort"
@@ -603,59 +603,59 @@ msgstr ""
 msgid "Miscellaneous"
 msgstr "ମିଶ୍ରିତ"
 
-#: src/konqhistoryview.cpp:62 src/konqmainwindow.cpp:4521
+#: src/konqhistoryview.cpp:64 src/konqmainwindow.cpp:4521
 #, kde-format
 msgid "Open in New &Window"
 msgstr "ନୂତନ ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ (&W)"
 
-#: src/konqhistoryview.cpp:67
+#: src/konqhistoryview.cpp:69
 #, kde-format
 msgid "Open in New Tab"
 msgstr "ନୂତନ ଟ୍ୟାବରେ ଖୋଲନ୍ତୁ"
 
-#: src/konqhistoryview.cpp:71
+#: src/konqhistoryview.cpp:73
 #, fuzzy, kde-format
 #| msgid "Copy Link Address"
 msgid "&Copy Link Address"
 msgstr "ସଂଯୋଗ ଠିକଣା ନକଲ କରନ୍ତୁ"
 
-#: src/konqhistoryview.cpp:76
+#: src/konqhistoryview.cpp:78
 #, kde-format
 msgid "&Remove Entry"
 msgstr "ଭରଣକୁ କାଢ଼ନ୍ତୁ (&R)"
 
-#: src/konqhistoryview.cpp:83
+#: src/konqhistoryview.cpp:85
 #, kde-format
 msgid "C&lear History"
 msgstr "ପୁରୁଣା ତଥ୍ୟକୁ ସଫାକରନ୍ତୁ (&l)"
 
-#: src/konqhistoryview.cpp:88
+#: src/konqhistoryview.cpp:90
 #, kde-format
 msgid "&Preferences..."
 msgstr "ପସନ୍ଦ (&P)..."
 
-#: src/konqhistoryview.cpp:95
+#: src/konqhistoryview.cpp:97
 #, kde-format
 msgid "By &Name"
 msgstr "ନାମ ଦ୍ୱାରା (&N)"
 
-#: src/konqhistoryview.cpp:101
+#: src/konqhistoryview.cpp:103
 #, kde-format
 msgid "By &Date"
 msgstr "ତାରିଖ ଦ୍ୱାରା (&D)"
 
-#: src/konqhistoryview.cpp:111
+#: src/konqhistoryview.cpp:113
 #, fuzzy, kde-format
 #| msgid "Clear History"
 msgid "Search in history"
 msgstr "ପୁରୁଣା ତଥ୍ୟ ସଫାକରନ୍ତୁ"
 
-#: src/konqhistoryview.cpp:171
+#: src/konqhistoryview.cpp:173
 #, kde-format
 msgid "Do you really want to clear the entire history?"
 msgstr "ଆପଣ ସମ୍ପୂର୍ଣ୍ଣ ପୁରୁଣା ତଥ୍ଯକୁ ଅପସାରଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
 
-#: src/konqhistoryview.cpp:172
+#: src/konqhistoryview.cpp:174
 #, fuzzy, kde-format
 #| msgid "Clear History?"
 msgctxt "@title:window"
@@ -2266,7 +2266,7 @@ msgstr "ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ (&o): ବନ୍
 msgid "Und&o"
 msgstr ""
 
-#: src/konqview.cpp:1248
+#: src/konqview.cpp:1250
 #, kde-format
 msgid ""
 "The page you are trying to view is the result of posted form data. If you "
@@ -2274,14 +2274,14 @@ msgid ""
 "purchase) will be repeated. "
 msgstr ""
 
-#: src/konqview.cpp:1250
+#: src/konqview.cpp:1252
 #, fuzzy, kde-format
 #| msgid "Warning"
 msgctxt "@title:window"
 msgid "Warning"
 msgstr "ଚେତାବନି"
 
-#: src/konqview.cpp:1250
+#: src/konqview.cpp:1252
 #, kde-format
 msgid "Resend"
 msgstr "ପୁଣି ପଠାନ୍ତୁ"
