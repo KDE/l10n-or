@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-09-24 03:35+0200\n"
+"POT-Creation-Date: 2018-09-26 03:48+0200\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -585,23 +585,23 @@ msgstr[1] ""
 msgid "Edit Profile \"%1\""
 msgstr ""
 
-#: EditProfileDialog.cpp:331 KeyBindingEditor.cpp:66
+#: EditProfileDialog.cpp:332 KeyBindingEditor.cpp:66
 #, kde-format
 msgctxt "@label:textbox"
 msgid "Enter descriptive label"
 msgstr ""
 
-#: EditProfileDialog.cpp:405
+#: EditProfileDialog.cpp:406
 #, kde-format
 msgid "Edit Environment"
 msgstr ""
 
-#: EditProfileDialog.cpp:406
+#: EditProfileDialog.cpp:407
 #, kde-format
 msgid "One environment variable per line"
 msgstr ""
 
-#: EditProfileDialog.cpp:437
+#: EditProfileDialog.cpp:438
 #, kde-format
 msgctxt "Unit of time"
 msgid " second"
@@ -609,47 +609,47 @@ msgid_plural " seconds"
 msgstr[0] ""
 msgstr[1] ""
 
-#: EditProfileDialog.cpp:512
+#: EditProfileDialog.cpp:513
 #, kde-format
 msgid "Select Initial Directory"
 msgstr ""
 
-#: EditProfileDialog.cpp:750
+#: EditProfileDialog.cpp:751
 #, kde-format
 msgid "%1"
 msgstr ""
 
-#: EditProfileDialog.cpp:910
+#: EditProfileDialog.cpp:911
 #, kde-kuit-format
 msgctxt "@info"
 msgid "Scheme <resource>%1</resource> failed to load."
 msgstr ""
 
-#: EditProfileDialog.cpp:1094
+#: EditProfileDialog.cpp:1095
 #, kde-format
 msgid ""
 "This color scheme uses a transparent background which does not appear to be "
 "supported on your desktop"
 msgstr ""
 
-#: EditProfileDialog.cpp:1100
+#: EditProfileDialog.cpp:1101
 #, kde-format
 msgid ""
 "Konsole was started before desktop effects were enabled. You need to restart "
 "Konsole to see transparent background."
 msgstr ""
 
-#: EditProfileDialog.cpp:1653
+#: EditProfileDialog.cpp:1654
 #, kde-format
 msgid "Select Any Font"
 msgstr ""
 
-#: EditProfileDialog.cpp:1656
+#: EditProfileDialog.cpp:1657
 #, kde-format
 msgid "Select Fixed Width Font"
 msgstr ""
 
-#: EditProfileDialog.cpp:1708
+#: EditProfileDialog.cpp:1709
 #, kde-format
 msgid "AaZz09..."
 msgstr ""
@@ -2057,49 +2057,49 @@ msgctxt "@info:credit"
 msgid "Thanks to many others.\n"
 msgstr ""
 
-#: MainWindow.cpp:320
+#: MainWindow.cpp:319
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "&New Tab"
 msgstr ""
 
-#: MainWindow.cpp:330
+#: MainWindow.cpp:329
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "&Clone Tab"
 msgstr ""
 
-#: MainWindow.cpp:337
+#: MainWindow.cpp:336
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "New &Window"
 msgstr ""
 
-#: MainWindow.cpp:344
+#: MainWindow.cpp:343
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Close Window"
 msgstr ""
 
-#: MainWindow.cpp:349
+#: MainWindow.cpp:348
 #, kde-format
 msgctxt "@title:menu"
 msgid "&Bookmarks"
 msgstr ""
 
-#: MainWindow.cpp:368
+#: MainWindow.cpp:367
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Manage Profiles..."
 msgstr ""
 
-#: MainWindow.cpp:374
+#: MainWindow.cpp:373
 #, kde-format
 msgctxt "@item"
 msgid "Activate Menu"
 msgstr ""
 
-#: MainWindow.cpp:610
+#: MainWindow.cpp:609
 #, kde-format
 msgctxt "@info"
 msgid "There is a process running in this window. Do you still want to quit?"
@@ -2108,49 +2108,49 @@ msgid_plural ""
 msgstr[0] ""
 msgstr[1] ""
 
-#: MainWindow.cpp:616 MainWindow.cpp:631
+#: MainWindow.cpp:615 MainWindow.cpp:630
 #, kde-format
 msgctxt "@title"
 msgid "Confirm Close"
 msgstr ""
 
-#: MainWindow.cpp:618 MainWindow.cpp:632
+#: MainWindow.cpp:617 MainWindow.cpp:631
 #, kde-format
 msgctxt "@action:button"
 msgid "Close &Window"
 msgstr ""
 
-#: MainWindow.cpp:621 MainWindow.cpp:635
+#: MainWindow.cpp:620 MainWindow.cpp:634
 #, kde-format
 msgctxt "@action:button"
 msgid "Close Current &Tab"
 msgstr ""
 
-#: MainWindow.cpp:628
+#: MainWindow.cpp:627
 #, kde-format
 msgctxt "@info"
 msgid "There are %1 open tabs in this window. Do you still want to quit?"
 msgstr ""
 
-#: MainWindow.cpp:738
+#: MainWindow.cpp:737
 #, kde-format
 msgctxt "@title Preferences page name"
 msgid "General"
 msgstr ""
 
-#: MainWindow.cpp:744 Part.cpp:287
+#: MainWindow.cpp:743 Part.cpp:287
 #, kde-format
 msgctxt "@title Preferences page name"
 msgid "Profiles"
 msgstr ""
 
-#: MainWindow.cpp:749
+#: MainWindow.cpp:748
 #, kde-format
 msgctxt "@title Preferences page name"
 msgid "TabBar"
 msgstr ""
 
-#: MainWindow.cpp:754
+#: MainWindow.cpp:753
 #, kde-format
 msgctxt "@title Preferences page name"
 msgid "File Location"
@@ -2183,7 +2183,7 @@ msgstr ""
 msgid "&Scale output"
 msgstr ""
 
-#: Profile.cpp:157
+#: Profile.cpp:156
 #, kde-format
 msgctxt "Name of the default/builtin profile"
 msgid "Default"
