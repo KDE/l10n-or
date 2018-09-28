@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-09-26 03:48+0200\n"
+"POT-Creation-Date: 2018-09-28 03:37+0200\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1533,27 +1533,27 @@ msgctxt "@action:button Pick an encoding"
 msgid "Select"
 msgstr ""
 
-#: Filter.cpp:495
+#: Filter.cpp:494
 #, kde-format
 msgid "Open Link"
 msgstr ""
 
-#: Filter.cpp:496
+#: Filter.cpp:495
 #, kde-format
 msgid "Copy Link Address"
 msgstr ""
 
-#: Filter.cpp:498
+#: Filter.cpp:497
 #, kde-format
 msgid "Send Email To..."
 msgstr ""
 
-#: Filter.cpp:499
+#: Filter.cpp:498
 #, kde-format
 msgid "Copy Email Address"
 msgstr ""
 
-#: Filter.cpp:637
+#: Filter.cpp:636
 #, kde-format
 msgid "Open File"
 msgstr ""
@@ -2354,7 +2354,7 @@ msgstr ""
 msgid "Activity in session '%1'"
 msgstr ""
 
-#: Session.cpp:912
+#: Session.cpp:916
 #, kde-format
 msgid ""
 "The D-Bus methods sendText/runCommand were just used.  There are security "
@@ -2363,23 +2363,23 @@ msgid ""
 "warning will only show once for this Konsole instance.</p>"
 msgstr ""
 
-#: Session.cpp:939
+#: Session.cpp:943
 #, kde-format
 msgctxt "@info:shell This session is done"
 msgid "Finished"
 msgstr ""
 
-#: Session.cpp:953 Session.cpp:966
+#: Session.cpp:957 Session.cpp:970
 #, kde-format
 msgid "Program '%1' crashed."
 msgstr ""
 
-#: Session.cpp:955
+#: Session.cpp:959
 #, kde-format
 msgid "Program '%1' exited with status %2."
 msgstr ""
 
-#: Session.cpp:1382
+#: Session.cpp:1386
 #, kde-format
 msgid "ZModem Progress"
 msgstr ""
@@ -3244,29 +3244,29 @@ msgctxt "@info:tooltip"
 msgid "Insert remote title format"
 msgstr ""
 
-#: TerminalDisplay.cpp:1451 TerminalDisplay.cpp:1452
+#: TerminalDisplay.cpp:1450 TerminalDisplay.cpp:1451
 #, kde-format
 msgid "Size: XXX x XXX"
 msgstr ""
 
-#: TerminalDisplay.cpp:1463
+#: TerminalDisplay.cpp:1462
 #, kde-format
 msgid "Size: %1 x %2"
 msgstr ""
 
-#: TerminalDisplay.cpp:3298
+#: TerminalDisplay.cpp:3297
 #, kde-format
 msgid "Are you sure you want to paste %1 character?"
 msgid_plural "Are you sure you want to paste %1 characters?"
 msgstr[0] ""
 msgstr[1] ""
 
-#: TerminalDisplay.cpp:3301
+#: TerminalDisplay.cpp:3300
 #, kde-format
 msgid "Confirm Paste"
 msgstr ""
 
-#: TerminalDisplay.cpp:3513
+#: TerminalDisplay.cpp:3512
 #, kde-format
 msgid ""
 "<qt>Output has been <a href=\"http://en.wikipedia.org/wiki/"
@@ -3274,17 +3274,17 @@ msgid ""
 "b> to resume.</qt>"
 msgstr ""
 
-#: TerminalDisplay.cpp:3551
+#: TerminalDisplay.cpp:3550
 #, kde-format
 msgid "This terminal is read-only."
 msgstr ""
 
-#: TerminalDisplay.cpp:3847
+#: TerminalDisplay.cpp:3846
 #, kde-format
 msgid "&Paste Location"
 msgstr ""
 
-#: TerminalDisplay.cpp:3864
+#: TerminalDisplay.cpp:3863
 #, kde-format
 msgid "Change &Directory To"
 msgstr ""
