@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kfindpart\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-10-05 03:41+0200\n"
+"POT-Creation-Date: 2018-10-06 03:39+0200\n"
 "PO-Revision-Date: 2009-01-02 11:47+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -33,12 +33,10 @@ msgid "Idle."
 msgstr ""
 
 #. i18n as below
-#: kfinddlg.cpp:133 kfinddlg.cpp:228 kfinddlg.cpp:252
+#: kfinddlg.cpp:133
 #, kde-format
-msgid "one item found"
-msgid_plural "%1 items found"
-msgstr[0] ""
-msgstr[1] ""
+msgid "0 items found"
+msgstr ""
 
 #: kfinddlg.cpp:172
 #, kde-format
@@ -64,6 +62,13 @@ msgstr ""
 #, kde-format
 msgid "Could not find the specified folder."
 msgstr ""
+
+#: kfinddlg.cpp:228 kfinddlg.cpp:252
+#, kde-format
+msgid "one item found"
+msgid_plural "%1 items found"
+msgstr[0] ""
+msgstr[1] ""
 
 #: kfindtreeview.cpp:54
 #, kde-format
@@ -525,7 +530,7 @@ msgid_plural "years"
 msgstr[0] ""
 msgstr[1] ""
 
-#: kquery.cpp:588
+#: kquery.cpp:604
 #, kde-format
 msgctxt "@title:window"
 msgid "Error while using locate"
