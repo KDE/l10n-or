@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-11-17 03:06+0000\n"
+"POT-Creation-Date: 2018-11-25 02:29+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -931,16 +931,6 @@ msgctxt "Query"
 msgid "http://www.cnrtl.fr/definition/\\\\{@}"
 msgstr "http://www.dict.cc/?s=\\\\{@}"
 
-#: src/urifilters/ikws/searchproviders/dmoz.desktop:3
-msgctxt "Name"
-msgid "Open Directory"
-msgstr "ଡ଼ିରେକ୍ଟୋରୀ ଖୋଲନ୍ତୁ"
-
-#: src/urifilters/ikws/searchproviders/dmoz.desktop:95
-msgctxt "Query"
-msgid "http://search.dmoz.org/cgi-bin/search?search=\\\\{@}"
-msgstr "http://search.dmoz.org/cgi-bin/search?search=\\\\{@}"
-
 #: src/urifilters/ikws/searchproviders/docbook.desktop:5
 msgctxt "Name"
 msgid "DocBook - The Definitive Guide"
@@ -1078,22 +1068,6 @@ msgstr "WordReference.com ଅନୁବାଦ: ସ୍ପେନିସରୁ ଇଂ
 msgctxt "Query"
 msgid "https://www.wordreference.com/es/en/translation.asp?spen=\\\\{@}"
 msgstr "http://www.wordreference.com/es/en/translation.asp?spen=\\\\{@}"
-
-#: src/urifilters/ikws/searchproviders/ethicle.desktop:3
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "ickle"
-msgctxt "Name"
-msgid "Ethicle"
-msgstr "ickle"
-
-#: src/urifilters/ikws/searchproviders/ethicle.desktop:75
-#, fuzzy
-#| msgctxt "Query"
-#| msgid "http://info.alexa.com/search?q=\\\\{@}"
-msgctxt "Query"
-msgid "http://www.ethicle.com/search.php?q=\\\\{@}"
-msgstr "http://info.alexa.com/search?q=\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/facebook.desktop:5
 #, fuzzy
@@ -1448,16 +1422,6 @@ msgctxt "Query"
 msgid "http://www.hyperdictionary.com/search.aspx?Dict=T&define=\\\\{@}"
 msgstr "http://www.hyperdictionary.com/search.aspx?Dict=T&define=\\\\{@}"
 
-#: src/urifilters/ikws/searchproviders/ibl.desktop:4
-msgctxt "Name"
-msgid "Internet Book List"
-msgstr "ଇଣ୍ଟରନେଟ ବହି ତାଲିକା"
-
-#: src/urifilters/ikws/searchproviders/ibl.desktop:90
-msgctxt "Query"
-msgid "http://www.iblist.com/search/search.php?item=\\\\{@}&submit=Search"
-msgstr "http://www.iblist.com/search/search.php?item=\\\\{@}&submit=Search"
-
 #: src/urifilters/ikws/searchproviders/identica_groups.desktop:5
 msgctxt "Name"
 msgid "Identi.ca Groups"
@@ -1685,7 +1649,7 @@ msgstr "MetaCrawler"
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
 msgctxt "Query"
-msgid "http://www.metacrawler.com/info.metac.cloud.other/search/web?q=\\\\{@}"
+msgid "https://www.metacrawler.com/info.metac.cloud.other/search/web?q=\\\\{@}"
 msgstr "http://info.alexa.com/search?q=\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/msdn.desktop:3
@@ -1811,8 +1775,8 @@ msgstr "Teletekst ସନ୍ଧାନ ପ୍ରଦାନକାରୀ"
 
 #: src/urifilters/ikws/searchproviders/nl-teletekst.desktop:92
 msgctxt "Query"
-msgid "http://teletekst.nos.nl/gif/\\\\{@}-01.html"
-msgstr "http://teletekst.nos.nl/gif/\\\\{@}-01.html"
+msgid "https://nos.nl/teletekst#\\\\{@}"
+msgstr ""
 
 #: src/urifilters/ikws/searchproviders/opendesktop.desktop:5
 #, fuzzy
@@ -1842,7 +1806,7 @@ msgstr "OpenPGP କି ସନ୍ଧାନ"
 #| msgctxt "Query"
 #| msgid "http://pgp.dtype.org:11371/pks/lookup?search=\\\\{@}&op=vindex"
 msgctxt "Query"
-msgid "http://pgp.mit.edu:11371/pks/lookup?search=\\\\{@}&op=vindex"
+msgid "https://pgp.mit.edu/pks/lookup?search=\\\\{@}&op=vindex"
 msgstr "http://pgp.dtype.org:11371/pks/lookup?search=\\\\{@}&op=vindex"
 
 #: src/urifilters/ikws/searchproviders/php.desktop:3
@@ -1856,7 +1820,7 @@ msgstr "PHP ସନ୍ଧାନ"
 #| msgid ""
 #| "http://www.php.net/search.php?show=\\\\{mode,\"manual\"}&pattern=\\\\{@}"
 msgctxt "Query"
-msgid "http://www.php.net/manual-lookup.php?pattern=\\\\{@}"
+msgid "https://secure.php.net/manual-lookup.php?pattern=\\\\{@}"
 msgstr ""
 "http://www.php.net/search.php?show=\\\\{mode,\"manual\"}&pattern=\\\\{@}"
 
@@ -2015,8 +1979,7 @@ msgstr "ସ୍ପେନିସ ଏକାଡ଼େମିର ଅଭିଧାନ (RA
 
 #: src/urifilters/ikws/searchproviders/rag.desktop:54
 msgctxt "Query"
-msgid ""
-"http://www.realacademiagalega.org/dicionario#searchNoun.do?nounTitle=\\\\{@}"
+msgid "https://academia.gal/dicionario/-/termo/busca/\\\\{@}"
 msgstr ""
 
 #: src/urifilters/ikws/searchproviders/rfc.desktop:3
@@ -2127,9 +2090,12 @@ msgid "Merriam-Webster Thesaurus"
 msgstr ""
 
 #: src/urifilters/ikws/searchproviders/thesaurus.desktop:94
+#, fuzzy
+#| msgctxt "Query"
+#| msgid "http://info.alexa.com/search?q=\\\\{@}"
 msgctxt "Query"
-msgid "http://www.m-w.com/cgi-bin/thesaurus?book=Thesaurus&va=\\\\{@}"
-msgstr "http://www.m-w.com/cgi-bin/thesaurus?book=Thesaurus&va=\\\\{@}"
+msgid "https://www.merriam-webster.com/thesaurus/\\\\{@}"
+msgstr "http://info.alexa.com/search?q=\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/tvtome.desktop:4
 msgctxt "Name"
@@ -2206,9 +2172,12 @@ msgid "Merriam-Webster Dictionary"
 msgstr "Merriam-Webster ଅଭିଧାନ"
 
 #: src/urifilters/ikws/searchproviders/webster.desktop:95
+#, fuzzy
+#| msgctxt "Query"
+#| msgid "http://www.dict.cc/?s=\\\\{@}"
 msgctxt "Query"
-msgid "http://www.m-w.com/cgi-bin/dictionary?book=Dictionary&va=\\\\{@}"
-msgstr "http://www.m-w.com/cgi-bin/dictionary?book=Dictionary&va=\\\\{@}"
+msgid "https://www.merriam-webster.com/dictionary/\\\\{@}"
+msgstr "http://www.dict.cc/?s=\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/wikia.desktop:5
 msgctxt "Name"
@@ -2386,6 +2355,48 @@ msgstr ""
 msgctxt "Name"
 msgid "Enhanced Browsing Plugin"
 msgstr "Tabbed ବ୍ରାଉଜିଙ୍ଗ"
+
+#~ msgctxt "Name"
+#~ msgid "Open Directory"
+#~ msgstr "ଡ଼ିରେକ୍ଟୋରୀ ଖୋଲନ୍ତୁ"
+
+#~ msgctxt "Query"
+#~ msgid "http://search.dmoz.org/cgi-bin/search?search=\\\\{@}"
+#~ msgstr "http://search.dmoz.org/cgi-bin/search?search=\\\\{@}"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "ickle"
+#~ msgctxt "Name"
+#~ msgid "Ethicle"
+#~ msgstr "ickle"
+
+#, fuzzy
+#~| msgctxt "Query"
+#~| msgid "http://info.alexa.com/search?q=\\\\{@}"
+#~ msgctxt "Query"
+#~ msgid "http://www.ethicle.com/search.php?q=\\\\{@}"
+#~ msgstr "http://info.alexa.com/search?q=\\\\{@}"
+
+#~ msgctxt "Name"
+#~ msgid "Internet Book List"
+#~ msgstr "ଇଣ୍ଟରନେଟ ବହି ତାଲିକା"
+
+#~ msgctxt "Query"
+#~ msgid "http://www.iblist.com/search/search.php?item=\\\\{@}&submit=Search"
+#~ msgstr "http://www.iblist.com/search/search.php?item=\\\\{@}&submit=Search"
+
+#~ msgctxt "Query"
+#~ msgid "http://teletekst.nos.nl/gif/\\\\{@}-01.html"
+#~ msgstr "http://teletekst.nos.nl/gif/\\\\{@}-01.html"
+
+#~ msgctxt "Query"
+#~ msgid "http://www.m-w.com/cgi-bin/thesaurus?book=Thesaurus&va=\\\\{@}"
+#~ msgstr "http://www.m-w.com/cgi-bin/thesaurus?book=Thesaurus&va=\\\\{@}"
+
+#~ msgctxt "Query"
+#~ msgid "http://www.m-w.com/cgi-bin/dictionary?book=Dictionary&va=\\\\{@}"
+#~ msgstr "http://www.m-w.com/cgi-bin/dictionary?book=Dictionary&va=\\\\{@}"
 
 #, fuzzy
 #~| msgctxt "Name"
