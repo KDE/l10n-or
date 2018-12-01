@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-11-23 02:50+0100\n"
+"POT-Creation-Date: 2018-12-01 02:54+0100\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -3243,29 +3243,29 @@ msgctxt "@info:tooltip"
 msgid "Insert remote title format"
 msgstr ""
 
-#: TerminalDisplay.cpp:1470 TerminalDisplay.cpp:1471
+#: TerminalDisplay.cpp:1465 TerminalDisplay.cpp:1466
 #, kde-format
 msgid "Size: XXX x XXX"
 msgstr ""
 
-#: TerminalDisplay.cpp:1482
+#: TerminalDisplay.cpp:1477
 #, kde-format
 msgid "Size: %1 x %2"
 msgstr ""
 
-#: TerminalDisplay.cpp:3290
+#: TerminalDisplay.cpp:3285
 #, kde-format
 msgid "Are you sure you want to paste %1 character?"
 msgid_plural "Are you sure you want to paste %1 characters?"
 msgstr[0] ""
 msgstr[1] ""
 
-#: TerminalDisplay.cpp:3293
+#: TerminalDisplay.cpp:3288
 #, kde-format
 msgid "Confirm Paste"
 msgstr ""
 
-#: TerminalDisplay.cpp:3505
+#: TerminalDisplay.cpp:3500
 #, kde-format
 msgid ""
 "<qt>Output has been <a href=\"http://en.wikipedia.org/wiki/"
@@ -3273,34 +3273,34 @@ msgid ""
 "b> to resume.</qt>"
 msgstr ""
 
-#: TerminalDisplay.cpp:3543
+#: TerminalDisplay.cpp:3538
 #, kde-format
 msgid "This terminal is read-only."
 msgstr ""
 
-#: TerminalDisplay.cpp:3843
+#: TerminalDisplay.cpp:3838
 #, kde-format
 msgid "&Paste Location"
 msgstr ""
 
-#: TerminalDisplay.cpp:3860
+#: TerminalDisplay.cpp:3855
 #, kde-format
 msgid "Change &Directory To"
 msgstr ""
 
-#: ViewContainer.cpp:113
+#: ViewContainer.cpp:116
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "&Detach Tab"
 msgstr ""
 
-#: ViewContainer.cpp:121
+#: ViewContainer.cpp:124
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "&Rename Tab..."
 msgstr ""
 
-#: ViewContainer.cpp:128
+#: ViewContainer.cpp:131
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Close Tab"
@@ -3324,67 +3324,79 @@ msgctxt "@action Shortcut entry"
 msgid "Switch to Last Tab"
 msgstr ""
 
-#: ViewManager.cpp:136
+#: ViewManager.cpp:135
+#, kde-format
+msgctxt "@action Shortcut entry"
+msgid "Last Used Tabs"
+msgstr ""
+
+#: ViewManager.cpp:137
+#, kde-format
+msgctxt "@action Shortcut entry"
+msgid "Last Used Tabs (Reverse)"
+msgstr ""
+
+#: ViewManager.cpp:139
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Next View Container"
 msgstr ""
 
-#: ViewManager.cpp:138
+#: ViewManager.cpp:141
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Move Tab Left"
 msgstr ""
 
-#: ViewManager.cpp:140
+#: ViewManager.cpp:143
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Move Tab Right"
 msgstr ""
 
-#: ViewManager.cpp:148
+#: ViewManager.cpp:151
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Split View Left/Right"
 msgstr ""
 
-#: ViewManager.cpp:156
+#: ViewManager.cpp:159
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Split View Top/Bottom"
 msgstr ""
 
-#: ViewManager.cpp:161
+#: ViewManager.cpp:164
 #, kde-format
 msgctxt "@action:inmenu Close Active View"
 msgid "Close Active"
 msgstr ""
 
-#: ViewManager.cpp:172
+#: ViewManager.cpp:175
 #, kde-format
 msgctxt "@action:inmenu Close Other Views"
 msgid "Close Others"
 msgstr ""
 
-#: ViewManager.cpp:182
+#: ViewManager.cpp:185
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Expand View"
 msgstr ""
 
-#: ViewManager.cpp:192
+#: ViewManager.cpp:195
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Shrink View"
 msgstr ""
 
-#: ViewManager.cpp:207
+#: ViewManager.cpp:210
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "D&etach Current Tab"
 msgstr ""
 
-#: ViewManager.cpp:228
+#: ViewManager.cpp:233
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Switch to Tab %1"
