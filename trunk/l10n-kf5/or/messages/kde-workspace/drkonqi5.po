@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: drkonqi\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-10-26 03:57+0200\n"
+"POT-Creation-Date: 2018-12-07 03:27+0100\n"
 "PO-Revision-Date: 2009-01-02 11:42+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -532,31 +532,31 @@ msgid ""
 "debugger and click <interface>Reload</interface>."
 msgstr ""
 
-#: backtracewidget.cpp:226
+#: backtracewidget.cpp:229
 #, kde-format
 msgctxt "@info"
 msgid "The generated crash information is useful"
 msgstr ""
 
-#: backtracewidget.cpp:229
+#: backtracewidget.cpp:232
 #, kde-format
 msgctxt "@info"
 msgid "The generated crash information may be useful"
 msgstr ""
 
-#: backtracewidget.cpp:232
+#: backtracewidget.cpp:235
 #, kde-format
 msgctxt "@info"
 msgid "The generated crash information is probably not useful"
 msgstr ""
 
-#: backtracewidget.cpp:235
+#: backtracewidget.cpp:238
 #, kde-format
 msgctxt "@info"
 msgid "The generated crash information is not useful"
 msgstr ""
 
-#: backtracewidget.cpp:239
+#: backtracewidget.cpp:242
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -564,7 +564,7 @@ msgid ""
 "itself."
 msgstr ""
 
-#: backtracewidget.cpp:250
+#: backtracewidget.cpp:253
 #, kde-kuit-format
 msgctxt "@info/rich"
 msgid ""
@@ -576,7 +576,7 @@ msgid ""
 "<interface>Reload</interface> button."
 msgstr ""
 
-#: backtracewidget.cpp:267
+#: backtracewidget.cpp:270
 #, kde-kuit-format
 msgctxt "@info/rich"
 msgid ""
@@ -586,19 +586,19 @@ msgid ""
 "button."
 msgstr ""
 
-#: backtracewidget.cpp:283
+#: backtracewidget.cpp:286
 #, kde-format
 msgctxt "@info:status"
 msgid "The debugger has quit unexpectedly."
 msgstr ""
 
-#: backtracewidget.cpp:286 backtracewidget.cpp:301
+#: backtracewidget.cpp:289 backtracewidget.cpp:304
 #, kde-format
 msgctxt "@info:status"
 msgid "The crash information could not be generated."
 msgstr ""
 
-#: backtracewidget.cpp:289
+#: backtracewidget.cpp:292
 #, kde-kuit-format
 msgctxt "@info/rich"
 msgid ""
@@ -606,7 +606,7 @@ msgid ""
 "interface> button."
 msgstr ""
 
-#: backtracewidget.cpp:297
+#: backtracewidget.cpp:300
 #, kde-format
 msgctxt "@info:status"
 msgid ""
@@ -614,7 +614,7 @@ msgid ""
 "strong>"
 msgstr ""
 
-#: backtracewidget.cpp:303
+#: backtracewidget.cpp:306
 #, kde-kuit-format
 msgctxt "@info/rich"
 msgid ""
@@ -622,20 +622,20 @@ msgid ""
 "the <interface>Reload</interface> button.</strong>"
 msgstr ""
 
-#: backtracewidget.cpp:358
+#: backtracewidget.cpp:361
 #, kde-format
 msgctxt "@title:window"
 msgid "Error during the installation of debug symbols"
 msgstr ""
 
-#: backtracewidget.cpp:390
+#: backtracewidget.cpp:393
 #, kde-format
 msgid ""
 "The packages containing debug information for the following application and "
 "libraries are missing:"
 msgstr ""
 
-#: backtracewidget.cpp:399
+#: backtracewidget.cpp:402
 #, kde-format
 msgctxt "messagebox title"
 msgid "Missing debug information packages"
@@ -2459,124 +2459,124 @@ msgstr ""
 msgid "Failed to retrieve the config data."
 msgstr ""
 
-#: main.cpp:47
+#: main.cpp:50
 #, kde-format
 msgid "The KDE Crash Handler gives the user feedback if a program has crashed."
 msgstr ""
 
-#: main.cpp:72
+#: main.cpp:75
 #, kde-format
 msgid "The KDE Crash Handler"
 msgstr ""
 
-#: main.cpp:75
+#: main.cpp:78
 #, kde-format
 msgid "(C) 2000-2018, The DrKonqi Authors"
 msgstr ""
 
-#: main.cpp:76
+#: main.cpp:79
 #, kde-format
 msgctxt "@info:credit"
 msgid "Hans Petter Bieker"
 msgstr ""
 
-#: main.cpp:78
+#: main.cpp:81
 #, kde-format
 msgctxt "@info:credit"
 msgid "Dario Andres Rodriguez"
 msgstr ""
 
-#: main.cpp:80
+#: main.cpp:83
 #, kde-format
 msgctxt "@info:credit"
 msgid "George Kiagiadakis"
 msgstr ""
 
-#: main.cpp:82
+#: main.cpp:85
 #, kde-format
 msgctxt "@info:credit"
 msgid "A. L. Spehr"
 msgstr ""
 
-#: main.cpp:90
+#: main.cpp:93
 #, kde-format
 msgctxt "@info:shell"
 msgid "The signal <number> that was caught"
 msgstr ""
 
-#: main.cpp:91
+#: main.cpp:94
 #, kde-format
 msgctxt "@info:shell"
 msgid "<Name> of the program"
 msgstr ""
 
-#: main.cpp:92
+#: main.cpp:95
 #, kde-format
 msgctxt "@info:shell"
 msgid "<Path> to the executable"
 msgstr ""
 
-#: main.cpp:93
+#: main.cpp:96
 #, kde-format
 msgctxt "@info:shell"
 msgid "The <version> of the program"
 msgstr ""
 
-#: main.cpp:94
+#: main.cpp:97
 #, kde-format
 msgctxt "@info:shell"
 msgid "The bug <address> to use"
 msgstr ""
 
-#: main.cpp:95
+#: main.cpp:98
 #, kde-format
 msgctxt "@info:shell"
 msgid "Translated <name> of the program"
 msgstr ""
 
-#: main.cpp:96
+#: main.cpp:99
 #, kde-format
 msgctxt "@info:shell"
 msgid "The <PID> of the program"
 msgstr ""
 
-#: main.cpp:97
+#: main.cpp:100
 #, kde-format
 msgctxt "@info:shell"
 msgid "Startup <ID> of the program"
 msgstr ""
 
-#: main.cpp:98
+#: main.cpp:101
 #, kde-format
 msgctxt "@info:shell"
 msgid "The program was started by kdeinit"
 msgstr ""
 
-#: main.cpp:99
+#: main.cpp:102
 #, kde-format
 msgctxt "@info:shell"
 msgid "Disable arbitrary disk access"
 msgstr ""
 
-#: main.cpp:100
+#: main.cpp:103
 #, kde-format
 msgctxt "@info:shell"
 msgid "The program has already been restarted"
 msgstr ""
 
-#: main.cpp:101
+#: main.cpp:104
 #, kde-format
 msgctxt "@info:shell"
 msgid "Keep the program running and generate the backtrace at startup"
 msgstr ""
 
-#: main.cpp:103
+#: main.cpp:106
 #, kde-format
 msgctxt "@info:shell"
 msgid "The <thread id> of the failing thread"
 msgstr ""
 
-#: main.cpp:104
+#: main.cpp:107
 #, kde-format
 msgctxt "@info:shell"
 msgid "Do not show a notification but launch the debug dialog directly"
