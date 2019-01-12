@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kfontinst\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-11-06 04:00+0100\n"
+"POT-Creation-Date: 2019-01-12 03:14+0100\n"
 "PO-Revision-Date: 2009-01-02 11:51+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -275,7 +275,12 @@ msgstr ""
 msgid "Symbol/Other"
 msgstr ""
 
-#: kcmfontinst/FontFilter.cpp:283 kcmfontinst/FontFilter.cpp:345
+#: kcmfontinst/FontFilter.cpp:283
+#, kde-format
+msgid "Filter by %1..."
+msgstr ""
+
+#: kcmfontinst/FontFilter.cpp:345
 #, kde-format
 msgid "Type here to filter on %1"
 msgstr ""

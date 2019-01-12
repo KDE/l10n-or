@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-01-04 03:02+0100\n"
+"POT-Creation-Date: 2019-01-12 03:00+0100\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -461,9 +461,10 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: kpluginselector.cpp:261
-#, kde-format
-msgid "Search Plugins"
-msgstr "ପ୍ଲଗଇନଗୁଡିକୁ ଖୋଜନ୍ତୁ"
+#, fuzzy, kde-format
+#| msgid "&Search"
+msgid "Search..."
+msgstr "ଖୋଜନ୍ତୁ (&S)"
 
 #: kpluginselector.cpp:710
 #, fuzzy, kde-format
@@ -487,6 +488,9 @@ msgstr "ଯନ୍ତ୍ରାଂଶଗୁଡିକୁ ଚୟନ କରନ୍ତ�
 #, kde-format
 msgid "Enable component"
 msgstr "ଉପାଦାନକୁ ସକ୍ରିୟ କରନ୍ତୁ"
+
+#~ msgid "Search Plugins"
+#~ msgstr "ପ୍ଲଗଇନଗୁଡିକୁ ଖୋଜନ୍ତୁ"
 
 #~ msgid "Name"
 #~ msgstr "ନାମ"
@@ -4331,11 +4335,6 @@ msgstr "ଉପାଦାନକୁ ସକ୍ରିୟ କରନ୍ତୁ"
 #~ msgstr ""
 #~ "\"%1\" ଅକ୍ଷରରୂପର ଏହା ଗୋଟିଏ ପ୍ରାକଦର୍ଶନ। \"ଚୟନ କରନ୍ତୁ...\" ବଟନ ଦବାଇ ଆପଣ ଏହାକୁ ବଦଳାଇ "
 #~ "ପାରିବେ।"
-
-#, fuzzy
-#~| msgid "&Search"
-#~ msgid "Search"
-#~ msgstr "ଖୋଜନ୍ତୁ (&S)"
 
 #~ msgid "Stop"
 #~ msgstr "ବିରାମ କରନ୍ତୁ"
