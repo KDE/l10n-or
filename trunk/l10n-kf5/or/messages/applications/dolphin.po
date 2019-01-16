@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-12-20 02:46+0100\n"
+"POT-Creation-Date: 2019-01-16 02:55+0100\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -615,71 +615,71 @@ msgctxt "@title:menu"
 msgid "Main Toolbar"
 msgstr ""
 
-#: dolphinviewcontainer.cpp:95
+#: dolphinviewcontainer.cpp:94
 #, kde-format
 msgctxt "@action:button"
 msgid "Empty Trash"
 msgstr "ଖାଲି ଆବର୍ଜନା ପାତ୍ର"
 
-#: dolphinviewcontainer.cpp:117
+#: dolphinviewcontainer.cpp:116
 #, kde-format
 msgid "Running Dolphin as root can be dangerous. Please be careful."
 msgstr ""
 
-#: dolphinviewcontainer.cpp:396 search/dolphinsearchbox.cpp:311
+#: dolphinviewcontainer.cpp:395 search/dolphinsearchbox.cpp:311
 #, kde-format
 msgid "Search for %1 in %2"
 msgstr ""
 
-#: dolphinviewcontainer.cpp:434
+#: dolphinviewcontainer.cpp:433
 #, fuzzy, kde-format
 #| msgctxt "@action:inmenu"
 #| msgid "Empty Trash"
 msgid "Search"
 msgstr "ଖାଲି ଆବର୍ଜନା ପାତ୍ର"
 
-#: dolphinviewcontainer.cpp:436
+#: dolphinviewcontainer.cpp:435
 #, kde-format
 msgid "Search for %1"
 msgstr ""
 
-#: dolphinviewcontainer.cpp:513
+#: dolphinviewcontainer.cpp:512
 #, kde-format
 msgctxt "@info:progress"
 msgid "Loading folder..."
 msgstr "ଫୋଲଡ଼ର ଧାରଣ କରୁଅଛି..."
 
-#: dolphinviewcontainer.cpp:521
+#: dolphinviewcontainer.cpp:520
 #, kde-format
 msgctxt "@info:progress"
 msgid "Sorting..."
 msgstr ""
 
-#: dolphinviewcontainer.cpp:532
+#: dolphinviewcontainer.cpp:531
 #, kde-format
 msgctxt "@info"
 msgid "Searching..."
 msgstr ""
 
-#: dolphinviewcontainer.cpp:552
+#: dolphinviewcontainer.cpp:551
 #, kde-format
 msgctxt "@info:status"
 msgid "No items found."
 msgstr ""
 
-#: dolphinviewcontainer.cpp:659
+#: dolphinviewcontainer.cpp:658
 #, kde-format
 msgctxt "@info:status"
 msgid "Dolphin does not support web pages, the web browser has been launched"
 msgstr "Dolphin ୱେବ ପୃଷ୍ଟାଗୁଡ଼ିକୁ ସମର୍ଥନ କରେନାହିଁ, ୱେବ ବ୍ରାଉଜର ଆରମ୍ଭ ହୋଇଛି"
 
-#: dolphinviewcontainer.cpp:673
+#: dolphinviewcontainer.cpp:672
 #, kde-format
 msgctxt "@info:status"
 msgid "Protocol not supported by Dolphin, Konqueror has been launched"
 msgstr ""
 
-#: dolphinviewcontainer.cpp:681
+#: dolphinviewcontainer.cpp:680
 #, kde-format
 msgctxt "@info:status"
 msgid "Invalid protocol"
@@ -3206,13 +3206,13 @@ msgctxt "@action:inmenu"
 msgid "Show Space Information"
 msgstr "ସ୍ଥାନ ସୂଚନା ଦର୍ଶାନ୍ତୁ"
 
-#: statusbar/statusbarspaceinfo.cpp:100
+#: statusbar/statusbarspaceinfo.cpp:99
 #, kde-format
 msgctxt "@info:status"
 msgid "Unknown size"
 msgstr "ଅଜଣା ଆକାର"
 
-#: statusbar/statusbarspaceinfo.cpp:108
+#: statusbar/statusbarspaceinfo.cpp:107
 #, kde-format
 msgctxt "@info:status Free disk space"
 msgid "%1 free"
