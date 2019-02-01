@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-01-31 06:41+0000\n"
+"POT-Creation-Date: 2019-02-01 06:18+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -383,39 +383,39 @@ msgctxt "Name"
 msgid "Color Schemes"
 msgstr "ସୂଚକ ଫାଇଲଗୁଡ଼ିକ"
 
-#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:2
-msgctxt "GenericName"
-msgid "Color scheme editor"
-msgstr ""
-
-#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:41
-msgctxt "Name"
-msgid "KColorSchemeEditor"
-msgstr ""
-
-#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:78
-msgctxt "Comment"
-msgid "Plasma color scheme editor"
-msgstr ""
-
-#: kcms/colors/kcm_colors.desktop:14 kcms/colors/package/metadata.desktop:2
+#: kcms/colors/colors.desktop:14
 msgctxt "Name"
 msgid "Colors"
 msgstr "ରଙ୍ଗ"
 
-#: kcms/colors/kcm_colors.desktop:106 kcms/colors/package/metadata.desktop:93
+#: kcms/colors/colors.desktop:106
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Customize individual desktop theme items"
+#| msgctxt "Name"
+#| msgid "Application Launcher"
 msgctxt "Comment"
-msgid "Choose the color scheme"
-msgstr "ବ୍ୟକ୍ତିଗତ ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବସ୍ତୁଗୁଡ଼ିକୁ ଇଚ୍ଛାରୂପଣ କରୁଅଛି"
+msgid "Application Color Scheme"
+msgstr "ପ୍ରୟୋଗ ଆରମ୍ଭକର୍ତ୍ତା"
 
-#: kcms/colors/kcm_colors.desktop:122
+#: kcms/colors/colors.desktop:147
 msgctxt "X-KDE-Keywords"
 msgid ""
 "colors,colours,scheme,contrast,Widget colors,Color Scheme,color style,color "
 "theme"
+msgstr ""
+
+#: kcms/colors/org.kde.kcolorschemeeditor.desktop:2
+msgctxt "GenericName"
+msgid "Color scheme editor"
+msgstr ""
+
+#: kcms/colors/org.kde.kcolorschemeeditor.desktop:41
+msgctxt "Name"
+msgid "KColorSchemeEditor"
+msgstr ""
+
+#: kcms/colors/org.kde.kcolorschemeeditor.desktop:78
+msgctxt "Comment"
+msgid "Plasma color scheme editor"
 msgstr ""
 
 #: kcms/colors/schemes/./Honeycomb.colors:90
@@ -578,7 +578,7 @@ msgctxt "Comment"
 msgid "Choose the mouse cursor theme"
 msgstr "ବ୍ୟକ୍ତିଗତ ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବସ୍ତୁଗୁଡ଼ିକୁ ଇଚ୍ଛାରୂପଣ କରୁଅଛି"
 
-#: kcms/cursortheme/kcm_cursortheme.desktop:73
+#: kcms/cursortheme/kcm_cursortheme.desktop:71
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Mouse,Cursor,Theme,Cursor Appearance,Cursor Color,Cursor Theme,Mouse Theme,"
@@ -651,8 +651,8 @@ msgctxt "Name"
 msgid "Plasma Theme"
 msgstr ""
 
-#: kcms/desktoptheme/kcm_desktoptheme.desktop:35
-#: kcms/desktoptheme/package/metadata.desktop:24
+#: kcms/desktoptheme/kcm_desktoptheme.desktop:33
+#: kcms/desktoptheme/package/metadata.desktop:22
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Customize individual desktop theme items"
@@ -660,7 +660,7 @@ msgctxt "Comment"
 msgid "Choose the Plasma theme"
 msgstr "ବ୍ୟକ୍ତିଗତ ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବସ୍ତୁଗୁଡ଼ିକୁ ଇଚ୍ଛାରୂପଣ କରୁଅଛି"
 
-#: kcms/desktoptheme/kcm_desktoptheme.desktop:55
+#: kcms/desktoptheme/kcm_desktoptheme.desktop:51
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Desktop Theme Details"
@@ -981,7 +981,7 @@ msgctxt "Comment"
 msgid "Choose the splash screen theme"
 msgstr "ବ୍ୟକ୍ତିଗତ ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବସ୍ତୁଗୁଡ଼ିକୁ ଇଚ୍ଛାରୂପଣ କରୁଅଛି"
 
-#: kcms/ksplash/kcm_splashscreen.desktop:80
+#: kcms/ksplash/kcm_splashscreen.desktop:78
 msgctxt "X-KDE-Keywords"
 msgid "splash screen,splash theme,startup"
 msgstr ""
@@ -1026,7 +1026,7 @@ msgctxt "Comment"
 msgid "Choose the Look and Feel theme"
 msgstr ""
 
-#: kcms/lookandfeel/kcm_lookandfeel.desktop:73
+#: kcms/lookandfeel/kcm_lookandfeel.desktop:71
 msgctxt "X-KDE-Keywords"
 msgid "theme, look, feel"
 msgstr ""
@@ -1689,11 +1689,11 @@ msgid "Panel toolbox"
 msgstr "ନେଟୱର୍କ ସାଧନ"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Application Launcher"
+#~| msgctxt "Comment"
+#~| msgid "Customize individual desktop theme items"
 #~ msgctxt "Comment"
-#~ msgid "Application Color Scheme"
-#~ msgstr "ପ୍ରୟୋଗ ଆରମ୍ଭକର୍ତ୍ତା"
+#~ msgid "Choose the color scheme"
+#~ msgstr "ବ୍ୟକ୍ତିଗତ ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବସ୍ତୁଗୁଡ଼ିକୁ ଇଚ୍ଛାରୂପଣ କରୁଅଛି"
 
 #, fuzzy
 #~| msgctxt "Name"
