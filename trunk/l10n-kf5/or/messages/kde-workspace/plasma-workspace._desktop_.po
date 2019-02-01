@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-01-06 02:29+0000\n"
+"POT-Creation-Date: 2019-02-01 02:20+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -791,14 +791,17 @@ msgid "Date and time by timezone"
 msgstr "ତାରିଖ ଏବଂ ସମୟ ସଂରଚନା"
 
 #: dataengines/weather/ions/bbcukmet/ion-bbcukmet.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Weather"
 msgctxt "Name"
-msgid "BBC Weather from UK MET Office"
-msgstr "UK MET କାର୍ଯ୍ୟାଳୟରୁ BBC ପାଣିପାଗ"
+msgid "BBC Weather"
+msgstr "ପାଣିପାଗ"
 
 #: dataengines/weather/ions/bbcukmet/ion-bbcukmet.desktop:77
 msgctxt "Comment"
-msgid "XML Data from the UK MET Office"
-msgstr "UK MET କାର୍ଯ୍ୟାଳୟରୁ XML ତଥ୍ୟ"
+msgid "XML Data from the British Broadcasting Corporation"
+msgstr ""
 
 #: dataengines/weather/ions/envcan/ion-envcan.desktop:2
 msgctxt "Name"
@@ -1866,6 +1869,14 @@ msgstr ""
 msgctxt "Name"
 msgid "XembedSniProxy"
 msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "BBC Weather from UK MET Office"
+#~ msgstr "UK MET କାର୍ଯ୍ୟାଳୟରୁ BBC ପାଣିପାଗ"
+
+#~ msgctxt "Comment"
+#~ msgid "XML Data from the UK MET Office"
+#~ msgstr "UK MET କାର୍ଯ୍ୟାଳୟରୁ XML ତଥ୍ୟ"
 
 #, fuzzy
 #~| msgctxt "Name"
