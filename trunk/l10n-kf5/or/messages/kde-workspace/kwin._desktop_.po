@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-01-26 02:24+0000\n"
+"POT-Creation-Date: 2019-02-11 02:33+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -381,6 +381,8 @@ msgid "Window Manager Effects"
 msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ"
 
 #: kcmkwin/kwindecoration/kwindecoration.desktop:14
+#: kcmkwin/kwindecoration/package/metadata.desktop:17
+#: kcmkwin/kwindecoration/window-decorations.knsrc:2
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Window Information"
@@ -389,11 +391,12 @@ msgid "Window Decorations"
 msgstr "ୱିଣ୍ଡୋ ସୂଚନା"
 
 #: kcmkwin/kwindecoration/kwindecoration.desktop:75
+#: kcmkwin/kwindecoration/package/metadata.desktop:77
 msgctxt "Comment"
-msgid "Look and Feel of Window Titles"
+msgid "Configure window titlebars and borders"
 msgstr ""
 
-#: kcmkwin/kwindecoration/kwindecoration.desktop:120
+#: kcmkwin/kwindecoration/kwindecoration.desktop:77
 msgctxt "X-KDE-Keywords"
 msgid ""
 "kwin,window,manager,border,style,theme,look,feel,layout,button,handle,edge,"
