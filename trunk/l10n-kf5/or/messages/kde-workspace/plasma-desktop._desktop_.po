@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-02-13 02:44+0000\n"
+"POT-Creation-Date: 2019-02-14 02:22+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -408,7 +408,7 @@ msgstr "ରଙ୍ଗ"
 #| msgctxt "Comment"
 #| msgid "Customize individual desktop theme items"
 msgctxt "Comment"
-msgid "Choose the color scheme"
+msgid "Choose color scheme"
 msgstr "ବ୍ୟକ୍ତିଗତ ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବସ୍ତୁଗୁଡ଼ିକୁ ଇଚ୍ଛାରୂପଣ କରୁଅଛି"
 
 #: kcms/colors/kcm_colors.desktop:127
@@ -575,7 +575,7 @@ msgstr "ସୂଚକ ଫାଇଲଗୁଡ଼ିକ"
 #| msgctxt "Comment"
 #| msgid "Customize individual desktop theme items"
 msgctxt "Comment"
-msgid "Choose the mouse cursor theme"
+msgid "Choose mouse cursor theme"
 msgstr "ବ୍ୟକ୍ତିଗତ ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବସ୍ତୁଗୁଡ଼ିକୁ ଇଚ୍ଛାରୂପଣ କରୁଅଛି"
 
 #: kcms/cursortheme/kcm_cursortheme.desktop:74
@@ -657,7 +657,7 @@ msgstr ""
 #| msgctxt "Comment"
 #| msgid "Customize individual desktop theme items"
 msgctxt "Comment"
-msgid "Choose the Plasma theme"
+msgid "Choose Plasma theme"
 msgstr "ବ୍ୟକ୍ତିଗତ ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବସ୍ତୁଗୁଡ଼ିକୁ ଇଚ୍ଛାରୂପଣ କରୁଅଛି"
 
 #: kcms/desktoptheme/kcm_desktoptheme.desktop:57
@@ -681,10 +681,10 @@ msgstr "Emoticons"
 #: kcms/emoticons/emoticons.desktop:96
 #, fuzzy
 #| msgctxt "Comment"
-#| msgid "Emoticons Themes Manager"
+#| msgid "Customize individual desktop theme items"
 msgctxt "Comment"
-msgid "Emoticon Theme"
-msgstr "Emoticons ପ୍ରସଙ୍ଗ ପରିଚାଳକ"
+msgid "Choose emoticon theme"
+msgstr "ବ୍ୟକ୍ତିଗତ ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବସ୍ତୁଗୁଡ଼ିକୁ ଇଚ୍ଛାରୂପଣ କରୁଅଛି"
 
 #: kcms/emoticons/emoticons.desktop:142
 #, fuzzy
@@ -706,10 +706,10 @@ msgstr "ଅକ୍ଷର ରୂପ"
 #| msgctxt "Comment"
 #| msgid "Date and time settings"
 msgctxt "Comment"
-msgid "Configure the system fonts"
+msgid "Configure user interface fonts"
 msgstr "ତାରିଖ ଏବଂ ସମୟ ସଂରଚନା"
 
-#: kcms/fonts/kcm_fonts.desktop:115
+#: kcms/fonts/kcm_fonts.desktop:116
 msgctxt "X-KDE-Keywords"
 msgid ""
 "fonts,font size,styles,charsets,character sets,panel,control panel,desktops,"
@@ -762,11 +762,11 @@ msgstr "ଚିତ୍ର ସଂକେତଗୁଡ଼ିକ"
 
 #: kcms/icons/kcm_icons.desktop:106 kcms/icons/package/metadata.desktop:93
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Cursor Files"
+#| msgctxt "Comment"
+#| msgid "Customize individual desktop theme items"
 msgctxt "Comment"
-msgid "Icon Theme"
-msgstr "ସୂଚକ ଫାଇଲଗୁଡ଼ିକ"
+msgid "Choose icon theme"
+msgstr "ବ୍ୟକ୍ତିଗତ ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବସ୍ତୁଗୁଡ଼ିକୁ ଇଚ୍ଛାରୂପଣ କରୁଅଛି"
 
 #: kcms/icons/kcm_icons.desktop:153
 msgctxt "X-KDE-Keywords"
@@ -908,9 +908,12 @@ msgid "Font Management"
 msgstr "ଫାଇଲ ପରିଚାଳନା"
 
 #: kcms/kfontinst/kcmfontinst/fontinst.desktop:71
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Install, manage, and preview fonts"
 msgctxt "Comment"
-msgid "Font Installation, Preview and Removal"
-msgstr ""
+msgid "Install, manage and preview fonts"
+msgstr "ଅକ୍ଷରରୂପଗୁଡ଼ିକୁ ସ୍ଥାପନ କରନ୍ତୁ, ପରିଚାଳନ କରନ୍ତୁ, ଏବଂ ପ୍ରାକଦର୍ଶନ କରନ୍ତୁ"
 
 #: kcms/kfontinst/kcmfontinst/fontinst.desktop:115
 msgctxt "X-KDE-Keywords"
@@ -978,7 +981,7 @@ msgstr ""
 #| msgctxt "Comment"
 #| msgid "Customize individual desktop theme items"
 msgctxt "Comment"
-msgid "Choose the splash screen theme"
+msgid "Choose splash screen theme"
 msgstr "ବ୍ୟକ୍ତିଗତ ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବସ୍ତୁଗୁଡ଼ିକୁ ଇଚ୍ଛାରୂପଣ କରୁଅଛି"
 
 #: kcms/ksplash/kcm_splashscreen.desktop:81
@@ -1022,9 +1025,12 @@ msgstr ""
 
 #: kcms/lookandfeel/kcm_lookandfeel.desktop:53
 #: kcms/lookandfeel/package/metadata.desktop:41
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Customize individual desktop theme items"
 msgctxt "Comment"
-msgid "Choose the Look and Feel theme"
-msgstr ""
+msgid "Choose Look and Feel theme"
+msgstr "ବ୍ୟକ୍ତିଗତ ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବସ୍ତୁଗୁଡ଼ିକୁ ଇଚ୍ଛାରୂପଣ କରୁଅଛି"
 
 #: kcms/lookandfeel/kcm_lookandfeel.desktop:74
 msgctxt "X-KDE-Keywords"
@@ -1448,9 +1454,12 @@ msgid "Widget Style"
 msgstr ""
 
 #: kcms/style/style.desktop:61
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure the spell checker"
 msgctxt "Comment"
-msgid "Widget Style and Behavior"
-msgstr ""
+msgid "Configure widget style and behavior"
+msgstr "ବନାନ ଯାଞ୍ଚକାରୀକୁ ସଂରଚନା କରନ୍ତୁ"
 
 #: kcms/style/style.desktop:107
 msgctxt "X-KDE-Keywords"
@@ -1689,6 +1698,20 @@ msgid "Panel toolbox"
 msgstr "ନେଟୱର୍କ ସାଧନ"
 
 #, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Emoticons Themes Manager"
+#~ msgctxt "Comment"
+#~ msgid "Emoticon Theme"
+#~ msgstr "Emoticons ପ୍ରସଙ୍ଗ ପରିଚାଳକ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Cursor Files"
+#~ msgctxt "Comment"
+#~ msgid "Icon Theme"
+#~ msgstr "ସୂଚକ ଫାଇଲଗୁଡ଼ିକ"
+
+#, fuzzy
 #~| msgctxt "Name"
 #~| msgid "Fonts"
 #~ msgctxt "Comment"
@@ -1910,10 +1933,6 @@ msgstr "ନେଟୱର୍କ ସାଧନ"
 #~ msgctxt "Comment"
 #~ msgid "Configuration of keybindings"
 #~ msgstr "କିବନ୍ଧନଗୁଡ଼ିକର ସଂରଚନା"
-
-#~ msgctxt "Comment"
-#~ msgid "Install, manage, and preview fonts"
-#~ msgstr "ଅକ୍ଷରରୂପଗୁଡ଼ିକୁ ସ୍ଥାପନ କରନ୍ତୁ, ପରିଚାଳନ କରନ୍ତୁ, ଏବଂ ପ୍ରାକଦର୍ଶନ କରନ୍ତୁ"
 
 #, fuzzy
 #~| msgctxt "Name"
