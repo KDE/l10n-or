@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-03-09 02:42+0000\n"
+"POT-Creation-Date: 2019-03-12 02:42+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -662,43 +662,6 @@ msgctxt "Comment"
 msgid "A graphics reset event occurred"
 msgstr ""
 
-#: packageplugins/aurorae/kwin-packagestructure-aurorae.desktop:2
-msgctxt "Name"
-msgid "KWin Aurorae"
-msgstr ""
-
-#: packageplugins/decoration/kwin-packagestructure-decoration.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Window Information"
-msgctxt "Name"
-msgid "KWin Decoration"
-msgstr "ୱିଣ୍ଡୋ ସୂଚନା"
-
-#: packageplugins/effect/kwin-packagestructure-effect.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "CGI Scripts"
-msgctxt "Name"
-msgid "KWin Effect"
-msgstr "CGI ସ୍କ୍ରିପ୍ଟଗୁଡ଼ିକ"
-
-#: packageplugins/scripts/kwin-packagestructure-scripts.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "CGI Scripts"
-msgctxt "Name"
-msgid "KWin Script"
-msgstr "CGI ସ୍କ୍ରିପ୍ଟଗୁଡ଼ିକ"
-
-#: packageplugins/windowswitcher/kwin-packagestructure-windowswitcher.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Window Manager"
-msgctxt "Name"
-msgid "KWin Window Switcher"
-msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ"
-
 #: plugins/kdecorations/aurorae/src/aurorae.knsrc:2
 #, fuzzy
 #| msgctxt "Name"
@@ -724,6 +687,43 @@ msgstr ""
 msgctxt "Comment"
 msgid "The classic theme known from KDE 3"
 msgstr ""
+
+#: plugins/kpackage/aurorae/kwin-packagestructure-aurorae.desktop:2
+msgctxt "Name"
+msgid "KWin Aurorae"
+msgstr ""
+
+#: plugins/kpackage/decoration/kwin-packagestructure-decoration.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Window Information"
+msgctxt "Name"
+msgid "KWin Decoration"
+msgstr "ୱିଣ୍ଡୋ ସୂଚନା"
+
+#: plugins/kpackage/effect/kwin-packagestructure-effect.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "CGI Scripts"
+msgctxt "Name"
+msgid "KWin Effect"
+msgstr "CGI ସ୍କ୍ରିପ୍ଟଗୁଡ଼ିକ"
+
+#: plugins/kpackage/scripts/kwin-packagestructure-scripts.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "CGI Scripts"
+msgctxt "Name"
+msgid "KWin Script"
+msgstr "CGI ସ୍କ୍ରିପ୍ଟଗୁଡ଼ିକ"
+
+#: plugins/kpackage/windowswitcher/kwin-packagestructure-windowswitcher.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Window Manager"
+msgctxt "Name"
+msgid "KWin Window Switcher"
+msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ"
 
 #: scripting/kwinscript.desktop:5
 #, fuzzy
