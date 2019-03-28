@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-03-27 03:00+0100\n"
+"POT-Creation-Date: 2019-03-28 02:56+0100\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1189,6 +1189,24 @@ msgid "Release Year"
 msgstr "ପଢ଼ନ୍ତୁ, "
 
 #: kitemviews/kfileitemmodel.cpp:2325
+#, kde-format
+msgctxt "@label"
+msgid "Aspect Ratio"
+msgstr ""
+
+#: kitemviews/kfileitemmodel.cpp:2325 kitemviews/kfileitemmodel.cpp:2326
+#, kde-format
+msgctxt "@label"
+msgid "Video"
+msgstr ""
+
+#: kitemviews/kfileitemmodel.cpp:2326
+#, kde-format
+msgctxt "@label"
+msgid "Frame Rate"
+msgstr ""
+
+#: kitemviews/kfileitemmodel.cpp:2327
 #, fuzzy, kde-format
 #| msgctxt "@action:inmenu"
 #| msgid "Paste"
@@ -1196,10 +1214,10 @@ msgctxt "@label"
 msgid "Path"
 msgstr "ଲଗାନ୍ତୁ"
 
-#: kitemviews/kfileitemmodel.cpp:2325 kitemviews/kfileitemmodel.cpp:2326
 #: kitemviews/kfileitemmodel.cpp:2327 kitemviews/kfileitemmodel.cpp:2328
 #: kitemviews/kfileitemmodel.cpp:2329 kitemviews/kfileitemmodel.cpp:2330
-#: kitemviews/kfileitemmodel.cpp:2331
+#: kitemviews/kfileitemmodel.cpp:2331 kitemviews/kfileitemmodel.cpp:2332
+#: kitemviews/kfileitemmodel.cpp:2333
 #, fuzzy, kde-format
 #| msgctxt "@title:group Name"
 #| msgid "Others"
@@ -1207,7 +1225,7 @@ msgctxt "@label"
 msgid "Other"
 msgstr "ଅନ୍ୟମାନେ"
 
-#: kitemviews/kfileitemmodel.cpp:2326
+#: kitemviews/kfileitemmodel.cpp:2328
 #, fuzzy, kde-format
 #| msgctxt "@action:inmenu"
 #| msgid "Delete"
@@ -1215,7 +1233,7 @@ msgctxt "@label"
 msgid "Deletion Time"
 msgstr "ଅପସାରଣ କରନ୍ତୁ"
 
-#: kitemviews/kfileitemmodel.cpp:2327
+#: kitemviews/kfileitemmodel.cpp:2329
 #, fuzzy, kde-format
 #| msgctxt "@info:credit"
 #| msgid "Documentation"
@@ -1223,25 +1241,25 @@ msgctxt "@label"
 msgid "Link Destination"
 msgstr "ଦଲିଲିକରଣ"
 
-#: kitemviews/kfileitemmodel.cpp:2328
+#: kitemviews/kfileitemmodel.cpp:2330
 #, kde-format
 msgctxt "@label"
 msgid "Downloaded From"
 msgstr ""
 
-#: kitemviews/kfileitemmodel.cpp:2329
+#: kitemviews/kfileitemmodel.cpp:2331
 #, kde-format
 msgctxt "@label"
 msgid "Permissions"
 msgstr ""
 
-#: kitemviews/kfileitemmodel.cpp:2330
+#: kitemviews/kfileitemmodel.cpp:2332
 #, kde-format
 msgctxt "@label"
 msgid "Owner"
 msgstr ""
 
-#: kitemviews/kfileitemmodel.cpp:2331
+#: kitemviews/kfileitemmodel.cpp:2333
 #, kde-format
 msgctxt "@label"
 msgid "User Group"
@@ -2452,8 +2470,7 @@ msgstr "ଆବର୍ଜନା ପାତ୍ର"
 #: settings/dolphinsettingsdialog.cpp:163
 #, kde-format
 msgid ""
-"You have have unsaved changes. Do you want to apply the changes or discard "
-"them?"
+"You have unsaved changes. Do you want to apply the changes or discard them?"
 msgstr ""
 
 #: settings/dolphinsettingsdialog.cpp:164
