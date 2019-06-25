@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-06-22 01:29+0000\n"
+"POT-Creation-Date: 2019-06-25 01:21+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -22,6 +22,20 @@ msgstr ""
 "\n"
 "\n"
 "\n"
+
+#: color-schemes/./OxygenCold.colors:103
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Oxygen"
+msgctxt "Name"
+msgid "Oxygen Cold"
+msgstr "ଅକ୍ସିଜେନ"
+
+#: color-schemes/./Oxygen.colors:107 kstyle/oxygen.themerc:2
+#: lookandfeel/metadata.desktop:85
+msgctxt "Name"
+msgid "Oxygen"
+msgstr "ଅକ୍ସିଜେନ"
 
 #: cursors/KDE_Classic/index.theme:2
 msgctxt "Name"
@@ -112,11 +126,6 @@ msgstr ""
 msgctxt "X-KDE-Keywords"
 msgid "oxygen,widget,style"
 msgstr ""
-
-#: kstyle/oxygen.themerc:2 lookandfeel/metadata.desktop:85
-msgctxt "Name"
-msgid "Oxygen"
-msgstr "ଅକ୍ସିଜେନ"
 
 #: kstyle/oxygen.themerc:89
 msgctxt "Comment"
