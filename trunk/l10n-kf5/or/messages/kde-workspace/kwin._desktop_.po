@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-06-26 01:35+0000\n"
+"POT-Creation-Date: 2019-06-29 01:33+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -748,19 +748,6 @@ msgctxt "Comment"
 msgid "An on screen display indicating the desktop change"
 msgstr ""
 
-#: scripts/enforcedeco/metadata.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Window Information"
-msgctxt "Name"
-msgid "Enforces Window Decorations on GTK+ window"
-msgstr "ୱିଣ୍ଡୋ ସୂଚନା"
-
-#: scripts/enforcedeco/metadata.desktop:45
-msgctxt "Comment"
-msgid "Fixes functional deficits for client side decorated windows."
-msgstr ""
-
 #: scripts/minimizeall/metadata.desktop:2
 msgctxt "Name"
 msgid "MinimizeAll"
@@ -813,6 +800,13 @@ msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ"
 msgctxt "Comment"
 msgid "KWin Window Switcher Layout"
 msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Window Information"
+#~ msgctxt "Name"
+#~ msgid "Enforces Window Decorations on GTK+ window"
+#~ msgstr "ୱିଣ୍ଡୋ ସୂଚନା"
 
 #~ msgctxt "Name"
 #~ msgid "Dashboard"
