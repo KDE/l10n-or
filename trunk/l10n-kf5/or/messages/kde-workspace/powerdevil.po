@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: powerdevil\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-07-02 02:39+0200\n"
+"POT-Creation-Date: 2019-07-05 03:19+0200\n"
 "PO-Revision-Date: 2009-01-02 11:50+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -33,6 +33,7 @@ msgstr ""
 #: actions/bundled/brightnesscontrol.cpp:52
 #: actions/bundled/handlebuttonevents.cpp:57
 #: actions/bundled/keyboardbrightnesscontrol.cpp:57
+#: actions/dpms/powerdevildpmsaction.cpp:78
 #, kde-format
 msgctxt "Name for powerdevil shortcuts category"
 msgid "Power Management"
@@ -244,6 +245,12 @@ msgstr ""
 #: actions/bundled/wirelesspowersavingconfig.cpp:112
 #, kde-format
 msgid "Bluetooth"
+msgstr ""
+
+#: actions/dpms/powerdevildpmsaction.cpp:81
+#, kde-format
+msgctxt "@action:inmenu Global shortcut"
+msgid "Turn Off Screen"
 msgstr ""
 
 #: actions/dpms/powerdevildpmsactionconfig.cpp:61
