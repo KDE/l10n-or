@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-09 01:40+0000\n"
+"POT-Creation-Date: 2019-08-10 01:27+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -987,11 +987,13 @@ msgid ""
 msgstr ""
 
 #: kcms/lookandfeel/kcm_lookandfeel.desktop:14
-#: kcms/lookandfeel/lookandfeel.knsrc:2
 #: kcms/lookandfeel/package/metadata.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Cursor Files"
 msgctxt "Name"
-msgid "Look and Feel"
-msgstr ""
+msgid "Global Theme"
+msgstr "ସୂଚକ ଫାଇଲଗୁଡ଼ିକ"
 
 #: kcms/lookandfeel/kcm_lookandfeel.desktop:54
 #: kcms/lookandfeel/package/metadata.desktop:42
@@ -999,13 +1001,21 @@ msgstr ""
 #| msgctxt "Comment"
 #| msgid "Customize individual desktop theme items"
 msgctxt "Comment"
-msgid "Choose Look and Feel theme"
+msgid "Choose global look and feel"
 msgstr "ବ୍ୟକ୍ତିଗତ ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବସ୍ତୁଗୁଡ଼ିକୁ ଇଚ୍ଛାରୂପଣ କରୁଅଛି"
 
 #: kcms/lookandfeel/kcm_lookandfeel.desktop:80
 msgctxt "X-KDE-Keywords"
 msgid "theme, look, feel"
 msgstr ""
+
+#: kcms/lookandfeel/lookandfeel.knsrc:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Global Keyboard Shortcuts"
+msgctxt "Name"
+msgid "Global Themes"
+msgstr "ଜାଗତିକ କିବୋର୍ଡ଼ ସଂକ୍ଷିପ୍ତ ପଥ"
 
 #: kcms/mouse/mouse.desktop:154
 msgctxt "X-KDE-Keywords"
@@ -1708,13 +1718,6 @@ msgstr "ନେଟୱର୍କ ସାଧନ"
 #~ msgctxt "Comment"
 #~ msgid "Emoticon Theme"
 #~ msgstr "Emoticons ପ୍ରସଙ୍ଗ ପରିଚାଳକ"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Cursor Files"
-#~ msgctxt "Comment"
-#~ msgid "Icon Theme"
-#~ msgstr "ସୂଚକ ଫାଇଲଗୁଡ଼ିକ"
 
 #, fuzzy
 #~| msgctxt "Name"
