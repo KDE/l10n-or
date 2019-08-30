@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmsmserver\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-29 07:24+0200\n"
+"POT-Creation-Date: 2019-08-30 07:52+0200\n"
 "PO-Revision-Date: 2009-01-02 11:46+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -20,7 +20,7 @@ msgstr ""
 "\n"
 "\n"
 
-#: kcmsmserver.cpp:50
+#: kcmsmserver.cpp:62
 #, kde-format
 msgid ""
 "<h1>Session Manager</h1> You can configure the session manager here. This "
@@ -28,6 +28,38 @@ msgid ""
 "confirmed, whether the session should be restored again when logging in and "
 "whether the computer should be automatically shut down after session exit by "
 "default."
+msgstr ""
+
+#: kcmsmserver.cpp:82
+#, kde-format
+msgid "Restart Now"
+msgstr ""
+
+#: kcmsmserver.cpp:114
+#, kde-format
+msgid "Failed to request restart to firmware setup: %1"
+msgstr ""
+
+#: kcmsmserver.cpp:126
+#, kde-format
+msgid ""
+"Next time the computer is restarted, it will enter the UEFI setup screen."
+msgstr ""
+
+#: kcmsmserver.cpp:128
+#, kde-format
+msgid ""
+"Next time the computer is restarted, it will enter the firmware setup screen."
+msgstr ""
+
+#: kcmsmserver.cpp:140
+#, kde-format
+msgid "UEFI Setup"
+msgstr ""
+
+#: kcmsmserver.cpp:141
+#, kde-format
+msgid "Enter UEFI setup on next restart"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, topBox)
@@ -140,4 +172,24 @@ msgid ""
 "Here you can enter a colon or comma separated list of applications that "
 "should not be saved in sessions, and therefore will not be started when "
 "restoring a session. For example 'xterm:konsole' or 'xterm,konsole'."
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, firmwareSetupBox)
+#: smserverconfigdlg.ui:133
+#, kde-format
+msgid "Firmware Setup"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, firmwareSetupCheck)
+#: smserverconfigdlg.ui:146
+#, kde-format
+msgid ""
+"When the computer is restarted the next time, enter firmware setup screen (e."
+"g. UEFI or BIOS setup)"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, firmwareSetupCheck)
+#: smserverconfigdlg.ui:149
+#, kde-format
+msgid "Enter firmware setup on next restart"
 msgstr ""
