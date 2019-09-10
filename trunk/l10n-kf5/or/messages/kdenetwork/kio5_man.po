@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio_man\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-07-19 03:12+0200\n"
+"POT-Creation-Date: 2019-09-10 02:52+0200\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -19,16 +19,6 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 "\n"
 "\n"
-
-#, kde-format
-msgctxt "NAME OF TRANSLATORS"
-msgid "Your names"
-msgstr ""
-
-#, kde-format
-msgctxt "EMAIL OF TRANSLATORS"
-msgid "Your emails"
-msgstr ""
 
 #: kio_man.cpp:479
 #, kde-format
@@ -182,9 +172,4 @@ msgid ""
 "Could not find the sgml2roff program on your system. Please install it, if "
 "necessary, and extend the search path by adjusting the environment variable "
 "PATH before starting KDE."
-msgstr ""
-
-#: kmanpart.cpp:30
-#, kde-format
-msgid "KMan"
 msgstr ""
