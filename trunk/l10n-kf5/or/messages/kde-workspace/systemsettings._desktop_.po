@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-14 01:33+0000\n"
+"POT-Creation-Date: 2019-09-11 01:48+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -378,25 +378,6 @@ msgctxt "Name"
 msgid "System Settings Category"
 msgstr "ତନ୍ତ୍ର ବିନ୍ୟାସ ବିଭାଗ"
 
-#: classic/settings-classic-view.desktop:7 icons/settings-icon-view.desktop:7
-#: sidebar/settings-sidebar-view.desktop:7
-#, fuzzy
-#| msgctxt "GenericName"
-#| msgid "System Settings"
-msgctxt "X-KDE-Keywords"
-msgid "System Settings"
-msgstr "ତନ୍ତ୍ର ବିନ୍ୟାସ"
-
-#: classic/settings-classic-view.desktop:65
-msgctxt "Name"
-msgid "Tree View"
-msgstr ""
-
-#: classic/settings-classic-view.desktop:105
-msgctxt "Comment"
-msgid "A Classic KDE 3 KControl style system settings view."
-msgstr ""
-
 #: core/systemsettingsexternalapp.desktop:4
 #, fuzzy
 #| msgctxt "Name"
@@ -411,6 +392,14 @@ msgstr "ତନ୍ତ୍ର ବିନ୍ୟାସ ବିଭାଗ"
 #| msgid "System Settings"
 msgctxt "Name"
 msgid "System Settings View"
+msgstr "ତନ୍ତ୍ର ବିନ୍ୟାସ"
+
+#: icons/settings-icon-view.desktop:7 sidebar/settings-sidebar-view.desktop:7
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "System Settings"
+msgctxt "X-KDE-Keywords"
+msgid "System Settings"
 msgstr "ତନ୍ତ୍ର ବିନ୍ୟାସ"
 
 #: icons/settings-icon-view.desktop:65

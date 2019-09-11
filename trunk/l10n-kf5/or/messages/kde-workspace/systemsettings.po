@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: systemsettings\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-09-09 03:18+0200\n"
+"POT-Creation-Date: 2019-09-11 03:40+0200\n"
 "PO-Revision-Date: 2009-01-02 11:51+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -42,7 +42,7 @@ msgstr ""
 msgid "Show detailed tooltips"
 msgstr ""
 
-#: app/main.cpp:48 app/SettingsBase.cpp:56 classic/CategoryList.cpp:40
+#: app/main.cpp:48 app/SettingsBase.cpp:56
 #: sidebar/package/contents/ui/introPage.qml:55
 #, kde-format
 msgid "System Settings"
@@ -53,13 +53,12 @@ msgstr ""
 msgid "Central configuration center by KDE."
 msgstr ""
 
-#: app/main.cpp:48 classic/ClassicMode.cpp:71 icons/IconMode.cpp:61
+#: app/main.cpp:48 icons/IconMode.cpp:61
 #, kde-format
 msgid "(c) 2009, Ben Cooksley"
 msgstr ""
 
-#: app/main.cpp:49 classic/ClassicMode.cpp:72 icons/IconMode.cpp:62
-#: sidebar/SidebarMode.cpp:273
+#: app/main.cpp:49 icons/IconMode.cpp:62 sidebar/SidebarMode.cpp:273
 #, kde-format
 msgid "Ben Cooksley"
 msgstr ""
@@ -69,14 +68,12 @@ msgstr ""
 msgid "Maintainer"
 msgstr ""
 
-#: app/main.cpp:50 classic/ClassicMode.cpp:73 icons/IconMode.cpp:63
-#: sidebar/SidebarMode.cpp:274
+#: app/main.cpp:50 icons/IconMode.cpp:63 sidebar/SidebarMode.cpp:274
 #, kde-format
 msgid "Mathias Soeken"
 msgstr ""
 
-#: app/main.cpp:50 classic/ClassicMode.cpp:73 icons/IconMode.cpp:63
-#: sidebar/SidebarMode.cpp:274
+#: app/main.cpp:50 icons/IconMode.cpp:63 sidebar/SidebarMode.cpp:274
 #, kde-format
 msgid "Developer"
 msgstr ""
@@ -172,40 +169,6 @@ msgid_plural "Contains %1 items"
 msgstr[0] ""
 msgstr[1] ""
 
-#: classic/CategoryList.cpp:41
-#, kde-format
-msgid "Configure your system"
-msgstr ""
-
-#: classic/CategoryList.cpp:42
-#, kde-format
-msgid ""
-"Welcome to \"System Settings\", a central place to configure your computer "
-"system."
-msgstr ""
-
-#: classic/ClassicMode.cpp:67 classic/ClassicMode.cpp:252
-#, kde-format
-msgid "Tree View"
-msgstr ""
-
-#: classic/ClassicMode.cpp:69
-#, kde-format
-msgid "Provides a classic tree-based view of control modules."
-msgstr ""
-
-#: classic/ClassicMode.cpp:72 icons/IconMode.cpp:62 sidebar/SidebarMode.cpp:272
-#: sidebar/SidebarMode.cpp:273
-#, kde-format
-msgid "Author"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QCheckBox, CbExpand)
-#: classic/configClassic.ui:17
-#, kde-format
-msgid "Expand the first level automatically"
-msgstr ""
-
 #: core/ExternalAppModule.cpp:34
 #, kde-format
 msgid "%1 is an external application and has been automatically launched"
@@ -247,6 +210,12 @@ msgstr ""
 #: icons/IconMode.cpp:60
 #, kde-format
 msgid "Provides a categorized icons view of control modules."
+msgstr ""
+
+#: icons/IconMode.cpp:62 sidebar/SidebarMode.cpp:272
+#: sidebar/SidebarMode.cpp:273
+#, kde-format
+msgid "Author"
 msgstr ""
 
 #: icons/IconMode.cpp:66
