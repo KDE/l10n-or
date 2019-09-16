@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-09-15 01:28+0000\n"
+"POT-Creation-Date: 2019-09-16 01:36+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -394,9 +394,8 @@ msgid "Desktop Effects"
 msgstr ""
 
 #: kcmkwin/kwineffects/kcm_kwin_effects.desktop:63
-#: kcmkwin/kwineffects/package/metadata.desktop:49
 msgctxt "Comment"
-msgid "Desktop Effects"
+msgid "Configure compositor settings for desktop effects"
 msgstr ""
 
 #: kcmkwin/kwineffects/kcm_kwin_effects.desktop:109
@@ -426,6 +425,11 @@ msgstr ""
 msgctxt "Name"
 msgid "Window Manager Effects"
 msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ"
+
+#: kcmkwin/kwineffects/package/metadata.desktop:49
+msgctxt "Comment"
+msgid "Desktop Effects"
+msgstr ""
 
 #: kcmkwin/kwinoptions/kwinactions.desktop:12
 #, fuzzy
