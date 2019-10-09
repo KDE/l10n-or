@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-09-20 02:46+0200\n"
+"POT-Creation-Date: 2019-10-09 02:43+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -57,19 +57,25 @@ msgid ""
 "or the module has been disabled by the administrator.</p></qt>"
 msgstr ""
 
-#: kcmoduleloader.cpp:139
+#: kcmoduleloader.cpp:106
+#, fuzzy, kde-format
+#| msgid "Error loading '%1'.\n"
+msgid "Error loading QML file."
+msgstr "'%1' ଧାରଣକରିବାରେ ତ୍ରୁଟି।\n"
+
+#: kcmoduleloader.cpp:143
 #, kde-format
 msgid "The module %1 is not a valid configuration module."
 msgstr "ଏକକାଂଶ %1 ଟି ଗୋଟିଏ ବୈଧ ବିନ୍ୟାସ ଏକକାଂଶ ନୁହଁ।"
 
-#: kcmoduleloader.cpp:140
+#: kcmoduleloader.cpp:144
 #, kde-format
 msgid ""
 "<qt>The diagnosis is:<br />The desktop file %1 does not specify a library.</"
 "qt>"
 msgstr ""
 
-#: kcmoduleloader.cpp:155
+#: kcmoduleloader.cpp:159
 #, kde-format
 msgid ""
 "<qt><p>Possible reasons:<ul><li>An error occurred during your last system "
@@ -7452,9 +7458,6 @@ msgstr "ଉପାଦାନକୁ ସକ୍ରିୟ କରନ୍ତୁ"
 
 #~ msgid "Unknown protocol '%1'.\n"
 #~ msgstr "ଅଜଣା ପ୍ରଟୋକଲ '%1'।\n"
-
-#~ msgid "Error loading '%1'.\n"
-#~ msgstr "'%1' ଧାରଣକରିବାରେ ତ୍ରୁଟି।\n"
 
 #~ msgid "Evaluation error"
 #~ msgstr "ମୂଲ୍ୟ ନିର୍ଦ୍ଧାରଣ ତ୍ରୁଟି"
