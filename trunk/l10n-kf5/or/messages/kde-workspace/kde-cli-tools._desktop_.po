@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 01:33+0000\n"
+"POT-Creation-Date: 2019-10-19 01:37+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -37,6 +37,19 @@ msgstr "ଫାଇଲ ସଂସ୍ଥା ବିନ୍ୟାସ କରନ୍ତୁ
 msgctxt "X-KDE-Keywords"
 msgid "Filetypes,File Associations,Mime Types,File Patterns,Files,Pattern"
 msgstr ""
+
+#: keditfiletype/org.kde.keditfiletype.desktop:2
+msgctxt "Name"
+msgid "keditfiletype"
+msgstr ""
+
+#: keditfiletype/org.kde.keditfiletype.desktop:3
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Text Editor"
+msgctxt "GenericName"
+msgid "File Type Editor"
+msgstr "ପାଠ୍ୟ ସମ୍ପାଦକ"
 
 #, fuzzy
 #~| msgctxt "Name"
@@ -5450,10 +5463,6 @@ msgstr ""
 #~ msgctxt "Name"
 #~ msgid "Quick Access Terminal"
 #~ msgstr "ତୁରନ୍ତ ଅଭିଗମ୍ୟ ଟର୍ମିନାଲ"
-
-#~ msgctxt "GenericName"
-#~ msgid "Text Editor"
-#~ msgstr "ପାଠ୍ୟ ସମ୍ପାଦକ"
 
 #~ msgctxt "Name"
 #~ msgid "KWrite"
