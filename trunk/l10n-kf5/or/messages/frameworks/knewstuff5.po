@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-09 02:48+0100\n"
+"POT-Creation-Date: 2019-11-27 03:01+0100\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -711,12 +711,12 @@ msgstr ""
 
 #: qtquick/qml/EntryDetails.qml:178
 #, fuzzy, kde-format
-#| msgid "No Preview"
+#| msgid "View Comments"
 msgctxt ""
-"A link which, when clicked, opens a new sub page with reviews (comments) for "
-"this entry"
-msgid "%1 Reviews"
-msgstr "ପ୍ରାକଦର୍ଶନ ନାହିଁ"
+"A link which, when clicked, opens a new sub page with comments (comments "
+"with or without ratings) for this entry"
+msgid "%1 Reviews and Comments"
+msgstr "ଟୀପ୍ପଣୀଗୁଡିକୁ ଦେଖନ୍ତୁ"
 
 #: qtquick/qml/EntryDetails.qml:183
 #, fuzzy, kde-format
@@ -856,6 +856,29 @@ msgstr ""
 #, kde-format
 msgctxt "Title for the page containing a view of the comments for the entry"
 msgid "Comments and Reviews for %1"
+msgstr ""
+
+#: qtquick/qml/private/EntryCommentsPage.qml:45
+#, fuzzy, kde-format
+#| msgid "Pages"
+msgctxt "Title for the item which is checked when all comments should be shown"
+msgid "Show All Comments"
+msgstr "ପୃଷ୍ଠାଗୁଡିକ"
+
+#: qtquick/qml/private/EntryCommentsPage.qml:51
+#, kde-format
+msgctxt ""
+"Title for the item which is checked when only comments which are reviews "
+"should be shown"
+msgid "Show Reviews Only"
+msgstr ""
+
+#: qtquick/qml/private/EntryCommentsPage.qml:57
+#, kde-format
+msgctxt ""
+"Title for the item which is checked when comments which are reviews, and "
+"their children should be shown"
+msgid "Show Reviews and Replies"
 msgstr ""
 
 #: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:180
@@ -1400,6 +1423,14 @@ msgstr ""
 #| msgid "Start replace"
 msgid "Start Upload"
 msgstr "ବଦଳାଇବା ଆରମ୍ଭ କରନ୍ତୁ"
+
+#, fuzzy
+#~| msgid "No Preview"
+#~ msgctxt ""
+#~ "A link which, when clicked, opens a new sub page with reviews (comments) "
+#~ "for this entry"
+#~ msgid "%1 Reviews"
+#~ msgstr "ପ୍ରାକଦର୍ଶନ ନାହିଁ"
 
 #, fuzzy
 #~| msgid "Overwrite File?"
@@ -8592,9 +8623,6 @@ msgstr "ବଦଳାଇବା ଆରମ୍ଭ କରନ୍ତୁ"
 
 #~ msgid "Add Comment"
 #~ msgstr "ଟୀପ୍ପଣୀ ଯୋଗକରନ୍ତୁ"
-
-#~ msgid "View Comments"
-#~ msgstr "ଟୀପ୍ପଣୀଗୁଡିକୁ ଦେଖନ୍ତୁ"
 
 #~ msgid "Entries failed to load"
 #~ msgstr "ଭରଣଗୁଡିକ ଧାରଣକରିବାରେ ବିଫଳ ହେଲେ"
