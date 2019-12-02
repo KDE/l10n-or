@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-25 02:54+0100\n"
+"POT-Creation-Date: 2019-12-02 02:58+0100\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -90,7 +90,7 @@ msgid ""
 msgstr "ଅନ୍ୟ ସହଯୋଗୀମାନେ:"
 
 #: kaboutapplicationpersonlistdelegate_p.cpp:134
-#: kaboutapplicationpersonlistdelegate_p.cpp:170
+#: kaboutapplicationpersonlistdelegate_p.cpp:171
 #, fuzzy, kde-format
 #| msgid "Homepage"
 msgid ""
@@ -99,14 +99,14 @@ msgid ""
 msgstr "ମୂଳସ୍ଥାନ ପୃଷ୍ଠା"
 
 #: kaboutapplicationpersonlistdelegate_p.cpp:141
-#: kaboutapplicationpersonlistdelegate_p.cpp:173
+#: kaboutapplicationpersonlistdelegate_p.cpp:174
 #, kde-format
 msgid ""
 "Visit contributor's profile on %1\n"
 "%2"
 msgstr ""
 
-#: kaboutapplicationpersonlistdelegate_p.cpp:164
+#: kaboutapplicationpersonlistdelegate_p.cpp:165
 #, fuzzy, kde-format
 #| msgid "Homepage"
 msgid ""
@@ -114,7 +114,7 @@ msgid ""
 "%1"
 msgstr "ମୂଳସ୍ଥାନ ପୃଷ୍ଠା"
 
-#: kaboutapplicationpersonlistdelegate_p.cpp:167
+#: kaboutapplicationpersonlistdelegate_p.cpp:168
 #, fuzzy, kde-format
 #| msgid "Homepage"
 msgid ""
@@ -122,7 +122,7 @@ msgid ""
 "%1"
 msgstr "ମୂଳସ୍ଥାନ ପୃଷ୍ଠା"
 
-#: kaboutapplicationpersonlistdelegate_p.cpp:265
+#: kaboutapplicationpersonlistdelegate_p.cpp:266
 #, fuzzy, kde-format
 #| msgctxt "@application/plain"
 #| msgid "%1"
@@ -429,7 +429,7 @@ msgid ""
 "program.\n"
 msgstr ""
 
-#: kbugreport.cpp:301
+#: kbugreport.cpp:299
 #, kde-format
 msgid ""
 "<qt>To submit a bug report, click on the button below. This will open a web "
@@ -438,38 +438,38 @@ msgid ""
 "be transferred to that server.</qt>"
 msgstr ""
 
-#: kbugreport.cpp:306
+#: kbugreport.cpp:304
 #, kde-format
 msgid ""
 "<qt>To submit a bug report, click on the button below. This will open a web "
 "browser window on <a href=\"%1\">%2</a>.</qt>"
 msgstr ""
 
-#: kbugreport.cpp:323
+#: kbugreport.cpp:321
 #, kde-format
 msgid "&Launch Bug Report Wizard"
 msgstr "ତ୍ରୁଟି ଖବର ୱିଜାର୍ଡ଼କୁ ଆରମ୍ଭ କରନ୍ତୁ (&L)"
 
-#: kbugreport.cpp:325
+#: kbugreport.cpp:323
 #, fuzzy, kde-format
 #| msgid "Submit Bug Report"
 msgid "&Submit Bug Report"
 msgstr "ତ୍ରୁଟି ବିବରଣୀ ଦାଖଲ କରନ୍ତୁ"
 
-#: kbugreport.cpp:389
+#: kbugreport.cpp:387
 #, kde-format
 msgctxt "unknown program name"
 msgid "unknown"
 msgstr "ଅଜ୍ଞାତ"
 
-#: kbugreport.cpp:448
+#: kbugreport.cpp:446
 #, kde-format
 msgid ""
 "You must specify both a subject and a description before the report can be "
 "sent."
 msgstr "ବିବରଣୀ ପଠାଇବା ପୂର୍ବରୁ ଆପଣ ଉଭୟ ବିଷୟ ଏବଂ ବର୍ଣ୍ଣନା ଦର୍ଶାଇବା ଉଚିତ।"
 
-#: kbugreport.cpp:457
+#: kbugreport.cpp:455
 #, kde-format
 msgid ""
 "<p>You chose the severity <b>Critical</b>. Please note that this severity is "
@@ -481,7 +481,7 @@ msgid ""
 "not, please select a lower severity. Thank you.</p>"
 msgstr ""
 
-#: kbugreport.cpp:469
+#: kbugreport.cpp:467
 #, kde-format
 msgid ""
 "<p>You chose the severity <b>Grave</b>. Please note that this severity is "
@@ -493,7 +493,7 @@ msgid ""
 "not, please select a lower severity. Thank you.</p>"
 msgstr ""
 
-#: kbugreport.cpp:483
+#: kbugreport.cpp:481
 #, fuzzy, kde-format
 #| msgid ""
 #| "Unable to send the bug report.\n"
@@ -508,12 +508,12 @@ msgstr ""
 "ଦୟାକରି ହସ୍ତକୃତଭାବରେ ଗୋଟିଏ ତ୍ରୁଟି ବିବରଣୀକୁ ଦାଖଲ କରନ୍ତୁ...\n"
 "ଅଧିକ ସୂଚନା ପାଇଁ http://bugs.kde.org/ କୁ ଦେଖନ୍ତୁ।"
 
-#: kbugreport.cpp:491
+#: kbugreport.cpp:489
 #, kde-format
 msgid "Bug report sent, thank you for your input."
 msgstr "ତ୍ରୁଟି ବିବରଣୀ ପଠାସରିଛି, ଆପଣଙ୍କର ଅବଦାନ ପାଇଁ ଧନ୍ୟବାଦ।"
 
-#: kbugreport.cpp:500
+#: kbugreport.cpp:498
 #, kde-format
 msgid ""
 "Close and discard\n"
@@ -522,7 +522,7 @@ msgstr ""
 "ସମ୍ପାଦିତ ସନ୍ଦେଶଗୁଡିକୁ\n"
 "ବନ୍ଦ ଏବଂ ପରିତ୍ୟାଗ କରିବେ କି?"
 
-#: kbugreport.cpp:501
+#: kbugreport.cpp:499
 #, kde-format
 msgid "Close Message"
 msgstr "ସନ୍ଦେଶ ବନ୍ଦ କରନ୍ତୁ"
