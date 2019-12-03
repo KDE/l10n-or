@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-02 02:58+0100\n"
+"POT-Creation-Date: 2019-12-03 02:58+0100\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -700,38 +700,6 @@ msgstr "%1"
 msgid "Change Icon"
 msgstr "ଚିତ୍ର ସଂକେତ ପରିବର୍ତ୍ତନ କରନ୍ତୁ"
 
-#: kgesture.cpp:502
-#, kde-format
-msgctxt "left mouse button"
-msgid "left button"
-msgstr "ବାମ ବଟନ"
-
-#: kgesture.cpp:504
-#, kde-format
-msgctxt "middle mouse button"
-msgid "middle button"
-msgstr "ମଝି ବଟନ"
-
-#: kgesture.cpp:506
-#, kde-format
-msgctxt "right mouse button"
-msgid "right button"
-msgstr "ଡାହାଣ ବଟନ"
-
-#: kgesture.cpp:508
-#, kde-format
-msgctxt "a nonexistent value of mouse button"
-msgid "invalid button"
-msgstr "ଅବୈଧ ବଟନ"
-
-#: kgesture.cpp:521
-#, kde-format
-msgctxt ""
-"a kind of mouse gesture: hold down one mouse button, then press another "
-"button"
-msgid "Hold %1, then push %2"
-msgstr "%1 କୁ ଧରନ୍ତୁ, ତାପରେ %2 କୁ ଠେଲନ୍ତୁ"
-
 #. i18n: ectx: Menu (help)
 #: khelpmenu.cpp:172 ui_standards.rc:177
 #, kde-format
@@ -764,7 +732,7 @@ msgstr[0] "ଜାଗତିକ ସଂକ୍ଷିପ୍ତ ପଥ ସହିତ �
 msgstr[1] "ଜାଗତିକ ସଂକ୍ଷିପ୍ତ ପଥ ସହିତ ଦ୍ୱନ୍ଦ"
 
 #: kkeysequencewidget.cpp:147 kkeysequencewidget.cpp:235
-#: kkeysequencewidget.cpp:626 kshortcutseditor.cpp:637 kshortcutseditor.cpp:655
+#: kkeysequencewidget.cpp:626
 #, kde-format
 msgid "Reassign"
 msgstr "ପୁନଃ ନିରୂପଣ କରିବା"
@@ -1132,70 +1100,51 @@ msgstr "ମାଉସ ବଟନ ହାବଭାବ"
 msgid "Mouse Shape Gesture"
 msgstr "ମାଉସ ଆକାର ହାବଭାବ"
 
-#: kshortcutseditor.cpp:632 kshortcutseditor.cpp:650
-#, kde-format
-msgid "Key Conflict"
-msgstr "କି ଦ୍ୱନ୍ଦ"
-
-#: kshortcutseditor.cpp:633
-#, kde-format
-msgid ""
-"The '%1' shape gesture has already been allocated to the \"%2\" action.\n"
-"Do you want to reassign it from that action to the current one?"
-msgstr ""
-
-#: kshortcutseditor.cpp:651
-#, kde-format
-msgid ""
-"The '%1' rocker gesture has already been allocated to the \"%2\" action.\n"
-"Do you want to reassign it from that action to the current one?"
-msgstr ""
-
-#: kshortcutseditor.cpp:698
+#: kshortcutseditor.cpp:562
 #, kde-format
 msgctxt "header for an applications shortcut list"
 msgid "Shortcuts for %1"
 msgstr "%1 ପାଇଁ ସଂକ୍ଷିପ୍ତ ପଥ"
 
 #. i18n: ectx: property (text), widget (QLabel, priLabel)
-#: kshortcutseditor.cpp:716 kshortcutwidget.ui:22
+#: kshortcutseditor.cpp:580 kshortcutwidget.ui:22
 #, kde-format
 msgid "Main:"
 msgstr "ମୁଖ୍ୟ:"
 
 #. i18n: ectx: property (text), widget (QLabel, altLabel)
-#: kshortcutseditor.cpp:717 kshortcutwidget.ui:52
+#: kshortcutseditor.cpp:581 kshortcutwidget.ui:52
 #, kde-format
 msgid "Alternate:"
 msgstr "ବିକଳ୍ପ:"
 
-#: kshortcutseditor.cpp:718
+#: kshortcutseditor.cpp:582
 #, kde-format
 msgid "Global:"
 msgstr "ଜାଗତିକ:"
 
-#: kshortcutseditor.cpp:719
+#: kshortcutseditor.cpp:583
 #, fuzzy, kde-format
 #| msgid "Global Alternate"
 msgid "Global alternate:"
 msgstr "ସାମଗ୍ରିକ ବିକଳ୍ପ"
 
-#: kshortcutseditor.cpp:735
+#: kshortcutseditor.cpp:599
 #, kde-format
 msgid "Action Name"
 msgstr "କାର୍ଯ୍ୟ ନାମ"
 
-#: kshortcutseditor.cpp:739
+#: kshortcutseditor.cpp:603
 #, kde-format
 msgid "Shortcuts"
 msgstr "ସଂକ୍ଷିପ୍ତ ପଥ"
 
-#: kshortcutseditor.cpp:743
+#: kshortcutseditor.cpp:607
 #, kde-format
 msgid "Description"
 msgstr "ବର୍ଣ୍ଣନା"
 
-#: kshortcutseditoritem.cpp:54
+#: kshortcutseditoritem.cpp:46
 #, kde-format
 msgctxt "@item:intable Action name in shortcuts configuration"
 msgid "%1"
@@ -1467,6 +1416,31 @@ msgstr "ବିନ୍ୟାସ (&S)"
 #, kde-format
 msgid "Main Toolbar"
 msgstr "ମୁଖ୍ୟ ସାଧନପଟି"
+
+#~ msgctxt "left mouse button"
+#~ msgid "left button"
+#~ msgstr "ବାମ ବଟନ"
+
+#~ msgctxt "middle mouse button"
+#~ msgid "middle button"
+#~ msgstr "ମଝି ବଟନ"
+
+#~ msgctxt "right mouse button"
+#~ msgid "right button"
+#~ msgstr "ଡାହାଣ ବଟନ"
+
+#~ msgctxt "a nonexistent value of mouse button"
+#~ msgid "invalid button"
+#~ msgstr "ଅବୈଧ ବଟନ"
+
+#~ msgctxt ""
+#~ "a kind of mouse gesture: hold down one mouse button, then press another "
+#~ "button"
+#~ msgid "Hold %1, then push %2"
+#~ msgstr "%1 କୁ ଧରନ୍ତୁ, ତାପରେ %2 କୁ ଠେଲନ୍ତୁ"
+
+#~ msgid "Key Conflict"
+#~ msgstr "କି ଦ୍ୱନ୍ଦ"
 
 #~ msgid "A&uthor"
 #~ msgstr "ଲେଖକ (&u)"
