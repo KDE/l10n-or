@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-10 02:33+0100\n"
+"POT-Creation-Date: 2019-12-16 02:30+0100\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -2421,7 +2421,7 @@ msgstr "ସ୍ଥାନ:"
 msgid "What"
 msgstr ""
 
-#: search/dolphinfacetswidget.cpp:38
+#: search/dolphinfacetswidget.cpp:41
 #, fuzzy, kde-format
 #| msgctxt "@label"
 #| msgid "Type:"
@@ -2429,7 +2429,7 @@ msgctxt "@item:inlistbox"
 msgid "Any Type"
 msgstr "ପ୍ରକାର:"
 
-#: search/dolphinfacetswidget.cpp:39
+#: search/dolphinfacetswidget.cpp:42
 #, fuzzy, kde-format
 #| msgctxt "@title:group Size"
 #| msgid "Folders"
@@ -2437,7 +2437,7 @@ msgctxt "@item:inlistbox"
 msgid "Folders"
 msgstr "ଫୋଲଡ଼ରଗୁଡ଼ିକ"
 
-#: search/dolphinfacetswidget.cpp:40
+#: search/dolphinfacetswidget.cpp:43
 #, fuzzy, kde-format
 #| msgctxt "@info:credit"
 #| msgid "Documentation"
@@ -2445,7 +2445,7 @@ msgctxt "@item:inlistbox"
 msgid "Documents"
 msgstr "ଦଲିଲିକରଣ"
 
-#: search/dolphinfacetswidget.cpp:41
+#: search/dolphinfacetswidget.cpp:44
 #, fuzzy, kde-format
 #| msgctxt "@title:group"
 #| msgid "File Previews"
@@ -2453,7 +2453,7 @@ msgctxt "@item:inlistbox"
 msgid "Images"
 msgstr "ଫାଇଲ ପ୍ରାକଦର୍ଶନ"
 
-#: search/dolphinfacetswidget.cpp:42
+#: search/dolphinfacetswidget.cpp:45
 #, fuzzy, kde-format
 #| msgctxt "@action:inmenu"
 #| msgid "Show Hidden Files"
@@ -2461,13 +2461,13 @@ msgctxt "@item:inlistbox"
 msgid "Audio Files"
 msgstr "ଲୁକ୍କାୟିତ ଫାଇଲଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ"
 
-#: search/dolphinfacetswidget.cpp:43
+#: search/dolphinfacetswidget.cpp:46
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Videos"
 msgstr ""
 
-#: search/dolphinfacetswidget.cpp:49
+#: search/dolphinfacetswidget.cpp:52
 #, fuzzy, kde-format
 #| msgctxt "@label:textbox"
 #| msgid "Location:"
@@ -2475,7 +2475,7 @@ msgctxt "@item:inlistbox"
 msgid "Any Date"
 msgstr "ସ୍ଥାନ:"
 
-#: search/dolphinfacetswidget.cpp:50
+#: search/dolphinfacetswidget.cpp:53
 #, fuzzy, kde-format
 #| msgctxt "@title:group Date"
 #| msgid "Today"
@@ -2483,7 +2483,7 @@ msgctxt "@item:inlistbox"
 msgid "Today"
 msgstr "ଆଜି"
 
-#: search/dolphinfacetswidget.cpp:51
+#: search/dolphinfacetswidget.cpp:54
 #, fuzzy, kde-format
 #| msgctxt "@title:group Date"
 #| msgid "Yesterday"
@@ -2491,7 +2491,7 @@ msgctxt "@item:inlistbox"
 msgid "Yesterday"
 msgstr "ଗତକାଲି"
 
-#: search/dolphinfacetswidget.cpp:52
+#: search/dolphinfacetswidget.cpp:55
 #, fuzzy, kde-format
 #| msgctxt "@title:group Date"
 #| msgid "Last Week"
@@ -2499,7 +2499,7 @@ msgctxt "@item:inlistbox"
 msgid "This Week"
 msgstr "ଗତ ସପ୍ତାହ"
 
-#: search/dolphinfacetswidget.cpp:53
+#: search/dolphinfacetswidget.cpp:56
 #, fuzzy, kde-format
 #| msgctxt "@title:group Date"
 #| msgid "Earlier this Month"
@@ -2507,7 +2507,7 @@ msgctxt "@item:inlistbox"
 msgid "This Month"
 msgstr "ଏହି ମାସ ଆରମ୍ଭରେ"
 
-#: search/dolphinfacetswidget.cpp:54
+#: search/dolphinfacetswidget.cpp:57
 #, fuzzy, kde-format
 #| msgctxt "@title:group Date"
 #| msgid "Last Week"
@@ -2515,7 +2515,7 @@ msgctxt "@item:inlistbox"
 msgid "This Year"
 msgstr "ଗତ ସପ୍ତାହ"
 
-#: search/dolphinfacetswidget.cpp:58
+#: search/dolphinfacetswidget.cpp:61
 #, fuzzy, kde-format
 #| msgctxt "@label:textbox"
 #| msgid "Location:"
@@ -2523,35 +2523,59 @@ msgctxt "@item:inlistbox"
 msgid "Any Rating"
 msgstr "ସ୍ଥାନ:"
 
-#: search/dolphinfacetswidget.cpp:59
+#: search/dolphinfacetswidget.cpp:62
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "1 or more"
 msgstr ""
 
-#: search/dolphinfacetswidget.cpp:60
+#: search/dolphinfacetswidget.cpp:63
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "2 or more"
 msgstr ""
 
-#: search/dolphinfacetswidget.cpp:61
+#: search/dolphinfacetswidget.cpp:64
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "3 or more"
 msgstr ""
 
-#: search/dolphinfacetswidget.cpp:62
+#: search/dolphinfacetswidget.cpp:65
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "4 or more"
 msgstr ""
 
-#: search/dolphinfacetswidget.cpp:63
+#: search/dolphinfacetswidget.cpp:66
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Highest Rating"
 msgstr ""
+
+#: search/dolphinfacetswidget.cpp:258
+#, kde-format
+msgctxt "String list separator"
+msgid ", "
+msgstr ""
+
+#: search/dolphinfacetswidget.cpp:260
+#, fuzzy, kde-format
+#| msgctxt "@label"
+#| msgid "Trash"
+msgctxt "@action:button %2 is a list of tags"
+msgid "Tag: %2"
+msgid_plural "Tags: %2"
+msgstr[0] "ଆବର୍ଜନା ପାତ୍ର"
+msgstr[1] "ଆବର୍ଜନା ପାତ୍ର"
+
+#: search/dolphinfacetswidget.cpp:262
+#, fuzzy, kde-format
+#| msgctxt "@label"
+#| msgid "Trash"
+msgctxt "@action:button"
+msgid "Add Tags"
+msgstr "ଆବର୍ଜନା ପାତ୍ର"
 
 #: search/dolphinsearchbox.cpp:114
 #, kde-format
@@ -3151,7 +3175,7 @@ msgstr ""
 #| msgctxt "@option:radio"
 #| msgid "Use common view properties for all folders"
 msgctxt "@option:radio"
-msgid "Use common properties for all folders"
+msgid "Use common display style for all folders"
 msgstr "ସମସ୍ତ ଫୋଲଡ଼ରଗୁଡ଼ିକ ପାଇଁ ସାଧାରଣ ଦୃଶ୍ୟ ଗୁଣଧର୍ମ ବ୍ୟବହାର କରନ୍ତୁ"
 
 #: settings/general/behaviorsettingspage.cpp:52
@@ -3159,7 +3183,7 @@ msgstr "ସମସ୍ତ ଫୋଲଡ଼ରଗୁଡ଼ିକ ପାଇଁ ସା
 #| msgctxt "@option:radio"
 #| msgid "Remember view properties for each folder"
 msgctxt "@option:radio"
-msgid "Remember properties for each folder"
+msgid "Remember display style for each folder"
 msgstr "ପ୍ରତ୍ୟେକ ଫୋଲଡ଼ର ପାଇଁ ଦୃଶ୍ୟ ଗୁଣଧର୍ମକୁ ମନେରଖନ୍ତୁ"
 
 #: settings/general/behaviorsettingspage.cpp:53
@@ -3729,7 +3753,7 @@ msgstr[1] "ଆକାର: %1 ପିକସେଲ"
 #: settings/viewpropertiesdialog.cpp:71
 #, kde-format
 msgctxt "@title:window"
-msgid "View Properties"
+msgid "View Display Style"
 msgstr ""
 
 #: settings/viewpropertiesdialog.cpp:84
@@ -4334,7 +4358,7 @@ msgstr ""
 #| msgctxt "@title:group"
 #| msgid "View Properties"
 msgctxt "@action:inmenu View"
-msgid "Adjust View Properties..."
+msgid "Adjust View Display Style..."
 msgstr "ଗୁଣଧର୍ମ ଦେଖନ୍ତୁ"
 
 #: views/dolphinviewactionhandler.cpp:285
@@ -5082,13 +5106,6 @@ msgstr ""
 #~ msgstr "ଆକାର:"
 
 #, fuzzy
-#~| msgctxt "@label"
-#~| msgid "Trash"
-#~ msgctxt "@label"
-#~ msgid "Tag:"
-#~ msgstr "ଆବର୍ଜନା ପାତ୍ର"
-
-#, fuzzy
 #~| msgctxt "@label:textbox"
 #~| msgid "Location:"
 #~ msgctxt "@label"
@@ -5171,13 +5188,6 @@ msgstr ""
 #~ msgctxt "@label file type"
 #~ msgid "Type"
 #~ msgstr "ପ୍ରକାର:"
-
-#, fuzzy
-#~| msgctxt "@label"
-#~| msgid "Trash"
-#~ msgctxt "@title:window"
-#~ msgid "Add Tags"
-#~ msgstr "ଆବର୍ଜନା ପାତ୍ର"
 
 #, fuzzy
 #~| msgctxt "@title:window"

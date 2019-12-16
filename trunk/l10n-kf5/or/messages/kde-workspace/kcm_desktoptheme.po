@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcm_desktopthemedetails\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-31 03:24+0100\n"
+"POT-Creation-Date: 2019-12-16 03:29+0100\n"
 "PO-Revision-Date: 2009-01-05 18:10+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -42,35 +42,35 @@ msgstr "ନୂତନ ପ୍ରସଙ୍ଗ ଗ୍ରହଣ କରନ୍ତୁ...
 msgid "David Rosca"
 msgstr ""
 
-#: kcm.cpp:126
+#: kcm.cpp:127
 #, fuzzy, kde-format
 #| msgid "How to Change Desktop Theme"
 msgid "Download New Plasma Styles"
 msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗକୁ କିପରି ପରିବର୍ତ୍ତନ କରିବେ"
 
-#: kcm.cpp:152
+#: kcm.cpp:153
 #, fuzzy, kde-format
 #| msgid "Unable to save theme."
 msgid "Unable to create a temporary file."
 msgstr "ପ୍ରସଙ୍ଗ ସଂରକ୍ଷଣ କରିବାରେ ଅସମର୍ଥ।"
 
-#: kcm.cpp:164
+#: kcm.cpp:165
 #, fuzzy, kde-format
 #| msgid "Unable to save theme."
 msgid "Unable to download the theme: %1"
 msgstr "ପ୍ରସଙ୍ଗ ସଂରକ୍ଷଣ କରିବାରେ ଅସମର୍ଥ।"
 
-#: kcm.cpp:187
+#: kcm.cpp:188
 #, kde-format
 msgid "Theme installed successfully."
 msgstr ""
 
-#: kcm.cpp:190 kcm.cpp:198
+#: kcm.cpp:191 kcm.cpp:199
 #, kde-format
 msgid "Theme installation failed."
 msgstr ""
 
-#: kcm.cpp:341
+#: kcm.cpp:345
 #, kde-format
 msgid "Removing theme failed: %1"
 msgstr ""
@@ -80,41 +80,48 @@ msgstr ""
 msgid "This module lets you choose the Plasma style."
 msgstr ""
 
-#: package/contents/ui/main.qml:69
+#: package/contents/ui/main.qml:52
+#, fuzzy, kde-format
+#| msgctxt "plasma name"
+#| msgid "Color Scheme"
+msgid "Follows color scheme"
+msgstr "ରଙ୍ଗ ଯୋଜନା"
+
+#: package/contents/ui/main.qml:70
 #, fuzzy, kde-format
 #| msgid "Theme Item"
 msgid "Edit Theme..."
 msgstr "ପ୍ରସଙ୍ଗ ବସ୍ତୁ"
 
-#: package/contents/ui/main.qml:76
+#: package/contents/ui/main.qml:77
 #, kde-format
 msgid "Remove Theme"
 msgstr "ପ୍ରସଙ୍ଗକୁ କାଢ଼ିଦିଅନ୍ତୁ"
 
-#: package/contents/ui/main.qml:83
+#: package/contents/ui/main.qml:84
 #, fuzzy, kde-format
 #| msgid "Remove Theme"
 msgid "Restore Theme"
 msgstr "ପ୍ରସଙ୍ଗକୁ କାଢ଼ିଦିଅନ୍ତୁ"
 
-#: package/contents/ui/main.qml:121
+#: package/contents/ui/main.qml:122
 #, kde-format
 msgid "Install from File..."
 msgstr ""
 
-#: package/contents/ui/main.qml:127
+#: package/contents/ui/main.qml:128
 #, fuzzy, kde-format
 #| msgid "Get New Theme..."
 msgid "Get New Plasma Styles..."
 msgstr "ନୂତନ ପ୍ରସଙ୍ଗ ଗ୍ରହଣ କରନ୍ତୁ..."
 
-#: package/contents/ui/main.qml:139
+#: package/contents/ui/main.qml:140
 #, fuzzy, kde-format
 #| msgid "Theme Item"
 msgid "Open Theme"
 msgstr "ପ୍ରସଙ୍ଗ ବସ୍ତୁ"
 
-#: package/contents/ui/main.qml:141
+#: package/contents/ui/main.qml:142
 #, kde-format
 msgid "Theme Files (*.zip *.tar.gz *.tar.bz2)"
 msgstr ""
@@ -128,10 +135,6 @@ msgstr ""
 #~| msgid "Export Desktop Theme"
 #~ msgid "KDE Desktop Theme Module"
 #~ msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗକୁ ପଠାନ୍ତୁ "
-
-#~ msgctxt "plasma name"
-#~ msgid "Color Scheme"
-#~ msgstr "ରଙ୍ଗ ଯୋଜନା"
 
 #~ msgctxt "plasma name"
 #~ msgid "Panel Background"
