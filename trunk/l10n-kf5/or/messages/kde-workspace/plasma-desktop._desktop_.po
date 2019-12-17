@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-08 02:39+0000\n"
+"POT-Creation-Date: 2019-12-17 02:44+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -31,7 +31,7 @@ msgctxt "Name"
 msgid "Icons-only Task Manager"
 msgstr "କାର୍ଯ୍ୟ ପରିଚାଳକ"
 
-#: applets/icontasks/metadata.desktop:49
+#: applets/icontasks/metadata.desktop:50
 #: applets/taskmanager/package/metadata.desktop:83
 msgctxt "Comment"
 msgid "Switch between running applications"
@@ -45,7 +45,7 @@ msgctxt "Name"
 msgid "Application Menu"
 msgstr "ପ୍ରୟୋଗ ଆରମ୍ଭକର୍ତ୍ତା"
 
-#: applets/kicker/package/metadata.desktop:53
+#: applets/kicker/package/metadata.desktop:54
 msgctxt "Comment"
 msgid "A launcher based on cascading popup menus"
 msgstr ""
@@ -85,7 +85,7 @@ msgctxt "Name"
 msgid "Minimize all Windows"
 msgstr ""
 
-#: applets/minimizeall/package/metadata.desktop:31
+#: applets/minimizeall/package/metadata.desktop:32
 msgctxt "Comment"
 msgid "Shows the desktop by minimizing all windows"
 msgstr ""
@@ -109,7 +109,7 @@ msgctxt "Name"
 msgid "Activities"
 msgstr "ସର୍ଭିସ ପରିଚାଳକ"
 
-#: applets/showActivityManager/package/metadata.desktop:62
+#: applets/showActivityManager/package/metadata.desktop:63
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Service Manager"
@@ -125,7 +125,7 @@ msgctxt "Name"
 msgid "Show Desktop"
 msgstr "ଡ଼େସ୍କଟପ"
 
-#: applets/showdesktop/package/metadata.desktop:32
+#: applets/showdesktop/package/metadata.desktop:33
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Plasma Desktop Workspace"
@@ -156,7 +156,7 @@ msgctxt "Name"
 msgid "Window list"
 msgstr "MS Windows 9x"
 
-#: applets/window-list/metadata.desktop:53
+#: applets/window-list/metadata.desktop:54
 msgctxt "Comment"
 msgid "Plasmoid to show list of opened windows."
 msgstr ""
@@ -356,7 +356,7 @@ msgctxt "Comment"
 msgid "Accessibility Options"
 msgstr "ଅଭିଗମ୍ୟତା"
 
-#: kcms/access/kcmaccess.desktop:159
+#: kcms/access/kcmaccess.desktop:160
 msgctxt "X-KDE-Keywords"
 msgid ""
 "access,accessibility,deaf,impaired,hearing,hearing loss,bell,audible bell,"
@@ -365,7 +365,7 @@ msgid ""
 "keys,modifier,locking keys"
 msgstr ""
 
-#: kcms/activities/kcm_activities.desktop:75
+#: kcms/activities/kcm_activities.desktop:76
 msgctxt "Comment"
 msgid "Activities help you to focus on a specific task"
 msgstr ""
@@ -380,7 +380,7 @@ msgctxt "Comment"
 msgid "Automatically Started Applications"
 msgstr ""
 
-#: kcms/autostart/autostart.desktop:151
+#: kcms/autostart/autostart.desktop:152
 msgctxt "X-KDE-Keywords"
 msgid "Autostart Manager,autostart,startup,system startup,plasma start,cron"
 msgstr ""
@@ -393,7 +393,7 @@ msgctxt "Name"
 msgid "File Search"
 msgstr "ଅଂଶ ଖୋଜନ୍ତୁ"
 
-#: kcms/baloo/kcm_baloofile.desktop:60
+#: kcms/baloo/kcm_baloofile.desktop:61
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure the spell checker"
@@ -401,7 +401,7 @@ msgctxt "Comment"
 msgid "Configure File Search"
 msgstr "ବନାନ ଯାଞ୍ଚକାରୀକୁ ସଂରଚନା କରନ୍ତୁ"
 
-#: kcms/baloo/kcm_baloofile.desktop:105
+#: kcms/baloo/kcm_baloofile.desktop:107
 msgctxt "X-KDE-Keywords"
 msgid "Search, File, Baloo"
 msgstr ""
@@ -414,7 +414,7 @@ msgctxt "Name"
 msgid "Search"
 msgstr "ଅଂଶ ଖୋଜନ୍ତୁ"
 
-#: kcms/baloo/package/metadata.desktop:27
+#: kcms/baloo/package/metadata.desktop:28
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure the spell checker"
@@ -1411,12 +1411,12 @@ msgctxt "Name"
 msgid "Spell Check"
 msgstr "ବନାନ ଯାଞ୍ଚକାରୀ"
 
-#: kcms/spellchecking/spellchecking.desktop:63
+#: kcms/spellchecking/spellchecking.desktop:64
 msgctxt "Comment"
 msgid "Spell Checker Dictionaries and Options"
 msgstr ""
 
-#: kcms/spellchecking/spellchecking.desktop:109
+#: kcms/spellchecking/spellchecking.desktop:110
 msgctxt "X-KDE-Keywords"
 msgid "Spell"
 msgstr ""
