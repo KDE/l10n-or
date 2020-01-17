@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-06 03:03+0100\n"
+"POT-Creation-Date: 2020-01-17 02:55+0100\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -55,6 +55,19 @@ msgstr "ପୂର୍ବ ନିର୍ଦ୍ଧାରିତ"
 msgctxt "Encodings menu"
 msgid "Autodetect"
 msgstr "ସ୍ୱୟଂ ଅନୁସନ୍ଧାନ"
+
+#: kcolorschememanager.cpp:109
+#, fuzzy, kde-format
+#| msgctxt "Encodings menu"
+#| msgid "Default"
+msgid "Default"
+msgstr "ପୂର୍ବ ନିର୍ଦ୍ଧାରିତ"
+
+#: kcolorschememanager.cpp:215 kcolorschememanager.cpp:220
+#, fuzzy, kde-format
+#| msgid "Shortcut Schemes"
+msgid "Color Scheme"
+msgstr "ସଂକ୍ଷିପ୍ତ ପଥ ଯୋଜନାଗୁଡ଼ିକ"
 
 #: kconfigdialog.cpp:44
 #, fuzzy, kde-format
@@ -3694,9 +3707,6 @@ msgstr "ପରବର୍ତ୍ତୀ (&N)"
 
 #~ msgid "Custom:"
 #~ msgstr "ଇଚ୍ଛାରୂପଣ:"
-
-#~ msgid "Shortcut Schemes"
-#~ msgstr "ସଂକ୍ଷିପ୍ତ ପଥ ଯୋଜନାଗୁଡ଼ିକ"
 
 #~ msgid "Current scheme:"
 #~ msgstr "ସାମ୍ପ୍ରତିକ ଯୋଜନା:"
