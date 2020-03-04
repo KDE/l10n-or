@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-07-21 02:50+0200\n"
+"POT-Creation-Date: 2020-03-04 03:01+0100\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -23,7 +23,7 @@ msgstr ""
 "\n"
 "X-Generator: KBabel 1.11.4\n"
 
-#: kdeinit/kinit.cpp:508
+#: kdeinit/kinit.cpp:512
 #, kde-format
 msgid ""
 "Unable to start new process.\n"
@@ -31,7 +31,7 @@ msgid ""
 "maximum number of open files that you are allowed to use has been reached."
 msgstr ""
 
-#: kdeinit/kinit.cpp:530
+#: kdeinit/kinit.cpp:534
 #, kde-format
 msgid ""
 "Unable to create new process.\n"
@@ -39,12 +39,12 @@ msgid ""
 "maximum number of processes that you are allowed to use has been reached."
 msgstr ""
 
-#: kdeinit/kinit.cpp:613
+#: kdeinit/kinit.cpp:617
 #, kde-format
 msgid "Could not find '%1' executable."
 msgstr "'%1' ନିଷ୍ପାଦ୍ୟକୁ ଖୋଜିପାଇଲା ନାହିଁ।"
 
-#: kdeinit/kinit.cpp:646
+#: kdeinit/kinit.cpp:650
 #, kde-format
 msgid ""
 "Could not open library '%1'.\n"
@@ -53,7 +53,7 @@ msgstr ""
 "ଲାଇବ୍ରେରୀ '%1'କୁ ଖୋଲିପାରିଲା ନାହିଁ।\n"
 "%2"
 
-#: kdeinit/kinit.cpp:683
+#: kdeinit/kinit.cpp:687
 #, kde-format
 msgid ""
 "Could not find 'kdemain' in '%1'.\n"
