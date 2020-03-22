@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-24 02:54+0100\n"
+"POT-Creation-Date: 2020-03-22 02:58+0100\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -162,6 +162,19 @@ msgstr "ଗ୍ରହଣ କରନ୍ତୁ"
 #, kde-format
 msgid "Reject"
 msgstr "ତ୍ୟାଗ କରନ୍ତୁ"
+
+#: partloader.cpp:177
+#, fuzzy, kde-format
+#| msgid ""
+#| "The service '%1' does not provide an interface '%2' with keyword '%3'"
+msgid "The plugin '%1' does not provide an interface '%2' with keyword '%3'"
+msgstr "ସେବା '%1' ସୂଚକ ଶବ୍ଦ '%3' ସହିତ ଅନ୍ତରାପୃଷ୍ଠ '%2' ପ୍ରଦାନ କରେନାହିଁ"
+
+#: partloader.cpp:192
+#, fuzzy, kde-format
+#| msgid "No handler found for %1."
+msgid "No part was found for mimeType %1"
+msgstr "%1 ପାଇଁ ଚାଳକ ମିଳିଲେ ନାହିଁ।"
 
 #: readwritepart.cpp:93
 #, kde-format
@@ -2273,10 +2286,6 @@ msgstr "ଦଲିଲ ବନ୍ଦ କରନ୍ତୁ"
 
 #~ msgid "No service matching the requirements was found"
 #~ msgstr "ଏହି ଆବଶ୍ୟକତାକୁ ମେଳ ଖାଉଥିବା କୌଣସି ସେବା ମିଳିଲା ନାହିଁ"
-
-#~ msgid ""
-#~ "The service '%1' does not provide an interface '%2' with keyword '%3'"
-#~ msgstr "ସେବା '%1' ସୂଚକ ଶବ୍ଦ '%3' ସହିତ ଅନ୍ତରାପୃଷ୍ଠ '%2' ପ୍ରଦାନ କରେନାହିଁ"
 
 #~ msgctxt "dictionary variant"
 #~ msgid "40"
@@ -6890,9 +6899,6 @@ msgstr "ଦଲିଲ ବନ୍ଦ କରନ୍ତୁ"
 #~| msgid "Copyright 2001, David Faure <email>david@mandrakesoft.com</email>"
 #~ msgid "Copyright 2001-2011, David Faure <email>faure@kde.org</email>"
 #~ msgstr "Copyright 2001, David Faure <email>david@mandrakesoft.com</email>"
-
-#~ msgid "No handler found for %1."
-#~ msgstr "%1 ପାଇଁ ଚାଳକ ମିଳିଲେ ନାହିଁ।"
 
 #~ msgid "Pause"
 #~ msgstr "ବିରତି"
