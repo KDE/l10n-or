@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-04-05 03:15+0200\n"
+"POT-Creation-Date: 2020-04-07 03:10+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -94,62 +94,69 @@ msgctxt ""
 msgid "Unknown CommentsModel role"
 msgstr "ଅଜଣା ତ୍ରୁଟି"
 
-#: core/engine.cpp:116
+#: core/engine.cpp:97
+#, kde-format
+msgid ""
+"An error occurred during the installation process:\n"
+"%1"
+msgstr ""
+
+#: core/engine.cpp:117
 #, fuzzy, kde-format
 #| msgid "Install"
 msgid "Initializing"
 msgstr "ସ୍ଥାପନ କରନ୍ତୁ"
 
-#: core/engine.cpp:140
+#: core/engine.cpp:141
 #, fuzzy, kde-format
 #| msgid "Configuration files"
 msgid "Configuration file exists, but cannot be opened: \"%1\""
 msgstr "ବିନ୍ୟାସ ଫାଇଲଗୁଡିକ"
 
-#: core/engine.cpp:153
+#: core/engine.cpp:154
 #, fuzzy, kde-format
 #| msgid "Configuration files"
 msgid "Configuration file is invalid: \"%1\""
 msgstr "ବିନ୍ୟାସ ଫାଇଲଗୁଡିକ"
 
-#: core/engine.cpp:223
+#: core/engine.cpp:224
 #, fuzzy, kde-format
 #| msgid "View Frame Information"
 msgid "Loading provider information"
 msgstr "ଫ୍ରେମ ସୂଚନା ଦେଖନ୍ତୁ"
 
-#: core/engine.cpp:252
+#: core/engine.cpp:253
 #, kde-format
 msgid "Could not load get hot new stuff providers from file: %1"
 msgstr ""
 
-#: core/engine.cpp:275
+#: core/engine.cpp:276
 #, kde-format
 msgid "Error initializing provider."
 msgstr ""
 
-#: core/engine.cpp:279 core/engine.cpp:769
+#: core/engine.cpp:280 core/engine.cpp:770
 #, fuzzy, kde-format
 #| msgid "Loading Applet"
 msgid "Loading data"
 msgstr "ଆପଲେଟ ଧାରଣ କରାଯାଉଛି"
 
-#: core/engine.cpp:316
+#: core/engine.cpp:317
 #, kde-format
 msgid "Loading data from provider"
 msgstr ""
 
-#: core/engine.cpp:321
+#: core/engine.cpp:322
 #, kde-format
 msgid "Loading of providers from file: %1 failed"
 msgstr ""
 
-#: core/engine.cpp:633
+#: core/engine.cpp:634
 #, kde-format
 msgid "Pick Update Item"
 msgstr ""
 
-#: core/engine.cpp:634
+#: core/engine.cpp:635
 #, kde-format
 msgid ""
 "Please pick the item from the list below which should be used to apply this "
@@ -157,12 +164,12 @@ msgid ""
 "original item, which was named %1"
 msgstr ""
 
-#: core/engine.cpp:729
+#: core/engine.cpp:730
 #, kde-format
 msgid "Re: %1"
 msgstr "Re: %1"
 
-#: core/engine.cpp:771
+#: core/engine.cpp:772
 #, fuzzy, kde-format
 #| msgid "Loading Preview"
 msgid "Loading one preview"
@@ -170,7 +177,7 @@ msgid_plural "Loading %1 previews"
 msgstr[0] "ପ୍ରାକଦର୍ଶନ ଧାରଣ କରୁଅଛି"
 msgstr[1] "ପ୍ରାକଦର୍ଶନ ଧାରଣ କରୁଅଛି"
 
-#: core/engine.cpp:773 ui/itemsgridviewdelegate.cpp:342
+#: core/engine.cpp:774 ui/itemsgridviewdelegate.cpp:342
 #: ui/itemsviewdelegate.cpp:133
 #, fuzzy, kde-format
 #| msgid "Install"
@@ -217,7 +224,18 @@ msgstr ""
 msgid "Could not install \"%1\": file not found."
 msgstr "%1କୁ ସ୍ଥାପନ କରିପାରିଲା ନାହିଁ"
 
-#: core/installation.cpp:539
+#: core/installation.cpp:451
+#, kde-format
+msgid "Could not determine the type of archive of the downloaded file %1"
+msgstr ""
+
+#: core/installation.cpp:462
+#, fuzzy, kde-format
+#| msgid "Unable to open temporary file."
+msgid "Failed to open the archive file %1. The reported error was: %2"
+msgstr "ଅସ୍ଥାୟୀ ଫାଇଲକୁ ଖୋଲିବାରେ ଅସମର୍ଥ।"
+
+#: core/installation.cpp:541
 #, kde-format
 msgid ""
 "This file already exists on disk (possibly due to an earlier failed download "
@@ -225,11 +243,42 @@ msgid ""
 "existing file?"
 msgstr ""
 
-#: core/installation.cpp:540
+#: core/installation.cpp:542
 #, fuzzy, kde-format
 #| msgid "Overwrite File?"
 msgid "Overwrite File"
 msgstr "ଫାଇଲ ନବଲିଖନ କରିବେକି? "
+
+#: core/installation.cpp:558
+#, kde-format
+msgid "Unable to mode the file %1 to the intended destination %2"
+msgstr ""
+
+#: core/installation.cpp:580
+#, kde-format
+msgid ""
+"The installation failed while attempting to run the command:\n"
+"%1\n"
+"\n"
+"The returned output was:\n"
+"%2"
+msgstr ""
+
+#: core/installation.cpp:583
+#, kde-format
+msgid ""
+"The installation failed while with code %1 while attempting to run the "
+"command:\n"
+"%2\n"
+"\n"
+"The returned output was:\n"
+"%3"
+msgstr ""
+
+#: core/installation.cpp:612
+#, kde-format
+msgid "The uninstallation process failed to successfully run the command %1"
+msgstr ""
 
 #: core/security.cpp:83
 #, kde-format
@@ -655,7 +704,7 @@ msgctxt ""
 msgid "Installing %1 from %2"
 msgstr "ସ୍ଥାପନ କରନ୍ତୁ"
 
-#: qtquick/qml/EntryDetails.qml:78
+#: qtquick/qml/EntryDetails.qml:79
 #, kde-format
 msgctxt ""
 "Status message to be shown when the entry is in the process of being "
@@ -663,14 +712,14 @@ msgctxt ""
 msgid "Currently installing the item %1 by %2. Please wait..."
 msgstr ""
 
-#: qtquick/qml/EntryDetails.qml:80
+#: qtquick/qml/EntryDetails.qml:81
 #, kde-format
 msgctxt ""
 "Status message to be shown when the entry is in the process of being updated"
 msgid "Currently updating the item %1 by %2. Please wait..."
 msgstr ""
 
-#: qtquick/qml/EntryDetails.qml:82
+#: qtquick/qml/EntryDetails.qml:83
 #, kde-format
 msgctxt ""
 "Status message which should only be shown when the entry has been given some "
@@ -681,7 +730,7 @@ msgid ""
 "to the KDE Community in a bug report</a>."
 msgstr ""
 
-#: qtquick/qml/EntryDetails.qml:93
+#: qtquick/qml/EntryDetails.qml:94
 #, kde-format
 msgctxt ""
 "Combined title for the entry details page made of the name of the entry, and "
@@ -689,7 +738,7 @@ msgctxt ""
 msgid "%1 by %2"
 msgstr ""
 
-#: qtquick/qml/EntryDetails.qml:97
+#: qtquick/qml/EntryDetails.qml:98
 #: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:64
 #: qtquick/qml/private/entrygriddelegates/ThumbDelegate.qml:57
 #: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:65
@@ -701,7 +750,7 @@ msgctxt ""
 msgid "Install"
 msgstr "ସ୍ଥାପନ କରନ୍ତୁ"
 
-#: qtquick/qml/EntryDetails.qml:97
+#: qtquick/qml/EntryDetails.qml:98
 #: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:64
 #: qtquick/qml/private/entrygriddelegates/ThumbDelegate.qml:57
 #: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:65
@@ -712,7 +761,7 @@ msgctxt ""
 msgid "Install..."
 msgstr "ସ୍ଥାପନ କରନ୍ତୁ"
 
-#: qtquick/qml/EntryDetails.qml:112 qtquick/qml/NewStuffItem.qml:44
+#: qtquick/qml/EntryDetails.qml:113 qtquick/qml/NewStuffItem.qml:44
 #: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:79
 #: qtquick/qml/private/entrygriddelegates/ThumbDelegate.qml:72
 #: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:80
@@ -722,7 +771,7 @@ msgctxt "Request updating of this item"
 msgid "Update"
 msgstr "ଅଦ୍ୟତନ"
 
-#: qtquick/qml/EntryDetails.qml:119 qtquick/qml/NewStuffItem.qml:51
+#: qtquick/qml/EntryDetails.qml:120 qtquick/qml/NewStuffItem.qml:51
 #: qtquick/qml/Page.qml:77
 #, fuzzy, kde-format
 #| msgid "Uninstall"
@@ -730,12 +779,12 @@ msgctxt "Request uninstallation of this item"
 msgid "Uninstall"
 msgstr "ଅପସାରଣ କରନ୍ତୁ"
 
-#: qtquick/qml/EntryDetails.qml:175
+#: qtquick/qml/EntryDetails.qml:176
 #, kde-format
 msgid "Comments and Reviews:"
 msgstr ""
 
-#: qtquick/qml/EntryDetails.qml:177
+#: qtquick/qml/EntryDetails.qml:178
 #, fuzzy, kde-format
 #| msgid "View Comments"
 msgctxt ""
@@ -744,19 +793,19 @@ msgctxt ""
 msgid "%1 Reviews and Comments"
 msgstr "ଟୀପ୍ପଣୀଗୁଡିକୁ ଦେଖନ୍ତୁ"
 
-#: qtquick/qml/EntryDetails.qml:182
+#: qtquick/qml/EntryDetails.qml:183
 #, fuzzy, kde-format
 #| msgid "Rating: "
 msgid "Rating:"
 msgstr "ଆକଳନ: "
 
-#: qtquick/qml/EntryDetails.qml:186
+#: qtquick/qml/EntryDetails.qml:187
 #, fuzzy, kde-format
 #| msgid "Homepage"
 msgid "Homepage:"
 msgstr "ମୂଳସ୍ଥାନ ପୃଷ୍ଠା"
 
-#: qtquick/qml/EntryDetails.qml:187
+#: qtquick/qml/EntryDetails.qml:188
 #, kde-format
 msgctxt ""
 "A link which, when clicked, opens the website associated with the entry "
@@ -765,12 +814,12 @@ msgctxt ""
 msgid "Open the homepage for %1"
 msgstr ""
 
-#: qtquick/qml/EntryDetails.qml:192
+#: qtquick/qml/EntryDetails.qml:193
 #, kde-format
 msgid "How To Donate:"
 msgstr ""
 
-#: qtquick/qml/EntryDetails.qml:193
+#: qtquick/qml/EntryDetails.qml:194
 #, kde-format
 msgctxt ""
 "A link which, when clicked, opens a website with information on donation in "
@@ -785,13 +834,13 @@ msgctxt "Request installation of this item"
 msgid "Install"
 msgstr "ସ୍ଥାପନ କରନ୍ତୁ"
 
-#: qtquick/qml/NewStuffList.qml:83 qtquick/qml/Page.qml:179
+#: qtquick/qml/NewStuffList.qml:83 qtquick/qml/Page.qml:180
 #, kde-format
 msgctxt "List option which will set the filter to show everything"
 msgid "Show Everything"
 msgstr ""
 
-#: qtquick/qml/NewStuffList.qml:84 qtquick/qml/Page.qml:180
+#: qtquick/qml/NewStuffList.qml:84 qtquick/qml/Page.qml:181
 #, fuzzy, kde-format
 #| msgid "Install"
 msgctxt ""
@@ -799,7 +848,7 @@ msgctxt ""
 msgid "Installed Only"
 msgstr "ସ୍ଥାପନ କରନ୍ତୁ"
 
-#: qtquick/qml/NewStuffList.qml:85 qtquick/qml/Page.qml:181
+#: qtquick/qml/NewStuffList.qml:85 qtquick/qml/Page.qml:182
 #, kde-format
 msgctxt ""
 "List option which will set the filter so only installed items with updates "
@@ -807,7 +856,7 @@ msgctxt ""
 msgid "Updateable Only"
 msgstr ""
 
-#: qtquick/qml/NewStuffList.qml:97 qtquick/qml/Page.qml:193
+#: qtquick/qml/NewStuffList.qml:97 qtquick/qml/Page.qml:194
 #, fuzzy, kde-format
 #| msgid "Show directories first"
 msgctxt ""
@@ -816,7 +865,7 @@ msgctxt ""
 msgid "Show most recent first"
 msgstr "ଡିରେକ୍ଟରିଗୁଡିକୁ ପ୍ରଥମେ ଦର୍ଶାନ୍ତୁ"
 
-#: qtquick/qml/NewStuffList.qml:98 qtquick/qml/Page.qml:194
+#: qtquick/qml/NewStuffList.qml:98 qtquick/qml/Page.qml:195
 #, kde-format
 msgctxt ""
 "List option which will set the sort order to be alphabetical based on the "
@@ -824,14 +873,14 @@ msgctxt ""
 msgid "Sort alphabetically"
 msgstr ""
 
-#: qtquick/qml/NewStuffList.qml:99 qtquick/qml/Page.qml:195
+#: qtquick/qml/NewStuffList.qml:99 qtquick/qml/Page.qml:196
 #, fuzzy, kde-format
 #| msgid "Show directories first"
 msgctxt "List option which will set the sort order to based on user ratings"
 msgid "Show highest rated first"
 msgstr "ଡିରେକ୍ଟରିଗୁଡିକୁ ପ୍ରଥମେ ଦର୍ଶାନ୍ତୁ"
 
-#: qtquick/qml/NewStuffList.qml:100 qtquick/qml/Page.qml:196
+#: qtquick/qml/NewStuffList.qml:100 qtquick/qml/Page.qml:197
 #, fuzzy, kde-format
 #| msgid "Most Downloads"
 msgctxt ""
@@ -847,13 +896,13 @@ msgctxt ""
 msgid "Use"
 msgstr ""
 
-#: qtquick/qml/Page.qml:146
+#: qtquick/qml/Page.qml:147
 #, fuzzy, kde-format
 #| msgid "&Search"
 msgid "Search..."
 msgstr "ଖୋଜନ୍ତୁ (&S)"
 
-#: qtquick/qml/Page.qml:243
+#: qtquick/qml/Page.qml:244
 #, fuzzy, kde-format
 #| msgid "Loading Preview"
 msgctxt ""
@@ -966,6 +1015,12 @@ msgstr "ସ୍ଥାପନ କରନ୍ତୁ"
 msgctxt "Show a page with details for this item"
 msgid "Details..."
 msgstr "ବିସ୍ତ୍ରୁତ ବିବରଣୀ"
+
+#: qtquick/qml/private/ErrorDisplayer.qml:24
+#, kde-format
+msgctxt "Title for a dialog box which shows error messages"
+msgid "An Error Occurred"
+msgstr ""
 
 #: qtquick/qml/private/GridTileDelegate.qml:118
 #, fuzzy, kde-format
@@ -2078,11 +2133,6 @@ msgstr "ବଦଳାଇବା ଆରମ୍ଭ କରନ୍ତୁ"
 
 #~ msgid "Insufficient permissions in target directory."
 #~ msgstr "ଲକ୍ଷ୍ୟ ଡିରେକ୍ଟୋରୀରେ ଅପର୍ଯ୍ୟାପ୍ତ ଅନୁମତି।"
-
-#, fuzzy
-#~| msgid "Unable to open temporary file."
-#~ msgid "Unable to open temporary file. Error was: %1."
-#~ msgstr "ଅସ୍ଥାୟୀ ଫାଇଲକୁ ଖୋଲିବାରେ ଅସମର୍ଥ।"
 
 #~ msgid "Error during rename."
 #~ msgstr "ନାମବଦଳାଇବା ସମୟରେ ତ୍ରୁଟି।"
