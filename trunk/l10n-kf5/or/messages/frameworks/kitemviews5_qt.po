@@ -23,30 +23,36 @@ msgstr ""
 #: kfilterproxysearchline.cpp:62
 #, fuzzy
 #| msgid "&Search"
-msgctxt "KFilterProxySearchLine|"
-msgid "Search"
+msgctxt "KFilterProxySearchLine|@info:placeholder"
+msgid "Search..."
 msgstr "ଖୋଜନ୍ତୁ (&S)"
 
 #: ktreewidgetsearchline.cpp:215
 #, fuzzy
 #| msgid "&Search"
-msgctxt "KTreeWidgetSearchLine|"
+msgctxt "KTreeWidgetSearchLine|@info:placeholder"
 msgid "Search..."
 msgstr "ଖୋଜନ୍ତୁ (&S)"
 
 #: ktreewidgetsearchline.cpp:424
 #, fuzzy
 #| msgid "Search Columns"
-msgctxt "KTreeWidgetSearchLine|"
+msgctxt "KTreeWidgetSearchLine|@title:menu"
 msgid "Search Columns"
 msgstr "ସ୍ତମ୍ଭଗୁଡିକୁ ଖୋଜନ୍ତୁ"
 
 #: ktreewidgetsearchline.cpp:426
 #, fuzzy
 #| msgid "All Visible Columns"
-msgctxt "KTreeWidgetSearchLine|"
+msgctxt "KTreeWidgetSearchLine|@optipn:check"
 msgid "All Visible Columns"
 msgstr "ସମସ୍ତ ଦୃଶ୍ୟମାନ ସ୍ତମ୍ଭଗୁଡିକ"
+
+#, fuzzy
+#~| msgid "&Search"
+#~ msgctxt "KFilterProxySearchLine|"
+#~ msgid "Search"
+#~ msgstr "ଖୋଜନ୍ତୁ (&S)"
 
 #, fuzzy
 #~| msgid "S&earch:"
