@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-04-18 02:16+0000\n"
+"POT-Creation-Date: 2020-05-12 02:11+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -187,17 +187,24 @@ msgctxt "Comment"
 msgid "Reserve empty spaces within the panel."
 msgstr ""
 
-#: applets/systemmonitor/cpu/metadata.desktop:2
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "A CPU usage monitor"
+#: applets/systemmonitor/coreusage/metadata.desktop:2
 msgctxt "Name"
-msgid "CPU Load Monitor"
-msgstr "ଗୋଟିଏ CPU ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
+msgid "Individual Core Usage"
+msgstr ""
 
-#: applets/systemmonitor/cpu/metadata.desktop:48
+#: applets/systemmonitor/coreusage/metadata.desktop:4
 msgctxt "Comment"
-msgid "Monitor the load of the CPUs"
+msgid "System monitor Widget that shows usage of individual CPU cores"
+msgstr ""
+
+#: applets/systemmonitor/cpu/metadata.desktop:2
+msgctxt "Name"
+msgid "Total CPU Use"
+msgstr ""
+
+#: applets/systemmonitor/cpu/metadata.desktop:4
+msgctxt "Comment"
+msgid "System monitor Widget that shows the total CPU usage"
 msgstr ""
 
 #: applets/systemmonitor/diskactivity/metadata.desktop:2
@@ -205,22 +212,22 @@ msgstr ""
 #| msgctxt "Comment"
 #| msgid "A hard disk usage monitor"
 msgctxt "Name"
-msgid "Hard Disk I/O Monitor"
+msgid "Hard Disk Activity"
 msgstr "ଗୋଟିଏ ହାର୍ଡ଼ଡ଼ିସ୍କ ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
 
-#: applets/systemmonitor/diskactivity/metadata.desktop:57
+#: applets/systemmonitor/diskactivity/metadata.desktop:3
 msgctxt "Comment"
 msgid "An applet that monitors hard disk throughput and input/output"
 msgstr ""
 
 #: applets/systemmonitor/diskusage/metadata.desktop:2
 msgctxt "Name"
-msgid "Hard Disk Space Usage"
+msgid "Disk Usage"
 msgstr ""
 
-#: applets/systemmonitor/diskusage/metadata.desktop:55
+#: applets/systemmonitor/diskusage/metadata.desktop:3
 msgctxt "Comment"
-msgid "An applet that monitors hard disk space usage and percentage"
+msgid "System monitor Widget that shows the usage of the root partition"
 msgstr ""
 
 #: applets/systemmonitor/memory/metadata.desktop:2
@@ -228,29 +235,55 @@ msgstr ""
 #| msgctxt "Name"
 #| msgid "Samba Status"
 msgctxt "Name"
-msgid "Memory Status"
+msgid "Memory Usage"
 msgstr "ସାମ୍ବା ସ୍ଥିତି"
 
-#: applets/systemmonitor/memory/metadata.desktop:65
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "A CPU usage monitor"
+#: applets/systemmonitor/memory/metadata.desktop:4
 msgctxt "Comment"
-msgid "A RAM usage monitor"
-msgstr "ଗୋଟିଏ CPU ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
+msgid "System monitor Widget that shows physical memory usage"
+msgstr ""
 
 #: applets/systemmonitor/net/metadata.desktop:2
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Network Tool"
+#| msgctxt "Name"
+#| msgid "Networking"
 msgctxt "Name"
-msgid "Network Monitor"
-msgstr "ନେଟୱର୍କ ସାଧନ"
+msgid "Network speed"
+msgstr "ନେଟୱର୍କିଙ୍ଗ"
 
-#: applets/systemmonitor/net/metadata.desktop:66
+#: applets/systemmonitor/net/metadata.desktop:3
 msgctxt "Comment"
-msgid "A network usage monitor"
-msgstr "ଗୋଟିଏ ନେଟୱର୍କ ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
+msgid "System monitor Widget that shows the download and upload data rate"
+msgstr ""
+
+#: applets/systemmonitor/systemmonitor/package/metadata.desktop:3
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "System monitoring applet"
+msgctxt "Name"
+msgid "System monitor Sensor"
+msgstr "ତନ୍ତ୍ର ନିରିକ୍ଷଣ ଆପଲେଟ"
+
+#: applets/systemmonitor/systemmonitor/package/metadata.desktop:4
+msgctxt "Comment"
+msgid "Displays a configurable chart of a system monitor sensor"
+msgstr ""
+
+#: applets/systemmonitor/systemmonitor/systemmonitor-faces.knsrc:2
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "System monitoring applet"
+msgctxt "Name"
+msgid "System monitor Sensor Display Styles"
+msgstr "ତନ୍ତ୍ର ନିରିକ୍ଷଣ ଆପଲେଟ"
+
+#: applets/systemmonitor/systemmonitor/systemmonitor-presets.knsrc:2
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "System monitoring applet"
+msgctxt "Name"
+msgid "System monitor Sensor Presets"
+msgstr "ତନ୍ତ୍ର ନିରିକ୍ଷଣ ଆପଲେଟ"
 
 #: applets/systemtray/container/package/metadata.desktop:2
 #: applets/systemtray/package/metadata.desktop:2
@@ -1758,6 +1791,31 @@ msgid "XembedSniProxy"
 msgstr ""
 
 #, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "A CPU usage monitor"
+#~ msgctxt "Name"
+#~ msgid "CPU Load Monitor"
+#~ msgstr "ଗୋଟିଏ CPU ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "A CPU usage monitor"
+#~ msgctxt "Comment"
+#~ msgid "A RAM usage monitor"
+#~ msgstr "ଗୋଟିଏ CPU ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Network Tool"
+#~ msgctxt "Name"
+#~ msgid "Network Monitor"
+#~ msgstr "ନେଟୱର୍କ ସାଧନ"
+
+#~ msgctxt "Comment"
+#~ msgid "A network usage monitor"
+#~ msgstr "ଗୋଟିଏ ନେଟୱର୍କ ବ୍ୟବହାର ବିଧି ନିରିକ୍ଷକ"
+
+#, fuzzy
 #~| msgctxt "Name"
 #~| msgid "Image"
 #~ msgctxt "Name"
@@ -2023,10 +2081,6 @@ msgstr ""
 #~ msgctxt "Comment"
 #~ msgid "A system temperature monitor"
 #~ msgstr "ତନ୍ତ୍ର ଉତ୍ତାପ ନିରିକ୍ଷକ"
-
-#~ msgctxt "Comment"
-#~ msgid "System monitoring applet"
-#~ msgstr "ତନ୍ତ୍ର ନିରିକ୍ଷଣ ଆପଲେଟ"
 
 #~ msgctxt "Name"
 #~ msgid "KDED Global Shortcuts Server"
