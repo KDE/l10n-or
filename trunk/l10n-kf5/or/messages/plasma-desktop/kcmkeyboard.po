@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmkeyboard\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-04-24 04:00+0200\n"
+"POT-Creation-Date: 2020-06-04 02:15+0200\n"
 "PO-Revision-Date: 2009-01-02 11:45+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -531,4 +531,16 @@ msgstr ""
 #: layouts_menu.cpp:135
 #, kde-format
 msgid "Configure Layouts..."
+msgstr ""
+
+#: tastenbrett/main.cpp:64
+#, kde-format
+msgctxt "app display name"
+msgid "Keyboard Preview"
+msgstr ""
+
+#: tastenbrett/main.cpp:66
+#, kde-format
+msgctxt "app description"
+msgid "Keyboard layout visualization"
 msgstr ""
