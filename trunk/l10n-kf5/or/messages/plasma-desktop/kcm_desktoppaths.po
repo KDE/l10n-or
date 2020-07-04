@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmkonq\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-09 03:20+0100\n"
+"POT-Creation-Date: 2020-07-04 02:14+0200\n"
 "PO-Revision-Date: 2009-01-02 11:45+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -27,4 +27,97 @@ msgid ""
 "This module allows you to choose where in the filesystem the files on your "
 "desktop should be stored.\n"
 "Use the \"Whats This?\" (Shift+F1) to get help on specific options."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: globalpaths.ui:17
+#, kde-format
+msgid "Desktop path:"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (KUrlRequester, kcfg_desktopLocation)
+#: globalpaths.ui:24
+#, kde-format
+msgid ""
+"This folder contains all the files which you see on your desktop. You can "
+"change the location of this folder if you want to, and the contents will "
+"move automatically to the new location as well."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: globalpaths.ui:31
+#, kde-format
+msgid "Autostart path:"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (KUrlRequester, kcfg_autostartLocation)
+#: globalpaths.ui:38
+#, kde-format
+msgid ""
+"This folder contains applications or links to applications (shortcuts) that "
+"you want to have started automatically whenever the session starts. You can "
+"change the location of this folder if you want to, and the contents will "
+"move automatically to the new location as well."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: globalpaths.ui:45
+#, kde-format
+msgid "Documents path:"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (KUrlRequester, kcfg_documentsLocation)
+#: globalpaths.ui:52
+#, kde-format
+msgid ""
+"This folder will be used by default to load or save documents from or to."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: globalpaths.ui:59
+#, kde-format
+msgid "Downloads path:"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (KUrlRequester, kcfg_downloadsLocation)
+#: globalpaths.ui:66
+#, kde-format
+msgid "This folder will be used by default to save your downloaded items."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: globalpaths.ui:73
+#, kde-format
+msgid "Videos path:"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (KUrlRequester, kcfg_videosLocation)
+#: globalpaths.ui:80
+#, kde-format
+msgid "This folder will be used by default to load or save movies from or to."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: globalpaths.ui:87
+#, kde-format
+msgid "Pictures path:"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (KUrlRequester, kcfg_picturesLocation)
+#: globalpaths.ui:94
+#, kde-format
+msgid ""
+"This folder will be used by default to load or save pictures from or to."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: globalpaths.ui:101
+#, kde-format
+msgid "Music path:"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (KUrlRequester, kcfg_musicLocation)
+#: globalpaths.ui:108
+#, kde-format
+msgid "This folder will be used by default to load or save music from or to."
 msgstr ""
