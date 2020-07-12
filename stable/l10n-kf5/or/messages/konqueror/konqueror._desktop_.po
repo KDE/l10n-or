@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-06-25 00:27+0000\n"
+"POT-Creation-Date: 2020-07-12 06:13+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -52,7 +52,7 @@ msgctxt "GenericName"
 msgid "Web Browser, File Manager and Viewer"
 msgstr ""
 
-#: org.kde.konqueror.desktop:130
+#: org.kde.konqueror.desktop:129
 msgctxt "Comment"
 msgid "KDE File Manager & Web Browser"
 msgstr "KDE ଫାଇଲ ପରିଚାଳକ ଏବଂ ୱେବ ବ୍ରାଉଜର"
@@ -271,7 +271,7 @@ msgid "Allows the detected UserAgent to be modified"
 msgstr ""
 
 #: settings/bookmarks/bookmarks.desktop:12
-#: sidebar/default_entries/bookmarks.desktop:12
+#: sidebar/default_entries/bookmarks.desktop:5
 #: sidebar/trees/init/bookmarks_module.desktop:5
 msgctxt "Name"
 msgid "Bookmarks"
@@ -462,37 +462,19 @@ msgctxt "X-KDE-Keywords"
 msgid "performance,speed,memory,improve"
 msgstr ""
 
-#: sidebar/bookmarks_module/konqsidebar_bookmarks.desktop:4
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Web SideBar Module"
-msgctxt "Name"
-msgid "Bookmarks SideBar Module"
-msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି ଏକକାଂଶ"
-
-#: sidebar/default_entries/bookmarks.desktop:104
+#: sidebar/default_entries/bookmarks.desktop:97
 #: sidebar/trees/init/bookmarks_module.desktop:97
 msgctxt "Comment"
 msgid "This is the list of your bookmarks, for a faster access"
 msgstr "ତୁରନ୍ତ ବ୍ୟବହାର ପାଇଁ, ଏହା ଆପଣଙ୍କର ଚିହ୍ନିତ ସ୍ଥାନର ତାଲିକା"
 
-#: sidebar/default_entries/fonts.desktop:11
-msgctxt "Name"
-msgid "Fonts"
-msgstr "ଅକ୍ଷର ରୂପ"
-
-#: sidebar/default_entries/fonts.desktop:87
-msgctxt "Comment"
-msgid "Personal and System fonts list."
-msgstr ""
-
-#: sidebar/default_entries/history.desktop:8
+#: sidebar/default_entries/history.desktop:5
 #: sidebar/history_module/kcmhistory.desktop:11
 msgctxt "Name"
 msgid "History"
 msgstr "ପୁରୁଣା ତଥ୍ୟ"
 
-#: sidebar/default_entries/history.desktop:101
+#: sidebar/default_entries/history.desktop:98
 msgctxt "Comment"
 msgid ""
 "This is the history of the URLs you have recently visited. You can sort them "
@@ -501,22 +483,22 @@ msgstr ""
 "ଆପଣ ନିକଟରେ ପରିଦର୍ଶନ କରିଥିବା URL ଗୁଡ଼ିକର ଏହା ପୁରୁଣା ତଥ୍ୟ। ଆପଣ ଏହାକୁ ବିଭିନ୍ନ ଉପାୟରେ ସଜାଡ଼ି "
 "ପାରିବେ।"
 
-#: sidebar/default_entries/home.desktop:9
+#: sidebar/default_entries/home.desktop:5
 msgctxt "Name"
 msgid "Home Folder"
 msgstr "ମୂଳ ସ୍ଥାନ ଫୋଲଡ଼ର"
 
-#: sidebar/default_entries/home.desktop:101
+#: sidebar/default_entries/home.desktop:97
 msgctxt "Comment"
 msgid "This folder contains your personal files"
 msgstr "ଏହା ଆପଣଙ୍କର ବ୍ୟକ୍ତିଗତ ଫାଇଲଗୁଡ଼ିକୁ ଧାରଣ କରିଥିବା ଫୋଲଡ଼ର"
 
-#: sidebar/default_entries/places.desktop:9
+#: sidebar/default_entries/places.desktop:4
 msgctxt "Name"
 msgid "Places"
 msgstr "ସ୍ଥାନଗୁଡ଼ିକ"
 
-#: sidebar/default_entries/places.desktop:85
+#: sidebar/default_entries/places.desktop:80
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "This is the root of the filesystem"
@@ -524,43 +506,27 @@ msgctxt "Comment"
 msgid "This is the list of places."
 msgstr "ଏହା ଫାଇଲ ତନ୍ତ୍ରର ମୂଖ୍ୟଚାଳକ"
 
-#: sidebar/default_entries/remote.desktop:11
-#, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Remote Access"
+#: sidebar/default_entries/remote.desktop:2
+#: sidebar/trees/init/remote/.directory:2
 msgctxt "Name"
-msgid "Remote"
-msgstr "ସୁଦୂର ଅଭିଗମ୍ୟତା"
+msgid "Network"
+msgstr "ନେଟୱର୍କ"
 
-#: sidebar/default_entries/root.desktop:10
+#: sidebar/default_entries/root.desktop:5
 msgctxt "Name"
 msgid "Root Folder"
 msgstr "ପ୍ରମୂଖ ଚାଳକ ଫୋଲଡ଼ର"
 
-#: sidebar/default_entries/root.desktop:101
+#: sidebar/default_entries/root.desktop:96
 msgctxt "Comment"
 msgid "This is the root of the filesystem"
 msgstr "ଏହା ଫାଇଲ ତନ୍ତ୍ରର ମୂଖ୍ୟଚାଳକ"
 
-#: sidebar/default_entries/services.desktop:10
+#: sidebar/default_entries/services.desktop:4
 #: sidebar/trees/init/services/.directory:3
 msgctxt "Name"
 msgid "Services"
 msgstr "ସର୍ଭିସଗୁଡ଼ିକ"
-
-#: sidebar/default_entries/settings.desktop:11
-#: sidebar/trees/init/services/settings.desktop:5
-msgctxt "Name"
-msgid "Settings"
-msgstr "ସେଟିଙ୍ଗଗୁଡ଼ିକ"
-
-#: sidebar/default_entries/settings.desktop:103
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "System Settings"
-msgctxt "Comment"
-msgid "System settings options."
-msgstr "ତନ୍ତ୍ର ବିନ୍ୟାସ"
 
 #: sidebar/history_module/kcmhistory.desktop:104
 msgctxt "Comment"
@@ -580,7 +546,7 @@ msgctxt "Name"
 msgid "History SideBar Module"
 msgstr "ପୁରୁଣା ତଥ୍ୟ ପାର୍ଶ୍ୱପଟି"
 
-#: sidebar/konq_sidebartng.desktop:16
+#: sidebar/konq_sidebartng.desktop:4
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "History Sidebar"
@@ -588,7 +554,7 @@ msgctxt "Name"
 msgid "Sidebar"
 msgstr "ପୁରୁଣା ତଥ୍ୟ ପାର୍ଶ୍ୱପଟି"
 
-#: sidebar/places_module/konqsidebar_places.desktop:3
+#: sidebar/places_module/konqsidebar_places.desktop:4
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Web SideBar Module"
@@ -596,24 +562,11 @@ msgctxt "Name"
 msgid "Places SideBar Module"
 msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି ଏକକାଂଶ"
 
-#: sidebar/tree_module/konqsidebar_tree.desktop:4
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Web SideBar Module"
-msgctxt "Name"
-msgid "Tree SideBar Module"
-msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି ଏକକାଂଶ"
-
 #: sidebar/trees/init/dirtree_module.desktop:5
 #: sidebar/trees/konqsidebar_tree.desktop:4
 msgctxt "Name"
 msgid "Folder"
 msgstr "ଫୋଲଡର"
-
-#: sidebar/trees/init/remote/.directory:2
-msgctxt "Name"
-msgid "Network"
-msgstr "ନେଟୱର୍କ"
 
 #: sidebar/trees/init/remote/ftp/.directory:2
 msgctxt "Name"
@@ -660,6 +613,11 @@ msgctxt "Name"
 msgid "Print System Browser"
 msgstr "ତନ୍ତ୍ର ବ୍ରାଉଜର ମୁଦ୍ରଣ କରନ୍ତୁ"
 
+#: sidebar/trees/init/services/settings.desktop:5
+msgctxt "Name"
+msgid "Settings"
+msgstr "ସେଟିଙ୍ଗଗୁଡ଼ିକ"
+
 #: sidebar/web_module/konqsidebar_web.desktop:4
 msgctxt "Name"
 msgid "Web SideBar Module"
@@ -682,6 +640,38 @@ msgstr ""
 msgctxt "Name"
 msgid "WebEngine"
 msgstr "ସନ୍ଧାନ ଯନ୍ତ୍ର"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Web SideBar Module"
+#~ msgctxt "Name"
+#~ msgid "Bookmarks SideBar Module"
+#~ msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି ଏକକାଂଶ"
+
+#~ msgctxt "Name"
+#~ msgid "Fonts"
+#~ msgstr "ଅକ୍ଷର ରୂପ"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Remote Access"
+#~ msgctxt "Name"
+#~ msgid "Remote"
+#~ msgstr "ସୁଦୂର ଅଭିଗମ୍ୟତା"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "System Settings"
+#~ msgctxt "Comment"
+#~ msgid "System settings options."
+#~ msgstr "ତନ୍ତ୍ର ବିନ୍ୟାସ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Web SideBar Module"
+#~ msgctxt "Name"
+#~ msgid "Tree SideBar Module"
+#~ msgstr "ୱେବ ପାର୍ଶ୍ୱପଟି ଏକକାଂଶ"
 
 #, fuzzy
 #~| msgctxt "Name"
