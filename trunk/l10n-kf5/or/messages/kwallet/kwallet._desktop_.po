@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-06-19 00:25+0000\n"
+"POT-Creation-Date: 2020-07-24 00:36+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -38,20 +38,23 @@ msgstr "ୱାଲେଟ ସର୍ଭର"
 #| msgctxt "Comment"
 #| msgid "Wallet Server"
 msgctxt "Comment"
-msgid "Wallet"
+msgid "KDE Wallet"
 msgstr "ୱାଲେଟ ସର୍ଭର"
 
 #: src/runtime/kwalletd/kwalletd.notifyrc:73
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Wallet Server"
 msgctxt "Name"
-msgid "kwalletd"
-msgstr ""
+msgid "KDE Wallet"
+msgstr "ୱାଲେଟ ସର୍ଭର"
 
 #: src/runtime/kwalletd/kwalletd.notifyrc:149
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Change Password"
 msgctxt "Name"
-msgid "Needs password"
+msgid "Needs Password"
 msgstr "ପ୍ରବେଶ ସଂକେତ ପରିବର୍ତ୍ତନ କରନ୍ତୁ"
 
 #: src/runtime/kwalletd/kwalletd.notifyrc:223
