@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-07-19 02:03+0200\n"
+"POT-Creation-Date: 2020-08-08 02:05+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -33,49 +33,49 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "mgiri@redhat.com"
 
-#: kcmoduleloader.cpp:79
+#: kcmoduleloader.cpp:66
 #, kde-format
 msgid "The module %1 could not be found."
 msgstr "ଏକକାଂଶ %1 ଟି ମିଳୁନାହିଁ।"
 
-#: kcmoduleloader.cpp:80
+#: kcmoduleloader.cpp:67
 #, kde-format
 msgid ""
 "<qt><p>The diagnosis is:<br />The desktop file %1 could not be found.</p></"
 "qt>"
 msgstr ""
 
-#: kcmoduleloader.cpp:83
+#: kcmoduleloader.cpp:70
 #, kde-format
 msgid "The module %1 is disabled."
 msgstr "ଏକକାଂଶ %1 ଟି ନିଷ୍କ୍ରିୟ ଅଟେ।"
 
-#: kcmoduleloader.cpp:84
+#: kcmoduleloader.cpp:71
 #, kde-format
 msgid ""
 "<qt><p>Either the hardware/software the module configures is not available "
 "or the module has been disabled by the administrator.</p></qt>"
 msgstr ""
 
-#: kcmoduleloader.cpp:111
+#: kcmoduleloader.cpp:98
 #, fuzzy, kde-format
 #| msgid "Error loading '%1'.\n"
 msgid "Error loading QML file."
 msgstr "'%1' ଧାରଣକରିବାରେ ତ୍ରୁଟି।\n"
 
-#: kcmoduleloader.cpp:156
+#: kcmoduleloader.cpp:143
 #, kde-format
 msgid "The module %1 is not a valid configuration module."
 msgstr "ଏକକାଂଶ %1 ଟି ଗୋଟିଏ ବୈଧ ବିନ୍ୟାସ ଏକକାଂଶ ନୁହଁ।"
 
-#: kcmoduleloader.cpp:157
+#: kcmoduleloader.cpp:144
 #, kde-format
 msgid ""
 "<qt>The diagnosis is:<br />The desktop file %1 does not specify a library.</"
 "qt>"
 msgstr ""
 
-#: kcmoduleloader.cpp:172
+#: kcmoduleloader.cpp:159
 #, kde-format
 msgid ""
 "<qt><p>Possible reasons:<ul><li>An error occurred during your last system "
@@ -85,13 +85,13 @@ msgid ""
 "this fails, consider contacting your distributor or packager.</p></qt>"
 msgstr ""
 
-#: kcmoduleproxy.cpp:120
+#: kcmoduleproxy.cpp:109
 #, kde-format
 msgctxt "Argument is application name"
 msgid "This configuration section is already opened in %1"
 msgstr "ଏହି ବିନ୍ୟାସିତ ଅଂଶଟି %1ରେ ପୂର୍ବରୁ ଖୋଲାଅଛି"
 
-#: kcmultidialog.cpp:64
+#: kcmultidialog.cpp:50
 #, fuzzy, kde-format
 #| msgid ""
 #| "The document \"%1\" has been modified.\n"
@@ -103,13 +103,13 @@ msgstr ""
 "ଦଲିଲ \"%1\" ଟି ପରିବର୍ତ୍ତିତ ହୋଇଯାଇଛି।\n"
 "ଆପଣଙ୍କର ପରିବର୍ତ୍ତନକୁ ସଂରକ୍ଷଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି ଅଥବା ପରିତ୍ୟାଗ କରିବାକୁ ଚାହୁଁଛନ୍ତି?"
 
-#: kcmultidialog.cpp:66
+#: kcmultidialog.cpp:52
 #, fuzzy, kde-format
 #| msgid "Settings"
 msgid "Apply Settings"
 msgstr "ବିନ୍ୟାସଗୁଡିକ"
 
-#: kcmultidialog.cpp:239 kpluginselector.cpp:758
+#: kcmultidialog.cpp:225 kpluginselector.cpp:746
 #, kde-format
 msgid "Configure"
 msgstr "ବିନ୍ଯାସ କରନ୍ତୁ"
@@ -412,21 +412,21 @@ msgstr "ପ୍ରବେଶ ସଂକେତ ପ୍ରତିଧ୍ୱନୀ ପ୍
 msgid "The size of the dialog"
 msgstr "ସଂଳାପର ଆକାର"
 
-#: kpluginselector.cpp:140
+#: kpluginselector.cpp:128
 #, kde-format
 msgid ""
 "Automatic changes have been performed due to plugin dependencies. Click here "
 "for further information"
 msgstr ""
 
-#: kpluginselector.cpp:208
+#: kpluginselector.cpp:196
 #, kde-format
 msgid ""
 "Automatic changes have been performed in order to satisfy plugin "
 "dependencies:\n"
 msgstr ""
 
-#: kpluginselector.cpp:212
+#: kpluginselector.cpp:200
 #, kde-format
 msgid ""
 "\n"
@@ -434,7 +434,7 @@ msgid ""
 "plugin"
 msgstr ""
 
-#: kpluginselector.cpp:214
+#: kpluginselector.cpp:202
 #, kde-format
 msgid ""
 "\n"
@@ -442,48 +442,48 @@ msgid ""
 "%2 plugin"
 msgstr ""
 
-#: kpluginselector.cpp:217
+#: kpluginselector.cpp:205
 #, kde-format
 msgid "Dependency Check"
 msgstr "ନିର୍ଭରକ ଯାଞ୍ଚ"
 
-#: kpluginselector.cpp:234
+#: kpluginselector.cpp:222
 #, kde-format
 msgid "%1 plugin automatically added due to plugin dependencies"
 msgid_plural "%1 plugins automatically added due to plugin dependencies"
 msgstr[0] ""
 msgstr[1] ""
 
-#: kpluginselector.cpp:238
+#: kpluginselector.cpp:226
 #, kde-format
 msgid ", "
 msgstr ", "
 
-#: kpluginselector.cpp:242
+#: kpluginselector.cpp:230
 #, kde-format
 msgid "%1 plugin automatically removed due to plugin dependencies"
 msgid_plural "%1 plugins automatically removed due to plugin dependencies"
 msgstr[0] ""
 msgstr[1] ""
 
-#: kpluginselector.cpp:262
+#: kpluginselector.cpp:250
 #, fuzzy, kde-format
 #| msgid "&Search"
 msgid "Search..."
 msgstr "ଖୋଜନ୍ତୁ (&S)"
 
-#: kpluginselector.cpp:753
+#: kpluginselector.cpp:741
 #, fuzzy, kde-format
 #| msgid "&About"
 msgid "About"
 msgstr "ବିଷୟରେ (&A)"
 
-#: ksettings/componentsdialog.cpp:56
+#: ksettings/componentsdialog.cpp:44
 #, kde-format
 msgid "Select Components"
 msgstr "ଯନ୍ତ୍ରାଂଶଗୁଡିକୁ ଚୟନ କରନ୍ତୁ"
 
-#: ksettings/dialog.cpp:232
+#: ksettings/dialog.cpp:220
 #, kde-format
 msgid "Enable component"
 msgstr "ଉପାଦାନକୁ ସକ୍ରିୟ କରନ୍ତୁ"
