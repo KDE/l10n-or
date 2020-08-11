@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-12 02:53+0000\n"
+"POT-Creation-Date: 2020-08-11 00:40+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -103,6 +103,22 @@ msgstr "ପ୍ରଚଳିତ ଦଲିଲଗୁଡ଼ିକ"
 msgctxt "Description"
 msgid "A kioslave for sftp"
 msgstr "sftp ପାଇଁ kioslave"
+
+#: smb/kded/kded_smbwatcher.desktop:18
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Network Analyzer"
+msgctxt "Name"
+msgid "SMB Watcher"
+msgstr "ନେଟୱର୍କ ବିଶ୍ଳେଷକ"
+
+#: smb/kded/kded_smbwatcher.desktop:19
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Recent Documents"
+msgctxt "Comment"
+msgid "Monitors directories on the smb:/ protocol for changes"
+msgstr "ପ୍ରଚଳିତ ଦଲିଲଗୁଡ଼ିକ"
 
 #: smb/smb-network.desktop:3
 msgctxt "Name"
