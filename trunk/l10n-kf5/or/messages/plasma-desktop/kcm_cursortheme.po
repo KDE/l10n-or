@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcminput\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-11 02:28+0200\n"
+"POT-Creation-Date: 2020-08-13 02:26+0200\n"
 "PO-Revision-Date: 2009-01-02 11:44+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -62,71 +62,57 @@ msgstr ""
 msgid "Marco Martin"
 msgstr ""
 
-#: kcmcursortheme.cpp:368
+#: kcmcursortheme.cpp:377
 #, kde-format
 msgid ""
 "You have to restart the Plasma session for these changes to take effect."
 msgstr ""
 
-#: kcmcursortheme.cpp:451
+#: kcmcursortheme.cpp:466
 #, kde-format
 msgid "Unable to create a temporary file."
 msgstr ""
 
-#: kcmcursortheme.cpp:463
+#: kcmcursortheme.cpp:478
 #, kde-format
 msgid "Unable to download the icon theme archive: %1"
 msgstr ""
 
-#: kcmcursortheme.cpp:494
+#: kcmcursortheme.cpp:509
 #, kde-format
 msgid "The file is not a valid icon theme archive."
 msgstr ""
 
-#: kcmcursortheme.cpp:501
+#: kcmcursortheme.cpp:516
 #, kde-format
 msgid "Failed to create 'icons' folder."
 msgstr ""
 
-#: kcmcursortheme.cpp:509
+#: kcmcursortheme.cpp:524
 #, kde-format
 msgid ""
 "A theme named %1 already exists in your icon theme folder. Do you want "
 "replace it with this one?"
 msgstr ""
 
-#: kcmcursortheme.cpp:513
+#: kcmcursortheme.cpp:528
 #, kde-format
 msgid "Overwrite Theme?"
 msgstr ""
 
-#: kcmcursortheme.cpp:539
+#: kcmcursortheme.cpp:554
 #, kde-format
 msgid "Theme installed successfully."
 msgstr ""
 
-#: kcmcursortheme.cpp:555
-#, kde-format
-msgid ""
-"<qt>You cannot delete the theme you are currently using.<br />You have to "
-"switch to another theme first.</qt>"
-msgstr ""
-
-#: kcmcursortheme.cpp:561
-#, kde-format
-msgid ""
-"<qt>Are you sure you want to remove the <i>%1</i> cursor theme?<br />This "
-"will delete all the files installed by this theme.</qt>"
-msgstr ""
-
-#: kcmcursortheme.cpp:567
-#, kde-format
-msgid "Confirmation"
-msgstr ""
-
-#: package/contents/ui/Delegate.qml:64
+#: package/contents/ui/Delegate.qml:66
 #, kde-format
 msgid "Remove Theme"
+msgstr ""
+
+#: package/contents/ui/Delegate.qml:73
+#, kde-format
+msgid "Restore Cursor Theme"
 msgstr ""
 
 #: package/contents/ui/main.qml:32
@@ -159,12 +145,12 @@ msgstr ""
 msgid "Cursor Theme Files (*.tar.gz *.tar.bz2)"
 msgstr ""
 
-#: xcursor/thememodel.cpp:84
+#: xcursor/thememodel.cpp:85
 #, kde-format
 msgid "Name"
 msgstr ""
 
-#: xcursor/thememodel.cpp:87
+#: xcursor/thememodel.cpp:88
 #, kde-format
 msgid "Description"
 msgstr ""

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-10 02:25+0200\n"
+"POT-Creation-Date: 2020-08-13 02:31+0200\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1095,7 +1095,7 @@ msgstr ""
 msgid "&Scale output"
 msgstr ""
 
-#: profile/Profile.cpp:162
+#: profile/Profile.cpp:165
 #, kde-format
 msgctxt "Name of the default/builtin profile"
 msgid "Default"
@@ -1287,262 +1287,257 @@ msgstr ""
 msgid "Activity in session '%1'"
 msgstr ""
 
-#: session/SessionController.cpp:136
+#: session/SessionController.cpp:140
 #, kde-format
 msgid "Konsole"
 msgstr ""
 
-#: session/SessionController.cpp:350
+#: session/SessionController.cpp:356
 #, kde-format
 msgid "The process '%1' has finished running in session '%2'"
 msgstr ""
 
-#: session/SessionController.cpp:430
+#: session/SessionController.cpp:436
 #, kde-format
 msgid "Konsole does not know how to open the bookmark: "
 msgstr ""
 
-#: session/SessionController.cpp:497
+#: session/SessionController.cpp:503
 #, kde-format
 msgid "Search for '%1' with"
 msgstr ""
 
-#: session/SessionController.cpp:511
+#: session/SessionController.cpp:517
 #, kde-format
 msgid "Configure Web Shortcuts..."
 msgstr ""
 
-#: session/SessionController.cpp:602
+#: session/SessionController.cpp:608
 #, kde-format
 msgid "&Close Session"
 msgstr ""
 
-#: session/SessionController.cpp:609
+#: session/SessionController.cpp:615
 #, kde-format
 msgid "Open File Manager"
 msgstr ""
 
-#: session/SessionController.cpp:627
+#: session/SessionController.cpp:633
 #, kde-format
 msgid "Copy"
 msgstr ""
 
-#: session/SessionController.cpp:644
+#: session/SessionController.cpp:650
 #, kde-format
 msgid "Paste Selection"
 msgstr ""
 
-#: session/SessionController.cpp:651
+#: session/SessionController.cpp:657
 #, kde-format
 msgid "Web Search"
 msgstr ""
 
-#: session/SessionController.cpp:658
+#: session/SessionController.cpp:664
 #, kde-format
 msgid "&Select All"
 msgstr ""
 
-#: session/SessionController.cpp:662
+#: session/SessionController.cpp:668
 #, kde-format
 msgid "Select &Line"
 msgstr ""
 
-#: session/SessionController.cpp:665
+#: session/SessionController.cpp:671
 #, kde-format
 msgid "Save Output &As..."
 msgstr ""
 
-#: session/SessionController.cpp:671
+#: session/SessionController.cpp:677
 #, kde-format
 msgid "&Print Screen..."
 msgstr ""
 
-#: session/SessionController.cpp:675
+#: session/SessionController.cpp:681
 #, kde-format
 msgid "Adjust Scrollback..."
 msgstr ""
 
-#: session/SessionController.cpp:679
+#: session/SessionController.cpp:685
 #, kde-format
 msgid "Clear Scrollback"
 msgstr ""
 
-#: session/SessionController.cpp:683
+#: session/SessionController.cpp:689
 #, kde-format
 msgid "Clear Scrollback and Reset"
 msgstr ""
 
-#: session/SessionController.cpp:689
+#: session/SessionController.cpp:695
 #, kde-format
 msgid "Edit Current Profile..."
 msgstr ""
 
-#: session/SessionController.cpp:692
+#: session/SessionController.cpp:698
 #, kde-format
 msgid "Switch Profile"
 msgstr ""
 
-#: session/SessionController.cpp:716
+#: session/SessionController.cpp:722
 #, kde-format
 msgid "Set &Encoding"
 msgstr ""
 
-#: session/SessionController.cpp:727
+#: session/SessionController.cpp:733
 #, kde-format
 msgctxt "@item:inmenu A read only (locked) session"
 msgid "Read-only"
 msgstr ""
 
-#: session/SessionController.cpp:738
+#: session/SessionController.cpp:744
 #, kde-format
 msgid "&Current Tab Settings..."
 msgstr ""
 
-#: session/SessionController.cpp:744
+#: session/SessionController.cpp:750
 #, kde-format
 msgid "&All Tabs in Current Window"
 msgstr ""
 
-#: session/SessionController.cpp:751
+#: session/SessionController.cpp:757
 #, kde-format
 msgid "&Select Tabs..."
 msgstr ""
 
-#: session/SessionController.cpp:757
+#: session/SessionController.cpp:763
 #, kde-format
 msgctxt "@action:inmenu Do not select any tabs"
 msgid "&None"
 msgstr ""
 
-#: session/SessionController.cpp:765
+#: session/SessionController.cpp:771
 #, kde-format
 msgid "Copy Input To"
 msgstr ""
 
-#: session/SessionController.cpp:774
+#: session/SessionController.cpp:780
 #, kde-format
 msgid "&ZModem Upload..."
 msgstr ""
 
-#: session/SessionController.cpp:779
+#: session/SessionController.cpp:785
 #, kde-format
 msgid "Monitor for &Activity"
 msgstr ""
 
-#: session/SessionController.cpp:784
+#: session/SessionController.cpp:790
 #, kde-format
 msgid "Monitor for &Silence"
 msgstr ""
 
-#: session/SessionController.cpp:789
+#: session/SessionController.cpp:795
 #, kde-format
 msgid "Monitor for Process Finishing"
 msgstr ""
 
-#: session/SessionController.cpp:795
+#: session/SessionController.cpp:801
 #, kde-format
 msgid "Enlarge Font"
 msgstr ""
 
-#: session/SessionController.cpp:803
+#: session/SessionController.cpp:809
 #, kde-format
 msgid "Shrink Font"
 msgstr ""
 
-#: session/SessionController.cpp:808
+#: session/SessionController.cpp:814
 #, kde-format
 msgid "Reset Font Size"
 msgstr ""
 
-#: session/SessionController.cpp:813
+#: session/SessionController.cpp:819
 #, kde-format
 msgid "Send Signal"
 msgstr ""
 
-#: session/SessionController.cpp:819
+#: session/SessionController.cpp:825
 #, kde-format
 msgid "&Suspend Task"
 msgstr ""
 
-#: session/SessionController.cpp:824
+#: session/SessionController.cpp:830
 #, kde-format
 msgid "&Continue Task"
 msgstr ""
 
-#: session/SessionController.cpp:829
+#: session/SessionController.cpp:835
 #, kde-format
 msgid "&Hangup"
 msgstr ""
 
-#: session/SessionController.cpp:834
+#: session/SessionController.cpp:840
 #, kde-format
 msgid "&Interrupt Task"
 msgstr ""
 
-#: session/SessionController.cpp:839
+#: session/SessionController.cpp:845
 #, kde-format
 msgid "&Terminate Task"
 msgstr ""
 
-#: session/SessionController.cpp:844
+#: session/SessionController.cpp:850
 #, kde-format
 msgid "&Kill Task"
 msgstr ""
 
-#: session/SessionController.cpp:849
+#: session/SessionController.cpp:855
 #, kde-format
 msgid "User Signal &1"
 msgstr ""
 
-#: session/SessionController.cpp:854
+#: session/SessionController.cpp:860
 #, kde-format
 msgid "User Signal &2"
 msgstr ""
 
-#: session/SessionController.cpp:978
+#: session/SessionController.cpp:984
 #, kde-format
 msgid ""
 "A program is currently running in this session.  Are you sure you want to "
 "close it?"
 msgstr ""
 
-#: session/SessionController.cpp:981
+#: session/SessionController.cpp:987
 #, kde-format
 msgid ""
 "The program '%1' is currently running in this session.  Are you sure you "
 "want to close it?"
 msgstr ""
 
-#: session/SessionController.cpp:987 session/SessionController.cpp:1017
+#: session/SessionController.cpp:993 session/SessionController.cpp:1023
 #, kde-format
 msgid "Confirm Close"
 msgstr ""
 
-#: session/SessionController.cpp:1010
+#: session/SessionController.cpp:1016
 #, kde-format
 msgid ""
 "A program in this session would not die.  Are you sure you want to kill it "
 "by force?"
 msgstr ""
 
-#: session/SessionController.cpp:1013
+#: session/SessionController.cpp:1019
 #, kde-format
 msgid ""
 "The program '%1' is in this session would not die.  Are you sure you want to "
 "kill it by force?"
 msgstr ""
 
-#: session/SessionController.cpp:1579
-#, kde-format
-msgid "Print Shell"
-msgstr ""
-
-#: session/SessionController.cpp:1850
+#: session/SessionController.cpp:1836
 #, kde-format
 msgid "Save ZModem Download to..."
 msgstr ""
 
-#: session/SessionController.cpp:1860
+#: session/SessionController.cpp:1846
 #, kde-format
 msgid ""
 "<p>A ZModem file transfer attempt has been detected, but no suitable ZModem "
@@ -1550,20 +1545,20 @@ msgid ""
 "or 'lrzsz' package.</p>"
 msgstr ""
 
-#: session/SessionController.cpp:1871
+#: session/SessionController.cpp:1857
 #, kde-format
 msgid ""
 "<p>The current session already has a ZModem file transfer in progress.</p>"
 msgstr ""
 
-#: session/SessionController.cpp:1881
+#: session/SessionController.cpp:1867
 #, kde-format
 msgid ""
 "<p>No suitable ZModem software was found on this system.</p><p>You may wish "
 "to install the 'rzsz' or 'lrzsz' package.</p>"
 msgstr ""
 
-#: session/SessionController.cpp:1887
+#: session/SessionController.cpp:1873
 #, kde-format
 msgid "Select Files for ZModem Upload"
 msgstr ""
@@ -1676,7 +1671,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, showTerminalSizeHintButton)
 #. i18n: ectx: label, entry (ShowTerminalSizeHint), group (KonsoleWindow)
 #: settings/GeneralSettings.ui:184 settings/konsole.kcfg:28
-#: widgets/EditProfileAppearancePage.ui:689
+#: widgets/EditProfileAppearancePage.ui:491
 #, kde-format
 msgid "Show hint for terminal size after resizing"
 msgstr ""
@@ -1745,7 +1740,7 @@ msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, showTerminalSizeHintButton)
 #. i18n: ectx: tooltip, entry (ShowTerminalSizeHint), group (KonsoleWindow)
-#: settings/konsole.kcfg:29 widgets/EditProfileAppearancePage.ui:686
+#: settings/konsole.kcfg:29 widgets/EditProfileAppearancePage.ui:488
 #, kde-format
 msgid ""
 "Show terminal size in columns and lines in the center of window after "
@@ -2421,7 +2416,7 @@ msgctxt "@action Shortcut entry"
 msgid "Switch to Tab %1"
 msgstr ""
 
-#: Vt102Emulation.cpp:1231
+#: Vt102Emulation.cpp:1253
 #, kde-format
 msgid ""
 "No keyboard translator available.  The information needed to convert key "
@@ -2725,7 +2720,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, enableBlinkingCursorButton)
 #. i18n: ectx: property (text), widget (QCheckBox, alignToCenterButton)
 #: widgets/EditProfileAppearancePage.ui:447
-#: widgets/EditProfileAppearancePage.ui:659
+#: widgets/EditProfileAppearancePage.ui:667
 #, kde-format
 msgid "Enabled"
 msgstr ""
@@ -2739,123 +2734,129 @@ msgid "Miscellaneous"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label)
-#: widgets/EditProfileAppearancePage.ui:497
+#: widgets/EditProfileAppearancePage.ui:481
 #, kde-format
 msgid "Window:"
 msgstr ""
 
-#. i18n: ectx: property (toolTip), widget (QCheckBox, dimWhenInactiveCheckbox)
-#: widgets/EditProfileAppearancePage.ui:507
+#. i18n: ectx: property (text), widget (QLabel, dimLabel)
+#: widgets/EditProfileAppearancePage.ui:500
 #, kde-format
-msgid "Indicate whether the window is active by dimming the colors"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QCheckBox, dimWhenInactiveCheckbox)
-#: widgets/EditProfileAppearancePage.ui:510
-#, kde-format
-msgid "Darken"
+msgid "Darkening strength:"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_10)
-#: widgets/EditProfileAppearancePage.ui:517
+#: widgets/EditProfileAppearancePage.ui:525
 #, kde-format
 msgid "Inactive Terminals:"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, contentsGroup)
-#: widgets/EditProfileAppearancePage.ui:527
+#: widgets/EditProfileAppearancePage.ui:535
 #, kde-format
 msgctxt "@title:group"
 msgid "Terminal contents"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, lineSpacingLabel)
-#: widgets/EditProfileAppearancePage.ui:539
+#: widgets/EditProfileAppearancePage.ui:547
 #, kde-format
 msgid "Line spacing:"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, lineSpacingSpinner)
-#: widgets/EditProfileAppearancePage.ui:557
+#: widgets/EditProfileAppearancePage.ui:565
 #, kde-format
 msgid "The number of pixels between two lines"
 msgstr ""
 
 #. i18n: ectx: property (suffix), widget (QSpinBox, lineSpacingSpinner)
 #. i18n: ectx: property (suffix), widget (QSpinBox, marginsSpinner)
-#: widgets/EditProfileAppearancePage.ui:560
-#: widgets/EditProfileAppearancePage.ui:612
+#: widgets/EditProfileAppearancePage.ui:568
+#: widgets/EditProfileAppearancePage.ui:620
 #, kde-format
 msgctxt "(pixels) visual size unit"
 msgid " px"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_4)
-#: widgets/EditProfileAppearancePage.ui:594
+#: widgets/EditProfileAppearancePage.ui:602
 #, kde-format
 msgid "Margins:"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_5)
-#: widgets/EditProfileAppearancePage.ui:646
+#: widgets/EditProfileAppearancePage.ui:654
 #, kde-format
 msgid "Align to center:"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QLabel, dimLabel)
-#: widgets/EditProfileAppearancePage.ui:698
+#. i18n: ectx: property (toolTip), widget (QCheckBox, dimWhenInactiveCheckbox)
+#: widgets/EditProfileAppearancePage.ui:677
 #, kde-format
-msgid "Darkening strength:"
+msgid "Indicate whether the window is active by dimming the colors"
 msgstr ""
 
-#: widgets/EditProfileDialog.cpp:86
+#. i18n: ectx: property (text), widget (QCheckBox, dimWhenInactiveCheckbox)
+#: widgets/EditProfileAppearancePage.ui:680
+#, kde-format
+msgid "Darken"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, displayVerticalLine)
+#: widgets/EditProfileAppearancePage.ui:722
+#, kde-format
+msgid "Display Vertical line at column:"
+msgstr ""
+
+#: widgets/EditProfileDialog.cpp:87
 #, kde-format
 msgid "Edit Profile"
 msgstr ""
 
-#: widgets/EditProfileDialog.cpp:117
+#: widgets/EditProfileDialog.cpp:118
 #, kde-format
 msgctxt "@title:tab Generic, common options"
 msgid "General"
 msgstr ""
 
-#: widgets/EditProfileDialog.cpp:128
+#: widgets/EditProfileDialog.cpp:129
 #, kde-format
 msgid "Tabs"
 msgstr ""
 
-#: widgets/EditProfileDialog.cpp:146
+#: widgets/EditProfileDialog.cpp:147
 #, kde-format
 msgid "Appearance"
 msgstr ""
 
-#: widgets/EditProfileDialog.cpp:163
+#: widgets/EditProfileDialog.cpp:164
 #, kde-format
 msgid "Scrolling"
 msgstr ""
 
-#: widgets/EditProfileDialog.cpp:178
+#: widgets/EditProfileDialog.cpp:179
 #, kde-format
 msgid "Keyboard"
 msgstr ""
 
-#: widgets/EditProfileDialog.cpp:179
+#: widgets/EditProfileDialog.cpp:180
 #, kde-format
 msgid "Key bindings"
 msgstr ""
 
-#: widgets/EditProfileDialog.cpp:191
+#: widgets/EditProfileDialog.cpp:192
 #, kde-format
 msgid "Mouse"
 msgstr ""
 
-#: widgets/EditProfileDialog.cpp:203
+#: widgets/EditProfileDialog.cpp:209
 #, kde-format
 msgctxt "@title:tab Complex options"
 msgid "Advanced"
 msgstr ""
 
-#: widgets/EditProfileDialog.cpp:301
+#: widgets/EditProfileDialog.cpp:307
 #, kde-format
 msgid ""
 "<p>Konsole does not have permission to save this profile to:<br /> \"%1\"</"
@@ -2864,29 +2865,29 @@ msgid ""
 "settings to a new profile.</p>"
 msgstr ""
 
-#: widgets/EditProfileDialog.cpp:322
+#: widgets/EditProfileDialog.cpp:328
 #, kde-format
 msgid "<p>Each profile must have a name before it can be saved into disk.</p>"
 msgstr ""
 
-#: widgets/EditProfileDialog.cpp:330
+#: widgets/EditProfileDialog.cpp:336
 #, kde-format
 msgid "<p>A profile with this name already exists.</p>"
 msgstr ""
 
-#: widgets/EditProfileDialog.cpp:364
+#: widgets/EditProfileDialog.cpp:370
 #, kde-format
 msgid "Editing profile: %2"
 msgid_plural "Editing %1 profiles: %2"
 msgstr[0] ""
 msgstr[1] ""
 
-#: widgets/EditProfileDialog.cpp:369
+#: widgets/EditProfileDialog.cpp:375
 #, kde-format
 msgid "Edit Profile \"%1\""
 msgstr ""
 
-#: widgets/EditProfileDialog.cpp:457
+#: widgets/EditProfileDialog.cpp:463
 #, kde-format
 msgctxt ""
 "Suffix of the number of columns (N columns). The leading space is needed to "
@@ -2896,7 +2897,7 @@ msgid_plural " columns"
 msgstr[0] ""
 msgstr[1] ""
 
-#: widgets/EditProfileDialog.cpp:458
+#: widgets/EditProfileDialog.cpp:464
 #, kde-format
 msgctxt ""
 "Suffix of the number of rows (N rows). The leading space is needed to "
@@ -2906,17 +2907,17 @@ msgid_plural " rows"
 msgstr[0] ""
 msgstr[1] ""
 
-#: widgets/EditProfileDialog.cpp:510
+#: widgets/EditProfileDialog.cpp:516
 #, kde-format
 msgid "Edit Environment"
 msgstr ""
 
-#: widgets/EditProfileDialog.cpp:511
+#: widgets/EditProfileDialog.cpp:517
 #, kde-format
 msgid "One environment variable per line"
 msgstr ""
 
-#: widgets/EditProfileDialog.cpp:545
+#: widgets/EditProfileDialog.cpp:551
 #, kde-format
 msgctxt "Unit of time"
 msgid " second"
@@ -2924,25 +2925,25 @@ msgid_plural " seconds"
 msgstr[0] ""
 msgstr[1] ""
 
-#: widgets/EditProfileDialog.cpp:638
+#: widgets/EditProfileDialog.cpp:644
 #, kde-format
 msgid "Select Initial Directory"
 msgstr ""
 
-#: widgets/EditProfileDialog.cpp:1172
+#: widgets/EditProfileDialog.cpp:1205
 #, kde-kuit-format
 msgctxt "@info"
 msgid "Scheme <resource>%1</resource> failed to load."
 msgstr ""
 
-#: widgets/EditProfileDialog.cpp:1357
+#: widgets/EditProfileDialog.cpp:1390
 #, kde-format
 msgid ""
 "This color scheme uses a transparent background which does not appear to be "
 "supported on your desktop"
 msgstr ""
 
-#: widgets/EditProfileDialog.cpp:1363
+#: widgets/EditProfileDialog.cpp:1396
 #, kde-format
 msgid ""
 "Konsole was started before desktop effects were enabled. You need to restart "
@@ -3201,88 +3202,26 @@ msgstr ""
 msgid "Trim trailing spaces"
 msgstr ""
 
-#. i18n: ectx: property (toolTip), widget (QCheckBox, underlineLinksButton)
-#: widgets/EditProfileMousePage.ui:263
+#. i18n: ectx: property (toolTip), widget (QLineEdit, linkEscapeSequenceTexts)
+#: widgets/EditProfileMousePage.ui:279
 #, kde-format
-msgid ""
-"Text recognized as a link or an email address will be underlined when "
-"hovered by the mouse pointer."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QCheckBox, underlineLinksButton)
-#: widgets/EditProfileMousePage.ui:266
-#, kde-format
-msgid "Underline links"
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (QCheckBox, openLinksByDirectClickButton)
-#: widgets/EditProfileMousePage.ui:298
-#, kde-format
-msgid ""
-"Text recognized as a file, link or an email address can be opened by direct "
-"mouse click."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QCheckBox, openLinksByDirectClickButton)
-#: widgets/EditProfileMousePage.ui:301
-#, kde-format
-msgid "Open by direct click"
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (QCheckBox, underlineFilesButton)
-#: widgets/EditProfileMousePage.ui:308
-#, kde-format
-msgid ""
-"Text recognized as a file will be underlined when hovered by the mouse "
-"pointer."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QCheckBox, underlineFilesButton)
-#: widgets/EditProfileMousePage.ui:311
-#, kde-format
-msgid "Underline files"
+msgid "The formats of possible links, like http://, https:// and file://"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, ctrlRequiredForDragButton)
-#: widgets/EditProfileMousePage.ui:318
+#: widgets/EditProfileMousePage.ui:286
 #, kde-format
 msgid "Selected text will require control key plus click to drag."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, ctrlRequiredForDragButton)
-#: widgets/EditProfileMousePage.ui:321
+#: widgets/EditProfileMousePage.ui:289
 #, kde-format
 msgid "Require Ctrl key for drag && drop"
 msgstr ""
 
-#. i18n: ectx: property (toolTip), widget (QCheckBox, dropUrlsAsText)
-#: widgets/EditProfileMousePage.ui:328
-#, kde-format
-msgid ""
-"Always paste dropped files and URLs as text without offering move, copy and "
-"link actions."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QCheckBox, dropUrlsAsText)
-#: widgets/EditProfileMousePage.ui:331
-#, kde-format
-msgid "Disable drag && drop menu for files && URLs"
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (QCheckBox, enableMouseWheelZoomButton)
-#: widgets/EditProfileMousePage.ui:338
-#, kde-format
-msgid "Pressing Ctrl+scrollwheel will increase/decrease the text size."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QCheckBox, enableMouseWheelZoomButton)
-#: widgets/EditProfileMousePage.ui:341
-#, kde-format
-msgid "Allow Ctrl+scrollwheel to zoom text size"
-msgstr ""
-
 #. i18n: ectx: property (toolTip), widget (QCheckBox, enableAlternateScrollingButton)
-#: widgets/EditProfileMousePage.ui:348
+#: widgets/EditProfileMousePage.ui:296
 #, kde-format
 msgid ""
 "Mouse scroll wheel will emulate up/down key presses in programs that use the "
@@ -3290,9 +3229,89 @@ msgid ""
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, enableAlternateScrollingButton)
-#: widgets/EditProfileMousePage.ui:351
+#: widgets/EditProfileMousePage.ui:299
 #, kde-format
 msgid "Enable Alternate Screen buffer scrolling"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, underlineLinksButton)
+#: widgets/EditProfileMousePage.ui:306
+#, kde-format
+msgid ""
+"Text recognized as a link or an email address will be underlined when "
+"hovered by the mouse pointer."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, underlineLinksButton)
+#: widgets/EditProfileMousePage.ui:309
+#, kde-format
+msgid "Underline links"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, underlineFilesButton)
+#: widgets/EditProfileMousePage.ui:332
+#, kde-format
+msgid ""
+"Text recognized as a file will be underlined when hovered by the mouse "
+"pointer."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, underlineFilesButton)
+#: widgets/EditProfileMousePage.ui:335
+#, kde-format
+msgid "Underline files"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, dropUrlsAsText)
+#: widgets/EditProfileMousePage.ui:342
+#, kde-format
+msgid ""
+"Always paste dropped files and URLs as text without offering move, copy and "
+"link actions."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, dropUrlsAsText)
+#: widgets/EditProfileMousePage.ui:345
+#, kde-format
+msgid "Disable drag && drop menu for files && URLs"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, allowLinkEscapeSequenceButton)
+#: widgets/EditProfileMousePage.ui:352
+#, kde-format
+msgid "Allow escape sequences for links"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, enableMouseWheelZoomButton)
+#: widgets/EditProfileMousePage.ui:359
+#, kde-format
+msgid "Pressing Ctrl+scrollwheel will increase/decrease the text size."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, enableMouseWheelZoomButton)
+#: widgets/EditProfileMousePage.ui:362
+#, kde-format
+msgid "Allow Ctrl+scrollwheel to zoom text size"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: widgets/EditProfileMousePage.ui:369
+#, kde-format
+msgid "Allowed link formats"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, openLinksByDirectClickButton)
+#: widgets/EditProfileMousePage.ui:385
+#, kde-format
+msgid ""
+"Text recognized as a file, link or an email address can be opened by direct "
+"mouse click."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, openLinksByDirectClickButton)
+#: widgets/EditProfileMousePage.ui:388
+#, kde-format
+msgid "Open by direct click"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, historySizeLabel)
@@ -3580,6 +3599,11 @@ msgctxt "@info:tooltip"
 msgid "Search for the current search phrase from the top"
 msgstr ""
 
+#: widgets/KonsolePrintManager.cpp:49
+#, kde-format
+msgid "Print Shell"
+msgstr ""
+
 #: widgets/RenameTabWidget.cpp:47
 #, kde-format
 msgid "Color from theme"
@@ -3694,100 +3718,100 @@ msgctxt "@info:tooltip"
 msgid "Insert remote title format"
 msgstr ""
 
-#: widgets/TerminalDisplay.cpp:1306 widgets/TerminalDisplay.cpp:1307
+#: widgets/TerminalDisplay.cpp:1314 widgets/TerminalDisplay.cpp:1315
 #, kde-format
 msgid "Size: XXX x XXX"
 msgstr ""
 
-#: widgets/TerminalDisplay.cpp:1318
+#: widgets/TerminalDisplay.cpp:1326
 #, kde-format
 msgid "Size: %1 x %2"
 msgstr ""
 
-#: widgets/TerminalDisplay.cpp:3295
+#: widgets/TerminalDisplay.cpp:3325
 #, kde-format
 msgid "Are you sure you want to paste %1 character?"
 msgid_plural "Are you sure you want to paste %1 characters?"
 msgstr[0] ""
 msgstr[1] ""
 
-#: widgets/TerminalDisplay.cpp:3298
+#: widgets/TerminalDisplay.cpp:3328
 #, kde-format
 msgid "Confirm Paste"
 msgstr ""
 
-#: widgets/TerminalDisplay.cpp:3330
+#: widgets/TerminalDisplay.cpp:3360
 #, kde-format
 msgid "End Of Text/Interrupt: may exit the current process"
 msgstr ""
 
-#: widgets/TerminalDisplay.cpp:3331
+#: widgets/TerminalDisplay.cpp:3361
 #, kde-format
 msgid "End Of Transmission: may exit the current process"
 msgstr ""
 
-#: widgets/TerminalDisplay.cpp:3332
+#: widgets/TerminalDisplay.cpp:3362
 #, kde-format
 msgid "Bell: will try to emit an audible warning"
 msgstr ""
 
-#: widgets/TerminalDisplay.cpp:3333
+#: widgets/TerminalDisplay.cpp:3363
 #, kde-format
 msgid "Backspace"
 msgstr ""
 
-#: widgets/TerminalDisplay.cpp:3334
+#: widgets/TerminalDisplay.cpp:3364
 #, kde-format
 msgid "Device Control Three/XOFF: suspends output"
 msgstr ""
 
-#: widgets/TerminalDisplay.cpp:3335
+#: widgets/TerminalDisplay.cpp:3365
 #, kde-format
 msgid "Substitute/Suspend: may suspend current process"
 msgstr ""
 
-#: widgets/TerminalDisplay.cpp:3336
+#: widgets/TerminalDisplay.cpp:3366
 #, kde-format
 msgid "Escape: used for manipulating terminal state"
 msgstr ""
 
-#: widgets/TerminalDisplay.cpp:3337
+#: widgets/TerminalDisplay.cpp:3367
 #, kde-format
 msgid "File Separator/Quit: may abort the current process"
 msgstr ""
 
-#: widgets/TerminalDisplay.cpp:3359
+#: widgets/TerminalDisplay.cpp:3389
 #, kde-format
 msgid ""
 "The text you're trying to paste contains hidden control characters, do you "
 "want to filter them out?"
 msgstr ""
 
-#: widgets/TerminalDisplay.cpp:3362
+#: widgets/TerminalDisplay.cpp:3392
 #, kde-format
 msgctxt "@title"
 msgid "Confirm Paste"
 msgstr ""
 
-#: widgets/TerminalDisplay.cpp:3364
+#: widgets/TerminalDisplay.cpp:3394
 #, kde-format
 msgctxt "@action:button"
 msgid "Paste &without control characters"
 msgstr ""
 
-#: widgets/TerminalDisplay.cpp:3367
+#: widgets/TerminalDisplay.cpp:3397
 #, kde-format
 msgctxt "@action:button"
 msgid "&Paste everything"
 msgstr ""
 
-#: widgets/TerminalDisplay.cpp:3370
+#: widgets/TerminalDisplay.cpp:3400
 #, kde-format
 msgctxt "@action:button"
 msgid "&Cancel"
 msgstr ""
 
-#: widgets/TerminalDisplay.cpp:3621
+#: widgets/TerminalDisplay.cpp:3651
 #, kde-format
 msgid ""
 "<qt>Output has been <a href=\"https://en.wikipedia.org/wiki/"
@@ -3795,17 +3819,17 @@ msgid ""
 "b> to resume.</qt>"
 msgstr ""
 
-#: widgets/TerminalDisplay.cpp:3662
+#: widgets/TerminalDisplay.cpp:3692
 #, kde-format
 msgid "This terminal is read-only."
 msgstr ""
 
-#: widgets/TerminalDisplay.cpp:3971
+#: widgets/TerminalDisplay.cpp:4001
 #, kde-format
 msgid "Change &Directory To"
 msgstr ""
 
-#: widgets/TerminalDisplay.cpp:4003
+#: widgets/TerminalDisplay.cpp:4033
 #, kde-format
 msgid "&Paste Location"
 msgstr ""
