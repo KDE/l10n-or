@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-09-14 02:11+0200\n"
+"POT-Creation-Date: 2020-09-18 02:11+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -142,7 +142,7 @@ msgctxt "@item Contributor name in about dialog."
 msgid "%1"
 msgstr "%1"
 
-#: kaboutapplicationpersonmodel_p.cpp:192
+#: kaboutapplicationpersonmodel_p.cpp:191
 #, fuzzy, kde-format
 #| msgctxt "concatenation of dates and time"
 #| msgid "%1 %2"
@@ -150,7 +150,7 @@ msgctxt "City, Country"
 msgid "%1, %2"
 msgstr "%1 %2"
 
-#: kaboutapplicationpersonmodel_p.cpp:295
+#: kaboutapplicationpersonmodel_p.cpp:294
 #, fuzzy, kde-format
 #| msgctxt "@item Text character set"
 #| msgid "Other"
@@ -158,13 +158,13 @@ msgctxt "A generic social network or homepage link of an unlisted type."
 msgid "Other"
 msgstr "ଅନ୍ଯାନ୍ଯ"
 
-#: kaboutapplicationpersonmodel_p.cpp:297
+#: kaboutapplicationpersonmodel_p.cpp:296
 #, kde-format
 msgctxt "A type of link."
 msgid "Blog"
 msgstr ""
 
-#: kaboutapplicationpersonmodel_p.cpp:305
+#: kaboutapplicationpersonmodel_p.cpp:304
 #, fuzzy, kde-format
 #| msgid "Homepage"
 msgctxt "A type of link."
@@ -645,31 +645,31 @@ msgctxt "@option:check"
 msgid "&Hide text when toolbar shows text alongside icons"
 msgstr ""
 
-#: kedittoolbar.cpp:606
+#: kedittoolbar.cpp:604
 #, fuzzy, kde-format
 #| msgid "Configure Toolbars"
 msgctxt "@title:window"
 msgid "Configure Toolbars"
 msgstr "ସାଧନପଟିଗୁଡିକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
 
-#: kedittoolbar.cpp:669
+#: kedittoolbar.cpp:667
 #, kde-format
 msgid ""
 "Do you really want to reset all toolbars of this application to their "
 "default? The changes will be applied immediately."
 msgstr ""
 
-#: kedittoolbar.cpp:669
+#: kedittoolbar.cpp:667
 #, kde-format
 msgid "Reset Toolbars"
 msgstr "ସାଧନପଟିଗୁଡିକୁ ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ"
 
-#: kedittoolbar.cpp:669
+#: kedittoolbar.cpp:667
 #, kde-format
 msgid "Reset"
 msgstr "ପୁନଃସ୍ଥାପନ କରନ୍ତୁ"
 
-#: kedittoolbar.cpp:1000
+#: kedittoolbar.cpp:998
 #, kde-format
 msgid "&Toolbar:"
 msgstr "ସାଧନପଟି (&T):"
@@ -681,88 +681,88 @@ msgstr "ସାଧନପଟି (&T):"
 #. del_toolbar->setPixmap(BarIcon("edit-delete", KIconLoader::SizeSmall));
 #. del_toolbar->setEnabled(false); // disabled until implemented
 #. our list of inactive actions
-#: kedittoolbar.cpp:1015
+#: kedittoolbar.cpp:1013
 #, kde-format
 msgid "A&vailable actions:"
 msgstr "ଉପଲବ୍ଧ କାର୍ଯ୍ୟ (&v):"
 
-#: kedittoolbar.cpp:1030 kedittoolbar.cpp:1049
+#: kedittoolbar.cpp:1028 kedittoolbar.cpp:1047
 #, fuzzy, kde-format
 #| msgid "File"
 msgid "Filter"
 msgstr "ଫାଇଲ"
 
-#: kedittoolbar.cpp:1033
+#: kedittoolbar.cpp:1031
 #, kde-format
 msgid "Curr&ent actions:"
 msgstr "ସାମ୍ପ୍ରତିକ କାର୍ଯ୍ୟ (&e):"
 
-#: kedittoolbar.cpp:1052
+#: kedittoolbar.cpp:1050
 #, fuzzy, kde-format
 #| msgid "Change &Icon..."
 msgctxt "@action:button"
 msgid "Change &Icon..."
 msgstr "ଚିତ୍ର ସଂକେତ ପରିବର୍ତ୍ତନ କରନ୍ତୁ (&I)..."
 
-#: kedittoolbar.cpp:1060
+#: kedittoolbar.cpp:1058
 #, fuzzy, kde-format
 #| msgid "Change &Icon..."
 msgctxt "@action:button"
 msgid "Change Te&xt..."
 msgstr "ଚିତ୍ର ସଂକେତ ପରିବର୍ତ୍ତନ କରନ୍ତୁ (&I)..."
 
-#: kedittoolbar.cpp:1213
+#: kedittoolbar.cpp:1211
 #, kde-format
 msgctxt "@item:intable Action name in toolbar editor"
 msgid "%1"
 msgstr "%1"
 
-#: kedittoolbar.cpp:1240
+#: kedittoolbar.cpp:1238
 #, kde-format
 msgid ""
 "This element will be replaced with all the elements of an embedded component."
 msgstr ""
 
-#: kedittoolbar.cpp:1242
+#: kedittoolbar.cpp:1240
 #, kde-format
 msgid "<Merge>"
 msgstr "<ମିଶ୍ରଣ>"
 
-#: kedittoolbar.cpp:1244
+#: kedittoolbar.cpp:1242
 #, kde-format
 msgid "<Merge %1>"
 msgstr "<ମିଶ୍ରଣ %1>"
 
-#: kedittoolbar.cpp:1250
+#: kedittoolbar.cpp:1248
 #, kde-format
 msgid ""
 "This is a dynamic list of actions. You can move it, but if you remove it you "
 "will not be able to re-add it."
 msgstr ""
 
-#: kedittoolbar.cpp:1251
+#: kedittoolbar.cpp:1249
 #, kde-format
 msgid "ActionList: %1"
 msgstr "କାର୍ଯ୍ୟ ତାଲିକା: %1"
 
-#: kedittoolbar.cpp:1353 kedittoolbar.cpp:1380
+#: kedittoolbar.cpp:1351 kedittoolbar.cpp:1378
 #, kde-format
 msgctxt "@label Action tooltip in toolbar editor, below the action list"
 msgid "%1"
 msgstr "%1"
 
-#: kedittoolbar.cpp:1607
+#: kedittoolbar.cpp:1605
 #, kde-format
 msgid "Change Icon"
 msgstr "ଚିତ୍ର ସଂକେତ ପରିବର୍ତ୍ତନ କରନ୍ତୁ"
 
 #. i18n: ectx: Menu (help)
-#: khelpmenu.cpp:158 ui_standards.rc:178
+#: khelpmenu.cpp:149 ui_standards.rc:178
 #, kde-format
 msgid "&Help"
 msgstr "ସହାୟତା (&H)"
 
-#: khelpmenu.cpp:266
+#: khelpmenu.cpp:257
 #, kde-format
 msgid "About %1"
 msgstr "%1 ବିଷୟରେ"
@@ -1112,20 +1112,20 @@ msgstr "ଅପସାରଣ ଅନୁରୋଧଟି ସଫଳତାର ସହି
 msgid "Error saving the shortcut scheme."
 msgstr ""
 
-#: kshortcutsdialog.cpp:74
+#: kshortcutsdialog.cpp:70
 #, kde-format
 msgid ""
 "The current shortcut scheme is modified. Save before switching to the new "
 "one?"
 msgstr ""
 
-#: kshortcutsdialog.cpp:124
+#: kshortcutsdialog.cpp:120
 #, fuzzy, kde-format
 #| msgid "New Scheme"
 msgid "Manage &Schemes"
 msgstr "ନୂତନ ଯୋଜନା"
 
-#: kshortcutsdialog.cpp:143
+#: kshortcutsdialog.cpp:139
 #, fuzzy, kde-format
 #| msgid "Configure Shortcuts"
 msgctxt "@title:window"
@@ -1302,14 +1302,14 @@ msgstr "ପ୍ରାଥମିକ ଭାଷା:"
 msgid "Fallback language:"
 msgstr "ଶେଷ ଅବଲମ୍ବନ ଭାଷା:"
 
-#: kswitchlanguagedialog_p.cpp:401
+#: kswitchlanguagedialog_p.cpp:402
 #, fuzzy, kde-format
 #| msgid "Remove"
 msgctxt "@action:button"
 msgid "Remove"
 msgstr "କାଢ଼ନ୍ତୁ"
 
-#: kswitchlanguagedialog_p.cpp:408
+#: kswitchlanguagedialog_p.cpp:409
 #, kde-format
 msgctxt "@info:tooltip"
 msgid ""
@@ -1317,7 +1317,7 @@ msgid ""
 "other languages."
 msgstr ""
 
-#: kswitchlanguagedialog_p.cpp:409
+#: kswitchlanguagedialog_p.cpp:410
 #, kde-format
 msgctxt "@info:tooltip"
 msgid ""
