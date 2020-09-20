@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-09-19 00:42+0000\n"
+"POT-Creation-Date: 2020-09-20 00:38+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -28,7 +28,7 @@ msgctxt "Name"
 msgid "Execute action as root."
 msgstr ""
 
-#: src/ioslaves/file/kauth/file.actions:38
+#: src/ioslaves/file/kauth/file.actions:39
 msgctxt "Description"
 msgid "Root privileges are required to complete the action."
 msgstr ""
@@ -38,7 +38,7 @@ msgctxt "Name"
 msgid "HTTP Cache Cleaner"
 msgstr ""
 
-#: src/ioslaves/http/http_cache_cleaner.desktop:57
+#: src/ioslaves/http/http_cache_cleaner.desktop:58
 msgctxt "Comment"
 msgid "Cleans up old entries from the HTTP cache"
 msgstr ""
@@ -127,12 +127,12 @@ msgctxt "Name"
 msgid "Cookies"
 msgstr "କୁକିଗୁଡ଼ିକ"
 
-#: src/kcms/kio/cookies.desktop:62
+#: src/kcms/kio/cookies.desktop:63
 msgctxt "Comment"
 msgid "Configure the way cookies work"
 msgstr "କୁକିଗୁଡ଼ିକ ଯେଉଁ ଉପାୟରେ କାର୍ଯ୍ୟକରନ୍ତି ତାହା ବିନ୍ୟାସ କରନ୍ତୁ"
 
-#: src/kcms/kio/cookies.desktop:148
+#: src/kcms/kio/cookies.desktop:149
 msgctxt "X-KDE-Keywords"
 msgid "Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
 msgstr ""
@@ -177,7 +177,7 @@ msgctxt "Comment"
 msgid "Credentials used to access SMB shares"
 msgstr ""
 
-#: src/kcms/kio/smb.desktop:139
+#: src/kcms/kio/smb.desktop:140
 msgctxt "X-KDE-Keywords"
 msgid ""
 "SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,"
@@ -575,7 +575,7 @@ msgctxt "Name"
 msgid "Basic Link to File or Directory..."
 msgstr ""
 
-#: src/new_file_templates/linkPath.desktop:35
+#: src/new_file_templates/linkPath.desktop:36
 msgctxt "Comment"
 msgid "Enter path of file or directory:"
 msgstr ""
@@ -693,7 +693,7 @@ msgctxt "Name"
 msgid "Arch Linux Package Search"
 msgstr "Debian ପ୍ୟାକେଜ ସନ୍ଧାନ"
 
-#: src/urifilters/ikws/searchproviders/archpkg.desktop:46
+#: src/urifilters/ikws/searchproviders/archpkg.desktop:47
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.backports.org/package.php?search=\\\\{@}"
@@ -706,7 +706,7 @@ msgctxt "Name"
 msgid "ArchWiki"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/archwiki.desktop:29
+#: src/urifilters/ikws/searchproviders/archwiki.desktop:30
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.backports.org/package.php?search=\\\\{@}"
@@ -776,7 +776,7 @@ msgctxt "Name"
 msgid "KDE Bugs"
 msgstr "KDE କାର୍ଯଦକ୍ଷତା"
 
-#: src/urifilters/ikws/searchproviders/bug.desktop:27
+#: src/urifilters/ikws/searchproviders/bug.desktop:28
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://bugs.kde.org/show_bug.cgi?id=\\\\{@}"
@@ -929,7 +929,7 @@ msgctxt "Name"
 msgid "DeepL"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/deepl.desktop:24
+#: src/urifilters/ikws/searchproviders/deepl.desktop:25
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.wordreference.com/it/translation.asp?enit=\\\\{@}"
@@ -1233,7 +1233,7 @@ msgctxt "Name"
 msgid "GitLab"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/gitlab.desktop:41
+#: src/urifilters/ikws/searchproviders/gitlab.desktop:42
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://search.excite.com/search.gw?search=\\\\{@}"
