@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-09-21 02:36+0200\n"
+"POT-Creation-Date: 2020-09-23 02:36+0200\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -4471,21 +4471,13 @@ msgctxt "@info:whatsthis"
 msgid "This groups files and folders by their first letter."
 msgstr ""
 
-#: views/dolphinviewactionhandler.cpp:275
+#: views/dolphinviewactionhandler.cpp:276
 #, fuzzy, kde-format
 #| msgctxt "@action:inmenu"
 #| msgid "Show Hidden Files"
 msgctxt "@action:inmenu View"
 msgid "Show Hidden Files"
 msgstr "ଲୁକ୍କାୟିତ ଫାଇଲଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ"
-
-#: views/dolphinviewactionhandler.cpp:276
-#, fuzzy, kde-format
-#| msgctxt "@option:check Ask for Confirmation When"
-#| msgid "Deleting files or folders"
-msgctxt "@info"
-msgid "Visibility of hidden files and folders"
-msgstr "ଫାଇଲ କିମ୍ବା ଫୋଲଡ଼ରଗୁଡ଼ିକୁ ଅପସାରଣ କରୁଅଛି"
 
 #: views/dolphinviewactionhandler.cpp:277
 #, kde-kuit-format
@@ -4513,7 +4505,7 @@ msgid ""
 "This opens a window in which all folder view properties can be adjusted."
 msgstr ""
 
-#: views/dolphinviewactionhandler.cpp:574
+#: views/dolphinviewactionhandler.cpp:566
 #, fuzzy, kde-format
 #| msgctxt "@title:tab"
 #| msgid "Icons"
@@ -4521,19 +4513,19 @@ msgctxt "@action:inmenu View Mode"
 msgid "Icons"
 msgstr "ଚିତ୍ରସଂକେତ"
 
-#: views/dolphinviewactionhandler.cpp:575
+#: views/dolphinviewactionhandler.cpp:567
 #, kde-format
 msgctxt "@info"
 msgid "Icons view mode"
 msgstr ""
 
-#: views/dolphinviewactionhandler.cpp:585
+#: views/dolphinviewactionhandler.cpp:577
 #, kde-format
 msgctxt "@action:inmenu View Mode"
 msgid "Compact"
 msgstr ""
 
-#: views/dolphinviewactionhandler.cpp:586
+#: views/dolphinviewactionhandler.cpp:578
 #, fuzzy, kde-format
 #| msgctxt "@title:tab"
 #| msgid "Column"
@@ -4541,7 +4533,7 @@ msgctxt "@info"
 msgid "Compact view mode"
 msgstr "ସ୍ତମ୍ଭ"
 
-#: views/dolphinviewactionhandler.cpp:596
+#: views/dolphinviewactionhandler.cpp:588
 #, fuzzy, kde-format
 #| msgctxt "@title:tab"
 #| msgid "Details"
@@ -4549,25 +4541,25 @@ msgctxt "@action:inmenu View Mode"
 msgid "Details"
 msgstr "ବିବରଣୀ"
 
-#: views/dolphinviewactionhandler.cpp:597
+#: views/dolphinviewactionhandler.cpp:589
 #, kde-format
 msgctxt "@info"
 msgid "Details view mode"
 msgstr ""
 
-#: views/dolphinviewactionhandler.cpp:620
+#: views/dolphinviewactionhandler.cpp:612
 #, kde-format
 msgctxt "Sort descending"
 msgid "Z-A"
 msgstr ""
 
-#: views/dolphinviewactionhandler.cpp:621
+#: views/dolphinviewactionhandler.cpp:613
 #, kde-format
 msgctxt "Sort ascending"
 msgid "A-Z"
 msgstr ""
 
-#: views/dolphinviewactionhandler.cpp:623
+#: views/dolphinviewactionhandler.cpp:615
 #, fuzzy, kde-format
 #| msgctxt "@title:group Size"
 #| msgid "Folders"
@@ -4575,7 +4567,7 @@ msgctxt "Sort descending"
 msgid "Largest First"
 msgstr "ଫୋଲଡ଼ରଗୁଡ଼ିକ"
 
-#: views/dolphinviewactionhandler.cpp:624
+#: views/dolphinviewactionhandler.cpp:616
 #, fuzzy, kde-format
 #| msgctxt "@title:group Size"
 #| msgid "Folders"
@@ -4583,7 +4575,7 @@ msgctxt "Sort ascending"
 msgid "Smallest First"
 msgstr "ଫୋଲଡ଼ରଗୁଡ଼ିକ"
 
-#: views/dolphinviewactionhandler.cpp:626
+#: views/dolphinviewactionhandler.cpp:618
 #, fuzzy, kde-format
 #| msgctxt "@title:group Size"
 #| msgid "Folders"
@@ -4591,7 +4583,7 @@ msgctxt "Sort descending"
 msgid "Newest First"
 msgstr "ଫୋଲଡ଼ରଗୁଡ଼ିକ"
 
-#: views/dolphinviewactionhandler.cpp:627
+#: views/dolphinviewactionhandler.cpp:619
 #, fuzzy, kde-format
 #| msgctxt "@title:group Size"
 #| msgid "Folders"
@@ -4599,7 +4591,7 @@ msgctxt "Sort ascending"
 msgid "Oldest First"
 msgstr "ଫୋଲଡ଼ରଗୁଡ଼ିକ"
 
-#: views/dolphinviewactionhandler.cpp:629
+#: views/dolphinviewactionhandler.cpp:621
 #, fuzzy, kde-format
 #| msgctxt "@title:group Size"
 #| msgid "Folders"
@@ -4607,7 +4599,7 @@ msgctxt "Sort descending"
 msgid "Highest First"
 msgstr "ଫୋଲଡ଼ରଗୁଡ଼ିକ"
 
-#: views/dolphinviewactionhandler.cpp:630
+#: views/dolphinviewactionhandler.cpp:622
 #, fuzzy, kde-format
 #| msgctxt "@title:group Size"
 #| msgid "Folders"
@@ -4615,13 +4607,13 @@ msgctxt "Sort ascending"
 msgid "Lowest First"
 msgstr "ଫୋଲଡ଼ରଗୁଡ଼ିକ"
 
-#: views/dolphinviewactionhandler.cpp:632
+#: views/dolphinviewactionhandler.cpp:624
 #, kde-format
 msgctxt "Sort descending"
 msgid "Descending"
 msgstr ""
 
-#: views/dolphinviewactionhandler.cpp:633
+#: views/dolphinviewactionhandler.cpp:625
 #, kde-format
 msgctxt "Sort ascending"
 msgid "Ascending"
@@ -4632,6 +4624,13 @@ msgstr ""
 msgctxt "@info:status"
 msgid "Updating version information..."
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "@option:check Ask for Confirmation When"
+#~| msgid "Deleting files or folders"
+#~ msgctxt "@info"
+#~ msgid "Visibility of hidden files and folders"
+#~ msgstr "ଫାଇଲ କିମ୍ବା ଫୋଲଡ଼ରଗୁଡ଼ିକୁ ଅପସାରଣ କରୁଅଛି"
 
 #~ msgctxt "@info:status"
 #~ msgid "Unknown size"
