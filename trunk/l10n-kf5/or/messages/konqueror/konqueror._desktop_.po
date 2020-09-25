@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-09-12 00:41+0000\n"
+"POT-Creation-Date: 2020-09-25 00:40+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -269,6 +269,27 @@ msgstr "ଚାଳକ ବାକ୍ୟଖଣ୍ଡଗୁଡ଼ିକ"
 msgctxt "Comment"
 msgid "Allows the detected UserAgent to be modified"
 msgstr ""
+
+#: plugins/webarchiver/plugin_webarchiver.desktop:12
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "FTP Archives"
+msgctxt "Name"
+msgid "Web Archiver"
+msgstr "FTP ଅଭିଲେଖନଗୁଡ଼ିକ"
+
+#: plugins/webarchiver/plugin_webarchiver.desktop:75
+msgctxt "Comment"
+msgid "Creates archives of websites"
+msgstr ""
+
+#: plugins/webarchiver/thumbnailer/webarchivethumbnail.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "FTP Archives"
+msgctxt "Name"
+msgid "Web Archives and HTML files"
+msgstr "FTP ଅଭିଲେଖନଗୁଡ଼ିକ"
 
 #: settings/bookmarks/bookmarks.desktop:12
 #: sidebar/default_entries/bookmarks.desktop:12
@@ -696,20 +717,6 @@ msgstr "ସନ୍ଧାନ ଯନ୍ତ୍ର"
 #~ msgctxt "Name"
 #~ msgid "Document Relations"
 #~ msgstr "KDE API ଦଲିଲିକରଣ"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "FTP Archives"
-#~ msgctxt "Name"
-#~ msgid "Web Archiver"
-#~ msgstr "FTP ଅଭିଲେଖନଗୁଡ଼ିକ"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "FTP Archives"
-#~ msgctxt "Name"
-#~ msgid "Web Archives"
-#~ msgstr "FTP ଅଭିଲେଖନଗୁଡ଼ିକ"
 
 #, fuzzy
 #~| msgctxt "GenericName"
