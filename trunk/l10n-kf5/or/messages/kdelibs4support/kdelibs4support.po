@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-03 02:53+0100\n"
+"POT-Creation-Date: 2020-10-24 02:11+0200\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -2437,68 +2437,68 @@ msgstr ""
 msgid "Turn area off"
 msgstr ""
 
-#: kdecore/k3resolver.cpp:534 kdecore/netsupp.cpp:868
+#: kdecore/k3resolver.cpp:533 kdecore/netsupp.cpp:865
 #, kde-format
 msgid "no error"
 msgstr "ତ୍ରୁଟି ନାହିଁ"
 
-#: kdecore/k3resolver.cpp:535
+#: kdecore/k3resolver.cpp:534
 #, kde-format
 msgid "requested family not supported for this host name"
 msgstr "ଅନୁରୋଧିତ ପରିବାର ଏହି ହୋଷ୍ଟ ନାମ ପାଇଁ ସମର୍ଥିତ ନୁହଁ"
 
-#: kdecore/k3resolver.cpp:536 kdecore/netsupp.cpp:870
+#: kdecore/k3resolver.cpp:535 kdecore/netsupp.cpp:867
 #, kde-format
 msgid "temporary failure in name resolution"
 msgstr "ନାମ ବିଭେଦନ କରିବାରେ ଅସ୍ଥାୟୀ ବିଫଳତା"
 
-#: kdecore/k3resolver.cpp:537 kdecore/netsupp.cpp:872
+#: kdecore/k3resolver.cpp:536 kdecore/netsupp.cpp:869
 #, kde-format
 msgid "non-recoverable failure in name resolution"
 msgstr "ନାମ ବିଭେଦନରେ ପୁନଃ ପ୍ରାପ୍ତି ଅଯୋଗ୍ୟ ବିଫଳତା"
 
-#: kdecore/k3resolver.cpp:538
+#: kdecore/k3resolver.cpp:537
 #, kde-format
 msgid "invalid flags"
 msgstr "ଅବୈଧ ଚିହ୍ନକଗୁଡିକ"
 
-#: kdecore/k3resolver.cpp:539 kdecore/netsupp.cpp:874
+#: kdecore/k3resolver.cpp:538 kdecore/netsupp.cpp:871
 #, kde-format
 msgid "memory allocation failure"
 msgstr "ସ୍ମୃତି ବଣ୍ଟନ ବିଫଳ"
 
-#: kdecore/k3resolver.cpp:540 kdecore/netsupp.cpp:876
+#: kdecore/k3resolver.cpp:539 kdecore/netsupp.cpp:873
 #, kde-format
 msgid "name or service not known"
 msgstr "ନାମ କିମ୍ବା ସର୍ଭିସ ଜଣା ନାହିଁ"
 
-#: kdecore/k3resolver.cpp:541
+#: kdecore/k3resolver.cpp:540
 #, kde-format
 msgid "requested family not supported"
 msgstr "ଅନୁରୋଧିତ ପରିବାର ସମର୍ଥିତ ନୁହଁ"
 
-#: kdecore/k3resolver.cpp:542
+#: kdecore/k3resolver.cpp:541
 #, kde-format
 msgid "requested service not supported for this socket type"
 msgstr "ଅନୁରୋଧିତ ସେବା ଏହି ସକେଟ ପ୍ରକାର ପାଇଁ ସମର୍ଥିତ ନୁହଁ"
 
-#: kdecore/k3resolver.cpp:543
+#: kdecore/k3resolver.cpp:542
 #, kde-format
 msgid "requested socket type not supported"
 msgstr "ଅନୁରୋଧିତ ସକେଟ ପ୍ରକାର ସମର୍ଥିତ ନୁହଁ"
 
-#: kdecore/k3resolver.cpp:544
+#: kdecore/k3resolver.cpp:543
 #, kde-format
 msgid "unknown error"
 msgstr "ଅଜଣା ତୃଟି"
 
-#: kdecore/k3resolver.cpp:546
+#: kdecore/k3resolver.cpp:545
 #, kde-format
 msgctxt "1: the i18n'ed system error code, from errno"
 msgid "system error: %1"
 msgstr "ତନ୍ତ୍ର ତ୍ରୁଟି: %1"
 
-#: kdecore/k3resolver.cpp:557
+#: kdecore/k3resolver.cpp:556
 #, kde-format
 msgid "request was canceled"
 msgstr "ଅନୁରୋଧଟି ବାତିଲ ହୋଇଗଲା"
@@ -7877,7 +7877,7 @@ msgstr "ପୂର୍ବାହ୍ନ"
 msgid "pm"
 msgstr "ଅପରାହ୍ନ"
 
-#: kdecore/klibloader.cpp:101
+#: kdecore/klibloader.cpp:100
 #, kde-format
 msgid "Library \"%1\" not found"
 msgstr "ଲାଇବ୍ରେରି  \"%1\" ମିଳିଲା ନାହିଁ"
@@ -8382,37 +8382,37 @@ msgstr ""
 msgid "Timed out trying to connect to remote host"
 msgstr "ସୁଦୁର ହୋଷ୍ଟ ସହିତ ସଂଯୋଗ ସ୍ଥାପନ କରିବାକୁ ପ୍ରଚେଷ୍ଟା କରିବା ସମୟରେ ସମୟ ସମାପ୍ତ ହୋଇଗଲା"
 
-#: kdecore/netsupp.cpp:869
+#: kdecore/netsupp.cpp:866
 #, kde-format
 msgid "address family for nodename not supported"
 msgstr "ନୋଡ ନାମ ପାଇଁ ଠିକଣା ପରିବାର ସମର୍ଥିତ ନୁହଁ"
 
-#: kdecore/netsupp.cpp:871
+#: kdecore/netsupp.cpp:868
 #, kde-format
 msgid "invalid value for 'ai_flags'"
 msgstr "'ai_flags' ପାଇଁ ଅବୈଧ ମୂଲ୍ୟ"
 
-#: kdecore/netsupp.cpp:873
+#: kdecore/netsupp.cpp:870
 #, kde-format
 msgid "'ai_family' not supported"
 msgstr "'ai_family' ସମର୍ଥିତ ନୁହଁ"
 
-#: kdecore/netsupp.cpp:875
+#: kdecore/netsupp.cpp:872
 #, kde-format
 msgid "no address associated with nodename"
 msgstr "କୌଣସି ଠିକଣା ନୋଡ ନାମ ସହିତ ସଂଶ୍ଳିଷ୍ଟ ନାହିଁ"
 
-#: kdecore/netsupp.cpp:877
+#: kdecore/netsupp.cpp:874
 #, kde-format
 msgid "servname not supported for ai_socktype"
 msgstr "ai_socktype ପାଇଁ servname ସମର୍ଥିତ ନୁହଁ"
 
-#: kdecore/netsupp.cpp:878
+#: kdecore/netsupp.cpp:875
 #, kde-format
 msgid "'ai_socktype' not supported"
 msgstr "'ai_socktype' ସମର୍ଥିତ ନୁହଁ"
 
-#: kdecore/netsupp.cpp:879
+#: kdecore/netsupp.cpp:876
 #, kde-format
 msgid "system error"
 msgstr "ତନ୍ତ୍ର ତ୍ରୁଟି"
@@ -12336,7 +12336,7 @@ msgstr "ଅଞ୍ଚଳ"
 msgid "Comment"
 msgstr "ଟିପ୍ପଣୀ"
 
-#: kdeui/kapplication.cpp:743
+#: kdeui/kapplication.cpp:741
 #, kde-format
 msgid "The style '%1' was not found"
 msgstr "ଶୈଳୀ %1 ମିଳୁନାହିଁ"
@@ -12560,12 +12560,12 @@ msgstr "1"
 msgid "Select Font"
 msgstr "ଅକ୍ଷରରୂପ ଚୟନ କରନ୍ତୁ"
 
-#: kdeui/kprintpreview.cpp:119
+#: kdeui/kprintpreview.cpp:118
 #, kde-format
 msgid "Could not load print preview part"
 msgstr "ମୁଦ୍ରଣ ପ୍ରତିଛବି ଅଂଶକୁ ଧାରଣ କରିପାରିଲାନାହିଁ"
 
-#: kdeui/kprintpreview.cpp:136
+#: kdeui/kprintpreview.cpp:135
 #, kde-format
 msgid "Print Preview"
 msgstr "ପ୍ରାକ୍ ଦର୍ଶନକୁ ମୂଦ୍ରଣ କରନ୍ତୁ"
@@ -12640,7 +12640,7 @@ msgctxt "@title:window"
 msgid "Add Comment"
 msgstr ""
 
-#: kio/kdevicelistmodel.cpp:116
+#: kio/kdevicelistmodel.cpp:115
 #, kde-format
 msgid "Device name"
 msgstr ""

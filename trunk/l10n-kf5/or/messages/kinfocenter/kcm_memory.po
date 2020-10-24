@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcm_memory\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-31 03:37+0100\n"
+"POT-Creation-Date: 2020-10-24 02:29+0200\n"
 "PO-Revision-Date: 2009-01-02 11:46+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -30,7 +30,7 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
-#: chartWidget.cpp:56 chartWidget.cpp:57 memory.cpp:268
+#: chartWidget.cpp:56 chartWidget.cpp:57 memory.cpp:267
 #, kde-format
 msgid "Not available."
 msgstr ""
@@ -40,27 +40,27 @@ msgstr ""
 msgid "%1 free"
 msgstr ""
 
-#: memory.cpp:64
+#: memory.cpp:63
 #, kde-format
 msgid "kcm_memory"
 msgstr ""
 
-#: memory.cpp:65
+#: memory.cpp:64
 #, kde-format
 msgid "KDE Panel Memory Information Control Module"
 msgstr ""
 
-#: memory.cpp:67
+#: memory.cpp:66
 #, kde-format
 msgid "(c) 1998 - 2002 Helge Deller"
 msgstr ""
 
-#: memory.cpp:69
+#: memory.cpp:68
 #, kde-format
 msgid "Helge Deller"
 msgstr ""
 
-#: memory.cpp:101
+#: memory.cpp:100
 #, kde-format
 msgid ""
 "This display shows you the current memory usage of your system. The values "
@@ -68,79 +68,79 @@ msgid ""
 "virtual memory being used."
 msgstr ""
 
-#: memory.cpp:107
+#: memory.cpp:106
 #, kde-format
 msgid "Memory"
 msgstr ""
 
-#: memory.cpp:125
+#: memory.cpp:124
 #, kde-format
 msgid "Total physical memory:"
 msgstr ""
 
-#: memory.cpp:128
+#: memory.cpp:127
 #, kde-format
 msgid "Free physical memory:"
 msgstr ""
 
-#: memory.cpp:132
+#: memory.cpp:131
 #, kde-format
 msgid "Shared memory:"
 msgstr ""
 
-#: memory.cpp:135
+#: memory.cpp:134
 #, kde-format
 msgid "Disk buffers:"
 msgstr ""
 
-#: memory.cpp:139
+#: memory.cpp:138
 #, kde-format
 msgid "Active memory:"
 msgstr ""
 
-#: memory.cpp:142
+#: memory.cpp:141
 #, kde-format
 msgid "Inactive memory:"
 msgstr ""
 
-#: memory.cpp:146
+#: memory.cpp:145
 #, kde-format
 msgid "Disk cache:"
 msgstr ""
 
-#: memory.cpp:150
+#: memory.cpp:149
 #, kde-format
 msgid "Total swap memory:"
 msgstr ""
 
-#: memory.cpp:153
+#: memory.cpp:152
 #, kde-format
 msgid "Free swap memory:"
 msgstr ""
 
-#: memory.cpp:194
+#: memory.cpp:193
 #, kde-format
 msgid "Charts"
 msgstr ""
 
-#: memory.cpp:204
+#: memory.cpp:203
 #, kde-format
 msgid "Total Memory"
 msgstr ""
 
-#: memory.cpp:205
+#: memory.cpp:204
 #, kde-format
 msgid ""
 "This graph gives you an overview of the <b>total sum of physical and virtual "
 "memory</b> in your system."
 msgstr ""
 
-#: memory.cpp:214
+#: memory.cpp:213
 #, kde-format
 msgid "Physical Memory"
 msgstr ""
 
-#: memory.cpp:215
+#: memory.cpp:214
 #, kde-format
 msgid ""
 "This graph gives you an overview of the <b>usage of physical memory</b> in "
@@ -151,12 +151,12 @@ msgid ""
 "your system is well configured.</p>"
 msgstr ""
 
-#: memory.cpp:230
+#: memory.cpp:229
 #, kde-format
 msgid "Swap Space"
 msgstr ""
 
-#: memory.cpp:231
+#: memory.cpp:230
 #, kde-format
 msgid ""
 "<p>The swap space is the <b>virtual memory</b> available to the system.</p> "
@@ -164,7 +164,7 @@ msgid ""
 "partitions and/or swap files.</p>"
 msgstr ""
 
-#: memory.cpp:262
+#: memory.cpp:261
 #, kde-format
 msgid "1 byte ="
 msgid_plural "%1 bytes ="
