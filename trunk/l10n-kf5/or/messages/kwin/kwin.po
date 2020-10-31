@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-10-30 02:40+0100\n"
+"POT-Creation-Date: 2020-10-31 02:28+0100\n"
 "PO-Revision-Date: 2009-01-02 11:49+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1657,7 +1657,7 @@ msgstr ""
 msgid "Disable KActivities integration."
 msgstr ""
 
-#: plugins/scenes/opengl/scene_opengl.cpp:535
+#: plugins/scenes/opengl/scene_opengl.cpp:537
 #, kde-format
 msgid "Desktop effects were restarted due to a graphics reset"
 msgstr ""
@@ -2178,6 +2178,135 @@ msgstr ""
 msgid "Desktop file name rule type"
 msgstr ""
 
+#: runners/windowsrunnerinterface.cpp:50 runners/windowsrunnerinterface.cpp:52
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "activate"
+msgstr ""
+
+#: runners/windowsrunnerinterface.cpp:53 runners/windowsrunnerinterface.cpp:55
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "close"
+msgstr ""
+
+#: runners/windowsrunnerinterface.cpp:56 runners/windowsrunnerinterface.cpp:58
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "min"
+msgstr ""
+
+#: runners/windowsrunnerinterface.cpp:59 runners/windowsrunnerinterface.cpp:61
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "minimize"
+msgstr ""
+
+#: runners/windowsrunnerinterface.cpp:62 runners/windowsrunnerinterface.cpp:64
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "max"
+msgstr ""
+
+#: runners/windowsrunnerinterface.cpp:65 runners/windowsrunnerinterface.cpp:67
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "maximize"
+msgstr ""
+
+#: runners/windowsrunnerinterface.cpp:68 runners/windowsrunnerinterface.cpp:70
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "fullscreen"
+msgstr ""
+
+#: runners/windowsrunnerinterface.cpp:71 runners/windowsrunnerinterface.cpp:73
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "shade"
+msgstr ""
+
+#: runners/windowsrunnerinterface.cpp:74 runners/windowsrunnerinterface.cpp:76
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "keep above"
+msgstr ""
+
+#: runners/windowsrunnerinterface.cpp:77 runners/windowsrunnerinterface.cpp:79
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "keep below"
+msgstr ""
+
+#: runners/windowsrunnerinterface.cpp:84
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "window"
+msgstr ""
+
+#: runners/windowsrunnerinterface.cpp:94
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "name"
+msgstr ""
+
+#: runners/windowsrunnerinterface.cpp:96
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "appname"
+msgstr ""
+
+#: runners/windowsrunnerinterface.cpp:98 runners/windowsrunnerinterface.cpp:151
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "desktop"
+msgstr ""
+
+#: runners/windowsrunnerinterface.cpp:253
+#, kde-format
+msgid "Switch to desktop %1"
+msgstr ""
+
+#: runners/windowsrunnerinterface.cpp:280
+#, kde-format
+msgid "Close running window on %1"
+msgstr ""
+
+#: runners/windowsrunnerinterface.cpp:283
+#, kde-format
+msgid "(Un)minimize running window on %1"
+msgstr ""
+
+#: runners/windowsrunnerinterface.cpp:286
+#, kde-format
+msgid "Maximize/restore running window on %1"
+msgstr ""
+
+#: runners/windowsrunnerinterface.cpp:289
+#, kde-format
+msgid "Toggle fullscreen for running window on %1"
+msgstr ""
+
+#: runners/windowsrunnerinterface.cpp:292
+#, kde-format
+msgid "(Un)shade running window on %1"
+msgstr ""
+
+#: runners/windowsrunnerinterface.cpp:295
+#, kde-format
+msgid "Toggle keep above for running window on %1"
+msgstr ""
+
+#: runners/windowsrunnerinterface.cpp:298
+#, kde-format
+msgid "Toggle keep below running window on %1"
+msgstr ""
+
+#: runners/windowsrunnerinterface.cpp:302
+#, kde-format
+msgid "Activate running window on %1"
+msgstr ""
+
 #: scripting/genericscriptedconfig.cpp:70
 #, kde-format
 msgctxt "Error message"
@@ -2518,7 +2647,7 @@ msgstr ""
 msgid "Switch to Desktop %1"
 msgstr ""
 
-#: workspace.cpp:1363
+#: workspace.cpp:1369
 #, kde-format
 msgctxt "Introductory text shown in the support information."
 msgid ""

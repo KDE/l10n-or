@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-10-20 00:47+0000\n"
+"POT-Creation-Date: 2020-10-31 01:42+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -772,6 +772,19 @@ msgstr "CGI ସ୍କ୍ରିପ୍ଟଗୁଡ଼ିକ"
 msgctxt "Name"
 msgid "KWin Window Switcher"
 msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ"
+
+#: runners/kwin-runner-windows.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "MS Windows 9x"
+msgctxt "Name|plasma runner"
+msgid "Windows"
+msgstr "MS Windows 9x"
+
+#: runners/kwin-runner-windows.desktop:73
+msgctxt "Comment"
+msgid "List windows and desktops and switch them"
+msgstr ""
 
 #: scripting/kwinscript.desktop:5
 #, fuzzy
