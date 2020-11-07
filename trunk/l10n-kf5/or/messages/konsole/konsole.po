@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-11-05 02:43+0100\n"
+"POT-Creation-Date: 2020-11-07 02:42+0100\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1117,24 +1117,24 @@ msgid ""
 "the profile is going to be saved as \"%1\""
 msgstr ""
 
-#: profile/ProfileModel.cpp:52
+#: profile/ProfileModel.cpp:71
 #, kde-format
 msgctxt "@title:column Profile name"
 msgid "Name"
 msgstr ""
 
-#: profile/ProfileModel.cpp:53
+#: profile/ProfileModel.cpp:72
 #, kde-format
 msgctxt "@title:column Profile keyboard shortcut"
 msgid "Shortcut"
 msgstr ""
 
-#: profile/ProfileModel.cpp:76
+#: profile/ProfileModel.cpp:95
 #, kde-format
 msgid " (Default)"
 msgstr ""
 
-#: profile/ProfileModel.cpp:94
+#: profile/ProfileModel.cpp:113
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Double click to change shortcut"
