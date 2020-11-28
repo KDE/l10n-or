@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-11-26 01:53+0000\n"
+"POT-Creation-Date: 2020-11-28 01:48+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -36,6 +36,19 @@ msgstr "କାର୍ଯ୍ୟ ପରିଚାଳକ"
 msgctxt "Comment"
 msgid "Switch between running applications"
 msgstr "ଚାଲୁଥିବା ପ୍ରୟୋଗଗୁଡ଼ିକ ମଧ୍ଯରେ ଅଦଳ ବଦଳ କରନ୍ତୁ"
+
+#: applets/keyboardlayout/metadata.desktop:2
+msgctxt "Name"
+msgid "Keyboard Layout"
+msgstr "କିବୋର୍ଡ଼ ବିନ୍ୟାସ"
+
+#: applets/keyboardlayout/metadata.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Keyboard Layout"
+msgctxt "Comment"
+msgid "Show/switch keyboard layout"
+msgstr "କିବୋର୍ଡ଼ ବିନ୍ୟାସ"
 
 #: applets/kicker/package/metadata.desktop:2
 #, fuzzy
@@ -1773,10 +1786,6 @@ msgstr "ନେଟୱର୍କ ସାଧନ"
 #~ msgctxt "Comment"
 #~ msgid "Accessibility Improvements for Disabled Persons"
 #~ msgstr "ନିଷ୍କ୍ରିୟ ବ୍ୟକ୍ତିମାନଙ୍କ ପାଇଁ ଅଭିଗମ୍ୟତା ଉନ୍ନତ କରନ୍ତୁ"
-
-#~ msgctxt "Name"
-#~ msgid "Keyboard Layout"
-#~ msgstr "କିବୋର୍ଡ଼ ବିନ୍ୟାସ"
 
 #, fuzzy
 #~| msgctxt "GenericName"
