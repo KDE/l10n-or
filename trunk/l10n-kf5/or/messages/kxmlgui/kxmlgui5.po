@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-12-05 02:16+0100\n"
+"POT-Creation-Date: 2020-12-19 02:18+0100\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1038,29 +1038,29 @@ msgctxt "@action:inmenu"
 msgid "Import Scheme..."
 msgstr "ଯୋଜନା ପଠାନ୍ତୁ..."
 
-#: kshortcutschemeseditor.cpp:105
+#: kshortcutschemeseditor.cpp:100
 #, fuzzy, kde-format
 #| msgid "Name for New Scheme"
 msgctxt "@title:window"
 msgid "Name for New Scheme"
 msgstr "ନୂତନ ଯୋଜନା ପାଇଁ ନାମ"
 
-#: kshortcutschemeseditor.cpp:106
+#: kshortcutschemeseditor.cpp:101
 #, kde-format
 msgid "Name for new scheme:"
 msgstr "ନୂତନ ଯୋଜନା ପାଇଁ ନାମ:"
 
-#: kshortcutschemeseditor.cpp:106
+#: kshortcutschemeseditor.cpp:101
 #, kde-format
 msgid "New Scheme"
 msgstr "ନୂତନ ଯୋଜନା"
 
-#: kshortcutschemeseditor.cpp:112
+#: kshortcutschemeseditor.cpp:107
 #, kde-format
 msgid "A scheme with this name already exists."
 msgstr "ଏହି ନାମ ବିଶିଷ୍ଟ ଗୋଟିଏ ଯୋଜନା ପୂର୍ବରୁ ରହିଅଛି।"
 
-#: kshortcutschemeseditor.cpp:142
+#: kshortcutschemeseditor.cpp:137
 #, kde-format
 msgid ""
 "Do you really want to delete the scheme %1?\n"
@@ -1069,33 +1069,33 @@ msgstr ""
 "କଣ ଆପଣ ନିଶ୍ଚିତ ଭାବରେ ଯୋଜନା %1କୁ ଅପସାରଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?\n"
 "ମନେରଖନ୍ତୁ ଯେ ଏହା କୌଣସି ତନ୍ତ୍ରମୟ ସଂକ୍ଷିପ୍ତ ପଥ ଯୋଜନାଗୁଡ଼ିକୁ ଅପସାରଣ କରିବ ନାହିଁ।"
 
-#: kshortcutschemeseditor.cpp:173
+#: kshortcutschemeseditor.cpp:168
 #, fuzzy, kde-format
 #| msgid "Shortcuts"
 msgctxt "@title:window"
 msgid "Export Shortcuts"
 msgstr "ସଂକ୍ଷିପ୍ତ ପଥ"
 
-#: kshortcutschemeseditor.cpp:174 kshortcutschemeseditor.cpp:186
+#: kshortcutschemeseditor.cpp:169 kshortcutschemeseditor.cpp:181
 #, fuzzy, kde-format
 #| msgid "Shortcut Conflict(s)"
 msgid "Shortcuts (*.shortcuts)"
 msgstr "ସଂକ୍ଷିପ୍ତ ପଥ ଦ୍ୱନ୍ଦ(ଗୁଡ଼ିକ)"
 
-#: kshortcutschemeseditor.cpp:185
+#: kshortcutschemeseditor.cpp:180
 #, fuzzy, kde-format
 #| msgid "Shortcuts"
 msgctxt "@title:window"
 msgid "Import Shortcuts"
 msgstr "ସଂକ୍ଷିପ୍ତ ପଥ"
 
-#: kshortcutschemeseditor.cpp:197
+#: kshortcutschemeseditor.cpp:192
 #, fuzzy, kde-format
 #| msgid "The removal request was successfully registered."
 msgid "Shortcut scheme successfully saved."
 msgstr "ଅପସାରଣ ଅନୁରୋଧଟି ସଫଳତାର ସହିତ ପଞ୍ଜିକୃତ ହୋଇଗଲା।"
 
-#: kshortcutschemeseditor.cpp:200
+#: kshortcutschemeseditor.cpp:195
 #, kde-format
 msgid "Error saving the shortcut scheme."
 msgstr ""
