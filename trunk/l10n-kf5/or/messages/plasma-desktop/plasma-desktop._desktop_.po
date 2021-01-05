@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-12-21 02:03+0000\n"
+"POT-Creation-Date: 2021-01-05 01:52+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -32,7 +32,6 @@ msgid "Icons-only Task Manager"
 msgstr "କାର୍ଯ୍ୟ ପରିଚାଳକ"
 
 #: applets/icontasks/metadata.desktop:53
-#: applets/taskmanager/package/metadata.desktop:84
 msgctxt "Comment"
 msgid "Switch between running applications"
 msgstr "ଚାଲୁଥିବା ପ୍ରୟୋଗଗୁଡ଼ିକ ମଧ୍ଯରେ ଅଦଳ ବଦଳ କରନ୍ତୁ"
@@ -166,6 +165,14 @@ msgstr "ପ୍ଲାଜମା ଡ଼େସ୍କଟପ କାର୍ଯ୍ୟସ�
 msgctxt "Name"
 msgid "Task Manager"
 msgstr "କାର୍ଯ୍ୟ ପରିଚାଳକ"
+
+#: applets/taskmanager/package/metadata.desktop:84
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Switch between virtual desktops"
+msgctxt "Comment"
+msgid "Switch between tasks"
+msgstr "ଆଭାସୀ ଡ଼େସ୍କଟପଗୁଡ଼ିକ ମଧ୍ଯରେ ଅଦଳ ବଦଳ କରନ୍ତୁ"
 
 #: applets/trash/package/metadata.desktop:2
 msgctxt "Name"
