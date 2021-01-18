@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-15 02:32+0100\n"
+"POT-Creation-Date: 2021-01-18 02:27+0100\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -147,7 +147,7 @@ msgstr ""
 msgid "Error initializing provider."
 msgstr ""
 
-#: core/engine.cpp:372 core/engine.cpp:899
+#: core/engine.cpp:372 core/engine.cpp:903
 #, fuzzy, kde-format
 #| msgid "Loading Applet"
 msgid "Loading data"
@@ -176,19 +176,26 @@ msgid ""
 "original item, which was named %1"
 msgstr ""
 
-#: core/engine.cpp:849
+#: core/engine.cpp:772
+#, kde-format
+msgid ""
+"We failed to identify a good link for updating %1, and are unable to perform "
+"the update"
+msgstr ""
+
+#: core/engine.cpp:853
 #, kde-format
 msgid "Re: %1"
 msgstr "Re: %1"
 
-#: core/engine.cpp:891 ui/itemsgridviewdelegate.cpp:331
+#: core/engine.cpp:895 ui/itemsgridviewdelegate.cpp:331
 #: ui/itemsviewdelegate.cpp:122
 #, fuzzy, kde-format
 #| msgid "Install"
 msgid "Installing"
 msgstr "ସ୍ଥାପନ କରନ୍ତୁ"
 
-#: core/engine.cpp:895
+#: core/engine.cpp:899
 #, fuzzy, kde-format
 #| msgid "Loading Preview"
 msgid "Loading one preview"
@@ -196,7 +203,7 @@ msgid_plural "Loading %1 previews"
 msgstr[0] "ପ୍ରାକଦର୍ଶନ ଧାରଣ କରୁଅଛି"
 msgstr[1] "ପ୍ରାକଦର୍ଶନ ଧାରଣ କରୁଅଛି"
 
-#: core/engine.cpp:1081
+#: core/engine.cpp:1085
 #, fuzzy, kde-format
 #| msgid "Failed to load file '%1'"
 msgid ""
