@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-02-03 02:46+0100\n"
+"POT-Creation-Date: 2021-02-06 02:22+0100\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -509,7 +509,7 @@ msgstr "%1କୁ ସ୍ଥାପନ କରିପାରିଲା ନାହିଁ"
 msgid "Get Hot New Stuff!"
 msgstr "ନୂତନ ଉପାଦାନ ଗ୍ରହଣକରନ୍ତୁ!"
 
-#: downloadwidget.cpp:263 qtquick/qml/Page.qml:199
+#: downloadwidget.cpp:263
 #, kde-format
 msgid "Icons view mode"
 msgstr ""
@@ -541,7 +541,7 @@ msgstr "ପ୍ରଦାତା: %1"
 
 #. i18n: ectx: property (text), widget (QLabel, m_categoryLabel)
 #. i18n: ectx: property (text), widget (QLabel, mCategoryLabel)
-#: downloadwidget.ui:71 uploaddialog.ui:304
+#: downloadwidget.ui:71 qtquick/qml/Page.qml:347 uploaddialog.ui:304
 #, fuzzy, kde-format
 #| msgid "Character:"
 msgid "Category:"
@@ -563,14 +563,14 @@ msgid "Newest"
 msgstr "ନୂତନ"
 
 #. i18n: ectx: property (text), widget (QRadioButton, ratingRadio)
-#: downloadwidget.ui:110
+#: downloadwidget.ui:110 qtquick/qml/Page.qml:274
 #, fuzzy, kde-format
 #| msgid "Rating: "
 msgid "Rating"
 msgstr "ଆକଳନ: "
 
 #. i18n: ectx: property (text), widget (QRadioButton, installedRadio)
-#: downloadwidget.ui:117
+#: downloadwidget.ui:117 qtquick/qml/Page.qml:223
 #, fuzzy, kde-format
 #| msgid "Install"
 msgid "Installed"
@@ -591,7 +591,7 @@ msgid "Search:"
 msgstr "ଖୋଜନ୍ତୁ (&e):"
 
 #. i18n: ectx: property (placeholderText), widget (KLineEdit, m_searchEdit)
-#: downloadwidget.ui:217 qtquick/qml/Page.qml:213
+#: downloadwidget.ui:217 qtquick/qml/Page.qml:327 qtquick/qml/Page.qml:332
 #, fuzzy, kde-format
 #| msgid "&Search"
 msgid "Search..."
@@ -981,7 +981,7 @@ msgctxt "List option which will set the filter to show everything"
 msgid "Show Everything"
 msgstr ""
 
-#: qtquick/qml/NewStuffList.qml:69 qtquick/qml/Page.qml:253
+#: qtquick/qml/NewStuffList.qml:69
 #, fuzzy, kde-format
 #| msgid "Install"
 msgctxt ""
@@ -989,7 +989,7 @@ msgctxt ""
 msgid "Installed Only"
 msgstr "ସ୍ଥାପନ କରନ୍ତୁ"
 
-#: qtquick/qml/NewStuffList.qml:70 qtquick/qml/Page.qml:254
+#: qtquick/qml/NewStuffList.qml:70
 #, kde-format
 msgctxt ""
 "List option which will set the filter so only installed items with updates "
@@ -1039,62 +1039,123 @@ msgid ""
 "not be found."
 msgstr ""
 
-#: qtquick/qml/Page.qml:190
+#: qtquick/qml/Page.qml:176
+#, fuzzy, kde-format
+#| msgid "File"
+msgid "Tiles"
+msgstr "ଫାଇଲ"
+
+#: qtquick/qml/Page.qml:178
 #, kde-format
-msgid "Tiles view mode"
+msgid "Icons"
+msgstr "ଚିତ୍ରସଂକେତ"
+
+#: qtquick/qml/Page.qml:180
+#, fuzzy, kde-format
+#| msgid "No Preview"
+msgid "Preview"
+msgstr "ପ୍ରାକଦର୍ଶନ ନାହିଁ"
+
+#: qtquick/qml/Page.qml:195
+#, kde-format
+msgid "Detailed Tiles View Mode"
 msgstr ""
 
-#: qtquick/qml/Page.qml:208
+#: qtquick/qml/Page.qml:203
+#, fuzzy, kde-format
+#| msgid "Icons Only"
+msgid "Icons Only View Mode"
+msgstr "କେବଳ ଚିତ୍ରସଙ୍କେତ"
+
+#: qtquick/qml/Page.qml:211
 #, fuzzy, kde-format
 #| msgid "Preview URL:"
-msgid "Preview view mode"
+msgid "Large Preview View Mode"
 msgstr "ପ୍ରାକଦର୍ଶନ URL:"
 
-#: qtquick/qml/Page.qml:234
-#, fuzzy, kde-format
-#| msgid "Show %1"
-msgid "Show:"
-msgstr "ଦର୍ଶାନ୍ତୁ %1"
-
-#: qtquick/qml/Page.qml:252
+#: qtquick/qml/Page.qml:221
 #, kde-format
-msgctxt "List option which will set the filter to show everything"
 msgid "Everything"
 msgstr ""
 
-#: qtquick/qml/Page.qml:266
+#: qtquick/qml/Page.qml:225
+#, fuzzy, kde-format
+#| msgid "Update"
+msgid "Updateable"
+msgstr "ଅଦ୍ୟତନ"
+
+#: qtquick/qml/Page.qml:244
+#, fuzzy, kde-format
+#| msgid "Pages"
+msgctxt "List option which will set the filter to show everything"
+msgid "Show All Entries"
+msgstr "ପୃଷ୍ଠାଗୁଡିକ"
+
+#: qtquick/qml/Page.qml:252
+#, kde-format
+msgctxt ""
+"List option which will set the filter so only installed items are shown"
+msgid "Show Only Installed Entries"
+msgstr ""
+
+#: qtquick/qml/Page.qml:260
+#, kde-format
+msgctxt ""
+"List option which will set the filter so only installed items with updates "
+"available are shown"
+msgid "Show Only Updateable Entries"
+msgstr ""
+
+#: qtquick/qml/Page.qml:270
+#, fuzzy, kde-format
+#| msgid "Open &Recent"
+msgid "Recent"
+msgstr "ସାମ୍ପ୍ରତିକକୁ ଖୋଲନ୍ତୁ (&R)"
+
+#: qtquick/qml/Page.qml:272
+#, kde-format
+msgid "Alphabetical"
+msgstr ""
+
+#: qtquick/qml/Page.qml:276
+#, fuzzy, kde-format
+#| msgid "Download"
+msgid "Downloads"
+msgstr "ଆହରଣ"
+
+#: qtquick/qml/Page.qml:295
 #, fuzzy, kde-format
 #| msgid "Show directories first"
 msgctxt ""
 "List option which will set the sort order to based on when items were most "
 "recently updated"
-msgid "Most recent first"
+msgid "Show Most Recent First"
 msgstr "ଡିରେକ୍ଟରିଗୁଡିକୁ ପ୍ରଥମେ ଦର୍ଶାନ୍ତୁ"
 
-#: qtquick/qml/Page.qml:267
+#: qtquick/qml/Page.qml:303
 #, kde-format
 msgctxt ""
 "List option which will set the sort order to be alphabetical based on the "
 "name"
-msgid "A-Z"
+msgid "Sort Alphabetically By Name"
 msgstr ""
 
-#: qtquick/qml/Page.qml:268
+#: qtquick/qml/Page.qml:311
 #, fuzzy, kde-format
 #| msgid "Show directories first"
 msgctxt "List option which will set the sort order to based on user ratings"
-msgid "Highest rated first"
+msgid "Show Highest Rated First"
 msgstr "ଡିରେକ୍ଟରିଗୁଡିକୁ ପ୍ରଥମେ ଦର୍ଶାନ୍ତୁ"
 
-#: qtquick/qml/Page.qml:269
+#: qtquick/qml/Page.qml:319
 #, fuzzy, kde-format
 #| msgid "Most Downloads"
 msgctxt ""
 "List option which will set the sort order to based on number of downloads"
-msgid "Most downloaded first"
+msgid "Show Most Downloaded First"
 msgstr "ଅଧିକାଂଶ ଆହରଣଗୁଡିକ"
 
-#: qtquick/qml/Page.qml:344
+#: qtquick/qml/Page.qml:426
 #, fuzzy, kde-format
 #| msgid "Loading Preview"
 msgctxt ""
@@ -1102,7 +1163,7 @@ msgctxt ""
 msgid "Loading more..."
 msgstr "ପ୍ରାକଦର୍ଶନ ଧାରଣ କରୁଅଛି"
 
-#: qtquick/qml/Page.qml:355
+#: qtquick/qml/Page.qml:437
 #, kde-format
 msgctxt ""
 "A message shown when there are no entries in the list, and when it is not "
@@ -1721,6 +1782,32 @@ msgid "Start Upload"
 msgstr "ବଦଳାଇବା ଆରମ୍ଭ କରନ୍ତୁ"
 
 #, fuzzy
+#~| msgid "Show %1"
+#~ msgid "Show:"
+#~ msgstr "ଦର୍ଶାନ୍ତୁ %1"
+
+#, fuzzy
+#~| msgid "Show directories first"
+#~ msgctxt ""
+#~ "List option which will set the sort order to based on when items were "
+#~ "most recently updated"
+#~ msgid "Most recent first"
+#~ msgstr "ଡିରେକ୍ଟରିଗୁଡିକୁ ପ୍ରଥମେ ଦର୍ଶାନ୍ତୁ"
+
+#, fuzzy
+#~| msgid "Show directories first"
+#~ msgctxt "List option which will set the sort order to based on user ratings"
+#~ msgid "Highest rated first"
+#~ msgstr "ଡିରେକ୍ଟରିଗୁଡିକୁ ପ୍ରଥମେ ଦର୍ଶାନ୍ତୁ"
+
+#, fuzzy
+#~| msgid "Most Downloads"
+#~ msgctxt ""
+#~ "List option which will set the sort order to based on number of downloads"
+#~ msgid "Most downloaded first"
+#~ msgstr "ଅଧିକାଂଶ ଆହରଣଗୁଡିକ"
+
+#, fuzzy
 #~| msgid "Rating: "
 #~ msgid "Using %1"
 #~ msgstr "ଆକଳନ: "
@@ -1730,13 +1817,6 @@ msgstr "ବଦଳାଇବା ଆରମ୍ଭ କରନ୍ତୁ"
 #~ msgctxt "Show a page with details for this item"
 #~ msgid "Details..."
 #~ msgstr "ବିସ୍ତ୍ରୁତ ବିବରଣୀ"
-
-#, fuzzy
-#~| msgid "Pages"
-#~ msgctxt ""
-#~ "The first entry in the category selection list (also the default value)"
-#~ msgid "Show All Categories"
-#~ msgstr "ପୃଷ୍ଠାଗୁଡିକ"
 
 #~ msgid "Enter search phrase here"
 #~ msgstr "ଏଠାରେ ସନ୍ଧାନ ବାକ୍ୟାଂଶ ଭରଣ କରନ୍ତୁ"
@@ -2448,9 +2528,6 @@ msgstr "ବଦଳାଇବା ଆରମ୍ଭ କରନ୍ତୁ"
 
 #~ msgid "HTML documentation"
 #~ msgstr "HTML ଦଲିଲିକରଣ"
-
-#~ msgid "Icons"
-#~ msgstr "ଚିତ୍ରସଂକେତ"
 
 #~ msgid "Configuration description files"
 #~ msgstr "ବିନ୍ୟାସ ବର୍ଣ୍ଣିତ ଫାଇଲଗୁଡିକ"
@@ -4089,9 +4166,6 @@ msgstr "ବଦଳାଇବା ଆରମ୍ଭ କରନ୍ତୁ"
 
 #~ msgid "&Open..."
 #~ msgstr "ଖୋଲନ୍ତୁ (&O)..."
-
-#~ msgid "Open &Recent"
-#~ msgstr "ସାମ୍ପ୍ରତିକକୁ ଖୋଲନ୍ତୁ (&R)"
 
 #~ msgid "&Save"
 #~ msgstr "ସଂରକ୍ଷଣ କରନ୍ତୁ (&S)"
@@ -7616,9 +7690,6 @@ msgstr "ବଦଳାଇବା ଆରମ୍ଭ କରନ୍ତୁ"
 #~ msgid "Text Position"
 #~ msgstr "ପାଠ୍ୟ ଅବସ୍ଥାନ"
 
-#~ msgid "Icons Only"
-#~ msgstr "କେବଳ ଚିତ୍ରସଙ୍କେତ"
-
 #~ msgid "Text Only"
 #~ msgstr "କେବଳ ପାଠ୍ଯ"
 
@@ -7884,9 +7955,6 @@ msgstr "ବଦଳାଇବା ଆରମ୍ଭ କରନ୍ତୁ"
 
 #~ msgid "Missing Plugin"
 #~ msgstr "ଅନୁପସ୍ଥିତ ପ୍ଲଗଇନ"
-
-#~ msgid "Download"
-#~ msgstr "ଆହରଣ"
 
 #~ msgid "Do Not Download"
 #~ msgstr "ଆହରଣ କରନ୍ତୁ ନାହିଁ"
@@ -9825,12 +9893,6 @@ msgstr "ବଦଳାଇବା ଆରମ୍ଭ କରନ୍ତୁ"
 #~ msgstr "କାର୍ଯ୍ୟ"
 
 #, fuzzy
-#~| msgid "File"
-#~ msgctxt "@option:check Do filter on type - show only files"
-#~ msgid "Files"
-#~ msgstr "ଫାଇଲ"
-
-#, fuzzy
 #~| msgctxt "@item Text character set"
 #~| msgid "Other"
 #~ msgctxt "@option:check Do filter on type - show everything but files"
@@ -10076,11 +10138,6 @@ msgstr "ବଦଳାଇବା ଆରମ୍ଭ କରନ୍ତୁ"
 #~| msgid "Comment"
 #~ msgid "Community"
 #~ msgstr "ଟିପ୍ପଣୀ"
-
-#, fuzzy
-#~| msgid "No Preview"
-#~ msgid "Preview"
-#~ msgstr "ପ୍ରାକଦର୍ଶନ ନାହିଁ"
 
 #, fuzzy
 #~| msgid "BSD"
