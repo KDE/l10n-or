@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-02-07 03:08+0100\n"
+"POT-Creation-Date: 2021-02-09 03:18+0100\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1151,6 +1151,7 @@ msgstr ""
 
 #: profile/ProfileModel.cpp:82
 #, kde-format
+msgctxt "@label:textbox Name of the current default profile"
 msgid " (Default)"
 msgstr ""
 
@@ -3843,6 +3844,7 @@ msgstr ""
 
 #: widgets/RenameTabWidget.cpp:37
 #, kde-format
+msgctxt "@label:listbox No color selected"
 msgid "None"
 msgstr ""
 
