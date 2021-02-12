@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-02-06 08:44+0000\n"
+"POT-Creation-Date: 2021-02-12 10:01+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -113,7 +113,7 @@ msgctxt "Name"
 msgid "Minimize all Windows"
 msgstr ""
 
-#: applets/minimizeall/package/metadata.desktop:40
+#: applets/minimizeall/package/metadata.desktop:41
 msgctxt "Comment"
 msgid "Shows the desktop by minimizing all windows"
 msgstr ""
@@ -153,7 +153,7 @@ msgctxt "Name"
 msgid "Show Desktop"
 msgstr "ଡ଼େସ୍କଟପ"
 
-#: applets/showdesktop/package/metadata.desktop:40
+#: applets/showdesktop/package/metadata.desktop:41
 msgctxt "Comment"
 msgid "Shows the desktop by moving windows aside"
 msgstr ""
@@ -433,7 +433,7 @@ msgctxt "Name"
 msgid "Search"
 msgstr "ଅଂଶ ଖୋଜନ୍ତୁ"
 
-#: kcms/baloo/package/metadata.desktop:38
+#: kcms/baloo/package/metadata.desktop:39
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure the spell checker"
@@ -549,7 +549,7 @@ msgctxt "Comment"
 msgid "Calibrate Game Controller"
 msgstr "ତାରିଖ ଏବଂ ସମୟ"
 
-#: kcms/hardware/joystick/joystick.desktop:50
+#: kcms/hardware/joystick/joystick.desktop:51
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Date and Time"
@@ -557,7 +557,7 @@ msgctxt "Name"
 msgid "Game Controller"
 msgstr "ତାରିଖ ଏବଂ ସମୟ"
 
-#: kcms/hardware/joystick/joystick.desktop:87
+#: kcms/hardware/joystick/joystick.desktop:89
 msgctxt "X-KDE-Keywords"
 msgid "joystick,gamepad,controller"
 msgstr ""
@@ -595,7 +595,7 @@ msgctxt "Comment"
 msgid "Configure background services"
 msgstr "ତାରିଖ ଏବଂ ସମୟ ସଂରଚନା"
 
-#: kcms/kded/kcmkded.desktop:97
+#: kcms/kded/kcmkded.desktop:98
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Dolphin View"
@@ -646,7 +646,7 @@ msgctxt "Name"
 msgid "Shortcuts"
 msgstr "ଜାଗତିକ କିବୋର୍ଡ଼ ସଂକ୍ଷିପ୍ତ ପଥ"
 
-#: kcms/keys/kcm_keys.desktop:47 kcms/keys/package/metadata.desktop:36
+#: kcms/keys/kcm_keys.desktop:48 kcms/keys/package/metadata.desktop:37
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Global Keyboard Shortcuts"
@@ -654,7 +654,7 @@ msgctxt "Comment"
 msgid "Configure Keyboard Shortcuts"
 msgstr "ଜାଗତିକ କିବୋର୍ଡ଼ ସଂକ୍ଷିପ୍ତ ପଥ"
 
-#: kcms/keys/kcm_keys.desktop:80
+#: kcms/keys/kcm_keys.desktop:82
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Keys,Global key bindings,Key scheme,Key bindings,shortcuts,application "
@@ -694,7 +694,7 @@ msgctxt "Comment"
 msgid "Choose splash screen theme"
 msgstr "ବ୍ୟକ୍ତିଗତ ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବସ୍ତୁଗୁଡ଼ିକୁ ଇଚ୍ଛାରୂପଣ କରୁଅଛି"
 
-#: kcms/ksplash/kcm_splashscreen.desktop:103
+#: kcms/ksplash/kcm_splashscreen.desktop:104
 msgctxt "X-KDE-Keywords"
 msgid "splash screen,splash theme,startup"
 msgstr ""
@@ -742,13 +742,13 @@ msgctxt "Name"
 msgid "Night Color"
 msgstr ""
 
-#: kcms/nightcolor/kcm_nightcolor.desktop:58
-#: kcms/nightcolor/package/metadata.desktop:45
+#: kcms/nightcolor/kcm_nightcolor.desktop:59
+#: kcms/nightcolor/package/metadata.desktop:46
 msgctxt "Comment"
 msgid "Adjust color temperature at night to reduce eye strain"
 msgstr ""
 
-#: kcms/nightcolor/kcm_nightcolor.desktop:102
+#: kcms/nightcolor/kcm_nightcolor.desktop:104
 msgctxt "X-KDE-Keywords"
 msgid "kwin,window,manager,night,colors,redshift,eyes"
 msgstr ""
@@ -781,7 +781,7 @@ msgctxt "Name"
 msgid "KRunner"
 msgstr ""
 
-#: kcms/runners/kcm_plasmasearch.desktop:50
+#: kcms/runners/kcm_plasmasearch.desktop:51
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure the spell checker"
@@ -789,7 +789,7 @@ msgctxt "Comment"
 msgid "Configure Search Bar"
 msgstr "ବନାନ ଯାଞ୍ଚକାରୀକୁ ସଂରଚନା କରନ୍ତୁ"
 
-#: kcms/runners/kcm_plasmasearch.desktop:93
+#: kcms/runners/kcm_plasmasearch.desktop:94
 msgctxt "X-KDE-Keywords"
 msgid "Search, File, Baloo, Runner, krunner"
 msgstr ""
@@ -1180,7 +1180,7 @@ msgctxt "Name"
 msgid "Users"
 msgstr ""
 
-#: kcms/users/kcm_users.desktop:43
+#: kcms/users/kcm_users.desktop:44
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Date and time settings"
@@ -1188,7 +1188,7 @@ msgctxt "Comment"
 msgid "Manage user accounts"
 msgstr "ତାରିଖ ଏବଂ ସମୟ ସଂରଚନା"
 
-#: kcms/users/kcm_users.desktop:76
+#: kcms/users/kcm_users.desktop:78
 msgctxt "X-KDE-Keywords"
 msgid "user,account"
 msgstr ""
@@ -1198,7 +1198,7 @@ msgctxt "Name"
 msgid "User Accounts"
 msgstr ""
 
-#: kcms/users/package/metadata.desktop:35
+#: kcms/users/package/metadata.desktop:36
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Panama"
@@ -1212,8 +1212,8 @@ msgctxt "Name"
 msgid "General Behavior"
 msgstr ""
 
-#: kcms/workspaceoptions/kcm_workspace.desktop:48
-#: kcms/workspaceoptions/package/metadata.desktop:40
+#: kcms/workspaceoptions/kcm_workspace.desktop:49
+#: kcms/workspaceoptions/package/metadata.desktop:41
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure the spell checker"
@@ -1221,7 +1221,7 @@ msgctxt "Comment"
 msgid "Configure general workspace behavior"
 msgstr "ବନାନ ଯାଞ୍ଚକାରୀକୁ ସଂରଚନା କରନ୍ତୁ"
 
-#: kcms/workspaceoptions/kcm_workspace.desktop:85
+#: kcms/workspaceoptions/kcm_workspace.desktop:87
 msgctxt "X-KDE-Keywords"
 msgid ""
 "plasma,workspace,shell,formfactor,dashboard,tooltips,informational tips,"
