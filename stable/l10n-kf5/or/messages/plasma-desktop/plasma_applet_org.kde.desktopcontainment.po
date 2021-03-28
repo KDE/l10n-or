@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_folderview\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-22 11:57+0100\n"
+"POT-Creation-Date: 2021-03-28 13:55+0000\n"
 "PO-Revision-Date: 2009-01-02 11:50+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -157,6 +157,11 @@ msgid "Sorting:"
 msgstr ""
 
 #: package/contents/ui/ConfigIcons.qml:185
+#, kde-format
+msgid "Manual"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:185
 #: plugins/folder/viewpropertiesmenu.cpp:39
 #, kde-format
 msgid "Name"
@@ -178,11 +183,6 @@ msgstr ""
 #: plugins/folder/viewpropertiesmenu.cpp:51
 #, kde-format
 msgid "Date"
-msgstr ""
-
-#: package/contents/ui/ConfigIcons.qml:185
-#, kde-format
-msgid "Manual"
 msgstr ""
 
 #: package/contents/ui/ConfigIcons.qml:196
