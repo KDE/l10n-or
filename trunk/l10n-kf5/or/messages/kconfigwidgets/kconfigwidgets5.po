@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-02-28 02:21+0100\n"
+"POT-Creation-Date: 2021-03-31 00:15+0000\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -75,6 +75,32 @@ msgstr "ସଂକ୍ଷିପ୍ତ ପଥ ଯୋଜନାଗୁଡ଼ିକ"
 msgctxt "@title:window"
 msgid "Configure"
 msgstr "ବିନ୍ଯାସ କରନ୍ତୁ"
+
+#: khamburgermenu.cpp:126
+#, fuzzy, kde-format
+#| msgctxt "keyboard-key-name"
+#| msgid "Menu"
+msgctxt "@action:inmenu General purpose menu"
+msgid "&Menu"
+msgstr "ତାଲିକା"
+
+#: khamburgermenu.cpp:337
+#, fuzzy, kde-format
+#| msgid "Shortcut(s) '%1' for action '%2'\n"
+msgctxt "@action:inmenu A menu text advertising its contents (more features)."
+msgid "For %1 more action:"
+msgid_plural "For %1 more actions:"
+msgstr[0] "ସଂକ୍ଷିପ୍ତ ପଥ(ଗୁଡ଼ିକ) %1 କାର୍ଯ୍ୟ '%2' ପାଇଁ\n"
+msgstr[1] "ସଂକ୍ଷିପ୍ତ ପଥ(ଗୁଡ଼ିକ) %1 କାର୍ଯ୍ୟ '%2' ପାଇଁ\n"
+
+#: khamburgermenu.cpp:340
+#, kde-format
+msgctxt ""
+"@action:inmenu A section heading advertising the contents of the menu bar"
+msgid "%1 Menu Bar Exclusive Action"
+msgid_plural "%1 Menu Bar Exclusive Actions"
+msgstr[0] ""
+msgstr[1] ""
 
 #: krecentfilesaction.cpp:68
 #, fuzzy, kde-format
@@ -649,6 +675,12 @@ msgstr ""
 #, kde-format
 msgid "&Donate"
 msgstr ""
+
+#: kstandardaction_p.h:114
+#, fuzzy, kde-format
+#| msgid "Open &Recent"
+msgid "Open &Menu"
+msgstr "ସାମ୍ପ୍ରତିକକୁ ଖୋଲନ୍ତୁ (&R)"
 
 #: ktipdialog.cpp:217
 #, fuzzy, kde-format
@@ -2498,10 +2530,6 @@ msgstr "ପରବର୍ତ୍ତୀ (&N)"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "Left"
 #~ msgstr "ବାମ"
-
-#~ msgctxt "keyboard-key-name"
-#~ msgid "Menu"
-#~ msgstr "ତାଲିକା"
 
 #~ msgctxt "keyboard-key-name"
 #~ msgid "Meta"
@@ -5998,11 +6026,6 @@ msgstr "ପରବର୍ତ୍ତୀ (&N)"
 #~ msgid_plural "Shortcut Conflicts"
 #~ msgstr[0] "ସଂକ୍ଷିପ୍ତ ପଥ ଦ୍ୱନ୍ଦ"
 #~ msgstr[1] "ସଂକ୍ଷିପ୍ତ ପଥ ଦ୍ୱନ୍ଦ"
-
-#, fuzzy
-#~| msgid "Shortcut(s) '%1' for action '%2'\n"
-#~ msgid "Shortcut '%1' for action '%2'\n"
-#~ msgstr "ସଂକ୍ଷିପ୍ତ ପଥ(ଗୁଡ଼ିକ) %1 କାର୍ଯ୍ୟ '%2' ପାଇଁ\n"
 
 #~ msgid "Shortcut conflict"
 #~ msgstr "ସଂକ୍ଷିପ୍ତ ପଥ ଦ୍ୱନ୍ଦ"
