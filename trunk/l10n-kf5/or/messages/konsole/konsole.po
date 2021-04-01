@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-03-28 16:14+0000\n"
+"POT-Creation-Date: 2021-04-01 00:20+0000\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1339,7 +1339,7 @@ msgstr ""
 
 #: session/Session.cpp:121
 #, kde-format
-msgid "Bell in session '%1'"
+msgid "Bell in '%1' (Session '%2')"
 msgstr ""
 
 #: session/Session.cpp:406
@@ -1372,7 +1372,7 @@ msgstr ""
 
 #: session/Session.cpp:658
 #, kde-format
-msgid "Silence in session '%1'"
+msgid "Silence in '%1' (Session '%2')"
 msgstr ""
 
 #: session/Session.cpp:929
@@ -1407,7 +1407,7 @@ msgstr ""
 
 #: session/Session.cpp:1744
 #, kde-format
-msgid "Activity in session '%1'"
+msgid "Activity in '%1' (Session '%2')"
 msgstr ""
 
 #: session/SessionController.cpp:134
