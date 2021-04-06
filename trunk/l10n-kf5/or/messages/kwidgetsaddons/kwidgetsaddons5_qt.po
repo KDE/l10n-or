@@ -2994,26 +2994,12 @@ msgctxt "KStandardGuiItem|"
 msgid "&Yes"
 msgstr "ହଁ (&Y)"
 
-#: kstandardguiitem.cpp:170
-#, fuzzy
-#| msgid "Yes"
-msgctxt "KStandardGuiItem|"
-msgid "Yes"
-msgstr "ହଁ"
-
 #: kstandardguiitem.cpp:175
 #, fuzzy
 #| msgid "&No"
 msgctxt "KStandardGuiItem|"
 msgid "&No"
 msgstr "ନାଁ(&N)"
-
-#: kstandardguiitem.cpp:175
-#, fuzzy
-#| msgid "No"
-msgctxt "KStandardGuiItem|"
-msgid "No"
-msgstr "ନାଁ"
 
 #: kstandardguiitem.cpp:180
 #, fuzzy
@@ -3442,6 +3428,18 @@ msgstr "ସମ୍ପୁର୍ଣ୍ଣ ପରଦା ପ୍ରଦର୍ଶନ"
 msgctxt "KToggleFullScreenAction|@info:tooltip"
 msgid "Display the window in full screen"
 msgstr ""
+
+#, fuzzy
+#~| msgid "Yes"
+#~ msgctxt "KStandardGuiItem|"
+#~ msgid "Yes"
+#~ msgstr "ହଁ"
+
+#, fuzzy
+#~| msgid "No"
+#~ msgctxt "KStandardGuiItem|"
+#~ msgid "No"
+#~ msgstr "ନାଁ"
 
 #, fuzzy
 #~| msgid "&Back"
