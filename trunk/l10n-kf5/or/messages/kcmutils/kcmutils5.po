@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-07 00:16+0000\n"
+"POT-Creation-Date: 2021-04-24 00:15+0000\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -478,15 +478,13 @@ msgstr "ଖୋଜନ୍ତୁ (&S)"
 msgid "About"
 msgstr "ବିଷୟରେ (&A)"
 
-#: ksettings/componentsdialog.cpp:44
-#, kde-format
-msgid "Select Components"
-msgstr "ଯନ୍ତ୍ରାଂଶଗୁଡିକୁ ଚୟନ କରନ୍ତୁ"
-
 #: ksettings/dialog.cpp:216
 #, kde-format
 msgid "Enable component"
 msgstr "ଉପାଦାନକୁ ସକ୍ରିୟ କରନ୍ତୁ"
+
+#~ msgid "Select Components"
+#~ msgstr "ଯନ୍ତ୍ରାଂଶଗୁଡିକୁ ଚୟନ କରନ୍ତୁ"
 
 #, fuzzy
 #~| msgid "About %1"
