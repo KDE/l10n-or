@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-07 00:27+0000\n"
+"POT-Creation-Date: 2021-05-08 00:26+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -100,24 +100,6 @@ msgstr "ଆବର୍ଜନା ପାତ୍ର ସଂରଚନାକୁ ବିନ
 msgctxt "X-KDE-Keywords"
 msgid "trash"
 msgstr "ଆବର୍ଜନା ପାତ୍ର"
-
-#: src/kcms/kio/cache.desktop:14
-msgctxt "Name"
-msgid "Cache"
-msgstr "କ୍ୟାଶେ"
-
-#: src/kcms/kio/cache.desktop:103
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Configure trash settings"
-msgctxt "Comment"
-msgid "Configure web cache settings"
-msgstr "ଆବର୍ଜନା ପାତ୍ର ସଂରଚନାକୁ ବିନ୍ୟାସ କରନ୍ତୁ "
-
-#: src/kcms/kio/cache.desktop:151
-msgctxt "X-KDE-Keywords"
-msgid "Cache,History,Browsing History,Ports,Size"
-msgstr ""
 
 #: src/kcms/kio/cookies.desktop:14
 #, fuzzy
@@ -2075,6 +2057,17 @@ msgstr ""
 msgctxt "Name"
 msgid "Enhanced Browsing Plugin"
 msgstr "Tabbed ବ୍ରାଉଜିଙ୍ଗ"
+
+#~ msgctxt "Name"
+#~ msgid "Cache"
+#~ msgstr "କ୍ୟାଶେ"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure trash settings"
+#~ msgctxt "Comment"
+#~ msgid "Configure web cache settings"
+#~ msgstr "ଆବର୍ଜନା ପାତ୍ର ସଂରଚନାକୁ ବିନ୍ୟାସ କରନ୍ତୁ "
 
 #~ msgctxt "Comment"
 #~ msgid "UserAgent Strings"
