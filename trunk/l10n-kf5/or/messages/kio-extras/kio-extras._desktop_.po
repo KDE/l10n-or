@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-17 00:34+0000\n"
+"POT-Creation-Date: 2021-05-30 00:26+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -33,11 +33,6 @@ msgctxt "Comment"
 msgid "Allows automatic updates of Search Folders"
 msgstr ""
 
-#: fish/fish.protocol:16
-msgctxt "Description"
-msgid "A kioslave for the FISH protocol"
-msgstr "FISH ପ୍ରୋଟୋକଲ ପାଇଁ ଗୋଟିଏ kioslave"
-
 #: mtp/mtp-network.desktop:3
 #, fuzzy
 #| msgctxt "Name"
@@ -59,14 +54,6 @@ msgstr "ଡ଼ଲଫିନ ସହିତ ଖୋଲନ୍ତୁ"
 msgctxt "Name"
 msgid "Network"
 msgstr "ନେଟୱର୍କ"
-
-#: network/ioslave/network.protocol:10
-#, fuzzy
-#| msgctxt "Description"
-#| msgid "A kioslave for the FISH protocol"
-msgctxt "Description"
-msgid "A kioslave to browse the network"
-msgstr "FISH ପ୍ରୋଟୋକଲ ପାଇଁ ଗୋଟିଏ kioslave"
 
 #: network/kded/networkwatcher.desktop:8
 #, fuzzy
@@ -98,11 +85,6 @@ msgstr "ପ୍ରଚଳିତ ଦଲିଲଗୁଡ଼ିକ"
 msgctxt "Comment"
 msgid "Monitors \"Recent Documents\" folder for changes"
 msgstr "ପ୍ରଚଳିତ ଦଲିଲଗୁଡ଼ିକ"
-
-#: sftp/sftp.protocol:20
-msgctxt "Description"
-msgid "A kioslave for sftp"
-msgstr "sftp ପାଇଁ kioslave"
 
 #: smb/kded/kded_smbwatcher.desktop:18
 #, fuzzy
@@ -244,6 +226,21 @@ msgstr ""
 msgctxt "Name"
 msgid "Microsoft Windows Images"
 msgstr ""
+
+#~ msgctxt "Description"
+#~ msgid "A kioslave for the FISH protocol"
+#~ msgstr "FISH ପ୍ରୋଟୋକଲ ପାଇଁ ଗୋଟିଏ kioslave"
+
+#, fuzzy
+#~| msgctxt "Description"
+#~| msgid "A kioslave for the FISH protocol"
+#~ msgctxt "Description"
+#~ msgid "A kioslave to browse the network"
+#~ msgstr "FISH ପ୍ରୋଟୋକଲ ପାଇଁ ଗୋଟିଏ kioslave"
+
+#~ msgctxt "Description"
+#~ msgid "A kioslave for sftp"
+#~ msgstr "sftp ପାଇଁ kioslave"
 
 #~ msgctxt "Comment"
 #~ msgid "Embeddable Troff Viewer"
