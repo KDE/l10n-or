@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-30 00:20+0000\n"
+"POT-Creation-Date: 2021-06-04 00:24+0000\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1099,13 +1099,13 @@ msgctxt "@action:button"
 msgid "Empty Trash"
 msgstr "ଖାଲି ଆବର୍ଜନା ପାତ୍ର"
 
-#: dolphinnavigatorswidgetaction.cpp:261
+#: dolphinnavigatorswidgetaction.cpp:263
 #, kde-format
 msgctxt "@action:button"
 msgid "Add Network Folder"
 msgstr ""
 
-#: dolphinnavigatorswidgetaction.cpp:296
+#: dolphinnavigatorswidgetaction.cpp:298
 #, fuzzy, kde-format
 #| msgctxt "@label:textbox"
 #| msgid "Location:"
@@ -1522,7 +1522,9 @@ msgstr "ଏହି ମାସ ଆରମ୍ଭରେ"
 #| msgid "Yesterday (%B, %Y)"
 msgctxt ""
 "@title:group Date: MMMM is full month name in current locale, and yyyy is "
-"full year number"
+"full year number. You must keep the ' don't use any fancy \" or « or "
+"similar. The ' is not shown to the user, it's there to mark a part of the "
+"text that should not be formatted as a date"
 msgid "'Yesterday' (MMMM, yyyy)"
 msgstr "ଗତକାଲି (%B, %Y)"
 
@@ -1542,7 +1544,7 @@ msgstr ""
 #| msgid "Yesterday (%B, %Y)"
 msgctxt ""
 "@title:group Date: The week day name: dddd, MMMM is full month name in "
-"current locale, and yyyy is full year number"
+"current locale, and yyyy is full year number."
 msgid "dddd (MMMM, yyyy)"
 msgstr "ଗତକାଲି (%B, %Y)"
 
@@ -1562,7 +1564,9 @@ msgstr ""
 #| msgid "Three Weeks Ago (%B, %Y)"
 msgctxt ""
 "@title:group Date: MMMM is full month name in current locale, and yyyy is "
-"full year number"
+"full year number. You must keep the ' don't use any fancy \" or « or "
+"similar. The ' is not shown to the user, it's there to mark a part of the "
+"text that should not be formatted as a date"
 msgid "'One Week Ago' (MMMM, yyyy)"
 msgstr "ତିନି ସପ୍ତାହ ତଳେ (%B, %Y)"
 
@@ -1582,7 +1586,9 @@ msgstr ""
 #| msgid "Two Weeks Ago (%B, %Y)"
 msgctxt ""
 "@title:group Date: MMMM is full month name in current locale, and yyyy is "
-"full year number"
+"full year number. You must keep the ' don't use any fancy \" or « or "
+"similar. The ' is not shown to the user, it's there to mark a part of the "
+"text that should not be formatted as a date"
 msgid "'Two Weeks Ago' (MMMM, yyyy)"
 msgstr "ଦୁଇ ସପ୍ତାହ ତଳେ (%B, %Y)"
 
@@ -1602,7 +1608,9 @@ msgstr ""
 #| msgid "Three Weeks Ago (%B, %Y)"
 msgctxt ""
 "@title:group Date: MMMM is full month name in current locale, and yyyy is "
-"full year number"
+"full year number. You must keep the ' don't use any fancy \" or « or "
+"similar. The ' is not shown to the user, it's there to mark a part of the "
+"text that should not be formatted as a date"
 msgid "'Three Weeks Ago' (MMMM, yyyy)"
 msgstr "ତିନି ସପ୍ତାହ ତଳେ (%B, %Y)"
 
@@ -1615,12 +1623,18 @@ msgid "%1"
 msgstr ""
 
 #: kitemviews/kfileitemmodel.cpp:2184
-#, kde-format
+#, fuzzy, kde-format
+#| msgctxt ""
+#| "@title:group Date: %B is full month name in current locale, and %Y is "
+#| "full year number"
+#| msgid "Three Weeks Ago (%B, %Y)"
 msgctxt ""
 "@title:group Date: MMMM is full month name in current locale, and yyyy is "
-"full year number"
+"full year number. You must keep the ' don't use any fancy \" or « or "
+"similar. The ' is not shown to the user, it's there to mark a part of the "
+"text that should not be formatted as a date"
 msgid "'Earlier on' MMMM, yyyy"
-msgstr ""
+msgstr "ତିନି ସପ୍ତାହ ତଳେ (%B, %Y)"
 
 #: kitemviews/kfileitemmodel.cpp:2190
 #, kde-format
