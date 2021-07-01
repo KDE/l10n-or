@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-06-22 00:26+0000\n"
+"POT-Creation-Date: 2021-07-01 00:24+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -569,20 +569,6 @@ msgctxt "Name"
 msgid "Services"
 msgstr "ସର୍ଭିସଗୁଡ଼ିକ"
 
-#: sidebar/default_entries/settings.desktop:11
-#: sidebar/trees/init/services/settings.desktop:5
-msgctxt "Name"
-msgid "Settings"
-msgstr "ସେଟିଙ୍ଗଗୁଡ଼ିକ"
-
-#: sidebar/default_entries/settings.desktop:103
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "System Settings"
-msgctxt "Comment"
-msgid "System settings options."
-msgstr "ତନ୍ତ୍ର ବିନ୍ୟାସ"
-
 #: sidebar/history_module/kcmhistory.desktop:102
 msgctxt "Comment"
 msgid "Configure the history sidebar"
@@ -703,6 +689,17 @@ msgstr ""
 msgctxt "Name"
 msgid "WebEngine"
 msgstr "ସନ୍ଧାନ ଯନ୍ତ୍ର"
+
+#~ msgctxt "Name"
+#~ msgid "Settings"
+#~ msgstr "ସେଟିଙ୍ଗଗୁଡ଼ିକ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "System Settings"
+#~ msgctxt "Comment"
+#~ msgid "System settings options."
+#~ msgstr "ତନ୍ତ୍ର ବିନ୍ୟାସ"
 
 #, fuzzy
 #~| msgctxt "Name"
