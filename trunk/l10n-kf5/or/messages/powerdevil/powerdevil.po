@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: powerdevil\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-30 00:20+0000\n"
+"POT-Creation-Date: 2021-07-22 00:18+0000\n"
 "PO-Revision-Date: 2009-01-02 11:50+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -192,6 +192,35 @@ msgctxt "@label:slider Brightness level"
 msgid "Level"
 msgstr ""
 
+#: actions/bundled/powerprofileconfig.cpp:72
+#: actions/bundled/wirelesspowersavingconfig.cpp:75
+#: actions/bundled/wirelesspowersavingconfig.cpp:80
+#: actions/bundled/wirelesspowersavingconfig.cpp:85
+#, kde-format
+msgid "Leave unchanged"
+msgstr ""
+
+#: actions/bundled/powerprofileconfig.cpp:80
+#, kde-format
+msgid "Power Save"
+msgstr ""
+
+#: actions/bundled/powerprofileconfig.cpp:81
+#, kde-format
+msgid "Balanced"
+msgstr ""
+
+#: actions/bundled/powerprofileconfig.cpp:82
+#, kde-format
+msgid "Performance"
+msgstr ""
+
+#: actions/bundled/powerprofileconfig.cpp:101
+#, kde-format
+msgctxt "Switch to power management profile"
+msgid "Switch to:"
+msgstr ""
+
 #: actions/bundled/runscriptconfig.cpp:71
 #, kde-format
 msgid "Script"
@@ -225,13 +254,6 @@ msgstr ""
 #: actions/bundled/suspendsessionconfig.cpp:115
 #, kde-format
 msgid "While asleep, hibernate after a period of inactivity"
-msgstr ""
-
-#: actions/bundled/wirelesspowersavingconfig.cpp:75
-#: actions/bundled/wirelesspowersavingconfig.cpp:80
-#: actions/bundled/wirelesspowersavingconfig.cpp:85
-#, kde-format
-msgid "Leave unchanged"
 msgstr ""
 
 #: actions/bundled/wirelesspowersavingconfig.cpp:76
