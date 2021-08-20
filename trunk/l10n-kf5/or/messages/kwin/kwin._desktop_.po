@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-29 00:24+0000\n"
+"POT-Creation-Date: 2021-08-20 00:29+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -210,6 +210,14 @@ msgstr "ଅଧିକ ପ୍ରୟୋଗ"
 msgctxt "Name"
 msgid "Mouse Mark"
 msgstr ""
+
+#: src/effects/overview/kcm/overvieweffectkcm.desktop:12
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "File Preview"
+msgctxt "Name"
+msgid "overview"
+msgstr "ଫାଇଲ ପ୍ରାକଦର୍ଶନ"
 
 #: src/effects/presentwindows/presentwindows_config.desktop:8
 msgctxt "Name"
@@ -861,13 +869,6 @@ msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ"
 #~ msgctxt "Comment"
 #~ msgid "An informative desktop switcher layout"
 #~ msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "File Preview"
-#~ msgctxt "Name"
-#~ msgid "Previews"
-#~ msgstr "ଫାଇଲ ପ୍ରାକଦର୍ଶନ"
 
 #, fuzzy
 #~| msgctxt "Name"
