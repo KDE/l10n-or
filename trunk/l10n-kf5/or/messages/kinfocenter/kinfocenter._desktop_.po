@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-06 00:29+0000\n"
+"POT-Creation-Date: 2021-09-07 00:32+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -94,7 +94,7 @@ msgctxt "Name"
 msgid "About this System"
 msgstr "ଫାଇଲ ଏବଂ ଡ଼ିରେକ୍ଟୋରୀଗୁଡ଼ିକ"
 
-#: Modules/about-distro/src/about-distro.desktop:78
+#: Modules/about-distro/src/about-distro.desktop:80
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Files and Directories"
@@ -107,7 +107,7 @@ msgctxt "Name"
 msgid "CPU"
 msgstr ""
 
-#: Modules/cpu/kcm_cpu.desktop:37 Modules/cpu/package/metadata.desktop:36
+#: Modules/cpu/kcm_cpu.desktop:38 Modules/cpu/package/metadata.desktop:37
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Device Information"
@@ -115,7 +115,7 @@ msgctxt "Comment"
 msgid "Advanced CPU Information"
 msgstr "ଯନ୍ତ୍ର ସୂଚନା"
 
-#: Modules/cpu/kcm_cpu.desktop:59 Modules/cpu/package/metadata.desktop:58
+#: Modules/cpu/kcm_cpu.desktop:61 Modules/cpu/package/metadata.desktop:60
 msgctxt "X-KDE-Keywords"
 msgid "cpu,amd,intel,arm,instructions,cores,architecture,byte order"
 msgstr ""
@@ -350,8 +350,8 @@ msgctxt "Name"
 msgid "Vulkan"
 msgstr ""
 
-#: Modules/vulkan/kcm_vulkan.desktop:38
-#: Modules/vulkan/package/metadata.desktop:41
+#: Modules/vulkan/kcm_vulkan.desktop:39
+#: Modules/vulkan/package/metadata.desktop:42
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Processor Information"
@@ -359,8 +359,8 @@ msgctxt "Comment"
 msgid "Vulkan graphics API information"
 msgstr "ସଞ୍ଚାଳକ ସୂଚନା"
 
-#: Modules/vulkan/kcm_vulkan.desktop:61
-#: Modules/vulkan/package/metadata.desktop:64
+#: Modules/vulkan/kcm_vulkan.desktop:63
+#: Modules/vulkan/package/metadata.desktop:66
 msgctxt "X-KDE-Keywords"
 msgid "Vulkan,VideoCard,Hardware Acceleration,Graphics"
 msgstr ""
