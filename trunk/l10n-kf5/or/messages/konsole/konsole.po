@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-11 00:21+0000\n"
+"POT-Creation-Date: 2021-09-16 00:20+0000\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -2708,169 +2708,181 @@ msgstr ""
 msgid "&Paste Location"
 msgstr ""
 
-#: ViewManager.cpp:107
+#: ViewManager.cpp:106
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Split View"
+msgstr ""
+
+#: ViewManager.cpp:113
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Split View Left/Right"
 msgstr ""
 
-#: ViewManager.cpp:114
+#: ViewManager.cpp:121
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Split View Top/Bottom"
 msgstr ""
 
-#: ViewManager.cpp:121
+#: ViewManager.cpp:131
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Load a new tab with layout 2x2 terminals"
 msgstr ""
 
-#: ViewManager.cpp:129 ViewManager.cpp:137
+#: ViewManager.cpp:140
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Load a new tab with layout 2x1 terminals"
 msgstr ""
 
-#: ViewManager.cpp:144
+#: ViewManager.cpp:149
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Load a new tab with layout 1x2 terminals"
+msgstr ""
+
+#: ViewManager.cpp:157
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Expand View"
 msgstr ""
 
-#: ViewManager.cpp:152
+#: ViewManager.cpp:165
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Shrink View"
 msgstr ""
 
-#: ViewManager.cpp:162
+#: ViewManager.cpp:175
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Detach Current &View"
 msgstr ""
 
-#: ViewManager.cpp:174
+#: ViewManager.cpp:187
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Detach Current &Tab"
 msgstr ""
 
-#: ViewManager.cpp:179
+#: ViewManager.cpp:192
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Next Tab"
 msgstr ""
 
-#: ViewManager.cpp:187
+#: ViewManager.cpp:200
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Previous Tab"
 msgstr ""
 
-#: ViewManager.cpp:195
+#: ViewManager.cpp:208
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Focus Above Terminal"
 msgstr ""
 
-#: ViewManager.cpp:202
+#: ViewManager.cpp:215
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Focus Below Terminal"
 msgstr ""
 
-#: ViewManager.cpp:209
+#: ViewManager.cpp:222
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Focus Left Terminal"
 msgstr ""
 
-#: ViewManager.cpp:215
+#: ViewManager.cpp:228
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Focus Right Terminal"
 msgstr ""
 
-#: ViewManager.cpp:221
+#: ViewManager.cpp:234
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Switch to Last Tab"
 msgstr ""
 
-#: ViewManager.cpp:226
+#: ViewManager.cpp:239
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Last Used Tabs"
 msgstr ""
 
-#: ViewManager.cpp:231
+#: ViewManager.cpp:244
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Toggle Between Two Tabs"
 msgstr ""
 
-#: ViewManager.cpp:236
+#: ViewManager.cpp:249
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Last Used Tabs (Reverse)"
 msgstr ""
 
-#: ViewManager.cpp:241
+#: ViewManager.cpp:254
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Toggle maximize current view"
 msgstr ""
 
-#: ViewManager.cpp:242
+#: ViewManager.cpp:255
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Toggle maximize current view"
 msgstr ""
 
-#: ViewManager.cpp:250
+#: ViewManager.cpp:263
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Move tab to the right"
 msgstr ""
 
-#: ViewManager.cpp:257
+#: ViewManager.cpp:270
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Move tab to the left"
 msgstr ""
 
-#: ViewManager.cpp:267
+#: ViewManager.cpp:280
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Switch to Tab %1"
 msgstr ""
 
-#: ViewManager.cpp:919
+#: ViewManager.cpp:932
 #, kde-format
 msgid "Save File"
 msgstr ""
 
-#: ViewManager.cpp:919 ViewManager.cpp:988
+#: ViewManager.cpp:932 ViewManager.cpp:1001
 #, kde-format
 msgid "Konsole View Layout (*.json)"
 msgstr ""
 
-#: ViewManager.cpp:922
+#: ViewManager.cpp:935
 #, kde-format
 msgid ""
 "A problem occurred when saving the Layout.\n"
 "%1"
 msgstr ""
 
-#: ViewManager.cpp:978
+#: ViewManager.cpp:991
 #, kde-format
 msgid ""
 "A problem occurred when loading the Layout.\n"
 "%1"
 msgstr ""
 
-#: ViewManager.cpp:988
+#: ViewManager.cpp:1001
 #, kde-format
 msgid "Open File"
 msgstr ""
