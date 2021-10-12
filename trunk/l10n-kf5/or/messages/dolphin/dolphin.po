@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-07 00:19+0000\n"
+"POT-Creation-Date: 2021-10-12 00:20+0000\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -2738,13 +2738,13 @@ msgctxt ""
 msgid "Query Results from '%1'"
 msgstr ""
 
-#: settings/contextmenu/contextmenusettingspage.cpp:57
+#: settings/contextmenu/contextmenusettingspage.cpp:61
 #, kde-format
 msgctxt "@label:textbox"
 msgid "Select which services should be shown in the context menu:"
 msgstr ""
 
-#: settings/contextmenu/contextmenusettingspage.cpp:61
+#: settings/contextmenu/contextmenusettingspage.cpp:65
 #, fuzzy, kde-format
 #| msgctxt "@action:inmenu"
 #| msgid "Empty Trash"
@@ -2752,21 +2752,27 @@ msgctxt "@label:textbox"
 msgid "Search..."
 msgstr "ଖାଲି ଆବର୍ଜନା ପାତ୍ର"
 
-#: settings/contextmenu/contextmenusettingspage.cpp:83
+#: settings/contextmenu/contextmenusettingspage.cpp:87
 #, kde-format
 msgctxt "@action:button"
 msgid "Download New Services..."
 msgstr ""
 
-#: settings/contextmenu/contextmenusettingspage.cpp:196
+#: settings/contextmenu/contextmenusettingspage.cpp:201
 #, kde-format
 msgctxt "@info"
 msgid ""
-"Dolphin must be restarted to apply the updated version control systems "
+"Dolphin must be restarted to apply the updated version control system "
 "settings."
 msgstr ""
 
-#: settings/contextmenu/contextmenusettingspage.cpp:228
+#: settings/contextmenu/contextmenusettingspage.cpp:203
+#, kde-format
+msgctxt "@info"
+msgid "Restart now?"
+msgstr ""
+
+#: settings/contextmenu/contextmenusettingspage.cpp:242
 #, fuzzy, kde-format
 #| msgctxt "@action:inmenu"
 #| msgid "Delete"
@@ -2774,7 +2780,7 @@ msgctxt "@option:check"
 msgid "Delete"
 msgstr "ଅପସାରଣ କରନ୍ତୁ"
 
-#: settings/contextmenu/contextmenusettingspage.cpp:234
+#: settings/contextmenu/contextmenusettingspage.cpp:248
 #, fuzzy, kde-format
 #| msgctxt "@option:check"
 #| msgid "Show 'Copy To' and 'Move To' commands"
@@ -2782,7 +2788,7 @@ msgctxt "@option:check"
 msgid "'Copy To' and 'Move To' commands"
 msgstr "'କୁ ନକଲ କରନ୍ତୁ' ଏବଂ 'କୁ ପଠାନ୍ତୁ' ନିର୍ଦ୍ଦେଶ ଦର୍ଶାନ୍ତୁ"
 
-#: settings/contextmenu/contextmenusettingspage.cpp:276
+#: settings/contextmenu/contextmenusettingspage.cpp:290
 #, fuzzy, kde-format
 #| msgctxt "@info:status files (size)"
 #| msgid "%1 (%2)"
