@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-25 00:27+0000\n"
+"POT-Creation-Date: 2021-11-08 00:26+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -95,8 +95,8 @@ msgctxt "Name"
 msgid "About this System"
 msgstr "ଫାଇଲ ଏବଂ ଡ଼ିରେକ୍ଟୋରୀଗୁଡ଼ିକ"
 
-#: Modules/about-distro/src/about-distro.desktop:79
-#: Modules/about-distro/src/package/metadata.desktop:42
+#: Modules/about-distro/src/about-distro.desktop:80
+#: Modules/about-distro/src/package/metadata.desktop:43
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Files and Directories"
@@ -109,7 +109,7 @@ msgctxt "Name"
 msgid "CPU"
 msgstr ""
 
-#: Modules/cpu/kcm_cpu.desktop:40 Modules/cpu/package/metadata.desktop:39
+#: Modules/cpu/kcm_cpu.desktop:41 Modules/cpu/package/metadata.desktop:40
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Device Information"
@@ -117,7 +117,7 @@ msgctxt "Comment"
 msgid "Advanced CPU Information"
 msgstr "ଯନ୍ତ୍ର ସୂଚନା"
 
-#: Modules/cpu/kcm_cpu.desktop:65 Modules/cpu/package/metadata.desktop:64
+#: Modules/cpu/kcm_cpu.desktop:67 Modules/cpu/package/metadata.desktop:66
 msgctxt "X-KDE-Keywords"
 msgid "cpu,amd,intel,arm,instructions,cores,architecture,byte order"
 msgstr ""
@@ -151,7 +151,7 @@ msgctxt "Name"
 msgid "OpenGL (EGL)"
 msgstr "OpenGL"
 
-#: Modules/egl/kcm_egl.desktop:36 Modules/egl/package/metadata.desktop:36
+#: Modules/egl/kcm_egl.desktop:37 Modules/egl/package/metadata.desktop:37
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "OpenGL information"
@@ -159,7 +159,7 @@ msgctxt "Comment"
 msgid "EGL information"
 msgstr "OpenGL ସୂଚନା"
 
-#: Modules/egl/kcm_egl.desktop:58 Modules/egl/package/metadata.desktop:58
+#: Modules/egl/kcm_egl.desktop:60 Modules/egl/package/metadata.desktop:60
 msgctxt "X-KDE-Keywords"
 msgid "OpenGL,DRI,3D,VideoCard,Hardware Acceleration,Graphics,EGL"
 msgstr ""
@@ -200,7 +200,7 @@ msgctxt "Name"
 msgid "OpenGL (GLX)"
 msgstr "OpenGL"
 
-#: Modules/glx/kcm_glx.desktop:36 Modules/glx/package/metadata.desktop:36
+#: Modules/glx/kcm_glx.desktop:37 Modules/glx/package/metadata.desktop:37
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "OpenGL information"
@@ -208,7 +208,7 @@ msgctxt "Comment"
 msgid "GLX information"
 msgstr "OpenGL ସୂଚନା"
 
-#: Modules/glx/kcm_glx.desktop:58 Modules/glx/package/metadata.desktop:58
+#: Modules/glx/kcm_glx.desktop:60 Modules/glx/package/metadata.desktop:60
 msgctxt "X-KDE-Keywords"
 msgid ""
 "OpenGL,DRI,GLX,3D,VideoCard,Hardware Acceleration,Graphics,X,X11,Xserver,X-"
@@ -302,8 +302,8 @@ msgctxt "Name"
 msgid "Vulkan"
 msgstr ""
 
-#: Modules/vulkan/kcm_vulkan.desktop:40
-#: Modules/vulkan/package/metadata.desktop:43
+#: Modules/vulkan/kcm_vulkan.desktop:41
+#: Modules/vulkan/package/metadata.desktop:44
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Processor Information"
@@ -311,8 +311,8 @@ msgctxt "Comment"
 msgid "Vulkan graphics API information"
 msgstr "ସଞ୍ଚାଳକ ସୂଚନା"
 
-#: Modules/vulkan/kcm_vulkan.desktop:65
-#: Modules/vulkan/package/metadata.desktop:68
+#: Modules/vulkan/kcm_vulkan.desktop:67
+#: Modules/vulkan/package/metadata.desktop:70
 msgctxt "X-KDE-Keywords"
 msgid "Vulkan,VideoCard,Hardware Acceleration,Graphics"
 msgstr ""
