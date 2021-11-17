@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmsamba\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-01 00:20+0000\n"
+"POT-Creation-Date: 2021-11-17 00:29+0000\n"
 "PO-Revision-Date: 2009-01-02 11:46+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -80,31 +80,31 @@ msgstr ""
 msgid "Harald Sitter"
 msgstr ""
 
-#: package/contents/main.qml:17
+#: package/contents/ui/main.qml:17
 #, kde-format
 msgctxt "@title heading above listview"
 msgid "User-Created Shares"
 msgstr ""
 
-#: package/contents/main.qml:22
+#: package/contents/ui/main.qml:22
 #, kde-format
 msgctxt "@title heading above listview"
 msgid "Mounted Remote Shares"
 msgstr ""
 
-#: package/contents/main.qml:49
+#: package/contents/ui/main.qml:49
 #, kde-format
 msgctxt "@info place holder for empty listview"
 msgid "There are no directories shared by users"
 msgstr ""
 
-#: package/contents/main.qml:89
+#: package/contents/ui/main.qml:89
 #, kde-format
 msgctxt "@info place holder for empty listview"
 msgid "There are no Samba shares mounted on this system"
 msgstr ""
 
-#: package/contents/ShareListItem.qml:71
+#: package/contents/ui/ShareListItem.qml:71
 #, kde-kuit-format
 msgctxt "@info:tooltip"
 msgid "Open folder properties to change share settings"
