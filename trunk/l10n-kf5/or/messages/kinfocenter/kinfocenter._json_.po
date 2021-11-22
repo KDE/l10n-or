@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-11-17 00:36+0000\n"
+"POT-Creation-Date: 2021-11-22 00:39+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -23,70 +23,7 @@ msgstr ""
 "\n"
 "\n"
 
-#: Categories/basicinformation.desktop:8
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Device Information"
-msgctxt "Name"
-msgid "Basic Information"
-msgstr "ଯନ୍ତ୍ର ସୂଚନା"
-
-#: Categories/detailedinformation.desktop:8
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Device Information"
-msgctxt "Name"
-msgid "Detailed Information"
-msgstr "ଯନ୍ତ୍ର ସୂଚନା"
-
-#: Categories/deviceinfocategory.desktop:8
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "USB Devices"
-msgctxt "Name"
-msgid "Devices"
-msgstr "USB ଉପକରଣ"
-
-#: Categories/graphicalinfocategory.desktop:8
-msgctxt "Name"
-msgid "Graphics"
-msgstr ""
-
-#: Categories/kinfocentercategory.desktop:4
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "KInfoCenter"
-msgctxt "Name"
-msgid "KInfoCenter Category"
-msgstr "KInfoCenter"
-
-#: Categories/lostfoundcategory.desktop:8
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Lost & Found"
-msgctxt "Name"
-msgid "Lost And Found"
-msgstr "ହଜିବା ଏବଂ ମିଳିବା"
-
-#: Categories/networkinfocategory.desktop:8
-msgctxt "Name"
-msgid "Network"
-msgstr ""
-
-#: kcontrol/menus/kinfocenter.directory:3
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "PCI information"
-msgctxt "Name"
-msgid "Information"
-msgstr "PCI ସୂଚନା"
-
-#: Modules/about-distro/src/about-distro.desktop:12
-msgctxt "X-KDE-Keywords"
-msgid "about,info,information,distribution,distro,system,kernel,qt,kde"
-msgstr ""
-
-#: Modules/about-distro/src/about-distro.desktop:52
+#: Modules/about-distro/src/about-distro.json
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Files and Directories"
@@ -94,33 +31,12 @@ msgctxt "Name"
 msgid "About this System"
 msgstr "ଫାଇଲ ଏବଂ ଡ଼ିରେକ୍ଟୋରୀଗୁଡ଼ିକ"
 
-#: Modules/about-distro/src/about-distro.desktop:80
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Files and Directories"
-msgctxt "Comment"
-msgid "Information About This System"
-msgstr "ଫାଇଲ ଏବଂ ଡ଼ିରେକ୍ଟୋରୀଗୁଡ଼ିକ"
-
-#: Modules/cpu/kcm_cpu.desktop:15
+#: Modules/cpu/kcm_cpu.json
 msgctxt "Name"
 msgid "CPU"
 msgstr ""
 
-#: Modules/cpu/kcm_cpu.desktop:42
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Device Information"
-msgctxt "Comment"
-msgid "Advanced CPU Information"
-msgstr "ଯନ୍ତ୍ର ସୂଚନା"
-
-#: Modules/cpu/kcm_cpu.desktop:69
-msgctxt "X-KDE-Keywords"
-msgid "cpu,amd,intel,arm,instructions,cores,architecture,byte order"
-msgstr ""
-
-#: Modules/devinfo/devinfo.desktop:13
+#: Modules/devinfo/devinfo.json
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Picture Viewer"
@@ -128,20 +44,7 @@ msgctxt "Name"
 msgid "Device Viewer"
 msgstr "ଛବି ପ୍ରଦର୍ଶକ"
 
-#: Modules/devinfo/devinfo.desktop:78
-#, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Picture Viewer"
-msgctxt "Comment"
-msgid "Device Viewer"
-msgstr "ଛବି ପ୍ରଦର୍ଶକ"
-
-#: Modules/devinfo/devinfo.desktop:143
-msgctxt "X-KDE-Keywords"
-msgid "device,devices,disk,drive,processor,cpu"
-msgstr ""
-
-#: Modules/egl/kcm_egl.desktop:14
+#: Modules/egl/kcm_egl.json
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "OpenGL"
@@ -149,35 +52,12 @@ msgctxt "Name"
 msgid "OpenGL (EGL)"
 msgstr "OpenGL"
 
-#: Modules/egl/kcm_egl.desktop:39
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "OpenGL information"
-msgctxt "Comment"
-msgid "EGL information"
-msgstr "OpenGL ସୂଚନା"
-
-#: Modules/egl/kcm_egl.desktop:64
-msgctxt "X-KDE-Keywords"
-msgid "OpenGL,DRI,3D,VideoCard,Hardware Acceleration,Graphics,EGL"
-msgstr ""
-
-#: Modules/energy/kcm_energyinfo.desktop:11
+#: Modules/energy/kcm_energyinfo.json
 msgctxt "Name"
 msgid "Energy"
 msgstr ""
 
-#: Modules/energy/kcm_energyinfo.desktop:47
-msgctxt "Comment"
-msgid "Energy Consumption Statistics"
-msgstr ""
-
-#: Modules/energy/kcm_energyinfo.desktop:95
-msgctxt "X-KDE-Keywords"
-msgid "Battery,Energy,Statistics,History,Power"
-msgstr ""
-
-#: Modules/glx/kcm_glx.desktop:14
+#: Modules/glx/kcm_glx.json
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "OpenGL"
@@ -185,113 +65,37 @@ msgctxt "Name"
 msgid "OpenGL (GLX)"
 msgstr "OpenGL"
 
-#: Modules/glx/kcm_glx.desktop:39
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "OpenGL information"
-msgctxt "Comment"
-msgid "GLX information"
-msgstr "OpenGL ସୂଚନା"
-
-#: Modules/glx/kcm_glx.desktop:64
-msgctxt "X-KDE-Keywords"
-msgid ""
-"OpenGL,DRI,GLX,3D,VideoCard,Hardware Acceleration,Graphics,X,X11,Xserver,X-"
-"Server,XFree86,Display"
-msgstr ""
-
-#: Modules/interrupts/kcm_interrupts.desktop:14
+#: Modules/interrupts/kcm_interrupts.json
 msgctxt "Name"
 msgid "Interrupts"
 msgstr "ବ୍ୟାହାତ"
 
-#: Modules/interrupts/kcm_interrupts.desktop:107
-msgctxt "Comment"
-msgid "Interrupt information"
-msgstr "ବ୍ୟାହାତ ସୂଚନା"
-
-#: Modules/interrupts/kcm_interrupts.desktop:200
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Interrupt information"
-msgctxt "X-KDE-Keywords"
-msgid "Interrupts,IRQ,System Information"
-msgstr "ବ୍ୟାହାତ ସୂଚନା"
-
-#: Modules/nics/kcm_nic.desktop:11
+#: Modules/nics/kcm_nic.json
 msgctxt "Name"
 msgid "Network Interfaces"
 msgstr "ନେଟୱର୍କ ଅନ୍ତରାପୃଷ୍ଠ"
 
-#: Modules/nics/kcm_nic.desktop:105
-msgctxt "Comment"
-msgid "Network interface information"
-msgstr "ନେଟୱର୍କ ଅନ୍ତାରାପୃଷ୍ଠ ସୂଚନା"
-
-#: Modules/pci/kcm_pci.desktop:14
+#: Modules/pci/kcm_pci.json
 msgctxt "Name"
 msgid "PCI"
 msgstr "PCI"
 
-#: Modules/pci/kcm_pci.desktop:108
-msgctxt "Comment"
-msgid "PCI information"
-msgstr "PCI ସୂଚନା"
-
-#: Modules/pci/kcm_pci.desktop:201
-msgctxt "X-KDE-Keywords"
-msgid "PCI,PCI-Devices,PCI-Bus,System Information"
-msgstr ""
-
-#: Modules/samba/smbstatus.desktop:12
+#: Modules/samba/smbstatus.json
 msgctxt "Name"
 msgid "Samba Status"
 msgstr "ସାମ୍ବା ସ୍ଥିତି"
 
-#: Modules/samba/smbstatus.desktop:106
-msgctxt "Comment"
-msgid "Samba status monitor"
-msgstr "ସାମ୍ବା ସ୍ଥିତି ପ୍ରଦର୍ଶିକା"
-
-#: Modules/samba/smbstatus.desktop:199
-msgctxt "X-KDE-Keywords"
-msgid "SMB,SAMBA,Windows network,LAN,System Information"
-msgstr ""
-
-#: Modules/usbview/kcmusb.desktop:12
+#: Modules/usbview/kcmusb.json
 msgctxt "Name"
 msgid "USB Devices"
 msgstr "USB ଉପକରଣ"
 
-#: Modules/usbview/kcmusb.desktop:106
-msgctxt "Comment"
-msgid "USB devices attached to this computer"
-msgstr "USB ଉପକରଣଗୁଡ଼ିକ ଏହି କମ୍ପୁଟର ସହିତ ସଂଲଗ୍ନ"
-
-#: Modules/usbview/kcmusb.desktop:191
-msgctxt "X-KDE-Keywords"
-msgid "USB,devices,viewer,control"
-msgstr ""
-
-#: Modules/vulkan/kcm_vulkan.desktop:15
+#: Modules/vulkan/kcm_vulkan.json
 msgctxt "Name"
 msgid "Vulkan"
 msgstr ""
 
-#: Modules/vulkan/kcm_vulkan.desktop:42
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Processor Information"
-msgctxt "Comment"
-msgid "Vulkan graphics API information"
-msgstr "ସଞ୍ଚାଳକ ସୂଚନା"
-
-#: Modules/vulkan/kcm_vulkan.desktop:69
-msgctxt "X-KDE-Keywords"
-msgid "Vulkan,VideoCard,Hardware Acceleration,Graphics"
-msgstr ""
-
-#: Modules/wayland/kcm_wayland.desktop:15
+#: Modules/wayland/kcm_wayland.json
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Thailand"
@@ -299,51 +103,186 @@ msgctxt "Name"
 msgid "Wayland"
 msgstr "ଥାଇଲ୍ୟାଣ୍ଡ"
 
-#: Modules/wayland/kcm_wayland.desktop:64
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Files and Directories"
-msgctxt "Comment"
-msgid "Information about the Wayland Compositor"
-msgstr "ଫାଇଲ ଏବଂ ଡ଼ିରେକ୍ଟୋରୀଗୁଡ଼ିକ"
-
-#: Modules/wayland/kcm_wayland.desktop:113
-msgctxt "X-KDE-Keywords"
-msgid "Wayland,Compositor,Display,System Information"
-msgstr ""
-
-#: Modules/xserver/kcm_xserver.desktop:15
+#: Modules/xserver/kcm_xserver.json
 msgctxt "Name"
 msgid "X-Server"
 msgstr "X-ସର୍ଭର"
 
-#: Modules/xserver/kcm_xserver.desktop:109
-msgctxt "Comment"
+#: Modules/about-distro/src/about-distro.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Files and Directories"
+msgctxt "Description"
+msgid "Information About This System"
+msgstr "ଫାଇଲ ଏବଂ ଡ଼ିରେକ୍ଟୋରୀଗୁଡ଼ିକ"
+
+#: Modules/cpu/kcm_cpu.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Device Information"
+msgctxt "Description"
+msgid "Advanced CPU Information"
+msgstr "ଯନ୍ତ୍ର ସୂଚନା"
+
+#: Modules/devinfo/devinfo.json
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Picture Viewer"
+msgctxt "Description"
+msgid "Device Viewer"
+msgstr "ଛବି ପ୍ରଦର୍ଶକ"
+
+#: Modules/egl/kcm_egl.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "OpenGL information"
+msgctxt "Description"
+msgid "EGL information"
+msgstr "OpenGL ସୂଚନା"
+
+#: Modules/energy/kcm_energyinfo.json
+msgctxt "Description"
+msgid "Energy Consumption Statistics"
+msgstr ""
+
+#: Modules/glx/kcm_glx.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "OpenGL information"
+msgctxt "Description"
+msgid "GLX information"
+msgstr "OpenGL ସୂଚନା"
+
+#: Modules/interrupts/kcm_interrupts.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Interrupt information"
+msgctxt "Description"
+msgid "Interrupt information"
+msgstr "ବ୍ୟାହାତ ସୂଚନା"
+
+#: Modules/nics/kcm_nic.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Network interface information"
+msgctxt "Description"
+msgid "Network interface information"
+msgstr "ନେଟୱର୍କ ଅନ୍ତାରାପୃଷ୍ଠ ସୂଚନା"
+
+#: Modules/pci/kcm_pci.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "PCI information"
+msgctxt "Description"
+msgid "PCI information"
+msgstr "PCI ସୂଚନା"
+
+#: Modules/samba/smbstatus.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Samba status monitor"
+msgctxt "Description"
+msgid "Samba status monitor"
+msgstr "ସାମ୍ବା ସ୍ଥିତି ପ୍ରଦର୍ଶିକା"
+
+#: Modules/usbview/kcmusb.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "USB devices attached to this computer"
+msgctxt "Description"
+msgid "USB devices attached to this computer"
+msgstr "USB ଉପକରଣଗୁଡ଼ିକ ଏହି କମ୍ପୁଟର ସହିତ ସଂଲଗ୍ନ"
+
+#: Modules/vulkan/kcm_vulkan.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Processor Information"
+msgctxt "Description"
+msgid "Vulkan graphics API information"
+msgstr "ସଞ୍ଚାଳକ ସୂଚନା"
+
+#: Modules/wayland/kcm_wayland.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Files and Directories"
+msgctxt "Description"
+msgid "Information about the Wayland Compositor"
+msgstr "ଫାଇଲ ଏବଂ ଡ଼ିରେକ୍ଟୋରୀଗୁଡ଼ିକ"
+
+#: Modules/xserver/kcm_xserver.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "X-Server information"
+msgctxt "Description"
 msgid "X-Server information"
 msgstr "X-ସର୍ଭର ସୂଚନା"
 
-#: Modules/xserver/kcm_xserver.desktop:202
-msgctxt "X-KDE-Keywords"
-msgid "X,X-Server,XServer,XFree86,Display,VideoCard,System Information"
-msgstr ""
-
-#: org.kde.kinfocenter.desktop:9
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Info Center"
-msgctxt "Name"
-msgid "Info Center"
-msgstr "ସୂଚନା କେନ୍ଦ୍ର"
+#~| msgctxt "Name"
+#~| msgid "Device Information"
+#~ msgctxt "Name"
+#~ msgid "Basic Information"
+#~ msgstr "ଯନ୍ତ୍ର ସୂଚନା"
 
-#: org.kde.kinfocenter.desktop:55
-msgctxt "GenericName"
-msgid "Info Center"
-msgstr "ସୂଚନା କେନ୍ଦ୍ର"
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Device Information"
+#~ msgctxt "Name"
+#~ msgid "Detailed Information"
+#~ msgstr "ଯନ୍ତ୍ର ସୂଚନା"
 
-#: org.kde.kinfocenter.desktop:147
-msgctxt "Comment"
-msgid "Centralized and convenient overview of system information"
-msgstr ""
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "USB Devices"
+#~ msgctxt "Name"
+#~ msgid "Devices"
+#~ msgstr "USB ଉପକରଣ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "KInfoCenter"
+#~ msgctxt "Name"
+#~ msgid "KInfoCenter Category"
+#~ msgstr "KInfoCenter"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Lost & Found"
+#~ msgctxt "Name"
+#~ msgid "Lost And Found"
+#~ msgstr "ହଜିବା ଏବଂ ମିଳିବା"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "PCI information"
+#~ msgctxt "Name"
+#~ msgid "Information"
+#~ msgstr "PCI ସୂଚନା"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Picture Viewer"
+#~ msgctxt "Comment"
+#~ msgid "Device Viewer"
+#~ msgstr "ଛବି ପ୍ରଦର୍ଶକ"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Interrupt information"
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "Interrupts,IRQ,System Information"
+#~ msgstr "ବ୍ୟାହାତ ସୂଚନା"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Info Center"
+#~ msgctxt "Name"
+#~ msgid "Info Center"
+#~ msgstr "ସୂଚନା କେନ୍ଦ୍ର"
+
+#~ msgctxt "GenericName"
+#~ msgid "Info Center"
+#~ msgstr "ସୂଚନା କେନ୍ଦ୍ର"
 
 #, fuzzy
 #~| msgctxt "Comment"
