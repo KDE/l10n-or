@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-11-28 00:36+0000\n"
+"POT-Creation-Date: 2021-11-29 00:36+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -28,7 +28,7 @@ msgctxt "Name"
 msgid "Activity Bar"
 msgstr ""
 
-#: applets/activitybar/metadata.desktop:77
+#: applets/activitybar/metadata.desktop:76
 msgctxt "Comment"
 msgid "Tab bar to switch activities"
 msgstr ""
@@ -38,7 +38,7 @@ msgctxt "Name"
 msgid "Analog Clock"
 msgstr ""
 
-#: applets/analog-clock/metadata.desktop:88
+#: applets/analog-clock/metadata.desktop:87
 msgctxt "Comment"
 msgid "A clock with hands"
 msgstr ""
@@ -66,7 +66,7 @@ msgctxt "Comment"
 msgid "See the power status of your battery"
 msgstr ""
 
-#: applets/batterymonitor/package/metadata.desktop:129
+#: applets/batterymonitor/package/metadata.desktop:128
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Power Management"
@@ -79,7 +79,7 @@ msgctxt "Name"
 msgid "Calendar"
 msgstr ""
 
-#: applets/calendar/package/metadata.desktop:81
+#: applets/calendar/package/metadata.desktop:80
 msgctxt "Comment"
 msgid "Month display with your appointments and events"
 msgstr ""
@@ -121,7 +121,7 @@ msgctxt "Name"
 msgid "Digital Clock"
 msgstr "ସାଂଖିକ ଘଡ଼ି"
 
-#: applets/digital-clock/package/metadata.desktop:90
+#: applets/digital-clock/package/metadata.desktop:89
 msgctxt "Comment"
 msgid "Time displayed in a digital format"
 msgstr ""
@@ -131,7 +131,7 @@ msgctxt "Name"
 msgid "Icon"
 msgstr "ଚିତ୍ର ସଂକେତ"
 
-#: applets/icon/package/metadata.desktop:89
+#: applets/icon/package/metadata.desktop:88
 msgctxt "Comment"
 msgid "A generic icon"
 msgstr "ଗୋଟିଏ ସାମାନ୍ୟ ଚିତ୍ର ସଂକେତ"
@@ -141,12 +141,12 @@ msgctxt "Name"
 msgid "Lock/Logout"
 msgstr "ଅପରିବର୍ତ୍ତନୀୟ/ଲଗଆଉଟ କରନ୍ତୁ"
 
-#: applets/lock_logout/metadata.desktop:85
+#: applets/lock_logout/metadata.desktop:84
 msgctxt "Comment"
 msgid "Lock the screen or log out"
 msgstr "ପରଦାକୁ ଅପରିବର୍ତ୍ତନୀୟ କରନ୍ତୁ କିମ୍ବା ଲଗଆଉଟ କରନ୍ତୁ"
 
-#: applets/lock_logout/metadata.desktop:159
+#: applets/lock_logout/metadata.desktop:157
 msgctxt "Keywords"
 msgid "Lock;Logout;Sleep;Hibernate;Switch User;"
 msgstr ""
@@ -289,7 +289,7 @@ msgctxt "Name"
 msgid "System Tray"
 msgstr "ତନ୍ତ୍ର ଧାରକ"
 
-#: applets/systemtray/container/package/metadata.desktop:91
+#: applets/systemtray/container/package/metadata.desktop:90
 msgctxt "Comment"
 msgid "Access hidden applications minimized in the system tray"
 msgstr "ତନ୍ତ୍ର ଟ୍ରେରେ ଆକାର ଛୋଟହୋଇ ଲୁକ୍କାୟିତ ପ୍ରୟୋଗଗୁଡ଼ିକୁ ବ୍ୟବହାର କରନ୍ତୁ"
@@ -325,7 +325,7 @@ msgctxt "Name"
 msgid "Application Launcher"
 msgstr "ପ୍ରୟୋଗ ଆରମ୍ଭକର୍ତ୍ତା"
 
-#: containmentactions/applauncher/plasma-containmentactions-applauncher.desktop:90
+#: containmentactions/applauncher/plasma-containmentactions-applauncher.desktop:89
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Application Launcher"
@@ -442,7 +442,7 @@ msgctxt "Name"
 msgid "Device Notifier"
 msgstr "ବିଜ୍ଞପ୍ତି"
 
-#: dataengines/devicenotifications/devicenotifications.notifyrc:82
+#: dataengines/devicenotifications/devicenotifications.notifyrc:81
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Notifications"
@@ -677,7 +677,7 @@ msgctxt "Name"
 msgid "System Monitor"
 msgstr ""
 
-#: dataengines/systemmonitor/plasma-dataengine-systemmonitor.desktop:87
+#: dataengines/systemmonitor/plasma-dataengine-systemmonitor.desktop:86
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "System Process Information"
@@ -782,17 +782,17 @@ msgctxt "Name"
 msgid "Warning"
 msgstr "ଚେତାବନୀ"
 
-#: freespacenotifier/freespacenotifier.notifyrc:223
+#: freespacenotifier/freespacenotifier.notifyrc:222
 msgctxt "Comment"
 msgid "Used for warning notifications"
 msgstr "ଚେତାବନୀ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ ପାଇଁ ବ୍ୟବହୃତ ହୋଇଥାଏ"
 
-#: freespacenotifier/freespacenotifier.notifyrc:297
+#: freespacenotifier/freespacenotifier.notifyrc:296
 msgctxt "Name"
 msgid "Running low on disk space"
 msgstr ""
 
-#: freespacenotifier/freespacenotifier.notifyrc:363
+#: freespacenotifier/freespacenotifier.notifyrc:362
 msgctxt "Comment"
 msgid "You are running low on disk space"
 msgstr ""
@@ -1153,12 +1153,12 @@ msgctxt "Name"
 msgid "Users"
 msgstr ""
 
-#: kcms/users/kcm_users.desktop:32
+#: kcms/users/kcm_users.desktop:33
 msgctxt "Comment"
 msgid "Manage user accounts"
 msgstr ""
 
-#: kcms/users/kcm_users.desktop:55
+#: kcms/users/kcm_users.desktop:57
 msgctxt "X-KDE-Keywords"
 msgid ""
 "users,accounts,profile picture,profile photo,avatar,name,password,passwords,"
@@ -1191,12 +1191,12 @@ msgctxt "Name"
 msgid "Klipper"
 msgstr ""
 
-#: klipper/klipper.desktop:92 klipper/org.kde.klipper.desktop:92
+#: klipper/klipper.desktop:91 klipper/org.kde.klipper.desktop:91
 msgctxt "GenericName"
 msgid "Clipboard Tool"
 msgstr ""
 
-#: klipper/klipper.desktop:195 klipper/org.kde.klipper.desktop:195
+#: klipper/klipper.desktop:193 klipper/org.kde.klipper.desktop:193
 msgctxt "Comment"
 msgid "A cut & paste history utility"
 msgstr ""
@@ -1206,89 +1206,89 @@ msgctxt "Description"
 msgid "Jpeg-Image"
 msgstr ""
 
-#: klipper/klipperrc.desktop:110
+#: klipper/klipperrc.desktop:109
 msgctxt "Description"
 msgid "Launch &Gwenview"
 msgstr ""
 
-#: klipper/klipperrc.desktop:192
+#: klipper/klipperrc.desktop:190
 msgctxt "Description"
 msgid "Web-URL"
 msgstr ""
 
-#: klipper/klipperrc.desktop:286 klipper/klipperrc.desktop:1962
+#: klipper/klipperrc.desktop:283 klipper/klipperrc.desktop:1941
 msgctxt "Description"
 msgid "Open with &default Browser"
 msgstr ""
 
-#: klipper/klipperrc.desktop:369 klipper/klipperrc.desktop:2045
+#: klipper/klipperrc.desktop:365 klipper/klipperrc.desktop:2023
 msgctxt "Description"
 msgid "Open with &Konqueror"
 msgstr ""
 
-#: klipper/klipperrc.desktop:463 klipper/klipperrc.desktop:2138
+#: klipper/klipperrc.desktop:458 klipper/klipperrc.desktop:2115
 msgctxt "Description"
 msgid "Open with &Mozilla"
 msgstr ""
 
-#: klipper/klipperrc.desktop:556 klipper/klipperrc.desktop:1398
-#: klipper/klipperrc.desktop:1680 klipper/klipperrc.desktop:2231
+#: klipper/klipperrc.desktop:550 klipper/klipperrc.desktop:1383
+#: klipper/klipperrc.desktop:1662 klipper/klipperrc.desktop:2207
 msgctxt "Description"
 msgid "Send &URL"
 msgstr ""
 
-#: klipper/klipperrc.desktop:651
+#: klipper/klipperrc.desktop:644
 msgctxt "Description"
 msgid "Open with &Firefox"
 msgstr ""
 
-#: klipper/klipperrc.desktop:742
+#: klipper/klipperrc.desktop:734
 msgctxt "Description"
 msgid "Send &Page"
 msgstr ""
 
-#: klipper/klipperrc.desktop:836
+#: klipper/klipperrc.desktop:827
 msgctxt "Description"
 msgid "Mail-URL"
 msgstr ""
 
-#: klipper/klipperrc.desktop:930
+#: klipper/klipperrc.desktop:920
 msgctxt "Description"
 msgid "Launch &Kmail"
 msgstr ""
 
-#: klipper/klipperrc.desktop:1023
+#: klipper/klipperrc.desktop:1012
 msgctxt "Description"
 msgid "Launch &mutt"
 msgstr ""
 
-#: klipper/klipperrc.desktop:1115
+#: klipper/klipperrc.desktop:1103
 msgctxt "Description"
 msgid "Text File"
 msgstr ""
 
-#: klipper/klipperrc.desktop:1212
+#: klipper/klipperrc.desktop:1199
 msgctxt "Description"
 msgid "Launch K&Write"
 msgstr ""
 
-#: klipper/klipperrc.desktop:1304
+#: klipper/klipperrc.desktop:1290
 msgctxt "Description"
 msgid "Local file URL"
 msgstr ""
 
-#: klipper/klipperrc.desktop:1492 klipper/klipperrc.desktop:1774
-#: klipper/klipperrc.desktop:2325
+#: klipper/klipperrc.desktop:1476 klipper/klipperrc.desktop:1755
+#: klipper/klipperrc.desktop:2300
 msgctxt "Description"
 msgid "Send &File"
 msgstr ""
 
-#: klipper/klipperrc.desktop:1586
+#: klipper/klipperrc.desktop:1569
 msgctxt "Description"
 msgid "Gopher URL"
 msgstr ""
 
-#: klipper/klipperrc.desktop:1868
+#: klipper/klipperrc.desktop:1848
 msgctxt "Description"
 msgid "ftp URL"
 msgstr ""
@@ -1595,7 +1595,7 @@ msgctxt "Name"
 msgid "Accessibility"
 msgstr "ଅଭିଗମ୍ୟତା"
 
-#: menu/desktop/kf5-utilities-accessibility.directory:98
+#: menu/desktop/kf5-utilities-accessibility.directory:97
 msgctxt "Comment"
 msgid "Accessibility"
 msgstr "ଅଭିଗମ୍ୟତା"
@@ -1647,7 +1647,7 @@ msgctxt "Name"
 msgid "Peripherals"
 msgstr "ପେରିଫେରାଲ"
 
-#: menu/desktop/kf5-utilities-peripherals.directory:94
+#: menu/desktop/kf5-utilities-peripherals.directory:93
 msgctxt "Comment"
 msgid "Peripherals"
 msgstr "ପେରିଫେରାଲ"
@@ -1657,7 +1657,7 @@ msgctxt "Name"
 msgid "PIM"
 msgstr "PIM"
 
-#: menu/desktop/kf5-utilities-pim.directory:91
+#: menu/desktop/kf5-utilities-pim.directory:90
 msgctxt "Comment"
 msgid "PIM"
 msgstr "PIM"
@@ -1822,7 +1822,7 @@ msgctxt "Name"
 msgid "Applications"
 msgstr "ପ୍ରୟୋଗଗୁଡ଼ିକ"
 
-#: runners/services/plasma-runner-services.desktop:95
+#: runners/services/plasma-runner-services.desktop:94
 msgctxt "Comment"
 msgid "Find applications, control panels and services"
 msgstr "ପ୍ରୟୋଗ, ନିୟନ୍ତ୍ରଣ ପଟି ଏବଂ ସର୍ଭିସଗୁଡ଼ିକୁ ଖୋଜନ୍ତୁ"
@@ -1962,7 +1962,7 @@ msgctxt "Name"
 msgid "CDE"
 msgstr "CDE"
 
-#: themes/qtcde.themerc:92
+#: themes/qtcde.themerc:91
 msgctxt "Comment"
 msgid "Built-in unthemed CDE style"
 msgstr "ସନ୍ନିହିତ ଅପ୍ରାସଙ୍ଗିକ CDE ଶୈଳୀ"
@@ -1995,7 +1995,7 @@ msgctxt "Name"
 msgid "Motif"
 msgstr "Motif"
 
-#: themes/qtmotif.themerc:86
+#: themes/qtmotif.themerc:85
 msgctxt "Comment"
 msgid "Built-in unthemed Motif style"
 msgstr "ସନ୍ନିହିତ ଅପ୍ରାସଙ୍ଗିକ Motif ଶୈଳୀ"
@@ -2018,7 +2018,7 @@ msgctxt "Name"
 msgid "MS Windows 9x"
 msgstr "MS Windows 9x"
 
-#: themes/qtwindows.themerc:89
+#: themes/qtwindows.themerc:88
 msgctxt "Comment"
 msgid "Built-in unthemed Windows 9x style"
 msgstr "ସନ୍ନିହିତ ଅପ୍ରାସଙ୍ଗିକ Windows 9x ଶୈଳୀ"
