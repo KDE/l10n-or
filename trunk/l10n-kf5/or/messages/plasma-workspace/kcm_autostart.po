@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcm_autostart\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-15 00:20+0000\n"
+"POT-Creation-Date: 2021-11-30 00:46+0000\n"
 "PO-Revision-Date: 2009-01-05 12:35+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -20,53 +20,6 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-
-#, kde-format
-msgctxt "NAME OF TRANSLATORS"
-msgid "Your names"
-msgstr "ମନୋଜ କୁମାର ଗିରି"
-
-#, kde-format
-msgctxt "EMAIL OF TRANSLATORS"
-msgid "Your emails"
-msgstr "mgiri@redhat.com"
-
-#: autostart.cpp:24
-#, kde-format
-msgid "Autostart"
-msgstr ""
-
-#: autostart.cpp:26
-#, fuzzy, kde-format
-#| msgid "KDE Autostart Manager Control Panel Module"
-msgid "Session Autostart Manager Control Panel Module"
-msgstr "KDE ସ୍ୱୟଂଚାଳନ ପରିଚାଳକ ନିୟନ୍ତ୍ରଣ ପ୍ୟାନେଲ ଏକକାଂଶ"
-
-#: autostart.cpp:28
-#, fuzzy, kde-format
-#| msgid "(c) 2006-2007-2008 Autostart Manager team"
-msgid "Copyright © 2006–2020 Autostart Manager team"
-msgstr "(c) 2006-2007-2008 ସ୍ୱୟଂଚାଳନ ପରିଚାଳକ ସଂଙ୍ଘ"
-
-#: autostart.cpp:29
-#, kde-format
-msgid "Stephen Leaf"
-msgstr "Stephen Leaf"
-
-#: autostart.cpp:30
-#, kde-format
-msgid "Montel Laurent"
-msgstr "Montel Laurent"
-
-#: autostart.cpp:30
-#, kde-format
-msgid "Maintainer"
-msgstr "ତତ୍ୱାବଧାରକ"
-
-#: autostart.cpp:31
-#, kde-format
-msgid "Nicolas Fella"
-msgstr ""
 
 #: autostartmodel.cpp:288
 #, kde-format
@@ -164,6 +117,33 @@ msgstr "ସ୍କ୍ରିପ୍ଟ ଯୋଗକରନ୍ତୁ..."
 #| msgid "Add Script..."
 msgid "Add Logout Script…"
 msgstr "ସ୍କ୍ରିପ୍ଟ ଯୋଗକରନ୍ତୁ..."
+
+#~ msgctxt "NAME OF TRANSLATORS"
+#~ msgid "Your names"
+#~ msgstr "ମନୋଜ କୁମାର ଗିରି"
+
+#~ msgctxt "EMAIL OF TRANSLATORS"
+#~ msgid "Your emails"
+#~ msgstr "mgiri@redhat.com"
+
+#, fuzzy
+#~| msgid "KDE Autostart Manager Control Panel Module"
+#~ msgid "Session Autostart Manager Control Panel Module"
+#~ msgstr "KDE ସ୍ୱୟଂଚାଳନ ପରିଚାଳକ ନିୟନ୍ତ୍ରଣ ପ୍ୟାନେଲ ଏକକାଂଶ"
+
+#, fuzzy
+#~| msgid "(c) 2006-2007-2008 Autostart Manager team"
+#~ msgid "Copyright © 2006–2020 Autostart Manager team"
+#~ msgstr "(c) 2006-2007-2008 ସ୍ୱୟଂଚାଳନ ପରିଚାଳକ ସଂଙ୍ଘ"
+
+#~ msgid "Stephen Leaf"
+#~ msgstr "Stephen Leaf"
+
+#~ msgid "Montel Laurent"
+#~ msgstr "Montel Laurent"
+
+#~ msgid "Maintainer"
+#~ msgstr "ତତ୍ୱାବଧାରକ"
 
 #, fuzzy
 #~| msgid "Advanced"
