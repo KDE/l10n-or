@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-09 00:46+0000\n"
+"POT-Creation-Date: 2021-12-11 00:46+0000\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1238,11 +1238,16 @@ msgstr ""
 msgid "SSH Key"
 msgstr ""
 
-#: plugins/SSHManager/sshmanagerpluginwidget.cpp:192
+#: plugins/SSHManager/sshmanagerpluginwidget.cpp:193
 #, kde-format
 msgid ""
 "You are about to remove the folder %1,\n"
 " with multiple SSH Configurations, are you sure?"
+msgstr ""
+
+#: plugins/SSHManager/sshmanagerpluginwidget.cpp:194
+#, kde-format
+msgid "You are about to remove %1, are you sure?"
 msgstr ""
 
 #: plugins/SSHManager/sshmanagerpluginwidget.cpp:201
