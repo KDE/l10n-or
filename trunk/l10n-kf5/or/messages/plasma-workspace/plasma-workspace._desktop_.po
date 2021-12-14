@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-13 00:52+0000\n"
+"POT-Creation-Date: 2021-12-14 00:54+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -364,7 +364,7 @@ msgctxt "Name"
 msgid "Users"
 msgstr ""
 
-#: kcms/users/kcm_users.desktop:32
+#: kcms/users/kcm_users.desktop:33
 msgctxt "Comment"
 msgid "Manage user accounts"
 msgstr ""
@@ -953,6 +953,14 @@ msgctxt "Comment"
 msgid "Built-in unthemed Windows 9x style"
 msgstr "ସନ୍ନିହିତ ଅପ୍ରାସଙ୍ଗିକ Windows 9x ଶୈଳୀ"
 
+#: wallpapers/image/imagepackage/setaswallpaper.desktop.in:9
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Slideshow"
+msgctxt "Name"
+msgid "Set as Wallpaper"
+msgstr "ସ୍ଲାଇଡ଼ ଦୃଶ୍ୟ"
+
 #: wallpapers/image/wallpaper.knsrc:2 wallpapers/image/wallpaper-mobile.knsrc:2
 msgctxt "Name"
 msgid "Wallpapers"
@@ -1004,13 +1012,6 @@ msgstr ""
 
 #~ msgctxt "Name"
 #~ msgid "Slideshow"
-#~ msgstr "ସ୍ଲାଇଡ଼ ଦୃଶ୍ୟ"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Slideshow"
-#~ msgctxt "Comment"
-#~ msgid "Slideshow wallpaper"
 #~ msgstr "ସ୍ଲାଇଡ଼ ଦୃଶ୍ୟ"
 
 #, fuzzy
