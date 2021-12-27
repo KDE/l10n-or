@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-12 00:57+0000\n"
+"POT-Creation-Date: 2021-12-27 00:54+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -543,6 +543,11 @@ msgstr "ଚିହ୍ନିତ ସ୍ଥାନ"
 msgctxt "Name"
 msgid "Calculator"
 msgstr "କାଲକୁଲେଟର"
+
+#: runners/helprunner/helprunner.json
+msgctxt "Name"
+msgid "Help Runner"
+msgstr ""
 
 #: runners/kill/plasma-runner-kill.json
 #, fuzzy
@@ -1190,6 +1195,11 @@ msgctxt "Description"
 msgid "Calculate expressions"
 msgstr "ଅଭିବ୍ୟକ୍ତିଗୁଡ଼ିକୁ ଗଣନା କରନ୍ତୁ"
 
+#: runners/helprunner/helprunner.json
+msgctxt "Description"
+msgid "Shows help information about runners when typing \"?\" or \"help\""
+msgstr ""
+
 #: runners/kill/plasma-runner-kill.json
 msgctxt "Description"
 msgid "Stop applications that are currently running"
@@ -1449,6 +1459,11 @@ msgstr ""
 msgctxt "Authors Name"
 msgid "Plasma Team"
 msgstr "ପ୍ଲାଜମା ଡ଼େସ୍କଟପ କାର୍ଯ୍ୟସ୍ଥଳ"
+
+#: runners/helprunner/helprunner.json
+msgctxt "Authors Name"
+msgid "Alexander Lohnau"
+msgstr ""
 
 #: runners/kill/plasma-runner-kill.json
 msgctxt "Authors Name"
