@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmcomponentchooser\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-06-26 00:19+0000\n"
+"POT-Creation-Date: 2022-01-01 00:45+0000\n"
 "PO-Revision-Date: 2009-01-05 16:52+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -59,6 +59,12 @@ msgstr "ଭିନ୍ନ ଏକ ଇମେଲ କ୍ଲାଏଣ୍ଟକୁ ବ�
 msgid "Select default file manager"
 msgstr "ପସନ୍ଦ ଯୋଗ୍ୟ ଇମେଲ କ୍ଲାଏଣ୍ଟକୁ ବାଛନ୍ତୁ:"
 
+#: componentchoosergeo.cpp:11
+#, fuzzy, kde-format
+#| msgid "Select preferred email client:"
+msgid "Select default map"
+msgstr "ପସନ୍ଦ ଯୋଗ୍ୟ ଇମେଲ କ୍ଲାଏଣ୍ଟକୁ ବାଛନ୍ତୁ:"
+
 #: componentchooserterminal.cpp:24
 #, fuzzy, kde-format
 #| msgid "Select preferred terminal application:"
@@ -106,6 +112,11 @@ msgstr ""
 #| msgid "Select preferred terminal application:"
 msgid "Terminal emulator:"
 msgstr "ପସନ୍ଦ ଯୋଗ୍ୟ ଟର୍ମିନାଲ ପ୍ରୟୋଗକୁ ବାଛନ୍ତୁ:"
+
+#: package/contents/ui/main.qml:48
+#, kde-format
+msgid "Map:"
+msgstr ""
 
 #~ msgid "Unknown"
 #~ msgstr "ଅଜଣା"
