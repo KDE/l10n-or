@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-01 00:18+0000\n"
+"POT-Creation-Date: 2022-01-12 00:45+0000\n"
 "PO-Revision-Date: 2008-12-26 16:53+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -20,6 +20,12 @@ msgstr ""
 "\n"
 "\n"
 "X-Generator: KBabel 1.11.4\n"
+
+#. i18n: ectx: Menu (tools)
+#: konq_shellcmdplugin.rc:4
+#, kde-format
+msgid "&Tools"
+msgstr "ସାଧନ (&T)"
 
 #: kshellcmdexecutor.cpp:106
 #, kde-format
@@ -58,12 +64,6 @@ msgstr "ପ୍ରଚଳିତ ଡ଼ିରେକ୍ଟରୀରେ ସେଲ ନ
 #, kde-format
 msgid "Output from command: \"%1\""
 msgstr "ନିର୍ଦ୍ଦେଶର ଫଳାଫଳ: \"%1\""
-
-#. i18n: ectx: Menu (tools)
-#: kshellcmdplugin.rc:4
-#, kde-format
-msgid "&Tools"
-msgstr "ସାଧନ (&T)"
 
 #~ msgid "no name"
 #~ msgstr "କୌଣସି ନାମ ନାହିଁ"
