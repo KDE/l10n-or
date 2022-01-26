@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-16 02:16+0000\n"
+"POT-Creation-Date: 2022-01-26 02:16+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -23,20 +23,10 @@ msgstr ""
 "\n"
 "\n"
 
-#: keditfiletype/filetypes.desktop:12
+#: keditfiletype/kcm_filetypes.desktop:7
 msgctxt "Name"
 msgid "File Associations"
 msgstr "ଫାଇଲ ସଂସ୍ଥା"
-
-#: keditfiletype/filetypes.desktop:105
-msgctxt "Comment"
-msgid "Configure file associations"
-msgstr "ଫାଇଲ ସଂସ୍ଥା ବିନ୍ୟାସ କରନ୍ତୁ"
-
-#: keditfiletype/filetypes.desktop:197
-msgctxt "X-KDE-Keywords"
-msgid "Filetypes,File Associations,Mime Types,File Patterns,Files,Pattern"
-msgstr ""
 
 #: keditfiletype/org.kde.keditfiletype.desktop:2
 msgctxt "Name"
@@ -58,6 +48,10 @@ msgstr "ପାଠ୍ୟ ସମ୍ପାଦକ"
 msgctxt "Name"
 msgid "Open System Settings"
 msgstr "ତନ୍ତ୍ର ବିନ୍ୟାସ"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure file associations"
+#~ msgstr "ଫାଇଲ ସଂସ୍ଥା ବିନ୍ୟାସ କରନ୍ତୁ"
 
 #, fuzzy
 #~| msgctxt "Name"
