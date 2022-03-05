@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-11-22 00:39+0000\n"
+"POT-Creation-Date: 2022-03-05 00:57+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -55,6 +55,11 @@ msgstr "OpenGL"
 #: Modules/energy/kcm_energyinfo.json
 msgctxt "Name"
 msgid "Energy"
+msgstr ""
+
+#: Modules/firmware_security/kcm_firmware_security.json
+msgctxt "Name"
+msgid "Firmware Security"
 msgstr ""
 
 #: Modules/glx/kcm_glx.json
@@ -144,6 +149,14 @@ msgstr "OpenGL ସୂଚନା"
 msgctxt "Description"
 msgid "Energy Consumption Statistics"
 msgstr ""
+
+#: Modules/firmware_security/kcm_firmware_security.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Memory information"
+msgctxt "Description"
+msgid "Firmware Security Information"
+msgstr "ସ୍ମୃତିସ୍ଥାନ ସୂଚନା"
 
 #: Modules/glx/kcm_glx.json
 #, fuzzy
@@ -283,13 +296,6 @@ msgstr "X-ସର୍ଭର ସୂଚନା"
 #~ msgctxt "GenericName"
 #~ msgid "Info Center"
 #~ msgstr "ସୂଚନା କେନ୍ଦ୍ର"
-
-#, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Memory information"
-#~ msgctxt "Name"
-#~ msgid "Energy Information"
-#~ msgstr "ସ୍ମୃତିସ୍ଥାନ ସୂଚନା"
 
 #~ msgctxt "Name"
 #~ msgid "DMA-Channels"
