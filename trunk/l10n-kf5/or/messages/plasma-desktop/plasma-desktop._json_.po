@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-25 00:54+0000\n"
+"POT-Creation-Date: 2022-03-18 00:58+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -226,6 +226,14 @@ msgctxt "Name"
 msgid "Plasma Renderer"
 msgstr ""
 
+#: kcms/runners/kcm_krunnersettings.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Joystick settings"
+msgctxt "Name"
+msgid "KRunner Settings"
+msgstr "Joystick ସଂରଚନା"
+
 #: kcms/runners/kcm_plasmasearch.json
 #, fuzzy
 #| msgctxt "Name"
@@ -338,12 +346,9 @@ msgid "Panel Toolbox"
 msgstr "ନେଟୱର୍କ ସାଧନ"
 
 #: applets/icontasks/metadata.json
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Switch between running applications"
 msgctxt "Description"
-msgid "Switch between running applications"
-msgstr "ଚାଲୁଥିବା ପ୍ରୟୋଗଗୁଡ଼ିକ ମଧ୍ଯରେ ଅଦଳ ବଦଳ କରନ୍ତୁ"
+msgid "Modern dock-style window switcher displaying only icons"
+msgstr ""
 
 #: applets/keyboardlayout/metadata.json
 #, fuzzy
@@ -404,12 +409,9 @@ msgid "Shows the desktop by moving windows aside"
 msgstr ""
 
 #: applets/taskmanager/package/metadata.json
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Switch between virtual desktops"
 msgctxt "Description"
-msgid "Switch between tasks"
-msgstr "ଆଭାସୀ ଡ଼େସ୍କଟପଗୁଡ଼ିକ ମଧ୍ଯରେ ଅଦଳ ବଦଳ କରନ୍ତୁ"
+msgid "Classic taskbar-style window switcher displaying icons and text"
+msgstr ""
 
 #: applets/trash/package/metadata.json
 msgctxt "Description"
@@ -418,7 +420,7 @@ msgstr ""
 
 #: applets/window-list/metadata.json
 msgctxt "Description"
-msgid "Plasmoid to show list of opened windows."
+msgid "Show open windows in a menu"
 msgstr ""
 
 #: containments/desktop/package/metadata.json
@@ -554,6 +556,14 @@ msgstr "ପ୍ରୟୋଗ ଆରମ୍ଭକର୍ତ୍ତା"
 msgctxt "Description"
 msgid "Mouse Controls"
 msgstr "ତାରିଖ ଏବଂ ସମୟ"
+
+#: kcms/runners/kcm_krunnersettings.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure the spell checker"
+msgctxt "Description"
+msgid "Configure KRunner behavior"
+msgstr "ବନାନ ଯାଞ୍ଚକାରୀକୁ ସଂରଚନା କରନ୍ତୁ"
 
 #: kcms/runners/kcm_plasmasearch.json
 #, fuzzy
@@ -758,6 +768,20 @@ msgstr ""
 msgctxt "Authors Name"
 msgid "Plasma Team"
 msgstr "ଅଂଶ ଖୋଜନ୍ତୁ"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Switch between running applications"
+#~ msgctxt "Description"
+#~ msgid "Switch between running applications"
+#~ msgstr "ଚାଲୁଥିବା ପ୍ରୟୋଗଗୁଡ଼ିକ ମଧ୍ଯରେ ଅଦଳ ବଦଳ କରନ୍ତୁ"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Switch between virtual desktops"
+#~ msgctxt "Description"
+#~ msgid "Switch between tasks"
+#~ msgstr "ଆଭାସୀ ଡ଼େସ୍କଟପଗୁଡ଼ିକ ମଧ୍ଯରେ ଅଦଳ ବଦଳ କରନ୍ତୁ"
 
 #~ msgctxt "Comment"
 #~ msgid "Accessibility"
