@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-03-12 00:54+0000\n"
+"POT-Creation-Date: 2022-04-04 00:54+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -80,6 +80,25 @@ msgstr ""
 msgctxt "Name"
 msgid "Information"
 msgstr "PCI ସୂଚନା"
+
+#: Modules/about-distro/src/dmidecode-helper/org.kde.kinfocenter.dmidecode.actions:6
+msgctxt "Name"
+msgid "Desktop Management Interface"
+msgstr ""
+
+#: Modules/about-distro/src/dmidecode-helper/org.kde.kinfocenter.dmidecode.actions:11
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "PCI information"
+msgctxt "Name"
+msgid "System Information"
+msgstr "PCI ସୂଚନା"
+
+#: Modules/about-distro/src/dmidecode-helper/org.kde.kinfocenter.dmidecode.actions:12
+msgctxt "Description"
+msgid ""
+"Read system information from system's Desktop Management Interface (DMI)"
+msgstr ""
 
 #: org.kde.kinfocenter.desktop:9
 #, fuzzy
@@ -276,13 +295,6 @@ msgstr ""
 #~ msgctxt "Comment"
 #~ msgid "Memory information"
 #~ msgstr "ସ୍ମୃତିସ୍ଥାନ ସୂଚନା"
-
-#, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "PCI information"
-#~ msgctxt "Name"
-#~ msgid "System Information"
-#~ msgstr "PCI ସୂଚନା"
 
 #, fuzzy
 #~| msgctxt "Comment"
