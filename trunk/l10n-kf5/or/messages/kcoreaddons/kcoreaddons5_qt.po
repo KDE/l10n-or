@@ -944,14 +944,21 @@ msgctxt "KFormat|"
 msgid "%1 at %2"
 msgstr "%1 ଏବଂ %2"
 
-#: lib/util/klistopenfilesjob_unix.cpp:37
+#: lib/util/klistopenfilesjob_unix.cpp:38
 #, fuzzy, qt-format
 #| msgid "File %1 does not exist"
 msgctxt "QObject|"
 msgid "Path %1 doesn't exist"
 msgstr "ଫାଇଲ %1 ଅବସ୍ଥିତ ନାହିଁ"
 
-#: lib/util/klistopenfilesjob_unix.cpp:50
+#: lib/util/klistopenfilesjob_unix.cpp:45
+#, fuzzy
+#| msgid "Could not find '%1' executable."
+msgctxt "QObject|"
+msgid "Could not find lsof executable in PATH:"
+msgstr "'%1' ନିଷ୍ପାଦ୍ୟକୁ ଖୋଜିପାଇଲା ନାହିଁ।"
+
+#: lib/util/klistopenfilesjob_unix.cpp:60
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to execute `lsof' error code %1"
@@ -7504,9 +7511,6 @@ msgstr ""
 
 #~ msgid "XML parsing error"
 #~ msgstr "XML ବିଶ୍ଳେଷଣ ତ୍ରୁଟି"
-
-#~ msgid "Could not find '%1' executable."
-#~ msgstr "'%1' ନିଷ୍ପାଦ୍ୟକୁ ଖୋଜିପାଇଲା ନାହିଁ।"
 
 #~ msgid ""
 #~ "Could not open library '%1'.\n"
