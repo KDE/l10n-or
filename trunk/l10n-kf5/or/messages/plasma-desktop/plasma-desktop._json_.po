@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-23 00:57+0000\n"
+"POT-Creation-Date: 2022-07-24 00:57+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -225,6 +225,14 @@ msgstr "ମାଉସ"
 msgctxt "Name"
 msgid "Plasma Renderer"
 msgstr ""
+
+#: kcms/recentFiles/kcm_recentFiles.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Font Files"
+msgctxt "Name"
+msgid "Recent Files"
+msgstr "ଅକ୍ଷରରୂପ ଫାଇଲଗୁଡ଼ିକ"
 
 #: kcms/runners/krunner/kcm_krunnersettings.json
 #, fuzzy
@@ -557,6 +565,11 @@ msgstr "ପ୍ରୟୋଗ ଆରମ୍ଭକର୍ତ୍ତା"
 msgctxt "Description"
 msgid "Mouse Controls"
 msgstr "ତାରିଖ ଏବଂ ସମୟ"
+
+#: kcms/recentFiles/kcm_recentFiles.json
+msgctxt "Description"
+msgid "Manage your file activity history preferences"
+msgstr ""
 
 #: kcms/runners/krunner/kcm_krunnersettings.json
 #, fuzzy
@@ -1245,10 +1258,6 @@ msgstr "ଅଂଶ ଖୋଜନ୍ତୁ"
 #~ msgctxt "Comment"
 #~ msgid "Install, manage and preview fonts"
 #~ msgstr "ଅକ୍ଷରରୂପଗୁଡ଼ିକୁ ସ୍ଥାପନ କରନ୍ତୁ, ପରିଚାଳନ କରନ୍ତୁ, ଏବଂ ପ୍ରାକଦର୍ଶନ କରନ୍ତୁ"
-
-#~ msgctxt "Name"
-#~ msgid "Font Files"
-#~ msgstr "ଅକ୍ଷରରୂପ ଫାଇଲଗୁଡ଼ିକ"
 
 #~ msgctxt "Name"
 #~ msgid "Font Viewer"
