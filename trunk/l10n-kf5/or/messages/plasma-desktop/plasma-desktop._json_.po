@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-24 00:57+0000\n"
+"POT-Creation-Date: 2022-07-30 00:59+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -22,6 +22,14 @@ msgstr ""
 "\n"
 "\n"
 "\n"
+
+#: applets/activitypager/metadata.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Service Manager"
+msgctxt "Name"
+msgid "Activity Pager"
+msgstr "ସର୍ଭିସ ପରିଚାଳକ"
 
 #: applets/icontasks/metadata.json
 #, fuzzy
@@ -353,6 +361,14 @@ msgctxt "Name"
 msgid "Panel Toolbox"
 msgstr "ନେଟୱର୍କ ସାଧନ"
 
+#: applets/activitypager/metadata.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Switch between virtual desktops"
+msgctxt "Description"
+msgid "Switch between activities"
+msgstr "ଆଭାସୀ ଡ଼େସ୍କଟପଗୁଡ଼ିକ ମଧ୍ଯରେ ଅଦଳ ବଦଳ କରନ୍ତୁ"
+
 #: applets/icontasks/metadata.json
 msgctxt "Description"
 msgid "Modern dock-style window switcher displaying only icons"
@@ -681,6 +697,14 @@ msgctxt "Description"
 msgid "Manage Plasma panel"
 msgstr "ପ୍ଲାଜମା ସହାୟକ ପୁସ୍ତକ"
 
+#: applets/activitypager/metadata.json applets/pager/package/metadata.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Customize individual desktop theme items"
+msgctxt "Authors Name"
+msgid "The Plasma Team"
+msgstr "ବ୍ୟକ୍ତିଗତ ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବସ୍ତୁଗୁଡ଼ିକୁ ଇଚ୍ଛାରୂପଣ କରୁଅଛି"
+
 #: applets/icontasks/metadata.json applets/kicker/package/metadata.json
 #: applets/taskmanager/package/metadata.json applets/window-list/metadata.json
 #: containments/desktop/package/metadata.json containments/folder/metadata.json
@@ -719,14 +743,6 @@ msgstr ""
 msgctxt "Authors Name"
 msgid "Sebastian Kügler"
 msgstr ""
-
-#: applets/pager/package/metadata.json
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Customize individual desktop theme items"
-msgctxt "Authors Name"
-msgid "The Plasma Team"
-msgstr "ବ୍ୟକ୍ତିଗତ ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବସ୍ତୁଗୁଡ଼ିକୁ ଇଚ୍ଛାରୂପଣ କରୁଅଛି"
 
 #: applets/showActivityManager/package/metadata.json
 msgctxt "Authors Name"
@@ -792,13 +808,6 @@ msgstr "ଅଂଶ ଖୋଜନ୍ତୁ"
 #~ msgctxt "Description"
 #~ msgid "Switch between running applications"
 #~ msgstr "ଚାଲୁଥିବା ପ୍ରୟୋଗଗୁଡ଼ିକ ମଧ୍ଯରେ ଅଦଳ ବଦଳ କରନ୍ତୁ"
-
-#, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Switch between virtual desktops"
-#~ msgctxt "Description"
-#~ msgid "Switch between tasks"
-#~ msgstr "ଆଭାସୀ ଡ଼େସ୍କଟପଗୁଡ଼ିକ ମଧ୍ଯରେ ଅଦଳ ବଦଳ କରନ୍ତୁ"
 
 #~ msgctxt "Comment"
 #~ msgid "Accessibility"
