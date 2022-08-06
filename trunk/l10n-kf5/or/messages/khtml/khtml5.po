@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-06-06 00:41+0000\n"
+"POT-Creation-Date: 2022-08-06 00:42+0000\n"
 "PO-Revision-Date: 2009-01-02 17:37+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1534,11 +1534,6 @@ msgstr "ନୂତନ ୱେବ ସଂକ୍ଷିପ୍ତ ପଥ"
 msgid "%1 is already assigned to %2"
 msgstr "%1 କୁ ପୂର୍ବରୁ %2 କୁ ନିର୍ଦ୍ଧିଷ୍ଟ କରାଯାଇଛି"
 
-#: rendering/render_form.cpp:922
-#, kde-format
-msgid "Error"
-msgstr "ତ୍ରୁଟି"
-
 #: rendering/render_form.cpp:968
 #, kde-format
 msgid "Search &provider name:"
@@ -1682,6 +1677,9 @@ msgstr "ମାରାତ୍ମକ ବିଶ୍ଳେଷଣ ତ୍ରୁଟି: %1
 #, kde-format
 msgid "XML parsing error"
 msgstr "XML ବିଶ୍ଳେଷଣ ତ୍ରୁଟି"
+
+#~ msgid "Error"
+#~ msgstr "ତ୍ରୁଟି"
 
 #~ msgid "Initializing Applet \"%1\"..."
 #~ msgstr "ଆପଲେଟ \"%1\"କୁ ପ୍ରାରମ୍ଭିକରଣ କରାଯାଉଛି..."
