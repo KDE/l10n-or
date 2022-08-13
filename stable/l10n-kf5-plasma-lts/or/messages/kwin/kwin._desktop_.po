@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-16 02:24+0000\n"
+"POT-Creation-Date: 2022-08-13 03:05+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -48,7 +48,7 @@ msgctxt "Name"
 msgid "Eye on Screen"
 msgstr ""
 
-#: src/effects/eyeonscreen/package/metadata.desktop:42
+#: src/effects/eyeonscreen/package/metadata.desktop:43
 msgctxt "Comment"
 msgid "Suck windows into the desktop"
 msgstr ""
@@ -81,7 +81,7 @@ msgctxt "Name"
 msgid "Fading Popups"
 msgstr ""
 
-#: src/effects/fadingpopups/package/metadata.desktop:41
+#: src/effects/fadingpopups/package/metadata.desktop:42
 msgctxt "Comment"
 msgid "Make popups smoothly fade in and out when they are shown or hidden"
 msgstr ""
@@ -91,7 +91,7 @@ msgctxt "Name"
 msgid "Desaturate Unresponsive Applications"
 msgstr ""
 
-#: src/effects/frozenapp/package/metadata.desktop:46
+#: src/effects/frozenapp/package/metadata.desktop:47
 msgctxt "Comment"
 msgid "Desaturate windows of unresponsive (frozen) applications"
 msgstr ""
@@ -101,7 +101,7 @@ msgctxt "Comment"
 msgid "Animation for a window going to and leaving full screen mode"
 msgstr ""
 
-#: src/effects/fullscreen/package/metadata.desktop:37
+#: src/effects/fullscreen/package/metadata.desktop:38
 msgctxt "Name"
 msgid "Full Screen"
 msgstr ""
@@ -129,7 +129,7 @@ msgctxt "Name"
 msgid "Logout"
 msgstr "ଲଗଆଉଟ"
 
-#: src/effects/logout/package/metadata.desktop:44
+#: src/effects/logout/package/metadata.desktop:45
 msgctxt "Comment"
 msgid "Smoothly fade to the logout screen"
 msgstr ""
@@ -139,7 +139,7 @@ msgctxt "Comment"
 msgid "Animation for a window going to maximize/restore from maximize"
 msgstr ""
 
-#: src/effects/maximize/package/metadata.desktop:52
+#: src/effects/maximize/package/metadata.desktop:53
 msgctxt "Name"
 msgid "Maximize"
 msgstr ""
@@ -150,7 +150,7 @@ msgid ""
 "Cross fade animation when Tooltips or Notifications change their geometry"
 msgstr ""
 
-#: src/effects/morphingpopups/package/metadata.desktop:45
+#: src/effects/morphingpopups/package/metadata.desktop:46
 msgctxt "Name"
 msgid "Morphing popups"
 msgstr ""
@@ -160,7 +160,7 @@ msgctxt "Name"
 msgid "Scale"
 msgstr ""
 
-#: src/effects/scale/package/metadata.desktop:42
+#: src/effects/scale/package/metadata.desktop:43
 msgctxt "Comment"
 msgid "Make windows smoothly scale in and out when they are shown or hidden"
 msgstr ""
@@ -170,7 +170,7 @@ msgctxt "Name"
 msgid "Session Quit"
 msgstr ""
 
-#: src/effects/sessionquit/package/metadata.desktop:41
+#: src/effects/sessionquit/package/metadata.desktop:42
 msgctxt "Comment"
 msgid "Keep the desktop background alive during logout until the end"
 msgstr ""
@@ -180,7 +180,7 @@ msgctxt "Comment"
 msgid "Squash windows when they are minimized"
 msgstr ""
 
-#: src/effects/squash/package/metadata.desktop:40
+#: src/effects/squash/package/metadata.desktop:41
 msgctxt "Name"
 msgid "Squash"
 msgstr ""
@@ -203,7 +203,7 @@ msgctxt "Name"
 msgid "Window Aperture"
 msgstr "MS Windows 9x"
 
-#: src/effects/windowaperture/package/metadata.desktop:48
+#: src/effects/windowaperture/package/metadata.desktop:49
 msgctxt "Comment"
 msgid "Move windows into screen corners"
 msgstr ""
@@ -213,12 +213,12 @@ msgctxt "Name"
 msgid "Compositor"
 msgstr ""
 
-#: src/kcmkwin/kwincompositing/kwincompositing.desktop:62
+#: src/kcmkwin/kwincompositing/kwincompositing.desktop:63
 msgctxt "Comment"
 msgid "Compositor Settings for Desktop Effects"
 msgstr ""
 
-#: src/kcmkwin/kwincompositing/kwincompositing.desktop:110
+#: src/kcmkwin/kwincompositing/kwincompositing.desktop:112
 msgctxt "X-KDE-Keywords"
 msgid ""
 "kwin,window,manager,compositing,compositor,effect,3D effects,2D effects,"
@@ -241,7 +241,7 @@ msgctxt "Comment"
 msgid "Configure window titlebars and borders"
 msgstr ""
 
-#: src/kcmkwin/kwindecoration/kwindecoration.desktop:117
+#: src/kcmkwin/kwindecoration/kwindecoration.desktop:118
 msgctxt "X-KDE-Keywords"
 msgid ""
 "kwin,window,manager,border,style,theme,look,feel,layout,button,handle,edge,"
@@ -263,7 +263,7 @@ msgctxt "Comment"
 msgid "Configure navigation, number and layout of virtual desktops"
 msgstr ""
 
-#: src/kcmkwin/kwindesktop/kcm_kwin_virtualdesktops.desktop:117
+#: src/kcmkwin/kwindesktop/kcm_kwin_virtualdesktops.desktop:118
 msgctxt "X-KDE-Keywords"
 msgid ""
 "desktop,desktops,number,virtual desktop,multiple desktops,pager,pager widget,"
@@ -276,12 +276,12 @@ msgctxt "Name"
 msgid "Desktop Effects"
 msgstr ""
 
-#: src/kcmkwin/kwineffects/kcm_kwin_effects.desktop:66
+#: src/kcmkwin/kwineffects/kcm_kwin_effects.desktop:67
 msgctxt "Comment"
 msgid "Configure compositor settings for desktop effects"
 msgstr ""
 
-#: src/kcmkwin/kwineffects/kcm_kwin_effects.desktop:104
+#: src/kcmkwin/kwineffects/kcm_kwin_effects.desktop:106
 msgctxt "X-KDE-Keywords"
 msgid ""
 "kwin,window,manager,effect,3D effects,2D effects,graphical effects,desktop "
@@ -310,7 +310,7 @@ msgctxt "Name"
 msgid "Window Manager Effects"
 msgstr "ୱିଣ୍ଡୋ ପରିଚାଳକ"
 
-#: src/kcmkwin/kwineffects/package/metadata.desktop:54
+#: src/kcmkwin/kwineffects/package/metadata.desktop:55
 msgctxt "Comment"
 msgid "Desktop Effects"
 msgstr ""
@@ -325,7 +325,7 @@ msgctxt "Comment"
 msgid "Configure window actions and behavior"
 msgstr ""
 
-#: src/kcmkwin/kwinoptions/kwinoptions.desktop:140
+#: src/kcmkwin/kwinoptions/kwinoptions.desktop:141
 msgctxt "X-KDE-Keywords"
 msgid ""
 "focus,placement,window behavior,window actions,animation,raise,auto raise,"
@@ -349,7 +349,7 @@ msgctxt "Comment"
 msgid "Individual Window Behavior"
 msgstr ""
 
-#: src/kcmkwin/kwinrules/kcm_kwinrules.desktop:129
+#: src/kcmkwin/kwinrules/kcm_kwinrules.desktop:130
 msgctxt "X-KDE-Keywords"
 msgid ""
 "size,position,state,window behavior,windows,specific,workarounds,remember,"
@@ -372,7 +372,7 @@ msgctxt "Comment"
 msgid "Configure active screen corners and edges"
 msgstr "ୱେବ କ୍ୟାଶେ ସଂରଚନାକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
 
-#: src/kcmkwin/kwinscreenedges/kwinscreenedges.desktop:123
+#: src/kcmkwin/kwinscreenedges/kwinscreenedges.desktop:124
 msgctxt "X-KDE-Keywords"
 msgid ""
 "kwin,window,manager,effect,corner,edge,border,action,switch,desktop,kwin "
@@ -386,7 +386,7 @@ msgctxt "Name"
 msgid "Touch Screen"
 msgstr ""
 
-#: src/kcmkwin/kwinscreenedges/kwintouchscreen.desktop:59
+#: src/kcmkwin/kwinscreenedges/kwintouchscreen.desktop:60
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure web cache settings"
@@ -394,7 +394,7 @@ msgctxt "Comment"
 msgid "Configure touch screen swipe gestures"
 msgstr "ୱେବ କ୍ୟାଶେ ସଂରଚନାକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
 
-#: src/kcmkwin/kwinscreenedges/kwintouchscreen.desktop:97
+#: src/kcmkwin/kwinscreenedges/kwintouchscreen.desktop:99
 msgctxt "X-KDE-Keywords"
 msgid ""
 "kwin,window,manager,effect,edge,border,action,switch,desktop,desktop edges,"
@@ -406,7 +406,7 @@ msgctxt "X-KDE-Keywords"
 msgid "kwin script,plugins,window manager"
 msgstr ""
 
-#: src/kcmkwin/kwinscripts/kwinscripts.desktop:43
+#: src/kcmkwin/kwinscripts/kwinscripts.desktop:44
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "CGI Scripts"
@@ -414,7 +414,7 @@ msgctxt "Name"
 msgid "KWin Scripts"
 msgstr "CGI ସ୍କ୍ରିପ୍ଟଗୁଡ଼ିକ"
 
-#: src/kcmkwin/kwinscripts/kwinscripts.desktop:96
+#: src/kcmkwin/kwinscripts/kwinscripts.desktop:98
 msgctxt "Comment"
 msgid "Manage KWin scripts"
 msgstr ""
@@ -445,7 +445,7 @@ msgctxt "Comment"
 msgid "Navigation Through Windows"
 msgstr ""
 
-#: src/kcmkwin/kwintabbox/kwintabbox.desktop:123
+#: src/kcmkwin/kwintabbox/kwintabbox.desktop:124
 msgctxt "X-KDE-Keywords"
 msgid ""
 "window,windows,switcher,window switcher,switching,window switching,alttab,"
@@ -462,12 +462,12 @@ msgctxt "Name"
 msgid "Virtual Keyboard"
 msgstr "ଡ଼େସ୍କଟପ"
 
-#: src/kcmkwin/kwinvirtualkeyboard/kcm_virtualkeyboard.desktop:51
+#: src/kcmkwin/kwinvirtualkeyboard/kcm_virtualkeyboard.desktop:52
 msgctxt "Comment"
 msgid "Select which virtual keyboard to use"
 msgstr ""
 
-#: src/kcmkwin/kwinvirtualkeyboard/kcm_virtualkeyboard.desktop:85
+#: src/kcmkwin/kwinvirtualkeyboard/kcm_virtualkeyboard.desktop:87
 msgctxt "X-KDE-Keywords"
 msgid ""
 "software keyboard,virtual keyboard,touch keyboard,on screen keyboard,input "
@@ -503,17 +503,17 @@ msgctxt "Name"
 msgid "Graphics Reset"
 msgstr "ଆଲେଖି"
 
-#: src/kwin.notifyrc:252
+#: src/kwin.notifyrc:253
 msgctxt "Comment"
 msgid "A graphics reset event occurred"
 msgstr ""
 
-#: src/kwin.notifyrc:303
+#: src/kwin.notifyrc:305
 msgctxt "Name"
 msgid "Xwayland Crash"
 msgstr ""
 
-#: src/kwin.notifyrc:337
+#: src/kwin.notifyrc:340
 msgctxt "Comment"
 msgid "Xwayland has crashed"
 msgstr ""
@@ -544,7 +544,7 @@ msgctxt "Name|plasma runner"
 msgid "Windows"
 msgstr "MS Windows 9x"
 
-#: src/plugins/krunner-integration/kwin-runner-windows.desktop:38
+#: src/plugins/krunner-integration/kwin-runner-windows.desktop:39
 msgctxt "Comment"
 msgid "List windows and desktops and switch them"
 msgstr ""
@@ -565,7 +565,7 @@ msgctxt "Name"
 msgid "Desktop Change OSD"
 msgstr "ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବିବରଣୀ"
 
-#: src/scripts/desktopchangeosd/metadata.desktop:54
+#: src/scripts/desktopchangeosd/metadata.desktop:55
 msgctxt "Comment"
 msgid "An on screen display indicating the desktop change"
 msgstr ""
@@ -575,7 +575,7 @@ msgctxt "Name"
 msgid "MinimizeAll"
 msgstr ""
 
-#: src/scripts/minimizeall/metadata.desktop:48
+#: src/scripts/minimizeall/metadata.desktop:49
 msgctxt "Comment"
 msgid "Adds a shortcut to minimize and restore all windows"
 msgstr ""
@@ -585,7 +585,7 @@ msgctxt "Name"
 msgid "Synchronize Skip Switcher with Taskbar"
 msgstr ""
 
-#: src/scripts/synchronizeskipswitcher/metadata.desktop:52
+#: src/scripts/synchronizeskipswitcher/metadata.desktop:53
 msgctxt "Comment"
 msgid ""
 "Hides all windows marked as Skip Taskbar to be also excluded from window "
@@ -600,7 +600,7 @@ msgctxt "Name"
 msgid "Video Wall"
 msgstr "ଭିଡ଼ଓ ଚାଳକ"
 
-#: src/scripts/videowall/metadata.desktop:54
+#: src/scripts/videowall/metadata.desktop:55
 msgctxt "Comment"
 msgid ""
 "Spans fullscreen video player over all attached screens to create a Video "
