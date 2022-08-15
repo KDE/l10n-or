@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-12 00:57+0000\n"
+"POT-Creation-Date: 2022-08-15 00:53+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -67,19 +67,6 @@ msgctxt "Name"
 msgid "Application Manuals"
 msgstr "ପ୍ରୟୋଗ ସହାୟକ ପୁସ୍ତକ"
 
-#: plugins/browsercontrolmodules.desktop:2
-msgctxt "Name"
-msgid "Browser Settings Modules"
-msgstr ""
-
-#: plugins/filemanagercontrolmodules.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "File Manager - Super User Mode"
-msgctxt "Name"
-msgid "Filemanager Settings Modules"
-msgstr "ଫାଇଲ ପରିଚାଳକ - ମୂଖ୍ୟ ଚାଳକ ସ୍ଥିତି"
-
 #: plugins/fundamentals.desktop:4
 #, fuzzy
 #| msgctxt "Name"
@@ -110,14 +97,6 @@ msgstr "KInfoCenter ଏକକାଂଶଗୁଡ଼ିକ"
 msgctxt "Name"
 msgid "KIO Workers"
 msgstr ""
-
-#: plugins/konquerorcontrolmodules.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Control Center Modules"
-msgctxt "Name"
-msgid "Konqueror Settings Modules"
-msgstr "ନିୟନ୍ତ୍ରଣ କେନ୍ଦ୍ର ଏକକାଂଶଗୁଡ଼ିକ"
 
 #: plugins/Manpages/.directory:2
 msgctxt "Name"
@@ -182,14 +161,6 @@ msgctxt "Name"
 msgid "Online Help"
 msgstr "ଡଲଫିନ ଦୃଶ୍ୟ"
 
-#: plugins/othercontrolmodules.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "System Settings"
-msgctxt "Name"
-msgid "Other Settings Modules"
-msgstr "ତନ୍ତ୍ର ବିନ୍ୟାସ"
-
 #: plugins/plasma.desktop:4
 msgctxt "Name"
 msgid "Plasma Manual"
@@ -199,6 +170,27 @@ msgstr "ପ୍ଲାଜମା ସହାୟକ ପୁସ୍ତକ"
 msgctxt "Name"
 msgid "Scrollkeeper"
 msgstr "Scrollkeeper"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "File Manager - Super User Mode"
+#~ msgctxt "Name"
+#~ msgid "Filemanager Settings Modules"
+#~ msgstr "ଫାଇଲ ପରିଚାଳକ - ମୂଖ୍ୟ ଚାଳକ ସ୍ଥିତି"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Control Center Modules"
+#~ msgctxt "Name"
+#~ msgid "Konqueror Settings Modules"
+#~ msgstr "ନିୟନ୍ତ୍ରଣ କେନ୍ଦ୍ର ଏକକାଂଶଗୁଡ଼ିକ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "System Settings"
+#~ msgctxt "Name"
+#~ msgid "Other Settings Modules"
+#~ msgstr "ତନ୍ତ୍ର ବିନ୍ୟାସ"
 
 #~ msgctxt "Name"
 #~ msgid "Kioslaves"
