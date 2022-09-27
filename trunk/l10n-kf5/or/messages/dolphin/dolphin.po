@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-09-16 00:47+0000\n"
+"POT-Creation-Date: 2022-09-27 00:48+0000\n"
 "PO-Revision-Date: 2009-01-07 17:06+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -30,25 +30,25 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
-#: dolphincontextmenu.cpp:129
+#: dolphincontextmenu.cpp:125
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Empty Trash"
 msgstr "ଖାଲି ଆବର୍ଜନା ପାତ୍ର"
 
-#: dolphincontextmenu.cpp:143
+#: dolphincontextmenu.cpp:139
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Restore"
 msgstr "ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ"
 
-#: dolphincontextmenu.cpp:189 dolphinmainwindow.cpp:1534
+#: dolphincontextmenu.cpp:185 dolphinmainwindow.cpp:1534
 #, kde-format
 msgctxt "@title:menu Create new folder, file, link, etc."
 msgid "Create New"
 msgstr "ନୂତନ ନିର୍ମାଣ କରନ୍ତୁ"
 
-#: dolphincontextmenu.cpp:213
+#: dolphincontextmenu.cpp:209
 #, fuzzy, kde-format
 #| msgctxt "@action:inmenu"
 #| msgid "Paste"
@@ -56,13 +56,13 @@ msgctxt "@action:inmenu"
 msgid "Open Path"
 msgstr "ଲଗାନ୍ତୁ"
 
-#: dolphincontextmenu.cpp:222
+#: dolphincontextmenu.cpp:218
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Open Path in New Window"
 msgstr ""
 
-#: dolphincontextmenu.cpp:229
+#: dolphincontextmenu.cpp:225
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Open Path in New Tab"
@@ -443,7 +443,7 @@ msgctxt "@action:intoolbar"
 msgid "Filter"
 msgstr "ଛାଣକ:"
 
-#: dolphinmainwindow.cpp:1654 search/dolphinsearchbox.cpp:333
+#: dolphinmainwindow.cpp:1654 search/dolphinsearchbox.cpp:332
 #, fuzzy, kde-format
 #| msgctxt "@action:inmenu"
 #| msgid "Empty Trash"
@@ -1144,29 +1144,29 @@ msgctxt "@action:inmenu Tools"
 msgid "Defocus Terminal Panel"
 msgstr ""
 
-#: dolphinnavigatorswidgetaction.cpp:208
+#: dolphinnavigatorswidgetaction.cpp:205
 #, kde-format
 msgid "Enter server URL (e.g. smb://[ip address])"
 msgstr ""
 
-#: dolphinnavigatorswidgetaction.cpp:235
+#: dolphinnavigatorswidgetaction.cpp:232
 #, kde-format
 msgctxt "@action:button"
 msgid "Empty Trash"
 msgstr "ଖାଲି ଆବର୍ଜନା ପାତ୍ର"
 
-#: dolphinnavigatorswidgetaction.cpp:236
+#: dolphinnavigatorswidgetaction.cpp:233
 #, kde-format
 msgid "Empties Trash to create free space"
 msgstr ""
 
-#: dolphinnavigatorswidgetaction.cpp:263
+#: dolphinnavigatorswidgetaction.cpp:260
 #, kde-format
 msgctxt "@action:button"
 msgid "Add Network Folder"
 msgstr ""
 
-#: dolphinnavigatorswidgetaction.cpp:298
+#: dolphinnavigatorswidgetaction.cpp:295
 #, fuzzy, kde-format
 #| msgctxt "@label:textbox"
 #| msgid "Location:"
@@ -1370,7 +1370,7 @@ msgid ""
 "dedicated page in the Handbook.</para>"
 msgstr ""
 
-#: dolphinviewcontainer.cpp:90
+#: dolphinviewcontainer.cpp:87
 #, kde-kuit-format
 msgctxt "@info:whatsthis findbar"
 msgid ""
@@ -1385,85 +1385,85 @@ msgid ""
 "find an item.</item></list></para>"
 msgstr ""
 
-#: dolphinviewcontainer.cpp:110
+#: dolphinviewcontainer.cpp:107
 #, kde-format
 msgid "Running Dolphin as root can be dangerous. Please be careful."
 msgstr ""
 
-#: dolphinviewcontainer.cpp:547 search/dolphinsearchbox.cpp:291
+#: dolphinviewcontainer.cpp:544 search/dolphinsearchbox.cpp:290
 #, kde-format
 msgid "Search for %1 in %2"
 msgstr ""
 
-#: dolphinviewcontainer.cpp:583
+#: dolphinviewcontainer.cpp:580
 #, fuzzy, kde-format
 #| msgctxt "@action:inmenu"
 #| msgid "Empty Trash"
 msgid "Search"
 msgstr "ଖାଲି ଆବର୍ଜନା ପାତ୍ର"
 
-#: dolphinviewcontainer.cpp:585
+#: dolphinviewcontainer.cpp:582
 #, kde-format
 msgid "Search for %1"
 msgstr ""
 
-#: dolphinviewcontainer.cpp:669
+#: dolphinviewcontainer.cpp:666
 #, kde-format
 msgctxt "@info:progress"
 msgid "Loading folder..."
 msgstr "ଫୋଲଡ଼ର ଧାରଣ କରୁଅଛି..."
 
-#: dolphinviewcontainer.cpp:677
+#: dolphinviewcontainer.cpp:674
 #, kde-format
 msgctxt "@info:progress"
 msgid "Sorting..."
 msgstr ""
 
-#: dolphinviewcontainer.cpp:688
+#: dolphinviewcontainer.cpp:685
 #, kde-format
 msgctxt "@info"
 msgid "Searching..."
 msgstr ""
 
-#: dolphinviewcontainer.cpp:709
+#: dolphinviewcontainer.cpp:706
 #, kde-format
 msgctxt "@info:status"
 msgid "No items found."
 msgstr ""
 
-#: dolphinviewcontainer.cpp:831
+#: dolphinviewcontainer.cpp:828
 #, kde-format
 msgctxt "@info:status"
 msgid "Dolphin does not support web pages, the web browser has been launched"
 msgstr "Dolphin ୱେବ ପୃଷ୍ଟାଗୁଡ଼ିକୁ ସମର୍ଥନ କରେନାହିଁ, ୱେବ ବ୍ରାଉଜର ଆରମ୍ଭ ହୋଇଛି"
 
-#: dolphinviewcontainer.cpp:835
+#: dolphinviewcontainer.cpp:832
 #, kde-format
 msgctxt "@info:status"
 msgid ""
 "Protocol not supported by Dolphin, default application has been launched"
 msgstr ""
 
-#: dolphinviewcontainer.cpp:842
+#: dolphinviewcontainer.cpp:839
 #, kde-format
 msgctxt "@info:status"
 msgid "Invalid protocol"
 msgstr "ଅବୈଧ ପ୍ରୋଟୋକଲ"
 
-#: filterbar/filterbar.cpp:27
+#: filterbar/filterbar.cpp:26
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Keep Filter When Changing Folders"
 msgstr ""
 
-#: filterbar/filterbar.cpp:35
+#: filterbar/filterbar.cpp:34
 #, fuzzy, kde-format
 #| msgctxt "@label:textbox"
 #| msgid "Filter:"
 msgid "Filter..."
 msgstr "ଛାଣକ:"
 
-#: filterbar/filterbar.cpp:44
+#: filterbar/filterbar.cpp:43
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Hide Filter Bar"
@@ -2135,32 +2135,32 @@ msgctxt "@info:status"
 msgid "Unknown error."
 msgstr "ଅଜଣା ଆକାର"
 
-#: main.cpp:88
+#: main.cpp:86
 #, fuzzy, kde-format
 #| msgctxt "@title"
 #| msgid "Dolphin"
 msgid "Dolphin"
 msgstr "Dolphin"
 
-#: main.cpp:89
+#: main.cpp:87
 #, kde-format
 msgctxt "@title"
 msgid "File Manager"
 msgstr "ଫାଇଲ ପରିଚାଳକ"
 
-#: main.cpp:91
+#: main.cpp:89
 #, kde-format
 msgctxt "@info:credit"
 msgid "(C) 2006-2022 The Dolphin Developers"
 msgstr ""
 
-#: main.cpp:93
+#: main.cpp:91
 #, kde-format
 msgctxt "@info:credit"
 msgid "Felix Ernst"
 msgstr ""
 
-#: main.cpp:94
+#: main.cpp:92
 #, fuzzy, kde-format
 #| msgctxt "@info:credit"
 #| msgid "Maintainer and developer"
@@ -2168,13 +2168,13 @@ msgctxt "@info:credit"
 msgid "Maintainer (since 2021) and developer"
 msgstr "ତତ୍ୱାବଧରକ ଏବଂ ବିକାଶକାରୀ"
 
-#: main.cpp:96
+#: main.cpp:94
 #, kde-format
 msgctxt "@info:credit"
 msgid "Méven Car"
 msgstr ""
 
-#: main.cpp:97
+#: main.cpp:95
 #, fuzzy, kde-format
 #| msgctxt "@info:credit"
 #| msgid "Maintainer and developer"
@@ -2182,13 +2182,13 @@ msgctxt "@info:credit"
 msgid "Maintainer (since 2021) and developer (since 2019)"
 msgstr "ତତ୍ୱାବଧରକ ଏବଂ ବିକାଶକାରୀ"
 
-#: main.cpp:99
+#: main.cpp:97
 #, kde-format
 msgctxt "@info:credit"
 msgid "Elvis Angelaccio"
 msgstr ""
 
-#: main.cpp:100
+#: main.cpp:98
 #, fuzzy, kde-format
 #| msgctxt "@info:credit"
 #| msgid "Maintainer and developer"
@@ -2196,13 +2196,13 @@ msgctxt "@info:credit"
 msgid "Maintainer (2018-2021) and developer"
 msgstr "ତତ୍ୱାବଧରକ ଏବଂ ବିକାଶକାରୀ"
 
-#: main.cpp:102
+#: main.cpp:100
 #, kde-format
 msgctxt "@info:credit"
 msgid "Emmanuel Pescosta"
 msgstr ""
 
-#: main.cpp:103
+#: main.cpp:101
 #, fuzzy, kde-format
 #| msgctxt "@info:credit"
 #| msgid "Maintainer and developer"
@@ -2210,13 +2210,13 @@ msgctxt "@info:credit"
 msgid "Maintainer (2014-2018) and developer"
 msgstr "ତତ୍ୱାବଧରକ ଏବଂ ବିକାଶକାରୀ"
 
-#: main.cpp:105
+#: main.cpp:103
 #, kde-format
 msgctxt "@info:credit"
 msgid "Frank Reininghaus"
 msgstr ""
 
-#: main.cpp:106
+#: main.cpp:104
 #, fuzzy, kde-format
 #| msgctxt "@info:credit"
 #| msgid "Maintainer and developer"
@@ -2224,13 +2224,13 @@ msgctxt "@info:credit"
 msgid "Maintainer (2012-2014) and developer"
 msgstr "ତତ୍ୱାବଧରକ ଏବଂ ବିକାଶକାରୀ"
 
-#: main.cpp:108
+#: main.cpp:106
 #, kde-format
 msgctxt "@info:credit"
 msgid "Peter Penz"
 msgstr "Peter Penz"
 
-#: main.cpp:109
+#: main.cpp:107
 #, fuzzy, kde-format
 #| msgctxt "@info:credit"
 #| msgid "Maintainer and developer"
@@ -2238,92 +2238,92 @@ msgctxt "@info:credit"
 msgid "Maintainer and developer (2006-2012)"
 msgstr "ତତ୍ୱାବଧରକ ଏବଂ ବିକାଶକାରୀ"
 
-#: main.cpp:111
+#: main.cpp:109
 #, kde-format
 msgctxt "@info:credit"
 msgid "Sebastian Trüg"
 msgstr ""
 
-#: main.cpp:112 main.cpp:115 main.cpp:118 main.cpp:121 main.cpp:124
-#: main.cpp:127 main.cpp:130
+#: main.cpp:110 main.cpp:113 main.cpp:116 main.cpp:119 main.cpp:122
+#: main.cpp:125 main.cpp:128
 #, kde-format
 msgctxt "@info:credit"
 msgid "Developer"
 msgstr "ବିକାଶକାରୀ"
 
-#: main.cpp:114
+#: main.cpp:112
 #, kde-format
 msgctxt "@info:credit"
 msgid "David Faure"
 msgstr "David Faure"
 
-#: main.cpp:117
+#: main.cpp:115
 #, kde-format
 msgctxt "@info:credit"
 msgid "Aaron J. Seigo"
 msgstr "Aaron J. Seigo"
 
-#: main.cpp:120
+#: main.cpp:118
 #, kde-format
 msgctxt "@info:credit"
 msgid "Rafael Fernández López"
 msgstr "Rafael Fernández López"
 
-#: main.cpp:123
+#: main.cpp:121
 #, kde-format
 msgctxt "@info:credit"
 msgid "Kevin Ottens"
 msgstr "Kevin Ottens"
 
-#: main.cpp:126
+#: main.cpp:124
 #, kde-format
 msgctxt "@info:credit"
 msgid "Holger Freyther"
 msgstr "Holger Freyther"
 
-#: main.cpp:129
+#: main.cpp:127
 #, kde-format
 msgctxt "@info:credit"
 msgid "Max Blazejak"
 msgstr "Max Blazejak"
 
-#: main.cpp:132
+#: main.cpp:130
 #, kde-format
 msgctxt "@info:credit"
 msgid "Michael Austin"
 msgstr "Michael Austin"
 
-#: main.cpp:133
+#: main.cpp:131
 #, kde-format
 msgctxt "@info:credit"
 msgid "Documentation"
 msgstr "ଦଲିଲିକରଣ"
 
-#: main.cpp:142
+#: main.cpp:140
 #, kde-format
 msgctxt "@info:shell"
 msgid "The files and folders passed as arguments will be selected."
 msgstr ""
 
-#: main.cpp:144
+#: main.cpp:142
 #, kde-format
 msgctxt "@info:shell"
 msgid "Dolphin will get started with a split view."
 msgstr ""
 
-#: main.cpp:145
+#: main.cpp:143
 #, kde-format
 msgctxt "@info:shell"
 msgid "Dolphin will explicitly open in a new window."
 msgstr ""
 
-#: main.cpp:146
+#: main.cpp:144
 #, kde-format
 msgctxt "@info:shell"
 msgid "Start Dolphin Daemon (only required for DBus Interface)"
 msgstr ""
 
-#: main.cpp:147
+#: main.cpp:145
 #, kde-format
 msgctxt "@info:shell"
 msgid "Document to open"
@@ -2427,7 +2427,7 @@ msgstr ""
 msgid "Date display format"
 msgstr ""
 
-#: panels/information/informationpanel.cpp:154
+#: panels/information/informationpanel.cpp:153
 #, fuzzy, kde-format
 #| msgctxt "@label:listbox"
 #| msgid "Preview:"
@@ -2435,13 +2435,13 @@ msgctxt "@action:inmenu"
 msgid "Preview"
 msgstr "ପ୍ରାକଦର୍ଶନ:"
 
-#: panels/information/informationpanel.cpp:159
+#: panels/information/informationpanel.cpp:158
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Auto-Play media files"
 msgstr ""
 
-#: panels/information/informationpanel.cpp:164
+#: panels/information/informationpanel.cpp:163
 #, fuzzy, kde-format
 #| msgctxt "@label"
 #| msgid "Change Comment..."
@@ -2449,19 +2449,19 @@ msgctxt "@action:inmenu"
 msgid "Configure..."
 msgstr "ଟିପ୍ପଣୀ ପରିବର୍ତ୍ତନ କରନ୍ତୁ..."
 
-#: panels/information/informationpanel.cpp:170
+#: panels/information/informationpanel.cpp:169
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Condensed Date"
 msgstr ""
 
-#: panels/information/informationpanelcontent.cpp:111
+#: panels/information/informationpanelcontent.cpp:109
 #, kde-format
 msgctxt "@label::textbox"
 msgid "Select which data should be shown:"
 msgstr ""
 
-#: panels/information/informationpanelcontent.cpp:305
+#: panels/information/informationpanelcontent.cpp:303
 #, fuzzy, kde-format
 #| msgctxt "@info"
 #| msgid "%1 item selected"
@@ -2488,7 +2488,7 @@ msgstr ""
 msgid "Size of icons in the Places Panel (-1 means \"automatic\")"
 msgstr ""
 
-#: panels/places/placespanel.cpp:49
+#: panels/places/placespanel.cpp:48
 #, fuzzy, kde-format
 #| msgctxt "@label"
 #| msgid "Change Comment..."
@@ -2496,12 +2496,12 @@ msgctxt "@action:inmenu"
 msgid "Configure Trash…"
 msgstr "ଟିପ୍ପଣୀ ପରିବର୍ତ୍ତନ କରନ୍ତୁ..."
 
-#: panels/places/placespanel.cpp:244
+#: panels/places/placespanel.cpp:243
 #, kde-format
 msgid "One or more files on this device are open within an application."
 msgstr ""
 
-#: panels/places/placespanel.cpp:251
+#: panels/places/placespanel.cpp:250
 #, kde-kuit-format
 msgid ""
 "One or more files on this device are opened in application <application>"
@@ -2512,20 +2512,20 @@ msgid_plural ""
 msgstr[0] ""
 msgstr[1] ""
 
-#: panels/places/placespanel.cpp:253
+#: panels/places/placespanel.cpp:252
 #, kde-format
 msgctxt "separator in list of apps blocking device unmount"
 msgid ", "
 msgstr ""
 
-#: panels/terminal/terminalpanel.cpp:179
+#: panels/terminal/terminalpanel.cpp:177
 #, kde-format
 msgid ""
 "Terminal cannot be shown because Konsole is not installed. Please install it "
 "and then reopen the panel."
 msgstr ""
 
-#: panels/terminal/terminalpanel.cpp:185
+#: panels/terminal/terminalpanel.cpp:183
 #, kde-format
 msgid "Install Konsole"
 msgstr ""
@@ -2708,25 +2708,25 @@ msgctxt "@action:button"
 msgid "Add Tags"
 msgstr "ଆବର୍ଜନା ପାତ୍ର"
 
-#: search/dolphinsearchbox.cpp:101
+#: search/dolphinsearchbox.cpp:100
 #, kde-format
 msgctxt "action:button"
 msgid "From Here (%1)"
 msgstr ""
 
-#: search/dolphinsearchbox.cpp:102
+#: search/dolphinsearchbox.cpp:101
 #, kde-format
 msgctxt "action:button"
 msgid "Limit search to '%1' and its subfolders"
 msgstr ""
 
-#: search/dolphinsearchbox.cpp:346
+#: search/dolphinsearchbox.cpp:345
 #, kde-format
 msgctxt "action:button"
 msgid "Save this search to quickly access it again in the future"
 msgstr ""
 
-#: search/dolphinsearchbox.cpp:355
+#: search/dolphinsearchbox.cpp:354
 #, fuzzy, kde-format
 #| msgctxt "@label:listbox"
 #| msgid "Grid spacing:"
@@ -2734,7 +2734,7 @@ msgctxt "@info:tooltip"
 msgid "Quit searching"
 msgstr "ଜାଲି ମଧ୍ଯରେ ଖାଲି ସ୍ଥାନ:"
 
-#: search/dolphinsearchbox.cpp:366
+#: search/dolphinsearchbox.cpp:365
 #, fuzzy, kde-format
 #| msgctxt "@title"
 #| msgid "File Manager"
@@ -2742,7 +2742,7 @@ msgctxt "action:button"
 msgid "Filename"
 msgstr "ଫାଇଲ ପରିଚାଳକ"
 
-#: search/dolphinsearchbox.cpp:370
+#: search/dolphinsearchbox.cpp:369
 #, fuzzy, kde-format
 #| msgctxt "@label"
 #| msgid "Add Comment..."
@@ -2750,30 +2750,30 @@ msgctxt "action:button"
 msgid "Content"
 msgstr "ଟିପ୍ପଣୀ ଯୋଗକରନ୍ତୁ..."
 
-#: search/dolphinsearchbox.cpp:381
+#: search/dolphinsearchbox.cpp:380
 #, kde-format
 msgctxt "action:button"
 msgid "From Here"
 msgstr ""
 
-#: search/dolphinsearchbox.cpp:385
+#: search/dolphinsearchbox.cpp:384
 #, kde-format
 msgctxt "action:button"
 msgid "Your files"
 msgstr ""
 
-#: search/dolphinsearchbox.cpp:386
+#: search/dolphinsearchbox.cpp:385
 #, kde-format
 msgctxt "action:button"
 msgid "Search in your home directory"
 msgstr ""
 
-#: search/dolphinsearchbox.cpp:400
+#: search/dolphinsearchbox.cpp:399
 #, kde-format
 msgid "More Search Tools"
 msgstr ""
 
-#: search/dolphinsearchbox.cpp:462
+#: search/dolphinsearchbox.cpp:461
 #, kde-format
 msgctxt ""
 "@title UDS_DISPLAY_NAME for a KIO directory listing. %1 is the query the "
@@ -3022,7 +3022,7 @@ msgid_plural "Rename %2"
 msgstr[0] "ପୁନଃ ନାମକରଣ କରନ୍ତୁ"
 msgstr[1] "ପୁନଃ ନାମକରଣ କରନ୍ତୁ"
 
-#: selectionmode/topbar.cpp:35
+#: selectionmode/topbar.cpp:33
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
 msgid ""
@@ -3036,13 +3036,13 @@ msgid ""
 "the current selection.</para>"
 msgstr ""
 
-#: selectionmode/topbar.cpp:61
+#: selectionmode/topbar.cpp:59
 #, kde-format
 msgctxt "@info label above the view explaining the state"
 msgid "Selection Mode: Click on files or folders to select or deselect them."
 msgstr ""
 
-#: selectionmode/topbar.cpp:63
+#: selectionmode/topbar.cpp:61
 #, fuzzy, kde-format
 #| msgctxt "@action:inmenu"
 #| msgid "Delete"
@@ -3050,7 +3050,7 @@ msgctxt "@info label above the view explaining the state"
 msgid "Selection Mode"
 msgstr "ଅପସାରଣ କରନ୍ତୁ"
 
-#: selectionmode/topbar.cpp:69
+#: selectionmode/topbar.cpp:67
 #, fuzzy, kde-format
 #| msgctxt "@action:inmenu"
 #| msgid "Delete"
@@ -3937,7 +3937,7 @@ msgctxt "@title:tab Status Bar settings"
 msgid "Status Bar"
 msgstr "ସ୍ଥିତି ପଟି"
 
-#: settings/general/previewssettingspage.cpp:43
+#: settings/general/previewssettingspage.cpp:42
 #, fuzzy, kde-format
 #| msgctxt "@label:listbox"
 #| msgid "Preview:"
@@ -3945,32 +3945,32 @@ msgctxt "@title:group"
 msgid "Show previews in the view for:"
 msgstr "ପ୍ରାକଦର୍ଶନ:"
 
-#: settings/general/previewssettingspage.cpp:65
+#: settings/general/previewssettingspage.cpp:64
 #, fuzzy, kde-format
 #| msgctxt "@option:check Ask for Confirmation When"
 #| msgid "Deleting files or folders"
 msgid "Skip previews for local files above:"
 msgstr "ଫାଇଲ କିମ୍ବା ଫୋଲଡ଼ରଗୁଡ଼ିକୁ ଅପସାରଣ କରୁଅଛି"
 
-#: settings/general/previewssettingspage.cpp:69
-#: settings/general/previewssettingspage.cpp:82
+#: settings/general/previewssettingspage.cpp:68
+#: settings/general/previewssettingspage.cpp:81
 #, kde-format
 msgctxt "Mebibytes; used as a suffix in a spinbox showing e.g. '3 MiB'"
 msgid " MiB"
 msgstr ""
 
-#: settings/general/previewssettingspage.cpp:71
+#: settings/general/previewssettingspage.cpp:70
 #, kde-format
 msgid "No limit"
 msgstr ""
 
-#: settings/general/previewssettingspage.cpp:78
+#: settings/general/previewssettingspage.cpp:77
 #, kde-format
 msgctxt "@label"
 msgid "Skip previews for remote files above:"
 msgstr ""
 
-#: settings/general/previewssettingspage.cpp:84
+#: settings/general/previewssettingspage.cpp:83
 #, fuzzy, kde-format
 #| msgctxt "@label:listbox"
 #| msgid "Preview:"
@@ -4018,7 +4018,7 @@ msgctxt "@title:tab"
 msgid "Details"
 msgstr "ବିବରଣୀ"
 
-#: settings/navigation/navigationsettingspage.cpp:30
+#: settings/navigation/navigationsettingspage.cpp:29
 #, fuzzy, kde-format
 #| msgctxt "@action:button"
 #| msgid "Use Current Location"
@@ -4026,31 +4026,31 @@ msgctxt "option:radio"
 msgid "After current tab"
 msgstr "ପ୍ରଚଳିତ ସ୍ଥାନକୁ ବ୍ୟବହାର କରନ୍ତୁ"
 
-#: settings/navigation/navigationsettingspage.cpp:31
+#: settings/navigation/navigationsettingspage.cpp:30
 #, kde-format
 msgctxt "option:radio"
 msgid "At end of tab bar"
 msgstr ""
 
-#: settings/navigation/navigationsettingspage.cpp:35
+#: settings/navigation/navigationsettingspage.cpp:34
 #, kde-format
 msgctxt "@title:group"
 msgid "Open new tabs: "
 msgstr ""
 
-#: settings/navigation/navigationsettingspage.cpp:40
+#: settings/navigation/navigationsettingspage.cpp:39
 #, kde-format
 msgctxt "@option:check"
 msgid "Open archives as folder"
 msgstr ""
 
-#: settings/navigation/navigationsettingspage.cpp:41
+#: settings/navigation/navigationsettingspage.cpp:40
 #, kde-format
 msgctxt "option:check"
 msgid "Open folders during drag operations"
 msgstr ""
 
-#: settings/navigation/navigationsettingspage.cpp:42
+#: settings/navigation/navigationsettingspage.cpp:41
 #, fuzzy, kde-format
 #| msgctxt "@title:group General settings"
 #| msgid "General"
@@ -4167,7 +4167,7 @@ msgctxt "@action:button Choose font"
 msgid "Choose..."
 msgstr "ପସନ୍ଦ କରନ୍ତୁ..."
 
-#: settings/viewmodes/viewsettingstab.cpp:55
+#: settings/viewmodes/viewsettingstab.cpp:54
 #, fuzzy, kde-format
 #| msgctxt "@label:listbox"
 #| msgid "Default:"
@@ -4175,7 +4175,7 @@ msgctxt "@label:listbox"
 msgid "Default icon size:"
 msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ:"
 
-#: settings/viewmodes/viewsettingstab.cpp:63
+#: settings/viewmodes/viewsettingstab.cpp:62
 #, fuzzy, kde-format
 #| msgctxt "@label:listbox"
 #| msgid "Preview:"
@@ -4183,13 +4183,13 @@ msgctxt "@label:listbox"
 msgid "Preview icon size:"
 msgstr "ପ୍ରାକଦର୍ଶନ:"
 
-#: settings/viewmodes/viewsettingstab.cpp:71
+#: settings/viewmodes/viewsettingstab.cpp:70
 #, kde-format
 msgctxt "@label:listbox"
 msgid "Label font:"
 msgstr ""
 
-#: settings/viewmodes/viewsettingstab.cpp:76
+#: settings/viewmodes/viewsettingstab.cpp:75
 #, fuzzy, kde-format
 #| msgctxt "@title:group Size"
 #| msgid "Small"
@@ -4197,7 +4197,7 @@ msgctxt "@item:inlistbox Label width"
 msgid "Small"
 msgstr "ସାନ"
 
-#: settings/viewmodes/viewsettingstab.cpp:77
+#: settings/viewmodes/viewsettingstab.cpp:76
 #, fuzzy, kde-format
 #| msgctxt "@title:group Size"
 #| msgid "Medium"
@@ -4205,7 +4205,7 @@ msgctxt "@item:inlistbox Label width"
 msgid "Medium"
 msgstr "ମଧ୍ଯମ"
 
-#: settings/viewmodes/viewsettingstab.cpp:78
+#: settings/viewmodes/viewsettingstab.cpp:77
 #, fuzzy, kde-format
 #| msgctxt "@item:inlistbox Text width"
 #| msgid "Large"
@@ -4213,7 +4213,7 @@ msgctxt "@item:inlistbox Label width"
 msgid "Large"
 msgstr "ବଡ଼"
 
-#: settings/viewmodes/viewsettingstab.cpp:79
+#: settings/viewmodes/viewsettingstab.cpp:78
 #, fuzzy, kde-format
 #| msgctxt "@item:inlistbox Text width"
 #| msgid "Huge"
@@ -4221,7 +4221,7 @@ msgctxt "@item:inlistbox Label width"
 msgid "Huge"
 msgstr "ବୃହତ"
 
-#: settings/viewmodes/viewsettingstab.cpp:80
+#: settings/viewmodes/viewsettingstab.cpp:79
 #, fuzzy, kde-format
 #| msgctxt "@label:listbox"
 #| msgid "Text width:"
@@ -4229,43 +4229,43 @@ msgctxt "@label:listbox"
 msgid "Label width:"
 msgstr "ପାଠ୍ୟ ଓସାର:"
 
-#: settings/viewmodes/viewsettingstab.cpp:83
+#: settings/viewmodes/viewsettingstab.cpp:82
 #, kde-format
 msgctxt "@item:inlistbox Maximum lines"
 msgid "Unlimited"
 msgstr ""
 
-#: settings/viewmodes/viewsettingstab.cpp:84
+#: settings/viewmodes/viewsettingstab.cpp:83
 #, kde-format
 msgctxt "@item:inlistbox Maximum lines"
 msgid "1"
 msgstr ""
 
-#: settings/viewmodes/viewsettingstab.cpp:85
+#: settings/viewmodes/viewsettingstab.cpp:84
 #, kde-format
 msgctxt "@item:inlistbox Maximum lines"
 msgid "2"
 msgstr ""
 
-#: settings/viewmodes/viewsettingstab.cpp:86
+#: settings/viewmodes/viewsettingstab.cpp:85
 #, kde-format
 msgctxt "@item:inlistbox Maximum lines"
 msgid "3"
 msgstr ""
 
-#: settings/viewmodes/viewsettingstab.cpp:87
+#: settings/viewmodes/viewsettingstab.cpp:86
 #, kde-format
 msgctxt "@item:inlistbox Maximum lines"
 msgid "4"
 msgstr ""
 
-#: settings/viewmodes/viewsettingstab.cpp:88
+#: settings/viewmodes/viewsettingstab.cpp:87
 #, kde-format
 msgctxt "@item:inlistbox Maximum lines"
 msgid "5"
 msgstr ""
 
-#: settings/viewmodes/viewsettingstab.cpp:89
+#: settings/viewmodes/viewsettingstab.cpp:88
 #, fuzzy, kde-format
 #| msgctxt "@label:slider"
 #| msgid "Maximum file size:"
@@ -4273,13 +4273,13 @@ msgctxt "@label:listbox"
 msgid "Maximum lines:"
 msgstr "ସର୍ବାଧିକ ଫାଇଲ ଆକାର:"
 
-#: settings/viewmodes/viewsettingstab.cpp:94
+#: settings/viewmodes/viewsettingstab.cpp:93
 #, kde-format
 msgctxt "@item:inlistbox Maximum width"
 msgid "Unlimited"
 msgstr ""
 
-#: settings/viewmodes/viewsettingstab.cpp:95
+#: settings/viewmodes/viewsettingstab.cpp:94
 #, fuzzy, kde-format
 #| msgctxt "@title:group Size"
 #| msgid "Small"
@@ -4287,7 +4287,7 @@ msgctxt "@item:inlistbox Maximum width"
 msgid "Small"
 msgstr "ସାନ"
 
-#: settings/viewmodes/viewsettingstab.cpp:96
+#: settings/viewmodes/viewsettingstab.cpp:95
 #, fuzzy, kde-format
 #| msgctxt "@title:group Size"
 #| msgid "Medium"
@@ -4295,7 +4295,7 @@ msgctxt "@item:inlistbox Maximum width"
 msgid "Medium"
 msgstr "ମଧ୍ଯମ"
 
-#: settings/viewmodes/viewsettingstab.cpp:97
+#: settings/viewmodes/viewsettingstab.cpp:96
 #, fuzzy, kde-format
 #| msgctxt "@item:inlistbox Text width"
 #| msgid "Large"
@@ -4303,7 +4303,7 @@ msgctxt "@item:inlistbox Maximum width"
 msgid "Large"
 msgstr "ବଡ଼"
 
-#: settings/viewmodes/viewsettingstab.cpp:98
+#: settings/viewmodes/viewsettingstab.cpp:97
 #, fuzzy, kde-format
 #| msgctxt "@label:listbox"
 #| msgid "Text width:"
@@ -4311,13 +4311,13 @@ msgctxt "@label:listbox"
 msgid "Maximum width:"
 msgstr "ପାଠ୍ୟ ଓସାର:"
 
-#: settings/viewmodes/viewsettingstab.cpp:102
+#: settings/viewmodes/viewsettingstab.cpp:101
 #, kde-format
 msgctxt "@option:check"
 msgid "Expandable"
 msgstr ""
 
-#: settings/viewmodes/viewsettingstab.cpp:103
+#: settings/viewmodes/viewsettingstab.cpp:102
 #, fuzzy, kde-format
 #| msgctxt "@title:group Size"
 #| msgid "Folders"
@@ -4325,7 +4325,7 @@ msgctxt "@label:checkbox"
 msgid "Folders:"
 msgstr "ଫୋଲଡ଼ରଗୁଡ଼ିକ"
 
-#: settings/viewmodes/viewsettingstab.cpp:107
+#: settings/viewmodes/viewsettingstab.cpp:106
 #, fuzzy, kde-format
 #| msgctxt "@label:textbox"
 #| msgid "Number of lines:"
@@ -4333,38 +4333,38 @@ msgctxt "option:radio"
 msgid "Number of items"
 msgstr "ଧାଡ଼ି ସଂଖ୍ଯା:"
 
-#: settings/viewmodes/viewsettingstab.cpp:108
+#: settings/viewmodes/viewsettingstab.cpp:107
 #, kde-format
 msgctxt "option:radio"
 msgid "Size of contents, up to "
 msgstr ""
 
-#: settings/viewmodes/viewsettingstab.cpp:116
+#: settings/viewmodes/viewsettingstab.cpp:115
 #, kde-format
 msgid " level deep"
 msgid_plural " levels deep"
 msgstr[0] ""
 msgstr[1] ""
 
-#: settings/viewmodes/viewsettingstab.cpp:125
+#: settings/viewmodes/viewsettingstab.cpp:124
 #, kde-format
 msgctxt "@title:group"
 msgid "Folder size displays:"
 msgstr ""
 
-#: settings/viewmodes/viewsettingstab.cpp:134
+#: settings/viewmodes/viewsettingstab.cpp:133
 #, kde-format
 msgctxt "option:radio as in relative date"
 msgid "Relative (e.g. '%1')"
 msgstr ""
 
-#: settings/viewmodes/viewsettingstab.cpp:137
+#: settings/viewmodes/viewsettingstab.cpp:136
 #, kde-format
 msgctxt "option:radio as in absolute date"
 msgid "Absolute (e.g. '%1')"
 msgstr ""
 
-#: settings/viewmodes/viewsettingstab.cpp:144
+#: settings/viewmodes/viewsettingstab.cpp:143
 #, fuzzy, kde-format
 #| msgctxt "@action:inmenu"
 #| msgid "Paste"
@@ -4372,8 +4372,8 @@ msgctxt "@title:group"
 msgid "Date style:"
 msgstr "ଲଗାନ୍ତୁ"
 
-#: settings/viewmodes/viewsettingstab.cpp:289
-#: statusbar/dolphinstatusbar.cpp:321
+#: settings/viewmodes/viewsettingstab.cpp:288
+#: statusbar/dolphinstatusbar.cpp:320
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Size: 1 pixel"
@@ -4526,47 +4526,47 @@ msgid ""
 "The view properties of all folders will be changed. Do you want to continue?"
 msgstr ""
 
-#: settings/viewpropsprogressinfo.cpp:36
+#: settings/viewpropsprogressinfo.cpp:35
 #, kde-format
 msgctxt "@title:window"
 msgid "Applying View Properties"
 msgstr "ଦୃଶ୍ୟ ଗୁଣଧର୍ମ ପ୍ରୟୋଗ କରୁଅଛି"
 
-#: settings/viewpropsprogressinfo.cpp:48 settings/viewpropsprogressinfo.cpp:112
+#: settings/viewpropsprogressinfo.cpp:47 settings/viewpropsprogressinfo.cpp:111
 #, kde-format
 msgctxt "@info:progress"
 msgid "Counting folders: %1"
 msgstr "ଫୋଲଡ଼ର ଗଣୁଅଛି: %1"
 
-#: settings/viewpropsprogressinfo.cpp:128
+#: settings/viewpropsprogressinfo.cpp:127
 #, kde-format
 msgctxt "@info:progress"
 msgid "Folders: %1"
 msgstr "ଫୋଲଡ଼ର: %1"
 
-#: statusbar/dolphinstatusbar.cpp:53
+#: statusbar/dolphinstatusbar.cpp:52
 #, kde-format
 msgctxt "Used as a noun, i.e. 'Here is the zoom level:'"
 msgid "Zoom:"
 msgstr ""
 
-#: statusbar/dolphinstatusbar.cpp:57
+#: statusbar/dolphinstatusbar.cpp:56
 #, kde-format
 msgid "Zoom"
 msgstr ""
 
-#: statusbar/dolphinstatusbar.cpp:58
+#: statusbar/dolphinstatusbar.cpp:57
 #, kde-format
 msgctxt "Description for zoom-slider (accessibility)"
 msgid "Sets the size of the file icons."
 msgstr ""
 
-#: statusbar/dolphinstatusbar.cpp:72
+#: statusbar/dolphinstatusbar.cpp:71
 #, kde-format
 msgid "Stop"
 msgstr ""
 
-#: statusbar/dolphinstatusbar.cpp:74
+#: statusbar/dolphinstatusbar.cpp:73
 #, fuzzy, kde-format
 #| msgctxt "@option:check"
 #| msgid "Show space information"
@@ -4574,7 +4574,7 @@ msgctxt "@tooltip"
 msgid "Stop loading"
 msgstr "ସ୍ଥାନ ସୂଚନା ଦର୍ଶାନ୍ତୁ"
 
-#: statusbar/dolphinstatusbar.cpp:129
+#: statusbar/dolphinstatusbar.cpp:128
 #, kde-kuit-format
 msgctxt "@info:whatsthis Statusbar"
 msgid ""
@@ -4587,7 +4587,7 @@ msgid ""
 "device.</item></list></para>"
 msgstr ""
 
-#: statusbar/dolphinstatusbar.cpp:264
+#: statusbar/dolphinstatusbar.cpp:263
 #, fuzzy, kde-format
 #| msgctxt "@option:check"
 #| msgid "Show tooltips"
@@ -4595,7 +4595,7 @@ msgctxt "@action:inmenu"
 msgid "Show Zoom Slider"
 msgstr "ଉପକରଣ ସୂଚନା ଦର୍ଶାନ୍ତୁ"
 
-#: statusbar/dolphinstatusbar.cpp:268
+#: statusbar/dolphinstatusbar.cpp:267
 #, fuzzy, kde-format
 #| msgctxt "@option:check"
 #| msgid "Show space information"
@@ -4603,13 +4603,13 @@ msgctxt "@action:inmenu"
 msgid "Show Space Information"
 msgstr "ସ୍ଥାନ ସୂଚନା ଦର୍ଶାନ୍ତୁ"
 
-#: statusbar/statusbarspaceinfo.cpp:116
+#: statusbar/statusbarspaceinfo.cpp:117
 #, kde-format
 msgctxt "@info:status Free disk space"
 msgid "%1 free"
 msgstr "%1 ଖାଲିଅଛି"
 
-#: statusbar/statusbarspaceinfo.cpp:117
+#: statusbar/statusbarspaceinfo.cpp:118
 #, kde-format
 msgctxt "tooltip:status Free disk space"
 msgid "%1 free out of %2 (%3% used)"
@@ -4670,7 +4670,7 @@ msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ:"
 msgid "Reload"
 msgstr "ପଢ଼ନ୍ତୁ, "
 
-#: views/dolphinview.cpp:631
+#: views/dolphinview.cpp:630
 #, kde-format
 msgctxt "@info:status"
 msgid "1 Folder selected"
@@ -4678,7 +4678,7 @@ msgid_plural "%1 Folders selected"
 msgstr[0] ""
 msgstr[1] "%1 ଫୋଲଡ଼ର ବଛାହୋଇଛି"
 
-#: views/dolphinview.cpp:632
+#: views/dolphinview.cpp:631
 #, kde-format
 msgctxt "@info:status"
 msgid "1 File selected"
@@ -4686,7 +4686,7 @@ msgid_plural "%1 Files selected"
 msgstr[0] "1 ଫାଇଲ ବଛାହୋଇଛି"
 msgstr[1] "%1 ଫାଇଲ ବଛାହୋଇଛି"
 
-#: views/dolphinview.cpp:634
+#: views/dolphinview.cpp:633
 #, fuzzy, kde-format
 #| msgctxt "@label"
 #| msgid "Folder"
@@ -4696,7 +4696,7 @@ msgid_plural "%1 Folders"
 msgstr[0] "ଫୋଲଡ଼ର"
 msgstr[1] "ଫୋଲଡ଼ର"
 
-#: views/dolphinview.cpp:635
+#: views/dolphinview.cpp:634
 #, kde-format
 msgctxt "@info:status"
 msgid "1 File"
@@ -4704,19 +4704,19 @@ msgid_plural "%1 Files"
 msgstr[0] ""
 msgstr[1] ""
 
-#: views/dolphinview.cpp:639
+#: views/dolphinview.cpp:638
 #, kde-format
 msgctxt "@info:status folders, files (size)"
 msgid "%1, %2 (%3)"
 msgstr "%1, %2 (%3)"
 
-#: views/dolphinview.cpp:643
+#: views/dolphinview.cpp:642
 #, kde-format
 msgctxt "@info:status files (size)"
 msgid "%1 (%2)"
 msgstr "%1 (%2)"
 
-#: views/dolphinview.cpp:649
+#: views/dolphinview.cpp:648
 #, fuzzy, kde-format
 #| msgctxt "@title:group Size"
 #| msgid "Folders"
@@ -4724,20 +4724,20 @@ msgctxt "@info:status"
 msgid "0 Folders, 0 Files"
 msgstr "ଫୋଲଡ଼ରଗୁଡ଼ିକ"
 
-#: views/dolphinview.cpp:852 views/dolphinview.cpp:861
+#: views/dolphinview.cpp:851 views/dolphinview.cpp:860
 #, kde-format
 msgctxt "<filename> copy"
 msgid "%1 copy"
 msgstr ""
 
-#: views/dolphinview.cpp:1020
+#: views/dolphinview.cpp:1019
 #, kde-format
 msgid "Are you sure you want to open 1 item?"
 msgid_plural "Are you sure you want to open %1 items?"
 msgstr[0] ""
 msgstr[1] ""
 
-#: views/dolphinview.cpp:1022
+#: views/dolphinview.cpp:1021
 #, fuzzy, kde-format
 #| msgctxt "@action:inmenu"
 #| msgid "Paste"
@@ -4747,13 +4747,13 @@ msgid_plural "Open %1 Items"
 msgstr[0] "ଲଗାନ୍ତୁ"
 msgstr[1] "ଲଗାନ୍ତୁ"
 
-#: views/dolphinview.cpp:1151
+#: views/dolphinview.cpp:1150
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Side Padding"
 msgstr ""
 
-#: views/dolphinview.cpp:1155
+#: views/dolphinview.cpp:1154
 #, fuzzy, kde-format
 #| msgctxt "@title:tab"
 #| msgid "Column"
@@ -4761,7 +4761,7 @@ msgctxt "@action:inmenu"
 msgid "Automatic Column Widths"
 msgstr "ସ୍ତମ୍ଭ"
 
-#: views/dolphinview.cpp:1160
+#: views/dolphinview.cpp:1159
 #, fuzzy, kde-format
 #| msgctxt "@title:tab"
 #| msgid "Column"
@@ -4769,7 +4769,7 @@ msgctxt "@action:inmenu"
 msgid "Custom Column Widths"
 msgstr "ସ୍ତମ୍ଭ"
 
-#: views/dolphinview.cpp:1726
+#: views/dolphinview.cpp:1725
 #, fuzzy, kde-format
 #| msgctxt "@info:status"
 #| msgid "Delete operation completed."
@@ -4777,13 +4777,13 @@ msgctxt "@info:status"
 msgid "Trash operation completed."
 msgstr "ଅପସାରଣ କ୍ରିୟା ସମାପ୍ତହୋଇଛି।"
 
-#: views/dolphinview.cpp:1735
+#: views/dolphinview.cpp:1734
 #, kde-format
 msgctxt "@info:status"
 msgid "Delete operation completed."
 msgstr "ଅପସାରଣ କ୍ରିୟା ସମାପ୍ତହୋଇଛି।"
 
-#: views/dolphinview.cpp:1871
+#: views/dolphinview.cpp:1870
 #, fuzzy, kde-format
 #| msgctxt "@title:window"
 #| msgid "Rename Item"
@@ -4791,113 +4791,113 @@ msgctxt "@action:button"
 msgid "Rename and Hide"
 msgstr "ବସ୍ତୁର ପୁନଃ ନାମକରଣ କରନ୍ତୁ"
 
-#: views/dolphinview.cpp:1874
+#: views/dolphinview.cpp:1873
 #, kde-format
 msgid ""
 "Adding a dot to the beginning of this file's name will hide it from view.\n"
 "Do you still want to rename it?"
 msgstr ""
 
-#: views/dolphinview.cpp:1876
+#: views/dolphinview.cpp:1875
 #, kde-format
 msgid ""
 "Adding a dot to the beginning of this folder's name will hide it from view.\n"
 "Do you still want to rename it?"
 msgstr ""
 
-#: views/dolphinview.cpp:1878
+#: views/dolphinview.cpp:1877
 #, fuzzy, kde-format
 #| msgctxt "@action:inmenu"
 #| msgid "Show Hidden Files"
 msgid "Hide this File?"
 msgstr "ଲୁକ୍କାୟିତ ଫାଇଲଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ"
 
-#: views/dolphinview.cpp:1878
+#: views/dolphinview.cpp:1877
 #, fuzzy, kde-format
 #| msgctxt "@title:group"
 #| msgid "Home Folder"
 msgid "Hide this Folder?"
 msgstr "ମୂଖ୍ୟ ଫୋଲଡ଼ର"
 
-#: views/dolphinview.cpp:1930
+#: views/dolphinview.cpp:1929
 #, kde-format
 msgctxt "@info:status"
 msgid "The location is empty."
 msgstr "ସ୍ଥାନଟି ଖାଲିଅଛି।"
 
-#: views/dolphinview.cpp:1932
+#: views/dolphinview.cpp:1931
 #, kde-format
 msgctxt "@info:status"
 msgid "The location '%1' is invalid."
 msgstr "ସ୍ଥାନ '%1' ଟି ଅବୈଧ ଏଟେ।"
 
-#: views/dolphinview.cpp:2178
+#: views/dolphinview.cpp:2177
 #, fuzzy, kde-format
 #| msgctxt "@info:progress"
 #| msgid "Loading folder..."
 msgid "Loading..."
 msgstr "ଫୋଲଡ଼ର ଧାରଣ କରୁଅଛି..."
 
-#: views/dolphinview.cpp:2197
+#: views/dolphinview.cpp:2196
 #, fuzzy, kde-format
 #| msgctxt "@info:progress"
 #| msgid "Loading folder..."
 msgid "Loading canceled"
 msgstr "ଫୋଲଡ଼ର ଧାରଣ କରୁଅଛି..."
 
-#: views/dolphinview.cpp:2199
+#: views/dolphinview.cpp:2198
 #, kde-format
 msgid "No items matching the filter"
 msgstr ""
 
-#: views/dolphinview.cpp:2201
+#: views/dolphinview.cpp:2200
 #, kde-format
 msgid "No items matching the search"
 msgstr ""
 
-#: views/dolphinview.cpp:2203
+#: views/dolphinview.cpp:2202
 #, fuzzy, kde-format
 #| msgctxt "@info:status"
 #| msgid "The location is empty."
 msgid "Trash is empty"
 msgstr "ସ୍ଥାନଟି ଖାଲିଅଛି।"
 
-#: views/dolphinview.cpp:2206
+#: views/dolphinview.cpp:2205
 #, kde-format
 msgid "No tags"
 msgstr ""
 
-#: views/dolphinview.cpp:2209
+#: views/dolphinview.cpp:2208
 #, kde-format
 msgid "No files tagged with \"%1\""
 msgstr ""
 
-#: views/dolphinview.cpp:2213
+#: views/dolphinview.cpp:2212
 #, kde-format
 msgid "No recently used items"
 msgstr ""
 
-#: views/dolphinview.cpp:2215
+#: views/dolphinview.cpp:2214
 #, kde-format
 msgid "No shared folders found"
 msgstr ""
 
-#: views/dolphinview.cpp:2217
+#: views/dolphinview.cpp:2216
 #, kde-format
 msgid "No relevant network resources found"
 msgstr ""
 
-#: views/dolphinview.cpp:2219
+#: views/dolphinview.cpp:2218
 #, kde-format
 msgid "No MTP-compatible devices found"
 msgstr ""
 
-#: views/dolphinview.cpp:2221
+#: views/dolphinview.cpp:2220
 #, kde-format
 msgid "No Bluetooth devices found"
 msgstr ""
 
-#: views/dolphinview.cpp:2223
+#: views/dolphinview.cpp:2222
 #, fuzzy, kde-format
 #| msgctxt "@title:group Size"
 #| msgid "Folders"
