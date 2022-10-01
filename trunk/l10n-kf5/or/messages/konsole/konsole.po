@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-09-29 00:50+0000\n"
+"POT-Creation-Date: 2022-10-01 00:52+0000\n"
 "PO-Revision-Date: 2009-01-02 11:48+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -1222,13 +1222,13 @@ msgstr ""
 #: MainWindow.cpp:376
 #, kde-format
 msgctxt "@action:inmenu"
-msgid "Save tab layout to file"
+msgid "Save Tab Layout..."
 msgstr ""
 
 #: MainWindow.cpp:385
 #, kde-format
 msgctxt "@action:inmenu"
-msgid "Load tab layout from file"
+msgid "Load Tab Layout..."
 msgstr ""
 
 #: MainWindow.cpp:618 MainWindow.cpp:635
@@ -3296,19 +3296,19 @@ msgstr ""
 msgid "Line numbers "
 msgstr ""
 
-#: ViewManager.cpp:1073
+#: ViewManager.cpp:1074
 #, kde-format
 msgctxt "@title:window"
-msgid "Save File"
+msgid "Save Tab Layout"
 msgstr ""
 
-#: ViewManager.cpp:1073 ViewManager.cpp:1157
+#: ViewManager.cpp:1076 ViewManager.cpp:1163
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Konsole View Layout (*.json)"
 msgstr ""
 
-#: ViewManager.cpp:1086
+#: ViewManager.cpp:1089
 #, kde-format
 msgctxt "@label:textbox"
 msgid ""
@@ -3316,7 +3316,7 @@ msgid ""
 "%1"
 msgstr ""
 
-#: ViewManager.cpp:1147
+#: ViewManager.cpp:1150
 #, kde-format
 msgctxt "@label:textbox"
 msgid ""
@@ -3324,10 +3324,10 @@ msgid ""
 "%1"
 msgstr ""
 
-#: ViewManager.cpp:1157
+#: ViewManager.cpp:1161
 #, kde-format
 msgctxt "@title:window"
-msgid "Open File"
+msgid "Load Tab Layout"
 msgstr ""
 
 #: Vt102Emulation.cpp:2313
