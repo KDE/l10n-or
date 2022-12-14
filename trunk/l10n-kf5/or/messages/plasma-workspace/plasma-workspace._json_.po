@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-12-09 00:59+0000\n"
+"POT-Creation-Date: 2022-12-14 01:00+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -446,6 +446,14 @@ msgstr "ଚିତ୍ର ସଂକେତ"
 msgctxt "Name"
 msgid "Font Management"
 msgstr "ଫାଇଲ ପରିଚାଳନା"
+
+#: kcms/kfontinst/thumbnail/fontthumbnail.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Recent Documents"
+msgctxt "Name"
+msgid "Font Files"
+msgstr "ପ୍ରଚଳିତ ଦଲିଲଗୁଡ଼ିକ"
 
 #: kcms/kfontinst/viewpart/kfontviewpart.json
 msgctxt "Name"
@@ -1534,13 +1542,6 @@ msgstr ""
 #~ msgctxt "Name"
 #~ msgid "Plasma Styles"
 #~ msgstr "ପ୍ଲାଜମା ଡ଼େସ୍କଟପ କାର୍ଯ୍ୟସ୍ଥଳ"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Recent Documents"
-#~ msgctxt "Name"
-#~ msgid "Font Files"
-#~ msgstr "ପ୍ରଚଳିତ ଦଲିଲଗୁଡ଼ିକ"
 
 #, fuzzy
 #~| msgctxt "Name"
