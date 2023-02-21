@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-01-09 01:03+0000\n"
+"POT-Creation-Date: 2023-02-21 01:07+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -340,6 +340,24 @@ msgid ""
 "konqueror,filemanager,kfm,tips,file tips,separate window,spawn windows,"
 "behavior,behaviour,memory usage,Home URL,network operations,progress dialog,"
 "trash can,delete,confirmation"
+msgstr ""
+
+#: settings/konqhtml/cache/khtml_cache.desktop:10
+msgctxt "Name"
+msgid "Cache"
+msgstr "କ୍ୟାଶେ"
+
+#: settings/konqhtml/cache/khtml_cache.desktop:12
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure the spell checker"
+msgctxt "Comment"
+msgid "Configure the use of Cache"
+msgstr "ବନାନ ଯାଞ୍ଚକାରୀକୁ ସଂରଚନା କରନ୍ତୁ"
+
+#: settings/konqhtml/cache/khtml_cache.desktop:13
+msgctxt "X-KDE-Keywords"
+msgid "konqueror,browser,html,web,www"
 msgstr ""
 
 #: settings/konqhtml/css/kcmcss.desktop:10
@@ -951,10 +969,6 @@ msgstr "ସନ୍ଧାନ ଯନ୍ତ୍ର"
 #~ msgctxt "Comment"
 #~ msgid "Configure enhanced browsing"
 #~ msgstr "ଉନ୍ନତ ବ୍ରାଉଜିଙ୍ଗ ବିନ୍ୟାସ କରନ୍ତୁ"
-
-#~ msgctxt "Name"
-#~ msgid "Cache"
-#~ msgstr "କ୍ୟାଶେ"
 
 #~ msgctxt "Comment"
 #~ msgid "Configure web cache settings"
@@ -1620,10 +1634,6 @@ msgstr "ସନ୍ଧାନ ଯନ୍ତ୍ର"
 #~ msgctxt "Name"
 #~ msgid "Spell Checker"
 #~ msgstr "ବନାନ ଯାଞ୍ଚକାରୀ"
-
-#~ msgctxt "Comment"
-#~ msgid "Configure the spell checker"
-#~ msgstr "ବନାନ ଯାଞ୍ଚକାରୀକୁ ସଂରଚନା କରନ୍ତୁ"
 
 #~ msgctxt "Name"
 #~ msgid "File Associations"
