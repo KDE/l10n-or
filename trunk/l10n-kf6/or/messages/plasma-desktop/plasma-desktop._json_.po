@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-02-27 01:11+0000\n"
+"POT-Creation-Date: 2023-05-22 02:11+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -335,10 +335,10 @@ msgstr "ପ୍ଲାଜମା ଡ଼େସ୍କଟପ କାର୍ଯ୍ୟସ�
 #: solid-device-automounter/kcm/device_automounter_kcm.json
 #, fuzzy
 #| msgctxt "Name"
-#| msgid "USB Devices"
+#| msgid "Device Information"
 msgctxt "Name"
-msgid "Removable Devices"
-msgstr "USB ଉପକରଣ"
+msgid "Device Auto-Mount"
+msgstr "ଯନ୍ତ୍ର ସୂଚନା"
 
 #: solid-device-automounter/kded/device_automounter.json
 msgctxt "Name"
@@ -664,7 +664,7 @@ msgstr "ପ୍ଲାଜମା ଡ଼େସ୍କଟପ କାର୍ଯ୍ୟସ�
 
 #: solid-device-automounter/kcm/device_automounter_kcm.json
 msgctxt "Description"
-msgid "Configure automatic handling of removable storage media"
+msgid "Configure automatic mounting of disks and volumes"
 msgstr ""
 
 #: solid-device-automounter/kded/device_automounter.json
@@ -785,6 +785,13 @@ msgstr ""
 msgctxt "Authors Name"
 msgid "Plasma Team"
 msgstr "ଅଂଶ ଖୋଜନ୍ତୁ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "USB Devices"
+#~ msgctxt "Name"
+#~ msgid "Removable Devices"
+#~ msgstr "USB ଉପକରଣ"
 
 #, fuzzy
 #~| msgctxt "Name"
