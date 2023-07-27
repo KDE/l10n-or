@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-06-28 00:55+0000\n"
+"POT-Creation-Date: 2023-07-27 00:53+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -356,6 +356,7 @@ msgid "Configure the use of Cache"
 msgstr "ବନାନ ଯାଞ୍ଚକାରୀକୁ ସଂରଚନା କରନ୍ତୁ"
 
 #: settings/konqhtml/cache/khtml_cache.desktop:115
+#: settings/konqhtml/useragent/khtml_useragent.desktop:13
 msgctxt "X-KDE-Keywords"
 msgid "konqueror,browser,html,web,www"
 msgstr ""
@@ -457,6 +458,19 @@ msgstr "Java ଏବଂ JavaScriptର ଆଚରଣକୁ ବିନ୍ୟାସ �
 msgctxt "X-KDE-Keywords"
 msgid "konqueror,kfm,browser,html,web,www,java,javascript"
 msgstr ""
+
+#: settings/konqhtml/useragent/khtml_useragent.desktop:10
+msgctxt "Name"
+msgid "Browser Identification"
+msgstr "ବ୍ରାଉଜର ପରିଚୟ"
+
+#: settings/konqhtml/useragent/khtml_useragent.desktop:12
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure trash settings"
+msgctxt "Comment"
+msgid "Configure the user agent string"
+msgstr "ଆବର୍ଜନା ପାତ୍ର ସଂରଚନାକୁ ବିନ୍ୟାସ କରନ୍ତୁ "
 
 #: settings/performance/kcmkonqyperformance.desktop:9
 msgctxt "Name"
@@ -1237,10 +1251,6 @@ msgstr "ସନ୍ଧାନ ଯନ୍ତ୍ର"
 #~ msgid "UADescription (Wget 1.11.4)"
 #~ msgstr "UA ବର୍ଣ୍ଣନା (Wget 1.5.3)"
 
-#~ msgctxt "Name"
-#~ msgid "Browser Identification"
-#~ msgstr "ବ୍ରାଉଜର ପରିଚୟ"
-
 #~ msgctxt "Comment"
 #~ msgid "Configure the way Konqueror reports itself"
 #~ msgstr "Konqueror ନିଜକୁ ଖବର କରୁଥିବା ପଥକୁ ବିନ୍ୟାସ କରନ୍ତୁ"
@@ -1920,10 +1930,6 @@ msgstr "ସନ୍ଧାନ ଯନ୍ତ୍ର"
 #~ msgctxt "Comment"
 #~ msgid "This service allows configuration of the trash."
 #~ msgstr "ଏହି ସର୍ଭିସ ଆବର୍ଜନା ପାତ୍ରର ବିନ୍ୟାସ ପାଇଁ ଅନୁମତି ଦେଇଥାଏ।"
-
-#~ msgctxt "Comment"
-#~ msgid "Configure trash settings"
-#~ msgstr "ଆବର୍ଜନା ପାତ୍ର ସଂରଚନାକୁ ବିନ୍ୟାସ କରନ୍ତୁ "
 
 #~ msgctxt "ExtraNames"
 #~ msgid "Original Path,Deletion Date"
