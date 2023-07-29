@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-07-18 02:15+0000\n"
+"POT-Creation-Date: 2023-07-29 02:04+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -481,6 +481,14 @@ msgstr "ରଙ୍ଗ"
 msgctxt "Name"
 msgid "Region & Language"
 msgstr "ଭାଷା"
+
+#: kcms/soundtheme/kcm_soundtheme.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "System Tray"
+msgctxt "Name"
+msgid "System sounds"
+msgstr "ତନ୍ତ୍ର ଧାରକ"
 
 #: kcms/style/kcm_style.json
 #, fuzzy
@@ -1101,6 +1109,14 @@ msgctxt "Description"
 msgid "Language Setting, Numeric, Currency and Time Formats"
 msgstr ""
 
+#: kcms/soundtheme/kcm_soundtheme.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Application Notifications"
+msgctxt "Description"
+msgid "Select a Sound Theme for Notifications"
+msgstr "ପ୍ରୟୋଗ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ"
+
 #: kcms/style/kcm_style.json
 msgctxt "Description"
 msgid "Configure application style and behavior"
@@ -1705,13 +1721,6 @@ msgstr ""
 #~ msgctxt "Name"
 #~ msgid "Settings"
 #~ msgstr "ସେଟିଙ୍ଗଗୁଡ଼ିକ"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "System Tray"
-#~ msgctxt "Name"
-#~ msgid "System"
-#~ msgstr "ତନ୍ତ୍ର ଧାରକ"
 
 #~ msgctxt "Name"
 #~ msgid "Toys"
