@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-10-03 01:43+0000\n"
+"POT-Creation-Date: 2023-10-04 01:43+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -54,28 +54,28 @@ msgctxt "Name"
 msgid "System Settings"
 msgstr "ତନ୍ତ୍ର ବିନ୍ୟାସ"
 
-#: app/systemsettings.desktop:250
+#: app/systemsettings.desktop:251
 msgctxt "Name"
 msgid "Global Theme"
 msgstr ""
 
-#: app/systemsettings.desktop:304
+#: app/systemsettings.desktop:306
 msgctxt "Name"
 msgid "Users"
 msgstr ""
 
-#: app/systemsettings.desktop:360
+#: app/systemsettings.desktop:363
 msgctxt "Name"
 msgid "Screen Locking"
 msgstr ""
 
-#: app/systemsettings.desktop:415
+#: app/systemsettings.desktop:419
 #: categories/settings-hardware-powermanagement.desktop:8
 msgctxt "Name"
 msgid "Energy Saving"
 msgstr ""
 
-#: app/systemsettings.desktop:469
+#: app/systemsettings.desktop:474
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "File Management"
@@ -87,14 +87,6 @@ msgstr "ଫାଇଲ ପରିଚାଳନା"
 msgctxt "Name"
 msgid "Hidden"
 msgstr ""
-
-#: categories/settings-accounts.desktop:8
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Details"
-msgctxt "Name"
-msgid "Accounts"
-msgstr "ବିସ୍ତୃତ ବିବରଣୀ"
 
 #: categories/settings-appearance.desktop:8
 #, fuzzy
@@ -154,7 +146,7 @@ msgctxt "Name"
 msgid "Display & Monitor"
 msgstr "ଫାଇଲ ପରିଚାଳନା"
 
-#: categories/settings-hardware-display.desktop:78
+#: categories/settings-hardware-display.desktop:9
 msgctxt "Comment"
 msgid "Display Settings"
 msgstr "ପ୍ରଦର୍ଶକ ସଂରଚନା"
@@ -215,7 +207,7 @@ msgstr "ସଞ୍ଚାଳକ ସୂଚନା"
 #| msgctxt "Name"
 #| msgid "Network Settings"
 msgctxt "Name"
-msgid "Regional Settings"
+msgid "Personal Settings"
 msgstr "ନେଟୱର୍କ ବିନ୍ୟାସ"
 
 #: categories/settings-regionalsettings-formats.desktop:8
@@ -279,6 +271,13 @@ msgstr ""
 msgctxt "Name"
 msgid "Window Management"
 msgstr "ଶକ୍ତି ପରିଚାଳନା"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Details"
+#~ msgctxt "Name"
+#~ msgid "Accounts"
+#~ msgstr "ବିସ୍ତୃତ ବିବରଣୀ"
 
 #~ msgctxt "Name"
 #~ msgid "Hardware"
