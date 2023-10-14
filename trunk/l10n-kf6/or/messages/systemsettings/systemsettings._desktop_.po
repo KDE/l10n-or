@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-10-12 01:46+0000\n"
+"POT-Creation-Date: 2023-10-14 01:53+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -146,7 +146,7 @@ msgctxt "Name"
 msgid "Display & Monitor"
 msgstr "ଫାଇଲ ପରିଚାଳନା"
 
-#: categories/settings-hardware-display.desktop:29
+#: categories/settings-hardware-display.desktop:30
 msgctxt "Comment"
 msgid "Display Settings"
 msgstr "ପ୍ରଦର୍ଶକ ସଂରଚନା"
@@ -154,6 +154,11 @@ msgstr "ପ୍ରଦର୍ଶକ ସଂରଚନା"
 #: categories/settings-hardware-input.desktop:8
 msgctxt "Name"
 msgid "Input & Output"
+msgstr ""
+
+#: categories/settings-hardware-input-pointing-devices.desktop:10
+msgctxt "Name"
+msgid "Mouse & Touchpad"
 msgstr ""
 
 #: categories/settings-hardware-input-touchscreen.desktop:8
@@ -203,16 +208,8 @@ msgid "Personalization"
 msgstr "ସଞ୍ଚାଳକ ସୂଚନା"
 
 #: categories/settings-regionalsettings.desktop:8
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Network Settings"
 msgctxt "Name"
-msgid "Personal Settings"
-msgstr "ନେଟୱର୍କ ବିନ୍ୟାସ"
-
-#: categories/settings-regionalsettings-formats.desktop:8
-msgctxt "Name"
-msgid "Region & Language"
+msgid "Language & Time"
 msgstr ""
 
 #: categories/settings-root-category.desktop:8
@@ -243,7 +240,7 @@ msgstr "ୱେବ ଆଚରଣ"
 #| msgctxt "Name"
 #| msgid "Web Behavior"
 msgctxt "Name"
-msgid "Workspace Behavior"
+msgid "Behavior"
 msgstr "ୱେବ ଆଚରଣ"
 
 #: categories/settings-workspace-search.desktop:8
@@ -271,6 +268,20 @@ msgstr ""
 msgctxt "Name"
 msgid "Window Management"
 msgstr "ଶକ୍ତି ପରିଚାଳନା"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Network Settings"
+#~ msgctxt "Name"
+#~ msgid "Personal Settings"
+#~ msgstr "ନେଟୱର୍କ ବିନ୍ୟାସ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Web Behavior"
+#~ msgctxt "Name"
+#~ msgid "Workspace Behavior"
+#~ msgstr "ୱେବ ଆଚରଣ"
 
 #, fuzzy
 #~| msgctxt "Name"
@@ -453,13 +464,6 @@ msgstr "ଶକ୍ତି ପରିଚାଳନା"
 #~ msgctxt "Name"
 #~ msgid "Application Style"
 #~ msgstr "ପ୍ରୟୋଗ ଆରମ୍ଭକର୍ତ୍ତା"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Web Behavior"
-#~ msgctxt "Name"
-#~ msgid "Desktop Behavior"
-#~ msgstr "ୱେବ ଆଚରଣ"
 
 #, fuzzy
 #~| msgctxt "Name"
