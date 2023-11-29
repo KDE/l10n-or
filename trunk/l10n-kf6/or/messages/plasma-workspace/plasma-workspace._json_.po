@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-19 01:59+0000\n"
+"POT-Creation-Date: 2023-11-29 01:44+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -488,6 +488,11 @@ msgstr "ପ୍ରୟୋଗଗୁଡ଼ିକ"
 #: kcms/users/src/kcm_users.json
 msgctxt "Name"
 msgid "Users"
+msgstr ""
+
+#: kcms/wallpaper/kcm_wallpaper.json
+msgctxt "Name"
+msgid "Wallpaper"
 msgstr ""
 
 #: kioworkers/desktop/desktopnotifier.json
@@ -1106,6 +1111,14 @@ msgstr ""
 msgctxt "Description"
 msgid "Manage user accounts"
 msgstr ""
+
+#: kcms/wallpaper/kcm_wallpaper.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Slideshow"
+msgctxt "Description"
+msgid "Configure the wallpaper"
+msgstr "ସ୍ଲାଇଡ଼ ଦୃଶ୍ୟ"
 
 #: kioworkers/desktop/desktopnotifier.json
 msgctxt "Description"
