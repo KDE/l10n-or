@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-12-27 01:39+0000\n"
+"POT-Creation-Date: 2024-01-11 00:42+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -31,6 +31,22 @@ msgctxt "Name"
 msgid "Open with File Manager"
 msgstr "ଡ଼ଲଫିନ ସହିତ ଖୋଲନ୍ତୁ"
 
+#: applets/devicenotifier/plugin/devicenotifications.notifyrc:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Notifications"
+msgctxt "Name"
+msgid "Device Notifier"
+msgstr "ବିଜ୍ଞପ୍ତି"
+
+#: applets/devicenotifier/plugin/devicenotifications.notifyrc:84
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Notifications"
+msgctxt "Name"
+msgid "Device Status"
+msgstr "ବିଜ୍ଞପ୍ତି"
+
 #: components/shellprivate/wallpaperplugin.knsrc:2
 msgctxt "Name"
 msgid "Wallpaper Plugins"
@@ -43,22 +59,6 @@ msgstr ""
 msgctxt "Name"
 msgid "Plasma Widgets"
 msgstr "ପ୍ଲାଜମା ଡ଼େସ୍କଟପ କାର୍ଯ୍ୟସ୍ଥଳ"
-
-#: dataengines/devicenotifications/devicenotifications.notifyrc:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Notifications"
-msgctxt "Name"
-msgid "Device Notifier"
-msgstr "ବିଜ୍ଞପ୍ତି"
-
-#: dataengines/devicenotifications/devicenotifications.notifyrc:84
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Notifications"
-msgctxt "Name"
-msgid "Device Status"
-msgstr "ବିଜ୍ଞପ୍ତି"
 
 #: freespacenotifier/freespacenotifier.notifyrc:3
 #, fuzzy
