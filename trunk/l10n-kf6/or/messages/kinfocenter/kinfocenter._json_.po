@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-12-30 01:06+0000\n"
+"POT-Creation-Date: 2024-01-16 00:45+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -31,18 +31,18 @@ msgctxt "Name"
 msgid "About this System"
 msgstr "ଫାଇଲ ଏବଂ ଡ଼ିରେକ୍ଟୋରୀଗୁଡ଼ିକ"
 
+#: Modules/block_devices/kcm_block_devices.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "USB Devices"
+msgctxt "Name"
+msgid "Block Devices"
+msgstr "USB ଉପକରଣ"
+
 #: Modules/cpu/kcm_cpu.json
 msgctxt "Name"
 msgid "CPU"
 msgstr ""
-
-#: Modules/devinfo/devinfo.json
-#, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Picture Viewer"
-msgctxt "Name"
-msgid "Device Viewer"
-msgstr "ଛବି ପ୍ରଦର୍ଶକ"
 
 #: Modules/egl/kcm_egl.json
 #, fuzzy
@@ -131,6 +131,14 @@ msgctxt "Description"
 msgid "Information About This System"
 msgstr "ଫାଇଲ ଏବଂ ଡ଼ିରେକ୍ଟୋରୀଗୁଡ଼ିକ"
 
+#: Modules/block_devices/kcm_block_devices.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "USB Devices"
+msgctxt "Description"
+msgid "Block Devices"
+msgstr "USB ଉପକରଣ"
+
 #: Modules/cpu/kcm_cpu.json
 #, fuzzy
 #| msgctxt "Name"
@@ -138,14 +146,6 @@ msgstr "ଫାଇଲ ଏବଂ ଡ଼ିରେକ୍ଟୋରୀଗୁଡ଼ି�
 msgctxt "Description"
 msgid "Advanced CPU Information"
 msgstr "ଯନ୍ତ୍ର ସୂଚନା"
-
-#: Modules/devinfo/devinfo.json
-#, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Picture Viewer"
-msgctxt "Description"
-msgid "Device Viewer"
-msgstr "ଛବି ପ୍ରଦର୍ଶକ"
 
 #: Modules/egl/kcm_egl.json
 #, fuzzy
@@ -255,6 +255,20 @@ msgstr "ଫାଇଲ ଏବଂ ଡ଼ିରେକ୍ଟୋରୀଗୁଡ଼ି�
 msgctxt "Description"
 msgid "X-Server information"
 msgstr "X-ସର୍ଭର ସୂଚନା"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Picture Viewer"
+#~ msgctxt "Name"
+#~ msgid "Device Viewer"
+#~ msgstr "ଛବି ପ୍ରଦର୍ଶକ"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Picture Viewer"
+#~ msgctxt "Description"
+#~ msgid "Device Viewer"
+#~ msgstr "ଛବି ପ୍ରଦର୍ଶକ"
 
 #, fuzzy
 #~| msgctxt "Name"
