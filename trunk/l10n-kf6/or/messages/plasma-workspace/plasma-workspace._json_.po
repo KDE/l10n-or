@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-01-11 00:44+0000\n"
+"POT-Creation-Date: 2024-01-20 00:45+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -236,11 +236,6 @@ msgstr "ପ୍ରୟୋଗ କାର୍ଯ୍ୟ ସୂଚନା"
 msgctxt "Name"
 msgid "Application Information"
 msgstr "ପ୍ରୟୋଗ କାର୍ଯ୍ୟ ସୂଚନା"
-
-#: dataengines/dict/plasma-dataengine-dict.json
-msgctxt "Name"
-msgid "Dictionary"
-msgstr "ଅଭିଧାନ"
 
 #: dataengines/executable/plasma-dataengine-executable.json
 msgctxt "Name"
@@ -870,11 +865,6 @@ msgctxt "Description"
 msgid "Information and launching of all applications in the app menu."
 msgstr ""
 
-#: dataengines/dict/plasma-dataengine-dict.json
-msgctxt "Description"
-msgid "Look up word meanings"
-msgstr ""
-
 #: dataengines/executable/plasma-dataengine-executable.json
 #, fuzzy
 #| msgctxt "Comment"
@@ -1483,6 +1473,10 @@ msgstr ""
 msgctxt "Authors Name"
 msgid "Julius Zint"
 msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Dictionary"
+#~ msgstr "ଅଭିଧାନ"
 
 #, fuzzy
 #~| msgctxt "Comment"
