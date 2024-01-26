@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-01-14 00:42+0000\n"
+"POT-Creation-Date: 2024-01-26 00:42+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -78,7 +78,6 @@ msgid "Screen Locking"
 msgstr ""
 
 #: app/systemsettings.desktop:451
-#: categories/settings-hardware-powermanagement.desktop:8
 msgctxt "Name"
 msgid "Energy Saving"
 msgstr ""
@@ -189,14 +188,6 @@ msgctxt "Name"
 msgid "Disks & Cameras"
 msgstr ""
 
-#: categories/settings-network-connectivity.desktop:8
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Network & Connectivity"
-msgctxt "Name"
-msgid "Connectivity"
-msgstr "ନେଟୱର୍କ ଏବଂ ସଂଯୋଜକତା"
-
 #: categories/settings-network.desktop:8
 msgctxt "Name"
 msgid "Internet"
@@ -243,14 +234,6 @@ msgctxt "Name"
 msgid "Workspace"
 msgstr "ୱେବ ଆଚରଣ"
 
-#: categories/settings-workspace-desktopbehavior.desktop:8
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Web Behavior"
-msgctxt "Name"
-msgid "Behavior"
-msgstr "ୱେବ ଆଚରଣ"
-
 #: categories/settings-workspace-search.desktop:8
 msgctxt "Name"
 msgid "Search"
@@ -264,11 +247,6 @@ msgctxt "Name"
 msgid "Session"
 msgstr "ବିଭାଜନଗୁଡ଼ିକ"
 
-#: categories/settings-workspace-shortcuts.desktop:8
-msgctxt "Name"
-msgid "Shortcuts"
-msgstr ""
-
 #: categories/settings-workspace-windowmanagement.desktop:8
 #, fuzzy
 #| msgctxt "Name"
@@ -276,6 +254,20 @@ msgstr ""
 msgctxt "Name"
 msgid "Window Management"
 msgstr "ଶକ୍ତି ପରିଚାଳନା"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Network & Connectivity"
+#~ msgctxt "Name"
+#~ msgid "Connectivity"
+#~ msgstr "ନେଟୱର୍କ ଏବଂ ସଂଯୋଜକତା"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Web Behavior"
+#~ msgctxt "Name"
+#~ msgid "Behavior"
+#~ msgstr "ୱେବ ଆଚରଣ"
 
 #, fuzzy
 #~| msgctxt "Name"
