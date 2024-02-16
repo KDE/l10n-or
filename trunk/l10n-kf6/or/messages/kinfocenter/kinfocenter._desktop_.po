@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-01-30 00:43+0000\n"
+"POT-Creation-Date: 2024-02-16 00:43+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -23,7 +23,7 @@ msgstr ""
 "\n"
 "\n"
 
-#: Categories/basicinformation.desktop:8
+#: categories/basicinformation.desktop:8
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Device Information"
@@ -31,7 +31,7 @@ msgctxt "Name"
 msgid "Basic Information"
 msgstr "ଯନ୍ତ୍ର ସୂଚନା"
 
-#: Categories/deviceinfocategory.desktop:8
+#: categories/deviceinfocategory.desktop:8
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "USB Devices"
@@ -39,12 +39,12 @@ msgctxt "Name"
 msgid "Devices"
 msgstr "USB ଉପକରଣ"
 
-#: Categories/graphicalinfocategory.desktop:8
+#: categories/graphicalinfocategory.desktop:8
 msgctxt "Name"
 msgid "Graphics"
 msgstr ""
 
-#: Categories/lostfoundcategory.desktop:8
+#: categories/lostfoundcategory.desktop:8
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Lost & Found"
@@ -52,9 +52,28 @@ msgctxt "Name"
 msgid "Lost And Found"
 msgstr "ହଜିବା ଏବଂ ମିଳିବା"
 
-#: Categories/networkinfocategory.desktop:8
+#: categories/networkinfocategory.desktop:8
 msgctxt "Name"
 msgid "Network"
+msgstr ""
+
+#: kcms/about-distro/src/dmidecode-helper/org.kde.kinfocenter.dmidecode.actions:6
+msgctxt "Name"
+msgid "Desktop Management Interface"
+msgstr ""
+
+#: kcms/about-distro/src/dmidecode-helper/org.kde.kinfocenter.dmidecode.actions:53
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "PCI information"
+msgctxt "Name"
+msgid "System Information"
+msgstr "PCI ସୂଚନା"
+
+#: kcms/about-distro/src/dmidecode-helper/org.kde.kinfocenter.dmidecode.actions:101
+msgctxt "Description"
+msgid ""
+"Read system information from system's Desktop Management Interface (DMI)"
 msgstr ""
 
 #: kcontrol/menus/kinfocenter.directory:3
@@ -64,25 +83,6 @@ msgstr ""
 msgctxt "Name"
 msgid "Information"
 msgstr "PCI ସୂଚନା"
-
-#: Modules/about-distro/src/dmidecode-helper/org.kde.kinfocenter.dmidecode.actions:6
-msgctxt "Name"
-msgid "Desktop Management Interface"
-msgstr ""
-
-#: Modules/about-distro/src/dmidecode-helper/org.kde.kinfocenter.dmidecode.actions:53
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "PCI information"
-msgctxt "Name"
-msgid "System Information"
-msgstr "PCI ସୂଚନା"
-
-#: Modules/about-distro/src/dmidecode-helper/org.kde.kinfocenter.dmidecode.actions:101
-msgctxt "Description"
-msgid ""
-"Read system information from system's Desktop Management Interface (DMI)"
-msgstr ""
 
 #: org.kde.kinfocenter.desktop:9
 #, fuzzy
