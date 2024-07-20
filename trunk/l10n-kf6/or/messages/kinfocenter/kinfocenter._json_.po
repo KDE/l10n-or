@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-03-12 00:45+0000\n"
+"POT-Creation-Date: 2024-07-20 00:47+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -84,6 +84,11 @@ msgstr "ବ୍ୟାହାତ"
 msgctxt "Name"
 msgid "Window Manager"
 msgstr ""
+
+#: kcms/memory/kcm_memory.json
+msgctxt "Name"
+msgid "Memory"
+msgstr "ସ୍ମୃତିସ୍ଥାନ"
 
 #: kcms/network/kcm_network.json
 msgctxt "Name"
@@ -204,6 +209,14 @@ msgstr "ବ୍ୟାହାତ ସୂଚନା"
 msgctxt "Description"
 msgid "KWin Support information"
 msgstr "IO-ସଂଯୋଗିକୀ ସୂଚନା"
+
+#: kcms/memory/kcm_memory.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Memory information"
+msgctxt "Description"
+msgid "Memory Information"
+msgstr "ସ୍ମୃତିସ୍ଥାନ ସୂଚନା"
 
 #: kcms/network/kcm_network.json
 #, fuzzy
@@ -362,14 +375,6 @@ msgstr "X-ସର୍ଭର ସୂଚନା"
 #~ msgctxt "Comment"
 #~ msgid "Attached IEEE 1394 devices"
 #~ msgstr "ସଂଲଗ୍ନ IEEE 1394 ଉପକରଣଗୁଡ଼ିକ"
-
-#~ msgctxt "Name"
-#~ msgid "Memory"
-#~ msgstr "ସ୍ମୃତିସ୍ଥାନ"
-
-#~ msgctxt "Comment"
-#~ msgid "Memory information"
-#~ msgstr "ସ୍ମୃତିସ୍ଥାନ ସୂଚନା"
 
 #, fuzzy
 #~| msgctxt "Comment"
