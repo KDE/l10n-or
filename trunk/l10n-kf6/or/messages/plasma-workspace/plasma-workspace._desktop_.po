@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-08-11 00:46+0000\n"
+"POT-Creation-Date: 2024-08-28 00:45+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -59,6 +59,27 @@ msgstr "ପ୍ଲାଜମା ଡ଼େସ୍କଟପ କାର୍ଯ୍ୟସ�
 msgctxt "Name"
 msgid "Wallpaper Plugins"
 msgstr ""
+
+#: donationmessage/donationmessage.notifyrc:6
+#: donationmessage/donationmessage.notifyrc:12
+msgctxt "Name"
+msgid "Request for Donation"
+msgstr ""
+
+#: donationmessage/donationmessage.notifyrc:7
+#: donationmessage/donationmessage.notifyrc:13
+msgctxt "Comment"
+msgid "Shows a yearly request to donate to KDE"
+msgstr ""
+
+#: donationmessage/donationmessage.notifyrc:9
+#: phonon/platform_kde/phonon.notifyrc:79
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Applications"
+msgctxt "Name"
+msgid "Application"
+msgstr "ପ୍ରୟୋଗଗୁଡ଼ିକ"
 
 #: freespacenotifier/freespacenotifier.notifyrc:3
 #, fuzzy
@@ -615,14 +636,6 @@ msgstr "X ୱିଣ୍ଡୋ ଉପଯୋଗିତା"
 msgctxt "Comment"
 msgid "Multimedia System"
 msgstr "ବହୁମାଧ୍ଯମ ଚାଳକ"
-
-#: phonon/platform_kde/phonon.notifyrc:79
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Applications"
-msgctxt "Name"
-msgid "Application"
-msgstr "ପ୍ରୟୋଗଗୁଡ଼ିକ"
 
 #: phonon/platform_kde/phonon.notifyrc:144
 msgctxt "Name"
