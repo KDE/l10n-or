@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-06-03 00:46+0000\n"
+"POT-Creation-Date: 2024-08-31 00:47+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -78,12 +78,11 @@ msgid "Pager"
 msgstr "ପେଜର"
 
 #: applets/showActivityManager/package/metadata.json
-#: kcms/activities/kcm_activities.json
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Service Manager"
 msgctxt "Name"
-msgid "Activities"
+msgid "Show Activity Manager"
 msgstr "ସର୍ଭିସ ପରିଚାଳକ"
 
 #: applets/showdesktop/package/metadata.json
@@ -140,6 +139,14 @@ msgstr "ଫଳକ"
 msgctxt "Name"
 msgid "Accessibility"
 msgstr "ଅଭିଗମ୍ୟତା"
+
+#: kcms/activities/kcm_activities.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Service Manager"
+msgctxt "Name"
+msgid "Activities"
+msgstr "ସର୍ଭିସ ପରିଚାଳକ"
 
 #: kcms/baloo/kcm_baloofile.json
 #, fuzzy
