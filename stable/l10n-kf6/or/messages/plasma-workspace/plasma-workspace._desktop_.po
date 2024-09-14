@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-09-11 00:45+0000\n"
+"POT-Creation-Date: 2024-09-14 02:43+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -61,18 +61,18 @@ msgid "Wallpaper Plugins"
 msgstr ""
 
 #: donationmessage/donationmessage.notifyrc:6
-#: donationmessage/donationmessage.notifyrc:124
+#: donationmessage/donationmessage.notifyrc:126
 msgctxt "Name"
 msgid "Request for Donation"
 msgstr ""
 
-#: donationmessage/donationmessage.notifyrc:33
-#: donationmessage/donationmessage.notifyrc:151
+#: donationmessage/donationmessage.notifyrc:34
+#: donationmessage/donationmessage.notifyrc:154
 msgctxt "Comment"
 msgid "Shows a yearly request to donate to KDE"
 msgstr ""
 
-#: donationmessage/donationmessage.notifyrc:60
+#: donationmessage/donationmessage.notifyrc:62
 #: phonon/platform_kde/phonon.notifyrc:79
 #, fuzzy
 #| msgctxt "Name"
@@ -129,12 +129,12 @@ msgctxt "GenericName"
 msgid "Color scheme editor"
 msgstr ""
 
-#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:53
+#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:54
 msgctxt "Name"
 msgid "KColorSchemeEditor"
 msgstr ""
 
-#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:104
+#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:106
 msgctxt "Comment"
 msgid "Plasma color scheme editor"
 msgstr ""
@@ -170,7 +170,7 @@ msgctxt "Name"
 msgid "KFontInst"
 msgstr ""
 
-#: kcms/kfontinst/apps/org.kde.kfontinst.desktop:44
+#: kcms/kfontinst/apps/org.kde.kfontinst.desktop:45
 msgctxt "GenericName"
 msgid "Font Installer"
 msgstr ""
@@ -180,7 +180,7 @@ msgctxt "Name"
 msgid "KFontView"
 msgstr ""
 
-#: kcms/kfontinst/apps/org.kde.kfontview.desktop:57
+#: kcms/kfontinst/apps/org.kde.kfontview.desktop:58
 msgctxt "GenericName"
 msgid "Font Viewer"
 msgstr ""
@@ -190,12 +190,12 @@ msgctxt "Name"
 msgid "Font Installer"
 msgstr ""
 
-#: kcms/kfontinst/dbus/fontinst.actions:56
+#: kcms/kfontinst/dbus/fontinst.actions:57
 msgctxt "Name"
 msgid "Manage system-wide fonts."
 msgstr ""
 
-#: kcms/kfontinst/dbus/fontinst.actions:107
+#: kcms/kfontinst/dbus/fontinst.actions:109
 msgctxt "Description"
 msgid "Modifying the system-wide font configuration requires privileges."
 msgstr ""
@@ -339,10 +339,10 @@ msgctxt "Name"
 msgid "Plasma (Wayland)"
 msgstr "ପ୍ଲାଜମା ଡ଼େସ୍କଟପ କାର୍ଯ୍ୟସ୍ଥଳ"
 
-#: login-sessions/plasmawayland.desktop.cmake:58
-#: login-sessions/plasmawayland-dev.desktop.cmake:53
-#: login-sessions/plasmax11.desktop.cmake:57
-#: login-sessions/plasmax11-dev.desktop.cmake:54
+#: login-sessions/plasmawayland.desktop.cmake:59
+#: login-sessions/plasmawayland-dev.desktop.cmake:54
+#: login-sessions/plasmax11.desktop.cmake:58
+#: login-sessions/plasmax11-dev.desktop.cmake:55
 msgctxt "Comment"
 msgid "Plasma by KDE"
 msgstr ""
@@ -668,7 +668,7 @@ msgctxt "Name"
 msgid "File Search"
 msgstr "ଡ଼େସ୍କଟପ ଅଧିବେଶନଗୁଡ଼ିକ"
 
-#: runners/baloo/plasma-runner-baloosearch.desktop:45
+#: runners/baloo/plasma-runner-baloosearch.desktop:46
 msgctxt "Comment"
 msgid "Searches for files by name and content"
 msgstr ""
