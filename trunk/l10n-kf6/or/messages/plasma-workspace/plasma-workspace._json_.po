@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-09-29 00:48+0000\n"
+"POT-Creation-Date: 2024-10-06 00:48+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -22,6 +22,11 @@ msgstr ""
 "\n"
 "\n"
 "\n"
+
+#: appiumtests/applets/systemtraytest/org.kde.testdbusactivation/metadata.json
+msgctxt "Name"
+msgid "Do not translate Test only"
+msgstr ""
 
 #: applets/activitybar/metadata.json
 msgctxt "Name"
@@ -226,38 +231,15 @@ msgctxt "Name"
 msgid "Run Commands"
 msgstr "ନିର୍ଦ୍ଦେଶଗୁଡ଼ିକୁ ଚଲାନ୍ତୁ"
 
-#: dataengines/favicons/plasma-dataengine-favicons.json
-msgctxt "Name"
-msgid "Favicons"
-msgstr "Favicons"
-
 #: dataengines/filebrowser/plasma-dataengine-filebrowser.json
 msgctxt "Name"
 msgid "Files and Directories"
 msgstr "ଫାଇଲ ଏବଂ ଡ଼ିରେକ୍ଟୋରୀଗୁଡ଼ିକ"
 
-#: dataengines/geolocation/plasma-dataengine-geolocation.json
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Locations"
-msgctxt "Name"
-msgid "Geolocation"
-msgstr "ସ୍ଥାନଗୁଡ଼ିକ"
-
-#: dataengines/mouse/plasma-dataengine-mouse.json
-msgctxt "Name"
-msgid "Pointer Position"
-msgstr "ସୂଚକ ସ୍ଥାନ"
-
 #: dataengines/notifications/plasma-dataengine-notifications.json
 msgctxt "Name"
 msgid "Application Notifications"
 msgstr "ପ୍ରୟୋଗ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ"
-
-#: dataengines/packagekit/plasma-dataengine-packagekit.json
-msgctxt "Name"
-msgid "PackageKit"
-msgstr ""
 
 #: dataengines/places/plasma-dataengine-places.json
 #: runners/places/plasma-runner-places.json
@@ -809,11 +791,6 @@ msgctxt "Description"
 msgid "Run Executable Data Engine"
 msgstr "ନିଷ୍ପାଦ୍ୟ ତଥ୍ୟ ଯନ୍ତ୍ର ଚଲାନ୍ତୁ"
 
-#: dataengines/favicons/plasma-dataengine-favicons.json
-msgctxt "Description"
-msgid "Data Engine for getting favicons of web sites"
-msgstr ""
-
 #: dataengines/filebrowser/plasma-dataengine-filebrowser.json
 #, fuzzy
 #| msgctxt "Name"
@@ -822,31 +799,10 @@ msgctxt "Description"
 msgid "Information about files and directories."
 msgstr "ଫାଇଲ ଏବଂ ଡ଼ିରେକ୍ଟୋରୀଗୁଡ଼ିକ"
 
-#: dataengines/geolocation/plasma-dataengine-geolocation.json
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Python data engine"
-msgctxt "Description"
-msgid "Geolocation Data Engine"
-msgstr "ପାଇଥନ ତଥ୍ୟ ମେସିନ"
-
-#: dataengines/mouse/plasma-dataengine-mouse.json
-msgctxt "Description"
-msgid "Mouse position and cursor"
-msgstr ""
-
 #: dataengines/notifications/plasma-dataengine-notifications.json
 msgctxt "Description"
 msgid "Passive visual notifications for the user."
 msgstr ""
-
-#: dataengines/packagekit/plasma-dataengine-packagekit.json
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "JavaScript Runner"
-msgctxt "Description"
-msgid "PackageKit Data Engine"
-msgstr "JavaScript ଚାଳକ"
 
 #: dataengines/places/plasma-dataengine-places.json
 msgctxt "Description"
@@ -1278,16 +1234,6 @@ msgctxt "Authors Name"
 msgid "Chani Armitage"
 msgstr ""
 
-#: dataengines/geolocation/plasma-dataengine-geolocation.json
-msgctxt "Authors Name"
-msgid "Petri Damstén"
-msgstr ""
-
-#: dataengines/packagekit/plasma-dataengine-packagekit.json
-msgctxt "Authors Name"
-msgid "Gregor Taetzner"
-msgstr ""
-
 #: dataengines/places/plasma-dataengine-places.json
 msgctxt "Authors Name"
 msgid "Alex Merry"
@@ -1476,6 +1422,35 @@ msgstr ""
 msgctxt "X-KDE-Keywords"
 msgid "wallpaper,desktop"
 msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Favicons"
+#~ msgstr "Favicons"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Locations"
+#~ msgctxt "Name"
+#~ msgid "Geolocation"
+#~ msgstr "ସ୍ଥାନଗୁଡ଼ିକ"
+
+#~ msgctxt "Name"
+#~ msgid "Pointer Position"
+#~ msgstr "ସୂଚକ ସ୍ଥାନ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Python data engine"
+#~ msgctxt "Description"
+#~ msgid "Geolocation Data Engine"
+#~ msgstr "ପାଇଥନ ତଥ୍ୟ ମେସିନ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "JavaScript Runner"
+#~ msgctxt "Description"
+#~ msgid "PackageKit Data Engine"
+#~ msgstr "JavaScript ଚାଳକ"
 
 #, fuzzy
 #~| msgctxt "Name"
