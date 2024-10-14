@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-10-06 00:48+0000\n"
+"POT-Creation-Date: 2024-10-14 00:48+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -230,11 +230,6 @@ msgstr "ପ୍ରୟୋଗ କାର୍ଯ୍ୟ ସୂଚନା"
 msgctxt "Name"
 msgid "Run Commands"
 msgstr "ନିର୍ଦ୍ଦେଶଗୁଡ଼ିକୁ ଚଲାନ୍ତୁ"
-
-#: dataengines/filebrowser/plasma-dataengine-filebrowser.json
-msgctxt "Name"
-msgid "Files and Directories"
-msgstr "ଫାଇଲ ଏବଂ ଡ଼ିରେକ୍ଟୋରୀଗୁଡ଼ିକ"
 
 #: dataengines/notifications/plasma-dataengine-notifications.json
 msgctxt "Name"
@@ -790,14 +785,6 @@ msgstr ""
 msgctxt "Description"
 msgid "Run Executable Data Engine"
 msgstr "ନିଷ୍ପାଦ୍ୟ ତଥ୍ୟ ଯନ୍ତ୍ର ଚଲାନ୍ତୁ"
-
-#: dataengines/filebrowser/plasma-dataengine-filebrowser.json
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Files and Directories"
-msgctxt "Description"
-msgid "Information about files and directories."
-msgstr "ଫାଇଲ ଏବଂ ଡ଼ିରେକ୍ଟୋରୀଗୁଡ଼ିକ"
 
 #: dataengines/notifications/plasma-dataengine-notifications.json
 msgctxt "Description"
@@ -1422,6 +1409,17 @@ msgstr ""
 msgctxt "X-KDE-Keywords"
 msgid "wallpaper,desktop"
 msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Files and Directories"
+#~ msgstr "ଫାଇଲ ଏବଂ ଡ଼ିରେକ୍ଟୋରୀଗୁଡ଼ିକ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Files and Directories"
+#~ msgctxt "Description"
+#~ msgid "Information about files and directories."
+#~ msgstr "ଫାଇଲ ଏବଂ ଡ଼ିରେକ୍ଟୋରୀଗୁଡ଼ିକ"
 
 #~ msgctxt "Name"
 #~ msgid "Favicons"
