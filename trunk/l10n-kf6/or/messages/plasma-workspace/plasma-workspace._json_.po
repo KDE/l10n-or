@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-10-14 00:48+0000\n"
+"POT-Creation-Date: 2024-10-15 00:48+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -235,12 +235,6 @@ msgstr "ନିର୍ଦ୍ଦେଶଗୁଡ଼ିକୁ ଚଲାନ୍ତୁ"
 msgctxt "Name"
 msgid "Application Notifications"
 msgstr "ପ୍ରୟୋଗ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ"
-
-#: dataengines/places/plasma-dataengine-places.json
-#: runners/places/plasma-runner-places.json
-msgctxt "Name"
-msgid "Places"
-msgstr "ସ୍ଥାନଗୁଡ଼ିକ"
 
 #: dataengines/time/plasma-dataengine-time.json
 msgctxt "Name"
@@ -506,6 +500,11 @@ msgstr "ଟର୍ମିନାଲ ପ୍ରୟୋଗଗୁଡ଼ିକ"
 #: runners/locations/plasma-runner-locations.json
 msgctxt "Name"
 msgid "Locations"
+msgstr "ସ୍ଥାନଗୁଡ଼ିକ"
+
+#: runners/places/plasma-runner-places.json
+msgctxt "Name"
+msgid "Places"
 msgstr "ସ୍ଥାନଗୁଡ଼ିକ"
 
 #: runners/recentdocuments/plasma-runner-recentdocuments.json
@@ -789,11 +788,6 @@ msgstr "ନିଷ୍ପାଦ୍ୟ ତଥ୍ୟ ଯନ୍ତ୍ର ଚଲାନ
 #: dataengines/notifications/plasma-dataengine-notifications.json
 msgctxt "Description"
 msgid "Passive visual notifications for the user."
-msgstr ""
-
-#: dataengines/places/plasma-dataengine-places.json
-msgctxt "Description"
-msgid "Places, as seen in the file manager and in file dialogs."
 msgstr ""
 
 #: dataengines/time/plasma-dataengine-time.json
@@ -1219,11 +1213,6 @@ msgstr ""
 #: dataengines/activities/plasma-dataengine-activities.json
 msgctxt "Authors Name"
 msgid "Chani Armitage"
-msgstr ""
-
-#: dataengines/places/plasma-dataengine-places.json
-msgctxt "Authors Name"
-msgid "Alex Merry"
 msgstr ""
 
 #: dataengines/time/plasma-dataengine-time.json
