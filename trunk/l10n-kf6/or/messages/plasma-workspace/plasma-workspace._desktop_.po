@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-01-01 00:47+0000\n"
+"POT-Creation-Date: 2025-01-09 00:47+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -345,6 +345,22 @@ msgstr ""
 msgctxt "Name"
 msgid "Run command on clipboard contents"
 msgstr ""
+
+#: libnotificationmanager/libnotificationmanager.notifyrc:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Notifications"
+msgctxt "Name"
+msgid "Notification Manager"
+msgstr "ବିଜ୍ଞପ୍ତି"
+
+#: libnotificationmanager/libnotificationmanager.notifyrc:9
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Used for warning notifications"
+msgctxt "Name"
+msgid "Summary for unread inhibited notifications"
+msgstr "ଚେତାବନୀ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ ପାଇଁ ବ୍ୟବହୃତ ହୋଇଥାଏ"
 
 #: login-sessions/plasmawayland.desktop.cmake:5
 #, fuzzy
@@ -1763,13 +1779,6 @@ msgstr ""
 #~ msgctxt "Comment"
 #~ msgid "The trash has been emptied"
 #~ msgstr "ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି ଅପରିବର୍ତ୍ତିତ ହୋଇଯାଇଛି"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Notifications"
-#~ msgctxt "Name"
-#~ msgid "Notification"
-#~ msgstr "ବିଜ୍ଞପ୍ତି"
 
 #, fuzzy
 #~| msgctxt "Name"
