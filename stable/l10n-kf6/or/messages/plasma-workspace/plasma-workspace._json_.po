@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-12-30 00:51+0000\n"
+"POT-Creation-Date: 2025-01-10 02:06+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -276,6 +276,11 @@ msgstr ""
 msgctxt "Name"
 msgid "Free Space Notifier"
 msgstr "KDED ସୁଦୂର ଆଧାର URL ସୂଚନା ଦାତା"
+
+#: geotimezoned/geotimezoned.json
+msgctxt "Name"
+msgid "Location-based System Time Zone"
+msgstr ""
 
 #: kcms/autostart/kcm_autostart.json
 msgctxt "Name"
@@ -818,6 +823,11 @@ msgstr ""
 #: freespacenotifier/freespacenotifier.json
 msgctxt "Description"
 msgid "Warns when running out of space on your home folder"
+msgstr ""
+
+#: geotimezoned/geotimezoned.json
+msgctxt "Description"
+msgid "Automatically change the system time zone based on the current location"
 msgstr ""
 
 #: kcms/autostart/kcm_autostart.json
