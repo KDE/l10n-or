@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-01-10 09:37+0000\n"
+"POT-Creation-Date: 2025-01-19 00:50+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -709,45 +709,6 @@ msgctxt "Description"
 msgid "Transfers application's menu to the desktop"
 msgstr ""
 
-#: containmentactions/applauncher/plasma-containmentactions-applauncher.json
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Application Launcher"
-msgctxt "Description"
-msgid "Simple application launcher"
-msgstr "ପ୍ରୟୋଗ ଆରମ୍ଭକର୍ତ୍ତା"
-
-#: containmentactions/contextmenu/plasma-containmentactions-contextmenu.json
-msgctxt "Description"
-msgid "The menu that normally shows on right-click"
-msgstr ""
-
-#: containmentactions/paste/plasma-containmentactions-paste.json
-msgctxt "Description"
-msgid "Creates a widget from the contents of the clipboard"
-msgstr ""
-
-#: containmentactions/switchactivity/plasma-containmentactions-switchactivity.json
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Switch between virtual desktops"
-msgctxt "Description"
-msgid "Switch to another activity"
-msgstr "ଆଭାସୀ ଡ଼େସ୍କଟପଗୁଡ଼ିକ ମଧ୍ଯରେ ଅଦଳ ବଦଳ କରନ୍ତୁ"
-
-#: containmentactions/switchdesktop/plasma-containmentactions-switchdesktop.json
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Switch between virtual desktops"
-msgctxt "Description"
-msgid "Switch to another virtual desktop"
-msgstr "ଆଭାସୀ ଡ଼େସ୍କଟପଗୁଡ଼ିକ ମଧ୍ଯରେ ଅଦଳ ବଦଳ କରନ୍ତୁ"
-
-#: containmentactions/switchwindow/plasma-containmentactions-switchwindow.json
-msgctxt "Description"
-msgid "Show a list of windows to switch to"
-msgstr ""
-
 #: dataengines/applicationjobs/plasma-dataengine-applicationjobs.json
 msgctxt "Description"
 msgid "Application job updates (via kuiserver)"
@@ -1186,16 +1147,6 @@ msgctxt "Authors Name"
 msgid "Aleix Pol Gonzalez"
 msgstr ""
 
-#: containmentactions/applauncher/plasma-containmentactions-applauncher.json
-#: containmentactions/contextmenu/plasma-containmentactions-contextmenu.json
-#: containmentactions/paste/plasma-containmentactions-paste.json
-#: containmentactions/switchactivity/plasma-containmentactions-switchactivity.json
-#: containmentactions/switchdesktop/plasma-containmentactions-switchdesktop.json
-#: containmentactions/switchwindow/plasma-containmentactions-switchwindow.json
-msgctxt "Authors Name"
-msgid "Chani"
-msgstr ""
-
 #: dataengines/time/plasma-dataengine-time.json
 msgctxt "Authors Name"
 msgid "Aaron Seigo"
@@ -1379,6 +1330,27 @@ msgstr ""
 msgctxt "X-KDE-Keywords"
 msgid "wallpaper,desktop"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Application Launcher"
+#~ msgctxt "Description"
+#~ msgid "Simple application launcher"
+#~ msgstr "ପ୍ରୟୋଗ ଆରମ୍ଭକର୍ତ୍ତା"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Switch between virtual desktops"
+#~ msgctxt "Description"
+#~ msgid "Switch to another activity"
+#~ msgstr "ଆଭାସୀ ଡ଼େସ୍କଟପଗୁଡ଼ିକ ମଧ୍ଯରେ ଅଦଳ ବଦଳ କରନ୍ତୁ"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Switch between virtual desktops"
+#~ msgctxt "Description"
+#~ msgid "Switch to another virtual desktop"
+#~ msgstr "ଆଭାସୀ ଡ଼େସ୍କଟପଗୁଡ଼ିକ ମଧ୍ଯରେ ଅଦଳ ବଦଳ କରନ୍ତୁ"
 
 #, fuzzy
 #~| msgctxt "Name"
