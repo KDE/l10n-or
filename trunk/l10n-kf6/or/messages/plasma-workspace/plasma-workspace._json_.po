@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-01-19 00:50+0000\n"
+"POT-Creation-Date: 2025-02-16 00:51+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -302,6 +302,14 @@ msgstr "ରଙ୍ଗ"
 msgctxt "Name"
 msgid "Colors"
 msgstr "ରଙ୍ଗ"
+
+#: kcms/componentchooser/kcm_componentchooser.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Terminal Applications"
+msgctxt "Name"
+msgid "Default Applications"
+msgstr "ଟର୍ମିନାଲ ପ୍ରୟୋଗଗୁଡ଼ିକ"
 
 #: kcms/cursortheme/kcm_cursortheme.json
 msgctxt "Name"
@@ -809,6 +817,14 @@ msgctxt "Description"
 msgid "Choose color scheme"
 msgstr ""
 
+#: kcms/componentchooser/kcm_componentchooser.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Applications"
+msgctxt "Description"
+msgid "Choose default Applications"
+msgstr "ପ୍ରୟୋଗଗୁଡ଼ିକ"
+
 #: kcms/cursortheme/kcm_cursortheme.json
 msgctxt "Description"
 msgid "Choose mouse cursor theme"
@@ -1224,6 +1240,14 @@ msgid ""
 "color,colour,scheme,contrast,Widget colors,Color Scheme,color style,color "
 "theme,tint,accent color,color scheme,dark mode,light mode,accent colour,"
 "accent,highlight,colour"
+msgstr ""
+
+#: kcms/componentchooser/kcm_componentchooser.json
+msgctxt "X-KDE-Keywords"
+msgid ""
+"default applications,default apps,components,component chooser,resources,web "
+"browser,browser,internet,file manager,dolphin,email,e-mail,email client,"
+"terminal,terminal emulator,konsole,defaults,open with,file association"
 msgstr ""
 
 #: kcms/cursortheme/kcm_cursortheme.json
@@ -1715,23 +1739,9 @@ msgstr ""
 #~ msgid "Internet"
 #~ msgstr "ଇଣ୍ଟରନେଟ"
 
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Terminal Applications"
-#~ msgctxt "Name"
-#~ msgid "Terminal Applications"
-#~ msgstr "ଟର୍ମିନାଲ ପ୍ରୟୋଗଗୁଡ଼ିକ"
-
 #~ msgctxt "Name"
 #~ msgid "KDE Menu"
 #~ msgstr "KDE ତାଲିକା"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Applications"
-#~ msgctxt "Name"
-#~ msgid "More Applications"
-#~ msgstr "ପ୍ରୟୋଗଗୁଡ଼ିକ"
 
 #~ msgctxt "Name"
 #~ msgid "Multimedia"
