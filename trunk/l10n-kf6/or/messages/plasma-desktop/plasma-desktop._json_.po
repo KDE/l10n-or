@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-02-16 00:51+0000\n"
+"POT-Creation-Date: 2025-04-04 00:51+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -586,6 +586,14 @@ msgstr ""
 msgctxt "Description"
 msgid "Spell Checker Dictionaries and Options"
 msgstr ""
+
+#: kcms/tablet/kcm_tablet.json
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure the spell checker"
+msgctxt "Description"
+msgid "Configure drawing tablets and pens"
+msgstr "ବନାନ ଯାଞ୍ଚକାରୀକୁ ସଂରଚନା କରନ୍ତୁ"
 
 #: kcms/touchpad/kcm_touchpad.json
 #, fuzzy
@@ -1465,13 +1473,6 @@ msgstr ""
 #~ msgctxt "Name"
 #~ msgid "Application Style"
 #~ msgstr "ପ୍ରୟୋଗ ଆରମ୍ଭକର୍ତ୍ତା"
-
-#, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Configure the spell checker"
-#~ msgctxt "Comment"
-#~ msgid "Configure application style and behavior"
-#~ msgstr "ବନାନ ଯାଞ୍ଚକାରୀକୁ ସଂରଚନା କରନ୍ତୁ"
 
 #, fuzzy
 #~| msgctxt "Name"
