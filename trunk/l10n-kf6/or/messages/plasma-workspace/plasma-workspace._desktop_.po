@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-04-20 00:47+0000\n"
+"POT-Creation-Date: 2025-06-27 00:49+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -23,15 +23,7 @@ msgstr ""
 "\n"
 "\n"
 
-#: applets/devicenotifier/openWithFileManager.desktop:7
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Open with Dolphin"
-msgctxt "Name"
-msgid "Open with File Manager"
-msgstr "ଡ଼ଲଫିନ ସହିତ ଖୋଲନ୍ତୁ"
-
-#: applets/devicenotifier/plugin/devicenotifications.notifyrc:2
+#: applets/devicenotifier/devicenotifications.notifyrc:2
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Notifications"
@@ -39,13 +31,21 @@ msgctxt "Name"
 msgid "Device Notifier"
 msgstr "ବିଜ୍ଞପ୍ତି"
 
-#: applets/devicenotifier/plugin/devicenotifications.notifyrc:84
+#: applets/devicenotifier/devicenotifications.notifyrc:84
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Notifications"
 msgctxt "Name"
 msgid "Device Status"
 msgstr "ବିଜ୍ଞପ୍ତି"
+
+#: applets/devicenotifier/openWithFileManager.desktop:7
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Open with Dolphin"
+msgctxt "Name"
+msgid "Open with File Manager"
+msgstr "ଡ଼ଲଫିନ ସହିତ ଖୋଲନ୍ତୁ"
 
 #: components/shellprivate/plasmoids.knsrc:2
 #, fuzzy
