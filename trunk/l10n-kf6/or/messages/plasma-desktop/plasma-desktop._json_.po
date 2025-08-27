@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-08-01 00:54+0000\n"
+"POT-Creation-Date: 2025-08-27 00:53+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -317,6 +317,14 @@ msgstr "ପୂର୍ବନିର୍ଦ୍ଧାରିତ ପ୍ରୟୋଗଗ�
 msgctxt "Name"
 msgid "Empty Panel"
 msgstr "ଫଳକ"
+
+#: runners/keys/plasma-runner-keys.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Global Keyboard Shortcuts"
+msgctxt "Name"
+msgid "Global Shortcuts"
+msgstr "ଜାଗତିକ କିବୋର୍ଡ଼ ସଂକ୍ଷିପ୍ତ ପଥ"
 
 #: runners/kwin/plasma-runner-kwin.json
 msgctxt "Name"
@@ -635,6 +643,11 @@ msgctxt "Description"
 msgid "Empty panel"
 msgstr "ଫଳକ"
 
+#: runners/keys/plasma-runner-keys.json
+msgctxt "Description"
+msgid "Find global shortcuts and perform their associated actions"
+msgstr ""
+
 #: runners/kwin/plasma-runner-kwin.json
 msgctxt "Description"
 msgid "Interact with the Plasma Compositor"
@@ -746,6 +759,11 @@ msgstr ""
 #: layout-templates/org.kde.plasma.desktop.emptyPanel/metadata.json
 msgctxt "Authors Name"
 msgid "David Edmundson"
+msgstr ""
+
+#: runners/keys/plasma-runner-keys.json
+msgctxt "Authors Name"
+msgid "Fushan Wen"
 msgstr ""
 
 #: runners/kwin/plasma-runner-kwin.json
