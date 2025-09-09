@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-08-25 00:49+0000\n"
+"POT-Creation-Date: 2025-09-09 01:13+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -33,7 +33,7 @@ msgctxt "Name"
 msgid "Execute action as root."
 msgstr ""
 
-#: src/kioworkers/file/kauth/file.actions:63
+#: src/kioworkers/file/kauth/file.actions:62
 msgctxt "Description"
 msgid "Root privileges are required to complete the action."
 msgstr ""
@@ -43,7 +43,7 @@ msgctxt "Name"
 msgid "Folder..."
 msgstr "ଫୋଲଡ଼ର..."
 
-#: src/new_file_templates/Directory.desktop:97
+#: src/new_file_templates/Directory.desktop:96
 msgctxt "Comment"
 msgid "Enter folder name:"
 msgstr "ଫୋଲଡ଼ର ନାମ ଭରଣ କରନ୍ତୁ:"
@@ -56,7 +56,7 @@ msgctxt "Name"
 msgid "Empty File..."
 msgstr "ପାଠ୍ୟ ଫାଇଲ..."
 
-#: src/new_file_templates/EmptyFile.desktop:59
+#: src/new_file_templates/EmptyFile.desktop:58
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Enter text filename:"
@@ -69,7 +69,7 @@ msgctxt "Name"
 msgid "HTML File..."
 msgstr "HTML ଫାଇଲ..."
 
-#: src/new_file_templates/HTMLFile.desktop:97
+#: src/new_file_templates/HTMLFile.desktop:96
 msgctxt "Comment"
 msgid "Enter HTML filename:"
 msgstr "HTML ପାଇଲ ନାମ ଭରଣ କରନ୍ତୁ:"
@@ -82,7 +82,7 @@ msgctxt "Name"
 msgid "Link to File or Directory..."
 msgstr "ପ୍ରୟୋଗକୁ ସଂଯୋଗ..."
 
-#: src/new_file_templates/linkPath.desktop:62
+#: src/new_file_templates/linkPath.desktop:61
 msgctxt "Comment"
 msgid "File or directory to link to:"
 msgstr ""
@@ -92,7 +92,7 @@ msgctxt "Name"
 msgid "Link to Application..."
 msgstr "ପ୍ରୟୋଗକୁ ସଂଯୋଗ..."
 
-#: src/new_file_templates/linkProgram.desktop:94
+#: src/new_file_templates/linkProgram.desktop:93
 msgctxt "Comment"
 msgid "New Link to Application"
 msgstr "ପ୍ରୟୋଗ ପାଇଁ ନୂତନ ସଂଯୋଗ"
@@ -102,7 +102,7 @@ msgctxt "Name"
 msgid "Link to Location (URL)..."
 msgstr "ସ୍ଥାନକୁ (URL) ସଂଯୋଗ..."
 
-#: src/new_file_templates/linkURL.desktop:96
+#: src/new_file_templates/linkURL.desktop:95
 msgctxt "Comment"
 msgid "URL location to link to:"
 msgstr ""
@@ -112,7 +112,7 @@ msgctxt "Name"
 msgid "Text File..."
 msgstr "ପାଠ୍ୟ ଫାଇଲ..."
 
-#: src/new_file_templates/TextFile.desktop:96
+#: src/new_file_templates/TextFile.desktop:95
 msgctxt "Comment"
 msgid "Enter text filename:"
 msgstr "ପାଠ୍ୟ ଫାଇଲ ନାମ ଭରଣ କରନ୍ତୁ:"
@@ -133,7 +133,7 @@ msgctxt "Name"
 msgid "7Digital"
 msgstr "ସାଂଖିକ ଘଡ଼ି"
 
-#: src/urifilters/ikws/searchproviders/7digital.desktop:85
+#: src/urifilters/ikws/searchproviders/7digital.desktop:84
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.iblist.com/search/search.php?item=\\\\{@}&submit=Search"
@@ -147,7 +147,7 @@ msgctxt "Name"
 msgid "Acronym Database"
 msgstr "ପୂନରାବର୍ତ୍ତି ତଥ୍ୟାବଳୀ"
 
-#: src/urifilters/ikws/searchproviders/acronym.desktop:98
+#: src/urifilters/ikws/searchproviders/acronym.desktop:97
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.dict.cc/?s=\\\\{@}"
@@ -163,7 +163,7 @@ msgctxt "Name"
 msgid "Amazon"
 msgstr "ଓମାନ"
 
-#: src/urifilters/ikws/searchproviders/amazon.desktop:84
+#: src/urifilters/ikws/searchproviders/amazon.desktop:83
 msgctxt "Query"
 msgid ""
 "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=aps&field-keywords="
@@ -175,7 +175,7 @@ msgctxt "Name"
 msgid "Amazon MP3"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/amazon_mp3.desktop:85
+#: src/urifilters/ikws/searchproviders/amazon_mp3.desktop:84
 msgctxt "Query"
 msgid ""
 "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=digital-music&field-"
@@ -187,7 +187,7 @@ msgctxt "Name"
 msgid "All Music Guide"
 msgstr "ସମସ୍ତ ସଙ୍ଗୀତ ପଥ ପ୍ରଦର୍ଶକ"
 
-#: src/urifilters/ikws/searchproviders/amg.desktop:97
+#: src/urifilters/ikws/searchproviders/amg.desktop:96
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -203,7 +203,7 @@ msgctxt "Name"
 msgid "Arch Linux Package Search"
 msgstr "Debian ପ୍ୟାକେଜ ସନ୍ଧାନ"
 
-#: src/urifilters/ikws/searchproviders/archpkg.desktop:67
+#: src/urifilters/ikws/searchproviders/archpkg.desktop:66
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.backports.org/package.php?search=\\\\{@}"
@@ -216,7 +216,7 @@ msgctxt "Name"
 msgid "ArchWiki"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/archwiki.desktop:63
+#: src/urifilters/ikws/searchproviders/archwiki.desktop:62
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.backports.org/package.php?search=\\\\{@}"
@@ -229,7 +229,7 @@ msgctxt "Name"
 msgid "Debian Backports Search"
 msgstr "Debian Backports ସନ୍ଧାନ"
 
-#: src/urifilters/ikws/searchproviders/backports.desktop:96
+#: src/urifilters/ikws/searchproviders/backports.desktop:95
 msgctxt "Query"
 msgid ""
 "https://packages.debian.org/search?suite=squeeze-"
@@ -241,7 +241,7 @@ msgctxt "Name"
 msgid "Baidu"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/baidu.desktop:84
+#: src/urifilters/ikws/searchproviders/baidu.desktop:83
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.dict.cc/?s=\\\\{@}"
@@ -254,7 +254,7 @@ msgctxt "Name"
 msgid "Beolingus Online Dictionary"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/beolingus.desktop:82
+#: src/urifilters/ikws/searchproviders/beolingus.desktop:81
 msgctxt "Query"
 msgid ""
 "https://dict.tu-chemnitz.de/dings.cgi?"
@@ -270,7 +270,7 @@ msgctxt "Name"
 msgid "Bing"
 msgstr "ବେନିନ"
 
-#: src/urifilters/ikws/searchproviders/bing.desktop:83
+#: src/urifilters/ikws/searchproviders/bing.desktop:82
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -283,7 +283,7 @@ msgctxt "Name"
 msgid "openSUSE Bugzilla"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/boo.desktop:51
+#: src/urifilters/ikws/searchproviders/boo.desktop:50
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://bugs.kde.org/show_bug.cgi?id=\\\\{@}"
@@ -299,7 +299,7 @@ msgctxt "Name"
 msgid "KDE Bugs"
 msgstr "KDE କାର୍ଯଦକ୍ଷତା"
 
-#: src/urifilters/ikws/searchproviders/bug.desktop:63
+#: src/urifilters/ikws/searchproviders/bug.desktop:62
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://bugs.kde.org/show_bug.cgi?id=\\\\{@}"
@@ -312,7 +312,7 @@ msgctxt "Name"
 msgid "QRZ.com Callsign Database"
 msgstr "QRZ.com Callsign ତଥ୍ୟାବଳୀ"
 
-#: src/urifilters/ikws/searchproviders/call.desktop:98
+#: src/urifilters/ikws/searchproviders/call.desktop:97
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.dict.cc/?s=\\\\{@}"
@@ -325,7 +325,7 @@ msgctxt "Name"
 msgid "Can I Use…"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/caniuse.desktop:38
+#: src/urifilters/ikws/searchproviders/caniuse.desktop:37
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://dict.leo.org/?search=\\\\{@}"
@@ -338,7 +338,7 @@ msgctxt "Name"
 msgid "CIA World Fact Book"
 msgstr "CIA ବିଶ୍ଵ ତଥ୍ଯ ବହି"
 
-#: src/urifilters/ikws/searchproviders/cia.desktop:96
+#: src/urifilters/ikws/searchproviders/cia.desktop:95
 msgctxt "Query"
 msgid ""
 "https://www.cia.gov/search?q=\\\\{@}"
@@ -351,7 +351,7 @@ msgctxt "Name"
 msgid "CiteSeer: Scientific Literature Digital Library"
 msgstr "CiteSeer: ବୈଜ୍ଞାନିକ ସାହିତ୍ଯ ସାଂଖିକ ଲାଇବ୍ରେରୀ"
 
-#: src/urifilters/ikws/searchproviders/citeseer.desktop:99
+#: src/urifilters/ikws/searchproviders/citeseer.desktop:98
 #, fuzzy
 #| msgctxt "Query"
 #| msgid ""
@@ -366,7 +366,7 @@ msgctxt "Name"
 msgid "Codeberg"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/codeberg.desktop:51
+#: src/urifilters/ikws/searchproviders/codeberg.desktop:50
 msgctxt "Query"
 msgid ""
 "https://codeberg.org/explore/repos?sort=recentupdate&language=&q=\\\\{@}"
@@ -378,7 +378,7 @@ msgctxt "Name"
 msgid "CPAN - Comprehensive Perl Archive Network"
 msgstr "CPAN - ବ୍ୟାପକ ପର୍ଲ ଅଭିଲେଖ ନେଟୱର୍କ"
 
-#: src/urifilters/ikws/searchproviders/cpan.desktop:99
+#: src/urifilters/ikws/searchproviders/cpan.desktop:98
 #, fuzzy
 #| msgctxt "Query"
 #| msgid ""
@@ -396,7 +396,7 @@ msgctxt "Name"
 msgid "CPlusPlus"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/cplusplus.desktop:62
+#: src/urifilters/ikws/searchproviders/cplusplus.desktop:61
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -412,7 +412,7 @@ msgctxt "Name"
 msgid "CPP Reference"
 msgstr "Python ସନ୍ଦର୍ଭ ସହାୟକ ପୁସ୍ତକ"
 
-#: src/urifilters/ikws/searchproviders/cppreference.desktop:61
+#: src/urifilters/ikws/searchproviders/cppreference.desktop:60
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://dx.doi.org/\\\\{@}"
@@ -425,7 +425,7 @@ msgctxt "Name"
 msgid "CTAN Catalog"
 msgstr "CTAN ତାଲିକା"
 
-#: src/urifilters/ikws/searchproviders/ctan_cat.desktop:99
+#: src/urifilters/ikws/searchproviders/ctan_cat.desktop:98
 msgctxt "Query"
 msgid ""
 "http://tug.ctan.org/cgi-bin/search.py?metadataSearch=\\\\{@}"
@@ -439,7 +439,7 @@ msgctxt "Name"
 msgid "CTAN - Comprehensive TeX Archive Network"
 msgstr "CTAN - ବ୍ୟାପକ TeX ଅଭିଲେଖ ନେଟୱର୍କ"
 
-#: src/urifilters/ikws/searchproviders/ctan.desktop:99
+#: src/urifilters/ikws/searchproviders/ctan.desktop:98
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://dict.leo.org/?search=\\\\{@}"
@@ -452,7 +452,7 @@ msgctxt "Name"
 msgid "Debian BTS Bug Search"
 msgstr "Debian BTS ତ୍ରୁଟି ସନ୍ଧାନ"
 
-#: src/urifilters/ikws/searchproviders/dbug.desktop:96
+#: src/urifilters/ikws/searchproviders/dbug.desktop:95
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://bugs.debian.org/\\\\{@}"
@@ -465,8 +465,8 @@ msgctxt "Name"
 msgid "dict.cc Translation: German to English"
 msgstr "dict.cc ଅନୁବାଦ: ଜର୍ମାନରୁ ଇଂରାଜୀ"
 
-#: src/urifilters/ikws/searchproviders/de2en.desktop:99
-#: src/urifilters/ikws/searchproviders/en2de.desktop:99
+#: src/urifilters/ikws/searchproviders/de2en.desktop:98
+#: src/urifilters/ikws/searchproviders/en2de.desktop:98
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.dict.cc/?s=\\\\{@}"
@@ -479,8 +479,8 @@ msgctxt "Name"
 msgid "LEO - Translate Between German and French"
 msgstr "LEO - ଜର୍ମାନ ଏବଂ ଫ୍ରେଞ୍ଚ ମଧ୍ଯରେ ଅନୁବାଦ କରନ୍ତୁ"
 
-#: src/urifilters/ikws/searchproviders/de2fr.desktop:98
-#: src/urifilters/ikws/searchproviders/fr2de.desktop:98
+#: src/urifilters/ikws/searchproviders/de2fr.desktop:97
+#: src/urifilters/ikws/searchproviders/fr2de.desktop:97
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://dict.leo.org/?lp=frde&search=\\\\{@}"
@@ -493,7 +493,7 @@ msgctxt "Name"
 msgid "Debian Package Search"
 msgstr "Debian ପ୍ୟାକେଜ ସନ୍ଧାନ"
 
-#: src/urifilters/ikws/searchproviders/deb.desktop:100
+#: src/urifilters/ikws/searchproviders/deb.desktop:99
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://packages.debian.org/\\\\{@}"
@@ -506,7 +506,7 @@ msgctxt "Name"
 msgid "DeepL"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/deepl.desktop:63
+#: src/urifilters/ikws/searchproviders/deepl.desktop:62
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.wordreference.com/it/translation.asp?enit=\\\\{@}"
@@ -519,7 +519,7 @@ msgctxt "Name"
 msgid "CNRTL/TILF French dictionary"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/dictfr.desktop:86
+#: src/urifilters/ikws/searchproviders/dictfr.desktop:85
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.dict.cc/?s=\\\\{@}"
@@ -532,7 +532,7 @@ msgctxt "Name"
 msgid "DocBook - The Definitive Guide"
 msgstr "DocBook - ବର୍ଣ୍ଣନାତ୍ମକ ମାର୍ଗ ଦର୍ଶକ"
 
-#: src/urifilters/ikws/searchproviders/docbook.desktop:101
+#: src/urifilters/ikws/searchproviders/docbook.desktop:100
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.docbook.org/tdg/en/html/\\\\{1}.html"
@@ -545,7 +545,7 @@ msgctxt "Name"
 msgid "Docker Hub"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/dockerhub.desktop:38
+#: src/urifilters/ikws/searchproviders/dockerhub.desktop:37
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -558,7 +558,7 @@ msgctxt "Name"
 msgid "Digital Object Identifier"
 msgstr "ସାଂଖିକ ବସ୍ତୁ ପରିଚାୟକ"
 
-#: src/urifilters/ikws/searchproviders/doi.desktop:98
+#: src/urifilters/ikws/searchproviders/doi.desktop:97
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://dx.doi.org/\\\\{@}"
@@ -571,7 +571,7 @@ msgctxt "Name"
 msgid "DuckDuckGo"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/duckduckgo.desktop:39
+#: src/urifilters/ikws/searchproviders/duckduckgo.desktop:38
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://dx.doi.org/\\\\{@}"
@@ -584,7 +584,7 @@ msgctxt "Name"
 msgid "Duck Duck Go Info"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/duckduckgo_info.desktop:83
+#: src/urifilters/ikws/searchproviders/duckduckgo_info.desktop:82
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://dx.doi.org/\\\\{@}"
@@ -597,7 +597,7 @@ msgctxt "Name"
 msgid "Duck Duck Go Shopping"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/duckduckgo_shopping.desktop:84
+#: src/urifilters/ikws/searchproviders/duckduckgo_shopping.desktop:83
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://dx.doi.org/\\\\{@}"
@@ -613,7 +613,7 @@ msgctxt "Name"
 msgid "Ecosia search engine"
 msgstr "ସନ୍ଧାନ ଯନ୍ତ୍ର"
 
-#: src/urifilters/ikws/searchproviders/ecosia.desktop:83
+#: src/urifilters/ikws/searchproviders/ecosia.desktop:82
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -631,7 +631,7 @@ msgctxt "Name"
 msgid "WordReference.com Translation: English to Spanish"
 msgstr "WordReference.com ଅନୁବାଦ: ଇଂରାଜୀରୁ ସ୍ପେନିସ"
 
-#: src/urifilters/ikws/searchproviders/en2es.desktop:99
+#: src/urifilters/ikws/searchproviders/en2es.desktop:98
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.wordreference.com/es/translation.asp?tranword=\\\\{@}"
@@ -644,7 +644,7 @@ msgctxt "Name"
 msgid "WordReference.com Translation: English to French"
 msgstr "WordReference.com ଅନୁବାଦ: ଇଂରାଜୀରୁ ଫ୍ରେଞ୍ଚ"
 
-#: src/urifilters/ikws/searchproviders/en2fr.desktop:99
+#: src/urifilters/ikws/searchproviders/en2fr.desktop:98
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.wordreference.com/fr/Translation.asp?enfr=\\\\{@}"
@@ -657,8 +657,8 @@ msgctxt "Name"
 msgid "WordReference.com Translation: English to Italian"
 msgstr "WordReference.com ଅନୁବାଦ: ଇଂରାଜୀରୁ ଇଟାଲିଆନ"
 
-#: src/urifilters/ikws/searchproviders/en2it.desktop:99
-#: src/urifilters/ikws/searchproviders/it2en.desktop:99
+#: src/urifilters/ikws/searchproviders/en2it.desktop:98
+#: src/urifilters/ikws/searchproviders/it2en.desktop:98
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.wordreference.com/it/translation.asp?enit=\\\\{@}"
@@ -671,7 +671,7 @@ msgctxt "Name"
 msgid "WordReference.com Translation: Spanish to English"
 msgstr "WordReference.com ଅନୁବାଦ: ସ୍ପେନିସରୁ ଇଂରାଜୀ"
 
-#: src/urifilters/ikws/searchproviders/es2en.desktop:99
+#: src/urifilters/ikws/searchproviders/es2en.desktop:98
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.wordreference.com/es/en/translation.asp?spen=\\\\{@}"
@@ -687,7 +687,7 @@ msgctxt "Name"
 msgid "Facebook"
 msgstr "ମୁଖଗୁଡ଼ିକ"
 
-#: src/urifilters/ikws/searchproviders/facebook.desktop:85
+#: src/urifilters/ikws/searchproviders/facebook.desktop:84
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -700,7 +700,7 @@ msgctxt "Name"
 msgid "Fedora Packages"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/fedora.desktop:37
+#: src/urifilters/ikws/searchproviders/fedora.desktop:36
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://directory.fsf.org/search/?query=\\\\{@}"
@@ -713,7 +713,7 @@ msgctxt "Name"
 msgid "Feedster"
 msgstr "Feedster"
 
-#: src/urifilters/ikws/searchproviders/feedster.desktop:101
+#: src/urifilters/ikws/searchproviders/feedster.desktop:100
 #, fuzzy
 #| msgctxt "Query"
 #| msgid ""
@@ -731,7 +731,7 @@ msgctxt "Name"
 msgid "Flatpak Documentation"
 msgstr "Qt3 ଅନଲାଇନ ଦଲିଲିକରଣ"
 
-#: src/urifilters/ikws/searchproviders/flatpak.desktop:62
+#: src/urifilters/ikws/searchproviders/flatpak.desktop:61
 msgctxt "Query"
 msgid ""
 "https://docs.flatpak.org/en/latest/search.html?q=\\\\{@}"
@@ -743,7 +743,7 @@ msgctxt "Name"
 msgid "Flickr Creative Commons"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/flickrcc.desktop:84
+#: src/urifilters/ikws/searchproviders/flickrcc.desktop:83
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -756,7 +756,7 @@ msgctxt "Name"
 msgid "Flickr"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/flickr.desktop:85
+#: src/urifilters/ikws/searchproviders/flickr.desktop:84
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -769,7 +769,7 @@ msgctxt "Name"
 msgid "Free On-Line Dictionary of Computing"
 msgstr "କମ୍ପୁଟରିକରଣ ପାଇଁ ମୁକ୍ତ ଅନଲାଇନ ଅଭିଧାନ"
 
-#: src/urifilters/ikws/searchproviders/foldoc.desktop:99
+#: src/urifilters/ikws/searchproviders/foldoc.desktop:98
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://dx.doi.org/\\\\{@}"
@@ -787,7 +787,7 @@ msgctxt "Name"
 msgid "WordReference.com Translation: French to English"
 msgstr "WordReference.com ଅନୁବାଦ: ଫ୍ରେଞ୍ଚରୁ ଇଂରାଜୀ"
 
-#: src/urifilters/ikws/searchproviders/fr2en.desktop:99
+#: src/urifilters/ikws/searchproviders/fr2en.desktop:98
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.wordreference.com/fr/Translation.asp?enfr=\\\\{@}"
@@ -803,7 +803,7 @@ msgctxt "Name"
 msgid "Freecode"
 msgstr "ଗ୍ରୀସ"
 
-#: src/urifilters/ikws/searchproviders/freecode.desktop:75
+#: src/urifilters/ikws/searchproviders/freecode.desktop:74
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -816,7 +816,7 @@ msgctxt "Name"
 msgid "FreeDB"
 msgstr "FreeDB"
 
-#: src/urifilters/ikws/searchproviders/freedb.desktop:101
+#: src/urifilters/ikws/searchproviders/freedb.desktop:100
 msgctxt "Query"
 msgid "http://www.freedb.org/freedb_search.php?words=\\\\{@}"
 msgstr "http://www.freedb.org/freedb_search.php?words=\\\\{@}"
@@ -826,7 +826,7 @@ msgctxt "Name"
 msgid "FSF/UNESCO Free Software Directory"
 msgstr "FSF/UNESCO ମୁକ୍ତ ସଫ୍ଟୱେର ଡ଼ିରେକ୍ଟରୀ"
 
-#: src/urifilters/ikws/searchproviders/fsd.desktop:98
+#: src/urifilters/ikws/searchproviders/fsd.desktop:97
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://directory.fsf.org/search/?query=\\\\{@}"
@@ -839,7 +839,7 @@ msgctxt "Name"
 msgid "GitHub"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/github.desktop:85
+#: src/urifilters/ikws/searchproviders/github.desktop:84
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -852,7 +852,7 @@ msgctxt "Name"
 msgid "GitLab"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/gitlab.desktop:66
+#: src/urifilters/ikws/searchproviders/gitlab.desktop:65
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://search.excite.com/search.gw?search=\\\\{@}"
@@ -865,7 +865,7 @@ msgctxt "Name"
 msgid "Google Advanced Search"
 msgstr "Google ଉନ୍ନତ ସନ୍ଧାନ"
 
-#: src/urifilters/ikws/searchproviders/google_advanced.desktop:102
+#: src/urifilters/ikws/searchproviders/google_advanced.desktop:101
 #, fuzzy
 #| msgctxt "Query"
 #| msgid ""
@@ -899,7 +899,7 @@ msgctxt "Name"
 msgid "Google Code"
 msgstr "Google ଚଳଚିତ୍ର"
 
-#: src/urifilters/ikws/searchproviders/google_code.desktop:84
+#: src/urifilters/ikws/searchproviders/google_code.desktop:83
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://froogle.google.com/froogle?q=\\\\{@}"
@@ -912,7 +912,7 @@ msgctxt "Name"
 msgid "Google"
 msgstr "Google"
 
-#: src/urifilters/ikws/searchproviders/google.desktop:105
+#: src/urifilters/ikws/searchproviders/google.desktop:104
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.google.com/search?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
@@ -925,7 +925,7 @@ msgctxt "Name"
 msgid "Google Groups"
 msgstr "Google Groups"
 
-#: src/urifilters/ikws/searchproviders/google_groups.desktop:103
+#: src/urifilters/ikws/searchproviders/google_groups.desktop:102
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://groups.google.com/groups?oi=djq&as_q=\\\\{@}"
@@ -938,7 +938,7 @@ msgctxt "Name"
 msgid "Google Image Search"
 msgstr "Google ପ୍ରତିଛବି ସନ୍ଧାନ"
 
-#: src/urifilters/ikws/searchproviders/google_images.desktop:103
+#: src/urifilters/ikws/searchproviders/google_images.desktop:102
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.google.com/search?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
@@ -951,7 +951,7 @@ msgctxt "Name"
 msgid "Google (I'm Feeling Lucky)"
 msgstr "Google (ଭାଗ୍ୟବାନ ମନେକରୁଅଛି)"
 
-#: src/urifilters/ikws/searchproviders/google_lucky.desktop:100
+#: src/urifilters/ikws/searchproviders/google_lucky.desktop:99
 #, fuzzy
 #| msgctxt "Query"
 #| msgid ""
@@ -973,7 +973,7 @@ msgctxt "Name"
 msgid "Google Maps"
 msgstr "Google Groups"
 
-#: src/urifilters/ikws/searchproviders/google_maps.desktop:84
+#: src/urifilters/ikws/searchproviders/google_maps.desktop:83
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://news.google.com/news?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
@@ -986,7 +986,7 @@ msgctxt "Name"
 msgid "Google Movies"
 msgstr "Google ଚଳଚିତ୍ର"
 
-#: src/urifilters/ikws/searchproviders/google_movie.desktop:103
+#: src/urifilters/ikws/searchproviders/google_movie.desktop:102
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.google.com/search?q=movie:\\\\{@}&ie=UTF-8&oe=UTF-8"
@@ -999,7 +999,7 @@ msgctxt "Name"
 msgid "Google News"
 msgstr "Google ଖବର"
 
-#: src/urifilters/ikws/searchproviders/google_news.desktop:103
+#: src/urifilters/ikws/searchproviders/google_news.desktop:102
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://news.google.com/news?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
@@ -1015,7 +1015,7 @@ msgctxt "Name"
 msgid "Google Shopping"
 msgstr "Google Groups"
 
-#: src/urifilters/ikws/searchproviders/google_shopping.desktop:75
+#: src/urifilters/ikws/searchproviders/google_shopping.desktop:74
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.google.com/search?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
@@ -1032,7 +1032,7 @@ msgctxt "Name"
 msgid "Great Dictionary of the Catalan Language (GRan Enciclopèdia Catalana)"
 msgstr "କାଟାଲାନ ଭାଷାର ସୁନାମଧନ୍ୟ ଅଭିଧାନ (GRan Enciclopèdia  Catalana)"
 
-#: src/urifilters/ikws/searchproviders/grec.desktop:68
+#: src/urifilters/ikws/searchproviders/grec.desktop:67
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.grec.net/cgibin/lexicx.pgm?GECART=\\\\{@}"
@@ -1045,7 +1045,7 @@ msgctxt "Name"
 msgid "HyperDictionary.com"
 msgstr "HyperDictionary.com"
 
-#: src/urifilters/ikws/searchproviders/hyperdictionary.desktop:101
+#: src/urifilters/ikws/searchproviders/hyperdictionary.desktop:100
 msgctxt "Query"
 msgid "http://www.hyperdictionary.com/search.aspx?define=\\\\{@}"
 msgstr "http://www.hyperdictionary.com/search.aspx?define=\\\\{@}"
@@ -1055,7 +1055,7 @@ msgctxt "Name"
 msgid "HyperDictionary.com Thesaurus"
 msgstr "HyperDictionary.com Thesaurus"
 
-#: src/urifilters/ikws/searchproviders/hyperdictionary_thesaurus.desktop:100
+#: src/urifilters/ikws/searchproviders/hyperdictionary_thesaurus.desktop:99
 msgctxt "Query"
 msgid "http://www.hyperdictionary.com/search.aspx?Dict=T&define=\\\\{@}"
 msgstr "http://www.hyperdictionary.com/search.aspx?Dict=T&define=\\\\{@}"
@@ -1065,7 +1065,7 @@ msgctxt "Name"
 msgid "Identi.ca Groups"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/identica_groups.desktop:84
+#: src/urifilters/ikws/searchproviders/identica_groups.desktop:83
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1078,7 +1078,7 @@ msgctxt "Name"
 msgid "Identi.ca Notices"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/identica_notices.desktop:84
+#: src/urifilters/ikws/searchproviders/identica_notices.desktop:83
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://freshmeat.net/search/?q=\\\\{@}"
@@ -1091,7 +1091,7 @@ msgctxt "Name"
 msgid "Identi.ca People"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/identica_people.desktop:84
+#: src/urifilters/ikws/searchproviders/identica_people.desktop:83
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1104,7 +1104,7 @@ msgctxt "Name"
 msgid "Internet Movie Database"
 msgstr "ଇଣ୍ଟରନେଟ ଚଳଚିତ୍ର ତଥ୍ୟାବଳୀ"
 
-#: src/urifilters/ikws/searchproviders/imdb.desktop:100
+#: src/urifilters/ikws/searchproviders/imdb.desktop:99
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://imdb.com/Find?\\\\{@}"
@@ -1120,7 +1120,7 @@ msgctxt "Name"
 msgid "KDE Invent"
 msgstr "KDE ତାଲିକା"
 
-#: src/urifilters/ikws/searchproviders/invent.desktop:62
+#: src/urifilters/ikws/searchproviders/invent.desktop:61
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://search.excite.com/search.gw?search=\\\\{@}"
@@ -1136,7 +1136,7 @@ msgctxt "Name"
 msgid "KDE Invent Issues"
 msgstr "KDE ତାଲିକା"
 
-#: src/urifilters/ikws/searchproviders/invent_issues.desktop:60
+#: src/urifilters/ikws/searchproviders/invent_issues.desktop:59
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://search.excite.com/search.gw?search=\\\\{@}"
@@ -1149,7 +1149,7 @@ msgctxt "Name"
 msgid "KDE Invent Merge Requests"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/invent_mr.desktop:59
+#: src/urifilters/ikws/searchproviders/invent_mr.desktop:58
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://search.excite.com/search.gw?search=\\\\{@}"
@@ -1162,7 +1162,7 @@ msgctxt "Name"
 msgid "KDE Invent Repositories"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/invent_repo.desktop:62
+#: src/urifilters/ikws/searchproviders/invent_repo.desktop:61
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://dict.leo.org/?search=\\\\{@}"
@@ -1183,7 +1183,7 @@ msgctxt "Name"
 msgid "Jamendo"
 msgstr "Jamin"
 
-#: src/urifilters/ikws/searchproviders/jamendo.desktop:86
+#: src/urifilters/ikws/searchproviders/jamendo.desktop:85
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1196,7 +1196,7 @@ msgctxt "Name"
 msgid "Ask Jeeves"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/jeeves.desktop:100
+#: src/urifilters/ikws/searchproviders/jeeves.desktop:99
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.dict.cc/?s=\\\\{@}"
@@ -1209,7 +1209,7 @@ msgctxt "Name"
 msgid "Plasma Add-Ons and Extensions"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/kde_apps.desktop:37
+#: src/urifilters/ikws/searchproviders/kde_apps.desktop:36
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://search.excite.com/search.gw?search=\\\\{@}"
@@ -1222,7 +1222,7 @@ msgctxt "Name"
 msgid "KDE API Documentation"
 msgstr "KDE API ଦଲିଲିକରଣ"
 
-#: src/urifilters/ikws/searchproviders/kde.desktop:102
+#: src/urifilters/ikws/searchproviders/kde.desktop:101
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://search.excite.com/search.gw?search=\\\\{@}"
@@ -1238,7 +1238,7 @@ msgctxt "Name"
 msgid "KDE Forums"
 msgstr "KDE କାର୍ଯଦକ୍ଷତା"
 
-#: src/urifilters/ikws/searchproviders/kde_forums.desktop:84
+#: src/urifilters/ikws/searchproviders/kde_forums.desktop:83
 msgctxt "Query"
 msgid ""
 "https://forum.kde.org/search.php?keywords=\\\\{@}"
@@ -1253,7 +1253,7 @@ msgctxt "Name"
 msgid "KDE Store"
 msgstr "KDE କାର୍ଯଦକ୍ଷତା"
 
-#: src/urifilters/ikws/searchproviders/kde_store.desktop:62
+#: src/urifilters/ikws/searchproviders/kde_store.desktop:61
 #, fuzzy
 #| msgctxt "Query"
 #| msgid ""
@@ -1270,7 +1270,7 @@ msgctxt "Name"
 msgid "KDE TechBase"
 msgstr "KDE ଖବରଗୁଡ଼ିକ"
 
-#: src/urifilters/ikws/searchproviders/kde_techbase.desktop:84
+#: src/urifilters/ikws/searchproviders/kde_techbase.desktop:83
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://en.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
@@ -1286,7 +1286,7 @@ msgctxt "Name"
 msgid "KDE UserBase"
 msgstr "KDE ଚାଳକ ସହାୟକ ପୁସ୍ତକ"
 
-#: src/urifilters/ikws/searchproviders/kde_userbase.desktop:84
+#: src/urifilters/ikws/searchproviders/kde_userbase.desktop:83
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://en.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
@@ -1302,7 +1302,7 @@ msgctxt "Name"
 msgid "KDE Reddit"
 msgstr "KDE ତାଲିକା"
 
-#: src/urifilters/ikws/searchproviders/kreddit.desktop:62
+#: src/urifilters/ikws/searchproviders/kreddit.desktop:61
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1318,7 +1318,7 @@ msgctxt "Name"
 msgid "Krita Manual"
 msgstr "ପ୍ଲାଜମା ସହାୟକ ପୁସ୍ତକ"
 
-#: src/urifilters/ikws/searchproviders/krita.desktop:62
+#: src/urifilters/ikws/searchproviders/krita.desktop:61
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1331,7 +1331,7 @@ msgctxt "Name"
 msgid "Learn CPP"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/learncpp.desktop:62
+#: src/urifilters/ikws/searchproviders/learncpp.desktop:61
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1344,7 +1344,7 @@ msgctxt "Name"
 msgid "LEO-Translate"
 msgstr "LEO-ଅନୁବାଦ"
 
-#: src/urifilters/ikws/searchproviders/leo.desktop:101
+#: src/urifilters/ikws/searchproviders/leo.desktop:100
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://dict.leo.org/?search=\\\\{@}"
@@ -1357,7 +1357,7 @@ msgctxt "Name"
 msgid "Linguee"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/linguee.desktop:62
+#: src/urifilters/ikws/searchproviders/linguee.desktop:61
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1373,7 +1373,7 @@ msgctxt "Name"
 msgid "Magnatune"
 msgstr "ଭାନୁତୁ"
 
-#: src/urifilters/ikws/searchproviders/magnatune.desktop:85
+#: src/urifilters/ikws/searchproviders/magnatune.desktop:84
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1389,7 +1389,7 @@ msgctxt "Name"
 msgid "Mozilla Developer Network (MDN)"
 msgstr "Microsoft ବିକାଶକାରୀ ନେଟୱର୍କ ସନ୍ଧାନ"
 
-#: src/urifilters/ikws/searchproviders/mdn.desktop:38
+#: src/urifilters/ikws/searchproviders/mdn.desktop:37
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1402,7 +1402,7 @@ msgctxt "Name"
 msgid "MetaCrawler"
 msgstr "MetaCrawler"
 
-#: src/urifilters/ikws/searchproviders/metacrawler.desktop:102
+#: src/urifilters/ikws/searchproviders/metacrawler.desktop:101
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1418,7 +1418,7 @@ msgctxt "Name"
 msgid "Microsoft C++ Documentation"
 msgstr "Qt3 ଅନଲାଇନ ଦଲିଲିକରଣ"
 
-#: src/urifilters/ikws/searchproviders/microsoft_cpp.desktop:61
+#: src/urifilters/ikws/searchproviders/microsoft_cpp.desktop:60
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://directory.fsf.org/search/?query=\\\\{@}"
@@ -1431,7 +1431,7 @@ msgctxt "Name"
 msgid "Microsoft Developer Network Search"
 msgstr "Microsoft ବିକାଶକାରୀ ନେଟୱର୍କ ସନ୍ଧାନ"
 
-#: src/urifilters/ikws/searchproviders/msdn.desktop:100
+#: src/urifilters/ikws/searchproviders/msdn.desktop:99
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://directory.fsf.org/search/?query=\\\\{@}"
@@ -1444,7 +1444,7 @@ msgctxt "Name"
 msgid "Multitran - Translate Between German and Russian"
 msgstr "Multitran - ଜର୍ମାନ ଏବଂ ରୁଷିଆନ ମଧ୍ଯରେ ଅନୁବାଦ କରେ"
 
-#: src/urifilters/ikws/searchproviders/multitran-deru.desktop:97
+#: src/urifilters/ikws/searchproviders/multitran-deru.desktop:96
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://multitran.ru/c/m.exe?l1=3&s=\\\\{@}"
@@ -1457,7 +1457,7 @@ msgctxt "Name"
 msgid "Multitran - Translate Between English and Russian"
 msgstr "Multitran - ଇରାଜୀ ଏବଂ ରୁସିଆନ ମଧ୍ଯରେ ଅନୁବାଦ କରନ୍ତୁ"
 
-#: src/urifilters/ikws/searchproviders/multitran-enru.desktop:97
+#: src/urifilters/ikws/searchproviders/multitran-enru.desktop:96
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://multitran.ru/c/m.exe?l1=1&l2=2&s=\\\\{@}"
@@ -1470,7 +1470,7 @@ msgctxt "Name"
 msgid "Multitran - Translate Between Spanish and Russian"
 msgstr "Multitran - ସ୍ପେନିସ ଏବଂ ରୁସିଆନ ମଧ୍ଯରେ ଅନୁବାଦ କରନ୍ତୁ"
 
-#: src/urifilters/ikws/searchproviders/multitran-esru.desktop:97
+#: src/urifilters/ikws/searchproviders/multitran-esru.desktop:96
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://multitran.ru/c/m.exe?l1=5&s=\\\\{@}"
@@ -1483,7 +1483,7 @@ msgctxt "Name"
 msgid "Multitran - Translate Between French and Russian"
 msgstr "Multitran - ଫ୍ରେଞ୍ଚ ଏବଂ ରୁସିଆନ ମଧ୍ଯରେ ଅନୁବାଦ କରନ୍ତୁ"
 
-#: src/urifilters/ikws/searchproviders/multitran-frru.desktop:97
+#: src/urifilters/ikws/searchproviders/multitran-frru.desktop:96
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://multitran.ru/c/m.exe?l1=4&s=\\\\{@}"
@@ -1496,7 +1496,7 @@ msgctxt "Name"
 msgid "Multitran - Translate Between Italian and Russian"
 msgstr "Multitran - ଇଟାଲିଆନ ଏବଂ ରୁସିଆନ ମଧ୍ଯରେ ଅନୁବାଦ କରନ୍ତୁ"
 
-#: src/urifilters/ikws/searchproviders/multitran-itru.desktop:97
+#: src/urifilters/ikws/searchproviders/multitran-itru.desktop:96
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://multitran.ru/c/m.exe?l1=23&s=\\\\{@}"
@@ -1509,7 +1509,7 @@ msgctxt "Name"
 msgid "Multitran - Translate Between Dutch and Russian"
 msgstr "Multitran - ଡ଼ଚ ଏବଂ ରୁସିଆନ ମଧ୍ଯରେ ଅନୁବାଦ କରନ୍ତୁ"
 
-#: src/urifilters/ikws/searchproviders/multitran-nlru.desktop:97
+#: src/urifilters/ikws/searchproviders/multitran-nlru.desktop:96
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://multitran.ru/c/m.exe?l1=24&s=\\\\{@}"
@@ -1522,7 +1522,7 @@ msgctxt "Name"
 msgid "Netcraft"
 msgstr "Netcraft"
 
-#: src/urifilters/ikws/searchproviders/netcraft.desktop:101
+#: src/urifilters/ikws/searchproviders/netcraft.desktop:100
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://uptime.netcraft.com/up/graph?site=\\\\{@}"
@@ -1535,7 +1535,7 @@ msgctxt "Name"
 msgid "Nix Packages"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/nixpkgs.desktop:38
+#: src/urifilters/ikws/searchproviders/nixpkgs.desktop:37
 msgctxt "Query"
 msgid ""
 "https://search.nixos.org/packages?sort=relevance&type=packages&query=\\\\{@}"
@@ -1546,7 +1546,7 @@ msgctxt "Name"
 msgid "Telephonebook Search Provider"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/nl-telephone.desktop:97
+#: src/urifilters/ikws/searchproviders/nl-telephone.desktop:96
 msgctxt "Query"
 msgid ""
 "https://www.detelefoongids.nl/\\\\{1}/\\\\{2}/10-1/?oWhat=\\\\{1}&oWhere=\\"
@@ -1558,7 +1558,7 @@ msgctxt "Name"
 msgid "Teletekst Search Provider"
 msgstr "Teletekst ସନ୍ଧାନ ପ୍ରଦାନକାରୀ"
 
-#: src/urifilters/ikws/searchproviders/nl-teletekst.desktop:99
+#: src/urifilters/ikws/searchproviders/nl-teletekst.desktop:98
 msgctxt "Query"
 msgid "https://nos.nl/teletekst#\\\\{@}"
 msgstr ""
@@ -1568,7 +1568,7 @@ msgctxt "Name"
 msgid "npm"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/npm.desktop:38
+#: src/urifilters/ikws/searchproviders/npm.desktop:37
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1584,7 +1584,7 @@ msgctxt "Name"
 msgid "openDesktop.org"
 msgstr "ଡ଼େସ୍କଟପ"
 
-#: src/urifilters/ikws/searchproviders/opendesktop.desktop:84
+#: src/urifilters/ikws/searchproviders/opendesktop.desktop:83
 #, fuzzy
 #| msgctxt "Query"
 #| msgid ""
@@ -1599,7 +1599,7 @@ msgctxt "Name"
 msgid "openSUSE Software"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/opensuse.desktop:61
+#: src/urifilters/ikws/searchproviders/opensuse.desktop:60
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1612,7 +1612,7 @@ msgctxt "Name"
 msgid "OpenPGP Key Search"
 msgstr "OpenPGP କି ସନ୍ଧାନ"
 
-#: src/urifilters/ikws/searchproviders/pgpkeys.desktop:99
+#: src/urifilters/ikws/searchproviders/pgpkeys.desktop:98
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://pgp.dtype.org:11371/pks/lookup?search=\\\\{@}&op=vindex"
@@ -1625,7 +1625,7 @@ msgctxt "Name"
 msgid "PHP Search"
 msgstr "PHP ସନ୍ଧାନ"
 
-#: src/urifilters/ikws/searchproviders/php.desktop:100
+#: src/urifilters/ikws/searchproviders/php.desktop:99
 #, fuzzy
 #| msgctxt "Query"
 #| msgid ""
@@ -1640,7 +1640,7 @@ msgctxt "Name"
 msgid "ProtonDB"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/protondb.desktop:62
+#: src/urifilters/ikws/searchproviders/protondb.desktop:61
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1653,7 +1653,7 @@ msgctxt "Name"
 msgid "PyPI"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/pypi.desktop:50
+#: src/urifilters/ikws/searchproviders/pypi.desktop:49
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://dict.leo.org/?search=\\\\{@}"
@@ -1666,7 +1666,7 @@ msgctxt "Name"
 msgid "Python Reference Manual"
 msgstr "Python ସନ୍ଦର୍ଭ ସହାୟକ ପୁସ୍ତକ"
 
-#: src/urifilters/ikws/searchproviders/python.desktop:101
+#: src/urifilters/ikws/searchproviders/python.desktop:100
 #, fuzzy
 #| msgctxt "Query"
 #| msgid ""
@@ -1688,7 +1688,7 @@ msgctxt "Name"
 msgid "Qt5 Online Documentation"
 msgstr "ନୂତନତମ Qt ଅନଲାଇନ ଦଲିଲିକରଣ"
 
-#: src/urifilters/ikws/searchproviders/qt5.desktop:62
+#: src/urifilters/ikws/searchproviders/qt5.desktop:61
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1704,7 +1704,7 @@ msgctxt "Name"
 msgid "Qt6 Online Documentation"
 msgstr "ନୂତନତମ Qt ଅନଲାଇନ ଦଲିଲିକରଣ"
 
-#: src/urifilters/ikws/searchproviders/qt6.desktop:62
+#: src/urifilters/ikws/searchproviders/qt6.desktop:61
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1717,7 +1717,7 @@ msgctxt "Name"
 msgid "Qwant"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant.desktop:71
+#: src/urifilters/ikws/searchproviders/qwant.desktop:70
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1733,7 +1733,7 @@ msgctxt "Name"
 msgid "Qwant Images"
 msgstr "ପ୍ରତିଛବିଗୁଡ଼ିକ"
 
-#: src/urifilters/ikws/searchproviders/qwant_images.desktop:70
+#: src/urifilters/ikws/searchproviders/qwant_images.desktop:69
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1746,7 +1746,7 @@ msgctxt "Name"
 msgid "Qwant News"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant_news.desktop:71
+#: src/urifilters/ikws/searchproviders/qwant_news.desktop:70
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1762,7 +1762,7 @@ msgctxt "Name"
 msgid "Qwant Shopping"
 msgstr "Google Groups"
 
-#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:70
+#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:69
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1775,7 +1775,7 @@ msgctxt "Name"
 msgid "Qwant Social"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant_social.desktop:71
+#: src/urifilters/ikws/searchproviders/qwant_social.desktop:70
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1788,7 +1788,7 @@ msgctxt "Name"
 msgid "Qwant Videos"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:70
+#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:69
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1801,7 +1801,7 @@ msgctxt "Name"
 msgid "Dictionary of the Spanish Academy (RAE)"
 msgstr "ସ୍ପେନିସ ଏକାଡ଼େମିର ଅଭିଧାନ (RAE)"
 
-#: src/urifilters/ikws/searchproviders/rae.desktop:101
+#: src/urifilters/ikws/searchproviders/rae.desktop:100
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.dict.cc/?s=\\\\{@}"
@@ -1817,7 +1817,7 @@ msgctxt "Name"
 msgid "Dictionary of the Galician Academy (RAG)"
 msgstr "ସ୍ପେନିସ ଏକାଡ଼େମିର ଅଭିଧାନ (RAE)"
 
-#: src/urifilters/ikws/searchproviders/rag.desktop:73
+#: src/urifilters/ikws/searchproviders/rag.desktop:72
 msgctxt "Query"
 msgid "https://academia.gal/dicionario/-/termo/busca/\\\\{@}"
 msgstr ""
@@ -1827,7 +1827,7 @@ msgctxt "Name"
 msgid "Reddit"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/reddit.desktop:61
+#: src/urifilters/ikws/searchproviders/reddit.desktop:60
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1840,7 +1840,7 @@ msgctxt "Name"
 msgid "IETF Requests for Comments"
 msgstr "IETF Requests for Comments"
 
-#: src/urifilters/ikws/searchproviders/rfc.desktop:96
+#: src/urifilters/ikws/searchproviders/rfc.desktop:95
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.ietf.org/rfc/rfc\\\\{@}.txt"
@@ -1853,7 +1853,7 @@ msgctxt "Name"
 msgid "RPM-Find"
 msgstr "RPM-Find"
 
-#: src/urifilters/ikws/searchproviders/rpmfind.desktop:101
+#: src/urifilters/ikws/searchproviders/rpmfind.desktop:100
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.rpmfind.net/linux/rpm2html/search.php?query=\\\\{@}"
@@ -1866,7 +1866,7 @@ msgctxt "Name"
 msgid "Ruby Application Archive"
 msgstr "Ruby ପ୍ରୟୋଗ ଅଭିଲେଖନ"
 
-#: src/urifilters/ikws/searchproviders/ruby_application_archive.desktop:101
+#: src/urifilters/ikws/searchproviders/ruby_application_archive.desktop:100
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.ruby-lang.org/en/raa-list.rhtml?name=\\\\{@}"
@@ -1882,7 +1882,7 @@ msgctxt "Name"
 msgid "Rust STD Documentation"
 msgstr "Qt3 ଅନଲାଇନ ଦଲିଲିକରଣ"
 
-#: src/urifilters/ikws/searchproviders/rust.desktop:60
+#: src/urifilters/ikws/searchproviders/rust.desktop:59
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.backports.org/package.php?search=\\\\{@}"
@@ -1898,7 +1898,7 @@ msgctxt "Name"
 msgid "Soundcloud"
 msgstr "ଧ୍ୱନୀ"
 
-#: src/urifilters/ikws/searchproviders/soundcloud.desktop:68
+#: src/urifilters/ikws/searchproviders/soundcloud.desktop:67
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1911,7 +1911,7 @@ msgctxt "Name"
 msgid "SourceForge"
 msgstr "SourceForge"
 
-#: src/urifilters/ikws/searchproviders/sourceforge.desktop:101
+#: src/urifilters/ikws/searchproviders/sourceforge.desktop:100
 #, fuzzy
 #| msgctxt "Query"
 #| msgid ""
@@ -1930,7 +1930,7 @@ msgctxt "Name"
 msgid "Technorati"
 msgstr "Technorati"
 
-#: src/urifilters/ikws/searchproviders/technorati.desktop:101
+#: src/urifilters/ikws/searchproviders/technorati.desktop:100
 #, fuzzy
 #| msgctxt "Query"
 #| msgid ""
@@ -1945,7 +1945,7 @@ msgctxt "Name"
 msgid "Technorati Tags"
 msgstr "Technorati Tags"
 
-#: src/urifilters/ikws/searchproviders/technoratitags.desktop:97
+#: src/urifilters/ikws/searchproviders/technoratitags.desktop:96
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://technorati.com/tag/\\\\{@}?sourceid=kde-search"
@@ -1958,7 +1958,7 @@ msgctxt "Name"
 msgid "Merriam-Webster Thesaurus"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/thesaurus.desktop:100
+#: src/urifilters/ikws/searchproviders/thesaurus.desktop:99
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -1971,7 +1971,7 @@ msgctxt "Name"
 msgid "TV Tome"
 msgstr "TV Tome"
 
-#: src/urifilters/ikws/searchproviders/tvtome.desktop:100
+#: src/urifilters/ikws/searchproviders/tvtome.desktop:99
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.tv.com/search.php?type=11&stype=all&qs=\\\\{@}&x=0&y=0"
@@ -1987,7 +1987,7 @@ msgctxt "Name"
 msgid "Ubuntu Package Search"
 msgstr "Debian ପ୍ୟାକେଜ ସନ୍ଧାନ"
 
-#: src/urifilters/ikws/searchproviders/ubuntu.desktop:62
+#: src/urifilters/ikws/searchproviders/ubuntu.desktop:61
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://packages.debian.org/\\\\{@}"
@@ -2003,7 +2003,7 @@ msgctxt "Name"
 msgid "Urban Dictionary"
 msgstr "ଅଭିଧାନ"
 
-#: src/urifilters/ikws/searchproviders/urbandictionary.desktop:83
+#: src/urifilters/ikws/searchproviders/urbandictionary.desktop:82
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.hyperdictionary.com/search.aspx?define=\\\\{@}"
@@ -2016,7 +2016,7 @@ msgctxt "Name"
 msgid "U.S. Patent Database"
 msgstr "U.S. ପ୍ରତ୍ୟକ୍ଷ ତଥ୍ୟାବଳୀ"
 
-#: src/urifilters/ikws/searchproviders/uspto.desktop:100
+#: src/urifilters/ikws/searchproviders/uspto.desktop:99
 msgctxt "Query"
 msgid ""
 "http://patft.uspto.gov/netacgi/nph-Parser?TERM1=\\\\{@}"
@@ -2033,7 +2033,7 @@ msgctxt "Name"
 msgid "Vimeo"
 msgstr "Vivisimo"
 
-#: src/urifilters/ikws/searchproviders/vimeo.desktop:85
+#: src/urifilters/ikws/searchproviders/vimeo.desktop:84
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://dict.leo.org/?search=\\\\{@}"
@@ -2046,7 +2046,7 @@ msgctxt "Name"
 msgid "Voila"
 msgstr "Voila"
 
-#: src/urifilters/ikws/searchproviders/voila.desktop:103
+#: src/urifilters/ikws/searchproviders/voila.desktop:102
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.voila.com/S/geek?an=1&kw=\\\\{@}&dt=*"
@@ -2059,7 +2059,7 @@ msgctxt "Name"
 msgid "Merriam-Webster Dictionary"
 msgstr "Merriam-Webster ଅଭିଧାନ"
 
-#: src/urifilters/ikws/searchproviders/webster.desktop:101
+#: src/urifilters/ikws/searchproviders/webster.desktop:100
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.dict.cc/?s=\\\\{@}"
@@ -2072,7 +2072,7 @@ msgctxt "Name"
 msgid "Wikia"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/wikia.desktop:84
+#: src/urifilters/ikws/searchproviders/wikia.desktop:83
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.iblist.com/search/search.php?item=\\\\{@}&submit=Search"
@@ -2087,7 +2087,7 @@ msgctxt "Name"
 msgid "Wikipedia"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/wikipedia.desktop:39
+#: src/urifilters/ikws/searchproviders/wikipedia.desktop:38
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://en.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
@@ -2100,7 +2100,7 @@ msgctxt "Name"
 msgid "Wiktionary - The Free Dictionary"
 msgstr "Wiktionary - ମୁକ୍ତ ଅଭିଧାନ"
 
-#: src/urifilters/ikws/searchproviders/wiktionary.desktop:100
+#: src/urifilters/ikws/searchproviders/wiktionary.desktop:99
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://en.wiktionary.org/wiki/Special:Search?search=\\\\{@}&go=Go"
@@ -2116,7 +2116,7 @@ msgctxt "Name"
 msgid "WineHQ Database"
 msgstr "ପୂନରାବର୍ତ୍ତି ତଥ୍ୟାବଳୀ"
 
-#: src/urifilters/ikws/searchproviders/wine.desktop:62
+#: src/urifilters/ikws/searchproviders/wine.desktop:61
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://info.alexa.com/search?q=\\\\{@}"
@@ -2129,7 +2129,7 @@ msgctxt "Name"
 msgid "Wolfram Alpha"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/wolfram_alpha.desktop:85
+#: src/urifilters/ikws/searchproviders/wolfram_alpha.desktop:84
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.wordreference.com/it/translation.asp?enit=\\\\{@}"
@@ -2142,7 +2142,7 @@ msgctxt "Name"
 msgid "WordReference.com English Dictionary"
 msgstr "WordReference.com ଇରାଜୀ ଅଭିଧାନ"
 
-#: src/urifilters/ikws/searchproviders/wordref.desktop:100
+#: src/urifilters/ikws/searchproviders/wordref.desktop:99
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.wordreference.com/english/definition.asp?en=\\\\{@}"
@@ -2155,7 +2155,7 @@ msgctxt "Name"
 msgid "Yahoo"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/yahoo.desktop:87
+#: src/urifilters/ikws/searchproviders/yahoo.desktop:86
 msgctxt "Query"
 msgid ""
 "https://search.yahoo.com/search?toggle=1&cop=mss&ei=UTF-8&fr=yfp-t-701&p=\\"
@@ -2170,7 +2170,7 @@ msgctxt "Name"
 msgid "Yahoo Images"
 msgstr "ପ୍ରତିଛବିଗୁଡ଼ିକ"
 
-#: src/urifilters/ikws/searchproviders/yahoo_image.desktop:85
+#: src/urifilters/ikws/searchproviders/yahoo_image.desktop:84
 msgctxt "Query"
 msgid ""
 "https://images.search.yahoo.com/search/images;_ylt=A0geuy0K6JZLsVkB4m1XNyoA?"
@@ -2182,7 +2182,7 @@ msgctxt "Name"
 msgid "Yahoo Local"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/yahoo_local.desktop:84
+#: src/urifilters/ikws/searchproviders/yahoo_local.desktop:83
 msgctxt "Query"
 msgid ""
 "https://local.yahoo.com/results?stx=\\\\{@}&ei=UTF-8&fr=yfp-t-701&fr2=tab-img"
@@ -2193,7 +2193,7 @@ msgctxt "Name"
 msgid "Yahoo Shopping"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/yahoo_shopping.desktop:84
+#: src/urifilters/ikws/searchproviders/yahoo_shopping.desktop:83
 msgctxt "Query"
 msgid ""
 "https://shopping.yahoo.com/search;_ylt=A0SO8ZgG65ZLyX8AsLX7w8QF;"
@@ -2206,7 +2206,7 @@ msgctxt "Name"
 msgid "Yahoo Video"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/yahoo_video.desktop:84
+#: src/urifilters/ikws/searchproviders/yahoo_video.desktop:83
 msgctxt "Query"
 msgid ""
 "https://video.search.yahoo.com/search/video;_ylt=A0WTb_3a6JZLSHwAK7.JzbkF?"
@@ -2221,7 +2221,7 @@ msgctxt "Name"
 msgid "Yandex"
 msgstr "ଅନୁକ୍ରମଣିକା"
 
-#: src/urifilters/ikws/searchproviders/yandex.desktop:60
+#: src/urifilters/ikws/searchproviders/yandex.desktop:59
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://dict.leo.org/?search=\\\\{@}"
@@ -2234,7 +2234,7 @@ msgctxt "Name"
 msgid "YouTube"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/youtube.desktop:85
+#: src/urifilters/ikws/searchproviders/youtube.desktop:84
 msgctxt "Query"
 msgid "https://www.youtube.com/results?search_query=\\\\{@}&search_type=&aq=f"
 msgstr ""
@@ -2252,7 +2252,7 @@ msgctxt "Name"
 msgid "C++ Worker (KF6)"
 msgstr ""
 
-#: templates/kioworker6/kioworker6.kdevtemplate:43
+#: templates/kioworker6/kioworker6.kdevtemplate:42
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr ""
