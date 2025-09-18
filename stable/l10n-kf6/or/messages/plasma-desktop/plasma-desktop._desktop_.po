@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-09-09 03:42+0000\n"
+"POT-Creation-Date: 2025-09-09 01:13+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -29,11 +29,16 @@ msgid "Emoji Selector"
 msgstr ""
 
 #: emojier/app/org.kde.plasma.emojier.desktop:54
+msgctxt "GenericName"
+msgid "Emoji Selector"
+msgstr ""
+
+#: emojier/app/org.kde.plasma.emojier.desktop:83
 msgctxt "Comment"
 msgid "Copy emojis to the clipboard"
 msgstr ""
 
-#: emojier/app/org.kde.plasma.emojier.desktop:96
+#: emojier/app/org.kde.plasma.emojier.desktop:125
 msgctxt "Keywords"
 msgid ""
 "characters;unicode;punctuation;letters;emoji;emoticon;symbols;smiley face;"
@@ -62,12 +67,12 @@ msgstr ""
 "ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି (ଯେପରିକି Shift କିମ୍ବା Ctrl) ସେମାନଙ୍କର ସ୍ଥିତି ପରିବର୍ତ୍ତନ କରିଅଛି ଏବଂ ବର୍ତ୍ତମାନ "
 "ସକ୍ରିୟ ଅଛି"
 
-#: kaccess/kaccess.notifyrc:262
+#: kaccess/kaccess.notifyrc:260
 msgctxt "Name"
 msgid "A modifier key has become inactive"
 msgstr "ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି ନିଷ୍କ୍ରିୟ ହୋଇଯାଇଛି"
 
-#: kaccess/kaccess.notifyrc:343
+#: kaccess/kaccess.notifyrc:341
 msgctxt "Comment"
 msgid ""
 "A modifier key (e.g. Shift or Ctrl) has changed its state and is now inactive"
@@ -75,12 +80,12 @@ msgstr ""
 "ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି (ଯେପରିକି Shift କିମ୍ବା Ctrl) ସେମାନଙ୍କର ସ୍ଥିତି ପରିବର୍ତ୍ତନ କରିଛନ୍ତି ଏବଂ "
 "ବର୍ତ୍ତମାନ ନିଷ୍କ୍ରିୟ ହୋଇଯାଇଛନ୍ତି"
 
-#: kaccess/kaccess.notifyrc:425
+#: kaccess/kaccess.notifyrc:421
 msgctxt "Name"
 msgid "A modifier key has been locked"
 msgstr "ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି ଅପରିବର୍ତ୍ତିତ ହୋଇଯାଇଛି"
 
-#: kaccess/kaccess.notifyrc:506
+#: kaccess/kaccess.notifyrc:502
 msgctxt "Comment"
 msgid ""
 "A modifier key (e.g. Shift or Ctrl) has been locked and is now active for "
@@ -89,12 +94,12 @@ msgstr ""
 "ଗୋଟିଏ ପରିବର୍ତ୍ତକ କି (ଯେପରିକି Shift କିମ୍ବା Ctrl) ଅପରିବର୍ତ୍ତିତ ହୋଇଯାଇଛି ଏବଂ ବର୍ତ୍ତମାନ ନିମ୍ନଲିଖିତ "
 "ସମସ୍ତ କି ଚାପ ପାଇଁ ସକ୍ରିୟ ହୋଇଛି"
 
-#: kaccess/kaccess.notifyrc:588
+#: kaccess/kaccess.notifyrc:582
 msgctxt "Name"
 msgid "A lock key has been activated"
 msgstr "ଗୋଟିଏ ଅପରିବର୍ତ୍ତନୀୟ କିକୁ ସକ୍ରିୟ କରାଯାଇଛି"
 
-#: kaccess/kaccess.notifyrc:669
+#: kaccess/kaccess.notifyrc:663
 msgctxt "Comment"
 msgid ""
 "A lock key (e.g. Caps Lock or Num Lock) has changed its state and is now "
@@ -103,12 +108,12 @@ msgstr ""
 "ଗୋଟିଏ ଅପରିବର୍ତ୍ତନୀୟ କି (ଯେପରିକି Caps Lock କିମ୍ବା Num Lock) ସେମାନଙ୍କର ସ୍ଥିତି ପରିବର୍ତ୍ତନ କରିଛନ୍ତି "
 "ଏବଂ ବର୍ତ୍ତମାନ ସକ୍ରିୟ ଅଛନ୍ତି"
 
-#: kaccess/kaccess.notifyrc:751
+#: kaccess/kaccess.notifyrc:743
 msgctxt "Name"
 msgid "A lock key has been deactivated"
 msgstr "ଗୋଟିଏ ଅପରିବର୍ତ୍ତନୀୟ କିକୁ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
 
-#: kaccess/kaccess.notifyrc:832
+#: kaccess/kaccess.notifyrc:824
 msgctxt "Comment"
 msgid ""
 "A lock key (e.g. Caps Lock or Num Lock) has changed its state and is now "
@@ -117,42 +122,42 @@ msgstr ""
 "ଗୋଟିଏ ଅପରିବର୍ତ୍ତନୀୟ କି (ଯେପରିକି Caps Lock କିମ୍ବା Num Lock) ସେମାନଙ୍କର ସ୍ଥିତି ପରିବର୍ତ୍ତନ କରିଛନ୍ତି "
 "ଏବଂ ବର୍ତ୍ତମାନ ନିଷ୍କ୍ରିୟ ଅଛି"
 
-#: kaccess/kaccess.notifyrc:915
+#: kaccess/kaccess.notifyrc:905
 msgctxt "Name"
 msgid "Sticky keys has been enabled or disabled"
 msgstr "Sticky କିଗୁଡ଼ିକୁ ସକ୍ରିୟ ଅଥବା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
 
-#: kaccess/kaccess.notifyrc:995
+#: kaccess/kaccess.notifyrc:985
 msgctxt "Comment"
 msgid "Sticky keys has been enabled or disabled"
 msgstr "Sticky କିଗୁଡ଼ିକୁ ସକ୍ରିୟ ଅଥବା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
 
-#: kaccess/kaccess.notifyrc:1080
+#: kaccess/kaccess.notifyrc:1069
 msgctxt "Name"
 msgid "Slow keys has been enabled or disabled"
 msgstr "Slow କିଗୁଡ଼ିକୁ ସକ୍ରିୟ ଅଥବା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
 
-#: kaccess/kaccess.notifyrc:1159
+#: kaccess/kaccess.notifyrc:1148
 msgctxt "Comment"
 msgid "Slow keys has been enabled or disabled"
 msgstr "Slow କିଗୁଡ଼ିକୁ ସକ୍ରିୟ ଅଥବା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
 
-#: kaccess/kaccess.notifyrc:1243
+#: kaccess/kaccess.notifyrc:1231
 msgctxt "Name"
 msgid "Bounce keys has been enabled or disabled"
 msgstr "Bounce କିଗୁଡ଼ିକୁ ସକ୍ରିୟ ଅଥବା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
 
-#: kaccess/kaccess.notifyrc:1321
+#: kaccess/kaccess.notifyrc:1309
 msgctxt "Comment"
 msgid "Bounce keys has been enabled or disabled"
 msgstr "Bounce କିଗୁଡ଼ିକୁ ସକ୍ରିୟ ଅଥବା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
 
-#: kaccess/kaccess.notifyrc:1404
+#: kaccess/kaccess.notifyrc:1390
 msgctxt "Name"
 msgid "Mouse keys has been enabled or disabled"
 msgstr "ମାଉସ କିଗୁଡ଼ିକୁ ସକ୍ରିୟ ଅଥବା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
 
-#: kaccess/kaccess.notifyrc:1484
+#: kaccess/kaccess.notifyrc:1470
 msgctxt "Comment"
 msgid "Mouse keys has been enabled or disabled"
 msgstr "ମାଉସ କିଗୁଡ଼ିକୁ ସକ୍ରିୟ ଅଥବା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି"
@@ -463,8 +468,8 @@ msgid "Touchpad"
 msgstr "ମାଉସ ବିନ୍ୟାସ"
 
 #: kcms/touchpad/org.kde.touchpadshortcuts.desktop:65
-#: kcms/touchpad/org.kde.touchpadshortcuts.desktop:102
-#: kcms/touchpad/org.kde.touchpadshortcuts.desktop:139
+#: kcms/touchpad/org.kde.touchpadshortcuts.desktop:103
+#: kcms/touchpad/org.kde.touchpadshortcuts.desktop:141
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Mouse settings"
