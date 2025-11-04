@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-09-09 01:13+0000\n"
+"POT-Creation-Date: 2025-11-04 00:49+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -42,6 +42,29 @@ msgstr ""
 msgctxt "Keywords"
 msgid "drkonqi;crash;coredumpd;bug;"
 msgstr ""
+
+#: src/coredump/launcher/drkonqi-coredump-launcher.notifyrc:5
+msgctxt "Comment"
+msgid "Crash Reporting System"
+msgstr ""
+
+#: src/coredump/launcher/drkonqi-coredump-launcher.notifyrc:6
+msgctxt "Name"
+msgid "Crash Reporting System"
+msgstr ""
+
+#: src/coredump/launcher/drkonqi-coredump-launcher.notifyrc:9
+msgctxt "Name"
+msgid "Crash"
+msgstr ""
+
+#: src/coredump/launcher/drkonqi-coredump-launcher.notifyrc:10
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Find applications, control panels and services"
+msgctxt "Comment"
+msgid "An application or background service crashed"
+msgstr "ପ୍ରୟୋଗ, ନିୟନ୍ତ୍ରଣ ପଟି ଏବଂ ସର୍ଭିସଗୁଡ଼ିକୁ ଖୋଜନ୍ତୁ"
 
 #: src/org.kde.drkonqi.desktop.cmake:5
 msgctxt "Name"
@@ -810,10 +833,6 @@ msgstr ""
 #~ msgctxt "Name"
 #~ msgid "Applications"
 #~ msgstr "ପ୍ରୟୋଗଗୁଡ଼ିକ"
-
-#~ msgctxt "Comment"
-#~ msgid "Find applications, control panels and services"
-#~ msgstr "ପ୍ରୟୋଗ, ନିୟନ୍ତ୍ରଣ ପଟି ଏବଂ ସର୍ଭିସଗୁଡ଼ିକୁ ଖୋଜନ୍ତୁ"
 
 #~ msgctxt "Name"
 #~ msgid "Desktop Sessions"
