@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-12-06 00:53+0000\n"
+"POT-Creation-Date: 2025-12-10 00:54+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -213,11 +213,6 @@ msgstr "ନିର୍ଦ୍ଦେଶଗୁଡ଼ିକୁ ଚଲାନ୍ତୁ"
 msgctxt "Name"
 msgid "Application Notifications"
 msgstr "ପ୍ରୟୋଗ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ"
-
-#: dataengines/time/plasma-dataengine-time.json
-msgctxt "Name"
-msgid "Date and Time"
-msgstr "ତାରିଖ ଏବଂ ସମୟ"
 
 #: devicenotifications/devicenotifications.json
 #, fuzzy
@@ -695,14 +690,6 @@ msgctxt "Description"
 msgid "Passive visual notifications for the user."
 msgstr ""
 
-#: dataengines/time/plasma-dataengine-time.json
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Date and time settings"
-msgctxt "Description"
-msgid "Date and time by timezone"
-msgstr "ତାରିଖ ଏବଂ ସମୟ ସଂରଚନା"
-
 #: devicenotifications/devicenotifications.json
 msgctxt "Description"
 msgid "Play audible feedback when devices are inserted or removed"
@@ -1089,11 +1076,6 @@ msgctxt "Authors Name"
 msgid "Aleix Pol Gonzalez"
 msgstr ""
 
-#: dataengines/time/plasma-dataengine-time.json
-msgctxt "Authors Name"
-msgid "Aaron Seigo"
-msgstr ""
-
 #: lookandfeel/org.kde.breezedark/metadata.json
 #: lookandfeel/org.kde.breeze/metadata.json
 #: lookandfeel/org.kde.breezetwilight/metadata.json
@@ -1280,6 +1262,17 @@ msgstr ""
 msgctxt "X-KDE-Keywords"
 msgid "wallpaper,desktop"
 msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Date and Time"
+#~ msgstr "ତାରିଖ ଏବଂ ସମୟ"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Date and time settings"
+#~ msgctxt "Description"
+#~ msgid "Date and time by timezone"
+#~ msgstr "ତାରିଖ ଏବଂ ସମୟ ସଂରଚନା"
 
 #, fuzzy
 #~| msgctxt "Comment"
