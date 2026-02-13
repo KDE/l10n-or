@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-02-11 00:52+0000\n"
+"POT-Creation-Date: 2026-02-13 00:52+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -22,6 +22,19 @@ msgstr ""
 "\n"
 "\n"
 "\n"
+
+#: src/helpers/dialoghelper/org.kde.kwin.dialoghelper.desktop.in:6
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Saint Helena"
+msgctxt "Name"
+msgid "KWin Dialog Helper"
+msgstr "ସେଣ୍ଟ ହେଲେନା"
+
+#: src/helpers/dialoghelper/org.kde.kwin.dialoghelper.desktop.in:7
+msgctxt "Comment"
+msgid "Provides feedback about user actions"
+msgstr ""
 
 #: src/helpers/killer/org.kde.kwin.killer.desktop.in:3
 msgctxt "Name"
@@ -476,10 +489,3 @@ msgstr ""
 #~ msgctxt "Comment"
 #~ msgid "Sliding animation for Plasma popups"
 #~ msgstr "ପ୍ଲାଜମଏଡ଼ ପାଇଁ ତନ୍ତ୍ର ସୂଚନା"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Saint Helena"
-#~ msgctxt "Name"
-#~ msgid "Snap Helper"
-#~ msgstr "ସେଣ୍ଟ ହେଲେନା"
