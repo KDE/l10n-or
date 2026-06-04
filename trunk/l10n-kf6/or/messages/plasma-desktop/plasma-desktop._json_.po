@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-06-03 01:26+0000\n"
+"POT-Creation-Date: 2026-06-04 00:55+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -181,14 +181,6 @@ msgstr ""
 msgctxt "Name"
 msgid "Keyboard"
 msgstr "କିବୋର୍ଡ଼"
-
-#: kcms/keyboard/kded_keyboard.json
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Keyboard Layout"
-msgctxt "Name"
-msgid "Keyboard Daemon"
-msgstr "କିବୋର୍ଡ଼ ବିନ୍ୟାସ"
 
 #: kcms/keys/kcm_keys.json
 #, fuzzy
@@ -510,11 +502,6 @@ msgstr "ତାରିଖ ଏବଂ ସମୟ ସଂରଚନା"
 msgctxt "Description"
 msgid "Keyboard Hardware and Layout"
 msgstr "କିବୋର୍ଡ଼ ବିନ୍ୟାସ"
-
-#: kcms/keyboard/kded_keyboard.json
-msgctxt "Description"
-msgid "Enables switching keyboard layout through shortcuts or system tray"
-msgstr ""
 
 #: kcms/keys/kcm_keys.json
 #, fuzzy
@@ -923,6 +910,13 @@ msgstr ""
 msgctxt "X-KDE-Keywords"
 msgid "Automount,Mount,Disk,Disks,Removable,Device,Devices,Automatic"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Keyboard Layout"
+#~ msgctxt "Name"
+#~ msgid "Keyboard Daemon"
+#~ msgstr "କିବୋର୍ଡ଼ ବିନ୍ୟାସ"
 
 #~ msgctxt "Name"
 #~ msgid "Default Applications"
