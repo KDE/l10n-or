@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-07-07 00:53+0000\n"
+"POT-Creation-Date: 2026-08-28 00:56+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -279,6 +279,11 @@ msgstr ""
 #: kcms/workspaceoptions/kcm_workspace.json
 msgctxt "Name"
 msgid "General Behavior"
+msgstr ""
+
+#: kded/screenreader/metadata.json
+msgctxt "Name"
+msgid "Screenreader"
 msgstr ""
 
 #: layout-templates/org.kde.plasma.desktop.appmenubar/metadata.json
@@ -594,6 +599,11 @@ msgstr "ମାଉସ ବିନ୍ୟାସ"
 msgctxt "Description"
 msgid "Configure general workspace behavior"
 msgstr "ବନାନ ଯାଞ୍ଚକାରୀକୁ ସଂରଚନା କରନ୍ତୁ"
+
+#: kded/screenreader/metadata.json
+msgctxt "Description"
+msgid "Manages Screenreader"
+msgstr ""
 
 #: layout-templates/org.kde.plasma.desktop.appmenubar/metadata.json
 msgctxt "Description"
