@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-08-28 00:56+0000\n"
+"POT-Creation-Date: 2026-09-03 00:54+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -30,6 +30,11 @@ msgstr ""
 msgctxt "Name"
 msgid "Activity Pager"
 msgstr "ସର୍ଭିସ ପରିଚାଳକ"
+
+#: applets/dwellclicker/metadata.json
+msgctxt "Name"
+msgid "Dwell Clicker"
+msgstr ""
 
 #: applets/icontasks/metadata.json
 #, fuzzy
@@ -360,6 +365,11 @@ msgctxt "Description"
 msgid "Switch between activities"
 msgstr "ଆଭାସୀ ଡ଼େସ୍କଟପଗୁଡ଼ିକ ମଧ୍ଯରେ ଅଦଳ ବଦଳ କରନ୍ତୁ"
 
+#: applets/dwellclicker/metadata.json
+msgctxt "Description"
+msgid "Automatically click when pointer remains still for a set amount of time"
+msgstr ""
+
 #: applets/icontasks/metadata.json
 msgctxt "Description"
 msgid "App bar displaying only icons"
@@ -667,6 +677,11 @@ msgstr "ପ୍ଲାଜମା ସହାୟକ ପୁସ୍ତକ"
 msgctxt "Authors Name"
 msgid "The Plasma Team"
 msgstr "ବ୍ୟକ୍ତିଗତ ଡ଼େସ୍କଟପ ପ୍ରସଙ୍ଗ ବସ୍ତୁଗୁଡ଼ିକୁ ଇଚ୍ଛାରୂପଣ କରୁଅଛି"
+
+#: applets/dwellclicker/metadata.json
+msgctxt "Authors Name"
+msgid "Sebastian Sauer"
+msgstr ""
 
 #: applets/icontasks/metadata.json applets/kicker/metadata.json
 #: applets/taskmanager/metadata.json applets/window-list/metadata.json
