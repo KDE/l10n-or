@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-02-11 00:55+0000\n"
+"POT-Creation-Date: 2026-08-12 00:57+0000\n"
 "PO-Revision-Date: 2009-01-07 16:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
 "Language-Team: Oriya <oriya-it@googlegroups.com>\n"
@@ -82,7 +82,7 @@ msgstr "ବ୍ୟାହାତ ସୂଚନା"
 
 #: kcms/kwinsupportinfo/kcm_kwinsupportinfo.json.in
 msgctxt "X-KDE-Keywords"
-msgid "dxdiag"
+msgid "dxdiag,kwin"
 msgstr ""
 
 #: kcms/memory/kcm_memory.json
@@ -126,6 +126,12 @@ msgstr ""
 #: kcms/usbview/kcmusb.json
 msgctxt "X-KDE-Keywords"
 msgid "USB,devices,viewer,control"
+msgstr ""
+
+#: kcms/vaapi/kcm_vaapi.json
+msgctxt "X-KDE-Keywords"
+msgid ""
+"VA-API,Encoding,Decoding,VideoCard,Hardware Acceleration,Graphics,vainfo"
 msgstr ""
 
 #: kcms/vulkan/kcm_vulkan.json
@@ -244,6 +250,11 @@ msgstr ""
 msgctxt "Name"
 msgid "USB Devices"
 msgstr "USB ଉପକରଣ"
+
+#: kcms/vaapi/kcm_vaapi.json
+msgctxt "Name"
+msgid "Video Acceleration (VA-API)"
+msgstr ""
 
 #: kcms/vulkan/kcm_vulkan.json
 msgctxt "Name"
@@ -397,6 +408,11 @@ msgstr ""
 msgctxt "Description"
 msgid "USB devices attached to this computer"
 msgstr "USB ଉପକରଣଗୁଡ଼ିକ ଏହି କମ୍ପୁଟର ସହିତ ସଂଲଗ୍ନ"
+
+#: kcms/vaapi/kcm_vaapi.json
+msgctxt "Description"
+msgid "Information about the Video Acceleration API (VA-API)"
+msgstr ""
 
 #: kcms/vulkan/kcm_vulkan.json
 #, fuzzy
